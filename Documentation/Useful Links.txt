@@ -1,0 +1,25 @@
+ggplot gallery:			http://www.r-graph-gallery.com/portfolio/ggplot2-package/
+visualization examples:		http://r4ds.had.co.nz/visualize.html
+visualization exmamples 2:	http://www.htmlwidgets.org/showcase_plotly.html
+Football Salaries:		http://sports.usatoday.com/ncaa/salaries/football/coach
+acquire stats from ncaa:	https://www.fangraphs.com/tht/research-notebook-acquiring-baseball-stats-from-the-ncaa-with-r/
+ncaa stats:			http://stats.ncaa.org/teams/history/MFB/463
+R Shiny tutorial:		http://shiny.rstudio.com/tutorial/
+MatPlotLib Tutorial:		http://matplotlib.org/faq/usage_faq.html#parts-of-a-figure
+DataQuest (Making Plots):	https://www.dataquest.io/blog/making-538-plots/
+DataQuest (SQL Fundamentals):	https://www.dataquest.io/course/sql-fundamentals
+
+
+ESPN Stats:			http://www.espn.com/college-football/statistics/teamratings/_/year/2005/
+Reddit CFB Play x Play:		https://www.reddit.com/r/CFBAnalysis/comments/6htfc6/play_by_play_data_dump_20012016/
+CFB Data JS Package:		https://www.npmjs.com/package/cfb-data
+
+Team Colors: 			https://teamcolorcodes.com/premier-league-color-codes/
+
+Betting Odds / Stats		http://www.drwagpicks.com/p/blog-page.html
+
+
+
+http://stats.ncaa.org/teams/history/MFB/8
+http://stats.ncaa.org/rankings?academic_year=2018&division=11.0&sport_code=MFB
+http://stats.ncaa.org/rankings/ranking_summary?academic_year=2018&division=11&org_id=522&ranking_period=41&sport_code=MFB

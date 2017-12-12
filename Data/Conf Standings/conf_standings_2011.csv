@@ -1,0 +1,121 @@
+Conference,Division,School,Conf W,Conf L,Conf PF,Conf PA,Over W,Over L,Over PF,Over PA,Home W,Home L,Away W,Away L,STRK,AP W,AP L,USA W,USA L,Year
+Atlantic Coast,Atlantic,Clemson,6,2,270,226,10,4,470,410,8,1,2,3,L1,3,2,3,2,2011
+Atlantic Coast,Atlantic,Wake Forest,5,3,220,227,6,7,338,356,4,4,2,3,L2,1,2,1,2,2011
+Atlantic Coast,Atlantic,Florida State,5,3,250,142,9,4,398,196,5,2,4,2,W2,0,2,0,2,2011
+Atlantic Coast,Atlantic,NC State,4,4,206,195,8,5,367,321,7,1,1,4,W3,1,2,1,2,2011
+Atlantic Coast,Atlantic,Boston College,3,5,139,195,4,8,218,282,2,4,2,4,-,0,3,0,3,2011
+Atlantic Coast,Atlantic,Maryland,1,7,190,288,2,10,277,411,2,5,0,5,-,0,3,0,3,2011
+Atlantic Coast,Coastal,Virginia Tech,7,1,222,146,11,3,391,247,5,2,6,1,L2,0,3,0,3,2011
+Atlantic Coast,Coastal,Virginia,5,3,159,183,8,5,302,310,4,3,4,2,L2,1,2,1,2,2011
+Atlantic Coast,Coastal,Georgia Tech,5,3,224,212,8,5,446,339,5,2,3,3,L2,1,2,1,2,2011
+Atlantic Coast,Coastal,Miami,3,5,219,190,6,6,318,241,4,3,2,3,-,0,3,0,3,2011
+Atlantic Coast,Coastal,North Carolina,3,5,225,223,7,6,364,323,6,2,1,4,L1,0,2,0,2,2011
+Atlantic Coast,Coastal,Duke,1,7,156,253,3,9,270,374,1,6,2,3,-,0,3,0,3,2011
+Big 12,,Oklahoma State,8,1,435,229,12,1,633,348,7,0,5,1,W2,4,0,4,0,2011
+Big 12,,Kansas State,7,2,322,303,10,3,413,363,6,1,4,2,L1,1,3,1,3,2011
+Big 12,,Baylor,6,3,368,349,10,3,589,484,9,0,1,3,W6,2,2,2,2,2011
+Big 12,,Oklahoma,6,3,351,240,10,3,514,287,6,1,4,2,W1,2,2,2,2,2011
+Big 12,,Missouri,5,4,270,239,8,5,427,306,5,1,3,4,W4,0,4,0,4,2011
+Big 12,,Texas,4,5,244,234,8,5,365,289,5,3,3,2,W1,0,4,1,4,2011
+Big 12,,Texas A&M;,4,5,354,281,7,6,508,366,4,3,3,3,W1,1,4,1,4,2011
+Big 12,,Iowa State,3,6,194,275,6,7,295,382,4,3,2,4,L3,1,3,1,3,2011
+Big 12,,Texas Tech,2,7,262,414,5,7,406,471,2,4,3,3,-,1,3,1,3,2011
+Big 12,,Kansas,0,9,157,393,2,10,268,525,2,5,0,5,-,0,4,0,4,2011
+Big East,,Cincinnati,5,2,177,157,10,3,433,264,5,1,5,2,W3,0,1,0,1,2011
+Big East,,West Virginia,5,2,217,202,10,3,489,348,5,2,5,1,W4,2,1,2,1,2011
+Big East,,Louisville,5,2,179,149,7,6,285,261,3,3,4,3,L1,1,1,1,1,2011
+Big East,,Rutgers,4,3,160,143,9,4,343,238,6,1,3,3,W1,1,1,1,1,2011
+Big East,,Pittsburgh,4,3,186,152,6,7,315,297,5,4,1,3,L1,0,2,0,2,2011
+Big East,,Connecticut,3,4,167,200,5,7,291,292,4,3,1,4,-,0,2,0,2,2011
+Big East,,South Florida,1,6,166,198,5,7,351,272,3,4,2,3,-,0,2,0,2,2011
+Big East,,Syracuse,1,6,146,197,5,7,290,342,4,3,1,4,-,1,2,1,1,2011
+Big Ten,East,Michigan State,7,1,232,141,11,3,434,257,7,1,4,2,W1,3,2,3,2,2011
+Big Ten,East,Michigan,6,2,282,155,11,2,433,226,8,0,3,2,W4,2,1,2,1,2011
+Big Ten,East,Nebraska,5,3,195,186,9,4,379,304,6,1,3,3,L1,1,3,1,3,2011
+Big Ten,East,Iowa,4,4,193,184,7,6,358,310,6,1,1,5,L2,1,3,1,3,2011
+Big Ten,East,Northwestern,3,5,246,262,6,7,376,360,3,4,3,3,L2,1,2,1,2,2011
+Big Ten,East,Minnesota,2,6,130,273,3,9,221,380,3,4,0,5,-,0,5,0,4,2011
+Big Ten,West,Wisconsin,6,2,344,148,11,3,618,266,7,0,4,3,L1,2,2,2,2,2011
+Big Ten,West,Penn State,6,2,137,138,9,4,251,218,5,3,4,1,L2,0,4,0,4,2011
+Big Ten,West,Purdue,4,4,195,231,7,6,350,349,6,2,1,4,W2,0,2,0,2,2011
+Big Ten,West,Ohio State,3,5,189,186,6,7,318,273,5,2,1,5,L4,1,3,1,3,2011
+Big Ten,West,Illinois,2,6,145,189,7,6,294,255,5,3,2,3,W1,0,2,0,2,2011
+Big Ten,West,Indiana,0,8,147,342,1,11,257,448,1,5,0,6,-,0,2,0,2,2011
+Conference USA,East,Southern Mississippi,6,2,279,164,12,2,516,291,7,0,5,2,W3,1,0,1,0,2011
+Conference USA,East,Marshall,5,3,217,241,7,6,284,372,5,1,2,5,W3,1,3,1,3,2011
+Conference USA,East,East Carolina,4,4,210,244,5,7,315,387,3,3,2,4,-,0,4,0,4,2011
+Conference USA,East,UAB,3,5,181,319,3,9,242,441,2,3,1,6,-,1,1,1,1,2011
+Conference USA,East,UCF,3,5,206,176,5,7,325,220,5,1,0,6,-,0,1,0,2,2011
+Conference USA,East,Memphis,1,7,120,271,2,10,195,421,1,5,1,5,-,0,1,0,1,2011
+Conference USA,West,Houston,8,0,455,160,13,1,690,314,6,1,7,0,W1,0,1,0,1,2011
+Conference USA,West,Tulsa,7,1,300,160,8,5,430,355,4,3,4,2,L2,0,4,0,5,2011
+Conference USA,West,SMU,5,3,197,184,8,5,336,300,5,1,3,4,W2,1,2,1,2,2011
+Conference USA,West,Rice,3,5,210,260,4,8,280,400,4,1,0,7,-,0,3,0,3,2011
+Conference USA,West,UTEP,2,6,217,261,5,7,319,364,3,3,2,4,-,0,2,0,2,2011
+Conference USA,West,Tulane,1,7,137,289,2,11,274,487,1,5,1,6,-,0,1,0,1,2011
+FBS Independents,,Navy,,-,--,--,5,7,356,347,3,3,2,4,-,0,2,0,2,2011
+FBS Independents,,BYU,,-,--,--,10,3,391,265,6,1,4,2,W4,0,1,0,1,2011
+FBS Independents,,Notre Dame,,-,--,--,8,5,380,269,5,3,3,2,L2,1,4,1,3,2011
+FBS Independents,,Army,,-,--,--,3,9,298,339,3,2,0,7,-,0,0,0,0,2011
+Mid-American,East,Ohio,6,2,239,192,10,4,427,310,5,1,5,3,W1,0,0,0,0,2011
+Mid-American,East,Temple,5,3,229,124,9,4,398,181,5,2,4,2,W4,0,0,0,0,2011
+Mid-American,East,Kent State,4,4,153,161,5,7,205,291,4,2,1,5,-,0,2,0,2,2011
+Mid-American,East,Bowling Green,3,5,191,235,5,7,318,346,2,4,3,3,-,0,1,0,1,2011
+Mid-American,East,Miami (OH),3,5,192,174,4,8,256,275,3,3,1,5,-,0,1,0,1,2011
+Mid-American,East,Buffalo,2,6,202,253,3,9,266,353,3,3,0,6,-,0,0,0,0,2011
+Mid-American,East,Akron,0,8,103,321,1,11,170,462,1,5,0,6,-,0,1,0,1,2011
+Mid-American,West,Northern Illinois,7,1,330,234,11,3,536,424,8,1,3,2,W9,0,1,0,1,2011
+Mid-American,West,Toledo,7,1,382,249,9,4,549,412,4,2,5,2,W4,0,1,0,1,2011
+Mid-American,West,Western Michigan,5,3,321,241,7,6,459,373,5,0,2,6,L1,0,1,0,1,2011
+Mid-American,West,Ball State,4,4,216,276,6,6,304,416,4,2,2,4,-,0,1,0,1,2011
+Mid-American,West,Eastern Michigan,4,4,191,211,6,6,255,292,5,1,1,5,-,0,1,0,1,2011
+Mid-American,West,Central Michigan,2,6,206,284,3,9,271,400,2,3,1,6,-,0,1,0,1,2011
+Mountain West,,TCU,7,0,288,107,11,2,531,279,6,1,5,1,W8,1,1,2,1,2011
+Mountain West,,Boise State,6,1,316,145,12,1,575,243,6,1,6,0,W4,1,1,1,1,2011
+Mountain West,,Wyoming,5,2,183,154,8,5,339,361,4,3,4,2,L1,0,3,0,3,2011
+Mountain West,,San Diego State,4,3,201,172,8,5,387,325,4,3,4,2,L1,0,3,0,3,2011
+Mountain West,,Air Force,3,4,221,176,7,6,454,369,4,4,3,2,L1,0,2,0,2,2011
+Mountain West,,Colorado State,1,6,127,230,3,9,257,375,1,5,2,4,-,0,2,0,2,2011
+Mountain West,,UNLV,1,6,127,277,2,10,207,485,2,3,0,7,-,0,3,0,3,2011
+Mountain West,,New Mexico,1,6,48,250,1,11,144,500,1,5,0,6,-,0,3,0,3,2011
+Pac-12,North,Oregon,8,1,399,209,12,2,645,345,8,1,4,1,W3,2,2,2,1,2011
+Pac-12,North,Stanford,8,1,394,213,11,2,561,285,6,1,5,1,L1,1,2,0,2,2011
+Pac-12,North,Washington,5,4,270,290,7,6,434,467,6,1,1,5,L1,0,5,0,4,2011
+Pac-12,North,California,4,5,223,227,7,6,368,314,5,1,2,5,L1,0,3,0,2,2011
+Pac-12,North,Oregon State,3,6,206,268,3,9,262,370,2,4,1,5,-,0,3,0,4,2011
+Pac-12,North,Washington State,2,7,211,311,4,8,358,381,3,3,1,5,-,0,2,0,2,2011
+Pac-12,South,USC,7,2,341,232,10,2,429,283,6,1,4,1,-,1,1,1,1,2011
+Pac-12,South,UCLA,5,4,197,266,6,8,323,439,5,2,1,6,L3,0,4,0,3,2011
+Pac-12,South,Arizona State,4,5,308,255,6,7,431,372,5,2,1,5,L5,1,2,0,2,2011
+Pac-12,South,Utah,4,5,188,202,8,5,325,263,4,3,4,2,W1,0,1,1,0,2011
+Pac-12,South,Colorado,2,7,162,354,3,10,257,475,2,4,1,6,-,0,3,0,2,2011
+Pac-12,South,Arizona,2,7,269,341,4,8,369,425,3,3,1,5,-,0,4,0,3,2011
+Southeastern,East,Georgia,7,1,234,145,10,4,448,288,5,3,5,1,L2,0,4,0,4,2011
+Southeastern,East,South Carolina,6,2,206,135,11,2,391,239,8,1,3,1,W4,3,1,3,1,2011
+Southeastern,East,Florida,3,5,166,191,7,6,331,264,6,3,1,3,W1,0,5,0,5,2011
+Southeastern,East,Vanderbilt,2,6,169,187,6,7,347,281,5,3,1,4,L1,0,5,0,5,2011
+Southeastern,East,Kentucky,2,6,94,242,5,7,190,296,4,3,1,4,-,0,3,0,3,2011
+Southeastern,East,Tennessee,1,7,92,222,5,7,244,271,5,3,0,4,-,1,5,1,5,2011
+Southeastern,West,LSU,8,0,280,67,13,1,500,158,8,1,5,0,L1,5,1,5,1,2011
+Southeastern,West,Alabama,7,1,271,67,12,1,453,106,6,1,6,0,W4,2,1,2,1,2011
+Southeastern,West,Arkansas,6,2,266,197,11,2,478,289,9,0,2,2,W1,2,2,2,2,2011
+Southeastern,West,Auburn,4,4,160,246,8,5,334,376,7,1,1,4,W1,1,5,1,5,2011
+Southeastern,West,Mississippi State,2,6,145,185,7,6,329,256,3,3,4,3,W2,0,5,0,5,2011
+Southeastern,West,Ole Miss,0,8,93,292,2,10,193,385,1,6,1,4,-,0,4,0,5,2011
+Sun Belt,,Arkansas State,8,0,280,146,10,3,422,270,6,0,4,3,L1,0,1,0,1,2011
+Sun Belt,,Western Kentucky,7,1,233,158,7,5,275,298,3,4,4,1,-,0,1,0,1,2011
+Sun Belt,,Louisiana,6,2,259,219,9,4,420,388,6,0,3,4,W1,0,1,0,1,2011
+Sun Belt,,Florida Intl,5,3,220,158,8,5,325,253,4,2,4,3,L1,0,0,0,0,2011
+Sun Belt,,North Texas,4,4,227,217,5,7,298,368,4,2,1,5,-,0,2,0,2,2011
+Sun Belt,,Louisiana Monroe,3,5,226,181,4,8,295,305,2,3,2,5,-,0,2,0,2,2011
+Sun Belt,,Troy,2,6,184,258,3,9,269,404,3,2,0,7,-,0,2,0,2,2011
+Sun Belt,,Middle Tennessee,1,7,184,310,2,10,267,441,1,5,1,5,-,0,0,0,0,2011
+Sun Belt,,Florida Atlantic,0,8,100,266,1,11,155,416,1,4,0,7,-,0,1,0,1,2011
+Western Athletic,,Louisiana Tech,6,1,221,141,8,5,391,301,3,3,5,2,L1,0,3,0,3,2011
+Western Athletic,,Utah State,5,2,201,199,7,6,437,363,4,3,3,3,L1,0,0,0,1,2011
+Western Athletic,,Nevada,5,2,245,162,7,6,412,327,5,1,2,5,L1,0,3,0,3,2011
+Western Athletic,,San Jose State,3,4,193,196,5,7,294,364,3,2,2,5,-,0,1,0,2,2011
+Western Athletic,,Fresno State,3,4,231,227,4,9,371,457,2,4,2,5,-,0,2,0,2,2011
+Western Athletic,,Hawai'i,3,4,212,203,6,7,409,378,4,3,2,4,-,0,0,0,1,2011
+Western Athletic,,New Mexico State,2,5,192,264,4,9,319,478,2,4,2,5,-,0,1,0,2,2011
+Western Athletic,,Idaho,1,6,150,253,2,10,243,399,1,5,1,5,-,0,0,0,1,2011

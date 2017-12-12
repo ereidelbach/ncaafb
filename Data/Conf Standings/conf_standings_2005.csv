@@ -1,0 +1,120 @@
+Conference,Division,School,Conf W,Conf L,Conf PF,Conf PA,Over W,Over L,Over PF,Over PA,Home W,Home L,Away W,Away L,STRK,AP W,AP L,USA W,USA L,Year
+Atlantic Coast,Atlantic,Florida State,5,3,219,180,8,5,376,286,6,2,2,3,L1,3,3,3,3,2005
+Atlantic Coast,Atlantic,Boston College,5,3,181,160,9,3,310,191,6,1,3,2,W3,1,2,1,2,2005
+Atlantic Coast,Atlantic,Clemson,4,4,222,161,8,4,316,211,4,2,4,2,W4,1,2,1,2,2005
+Atlantic Coast,Atlantic,NC State,3,5,136,182,7,5,249,212,5,3,2,2,W3,1,3,1,3,2005
+Atlantic Coast,Atlantic,Maryland,3,5,190,217,5,6,270,275,1,4,4,2,-,0,5,0,5,2005
+Atlantic Coast,Atlantic,Wake Forest,3,5,202,227,4,7,269,316,3,3,1,4,-,1,4,1,4,2005
+Atlantic Coast,Coastal,Virginia Tech,7,1,263,86,11,2,440,168,6,1,5,1,W1,3,2,3,2,2005
+Atlantic Coast,Coastal,Miami,6,2,238,118,9,3,325,171,5,1,4,2,L1,2,2,2,2,2005
+Atlantic Coast,Coastal,Georgia Tech,5,3,154,162,7,5,222,241,4,2,3,3,L2,3,2,3,2,2005
+Atlantic Coast,Coastal,North Carolina,4,4,148,188,5,6,198,288,4,2,1,4,-,1,4,1,4,2005
+Atlantic Coast,Coastal,Virginia,3,5,177,202,7,5,320,279,5,1,2,4,W1,1,3,1,3,2005
+Atlantic Coast,Coastal,Duke,0,8,95,342,1,10,177,408,1,5,0,5,-,0,4,0,4,2005
+Big 12,North,Colorado,5,3,219,167,7,6,305,307,5,3,2,3,L4,0,5,0,5,2005
+Big 12,North,Nebraska,4,4,201,208,8,4,296,252,6,2,2,2,W3,0,2,0,2,2005
+Big 12,North,Iowa State,4,4,232,158,7,5,339,230,5,2,2,3,L2,0,2,0,2,2005
+Big 12,North,Missouri,4,4,200,236,7,5,369,350,5,2,2,3,W1,1,1,1,1,2005
+Big 12,North,Kansas,3,5,127,210,7,5,269,264,6,1,1,4,W2,1,3,1,3,2005
+Big 12,North,Kansas State,2,6,179,258,5,6,289,305,4,2,1,4,-,0,3,0,3,2005
+Big 12,South,Texas,8,0,405,137,13,0,652,213,7,0,6,0,W13,4,0,4,0,2005
+Big 12,South,Texas Tech,6,2,264,182,9,3,473,226,7,0,2,3,L1,2,2,2,2,2005
+Big 12,South,Oklahoma,6,2,241,190,8,4,323,277,6,1,2,3,W2,2,4,2,4,2005
+Big 12,South,Texas A&M;,3,5,218,279,5,6,352,343,4,2,1,4,-,0,4,0,4,2005
+Big 12,South,Baylor,2,6,140,244,5,6,236,291,2,3,3,3,-,0,4,0,4,2005
+Big 12,South,Oklahoma State,1,7,164,321,4,7,222,344,3,3,1,4,-,1,2,1,2,2005
+Big East,,West Virginia,7,0,244,104,11,1,385,214,5,1,6,0,W8,2,1,2,1,2005
+Big East,,Louisville,5,2,273,175,9,3,521,285,6,0,3,3,L1,0,2,0,2,2005
+Big East,,Rutgers,4,3,188,199,7,5,344,307,4,3,3,2,L1,0,2,0,2,2005
+Big East,,South Florida,4,3,188,135,6,6,276,216,4,1,2,5,L3,1,3,1,3,2005
+Big East,,Pittsburgh,4,3,189,178,5,6,267,243,5,1,0,5,-,0,4,0,4,2005
+Big East,,Connecticut,2,5,115,170,5,6,272,211,4,2,1,4,-,0,2,0,2,2005
+Big East,,Cincinnati,2,5,117,230,4,7,192,345,3,2,1,5,-,0,3,0,3,2005
+Big East,,Syracuse,0,7,73,196,1,10,152,295,1,5,0,5,-,0,4,0,4,2005
+Big Ten,,Penn State,7,1,282,141,11,1,413,204,7,0,4,1,W5,3,0,3,0,2005
+Big Ten,,Ohio State,7,1,275,118,10,2,392,183,7,1,3,1,W7,1,2,1,2,2005
+Big Ten,,Wisconsin,5,3,246,228,10,3,446,309,5,1,5,2,W2,1,1,1,1,2005
+Big Ten,,Iowa,5,3,232,165,7,5,360,240,5,1,2,4,L1,1,2,1,2,2005
+Big Ten,,Michigan,5,3,219,178,7,5,345,244,4,3,3,2,L2,1,4,1,4,2005
+Big Ten,,Northwestern,5,3,253,254,7,5,388,407,4,2,3,3,L1,1,3,1,3,2005
+Big Ten,,Minnesota,4,4,255,273,7,5,429,348,4,3,3,2,L2,0,3,0,3,2005
+Big Ten,,Purdue,3,5,222,212,5,6,330,309,3,3,2,3,-,0,3,0,3,2005
+Big Ten,,Michigan State,2,6,237,247,5,6,372,316,3,3,2,3,-,1,2,1,2,2005
+Big Ten,,Indiana,1,7,155,303,4,7,248,361,3,3,1,4,-,0,2,0,2,2005
+Big Ten,,Illinois,0,8,94,351,2,9,187,435,2,4,0,5,-,0,4,0,4,2005
+Conference USA,East,UCF,7,1,245,204,8,5,373,373,4,2,4,3,L2,0,0,0,0,2005
+Conference USA,East,Memphis,5,3,207,201,7,5,326,276,4,2,3,3,W3,0,0,0,0,2005
+Conference USA,East,Southern Mississippi,5,3,238,182,7,5,355,272,3,2,4,3,W2,0,1,0,1,2005
+Conference USA,East,East Carolina,4,4,194,232,5,6,267,317,3,2,2,4,-,0,1,0,1,2005
+Conference USA,East,UAB,3,5,235,212,5,6,307,264,2,3,3,3,-,0,0,0,0,2005
+Conference USA,East,Marshall,3,5,135,199,4,7,204,285,3,3,1,4,-,0,1,0,1,2005
+Conference USA,West,Tulsa,6,2,276,180,9,4,430,305,4,2,5,2,W4,0,1,0,1,2005
+Conference USA,West,UTEP,5,3,269,236,8,4,382,311,5,2,3,2,L3,0,0,0,0,2005
+Conference USA,West,Houston,4,4,241,218,6,6,337,324,3,4,3,2,L1,0,1,0,1,2005
+Conference USA,West,SMU,4,4,177,176,5,6,229,280,3,3,2,3,-,1,0,1,0,2005
+Conference USA,West,Tulane,1,7,171,257,2,9,234,348,1,5,1,4,-,0,0,0,0,2005
+Conference USA,West,Rice,1,7,201,292,1,10,241,447,1,4,0,6,-,0,2,0,2,2005
+FBS Independents,,Notre Dame,,-,--,--,9,3,440,294,4,2,5,1,L1,0,2,0,2,2005
+FBS Independents,,Navy,,-,--,--,8,4,410,313,5,2,3,2,W3,0,1,0,1,2005
+FBS Independents,,Temple,,-,--,--,0,11,107,497,0,5,0,6,-,0,3,0,3,2005
+FBS Independents,,Army,,-,--,--,4,7,220,294,2,5,2,2,-,0,2,0,2,2005
+Mid-American,East,Akron,5,3,204,174,7,6,307,318,3,3,4,3,L1,0,0,0,0,2005
+Mid-American,East,Miami (OH),5,3,272,194,7,4,371,258,3,2,4,2,-,0,1,0,1,2005
+Mid-American,East,Bowling Green,5,3,240,193,6,5,371,304,2,3,4,2,-,0,1,0,1,2005
+Mid-American,East,Ohio,3,5,162,243,4,7,192,336,3,2,1,5,-,0,1,0,1,2005
+Mid-American,East,Buffalo,1,7,107,241,1,10,110,327,0,5,1,5,-,0,0,0,0,2005
+Mid-American,East,Kent State,0,8,102,236,1,10,180,331,1,4,0,6,-,0,0,0,0,2005
+Mid-American,West,Toledo,6,2,266,173,9,3,429,261,4,1,5,2,W2,0,0,0,0,2005
+Mid-American,West,Northern Illinois,6,2,263,169,7,5,389,274,4,2,3,3,-,0,0,0,0,2005
+Mid-American,West,Western Michigan,5,3,282,267,7,4,354,342,4,1,3,3,-,0,0,0,0,2005
+Mid-American,West,Central Michigan,5,3,230,190,6,5,260,260,2,3,4,2,-,0,1,0,1,2005
+Mid-American,West,Ball State,4,4,230,259,4,7,233,416,1,3,3,4,-,0,2,0,2,2005
+Mid-American,West,Eastern Michigan,3,5,183,202,4,7,240,295,2,3,2,4,-,0,0,0,0,2005
+Mountain West,,TCU,8,0,306,151,11,1,398,223,5,0,6,1,W10,1,0,1,0,2005
+Mountain West,,BYU,5,3,297,237,6,6,396,351,3,3,3,3,L2,0,4,0,4,2005
+Mountain West,,Colorado State,5,3,197,210,6,6,321,369,4,1,2,5,L1,0,1,0,1,2005
+Mountain West,,Utah,4,4,247,217,7,5,360,289,5,2,2,3,W2,0,1,0,1,2005
+Mountain West,,New Mexico,4,4,230,250,6,5,326,327,2,3,4,2,-,0,1,0,1,2005
+Mountain West,,San Diego State,4,4,206,184,5,7,323,325,3,3,2,4,-,0,3,0,3,2005
+Mountain West,,Air Force,3,5,262,278,4,7,330,349,3,3,1,4,-,0,1,0,1,2005
+Mountain West,,Wyoming,2,6,195,251,4,7,271,297,2,3,2,4,-,0,2,0,2,2005
+Mountain West,,UNLV,1,7,135,297,2,9,207,381,2,3,0,6,-,0,1,0,1,2005
+Pac-12,,USC,8,0,383,149,12,1,638,297,6,0,6,1,L1,4,1,4,1,2005
+Pac-12,,Oregon,7,1,278,189,10,2,414,278,5,1,5,1,L1,1,2,1,2,2005
+Pac-12,,UCLA,6,2,271,306,10,2,469,410,7,0,3,2,W1,2,1,2,1,2005
+Pac-12,,California,4,4,243,190,8,4,395,254,5,2,3,2,W2,0,3,0,3,2005
+Pac-12,,Arizona State,4,4,251,247,7,5,442,359,4,3,3,2,W2,0,4,0,4,2005
+Pac-12,,Stanford,4,4,180,241,5,6,269,337,1,5,4,1,-,0,5,0,5,2005
+Pac-12,,Oregon State,3,5,195,261,5,6,293,365,3,3,2,3,-,1,3,1,3,2005
+Pac-12,,Arizona,2,6,173,220,3,8,252,290,2,4,1,4,-,1,3,1,3,2005
+Pac-12,,Washington State,1,7,227,292,4,7,368,346,2,4,2,3,-,0,4,0,4,2005
+Pac-12,,Washington,1,7,169,275,2,9,237,337,1,5,1,4,-,0,5,0,5,2005
+Southeastern,East,Georgia,6,2,209,134,10,3,384,213,5,2,5,1,L1,1,3,1,3,2005
+Southeastern,East,Florida,5,3,205,178,9,3,343,226,8,0,1,3,W2,2,2,2,2,2005
+Southeastern,East,South Carolina,5,3,175,193,7,5,284,279,5,2,2,3,L2,1,4,1,4,2005
+Southeastern,East,Tennessee,3,5,147,138,5,6,205,205,3,3,2,3,-,1,4,1,4,2005
+Southeastern,East,Vanderbilt,3,5,223,271,5,6,299,321,2,4,3,2,-,0,3,0,3,2005
+Southeastern,East,Kentucky,2,6,160,277,3,8,239,375,2,4,1,4,-,0,4,0,4,2005
+Southeastern,West,LSU,7,1,214,114,11,2,383,185,6,2,5,0,W1,4,1,4,1,2005
+Southeastern,West,Auburn,7,1,262,122,9,3,386,186,6,2,3,1,L1,2,2,2,2,2005
+Southeastern,West,Alabama,6,2,159,87,10,2,263,128,7,1,3,1,W1,2,2,2,2,2005
+Southeastern,West,Arkansas,2,6,173,169,4,7,283,271,3,3,1,4,-,0,5,0,5,2005
+Southeastern,West,Mississippi State,1,7,78,211,3,8,153,259,2,4,1,4,-,0,5,0,5,2005
+Southeastern,West,Ole Miss,1,7,97,208,3,8,148,245,2,4,1,4,-,0,3,0,3,2005
+Sun Belt,,Louisiana,5,2,203,161,6,5,286,304,3,2,3,3,-,0,1,0,1,2005
+Sun Belt,,Louisiana Monroe,5,2,194,186,5,6,239,339,2,3,3,3,-,0,1,0,1,2005
+Sun Belt,,Arkansas State,5,2,182,163,6,6,294,303,5,2,1,4,L1,0,0,0,0,2005
+Sun Belt,,Florida Intl,3,4,172,191,5,6,257,323,3,1,2,5,-,0,1,0,1,2005
+Sun Belt,,Middle Tennessee,3,4,176,124,4,7,210,206,1,4,3,3,-,0,1,0,1,2005
+Sun Belt,,Troy,3,4,100,121,4,7,175,255,3,2,1,5,-,0,0,0,0,2005
+Sun Belt,,Florida Atlantic,2,5,109,179,2,9,148,339,1,4,1,5,-,0,1,0,1,2005
+Sun Belt,,North Texas,2,5,131,142,2,9,157,346,0,5,2,4,-,0,1,0,1,2005
+Western Athletic,,Boise State,7,1,339,178,9,4,469,317,6,0,3,4,L1,0,2,0,2,2005
+Western Athletic,,Nevada,7,1,297,224,9,3,410,383,5,1,4,2,W5,0,0,0,0,2005
+Western Athletic,,Fresno State,6,2,292,143,8,5,491,292,5,1,3,4,L4,0,2,0,2,2005
+Western Athletic,,Louisiana Tech,6,2,259,192,7,4,316,281,4,1,3,3,-,0,1,0,1,2005
+Western Athletic,,Hawai'i,4,4,264,244,5,7,368,428,3,4,2,3,-,0,2,0,2,2005
+Western Athletic,,San Jose State,2,6,173,241,3,8,248,357,3,2,0,6,-,0,0,0,0,2005
+Western Athletic,,Utah State,2,6,167,270,3,8,208,360,2,3,1,5,-,0,1,0,1,2005
+Western Athletic,,Idaho,2,6,180,313,2,9,243,419,1,3,1,6,-,0,0,0,0,2005
+Western Athletic,,New Mexico State,0,8,147,313,0,12,198,465,0,6,0,6,-,0,1,0,1,2005
