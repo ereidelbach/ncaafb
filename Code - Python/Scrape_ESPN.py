@@ -220,12 +220,12 @@ def poll_rankings(year=0):
             1.) A dictionary which contains the ranking for the specifc year. 
             Exact rankings that will be returned depend on the year requested:
                 - 2005 to 2006:
-                    * AP Poll, ESPN FPI Rankings
+                    * AP Poll
                 - 2007 to 2013:
-                    * AP Poll, BCS Rankings***, ESPN FPI Rankings
+                    * AP Poll, BCS Rankings***
                     *** BCS Rankings are only available beginning in week 9
                 - 2014 to PRESENT:
-                    * AP Poll, CFP Rankings***, ESPN FPI Rankings
+                    * AP Poll, CFP Rankings***
                     *** The CFP Rankings are only available beginning in week 10
                     
             2.) A CSV file for each year that is scraped containing all the data 
@@ -246,12 +246,17 @@ def poll_rankings(year=0):
     #   If the user did not enter or a number or entered 0, grab all years. 
     #   Otherwise, confirm the year that the user entered is available for 
     #   scraping and then only grab that year.
+    year = '2017'
     if str(year) == '0':
         pass
     elif str(year) in years_list:
         years_list = [str(year)]
     else:
         raise ValueError("Year entered is not in the range for ESPN's site.")
+
+    # We're only interested in the AP, BCS and College Football Playoff polls
+    #   so we'll make a list to compare to when extracting polls
+    desired_polls = {'AP Top 25':'AP', 'BCS Standings':'BCS', 'College Football Playoff Rankings':'CFP'}
 
     rankings_dict = {}
         
@@ -290,17 +295,20 @@ def poll_rankings(year=0):
     
         # Grab the rankings for every week of the year
         year_dict = {}
+        ap_df = pd.DataFrame()
+        bcs_df = pd.DataFrame()
+        cfp_df = pd.DataFrame()
         for week, link in week_links.iteritems():
             #year = 2017
             #week = 15
             #link = "http://www.espn.com/college-football/rankings/_/week/15/year/2017/seasontype/2"
             print("Grabbing Year " + str(year) + ", " + str(week))
             week_dict = {}
-            weekDF = pd.DataFrame()
             
             poll_type = []
             
-            # Grab Week Information for the specified year
+            # Grab Week Information for the specified year and determine what 
+            #   poll(s) are available for the week
             soup = site_to_soup(link)
             polls = soup.findAll('h2', class_='table-caption')
             for poll in polls:
@@ -310,34 +318,74 @@ def poll_rankings(year=0):
             for k in range(len(tables)):
                 rows = tables[k].findAll('tr')
                 
+                # For every poll in the week, grab the rankings
                 poll_list = []
-                for i in range(0,len(rows)):
-                    row_list = []
-                    # If the first row, pull out the column headings (i.e. poll columns)
-                    if i == 0:
-                        cols = rows[i].findAll('th')
-                        for th in cols:
-                            row_list.append(th.text)
-                    # If any other row, pull out the team's information
-                    else:
-                        cols = rows[i].findAll('td')
-                        for j in range(0, len(cols)):
-                            if j == 1:
-                                row_list.append(cols[j].findAll('span')[0].text)
-                            else:
-                                row_list.append(cols[j].text)
-                    
-                    # Ensure that ESPN doesn't add any unnecessary rows to the master list
-                    #   (i.e. rows of length 1)
-                    if len(row_list) > 2:
-                        poll_list.append(row_list)
+                for i in range(1,len(rows)):
+                    try:
+                        poll_list.append(rows[i].findAll('td')[1].findAll('span')[0].text)
+                    except:
+                        pass
+#                    row_list = []
+#                    # If the first row, pull out the column headings (i.e. poll columns)
+#                    if i == 0:
+#                        cols = rows[i].findAll('th')
+#                        for th in cols:
+#                            row_list.append(th.text)
+#                    # If any other row, pull out the team's information
+#                    else:
+#                        cols = rows[i].findAll('td')
+#                        for j in range(0, len(cols)):
+#                            if j == 1:
+#                                row_list.append(cols[j].findAll('span')[0].text)
+#                            else:
+#                                row_list.append(cols[j].text)
+#                    
+#                    # Ensure that ESPN doesn't add any unnecessary rows to the master list
+#                    #   (i.e. rows of length 1)
+#                    if len(row_list) > 2:
+#                        poll_list.append(row_list)
                 
-                #pollDF = pd.DataFrame(poll_list)
-                #csvFileName = str(year) + '_' + 
-                #pollDF.to_csv()
-                week_dict[poll_type[k]] = poll_list
+                if poll_type[k] in desired_polls.keys():
+                    week_dict[poll_type[k]] = poll_list
                 
             year_dict[week] = week_dict
+        
+            # Turn year dict into dataframes for each type of ranking
+            for week in year_dict:
+                # AP Rankings
+                try:
+                    if len(year_dict[week]['AP Top 25']) > 0:
+                        if len(ap_df) == 0:
+                            ap_df = pd.DataFrame(year_dict[week]['AP Top 25'])
+                            ap_df.columns = [week]
+                        else:
+                            ap_df[week] = year_dict[week]['AP Top 25']
+                except:
+                    pass
+                    
+                # BCS Rankings
+                try:
+                    if len(year_dict[week]['BCS Standings']) > 0:
+                        if len(bcs_df) == 0:
+                            bcs_df = pd.DataFrame(year_dict[week]['BCS Standings'])
+                            bcs_df.columns = [week]
+                        else:
+                            bcs_df[week] = year_dict[week]['BCS Standings']
+                except:
+                    pass
+                
+                # College Footbal Playoff Rankings
+                try:
+                    if len(year_dict[week]['College Football Playoff Rankings']) > 0:
+                        if len(ap_df) == 0:
+                            cfp_df = pd.DataFrame(year_dict[week]['College Football Playoff Rankings'])
+                            cfp_df.coluns = [week]
+                        else:
+                            cfp_df[week] = year_dict[week]['College Football Playoff Rankings']
+                except:
+                    pass
+            
+            # Reorder the rankings columns into a correct order
             
         rankings_dict[year] = year_dict
             
