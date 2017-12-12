@@ -1,5 +1,5 @@
 <center>
-![Project Logo](https://raw.githubusercontent.com/ereidelbach/Images/master/opensky_project2.png "Project Logo")</center>
+![Project Logo](https://github.com/ereidelbach/Images/blob/master/CFB%20Logo.png?raw=true "Project Logo")</center>
 
 ----
 
