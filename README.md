@@ -1,5 +1,4 @@
-<center>
-![Project Logo](https://github.com/ereidelbach/Images/blob/master/CFB%20Logo.png?raw=true)</center>
+![Project Logo](https://github.com/ereidelbach/Images/blob/master/CFB%20Logo.png?raw=true)
 
 ----
 
