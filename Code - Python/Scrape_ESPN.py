@@ -15,6 +15,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import os
+import re
 
 # 10 teams don't have team names (`list_orig`) that match the official NCAA stats page (`list_new`)
 list_orig = ["BYU","Florida Intl","Hawai'i","Louisiana","Louisiana Monroe",
@@ -25,6 +26,24 @@ list_new  = ["Brigham Young","Florida International","Hawaii","Louisiana-Lafayet
 
 ###############################################################################
 # Function Definitions
+
+# The following two functions are sourced from for human-sorting purposes:
+#   https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside
+def atof(text):
+    try:
+        retval = float(text)
+    except ValueError:
+        retval = text
+    return retval
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    float regex comes from https://stackoverflow.com/a/12643073/190597
+    '''
+    return [ atof(c) for c in re.split(r'[+-]?([0-9]+(?:[.][0-9]*)?|[.][0-9]+)', text) ]
 
 def site_to_soup(url):
     headers = {"User-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36"}
@@ -219,7 +238,7 @@ def poll_rankings(year=0):
         Output:
             1.) A dictionary which contains the ranking for the specifc year. 
             Exact rankings that will be returned depend on the year requested:
-                - 2005 to 2006:
+                - 2002 to 2006:
                     * AP Poll
                 - 2007 to 2013:
                     * AP Poll, BCS Rankings***
@@ -229,7 +248,7 @@ def poll_rankings(year=0):
                     *** The CFP Rankings are only available beginning in week 10
                     
             2.) A CSV file for each year that is scraped containing all the data 
-            in each dictionary.
+            in each dictionary and is then exported to the Data/Poll Rankings folder.
     '''
 
     # Scrape the main rankings page to establish links for specific weeks/years
@@ -246,7 +265,6 @@ def poll_rankings(year=0):
     #   If the user did not enter or a number or entered 0, grab all years. 
     #   Otherwise, confirm the year that the user entered is available for 
     #   scraping and then only grab that year.
-    year = '2017'
     if str(year) == '0':
         pass
     elif str(year) in years_list:
@@ -265,7 +283,6 @@ def poll_rankings(year=0):
         print("Processing Rankings for Year: " + str(year))    
     
         # Grab Week Information for the specified year
-        year = '2017'
         soup = site_to_soup("http://www.espn.com/college-football/rankings/_/week/1/year/" + str(year) + "/seasontype/2")
         
         # Determine what weeks are available for a given year
@@ -295,13 +312,10 @@ def poll_rankings(year=0):
     
         # Grab the rankings for every week of the year
         year_dict = {}
-        ap_df = pd.DataFrame()
-        bcs_df = pd.DataFrame()
-        cfp_df = pd.DataFrame()
+        ap_df = pd.DataFrame({'Ranking':range(1,26)})
+        bcs_df = pd.DataFrame({'Ranking':range(1,26)})
+        cfp_df = pd.DataFrame({'Ranking':range(1,26)})
         for week, link in week_links.iteritems():
-            #year = 2017
-            #week = 15
-            #link = "http://www.espn.com/college-football/rankings/_/week/15/year/2017/seasontype/2"
             print("Grabbing Year " + str(year) + ", " + str(week))
             week_dict = {}
             
@@ -355,52 +369,61 @@ def poll_rankings(year=0):
                 # AP Rankings
                 try:
                     if len(year_dict[week]['AP Top 25']) > 0:
-                        if len(ap_df) == 0:
-                            ap_df = pd.DataFrame(year_dict[week]['AP Top 25'])
-                            ap_df.columns = [week]
-                        else:
-                            ap_df[week] = year_dict[week]['AP Top 25']
+                        ap_df[week] = year_dict[week]['AP Top 25']
                 except:
                     pass
                     
                 # BCS Rankings
                 try:
                     if len(year_dict[week]['BCS Standings']) > 0:
-                        if len(bcs_df) == 0:
-                            bcs_df = pd.DataFrame(year_dict[week]['BCS Standings'])
-                            bcs_df.columns = [week]
-                        else:
-                            bcs_df[week] = year_dict[week]['BCS Standings']
+                        bcs_df[week] = year_dict[week]['BCS Standings']
                 except:
                     pass
                 
                 # College Footbal Playoff Rankings
                 try:
                     if len(year_dict[week]['College Football Playoff Rankings']) > 0:
-                        if len(ap_df) == 0:
-                            cfp_df = pd.DataFrame(year_dict[week]['College Football Playoff Rankings'])
-                            cfp_df.coluns = [week]
-                        else:
-                            cfp_df[week] = year_dict[week]['College Football Playoff Rankings']
+                        cfp_df[week] = year_dict[week]['College Football Playoff Rankings']
                 except:
                     pass
             
-            # Reorder the rankings columns into a correct order
+        # Reorder the rankings columns into a correct order then export a CSV
+        # Use Human-sorting to place the weeks in the correct order, move `Rankings`
+        #   to be the first column, and move `Final Rankings` to be the last column
+        
+        # AP
+        if len(ap_df.columns) > 1:
+            tmp_list = ap_df.columns.tolist()
+            tmp_list.sort(key = natural_keys)
+            tmp_list.insert(0, tmp_list.pop(tmp_list.index('Ranking')))
+            if 'Final Rankings' in tmp_list:
+                tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))
+            ap_df = ap_df[tmp_list]
+            ap_df.to_csv('Poll Rankings/' + str(year) + '_ap.csv')
+        
+        # BCS
+        if len(bcs_df.columns) > 1:
+            tmp_list = list(bcs_df.columns.values)
+            tmp_list.sort(key = natural_keys)
+            tmp_list.insert(0, tmp_list.pop(tmp_list.index('Ranking')))
+            if 'Final Rankings' in tmp_list:
+                tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))            
+            bcs_df = bcs_df[tmp_list]
+            bcs_df.to_csv('Poll Rankings/' + str(year) + '_bcs.csv')
+        
+        # CFP
+        if len(cfp_df.columns) > 1:
+            tmp_list = list(cfp_df.columns.values)
+            tmp_list.sort(key = natural_keys)
+            tmp_list.insert(0, tmp_list.pop(tmp_list.index('Ranking')))
+            if 'Final Rankings' in tmp_list:
+                tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))
+            cfp_df = cfp_df[tmp_list]
+            cfp_df.to_csv('Poll Rankings/' + str(year) + '_cfp.csv')
             
         rankings_dict[year] = year_dict
             
-    return rankings_dict
-
-# Go through each year of polling data
-#   Within each year, place the contents of all the polls in a collected data frame
-#   Columns will contain each week of polling data
-#   Rows will be the team's respective ranking in the poll
-#for year in tr.keys():   
-#    for week in tr[year].keys():
-#        for poll in tr[year][week].keys():
-#            if
-        
-    
+    return rankings_dict 
     
 
 ###############################################################################
@@ -410,11 +433,7 @@ def poll_rankings(year=0):
 os.chdir('/home/ejreidelbach/projects/CollegeFootball/Data')
 
 # Read in Conference Standings for all available years (and write them to CSV)
-ts = conf_standings()
+#ts = conf_standings()
 
 # Read in Poll Rankings for all available years (and write them to CSV)
-#tr = poll_rankings()
-
-# Write Poll Rankings to a CSV file
-#tr.to_csv('poll_rankings.csv', index=False)  
-
+tr = poll_rankings()
