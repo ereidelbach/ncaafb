@@ -399,7 +399,7 @@ def poll_rankings(year=0):
             if 'Final Rankings' in tmp_list:
                 tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))
             ap_df = ap_df[tmp_list]
-            ap_df.to_csv('Poll Rankings/' + str(year) + '_ap.csv')
+            ap_df.to_csv('Poll Rankings/' + str(year) + '_ap.csv', index=False)
         
         # BCS
         if len(bcs_df.columns) > 1:
@@ -409,7 +409,7 @@ def poll_rankings(year=0):
             if 'Final Rankings' in tmp_list:
                 tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))            
             bcs_df = bcs_df[tmp_list]
-            bcs_df.to_csv('Poll Rankings/' + str(year) + '_bcs.csv')
+            bcs_df.to_csv('Poll Rankings/' + str(year) + '_bcs.csv', index=False)
         
         # CFP
         if len(cfp_df.columns) > 1:
@@ -419,7 +419,7 @@ def poll_rankings(year=0):
             if 'Final Rankings' in tmp_list:
                 tmp_list.insert(len(tmp_list)-1, tmp_list.pop(tmp_list.index('Final Rankings')))
             cfp_df = cfp_df[tmp_list]
-            cfp_df.to_csv('Poll Rankings/' + str(year) + '_cfp.csv')
+            cfp_df.to_csv('Poll Rankings/' + str(year) + '_cfp.csv', index=False)
             
         rankings_dict[year] = year_dict
             
@@ -430,10 +430,10 @@ def poll_rankings(year=0):
 # Working Code
 
 # Set the project working directory
-os.chdir('/home/ejreidelbach/projects/CollegeFootball/Data')
+os.chdir(r"C:\MSA\Projects\ncaafb\Data")
 
 # Read in Conference Standings for all available years (and write them to CSV)
-#ts = conf_standings()
+ts = conf_standings()
 
 # Read in Poll Rankings for all available years (and write them to CSV)
 tr = poll_rankings()
