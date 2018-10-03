@@ -328,7 +328,7 @@ def all_years_coach(url, fname):
 # Working Code
     
 # Set the project working directory
-os.chdir('/home/ejreidelbach/projects/CollegeFootball/CSVs/Salary')
+os.chdir('/home/ejreidelbach/projects/CollegeFootball/Data/Salary')
 
 # Scrape information for all Universities
 team_info(url_usatoday[0])

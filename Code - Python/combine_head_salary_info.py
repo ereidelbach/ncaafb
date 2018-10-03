@@ -84,6 +84,12 @@ df.to_csv('Data/Salary/current_head_with_records.csv', index=False)
 
 # Plt the relationship between salaries and wins
 #sns.lmplot(x='Over W', y='Total Pay', data=df, col='Conference', palette='Set1')
+sns.barplot(y=df.groupby('Conf').sum()['Total Pay'],
+           x='Conf', data = df)
+fig, ax = plt.subplots()
+ax.ticklabel_format(style='plain')
+df.groupby('Conf').sum()['Total Pay'].plot.bar()
+
 
 # Plot the relationship between salaries and Points Allowed (Def. Coordinators)
 
