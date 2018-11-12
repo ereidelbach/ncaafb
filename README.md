@@ -6,9 +6,10 @@
 
 The overall goal of this project is to collect College Football data from a variety of sources including:
 
-ESPN
-USA Today
-The Official NCAA website
+CFB Stats  
+ESPN  
+USA Today  
+The Official NCAA website  
 
 The data should be continuously collected throughout a season (i.e. every week) and will be stored locally in CSV files in the DATA folder.
 
