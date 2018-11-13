@@ -71,6 +71,19 @@ def scrapeTeamNames():
         
     return dict_teams
 
+def directoryCheck(team_name):
+    '''
+    Purpose: Run a check of the /Data/CFBStats/ folder to see if a folder
+        exists for the specified team.  If it doesn't, create it.
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+    
+    Outpu:
+        - NONE
+    '''
+    pathlib.Path('Data/CFBStats/'+team_name).mkdir(parents=True, exist_ok=True)
+
 def scrapeTeamYears(team_url):
     '''
     Purpose: Given a team, scrape the URL for every year of statistics that is
@@ -100,19 +113,6 @@ def scrapeTeamYears(team_url):
     dict_years[team_url.split('/')[1].split('/')[0]] = team_url
     
     return dict_years
-
-def directoryCheck(team_name):
-    '''
-    Purpose: Run a check of the /Data/CFBStats/ folder to see if a folder
-        exists for the specified team.  If it doesn't, create it.
-        
-    Input:
-        - team_name (string): Name of the school being scraped
-    
-    Outpu:
-        - NONE
-    '''
-    pathlib.Path('Data/CFBStats/'+team_name).mkdir(parents=True, exist_ok=True)
 
 def scrapeTeamRecords(team_name, dict_years):
     '''
@@ -153,9 +153,9 @@ def scrapeTeamRecords(team_name, dict_years):
             if dict_year[split_name + ' (Losses)'] == '0': # Handle divide by 0
                 dict_year[split_name + ' (Win %)'] = 0  
             else:
-                dict_year[split_name + ' (Win %)'] = int(
+                dict_year[split_name + ' (Win %)'] = round(int(
                     dict_year[split_name + ' (Wins)']) / int(
-                            dict_year[split_name + ' (Losses)'])
+                            dict_year[split_name + ' (Losses)']), 2)
                 
             # Add year to master dictionary
             dict_records[year] = dict_year
@@ -164,7 +164,7 @@ def scrapeTeamRecords(team_name, dict_years):
     df_records = pd.DataFrame.from_dict(dict_records, orient='index')
     
     # Export the newly created Pandas DataFrame to a .csv
-    df_records.to_csv('Data/CFBStats/' + team_name + '/schedules.csv')
+    df_records.to_csv('Data/CFBStats/' + team_name + '/records.csv')
     
 def scrapeTeamSchedules(team_name, dict_years):
     '''
@@ -176,7 +176,7 @@ def scrapeTeamSchedules(team_name, dict_years):
             team statistics are recorded and the URL to those statistics
     
     Output:
-        - A .csv file containing the scraped information (Team_Schedule.csv)
+        - A .csv file containing the scraped information (schedules.csv)
     '''
     # Create the master dictionary for storing schedules for all seasons/years
     dict_schedules = {}
@@ -276,22 +276,207 @@ def scrapeTeamSchedules(team_name, dict_years):
     # Export the newly created Pandas DataFrame to a .csv
     df_schedules.to_csv('Data/CFBStats/' + team_name + '/schedules.csv')
 
+def scrapeTeamSplitStats(team_name, dict_years):
+    '''
+    Purpose: Scrape the split statistics for every available year for
+        every available statistical category
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+        - dict_years (dictionary): Dictionary containing every year for which
+            team statistics are recorded and the URL to those statistics
+    
+    Output:
+        - A .csv file containing the scraped information (CategorySplitStats.csv)
+    '''
+
+def scrapeTeamGameLogs(team_name, dict_years):
+    '''
+    Purpose: Scrape the statistical game logs for every available year for
+        every available statistical category
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+        - dict_years (dictionary): Dictionary containing every year for which
+            team statistics are recorded and the URL to those statistics
+    
+    Output:
+        - A .csv file containing the scraped information (CategoryLogs.csv)
+    '''
+
+def nameFirst(name):
+    '''
+    Purpose: Extract the first name from a player's name formatted as 
+        `Last Name, First Name`
+        first and last name variables (accounting for suffixes such as Jr./Sr.)
+    
+    Input:
+        - name (string): Player's name in the format `Last name, First name`
+    
+    Output:
+        - (string): The player's first name
+    '''
+    list_split_name = name.split(', ')   # split name on `, `
+    
+    if len(list_split_name) == 1:       # handle 1-word names
+        return('')
+    elif len(list_split_name) == 2:     # handle 2-word names
+        return(list_split_name[1])
+    else:                               # handle 3-word names
+        return(list_split_name[2])
+
+def nameLast(name):
+    '''
+    Purpose: Extract the last name from a player's name formatted as 
+        `Last Name, First Name` (accounting for suffixes such as Jr./Sr.)
+    
+    Input:
+        - name (string): Player's name in the format `Last name, First name`
+    
+    Output:
+        - (string): The player's last name (to include suffixes)
+    '''
+    list_split_name = name.split(', ')   # split name on `, `
+    
+    if len(list_split_name) == 1:       # handle 1-word names
+        return(name)
+    elif len(list_split_name) == 2:     # handle 2-word names
+        return(list_split_name[0])
+    else:                               # handle 3-word names
+        return(list_split_name[0] + ' ' + list_split_name[1])
+            
+def heightInches(height):
+    '''
+    Purpose: Convert a height variable formatted in `Feet - Inches` into
+        a variable of inches only (i.e. feet * 12 inches + inches)
+        
+    Input:
+        - height (string): Height of player formatted in `Feet - Inches`
+    
+    Output:
+        - (int): Height of player in total inches
+    '''        
+    if height == '-':
+        return(np.nan)
+    else:
+        heightFeet = int(height.split('-')[0])
+        heightInches = int(height.split('-')[1])
+        
+        return(heightFeet*12 + heightInches)
+
+def scrapeTeamRosters(team_name, dict_years):
+    '''
+    Purpose: Scrape the roster for every available year
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+        - dict_years (dictionary): Dictionary containing every year for which
+            team statistics are recorded and the URL to those statistics
+    
+    Output:
+        - A .csv file containing the scraped information (Rosters.csv)
+    '''
+    # Create the master dictionary for storing schedules for all seasons/years
+    df_rosters = pd.DataFrame()
+    
+    # Scrape each year contained in `dict_years`
+    for year, url in dict_years.items():
+
+        # Create the roster URL
+        url_roster = url.split('index.html')[0] + 'roster.html'
+        
+        # Retrieve the HTML data at the specified URL and add it to `dict_year`
+        soup = soupifyURL('http://www.cfbstats.com' + url_roster)
+        table_roster = soup.find('table', {'class':'team-roster'})    
+        
+        # Convert the roster into a pandas dataframe
+        df_year = pd.read_html(str(table_roster))[0]
+        
+        # Make the first row the column names, then remove the first row
+        df_year.columns = list(df_year.iloc[0])
+        df_year.drop(df_year.index[0], inplace=True)
+        
+        # Add a year column to track the season the roster is for
+        df_year['season'] = int(year)
+        
+        # Append the year DataFrame to the master DataFrame
+        df_rosters = df_rosters.append(df_year)
+        
+    # Create a First Name Variable
+    df_rosters['name_first'] = df_rosters['Name'].apply(lambda x: nameFirst(x))
+
+    # Create a Last Name Variable
+    df_rosters['name_last'] = df_rosters['Name'].apply(lambda x: nameLast(x))
+            
+    # Create a Height (Inches) Variable
+    df_rosters['height_inches'] = df_rosters['Ht'].apply(lambda x: heightInches(x))
+    
+    # Create a Hometown (City) Variable
+    df_rosters['city'] = df_rosters['Hometown'].apply(lambda x: x.split(', ')[0])
+    
+    # Create a Hometown (State) Variable
+    def toState(hometown):
+        if hometown == '-':
+            return hometown
+        elif len(hometown.split(', ')) == 1:
+            return hometown
+        else:
+            return(hometown.split(', ')[1])                
+    df_rosters['state'] = df_rosters['Hometown'].apply(lambda x: toState(x))
+
+    
+    # Remove unnecessary columns, rename columns, and reorder columns
+    df_rosters.drop(['Name', 'Hometown'], axis = 1, inplace=True)
+    df_rosters.rename(columns = {'No':'number', 'Pos':'position', 'Yr':'year',
+                                 'Ht':'height', 'Wt':'weight', 
+                                 'Last School':'prev_school'}, inplace=True)
+    df_rosters = df_rosters[['season', 'name_last', 'name_first', 'number', 
+                             'position', 'year', 'height', 'height_inches', 
+                             'weight', 'city', 'state',
+                             'prev_school']]
+    
+    # Reformat the weight column to a numeric value
+    df_rosters['weight'] = df_rosters['weight'].apply(
+            lambda x: int(x) if x != '-' else np.nan)
+
+    # Export the newly created Pandas DataFrame to a .csv
+    df_rosters.to_csv('Data/CFBStats/' + team_name + '/rosters.csv', index=False)
+
 def scrapeTeamStats(team_name, team_url):
     '''
-    Purpose: Scrape all the statistical information for a college team
-        on CFBStats.com and export it to a series of .csv files
+    Purpose: Direct the scraping all the statistical information for all
+        college teams on CFBStats.com
         
     Input:
         - team_name (string): Name of the school being scraped
         - team_url (string): URL of the school's page on CFBStats.com
     
     Output:
-        - xxx
+        - None
     '''
     # Check to see if the team's directory exists (and if not -> make it)
     directoryCheck(team_name)
     
+    # Obtain links to obtain info for every year available for the team
     dict_years = scrapeTeamYears(team_url)
+       
+#    # Scrape Record (i.e. wins-losses) for every year 
+#    scrapeTeamRecords(team_name, dict_years)
+#    
+#    # Scrape Schedule information for every year
+#    scrapeTeamSchedules(team_name, dict_years)
+
+    # Scrape Rosters for every year
+    scrapeTeamRosters(team_name, dict_years)
+    
+#    # Scrape Split Statistics for every year
+#    scrapeTeamSplitStats(team_name, dict_years)
+#
+#    # Scrape Statistical Game Logs for every year
+#    scrapeTeamGameLogs(team_name, dict_years)
+    
+    # Provide a status update
+    print('Done with: ' + team_name)
     
 '''
 - soup (HTML): BeautifulSoup version of HTML for a team's season    
