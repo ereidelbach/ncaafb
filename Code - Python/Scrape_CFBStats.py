@@ -75,7 +75,7 @@ def restructureSchedule(df_schedule):
             team and associated information for a calendar season
     
     Output: 
-        - (DataFrame): reengineered version of the original dataframe
+        - df_new (DataFrame): reengineered version of the original dataframe
               into the new, desired format
     '''
     list_rows = []
@@ -111,15 +111,43 @@ def restructureSchedule(df_schedule):
         # Scrape the Opponent
         row['Opponent'] = ''.join(
                 [s for s in opponent if not re.search(r'\d',s)]).strip()
+
+    	# Create a column for the Team's score in each game
+        row['pts_for'] = row['Result'].split(' ')[1].split('-')[0]
+    
+    	# Create a column for the Opponent's score in each game
+        row['pts_against'] = row['Result'].split(' ')[1].split('-')[1]
+    
+    	# Modify the Result column to be a cimple `W` or `L` result
+        row['Result'] = row['Result'][0]
             
         # Calculate the point difference between the teams
-        row['pts_diff'] = row['pts_for'] - row['pts_against']
+        row['pts_diff'] = float(row['pts_for']) - float(row['pts_against'])
         
         # Add the edited list to list_rows
         list_rows.append(row)
         
-    # Convert list_rows to a new DataFrame and return it as output
-    return pd.DataFrame(list_rows)
+    # Convert list_rows to a new DataFrame
+    df_new = pd.DataFrame(list_rows)
+    
+    # Reorder columns at the front of the DataFrame into desired order
+    reorder_list_front = ['Date','Opponent','opp_rank','home_away',
+                          'Result','pts_for','pts_against', 
+                          'pts_diff']
+    reorder_list_front.reverse() # Need to go in backwards order
+    list_columns = list(df_new.columns)
+    for name in reorder_list_front:
+        list_columns.remove(name)
+        list_columns.insert(0, name)
+        
+    # Reorder columns at the backof the DataFrame into desired order                
+    reorder_list_back = ['month','day','year','day_of_week','Season']
+    for name in reorder_list_back:
+        list_columns.remove(name)
+        list_columns.append(name)
+    df_new = df_new[list_columns]
+    
+    return df_new
 
 def scrapeTeamNames():
     '''
@@ -201,6 +229,8 @@ def scrapeTeamRecords(team_name, dict_years):
         # Create a dictionary for the year being scraped
         dict_year = {}
         
+        dict_year['season'] = year
+        
         # Retrieve the HTML data at the specified URL and add it to `dict_year`
         soup = soupifyURL('http://www.cfbstats.com' + url)
         table_record = soup.find('table', {'class':'team-record'})
@@ -230,9 +260,12 @@ def scrapeTeamRecords(team_name, dict_years):
     # Convert `dict_records` to a Pandas DataFrame
     df_records = pd.DataFrame.from_dict(dict_records, orient='index')
     
-    # Export the newly created Pandas DataFrame to a .csv
-    df_records.to_csv('Data/CFBStats/' + team_name + '/records.csv')
+    # Standardize column names
+    df_records.columns = [x.lower() for x in list(df_records.columns)]
     
+    # Export the newly created Pandas DataFrame to a .csv
+    df_records.to_csv('Data/CFBStats/' + team_name + '/records.csv', index=False)
+
 def scrapeTeamSchedules(team_name, dict_years):
     '''
     Purpose: Scrape the schedule portion of a team's stats for all seasons
@@ -245,103 +278,57 @@ def scrapeTeamSchedules(team_name, dict_years):
     Output:
         - A .csv file containing the scraped information (schedules.csv)
     '''
-    # Create the master dictionary for storing schedules for all seasons/years
-    dict_schedules = {}
+    # Create a master dataframe for storing schedule information
+    df_master = pd.DataFrame()
     
     # Scrape each year contained in `dict_years`
-    for year, url in tqdm.tqdm(dict_years.items()):
-        # Create a dictionary for the year being scraped
-        dict_year = {}
-        
+    for year, url in tqdm.tqdm(dict_years.items()):       
         # Retrieve the HTML data at the specified URL and add it to `dict_year`
         soup = soupifyURL('http://www.cfbstats.com' + url)
-        table_schedule = soup.find('table', {'class':'team-schedule'})
+       
+        # Create a dataframe out of the schedule table in the Soupified HTML
+        df_year = pd.read_html(str(soup.find(
+                'table', {'class':'team-schedule'})))[0] 
         
-        # Loop over all games in the schedule (ignore table headers)
-        for row_index, row in enumerate(table_schedule.findAll('tr')[1:-1]):  
-            dict_year = {}
-                       
-            # Scrape Date into `Year`, `Month`, `Day`, and `Weekday` Variables
-            date = row.find('td', {'class':'date'}).text
-            dict_year['year'] = int(datetime.datetime.strptime(date,
-                     "%m/%d/%y").strftime('%Y'))
-            dict_year['month'] = datetime.datetime.strptime(date,
-                     "%m/%d/%y").strftime('%B')
-            dict_year['day'] = int(datetime.datetime.strptime(date,
-                     "%m/%d/%y").strftime('%e').strip())
-            dict_year['day_of_week'] = datetime.datetime.strptime(date,
-                     "%m/%d/%y").strftime('%A')
-            dict_year['date'] = date
-            
-            # Scrape where the game was played (Home or Away)
-            opponent = row.find('td', {'class':'opponent'}).text
-            if opponent.split(' ')[0] == '@':
-                dict_year['home_away'] = 'Away'
-                opponent = opponent.replace('@ ','')
-            elif opponent.split(' ')[0] == '+':
-                dict_year['home_away'] = 'Neutral'
-                opponent = opponent.replace('+ ','')
-            else:
-                dict_year['home_away'] = 'Home'
-            
-            # Scrape the Opponent's AP ranking
-            try:
-                dict_year['opp_rank'] = int(opponent.split(' ')[0])
-            except:
-                dict_year['opp_rank'] = np.nan
+        # Make column headers and remove unnecessary rows
+        df_year.columns = list(df_year.iloc[0])
+        df_year.drop(df_year.index[0], inplace=True)
+  
+        # Drop unnecessary footer
+        df_year = df_year[df_year['Date'] != str(
+                '@ : Away, + : Neutral Site')]
 
-            # Scrape the Opponent
-            dict_year['opponent'] = ''.join(
-                    [s for s in opponent if not re.search(r'\d',s)]).strip()
-            
-            # Scrape the Result (Win or Loss)
-            score = row.find('td', {'class':'result'}).text
-            if score == '':
-                dict_year['result'] = ''
-            else:
-                dict_year['result'] = score[0]
-            
-            # Scrape the Team's Points total
-            if score == '':
-                dict_year['pts_for'] = np.nan
-            else:
-                dict_year['pts_for'] = int(score.split(' ')[1].split('-')[0])
+        # Add a year column to track the season the roster is for
+        df_year['Season'] = int(year)
 
-            # Scrape the Opponent's Points Total
-            if score == '':
-                dict_year['pts_against'] = np.nan
-            else:
-                dict_year['pts_against'] = int(score.split(' ')[1].split('-')[1])
-                
-            # Calculate the point difference between the teams
-            dict_year['pts_diff'] = dict_year['pts_for'] - dict_year['pts_against']
-            
-            # Scrape the Game Time (hh:mm)
-            if row.findAll('td')[3].text == '':
-                dict_year['game_time_hh'] = np.nan
-                dict_year['game_time_mm'] = np.nan
-            else:
-                dict_year['game_time_hh'] = int(
-                        row.findAll('td')[3].text.split(':')[0])
-                dict_year['game_time_mm'] = int(
-                        row.findAll('td')[3].text.split(':')[1])
-            
-            # Scrape the Attendance
-            if row.findAll('td')[4].text == '':
-                dict_year['attendance'] = np.nan
-            else:
-                dict_year['attendance'] = int(
-                        row.findAll('td')[4].text.replace(',',''))
-            
-            # Add year to master dictionary
-            idx = str(row_index).zfill(2)
-            dict_schedules[str(dict_year['year']) +'_' + idx] = dict_year
-    
-    # Convert `dict_schedules` to a Pandas DataFrame
-    df_schedules = pd.DataFrame.from_dict(dict_schedules, orient='index')
+        # Restructure the Schedule Info
+        df_year = restructureSchedule(df_year)
+                   
+        # Scrape the Game Time (hh:mm)
+        df_year['game_time_hh'] = df_year['Game Time'].apply(
+                lambda x: str(x).split(':')[0] if type(x) == str else np.nan)
+        df_year['game_time_mm'] = df_year['Game Time'].apply(
+                lambda x: str(x).split(':')[1] if type(x) == str else np.nan)
+        
+        # Drop old `Game Time`
+        df_year.drop(['Game Time'], axis=1, inplace=True)
+        
+        # Reclassify variable types as numeric for certain columns
+        for col in ['Attendance', 'pts_for', 'pts_against', 'game_time_hh',
+                    'game_time_mm']:
+            df_year[col] = df_year[col].astype(float)
+
+        # Make all column headers lower-case for standardization
+        df_year.columns = [x.lower() for x in list(df_year.columns)]
+        
+        # Add dataframe to master dataframe
+        df_master = df_master.append(df_year)
+        df_master = df_master.reset_index()                # Reset Index
+        df_master.drop(['index'], axis=1, inplace=True)    # Drop Old Index
     
     # Export the newly created Pandas DataFrame to a .csv
-    df_schedules.to_csv('Data/CFBStats/' + team_name + '/schedules.csv')
+    df_master.to_csv('Data/CFBStats/' + team_name + '/' + 'schedules.csv', 
+                     index=False)
 
 def scrapeTeamStatsCategories(team_url, type_stat):
     '''
@@ -610,39 +597,9 @@ def scrapeTeamStatsGameLogs(team_name, team_url):
 
             # Add a year column to track the season the roster is for
             df_game['Season'] = int(year)
-            
-            # Create columns for the Team's score in each game
-            score_team = lambda x: x.split(' ')[1].split('-')[0]
-            df_game['pts_for'] = df_game['Result'].apply(
-                    score_team).astype(float)
 
-            # Create column for the Opponent's Score in each game  
-            score_opp = lambda x: x.split(' ')[1].split('-')[1]
-            df_game['pts_against'] = df_game['Result'].apply(
-                    score_opp).astype(float)            
-            
-            # Modify the Result column to be a simple `W` or `L` result
-            df_game['Result'] = df_game['Result'].apply(lambda x: x[0])
-
-            # Restructure `Date` and `Opponent` variables
+            # Restructure schedule variables into desired format
             df_game = restructureSchedule(df_game)
-            
-            # Reorder columns at the front of the DataFrame into desired order
-            reorder_list_front = ['Date','Opponent','opp_rank','home_away',
-                                  'Surface','Result','pts_for','pts_against', 
-                                  'pts_diff']
-            reorder_list_front.reverse() # Need to go in backwards order
-            list_columns = list(df_game.columns)
-            for name in reorder_list_front:
-                list_columns.remove(name)
-                list_columns.insert(0, name)
-                
-            # Reorder columns at the backof the DataFrame into desired order                
-            reorder_list_back = ['month','day','year','day_of_week','Season']
-            for name in reorder_list_back:
-                list_columns.remove(name)
-                list_columns.append(name)
-            df_game = df_game[list_columns]
             
             # Make all column headers lower-case for standardization
             df_game.columns = [x.lower() for x in list(df_game.columns)]
