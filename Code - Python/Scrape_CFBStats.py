@@ -23,8 +23,10 @@ import pandas as pd
 import pathlib
 import re
 import requests
+from requests.packages.urllib3.util.retry import Retry
 import tqdm
 from bs4 import BeautifulSoup
+
 
 #==============================================================================
 # Function Definitions / Reference Variable Declaration
@@ -38,7 +40,14 @@ def soupifyURL(url):
     Output: soup (html): BeautifulSoup formatted HTML data stored as a
         complex tree of Python objects
     '''
-    r = requests.get(url)
+    session = requests.Session()
+    retry = Retry(connect=3, backoff_factor=0.5)
+    adapter = requests.adapters.HTTPAdapter(max_retries=retry)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+    
+    r = session.get(url)
+    #r = requests.get(url)
     soup = BeautifulSoup(r.content,'html.parser')   
     return soup
 
@@ -112,18 +121,25 @@ def restructureSchedule(df_schedule):
         row['Opponent'] = ''.join(
                 [s for s in opponent if not re.search(r'\d',s)]).strip()
 
-    	# Create a column for the Team's score in each game
-        row['pts_for'] = row['Result'].split(' ')[1].split('-')[0]
-    
-    	# Create a column for the Opponent's score in each game
-        row['pts_against'] = row['Result'].split(' ')[1].split('-')[1]
-    
-    	# Modify the Result column to be a cimple `W` or `L` result
-        row['Result'] = row['Result'][0]
-            
-        # Calculate the point difference between the teams
-        row['pts_diff'] = float(row['pts_for']) - float(row['pts_against'])
+        # Handle result-based variables for games that HAVE been played
+        if type(row['Result']) == str:
+        	# Create a column for the Team's score in each game
+            row['pts_for'] = row['Result'].split(' ')[1].split('-')[0]
         
+        	# Create a column for the Opponent's score in each game
+            row['pts_against'] = row['Result'].split(' ')[1].split('-')[1]
+        
+        	# Modify the Result column to be a cimple `W` or `L` result
+            row['Result'] = row['Result'][0]
+                
+            # Calculate the point difference between the teams
+            row['pts_diff'] = float(row['pts_for']) - float(row['pts_against'])
+        # Handle result-based variables for games that have NOT been played
+        else:
+            row['pts_for'] = np.nan
+            row['pts_against'] = np.nan
+            row['pts_diff'] = np.nan
+
         # Add the edited list to list_rows
         list_rows.append(row)
         
@@ -357,6 +373,15 @@ def scrapeTeamStatsCategories(team_url, type_stat):
     for link in link_column.findAll('li')[2:]:
         # Identify the statistical category
         category = link.find('a').text.lower().replace(' ','_').replace('-','_')
+        
+        # Stop here if dealing only with Player Stats
+        if type_stat == 'player' and category not in ['first_downs', 'penalties',
+                                                      '3rd_down_conversions',
+                                                      '4th_down_conversions',
+                                                      'red_zone_conversions',
+                                                      'turnover_margin']:
+            dict_links[category + '_' + type_stat] = link.find('a')['href']
+            continue
         
         # Scrape the categories HTML and identify the relevant section of links
         soup_category = soupifyURL(
@@ -613,66 +638,6 @@ def scrapeTeamStatsGameLogs(team_name, team_url):
             df_master.to_csv(
                     'Data/CFBStats/' + team_name + '/' + category + '.csv', 
                     index=False)
-        
-def extractNameFirst(name):
-    '''
-    Purpose: Extract the first name from a player's name formatted as 
-        `Last Name, First Name`
-        first and last name variables (accounting for suffixes such as Jr./Sr.)
-    
-    Input:
-        - name (string): Player's name in the format `Last name, First name`
-    
-    Output:
-        - (string): The player's first name
-    '''
-    list_split_name = name.split(', ')   # split name on `, `
-    
-    if len(list_split_name) == 1:       # handle 1-word names
-        return('')
-    elif len(list_split_name) == 2:     # handle 2-word names
-        return(list_split_name[1])
-    else:                               # handle 3-word names
-        return(list_split_name[2])
-
-def extractNameLast(name):
-    '''
-    Purpose: Extract the last name from a player's name formatted as 
-        `Last Name, First Name` (accounting for suffixes such as Jr./Sr.)
-    
-    Input:
-        - name (string): Player's name in the format `Last name, First name`
-    
-    Output:
-        - (string): The player's last name (to include suffixes)
-    '''
-    list_split_name = name.split(', ')   # split name on `, `
-    
-    if len(list_split_name) == 1:       # handle 1-word names
-        return(name)
-    elif len(list_split_name) == 2:     # handle 2-word names
-        return(list_split_name[0])
-    else:                               # handle 3-word names
-        return(list_split_name[0] + ' ' + list_split_name[1])
-            
-def extractHeightInches(height):
-    '''
-    Purpose: Convert a height variable formatted in `Feet - Inches` into
-        a variable of inches only (i.e. feet * 12 inches + inches)
-        
-    Input:
-        - height (string): Height of player formatted in `Feet - Inches`
-    
-    Output:
-        - (int): Height of player in total inches
-    '''        
-    if height == '-':
-        return(np.nan)
-    else:
-        heightFeet = int(height.split('-')[0])
-        heightInches = int(height.split('-')[1])
-        
-        return(heightFeet*12 + heightInches)
 
 def scrapeTeamRosters(team_name, dict_years):
     '''
@@ -782,23 +747,91 @@ def scrapeTeamStats(team_name, team_url):
     # Scrape Rosters for every year
     scrapeTeamRosters(team_name, dict_years)
     
-    print('Starting Statistics - Split')
     # Scrape Split Statistics for every year
     scrapeTeamStatsSplits(team_name, team_url)
-    print('Done with Statistics - Split')
+
     # Scrape Situational Statistics for every year
-
-    print('Starting Statistics - Situational')    
     scrapeTeamStatsSituational(team_name, team_url)
-    print('Done with Statistics - Situational')
 
-    print('Starting Statistics - Game Logs')
     # Scrape Statistical Game Logs for every year
     scrapeTeamStatsGameLogs(team_name, team_url)
-    print('Done with Statistics - Game Logs')
     
     # Provide a status update
     print('Done with: ' + team_name)
+
+
+def scrapePlayerStats(team_name, team_url):
+    '''
+    Purpose: Scrape the player statistics for every available year for
+        every available statistical category
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+        - team_url (string): URL of the school's page on CFBStats.com
+    
+    Output:
+        - A .csv file containing the scraped information (xyz_playerstats.csv)
+    '''
+    # Obtain Stat Category links
+    dict_links = scrapeTeamStatsCategories(team_url, 'player')
+        
+    # Iterate through each category
+    for category, link in tqdm.tqdm(dict_links.items()):
+        
+        # Create a master dataframe containing all the category data
+        df_master = pd.DataFrame()        
+        
+        # Obtain links to obtain info for every year available for the team
+        dict_years = scrapeTeamYears(link)
+        
+        # Iterate through every year available for the category
+        for year, url in dict_years.items():
+            
+            # soupify HTML page for given stat category in given year
+            soup = soupifyURL('http://www.cfbstats.com' + url)
+            
+            table_stat = soup.find('table', {'class':'leaders'})    
+            
+            # Convert the roster into a pandas dataframe
+            df_players = pd.read_html(str(table_stat))[0]    
+            
+            # Remove the first column as it is a redundant index
+            df_players.drop([0], axis=1, inplace = True)
+            
+            # Make column headers and remove unncessary rows
+            # Handle `Place Kicking` Multi-Indexing
+            if 'place_kicking' in category:
+                headers = list(df_players.iloc[1])
+                headers[4:9] = ['FG_' + x for x in headers[4:9]] # Append FG
+                headers[9:14] = ['XP_' + x for x in headers[9:14]] # Append XP
+                df_players.columns = headers
+                df_players.drop(df_players.index[0:2], inplace=True)
+            # Handle all other Categories
+            else:
+                df_players.columns = list(df_players.iloc[0])
+                df_players.drop(df_players.index[0], inplace=True)
+            
+            # Convert variable types to numeric (after `Name`, `Yr`, and `Pos`)
+            for col in list(df_players.columns[3:]):
+                # Convert rows with values of '-' to NaN
+                df_players[col] = df_players[col].apply(
+                        lambda x: np.nan if x == '-' else float(x))
+
+            # Add a year column to track the season the roster is for
+            df_players['season'] = int(year)
+
+            # Make all column headers lower-case for standardization
+            df_players.columns = [x.lower() for x in list(df_players.columns)]
+            
+            # Add dataframe to master dataframe
+            df_master = df_master.append(df_players)
+            df_master = df_master.reset_index()                 # Reset Index
+            df_master.drop(['index'], axis=1, inplace=True)     # Drop Old Index
+            
+            # Export the newly created Pandas DataFrame to a .csv
+            df_master.to_csv(
+                    'Data/CFBStats/' + team_name + '/' + category + '.csv', 
+                    index=False)    
 
 def aggregateRosters():
     '''
@@ -845,10 +878,66 @@ def cleanRoster(roster):
         - roster_clean (DataFrame): Table with missing values filled in and
             redshirt variables included
     '''
+    
+def extractNameFirst(name):
+    '''
+    Purpose: Extract the first name from a player's name formatted as 
+        `Last Name, First Name`
+        first and last name variables (accounting for suffixes such as Jr./Sr.)
+    
+    Input:
+        - name (string): Player's name in the format `Last name, First name`
+    
+    Output:
+        - (string): The player's first name
+    '''
+    list_split_name = name.split(', ')   # split name on `, `
+    
+    if len(list_split_name) == 1:       # handle 1-word names
+        return('')
+    elif len(list_split_name) == 2:     # handle 2-word names
+        return(list_split_name[1])
+    else:                               # handle 3-word names
+        return(list_split_name[2])
 
-'''
-- soup (HTML): BeautifulSoup version of HTML for a team's season    
-'''
+def extractNameLast(name):
+    '''
+    Purpose: Extract the last name from a player's name formatted as 
+        `Last Name, First Name` (accounting for suffixes such as Jr./Sr.)
+    
+    Input:
+        - name (string): Player's name in the format `Last name, First name`
+    
+    Output:
+        - (string): The player's last name (to include suffixes)
+    '''
+    list_split_name = name.split(', ')   # split name on `, `
+    
+    if len(list_split_name) == 1:       # handle 1-word names
+        return(name)
+    elif len(list_split_name) == 2:     # handle 2-word names
+        return(list_split_name[0])
+    else:                               # handle 3-word names
+        return(list_split_name[0] + ' ' + list_split_name[1])
+            
+def extractHeightInches(height):
+    '''
+    Purpose: Convert a height variable formatted in `Feet - Inches` into
+        a variable of inches only (i.e. feet * 12 inches + inches)
+        
+    Input:
+        - height (string): Height of player formatted in `Feet - Inches`
+    
+    Output:
+        - (int): Height of player in total inches
+    '''        
+    if height == '-':
+        return(np.nan)
+    else:
+        heightFeet = int(height.split('-')[0])
+        heightInches = int(height.split('-')[1])
+        
+        return(heightFeet*12 + heightInches)
     
 #==============================================================================
 # Working Code
@@ -865,4 +954,37 @@ dict_teams = scrapeTeamNames()
 
 # Scrape the stats for each team (creating CSV files along the way)
 for team_name, team_url in dict_teams.items():
-    scrapeTeamStats(team_name, team_url)
+#list_teams = list(dict_teams.keys())
+#for team_name in list_teams[list_teams.index('Army'):]:
+#    team_url = dict_teams[team_name]
+    #scrapeTeamStats(team_name, team_url)
+        
+#    # Check to see if the team's directory exists (and if not -> make it)
+#    directoryCheck(team_name)
+#    
+#    # Obtain links to obtain info for every year available for the team
+#    dict_years = scrapeTeamYears(team_url)
+       
+#    # Scrape Record (i.e. wins-losses) for every year 
+#    scrapeTeamRecords(team_name, dict_years)
+    
+#    # Scrape Schedule information for every year
+#    scrapeTeamSchedules(team_name, dict_years)
+
+#    # Scrape Rosters for every year
+#    scrapeTeamRosters(team_name, dict_years)
+    
+#    # Scrape Split Statistics for every year
+#    scrapeTeamStatsSplits(team_name, team_url)
+    
+#    # Scrape Situational Statistics for every year  
+#    scrapeTeamStatsSituational(team_name, team_url)
+
+    # Scrape Statistical Game Logs for every year
+    scrapeTeamStatsGameLogs(team_name, team_url)
+    
+#    # Scrape Player Statistics for every category for every year
+#    scrapePlayerStats(team_name, team_url)
+    
+    # Provide a status update
+    print('Done with: ' + team_name)
