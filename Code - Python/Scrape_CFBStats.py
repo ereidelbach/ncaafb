@@ -23,6 +23,7 @@ import pandas as pd
 import pathlib
 import re
 import requests
+import tqdm
 from bs4 import BeautifulSoup
 
 #==============================================================================
@@ -40,6 +41,85 @@ def soupifyURL(url):
     r = requests.get(url)
     soup = BeautifulSoup(r.content,'html.parser')   
     return soup
+
+def directoryCheck(team_name):
+    '''
+    Purpose: Run a check of the /Data/CFBStats/ folder to see if a folder
+        exists for the specified team.  If it doesn't, create it.
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+    
+    Outpu:
+        - NONE
+    '''
+    pathlib.Path('Data/CFBStats/'+team_name).mkdir(parents=True, exist_ok=True)
+
+def restructureSchedule(df_schedule):
+    '''
+    Purpose: Given a Pandas DataFrame with schedule information, restructure
+        the variables and/or engineer new variables out of existing variables
+        until it is in the desired format.
+        
+        Major changes include:
+            - transform a date formatted as mm/dd/yy into separate `Year`, 
+                `Month`, `Day` variables
+            - determine if the game was played `home` or `away`
+            - determine the opponent's `AP` ranking
+            - determine if the result of a game was a `W` or an `L`
+            - split the result into the team's score and the opponent's score
+            - calculate the point difference between the two teams
+            
+    Input:
+        - df_schedule (DataFrame): contains schedule/gamelog information for a 
+            team and associated information for a calendar season
+    
+    Output: 
+        - (DataFrame): reengineered version of the original dataframe
+              into the new, desired format
+    '''
+    list_rows = []
+    for index, row in df_schedule.iterrows():
+        # Transform `Date` into `Year`, `Month`, `Day`, and `Weekday` Variables
+        date = row['Date']
+        row['year'] = int(datetime.datetime.strptime(date,
+                 "%m/%d/%y").strftime('%Y'))
+        row['month'] = datetime.datetime.strptime(date,
+                 "%m/%d/%y").strftime('%B')
+        row['day'] = int(datetime.datetime.strptime(date,
+                 "%m/%d/%y").strftime('%e').strip())
+        row['day_of_week'] = datetime.datetime.strptime(date,
+                 "%m/%d/%y").strftime('%A')
+        
+        # Scrape where the game was played (Home or Away)
+        opponent = row['Opponent']
+        if opponent.split(' ')[0] == '@':
+            row['home_away'] = 'Away'
+            opponent = opponent.replace('@ ','')
+        elif opponent.split(' ')[0] == '+':
+            row['home_away'] = 'Neutral'
+            opponent = opponent.replace('+ ','')
+        else:
+            row['home_away'] = 'Home'
+        
+        # Scrape the Opponent's AP ranking
+        try:
+            row['opp_rank'] = int(opponent.split(' ')[0])
+        except:
+            row['opp_rank'] = np.nan
+    
+        # Scrape the Opponent
+        row['Opponent'] = ''.join(
+                [s for s in opponent if not re.search(r'\d',s)]).strip()
+            
+        # Calculate the point difference between the teams
+        row['pts_diff'] = row['pts_for'] - row['pts_against']
+        
+        # Add the edited list to list_rows
+        list_rows.append(row)
+        
+    # Convert list_rows to a new DataFrame and return it as output
+    return pd.DataFrame(list_rows)
 
 def scrapeTeamNames():
     '''
@@ -71,19 +151,6 @@ def scrapeTeamNames():
         
     return dict_teams
 
-def directoryCheck(team_name):
-    '''
-    Purpose: Run a check of the /Data/CFBStats/ folder to see if a folder
-        exists for the specified team.  If it doesn't, create it.
-        
-    Input:
-        - team_name (string): Name of the school being scraped
-    
-    Outpu:
-        - NONE
-    '''
-    pathlib.Path('Data/CFBStats/'+team_name).mkdir(parents=True, exist_ok=True)
-
 def scrapeTeamYears(team_url):
     '''
     Purpose: Given a team, scrape the URL for every year of statistics that is
@@ -105,12 +172,12 @@ def scrapeTeamYears(team_url):
     
     dict_years = {}
     
+    # Add the current year to the dictionary
+    dict_years[team_url.split('/')[1].split('/')[0]] = team_url
+    
     # Iterate over every year and place the year-URL combo into a dictionary
     for year in html_years_clean:
         dict_years[year.text] = year.find('a', href=True)['href']
-
-    # Add the current year to the dictionary
-    dict_years[team_url.split('/')[1].split('/')[0]] = team_url
     
     return dict_years
 
@@ -130,7 +197,7 @@ def scrapeTeamRecords(team_name, dict_years):
     dict_records = {}
     
     # Scrape each year contained in `dict_years`
-    for year, url in dict_years.items():
+    for year, url in tqdm.tqdm(dict_years.items()):
         # Create a dictionary for the year being scraped
         dict_year = {}
         
@@ -182,7 +249,7 @@ def scrapeTeamSchedules(team_name, dict_years):
     dict_schedules = {}
     
     # Scrape each year contained in `dict_years`
-    for year, url in dict_years.items():
+    for year, url in tqdm.tqdm(dict_years.items()):
         # Create a dictionary for the year being scraped
         dict_year = {}
         
@@ -276,35 +343,321 @@ def scrapeTeamSchedules(team_name, dict_years):
     # Export the newly created Pandas DataFrame to a .csv
     df_schedules.to_csv('Data/CFBStats/' + team_name + '/schedules.csv')
 
-def scrapeTeamSplitStats(team_name, dict_years):
+def scrapeTeamStatsCategories(team_url, type_stat):
+    '''
+    Purpose: Scrape the statistical categories (and associated links) 
+        available for a given team on CFBStats.com.
+    
+    Input:
+        - team_url (string): URL of the school's page on CFBStats.com
+        - type_stat (string): Type of Statistical Links that need to be scraped
+            (e.g. `split`, `situational`, or `game`)
+    
+    Outpu:
+        - dict_link (Dictionary): A dictionary where the keys are the 
+            statistical category and the values are the associated links
+    '''
+    # Identify the available split stats for the team
+    dict_links = {}
+            
+    # Retrieve the HTML data at the specified URL
+    soup = soupifyURL('http://www.cfbstats.com' + team_url)
+    
+    # Extract the statistical categories and associated links for the team
+    link_column = soup.find('div', {'id':'leftColumn'}).find('ul')
+    
+    # Ignore `Team Home` and `Roster`
+    for link in link_column.findAll('li')[2:]:
+        # Identify the statistical category
+        category = link.find('a').text.lower().replace(' ','_').replace('-','_')
+        
+        # Scrape the categories HTML and identify the relevant section of links
+        soup_category = soupifyURL(
+                'http://www.cfbstats.com' + link.find('a')['href'])
+        links_menubar = soup_category.find('div', {'id':'leftColumn'}).findAll(
+                'li', {'class':'sub1'})
+        
+        # Check to see if sub-categories exist
+        # Sub-categories Do Not Exist
+        if len(links_menubar) == 2:
+            # Extract the desired links based on the value of `type_stat`
+            for link_sub in links_menubar:
+                if link_sub.text.lower().split(' ')[0] == type_stat:
+                    try:
+                        dict_links[category + '_' + type_stat] = link_sub.find(
+                            'a')['href']
+                    except: # account for issues where site defaults to sub_stat
+                        dict_links[category + '_' + type_stat] = link.find(
+                            'a')['href']
+        # Sub-categories Exist
+        else:
+            # Extract subcategories:
+            sub_category_titles = soup_category.findAll(
+                    'li', {'class': 'header sub1'})
+            list_sub_titles = [x.text.lower() for x in sub_category_titles]
+            # Extract links
+            list_sub_links = []
+            for link_sub in soup_category.findAll('li', {'class':'sub2'}):
+                if link_sub.text.lower().split(' ')[0] == type_stat:
+                    try:
+                        list_sub_links.append(link_sub.find('a')['href'])
+                    except: # account for issues where site defaults to sub_stat
+                        list_sub_links.append(link.find('a')['href'])
+            
+            for header, url in zip(list_sub_titles, list_sub_links):
+                dict_links[category + '_' + header + '_' + type_stat] = url
+
+    return dict_links
+
+def scrapeTeamStatsSplits(team_name, team_url):
     '''
     Purpose: Scrape the split statistics for every available year for
         every available statistical category
         
     Input:
         - team_name (string): Name of the school being scraped
-        - dict_years (dictionary): Dictionary containing every year for which
-            team statistics are recorded and the URL to those statistics
+        - team_url (string): URL of the school's page on CFBStats.com
     
     Output:
-        - A .csv file containing the scraped information (CategorySplitStats.csv)
+        - A .csv file containing the scraped information (xyz_split.csv)
     '''
+    # Obtain Stat Category links
+    dict_links = scrapeTeamStatsCategories(team_url, 'split')
+        
+    # Iterate through each category
+    for category, link in tqdm.tqdm(dict_links.items()):
+        
+        # Create a master dataframe containing all the category data
+        df_master = pd.DataFrame()        
+        
+        # Obtain links to obtain info for every year available for the team
+        dict_years = scrapeTeamYears(link)
+        
+        # Iterate through every year available for the category
+        for year, url in dict_years.items():
+            
+            # soupify HTML page for given stat category in given year
+            soup = soupifyURL('http://www.cfbstats.com' + url)
+            
+            table_stat = soup.find('table', {'class':'split'})    
+            
+            # Convert the roster into a pandas dataframe
+            df_split = pd.read_html(str(table_stat))[0]    
+            
+            # Make column headers and remove unncessary rows
+            # Handle `Place Kicking` Multi-Indexing
+            if 'place_kicking' in category:
+                headers = list(df_split.iloc[1])
+                headers[2:7] = ['FG_' + x for x in headers[2:7]] # Append FG
+                headers[7:12] = ['XP_' + x for x in headers[7:12]] # Append XP
+                df_split.columns = headers
+                df_split.drop(df_split.index[0:2], inplace=True)
+            # Handle all other Categories
+            else:
+                df_split.columns = list(df_split.iloc[0])
+                df_split.drop(df_split.index[0], inplace=True)
+            
+            # Convert variable types to numeric
+            for col in list(df_split.columns[1:]):
+                # Convert rows with values of '-' to NaN
+                df_split[col] = df_split[col].apply(
+                        lambda x: np.nan if x == '-' else float(x))
+                
 
-def scrapeTeamGameLogs(team_name, dict_years):
+            # Add a year column to track the season the roster is for
+            df_split['season'] = int(year)
+
+            # Make all column headers lower-case for standardization
+            df_split.columns = [x.lower() for x in list(df_split.columns)]
+            
+            # Add dataframe to master dataframe
+            df_master = df_master.append(df_split)
+            df_master = df_master.reset_index()                 # Reset Index
+            df_master.drop(['index'], axis=1, inplace=True)     # Drop Old Index
+            
+            # Export the newly created Pandas DataFrame to a .csv
+            df_master.to_csv(
+                    'Data/CFBStats/' + team_name + '/' + category + '.csv', 
+                    index=False)
+
+def scrapeTeamStatsSituational(team_name, team_url):
     '''
     Purpose: Scrape the statistical game logs for every available year for
         every available statistical category
         
     Input:
         - team_name (string): Name of the school being scraped
-        - dict_years (dictionary): Dictionary containing every year for which
-            team statistics are recorded and the URL to those statistics
+        - team_url (string): URL of the school's page on CFBStats.com
     
     Output:
-        - A .csv file containing the scraped information (CategoryLogs.csv)
+        - A .csv file containing the scraped information (xyz_situational.csv)
     '''
+    # Obtain Stat Category links
+    dict_links = scrapeTeamStatsCategories(team_url, 'situational')
+        
+    # Iterate through each category
+    for category, link in tqdm.tqdm(dict_links.items()):
+        
+        # Create a master dataframe containing all the category data
+        df_master = pd.DataFrame()       
+        
+        # Obtain links to obtain info for every year available for the team
+        dict_years = scrapeTeamYears(link)
 
-def nameFirst(name):
+        # Iterate through every year available for the category
+        for year, url in dict_years.items():
+            
+            # soupify HTML page for given stat category in given year
+            soup = soupifyURL('http://www.cfbstats.com' + url)
+            table_stat = soup.find('table', {'class':'situational'})    
+
+            # Convert the roster into a pandas dataframe
+            df_situational = pd.read_html(str(table_stat))[0]    
+                       
+            # Make column headers and remove unncessary rows
+            df_situational.columns = list(df_situational.iloc[0])
+            df_situational.drop(df_situational.index[0], inplace=True)
+            
+            # Convert variable types to numeric
+            for col in list(df_situational.columns[1:]):
+                # Convert rows with values of '-' to NaN
+                df_situational[col] = df_situational[col].apply(
+                        lambda x: np.nan if x == '-' else float(x))
+                
+
+            # Add a year column to track the season the roster is for
+            df_situational['season'] = int(year)
+            
+            # Drop unnecessary footer
+            df_situational = df_situational[df_situational['Situation'] != str(
+                    '1st: First Downs; 15+: Pass completions of 15 or more ' + 
+                    'yards; 25+: Pass completions of 25 or more yards')]
+
+            # Make all column headers lower-case for standardization
+            df_situational.columns = [x.lower() for x in list(
+                    df_situational.columns)]
+         
+            # Add dataframe to master dataframe
+            df_master = df_master.append(df_situational)
+            df_master = df_master.reset_index()                # Reset Index
+            df_master.drop(['index'], axis=1, inplace=True)    # Drop Old Index
+            
+            # Export the newly created Pandas DataFrame to a .csv
+            df_master.to_csv(
+                    'Data/CFBStats/' + team_name + '/' + category + '.csv', 
+                    index=False)
+
+def scrapeTeamStatsGameLogs(team_name, team_url):
+    '''
+    Purpose: Scrape the statistical game logs for every available year for
+        every available statistical category
+        
+    Input:
+        - team_name (string): Name of the school being scraped
+        - team_url (string): URL of the school's page on CFBStats.com
+    
+    Output:
+        - A .csv file containing the scraped information (xyz_game.csv)
+    '''
+    # Obtain Stat Category links
+    dict_links = scrapeTeamStatsCategories(team_url, 'game')
+        
+    # Iterate through each category
+    for category, link in tqdm.tqdm(dict_links.items()):
+        
+        # Create a master dataframe containing all the category data
+        df_master = pd.DataFrame()        
+        
+        # Obtain links to obtain info for every year available for the team
+        dict_years = scrapeTeamYears(link)
+
+        # Iterate through every year available for the category
+        for year, url in dict_years.items():       
+            
+            # soupify HTML page for given stat category in given year
+            soup = soupifyURL('http://www.cfbstats.com' + url)
+            table_stat = soup.find('table', {'class':'game-log'})    
+
+            # Convert the roster into a pandas dataframe
+            df_game = pd.read_html(str(table_stat))[0]    
+                       
+            # Make column headers and remove unncessary rows
+            # Handle `Place Kicking` Multi-Indexing
+            if 'place_kicking' in category:
+                headers = list(df_game.iloc[1])
+                headers[4:7] = ['FG_' + x for x in headers[4:7]] # Append FG
+                headers[7:10] = ['XP_' + x for x in headers[7:10]] # Append XP
+                df_game.columns = headers
+                df_game.drop(df_game.index[0:2], inplace=True)
+            # Handle all other Categories
+            else:
+                df_game.columns = list(df_game.iloc[0])
+                df_game.drop(df_game.index[0], inplace=True)
+
+            # Drop unnecessary footer
+            df_game = df_game[df_game['Date'] != str(
+                    '@ : Away, + : Neutral Site')]
+    
+            # Account for `Totals` Row
+            df_game.drop(df_game.index[-1], inplace=True)
+            
+            # Convert variable types to numeric for every column after `Result`
+            for col in list(df_game.columns)[
+                    list(df_game.columns).index('Result')+1:]:
+                # Convert rows with values of '-' to NaN
+                df_game[col] = df_game[col].apply(
+                        lambda x: np.nan if x == '-' else float(x))
+
+            # Add a year column to track the season the roster is for
+            df_game['Season'] = int(year)
+            
+            # Create columns for the Team's score in each game
+            score_team = lambda x: x.split(' ')[1].split('-')[0]
+            df_game['pts_for'] = df_game['Result'].apply(
+                    score_team).astype(float)
+
+            # Create column for the Opponent's Score in each game  
+            score_opp = lambda x: x.split(' ')[1].split('-')[1]
+            df_game['pts_against'] = df_game['Result'].apply(
+                    score_opp).astype(float)            
+            
+            # Modify the Result column to be a simple `W` or `L` result
+            df_game['Result'] = df_game['Result'].apply(lambda x: x[0])
+
+            # Restructure `Date` and `Opponent` variables
+            df_game = restructureSchedule(df_game)
+            
+            # Reorder columns at the front of the DataFrame into desired order
+            reorder_list_front = ['Date','Opponent','opp_rank','home_away',
+                                  'Surface','Result','pts_for','pts_against', 
+                                  'pts_diff']
+            reorder_list_front.reverse() # Need to go in backwards order
+            list_columns = list(df_game.columns)
+            for name in reorder_list_front:
+                list_columns.remove(name)
+                list_columns.insert(0, name)
+                
+            # Reorder columns at the backof the DataFrame into desired order                
+            reorder_list_back = ['month','day','year','day_of_week','Season']
+            for name in reorder_list_back:
+                list_columns.remove(name)
+                list_columns.append(name)
+            df_game = df_game[list_columns]
+            
+            # Make all column headers lower-case for standardization
+            df_game.columns = [x.lower() for x in list(df_game.columns)]
+          
+            # Add dataframe to master dataframe
+            df_master = df_master.append(df_game)
+            df_master = df_master.reset_index()                # Reset Index
+            df_master.drop(['index'], axis=1, inplace=True)    # Drop Old Index
+            
+            # Export the newly created Pandas DataFrame to a .csv
+            df_master.to_csv(
+                    'Data/CFBStats/' + team_name + '/' + category + '.csv', 
+                    index=False)
+        
+def extractNameFirst(name):
     '''
     Purpose: Extract the first name from a player's name formatted as 
         `Last Name, First Name`
@@ -325,7 +678,7 @@ def nameFirst(name):
     else:                               # handle 3-word names
         return(list_split_name[2])
 
-def nameLast(name):
+def extractNameLast(name):
     '''
     Purpose: Extract the last name from a player's name formatted as 
         `Last Name, First Name` (accounting for suffixes such as Jr./Sr.)
@@ -345,7 +698,7 @@ def nameLast(name):
     else:                               # handle 3-word names
         return(list_split_name[0] + ' ' + list_split_name[1])
             
-def heightInches(height):
+def extractHeightInches(height):
     '''
     Purpose: Convert a height variable formatted in `Feet - Inches` into
         a variable of inches only (i.e. feet * 12 inches + inches)
@@ -380,7 +733,7 @@ def scrapeTeamRosters(team_name, dict_years):
     df_rosters = pd.DataFrame()
     
     # Scrape each year contained in `dict_years`
-    for year, url in dict_years.items():
+    for year, url in tqdm.tqdm(dict_years.items()):
 
         # Create the roster URL
         url_roster = url.split('index.html')[0] + 'roster.html'
@@ -403,13 +756,16 @@ def scrapeTeamRosters(team_name, dict_years):
         df_rosters = df_rosters.append(df_year)
         
     # Create a First Name Variable
-    df_rosters['name_first'] = df_rosters['Name'].apply(lambda x: nameFirst(x))
+    df_rosters['name_first'] = df_rosters['Name'].apply(
+            lambda x: extractNameFirst(x))
 
     # Create a Last Name Variable
-    df_rosters['name_last'] = df_rosters['Name'].apply(lambda x: nameLast(x))
+    df_rosters['name_last'] = df_rosters['Name'].apply(
+            lambda x: extractNameLast(x))
             
     # Create a Height (Inches) Variable
-    df_rosters['height_inches'] = df_rosters['Ht'].apply(lambda x: heightInches(x))
+    df_rosters['height_inches'] = df_rosters['Ht'].apply(
+            lambda x: extractHeightInches(x))
     
     # Create a Hometown (City) Variable
     df_rosters['city'] = df_rosters['Hometown'].apply(lambda x: x.split(', ')[0])
@@ -460,24 +816,79 @@ def scrapeTeamStats(team_name, team_url):
     # Obtain links to obtain info for every year available for the team
     dict_years = scrapeTeamYears(team_url)
        
-#    # Scrape Record (i.e. wins-losses) for every year 
-#    scrapeTeamRecords(team_name, dict_years)
-#    
-#    # Scrape Schedule information for every year
-#    scrapeTeamSchedules(team_name, dict_years)
+    # Scrape Record (i.e. wins-losses) for every year 
+    scrapeTeamRecords(team_name, dict_years)
+    
+    # Scrape Schedule information for every year
+    scrapeTeamSchedules(team_name, dict_years)
 
     # Scrape Rosters for every year
     scrapeTeamRosters(team_name, dict_years)
     
-#    # Scrape Split Statistics for every year
-#    scrapeTeamSplitStats(team_name, dict_years)
-#
-#    # Scrape Statistical Game Logs for every year
-#    scrapeTeamGameLogs(team_name, dict_years)
+    print('Starting Statistics - Split')
+    # Scrape Split Statistics for every year
+    scrapeTeamStatsSplits(team_name, team_url)
+    print('Done with Statistics - Split')
+    # Scrape Situational Statistics for every year
+
+    print('Starting Statistics - Situational')    
+    scrapeTeamStatsSituational(team_name, team_url)
+    print('Done with Statistics - Situational')
+
+    print('Starting Statistics - Game Logs')
+    # Scrape Statistical Game Logs for every year
+    scrapeTeamStatsGameLogs(team_name, team_url)
+    print('Done with Statistics - Game Logs')
     
     # Provide a status update
     print('Done with: ' + team_name)
+
+def aggregateRosters():
+    '''
+    Purpose: Ingest roster information for all teams and combine into one 
+        massive roster file
+        
+    Input:
+        - NONE
+        
+    Output
+        - NONE
+    '''
+    # Set the directory where the files are located
+    dir_path = pathlib.Path('/home/ejreidelbach/Projects/CollegeFootball/Data/CFBStats')
     
+    # Find every folder in the Data directory
+    list_files_rosters = list(dir_path.rglob('rosters.csv'))
+    
+    df_master = pd.DataFrame()
+    # Iterate over every folder and compile all roster into df_master
+    for file in list_files_rosters:
+        df = pd.read_csv(file)
+        df['school'] = str(file).split('CFBStats/')[1].split('/rosters.csv')[0]
+        df_master = df_master.append(df)
+        print('Done with: ' +str(file))
+    df_master = df_master.reset_index()                 # Reset Index
+    df_master.drop(['index'], axis=1, inplace=True)     # Drop Old Index
+    df_master.to_csv(
+            dir_path.joinpath(pathlib.Path(
+                    'merged_rosters.csv')), index=False) # Export to CSV    
+
+def cleanRoster(roster):
+    '''
+    Purpose: Clean up errors in a team's roster. Such errors include missing 
+        values (e.g. roster numbers, position, hometown, etc.).  In addition,
+        create the redshirt variables: redshirt_yr (boolean indicator if a 
+        specific year is a player's redshirt year) and redshirted (boolean
+        indicator if a player redshirted in their career)
+        
+    Input:
+        - roster (DataFrame): Table containing a team's roster information
+        
+    Output:
+        - roster_clean (DataFrame): Table with missing values filled in and
+            redshirt variables included
+    '''
+
 '''
 - soup (HTML): BeautifulSoup version of HTML for a team's season    
 '''
