@@ -4,16 +4,9 @@
 
 # Project Description
 
-The overall goal of this project is to collect College Football data from a variety of sources including:
+This project has been replaced by a new repository entitled [cfbAnalysis](https://github.com/ereidelbach/cfbAnalysis).  
 
-CFB Stats  
-ESPN  
-USA Today  
-The Official NCAA website  
-
-The data should be continuously collected throughout a season (i.e. every week) and will be stored locally in CSV files in the DATA folder.
-
-This data can then be used for a variety of analytical pursuits.
+As of 16 November 2018, no additional work will be completed in this repository.
 
 ----
 

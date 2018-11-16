@@ -823,6 +823,12 @@ def scrapePlayerStats(team_name, team_url):
             # Make all column headers lower-case for standardization
             df_players.columns = [x.lower() for x in list(df_players.columns)]
             
+            # Delete `Total` and `Opponents` rows (Last two rows of DataFrame)
+            df_players.drop(df_players.index[-2:], inplace=True)
+            
+            # Delete any rows where the player's name is `Team`
+            df_players = df_players[df_players['name'] != 'Team']
+            
             # Add dataframe to master dataframe
             df_master = df_master.append(df_players)
             df_master = df_master.reset_index()                 # Reset Index
@@ -955,7 +961,7 @@ dict_teams = scrapeTeamNames()
 # Scrape the stats for each team (creating CSV files along the way)
 for team_name, team_url in dict_teams.items():
 #list_teams = list(dict_teams.keys())
-#for team_name in list_teams[list_teams.index('Army'):]:
+#for team_name in list_teams[list_teams.index('Oregon'):]:
 #    team_url = dict_teams[team_name]
     #scrapeTeamStats(team_name, team_url)
         
@@ -980,11 +986,11 @@ for team_name, team_url in dict_teams.items():
 #    # Scrape Situational Statistics for every year  
 #    scrapeTeamStatsSituational(team_name, team_url)
 
-    # Scrape Statistical Game Logs for every year
-    scrapeTeamStatsGameLogs(team_name, team_url)
+#    # Scrape Statistical Game Logs for every year
+#    scrapeTeamStatsGameLogs(team_name, team_url)
     
-#    # Scrape Player Statistics for every category for every year
-#    scrapePlayerStats(team_name, team_url)
+    # Scrape Player Statistics for every category for every year
+    scrapePlayerStats(team_name, team_url)
     
     # Provide a status update
     print('Done with: ' + team_name)
