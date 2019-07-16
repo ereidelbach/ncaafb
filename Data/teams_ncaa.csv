@@ -1,0 +1,427 @@
+'Team','Conference','ConferenceAbbrev','Nickname','Name1','Name2','Name3','Name4','Name5','Name6','Name7','Name8','urlSchool','Team Code','Conference Code'
+'Boston College','Atlantic Coast','ACC','Eagles','BC','Boston Col.',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/103.png',67,821
+'Clemson','Atlantic Coast','ACC','Tigers','CLEM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/228.png',147,821
+'Duke','Atlantic Coast','ACC','Blue Devils','DUKE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/150.png',193,821
+'Florida St.','Atlantic Coast','ACC','Seminoles','FSU','Florida St','Florida State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/52.png',234,821
+'Georgia Tech','Atlantic Coast','ACC','Yellow Jackets','GT',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/59.png',255,821
+'Louisville','Atlantic Coast','ACC','Cardinals','LOU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/97.png',367,821
+'Miami (FL)','Atlantic Coast','ACC','Hurricanes','MIA','Miami (Fla)','Miami','Miami (Florida)',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png',415,821
+'North Carolina','Atlantic Coast','ACC','Tar Heels','UNC','N Carolina',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/153.png',457,821
+'NC State','Atlantic Coast','ACC','Wolfpack','NCST','North Carolina St.','North Carolina St','NC St.','NC St','North Carolina State','N Carolina St',,'https://a.espncdn.com/i/teamlogos/ncaa/500/152.png',490,821
+'Pittsburgh','Atlantic Coast','ACC','Panthers','PITT','Pitt',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/221.png',545,821
+'Syracuse','Atlantic Coast','ACC','Orange','SYR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/183.png',688,821
+'Virginia','Atlantic Coast','ACC','Cavaliers','UVA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/258.png',746,821
+'Virginia Tech','Atlantic Coast','ACC','Hokies','VT',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/259.png',742,821
+'Wake Forest','Atlantic Coast','ACC','Demon Deacons','WAKE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/154.png',749,821
+'Central Florida','American Athletic','AAC','Knights','UCF','C Florida',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png',128,24312
+'Cincinnati','American Athletic','AAC','Bearcats','CIN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png',140,24312
+'Connecticut','American Athletic','AAC','Huskies','CONN','UConn',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/41.png',164,24312
+'East Carolina','American Athletic','AAC','Pirates','ECU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/151.png',196,24312
+'Houston','American Athletic','AAC','Cougars','HOU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/248.png',288,24312
+'Memphis','American Athletic','AAC','Tigers','MEM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/235.png',404,24312
+'Navy','American Athletic','AAC','Midshipmen','NAVY',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png',726,24312
+'SMU','American Athletic','AAC','Mustangs','SMU','Southern Methodist',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png',663,24312
+'South Florida','American Athletic','AAC','Bulls','USF','S Florida',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/58.png',651,24312
+'Temple','American Athletic','AAC','Owls','TEM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/218.png',690,24312
+'Tulane','American Athletic','AAC','Green Wave','TULN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png',718,24312
+'Tulsa','American Athletic','AAC','Golden Hurricane','TLSA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/202.png',719,24312
+'Baylor','Big Twelve','Big 12','Bears','BAY',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/239.png',51,25354
+'Iowa St.','Big Twelve','Big 12','Cyclones','ISU','Iowa St','Iowa State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/66.png',311,25354
+'Kansas','Big Twelve','Big 12','Jayhawks','KU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png',328,25354
+'Kansas St.','Big Twelve','Big 12','Wildcats','KSU','Kansas St','Kansas State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png',327,25354
+'Oklahoma','Big Twelve','Big 12','Sooners','OKLA','OU',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/201.png',522,25354
+'Oklahoma St.','Big Twelve','Big 12','Cowboys','OKST','Oklahoma St','Oklahoma State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/197.png',521,25354
+'TCU','Big Twelve','Big 12','Horned Frogs','TCU','Texas Christian','Texas-Christian',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png',698,25354
+'Texas','Big Twelve','Big 12','Longhorns','TEX','Texas College',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/251.png',703,25354
+'Texas Tech','Big Twelve','Big 12','Red Raiders','TTU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png',700,25354
+'West Virginia','Big Twelve','Big 12','Mountaineers','WVU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/277.png',768,25354
+'Illinois','Big Ten','B1G','Fighting Illini','ILL',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/356.png',301,827
+'Indiana','Big Ten','B1G','Hoosiers','IND',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/84.png',306,827
+'Iowa','Big Ten','B1G','Hawkeyes','IOWA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png',312,827
+'Maryland','Big Ten','B1G','Terrapins','UMD',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/120.png',392,827
+'Michigan','Big Ten','B1G','Wolverines','MICH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/130.png',418,827
+'Michigan St.','Big Ten','B1G','Spartans','MSU','Michigan St','Michigan State','Mich. St.',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/127.png',416,827
+'Minnesota','Big Ten','B1G','Golden Gophers','MINN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/135.png',428,827
+'Nebraska','Big Ten','B1G','Cornhuskers','NEB',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/158.png',463,827
+'Northwestern','Big Ten','B1G','Wildcats','NW',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/77.png',509,827
+'Ohio St.','Big Ten','B1G','Buckeyes','OSU','Ohio St','Ohio State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/194.png',518,827
+'Penn State','Big Ten','B1G','Nittany Lions','PSU','Penn St.','Penn St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/213.png',539,827
+'Purdue','Big Ten','B1G','Boilermakers','PUR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png',559,827
+'Rutgers','Big Ten','B1G','Scarlet Knights','RUTG',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/164.png',587,827
+'Wisconsin','Big Ten','B1G','Badgers','WIS',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/275.png',796,827
+'Charlotte','Conference USA','C-USA','49ers','CHAR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png',,818
+'Florida Atlantic','Conference USA','C-USA','Owls','FAU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png',229,818
+'Florida Intl','Conference USA','C-USA','Golden Panthers','FIU','Florida International','Florida Int.','Florida Intl.',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png',231,818
+'Louisiana Tech','Conference USA','C-USA','Bulldogs','LT','LA Tech','La Tech',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png',366,818
+'Marshall','Conference USA','C-USA','Thundering Herd','MRSH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/276.png',388,818
+'Middle Tennessee','Conference USA','C-USA','Blue Raiders','MTSU','Middle Tenn','Mid Tennessee','Middle Tenn. St.','Middle Tenn. St','Middle Tenn. State','Middle Tennessee St.','Middle Tennessee State','https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png',419,818
+'North Texas','Conference USA','C-USA','Mean Green','UNT','N Texas',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/249.png',497,818
+'Old Dominion','Conference USA','C-USA','Monarchs','ODU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/295.png',523,818
+'Rice','Conference USA','C-USA','Owls','RICE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/242.png',574,818
+'Southern Miss','Conference USA','C-USA','Golden Eagles','USM','Southern Mississippi',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png',664,818
+'UAB','Conference USA','C-USA','Blazers','UAB','Alabama-Birmingham','Alabama Birmingham','Ala-Birmingham',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/5.png',9,818
+'UTEP','Conference USA','C-USA','Miners','UTEP','Texas El-Paso','Texas-El Paso',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png',704,818
+'UTSA','Conference USA','C-USA','Roadrunners','UTSA','Texas San-Antonio','Texas-San Antonio','UT San Antonio',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png',706,818
+'Western Kentucky','Conference USA','C-USA','Hilltoppers','WKU','W Kentucky','W. Kentucky',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/98.png',772,818
+'Army','Independent (FBS)','IND (FBS)','Black Knights','ARMY','Army West Point',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/349.png',725,99001
+'BYU','Independent (FBS)','IND (FBS)','Cougars','BYU','Brigham Young',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/252.png',77,99001
+'Liberty','Independent (FBS)','IND (FBS)','Flames','LIB',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png',355,99001
+'Massachusetts','Independent (FBS)','IND (FBS)','Minutemen','UMASS','UMass','Mass',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/113.png',400,99001
+'New Mexico State','Independent (FBS)','IND (FBS)','Aggies','NMSU','New Mexico St','New Mexico St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/166.png',472,99001
+'Notre Dame','Independent (FBS)','IND (FBS)','Fighting Irish','ND',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/87.png',513,99001
+'Akron','Mid-American','MAC','Zips','AKR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png',5,875
+'Ball St.','Mid-American','MAC','Cardinals','BALL','Ball St','Ball State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png',47,875
+'Bowling Green','Mid-American','MAC','Falcons','BGSU','Bowling Green State','Bowling Green St.','Bowling Green St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/189.png',71,875
+'Buffalo','Mid-American','MAC','Bulls','BUFF',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png',86,875
+'Central Michigan','Mid-American','MAC','Chippewas','CMU','Cent Michigan','C Michigan',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png',129,875
+'Eastern Michigan','Mid-American','MAC','Eagles','EMU','E Michigan','East. Michigan','East Michigan',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png',204,875
+'Kent State','Mid-American','MAC','Golden Flashes','KENT','Kent St.','Kent St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png',331,875
+'Miami (OH)','Mid-American','MAC','RedHawks','M-OH','Miami (Ohio)',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/193.png',414,875
+'Northern Illinois','Mid-American','MAC','Huskies','NIU','N Illinois',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png',503,875
+'Ohio','Mid-American','MAC','Bobcats','OHIO',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/195.png',519,875
+'Toledo','Mid-American','MAC','Rockets','TOL','TOLEDO',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png',709,875
+'Western Michigan','Mid-American','MAC','Broncos','WMU','W Michigan','West. Michigan',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png',774,875
+'Air Force','Mountain West','MWC','Falcons','AFA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png',721,5486
+'Boise St.','Mountain West','MWC','Broncos','BSU','Boise St','Boise State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/68.png',66,5486
+'Colorado St.','Mountain West','MWC','Rams','CSU','Colorado St','Colorado State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/36.png',156,5486
+'Fresno St.','Mountain West','MWC','Bulldogs','FRES','Fresno St','Fresno State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/278.png',96,5486
+'Hawaii','Mountain West','MWC','Rainbow Warriors','HAW','Hawai''i',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/62.png',277,5486
+'Nevada','Mountain West','MWC','Wolf Pack','NEV',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png',466,5486
+'New Mexico','Mountain West','MWC','Lobos','UNM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/167.png',473,5486
+'San Diego St.','Mountain West','MWC','Aztecs','SDSU','San Diego St','San Diego State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/21.png',626,5486
+'San Jose St.','Mountain West','MWC','Spartans','SJSU','San Jose St','San Jose State','San José State',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/23.png',630,5486
+'UNLV','Mountain West','MWC','Rebels','UNLV','Nevada-Las Vegas','Nevada Las Vegas',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png',465,5486
+'Utah St.','Mountain West','MWC','Aggies','USU','Utah St','Utah State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/328.png',731,5486
+'Wyoming','Mountain West','MWC','Cowboys','WYO',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png',811,5486
+'Arizona','Pac 12','Pac-12','Wildcats','ARIZ',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/12.png',29,905
+'Arizona St.','Pac 12','Pac-12','Sun Devils','ASU','Arizona St','Arizona State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/9.png',28,905
+'California','Pac 12','Pac-12','Golden Bears','CAL','Cal',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/25.png',107,905
+'Colorado','Pac 12','Pac-12','Buffaloes','COLO',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/38.png',157,905
+'Oregon','Pac 12','Pac-12','Ducks','ORE','UO',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png',529,905
+'Oregon St.','Pac 12','Pac-12','Beavers','ORST','Oregon St','Oregon State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/204.png',528,905
+'Stanford','Pac 12','Pac-12','Cardinal','STAN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/24.png',674,905
+'UCLA','Pac 12','Pac-12','Bruins','UCLA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/26.png',110,905
+'USC','Pac 12','Pac-12','Trojans','USC','Southern Cal','Southern California',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/30.png',657,905
+'Utah','Pac 12','Pac-12','Utes','UTAH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/254.png',732,905
+'Washington','Pac 12','Pac-12','Huskies','WASH','UW',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/264.png',756,905
+'Washington St.','Pac 12','Pac-12','Cougars','WSU','Washington St','Washington State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/265.png',754,905
+'Alabama','Southeastern','SEC','Crimson Tide','ALA','BAMA',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/333.png',8,911
+'Arkansas','Southeastern','SEC','Razorbacks','ARK',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/8.png',31,911
+'Auburn','Southeastern','SEC','Tigers','AUB',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2.png',37,911
+'Florida','Southeastern','SEC','Gators','FLA','UF',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/57.png',235,911
+'Georgia','Southeastern','SEC','Bulldogs','UGA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/61.png',257,911
+'Kentucky','Southeastern','SEC','Wildcats','UK',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/96.png',334,911
+'LSU','Southeastern','SEC','Tigers','LSU','Louisiana State','Louisiana St.','Louisiana St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/99.png',365,911
+'Ole Miss','Southeastern','SEC','Rebels','MISS','Mississippi',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/145.png',433,911
+'Mississippi St.','Southeastern','SEC','Bulldogs','MSST','Mississippi St','Mississippi State','Miss St','Miss St.',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/344.png',430,911
+'Missouri','Southeastern','SEC','Tigers','MIZ','MIZZ',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/142.png',434,911
+'South Carolina','Southeastern','SEC','Gamecocks','SC','SCAR','S Carolina',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png',648,911
+'Tennessee','Southeastern','SEC','Volunteers','TENN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png',694,911
+'Texas A&M','Southeastern','SEC','Aggies','TAMU','Texas A&M',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/245.png',697,911
+'Vanderbilt','Southeastern','SEC','Commodores','VAN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/238.png',736,911
+'Appalachian St.','Sun Belt','Sun Belt','Mountaineers','APP','Appalachian St','App State','Appalachian','Appalachian State','App St','App St.',,'https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png',27,912
+'Arkansas St.','Sun Belt','Sun Belt','Red Wolves','ARST','Arkansas St','AKST','Arkansas State',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png',30,912
+'Coastal Carolina','Sun Belt','Sun Belt','Chanticleers','CCU','C. Carolina','Coast Carolina',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/324.png',149,912
+'Georgia Southern','Sun Belt','Sun Belt','Eagles','GASO','Ga Southern',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/290.png',253,912
+'Georgia St.','Sun Belt','Sun Belt','Panthers','GAST','GSU','Georgia St','Georgia State',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png',254,912
+'Louisiana','Sun Belt','Sun Belt','Ragin'' Cajuns','ULL','Louisiana Lafayette','Louisiana-Lafayette',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/309.png',671,912
+'UL Monroe','Sun Belt','Sun Belt','Warhawks','ULM','Louisiana Monroe','Louisiana-Monroe','La-Monroe','LA-Monroe',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png',498,912
+'South Alabama','Sun Belt','Sun Belt','Jaguars','USA','S Alabama',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/6.png',646,912
+'Texas St.','Sun Belt','Sun Belt','Bobcats','TXST','Texas St','Texas State',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/326.png',670,912
+'Troy','Sun Belt','Sun Belt','Trojans','TROY','Troy St.','Troy St','Troy State',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png',716,912
+'Cal Poly','Big Sky','Big Sky','Mustangs','CP','Cal Poly-San Luis Obispo',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/13.png',90,825
+'Eastern Washington','Big Sky','Big Sky','Eagles','EWU','E Washington','Eastern Washington Eagles','E. Washington','East. Washington','East Washington',,,'https://a.espncdn.com/i/teamlogos/ncaa/500/331.png',207,825
+'Idaho','Big Sky','Big Sky','Vandals','IDHO',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/70.png',295,825
+'Idaho State','Big Sky','Big Sky','Bengals','IDST','Idaho St','Idaho St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/304.png',294,825
+'Montana','Big Sky','Big Sky','Grizzlies','MONT',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/149.png',441,825
+'Montana State','Big Sky','Big Sky','Bobcats','MTST','Montana St','Montana St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/147.png',440,825
+'Northern Arizona','Big Sky','Big Sky','Lumberjacks','NAU','N Arizona',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png',501,825
+'Northern Colorado','Big Sky','Big Sky','Bears','UNCO','N Colorado',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png',502,825
+'Portland State','Big Sky','Big Sky','Vikings','PRST','Portland St','Portland St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png',550,825
+'Sacramento State','Big Sky','Big Sky','Hornets','SAC','Sacramento St','Sacramento St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/16.png',102,825
+'Southern Utah','Big Sky','Big Sky','Thunderbirds','SUU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/253.png',667,825
+'UC Davis','Big Sky','Big Sky','Aggies','UCD','California-Davis','UC-Davis',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/302.png',108,825
+'Weber State','Big Sky','Big Sky','Wildcats','WEB','Weber St','Weber St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png',758,825
+'Charleston Southern','Big South','Big South','Buccaneers','CHSO','Charleston So',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png',48,826
+'Campbell','Big South','Big South','Fighting Camels','CAMP',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png',115,826
+'Gardner-Webb','Big South','Big South','Bulldogs','WEBB',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png',1092,826
+'Kennesaw State','Big South','Big South','Owls','KENN','Kennesaw St','Kennesaw St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/338.png',,826
+'Monmouth','Big South','Big South','Hawks','MONM','Monmouth (NJ)',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png',439,826
+'Presbyterian','Big South','Big South','Blue Hose','PRE','Presbyterian College',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2506.png',1320,826
+'Albany','Colonial Athletic','CAA','Great Danes','ALBY','Albany (NY)',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/399.png',14,846
+'Delaware','Colonial Athletic','CAA','Blue Hens','DEL',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/48.png',180,846
+'Elon','Colonial Athletic','CAA','Phoenix','ELON',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png',1068,846
+'James Madison','Colonial Athletic','CAA','Dukes','JMU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/256.png',317,846
+'Maine','Colonial Athletic','CAA','Black Bears','MAINE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/311.png',380,846
+'New Hampshire','Colonial Athletic','CAA','Wildcats','UNH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/160.png',469,846
+'Rhode Island','Colonial Athletic','CAA','Rams','URI',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/227.png',572,846
+'Richmond','Colonial Athletic','CAA','Spiders','RICH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/257.png',575,846
+'Stony Brook','Colonial Athletic','CAA','Seawolves','STON',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png',683,846
+'Towson','Colonial Athletic','CAA','Tigers','TOWS',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/119.png',711,846
+'Villanova','Colonial Athletic','CAA','Wildcats','NOVA',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/222.png',739,846
+'William & Mary','Colonial Athletic','CAA','Tribe','W&M',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png',786,846
+'Hampton','Independent (FCS)','Ind (FCS)','Pirates','HAMP',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png',270,
+'North Alabama','Independent (FCS)','Ind (FCS)','Lions',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png',,
+'North Dakota','Independent (FCS)','Ind (FCS)','Fighting Hawks','UND',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/155.png',494,
+'Brown','Ivy League','Ivy','Bears','BRWN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/225.png',80,865
+'Columbia','Ivy League','Ivy','Lions','CLMB',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/171.png',158,865
+'Cornell','Ivy League','Ivy','Big Red','COR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/172.png',167,865
+'Dartmouth','Ivy League','Ivy','Big Green','DART',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/159.png',172,865
+'Harvard','Ivy League','Ivy','Crimson','HARV',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/108.png',275,865
+'Penn','Ivy League','Ivy','Quakers','PENN','Pennsylvania',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/219.png',540,865
+'Princeton','Ivy League','Ivy','Tigers','PRIN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/163.png',554,865
+'Yale','Ivy League','Ivy','Bulldogs','YALE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/43.png',813,865
+'Bethune-Cookman','Mid-Eastern Atheltic','MEAC','Wildcats','COOK',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png',61,876
+'Delaware State','Mid-Eastern Atheltic','MEAC','Hornets','DSU','Delaware St','Delaware St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png',178,876
+'Florida A&M','Mid-Eastern Atheltic','MEAC','Rattlers','FAMU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/50.png',228,876
+'Howard','Mid-Eastern Atheltic','MEAC','Bison','HOW',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/47.png',290,876
+'Morgan State','Mid-Eastern Atheltic','MEAC','Bears','MORG','Morgan St','Morgan St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2415.png',446,876
+'Norfolk State','Mid-Eastern Atheltic','MEAC','Spartans','NORF','Norfolk St','Norfolk St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2450.png',485,876
+'North Carolina A&T','Mid-Eastern Atheltic','MEAC','Aggies','NCAT','N Carolina A&T','NC A&T',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png',488,876
+'North Carolina Central','Mid-Eastern Atheltic','MEAC','Eagles','NCCU','NC Central',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png',489,876
+'Savannah State','Mid-Eastern Atheltic','MEAC','Tigers','SAV','Savannah St','Savannah St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2542.png',632,876
+'South Carolina State','Mid-Eastern Atheltic','MEAC','Bulldogs','SCST','S Carolina St','S. Carolina St.','S Carolina St.','South Carolina St.','South Carolina St',,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2569.png',647,876
+'Illinois State','Missouri Valley','MVC','Redbirds','ILST','Illinois St','Illinois St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png',299,853
+'Indiana State','Missouri Valley','MVC','Sycamores','INST','Indiana St','Indiana St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/282.png',305,853
+'Missouri State','Missouri Valley','MVC','Bears','MOST','Missouri St','Missouri St.','SW Missouri St.','SW Missouri St','SW Missouri State',,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png',669,853
+'North Dakota State','Missouri Valley','MVC','Bison','NDSU','North Dakota St','North Dakota St.','N Dakota St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png',493,853
+'Northern Iowa','Missouri Valley','MVC','Panthers','UNI','N Iowa',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png',504,853
+'South Dakota','Missouri Valley','MVC','Coyotes','SDAK','S Dakota',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/233.png',650,853
+'South Dakota State','Missouri Valley','MVC','Jackrabbits','SDSU','SDKST','South Dakota St','South Dakota State','S Dakota St','South Dakota St.',,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png',649,853
+'Southern Illinois','Missouri Valley','MVC','Salukis','SIU','S Illinois',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/79.png',659,853
+'Western Illinois','Missouri Valley','MVC','Leathernecks','WIU','W Illinois','W. Illinois','West Illinois','West. Illinois',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png',771,853
+'Youngstown State','Missouri Valley','MVC','Penguins','YSU','Youngstown St','Youngstown St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png',817,853
+'Bryant','Northeast','NEC','Bulldogs','BRY',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png',81,846
+'Central Connecticut','Northeast','NEC','Blue Devils','CCSU','Cent Conn St',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png',127,846
+'Duquesne','Northeast','NEC','Dukes','DUQ',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png',194,846
+'Robert Morris (PA)','Northeast','NEC','Colonials','RMU','Robert Morris',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png',579,846
+'Sacred Heart','Northeast','NEC','Pioneers','SHU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png',590,846
+'St. Francis (PA)','Northeast','NEC','Red Flash','SFU','St Francis (PA)',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2598.png',600,846
+'Wagner','Northeast','NEC','Seahawks','WAG',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png',748,846
+'Austin Peay','Ohio Valley','OVC','Governors','PEAY',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png',43,902
+'Eastern Illinois','Ohio Valley','OVC','Panthers','EIU','E Illinois','East. Illinois','East Illinois',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png',201,902
+'Eastern Kentucky','Ohio Valley','OVC','Colonels','EKY','E Kentucky','East. Kentucky','East Kentucky','E. Kentucky',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png',202,902
+'Jacksonville State','Ohio Valley','OVC','Gamecocks','JVST','Jacksonville St','Jacksonville St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/55.png',315,902
+'Murray State','Ohio Valley','OVC','Racers','MURR','Murray St','Murray St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/93.png',454,902
+'Southeast Missouri','Ohio Valley','OVC','Redhawks','SEMO','Southeast Missouri State','Southeast Missouri St','Southeast Missouri St.','SE Missouri','SE Missouri St','SE Missouri St.',,'https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png',654,902
+'Tennessee State','Ohio Valley','OVC','Tigers','TNST','Tennessee St','Tennessee St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png',691,902
+'Tennessee Tech','Ohio Valley','OVC','Golden Eagles','TNTC','Tenn Tech',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png',692,902
+'Tennessee-Martin','Ohio Valley','OVC','Skyhawks','UTM','UT Martin','Tenn-Martin','UT-Martin',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png',695,902
+'Bucknell','Patriot','Patriot','Bison','BUCK',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png',83,838
+'Colgate','Patriot','Patriot','Raiders','COLG',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png',153,838
+'Fordham','Patriot','Patriot','Rams','FOR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png',236,838
+'Georgetown','Patriot','Patriot','Hoyas','GTWN',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/46.png',251,838
+'Holy Cross','Patriot','Patriot','Crusaders','HC',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/107.png',285,838
+'Lafayette','Patriot','Patriot','Leopards','LAF',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/322.png',342,838
+'Lehigh','Patriot','Patriot','Mountain Hawks','LEH',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png',352,838
+'Butler','Pioneer','Pioneer','Bulldogs','BUT',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png',87,21451
+'Davidson','Pioneer','Pioneer','Wildcats','DAV',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png',173,21451
+'Dayton','Pioneer','Pioneer','Flyers','DAY',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png',175,21451
+'Drake','Pioneer','Pioneer','Bulldogs','DRKE',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png',189,21451
+'Jacksonville','Pioneer','Pioneer','Dolphins','JAC',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/294.png',316,21451
+'Marist','Pioneer','Pioneer','Red Foxes','MRST',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png',386,21451
+'Morehead State','Pioneer','Pioneer','Eagles','MORE','Morehead St','Morehead St.',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png',444,21451
+'San Diego','Pioneer','Pioneer','Toreros','USD',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/301.png',627,21451
+'Stetson','Pioneer','Pioneer','Hatters','STET',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/56.png',,21451
+'Valparaiso','Pioneer','Pioneer','Crusaders','VALP',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png',735,21451
+'Chattanooga','Southern','SoCon','Mocs','CHAT','Tenn-Chattanooga','UT-Chattanooga',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/236.png',693,912
+'Citadel','Southern','SoCon','Bulldogs','CIT','The Citadel',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png',141,912
+'East Tennessee St.','Southern','SoCon','Buccaneers','ETSU','East Tennessee State','East Tennessee St','ETSU','E Tennessee State',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png',,912
+'Furman','Southern','SoCon','Paladins','FUR',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/231.png',244,912
+'Mercer','Southern','SoCon','Bears','MER',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png',,912
+'Samford','Southern','SoCon','Bulldogs','SAM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png',625,912
+'VMI','Southern','SoCon','Keydets','VMI',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png',741,912
+'Western Carolina','Southern','SoCon','Catamounts','WCU','W Carolina','West. Carolina',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png',769,912
+'Wofford','Southern','SoCon','Terriers','WOF',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2747.png',2915,912
+'Abilene Christian','Southland','Southland','Wildcats','ACU','Abil Christian',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png',,914
+'Central Arkansas','Southland','Southland','Bears','UCA','Cent Arkansas','C Arkansas',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png',1004,914
+'Houston Baptist','Southland','Southland','Huskies','HBU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png',,914
+'Incarnate Word','Southland','Southland','Cardinals','IW',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png',,914
+'Lamar','Southland','Southland','Cardinals','LAM',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2320.png',346,914
+'McNeese State','Southland','Southland','Cowboys','MCNS','McNeese','McNeese St.','McNeese St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png',402,914
+'Nicholls State','Southland','Southland','Colonels','NICH','Nicholls','Nicholls St.','Nicholls St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png',483,914
+'Northwestern State','Southland','Southland','Demons','NWST','Northwestern St.','Northwestern St','NW State (LA)','Northwestern St. (LA)',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png',508,914
+'Sam Houston State','Southland','Southland','Bearkats','SHSU','Sam Houston St.','Sam Houston St','Sam Houston',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png',624,914
+'Southeastern Louisiana','Southland','Southland','Lions','SELA','SE Louisiana',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png',655,914
+'Stephen F. Austin','Southland','Southland','Lumberjacks','SFA','Stephen F Austin','SF Austin','S.F. Austin','S. F. Austin',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png',676,914
+'Alabama A&M','Southwestern Athletic','SWAC','Bulldogs','AAMU','Arkansas A&M',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png',6,916
+'Alabama State','Southwestern Athletic','SWAC','Hornets','ALST','Alabama St.','Alabama St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png',7,916
+'Alcorn State','Southwestern Athletic','SWAC','Braves','ALCN','Alcorn St.','Alcorn St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png',17,916
+'Arkansas-Pine Bluff','Southwestern Athletic','SWAC','Golden Lions','UAPB','AR-Pine Bluff','Ark-Pine Bluff',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png',2678,916
+'Grambling','Southwestern Athletic','SWAC','Tigers','GRAM','Grambling St.','Grambling St','Grambling State',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png',261,916
+'Jackson State','Southwestern Athletic','SWAC','Tigers','JKST','Jackson St.','Jackson St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png',314,916
+'Mississippi Valley State','Southwestern Athletic','SWAC','Delta Devils','MVSU','Mississippi Valley St.','Mississippi Valley St','Miss Valley St','Miss. Valley St.','Miss. Valley St','Miss. Valley State',,'https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png',432,916
+'Prairie View A&M','Southwestern Athletic','SWAC','Panthers','PVAMU','Prairie View','PV A&M',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png',553,916
+'Southern','Southwestern Athletic','SWAC','Jaguars','SOU','Southern University',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png',665,916
+'Texas Southern','Southwestern Athletic','SWAC','Tigers','TXSO',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png',699,916
+'Hofstra',,,'Pride',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png',,
+'Northeastern',,,'Huskies',,'Northeastern (MA)',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/111.png',,
+'Winston-Salem State',,,'Rams','WSSU','Winston-Salem','Winston-Salem St.','Winston-Salem St',,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2736.png',,
+'New Mexico Highlands',,,'Cowboys','NMHU',,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2424.png',,
+'Mary',,,'Marauders',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/110243.png',,
+'Arkansas Tech',,,'Wonder Boys',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2033.png',,
+'Central Washington',,,'Wildcats',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2120.png',,
+'Slippery Rock',,,'The Rock',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/215.png',,
+'La Salle',,,'Explorers',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png',,
+'Chadron State',,,'Eagles',,'Chadron St.','Chadron St',,,,,,'https://upload.wikimedia.org/wikipedia/en/9/9f/CSC_Eagles.png',,
+'Minnesota State',,,'Mavericks',,'Minnesota St.','Minnesota St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2364.png',,
+'Saint Peter’s',,,'Peacocks',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png',,
+'Tuskegee',,,'Golden Tigers',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2657.png',,
+'Chowan',,,'Hawks',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2804.png',,
+'Iona',,,'Gaels',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/314.png',,
+'Florida Tech',,,'Panthers',,'Florida Institute of Technology',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/53.png',,
+'Carnegie Mellon',,,'Tartans',,,,,,,,,'https://a.espncdn.com/combiner/i?img=/i/teamlogos/cmu.png&w=250&h=250',,
+'Ferris State',,,'Bulldogs',,'Ferris St.','Ferris St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2222.png',,
+'Southern Oregon',,,'Raiders',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2584.png',,
+'Western Oregon',,,'Wolves',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2848.png',,
+'Henderson State',,,'Reddies',,'Henderson St.','Henderson St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2271.png',,
+'Mars Hill',,,'Lions',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2369.png',,
+'Valdosta State',,,'Blazers',,'Valdosta St.','Valdosta St',,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2673.png',,
+'Fort Valley State',,,'Wildcats',,'Fort Valley St.','Fort Valley St',,,,,,'https://cdn.herosports.com/upload/school/school-logo/fort-valley-state-logo.png',,
+'Trinity (CT)',,,'Bantams',,'Trinity',,,,,,,'https://cdn.herosports.com/upload/school/school-logo/trinity-conn-logo.png',,
+'Texas A&M-Kingsville',,,'Javelinas','AMKN',,,,,,,,'http://www.tamuk.edu/registrar/images/javehead2TONE.png',,
+'Saginaw Valley State',,,'Cardinals','SVSU','Saginaw','Saginaw Valley','Saginaw Valley St.','Saginaw Valley St',,,,'https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Saginaw_Valley_State_Cardinals_logo.svg/1200px-Saginaw_Valley_State_Cardinals_logo.svg.png',,
+'Cheyney',,,'Wolves',,,,,,,,,'https://cdn.herosports.com/upload/cheyney-logo.png',,
+'Indiana (PA)',,,'Crimson Hawks',,,,,,,,,'https://cdn.herosports.com/upload/images/school-logos/indiana-pennsylvania-logo.png',,
+'West Texas A&M',,,'Buffaloes','WESTA&M',,,,,,,,'http://wtamu.edu/webres/Image/Site%20Pictures/News/graphic_standards_2015fall/buffalo_7421.png',,
+'Central Oklahoma',,,'Bronchos','UCO',,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/University_of_Central_Oklahoma_logo.svg/1152px-University_of_Central_Oklahoma_logo.svg.png',,
+'Missouri Southern',,,'Lions',,'Missouri Southern State','Missouri Southern St','Missouri Southern St.',,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Missouri_Southern_Lions_logo.svg/1200px-Missouri_Southern_Lions_logo.svg.png',,
+'Itawamba JC',,,'Indians',,'Itawamba Community College','Itawamba Junior College',,,,,,'https://static1.squarespace.com/static/5b8eea4a50a54f68d0167dcf/t/5b8eec1d0e2e72779fe097fb/1536163344023/?format=1500w',,
+'West Los Angeles College',,,'Wildcats',,'W LA College','W. LA College','West LA College',,,,,'https://www.greatcollegedeals.net/wp-content/uploads/2018/06/west-los-angeles-college.png',,
+'Trinity (TX)',,,'Tigers',,,,,,,,,'http://livestats.prestosports.com/logos/715.png?max_width=100',,
+'St. Cloud St.',,,'Huskies',,'St. Could St','Saint Cloud St','Saint Cloud St.','Saint Cloud State',,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2594.png',,
+'NW Oklahoma St.',,,'Rangers',,'NW Oklahoma St','NW Oklahoma State',,,,,,'https://upload.wikimedia.org/wikipedia/en/0/0e/NWOSU_Rangers.png',,
+'Langston',,,'Lions',,,,,,,,,'https://cdn.herosports.com/upload/images/school-logos/langston-university-logo.png',,
+'Tarleton St.',,,'Texans',,'Tarleton St','Tarleton State',,,,,,'https://tarletonsports.com/images/logos/site/site.png',,
+'Mount Union',,,'Raiders',,'Mount Union (OH)',,,,,,,'https://cdn.herosports.com/upload/school/school-logo/mount-union-logo.png',,
+'Coe College',,,'Kohawks',,,,,,,,,'http://d21gd0ap5v1ndt.cloudfront.net/web04/coe/images_web/header-logo.png',,
+'Monmouth (IL)',,,'Fighting Scots',,,,,,,,,'https://cdn.herosports.com/upload/monmouth-il-logo.png',,
+'West Alabama',,,'Tigers',,'W Alabama','W. Alabama',,,,,,'http://logos.statbroadcast.com/weal.png',,
+'Butte JC (CA)',,,'Roadrunners',,,,,,,,,'https://pbs.twimg.com/profile_images/1321379497/fbrunner_400x400.png',,
+'Blinn College (TX)',,,'Buccaneers',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/282366/20181011000020_16_mascotOrig.png',,
+'Wesley',,,'Wolverines',,'Wesley College','Wesley (DE)',,,,,,'http://livestats.prestosports.com/logos/763.png',,
+'Ohio Northern',,,'Polar Bears','ONU',,,,,,,,'https://cdn.herosports.com/upload/school/school-logo/ohio-northern-logo.png',,
+'Augustana (SD)',,,'Vikings',,'Augustana College','Augustana',,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274093/20181010232512_124_mascotOrig.png',,
+'Azusa Pacific',,,'Cougars',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Azusa_Pacific_Cougars_logo.svg/1200px-Azusa_Pacific_Cougars_logo.svg.png',,
+'Beloit',,,'Buccaneers',,,,,,,,,'https://s3.amazonaws.com/file.imleagues/Images/Schools/Uploaded/201511/2015112312515.png',,
+'Bowie St.',,,'Bulldogs',,'Bowie St','Bowie State',,,,,,'https://www.bowiestate.edu/files/resources/full-color-2.png',,
+'California (PA)',,,'Vulcans',,,,,,,,,'https://cdn.herosports.com/upload/uploads/california-pennsylvania-logo.png',,
+'Carson-Newman',,,'Eagles',,,,,,,,,'https://bloximages.chicago2.vip.townnews.com/newportplaintalk.com/content/tncms/assets/v3/editorial/5/cd/5cd0cc4a-2f72-5cb1-8edb-b1255b607e08/5ab0cd9749d27.image.png?resize=600%2C400',,
+'Central Missouri St.',,,'Mules',,'Central Missouri St','Central Missouri State','Central Missouri',,,,,'https://www.ucmfoundation.org/image/template/footerMule.png',,
+'East Central (OK)',,,'Tigers',,'E Central (OK)',,,,,,,'https://ecutigers.com/images/logos/site/site.png',,
+'East Mississippi CC',,,'Lions',,,,,,,,,'https://cdn.prestosports.com/action/cdn/logos/id/9e2c2kdcxsm0wloj.png',,
+'Grand Valley St.',,,'Lakers',,'Grand Valley St','Grand Valley State',,,,,,'https://fanapeel.com/wp-content/uploads/logo_-grand-valley-state-university-lakers-blue-gv.png',,
+'Hutchinson (KS)',,,'Blue Dragons',,,,,,,,,'http://cdnak1.psbin.com/logos/rpi/1333/wbkb.png',,
+'Lane',,,'Dragons',,'Lane (TN)',,,,,,,'https://cdn.herosports.com/upload/lane-logo.png',,
+'Lindenwood',,,'Lions',,,,,,,,,'https://lindenwoodlions.com/images/logos/site/site.png',,
+'Long Beach CC',,,'Vikings',,,,,,,,,'https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/logos/6456_long-beach-city-college-logo.png',,
+'Midwestern St.',,,'Mustangs',,'Midwestern St','Midwestern State',,,,,,'https://neo-cdn.stretchinternet.com/yuaHoO/header/d06505b5-0b4a-451b-a652-e80b1b03ceb4.png',,
+'Mississippi Col.',,,'Choctaws',,,,,,,,,'https://static1.squarespace.com/static/52ebf31ce4b04a9f47a446e7/t/55f0a69de4b0388802808fa9/1441834654069/',,
+'Missouri Western St.',,,'Griffons',,'Missouri Western State','Missouri W St.','Missouri W St','Missouri Western St','Missouri Western',,,'https://cdn.herosports.com/upload/school/school-logo/missouri-western-logo.png',,
+'Morehouse',,,'Maroon Tigers',,,,,,,,,'https://cdn.herosports.com/upload/morehouse-logo.png',,
+'Nebraska-Omaha',,,'Mavericks','UNO',,,,,,,,'https://cdn2.sportngin.com/attachments/document/0135/9674/icon_acad-clr.png',,
+'Northern State Univ.',,,'Wolves',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/3/37/Northern_State_University_logo.png',,
+'NW Missouri St.',,,'Bearcats',,'NW Missouri St','NW Missouri State','Northwest Missouri St','Northwest Missouri St.','Northwest Missouri State',,,'https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/1200px-Northwest_Missouri_State_Bearcats_logo.svg.png',,
+'Pittsburg St.',,,'Gorillas',,'Pittsburg State','Pittsburg St',,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pittsburg_State_Athletics_wordmark.svg/1200px-Pittsburg_State_Athletics_wordmark.svg.png',,
+'Regina (Canada)',,,'Rams',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291111/20181011003232_497_mascotOrig.png',,
+'Shippensburg',,,'Raiders',,,,,,,,,'https://www.future500idcamp.com/wp-content/uploads/2017/01/Shippensburg.png',,
+'Southern Arkansas',,,'Muleriders',,'S Arkansas',,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Southern_Arkansas_Muleriders_logo.svg/1200px-Southern_Arkansas_Muleriders_logo.svg.png',,
+'Tiffin',,,'Dragons',,,,,,,,,'https://cdn.herosports.com/upload/school/school-logo/tiffin-logo.png',,
+'Virginia St.',,,'Trojans',,'Virginia St','Virginia State',,,,,,'https://govsutrojans.com/images/logos/site/site.png',,
+'Virginia Union',,,'Panthers',,,,,,,,,'https://s3.amazonaws.com/sidearm.sites/vuusports.com/images/logos/header_official.png',,
+'Walla Walla CC (WA)',,,'Warriors',,,,,,,,,'https://warriors.wwcc.edu/womens-basketball/wp-content/uploads/sites/2/2017/11/walla-walla.png',,
+'Wayne State (MI)',,,'Warriors',,'Wayne St. (MI)','Wayne St (MI)',,,,,,'https://mac.wayne.edu/images/3d-warrior-w-stroke.png',,
+'West Georgia',,,'Wolves',,'West. Georgia','W Georgia',,,,,,'https://cdn.herosports.com/upload/school/school-logo/west-georgia-logo.png',,
+'West. Ontario',,,'Mustangs',,'West Ontario','W Ontario','Western Ontario',,,,,'https://communications.uwo.ca/comms/img/downloads/Mustang_CMYK.png',,
+'Western St. (CO)',,,'Mountaineers',,'Western St (CO)','Western State (CO)',,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Western_Colorado_Mountaineers_logo.svg/1200px-Western_Colorado_Mountaineers_logo.svg.png',,
+'Wisconsin–Whitewater',,,'Warhawks','UWW','Wisc-Whitewater','UW-Whitewater',,,,,,'http://livestats.prestosports.com/logos/805.png',,
+'Rocky Mountain',,,'Battlin’ Bears',,,,,,,,,'https://gobattlinbears.com/images/logos/site/site.png',,
+'Ark-Monticello',,,'Boil Weevils',,'Arkansas-Monticello',,,,,,,'https://upload.wikimedia.org/wikipedia/commons/b/b2/Arkansas%E2%80%93Monticello_Athletics_logo.png',,
+'Hastings',,,'Broncos',,,,,,,,,'https://cdn.herosports.com/upload/images/school-logos/hastings-college-logo.png',,
+'Acadia (Canada)',,,'Axemen',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291155/20181011003248_397_mascot720Near.png',,
+'Bradley',,,'Braves',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bradley_Braves_logo.svg/1200px-Bradley_Braves_logo.svg.png',,
+'Menlo',,,'Oaks',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/a/aa/Menlo-college-symbol.png',,
+'West. New Mexico',,,'Mustangs',,'W. New Mexico','Western New Mexico',,,,,,'https://collegead.com/wp-content/uploads/2016/03/WESTERN-NEW-MEXICO-UNIVERSITY.png',,
+'Carroll (MT)',,,'Fighting Saints',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2104.png',,
+'Washburn',,,'Ichabods',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/e/ef/Washburn_University_Athletics_logo.png',,
+'Heidelberg',,,'Student Princes',,,,,,,,,'https://cdn4.sportngin.com/attachments/photo/9262/9268/Heidelberg_medium.png',,
+'Newberry',,,'Wolves',,,,,,,,,'https://www.newberry.edu/images/wolves-red-logo.png',,
+'Bemidji St.',,,'Beavers',,'Bemidji St','Bemidji State',,,,,,'https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F132.png',,
+'Shepherd',,,'Rams',,,,,,,,,'https://www.clipartmax.com/png/small/115-1154762_shepherd-womens-soccer-data-shepherd-university-football-logo.png',,
+'Ouachita Baptist',,,'Tigers',,,,,,,,,'https://obutigers.com/images/logos/site/site.png',,
+'Hillsdale',,,'Chargers',,,,,,,,,'https://media.ussportscamps.com/media/images/swim/nike/logos/Hillsdale-Chargers-Logo-Horse.png',,
+'Wisconsin-Platteville',,,'Pioneers','UWP','Wisc-Platteville','UW-Plateville','Wisconsin–Platteville',,,,,'https://cdn.herosports.com/upload/school/school-logo/uw-platteville.png',,
+'Wisconsin-Milwaukee',,,'Panthers','UWM','Wisc-Milwaukee','UW-Milwaukee','Wisconsin–Milwaukee',,,,,'https://hoopdirt.com/wp-content/uploads/2016/03/2509967_mktg_logo.png',,
+'Assumption',,,'Greyhounds',,,,,,,,,'https://cdn.herosports.com/upload/school/school-logo/assumption-logo.png',,
+'Ashland',,,'Eagles',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274088/20181230190322_469_mascotOrig.png',,
+'Limestone',,,'Saints',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Limestone_Saints_logo.svg/1200px-Limestone_Saints_logo.svg.png',,
+'Canisius',,,'Golden Griffins',,,,,,,,,'https://www.canisius.edu/sites/default/files/%2A/logo1_2.png',,
+'Delta St.',,,'Statesman',,'Delta St','Delta State',,,,,,'https://upload.wikimedia.org/wikipedia/commons/0/08/Delta_State_Athletics_logo.png',,
+'Cortland St.',,,'Red Dragons',,'Cortland St','Cortland State',,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Cortland_Red_Dragons_Logo.svg/220px-Cortland_Red_Dragons_Logo.svg.png',,
+'Mississippi Delta CC',,,'Trojans',,,,,,,,,'https://nwccrangers.com/images/logos/mississippi%20delta%20logo.png',,
+'Texas A&M-Commerce',,,'Lions',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg/1200px-Texas_A%26M%E2%80%93Commerce_Lions_logo.svg.png',,
+'Northwood',,,'Timberwolves',,'North (MI)',,,,,,,'https://www.northwood.edu/photos/athletics/athletics-timberwolves.png',,
+'Central State (OH)',,,'Marauders',,,,,,,,,'https://maraudersports.com/images/assets/navigation-logo.png',,
+'Pacific',,,'Tigers',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Pacific_Tigers_logo.svg/1200px-Pacific_Tigers_logo.svg.png',,
+'St. Mary''s (CA)',,,'Gaels',,,,,,,,,'https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F2608.png',,
+'Wisconsin-Stout',,,'Blue Devils',,'Wisc-Stout','UW-Stout','Wisconsin–Stout',,,,,'https://cdn.herosports.com/upload/school/school-logo/uw-stout-logo.png',,
+'Wisconsin-Stevens Point',,,'Pointers',,'Wisc-Stevens Point','UW-Stevens Point','Wisconsin–Stevens Point',,,,,'https://www.gannett-cdn.com/-mm-/d00b036cfcf85c36462a543aa94a87405177d42c/c=0-38-300-263/local/-/media/2017/02/09/StevensPoint/B9326152297Z.1_20170209001414_000_G0SHBTLFM.1-0.png?width=534&height=401&fit=crop',,
+'DuPage (IL)',,,'Chaparrals',,,,,,,,,'https://gochapsgo.com/images/logos/site/site.png',,
+'Harding',,,'Bison',,,,,,,,,'https://cdn.herosports.com/upload/school/school-logo/harding-logo.png',,
+'Morris Brown',,,'Wolverins',,,,,,,,,'https://i.pinimg.com/originals/ac/5a/c3/ac5ac386e7e54f8cf1b6813ce323161a.png',,
+'Geneva',,,'Golden Tornadoes',,,,,,,,,'https://athletics.geneva.edu/images/logos/site/site.png',,
+'Clarion',,,'Golden Eagles',,,,,,,,,'https://clariongoldeneagles.com/images/logos/site/site.png',,
+'McGill (Canada)',,,'Redmen',,'McGill',,,,,,,'https://upload.wikimedia.org/wikipedia/en/2/28/McGill_Redmen_Logo.png',,
+'Holmes (MS)',,,'Dogs',,,,,,,,,'https://www.holmescc.edu/images/news/LogoTrans.png',,
+'Knoxville',,,'Bulldogs',,,,,,,,,'https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1088/2019/03/11143558/logo_favicon-150x150.png',,
+'Central Florida CC',,,'Patriots',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/298916/20190203021110_417_backgroundOrig.png',,
+'Mount San Antonio JC',,,'Mounties',,,,,,,,,'http://cdnak1.psbin.com/logos/rpi/NJCAA0053/wbkb.png',,
+'Tusculum',,,'Pioneers',,,,,,,,,'https://cdn.prestosports.com/action/cdn/logos/rpi/12830/wsoc.png',,
+'Clark (GA)',,,'Panthers',,'Clark Atlanta',,,,,,,'https://2.bp.blogspot.com/-7ojruoBfJXw/VganPCrzF_I/AAAAAAABJFU/mzZrc2gmV0c/s1600/CAU%2BPanthers%2Blogo.gif',,
+'NE State (OK)',,,'RiverHawks',,'Northeastern State','Northeastern St','Northeastern St.',,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Northeastern_State_RiverHawks_logo.svg/1200px-Northeastern_State_RiverHawks_logo.svg.png',,
+'Bentley College',,,'Falcons',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bentley_Falcons_logo.svg/1200px-Bentley_Falcons_logo.svg.png',,
+'Wheaton',,,'Lyons',,,,,,,,,'https://mir-s3-cdn-cf.behance.net/project_modules/disp/e11c935391449.560cdecbe268b.png',,
+'Wingate',,,'Bulldogs',,,,,,,,,'https://wingatebulldogs.com/images/logos/site/site.png',,
+'St. Augustine''s',,,'Falcons',,'Saint Augustine’s',,,,,,,'https://cdn.herosports.com/upload/st-augustine''s-logo.png',,
+'Cal State-Bakersfield',,,'Roadrunners',,'UC-Bakersfield','Cal Sate Bakersfield',,,,,,'https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F2934.png',,
+'Salisbury',,,'Seagulls',,,,,,,,,'https://neo-cdn.stretchinternet.com/KWopPV/header/salisbury3.png',,
+'Southern Connecticut St.',,,'Owls',,'S. Connecticut St.','Southern Connecticut St','Southern Connecticut State',,,,,'https://www.logolynx.com/images/logolynx/e0/e00fd1537c232bb043c38ff1643c4667.png',,
+'Stillman',,,'Tigers',,'Stillman Valley',,,,,,,'http://www.ssacsports.com/images/school_logos/Stillmanpng.png',,
+'Nebraska-Kearney',,,'Lopers',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Nebraska%E2%80%93Kearney_Lopers_logo.svg/1200px-Nebraska%E2%80%93Kearney_Lopers_logo.svg.png',,
+'Concordia (Canada)',,,'Stingers',,'Concordia (QB)',,,,,,,'https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotip_Stingers_de_Concordia.png',,
+'John Carroll',,,'Blue Streaks',,,,,,,,,'https://jcusports.com/images/logos/site/site.png',,
+'Manitoba (Canada)',,,'Bisons',,'Manitoba',,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Manitoba_Bisons_Logo.svg/1200px-Manitoba_Bisons_Logo.svg.png',,
+'Albion',,,'Britons',,,,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/2790.png',,
+'Catawba',,,'Indians',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274185/20190117030220_532_mascotOrig.png',,
+'Boston Univ.',,,'Terriers','BU','Boston',,,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Boston_University_Terriers_logo.svg/1200px-Boston_University_Terriers_logo.svg.png',,
+'Baker',,,'Wildcats',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/3/3b/Baker_University_Wildcats_logo.png',,
+'Michigan Tech',,,'Huskies',,,,,,,,,'https://clubs.recservices.iastate.edu/baseball/wp-content/uploads/sites/10/2015/11/Michigan-Tech-logo.png',,
+'Findlay',,,'Oilers',,,,,,,,,'https://www.findlay.edu/offices/marketing-communication/brand-guidelines/SiteAssets/Pages/Introduction/Level%201%20Athletics.png',,
+'St. Paul’s (VA)',,,'Tigers',,'St. Paul''s',,,,,,,'https://dumielauxepices.net/sites/default/files/white-tiger-clipart-depauw-822829-6439378.jpg',,
+'West Chester',,,'Golden Rams',,,,,,,,,'https://upload.wikimedia.org/wikipedia/en/e/e4/WCUGoldenRams.PNG',,
+'Bloomsburg',,,'Huskies',,,,,,,,,'https://cdn.herosports.com/upload/uploads/2014/05/bloomsburg-logo.png',,
+'Colorado State-Pueblo',,,'ThunderWolves',,'Colorado St-Pueblo','Colorado St.-Pueblo','CSU-Pueblo',,,,,'https://gothunderwolves.com/images/logos/site/site.png',,
+'Mary Hardin-Baylor',,,'Crusaders',,,,,,,,,'https://cdn.herosports.com/upload/school/school-logo/mary-hardin-baylor-logo.png',,
+'Fort Scott (KS)',,,'Greyhounds',,,,,,,,,'http://cdnak1.psbin.com/logos/rpi/1328njcaa/sball.png',,
+'William Penn',,,'Statesman',,,,,,,,,'http://d21gd0ap5v1ndt.cloudfront.net/logos/i/2312/250/250.png',,
+'Concordia-St. Paul (MN)',,,'Golden Bears',,'Concordia-St.Paul (MN)','Concordia (MN)',,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274251/20181010232709_476_mascot300.png',,
+'Albany State (GA)',,,'Golden Rams',,'Albany St (GA)','Albany St. (GA)',,,,,,'https://www.asurams.edu/images/news/GoldenRams.png',,
+'Fort Hays St.',,,'Tigers',,'Fort Hays St','Fort Hays State',,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Fort_Hays_State_Tigers_logo.svg/1200px-Fort_Hays_State_Tigers_logo.svg.png',,
+'NE Oklahoma A&M',,,'Golden Norsemen',,'Northeast Oklahoma A&M',,,,,,,'https://neoathletics.com/images/logos/site/site.png',,
+'West. Washington',,,'Vikings',,'W Washington','Western Washington',,,,,,'https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Western_Washington_Vikings_logo.svg/200px-Western_Washington_Vikings_logo.svg.png',,
+'Kentucky St.',,,'Thorobreds',,'Kentucky St','Kentucky State',,,,,,'https://cdn.herosports.com/upload/images/school-logos/kentucky-state-logo.png',,
+'Gustavus Adolphus',,,'Golden Gusties',,,,,,,,,'http://livestats.prestosports.com/logos/266.png',,
+'Minnesota-Morris',,,'Cougars',,'UM-Morris','Minn-Morris',,,,,,'https://morriscougars.com/images/logos/site/site.png',,
+'Whitworth',,,'Pirates',,,,,,,,,'https://cdn.freebiesupply.com/logos/large/2x/whitworth-pirates-logo-png-transparent.png',,
+'Hartwick',,,'Hawks',,,,,,,,,'https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274406/20181010232913_703_mascotOrig.png',,
+'West Liberty',,,'Hilltoppers',,'W. Liberty','W Liberty',,,,,,'https://www.mountaineast.tv/assets/images/WLU.png',,
+'Merrimack',,,'Warriors',,,,,,,,,'https://merrimackathletics.com/images/logos/site/site.png',,
+'Glenville State',,,'Pioneers',,,,,,,,,'https://www.mountaineast.tv/assets/images/Glenville.png',,
+'Dixie St.',,,'Trailblazers',,'Dixie State',,,,,,,'https://dixiestateathletics.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/1/13/New_D_Logo.png',,
+'Hobart & William Smith',,,'Statesman',,'Hobart',,,,,,,'https://a.espncdn.com/i/teamlogos/ncaa/500/174.png',,
+'Kutztown',,,'Golden Bears',,,,,,,,,'https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2315.png',,
+'Humboldt St.',,,'Lumberjacks',,'Humboldt St','Humboldt State',,,,,,'http://mediad.publicbroadcasting.net/p/khsu/files/styles/medium/public/201605/circleH_pms349.png',,
+'Dubuque',,,'Spartans',,,,,,,,,'http://livestats.prestosports.com/logos/192.png',,
+'Charleston',,,'Golden Eagles',,,,,,,,,'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/1200px-College_of_Charleston_Cougars_logo.svg.png',,
+'Malone (OH)',,,'Pioneers',,'Malone University (Ohio)',,,,,,,'http://cdnak1.psbin.com/logos/rpi/30137/wbkb.png',,
+'Sioux Falls',,,'Cougars',,,,,,,,,'https://usfcougars.com/images/logos/site/site.png',,

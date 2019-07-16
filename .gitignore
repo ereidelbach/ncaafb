@@ -3,7 +3,7 @@
 
 # ignore an entire directory
 #/mydebugdir/
-/Data/
+/Data/CFBStats/
 
 # ignore a file type
 #*.json
