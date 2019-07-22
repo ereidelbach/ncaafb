@@ -1,33 +1,33 @@
-'Team','TeamCode','Name1','Name2','Name3','Name4','Nickname','FullName','URL','URL_NAME'
-'ARI',7,'PHO',,,,'Cardinals','Arizona Cardinals','http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo.png'
-'ATL',1,,,,,'Falcons','Atlanta Falcons','http://loodibee.com/wp-content/uploads/nfl-atlanta-falcons-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-atlanta-falcons-team-logo.png'
-'BAL',31,,,,,'Ravens','Baltimore Ravens','http://loodibee.com/wp-content/uploads/nfl-baltimore-ravens-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-baltimore-ravens-team-logo.png'
-'BUF',2,,,,,'Bills','Buffalo Bills','http://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo.png'
-'CAR',29,,,,,'Panthers','Carolina Panthers','http://loodibee.com/wp-content/uploads/nfl-carolina-panthers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-carolina-panthers-team-logo.png'
-'CHI',3,,,,,'Bears','Chicago Bears','http://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo.png'
-'CIN',4,,,,,'Bengals','Cincinnati Bengals','http://loodibee.com/wp-content/uploads/nfl-cincinnati-bengals-team-logo.png','http://loodibee.com/wp-content/uploads/nfl-cin-cincinnati bengals-team-logo-2.png'
-'CLE',5,,,,,'Browns','Cleveland Browns','http://loodibee.com/wp-content/uploads/nfl-cleveland-browns-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-cleveland-browns-team-logo.png'
-'DAL',8,,,,,'Cowboys','Dallas Cowboys','http://loodibee.com/wp-content/uploads/nfl-dallas-cowboys-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-dallas-cowboys-team-logo.png'
-'DEN',9,,,,,'Broncos','Denver Broncos','http://loodibee.com/wp-content/uploads/nfl-denver-broncos-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-denver-broncos-team-logo.png'
-'DET',10,,,,,'Lions','Detroit Lions','http://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo.png'
-'GNB',11,'GB',,,,'Packers','Green Bay Packers','http://loodibee.com/wp-content/uploads/nfl-green-bay-packers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-green-bay-packers-team-logo.png'
-'HOU',32,,,,,'Texans','Houston Texans','http://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo.png'
-'IND',6,,,,,'Colts','Indianapolis Colts','http://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo.png'
-'JAX',30,,,,,'Jaguars','Jacksonville Jaguars','http://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo.png'
-'KAN',12,'KC',,,,'Chiefs','Kansas City Chiefs','http://loodibee.com/wp-content/uploads/nfl-kansas-city-chiefs-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-kansas-city-chiefs-team-logo.png'
-'LAC',23,'SDG','SD','San Diego','San Diego Chargers','Chargers','Los Angeles Chargers','http://loodibee.com/wp-content/uploads/nfl-los-angeles-chargers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-los-angeles-chargers-team-logo.png'
-'LAR',22,'RAM','STL','St. Louis','St. Louis Rams','Rams','Los Angeles Rams','http://loodibee.com/wp-content/uploads/nfl-los-angeles-rams-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-los-angeles-rams-team-logo.png'
-'MIA',13,,,,,'Dolphins','Miami Dolphins','http://loodibee.com/wp-content/uploads/nfl-miami-dolphins-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-miami-dolphins-team-logo.png'
-'MIN',14,,,,,'Vikings','Minnesota Vikings','http://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo.png'
-'NOR',15,'NO',,,,'Saints','New Orleans Saints','http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo.png'
-'NEW',16,'NWE','NE',,,'Patriots','New England Patriots','http://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo.png'
-'NYG',17,,,,,'Giants','New York Giants','http://loodibee.com/wp-content/uploads/nfl-new-york-giants-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-new-york-giants-team-logo.png'
-'NYJ',18,,,,,'Jets','New York Jets','http://loodibee.com/wp-content/uploads/new-york-jets-logo-1978-1997.png','http://loodibee.com/wp-content/uploads/nfl-new-york-jets-team-logo.png'
-'OAK',27,'RAI',,,,'Raiders','Oakland Raiders','http://loodibee.com/wp-content/uploads/oakland-raiders-logo-1963.png','http://loodibee.com/wp-content/uploads/nfl-oakland-raiders-team-logo.png'
-'PHI',20,,,,,'Eagles','Philadelphia Eagles','http://loodibee.com/wp-content/uploads/nfl-philadelphia-eagles-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-philadelphia-eagles-team-logo.png'
-'PIT',21,,,,,'Steelers','Pittsburgh Steelers','http://loodibee.com/wp-content/uploads/nfl-pittsburgh-steelers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-pittsburgh-steelers-team-logo.png'
-'SEA',24,,,,,'Seahawks','Seattle Seahawks','http://loodibee.com/wp-content/uploads/nfl-seattle-seahawks-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-seattle-seahawks-team-logo.png'
-'SFO',28,'SF',,,,'49ers','San Francisco 49ers','http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo.png'
-'TAM',25,'TB',,,,'Buccaneers','Tampa Bay Buccaneers','http://loodibee.com/wp-content/uploads/nfl-tampa-bay-buccaneers-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-tampa-bay-buccaneers-team-logo.png'
-'TEN',19,,,,,'Titans','Tennessee Titans','http://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo.png'
-'WAS',26,'WSH',,,,'Redskins','Washington Redskins','http://loodibee.com/wp-content/uploads/nfl-washington-redskins-team-logo-2.png','http://loodibee.com/wp-content/uploads/nfl-washington-redskins-team-logo.png'
+"Team","TeamCode","Name1","Name2","Name3","Name4","Nickname","FullName","URL","URL_NAME"
+"ARI",7,"PHO",,,,"Cardinals","Arizona Cardinals","http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo.png"
+"ATL",1,,,,,"Falcons","Atlanta Falcons","http://loodibee.com/wp-content/uploads/nfl-atlanta-falcons-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-atlanta-falcons-team-logo.png"
+"BAL",31,,,,,"Ravens","Baltimore Ravens","http://loodibee.com/wp-content/uploads/nfl-baltimore-ravens-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-baltimore-ravens-team-logo.png"
+"BUF",2,,,,,"Bills","Buffalo Bills","http://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo.png"
+"CAR",29,,,,,"Panthers","Carolina Panthers","http://loodibee.com/wp-content/uploads/nfl-carolina-panthers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-carolina-panthers-team-logo.png"
+"CHI",3,,,,,"Bears","Chicago Bears","http://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo.png"
+"CIN",4,,,,,"Bengals","Cincinnati Bengals","http://loodibee.com/wp-content/uploads/nfl-cincinnati-bengals-team-logo.png","http://loodibee.com/wp-content/uploads/nfl-cin-cincinnati bengals-team-logo-2.png"
+"CLE",5,,,,,"Browns","Cleveland Browns","http://loodibee.com/wp-content/uploads/nfl-cleveland-browns-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-cleveland-browns-team-logo.png"
+"DAL",8,,,,,"Cowboys","Dallas Cowboys","http://loodibee.com/wp-content/uploads/nfl-dallas-cowboys-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-dallas-cowboys-team-logo.png"
+"DEN",9,,,,,"Broncos","Denver Broncos","http://loodibee.com/wp-content/uploads/nfl-denver-broncos-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-denver-broncos-team-logo.png"
+"DET",10,,,,,"Lions","Detroit Lions","http://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo.png"
+"GNB",11,"GB",,,,"Packers","Green Bay Packers","http://loodibee.com/wp-content/uploads/nfl-green-bay-packers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-green-bay-packers-team-logo.png"
+"HOU",32,,,,,"Texans","Houston Texans","http://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo.png"
+"IND",6,,,,,"Colts","Indianapolis Colts","http://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo.png"
+"JAX",30,,,,,"Jaguars","Jacksonville Jaguars","http://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo.png"
+"KAN",12,"KC",,,,"Chiefs","Kansas City Chiefs","http://loodibee.com/wp-content/uploads/nfl-kansas-city-chiefs-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-kansas-city-chiefs-team-logo.png"
+"LAC",23,"SDG","SD","San Diego","San Diego Chargers","Chargers","Los Angeles Chargers","http://loodibee.com/wp-content/uploads/nfl-los-angeles-chargers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-los-angeles-chargers-team-logo.png"
+"LAR",22,"RAM","STL","St. Louis","St. Louis Rams","Rams","Los Angeles Rams","http://loodibee.com/wp-content/uploads/nfl-los-angeles-rams-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-los-angeles-rams-team-logo.png"
+"MIA",13,,,,,"Dolphins","Miami Dolphins","http://loodibee.com/wp-content/uploads/nfl-miami-dolphins-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-miami-dolphins-team-logo.png"
+"MIN",14,,,,,"Vikings","Minnesota Vikings","http://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo.png"
+"NOR",15,"NO",,,,"Saints","New Orleans Saints","http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo.png"
+"NEW",16,"NWE","NE",,,"Patriots","New England Patriots","http://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo.png"
+"NYG",17,,,,,"Giants","New York Giants","http://loodibee.com/wp-content/uploads/nfl-new-york-giants-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-new-york-giants-team-logo.png"
+"NYJ",18,,,,,"Jets","New York Jets","http://loodibee.com/wp-content/uploads/new-york-jets-logo-1978-1997.png","http://loodibee.com/wp-content/uploads/nfl-new-york-jets-team-logo.png"
+"OAK",27,"RAI",,,,"Raiders","Oakland Raiders","http://loodibee.com/wp-content/uploads/oakland-raiders-logo-1963.png","http://loodibee.com/wp-content/uploads/nfl-oakland-raiders-team-logo.png"
+"PHI",20,,,,,"Eagles","Philadelphia Eagles","http://loodibee.com/wp-content/uploads/nfl-philadelphia-eagles-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-philadelphia-eagles-team-logo.png"
+"PIT",21,,,,,"Steelers","Pittsburgh Steelers","http://loodibee.com/wp-content/uploads/nfl-pittsburgh-steelers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-pittsburgh-steelers-team-logo.png"
+"SEA",24,,,,,"Seahawks","Seattle Seahawks","http://loodibee.com/wp-content/uploads/nfl-seattle-seahawks-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-seattle-seahawks-team-logo.png"
+"SFO",28,"SF",,,,"49ers","San Francisco 49ers","http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo.png"
+"TAM",25,"TB",,,,"Buccaneers","Tampa Bay Buccaneers","http://loodibee.com/wp-content/uploads/nfl-tampa-bay-buccaneers-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-tampa-bay-buccaneers-team-logo.png"
+"TEN",19,,,,,"Titans","Tennessee Titans","http://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo.png"
+"WAS",26,"WSH",,,,"Redskins","Washington Redskins","http://loodibee.com/wp-content/uploads/nfl-washington-redskins-team-logo-2.png","http://loodibee.com/wp-content/uploads/nfl-washington-redskins-team-logo.png"
