@@ -1,0 +1,131 @@
+#!/usr/bin/env python3.7
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 28 11:30:50 2019
+
+@author: ejreidelbach
+
+:DESCRIPTION:
+
+:REQUIRES:
+    Refer to the Package Import section of the script
+    
+:TODO:
+    TBD
+"""
+ 
+#==============================================================================
+# Package Import
+#==============================================================================
+import glob
+import os  
+import pandas as pd
+import pathlib
+import tqdm
+import urllib
+
+from PIL import Image
+
+#==============================================================================
+# Reference Variable Declaration
+#==============================================================================
+
+#==============================================================================
+# Function Definitions
+#==============================================================================
+def download_image(url, team, folder):
+    '''
+    Purpose: Given an image URL and a desired format (i.e. 'JPEG', 'PNG'),
+        download the specified image, resize it, and save it to disk
+
+    Inputs   
+    ------
+        url : string
+            URL of image
+        team : string
+            Name of team being scraped
+        folder : string
+            Desired folder name to output file
+        height : int
+            Desired height to resize image
+            
+    Outputs
+    -------
+        var1 : type
+            description
+        var2 : type
+            description
+    '''
+    # set the extension file type of the image based on the url
+    ext = url.split('.')[-1]
+    
+    # set filename to store file on disk
+    filename = folder + team + '.' + ext
+    
+    # scrape image and save images to disk
+    urllib.request.urlretrieve(url, filename)
+    
+    return
+
+def resize_image(filename, size, folder):
+    '''
+    Purpose: Read in an image on a local disk, resize it, and save to disk
+    
+    Inputs
+    ------
+        filename : string
+            path to the file on the local disk
+        size : int
+            Maximum image width/height value
+        folder : string
+            Desired folder name to output file
+            
+    Outputs
+    -------
+        --- : resized image saved to disk
+    '''
+    # read in image from disk
+    img = Image.open(filename)
+
+    # retrieve original width and height values of the image
+    img_width = img.size[0]
+    img_height = img.size[1]
+
+    # scale image proportionally to ensure max of width/height is == size    
+    if img_height > img_width:
+        height = size
+        hpercent = height / float(img_height)
+        width = int(float(img_width) * float(hpercent))
+    else:
+        width = size
+        wpercent = width / float(img_width)
+        height = int(float(img_height) * float(wpercent))
+    
+    # convert to thumbnail image using desired height/width
+    img.thumbnail((width, height), Image.BICUBIC)
+
+    # set output file
+    outfile = folder + filename.split('/')[-1]
+
+    # save thumbnail to disk (overwrites original filename)
+    img.save(outfile)
+    
+    return
+        
+#==============================================================================
+# Working Code
+#==============================================================================
+
+# Set the project working directory
+path_dir = pathlib.Path('/home/ejreidelbach/Projects/CollegeFootball')
+os.chdir(path_dir)
+
+df_team = pd.read_csv('/home/ejreidelbach/Projects/CollegeFootball/' + 
+                      'Data/teams_ncaa.csv')
+
+for index, row in tqdm.tqdm(df_team.iterrows()):
+    if row['FBS']:
+        download_image(row['logo'], row['Team'], 'Images/logos_ncaa/original/')
+        
+for file in tqdm.tqdm(glob.glob('Images/logos_ncaa/original/*.png')):
+    resize_image(file, 50, 'Images/logos_ncaa/')
