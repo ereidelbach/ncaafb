@@ -183,6 +183,12 @@ ax.set_ylim(ax.get_ylim()[::-1])
 ax.set_xlabel('Offensive S&P Rating', fontsize = 17, weight = 'bold', alpha = 0.85)
 ax.set_ylabel('Defensive S&P Rating', fontsize = 17, weight = 'bold', alpha = 0.85)
 
+# draw diagonal line
+ax.plot(df_sp['offense'].median(), 
+        df_sp['defense'].median(),
+        'red',
+        linewidth = 10)
+
 # add signature bar
 sig_x = min(x) - 5
 sig_y = max(y) + 4.5

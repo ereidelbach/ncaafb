@@ -128,4 +128,4 @@ for index, row in tqdm.tqdm(df_team.iterrows()):
         download_image(row['logo'], row['Team'], 'Images/logos_ncaa/original/')
         
 for file in tqdm.tqdm(glob.glob('Images/logos_ncaa/original/*.png')):
-    resize_image(file, 50, 'Images/logos_ncaa/')
+    resize_image(file, 40, 'Images/logos_ncaa/')
