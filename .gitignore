@@ -4,6 +4,7 @@
 # ignore an entire directory
 #/mydebugdir/
 /Data/CFBStats/
+/code_python/__pycache__/
 
 # ignore a file type
 #*.json
