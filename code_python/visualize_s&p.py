@@ -209,6 +209,10 @@ for x0, y0, logo in zip(x, y, logos):
     
 # draw median lines
 plt.axhline(df_sp['defense'].median(), color = 'blue', 
-            linestyle = '--', alpha = 0.5, label = '50th Percentile') # horizontal line
+            linestyle = '--', alpha = 0.5) # horizontal line
 plt.axvline(df_sp['offense'].median(), color = 'blue', 
-            linestyle = '--', alpha = 0.5, label = '50th Percentile') # vertical line
+            linestyle = '--', alpha = 0.5) # vertical line
+plt.text(x = 11.2, y = df_sp['defense'].median() - 0.5, 
+         s = '50th percentile (Defense)', alpha = 0.7, color = 'red')
+plt.text(x = df_sp['offense'].median() + 0.2, y = 19.8, 
+         s = '50th percentile (Offense)', alpha = 0.7, color = 'red')
