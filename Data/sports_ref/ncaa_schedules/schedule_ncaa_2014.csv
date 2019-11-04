@@ -1,0 +1,869 @@
+season,week,date,home_team,home_points,home_code,away_team,away_points,away_code,neutral_site,venue
+2014,1,20140827,Georgia St.,38,125,Abilene Christian,37,236,False,Georgia Dome
+2014,1,20140828,South Carolina,28,117,Texas A&M,52,119,False,Williams-Brice Stadium
+2014,1,20140828,Northern Illinois,55,79,Presbyterian,3,151,False,Brigham Field at Huskie Stadium
+2014,1,20140828,Central Michigan,20,75,Chattanooga,16,227,False,Kelly/Shorts Stadium
+2014,1,20140828,UL Monroe,17,130,Wake Forest,10,26,False,Malone Stadium
+2014,1,20140828,Minnesota,42,33,Eastern Illinois,20,202,False,TCF Bank Stadium
+2014,1,20140828,Akron,41,71,Howard,0,176,False,Summa Field at InfoCision Stadium
+2014,1,20140828,Utah,56,104,Idaho State,14,134,False,Rice-Eccles Stadium
+2014,1,20140828,Tulsa,38,12,Tulane,31,11,False,Skelly Field at H. A. Chapman Stadium
+2014,1,20140828,Ole Miss,35,116,Boise St.,13,84,True,Georgia Dome
+2014,1,20140828,New Mexico State,28,69,Cal Poly,10,131,False,Aggie Memorial Stadium
+2014,1,20140828,Washington St.,38,106,Rutgers,41,39,False,CenturyLink Field
+2014,1,20140828,San Jose St.,42,91,North Dakota,10,164,False,Spartan Stadium
+2014,1,20140828,Arizona St.,45,96,Weber State,14,143,False,Sun Devil Stadium
+2014,1,20140828,Vanderbilt,7,120,Temple,37,10,False,Vanderbilt Stadium
+2014,1,20140829,Connecticut,10,3,BYU,35,66,False,Rentschler Field
+2014,1,20140829,Michigan St.,45,32,Jacksonville State,7,204,False,Spartan Stadium
+2014,1,20140829,Syracuse,27,23,Villanova,26,162,False,Carrier Dome
+2014,1,20140829,Western Kentucky,59,64,Bowling Green,31,73,False,Houchens Industries-L. T. Smith Stadium
+2014,1,20140829,Colorado,17,98,Colorado St.,31,85,True,Sports Authority Field at Mile High
+2014,1,20140829,Houston,7,5,UTSA,27,63,False,John O'Quinn Field at TDECU Stadium
+2014,1,20140829,Arizona,58,95,UNLV,13,92,False,Arizona Stadium
+2014,1,20140830,Central Florida,24,1,Penn State,26,37,True,Croke Park Stadium
+2014,1,20140830,Pittsburgh,62,22,Delaware,0,153,False,Heinz Field
+2014,1,20140830,Indiana,28,28,Indiana State,10,183,False,Memorial Stadium
+2014,1,20140830,Illinois,28,27,Youngstown State,17,191,False,Memorial Stadium
+2014,1,20140830,Iowa St.,14,42,North Dakota State,34,185,False,Jack Trice Stadium
+2014,1,20140830,Michigan,52,31,Appalachian St.,14,121,False,Michigan Stadium
+2014,1,20140830,Navy,17,7,Ohio St.,34,36,True,M&T Bank Stadium
+2014,1,20140830,Virginia,20,24,UCLA,28,102,False,Scott Stadium
+2014,1,20140830,Kentucky,59,112,Tennessee-Martin,14,209,False,Kroger Field
+2014,1,20140830,UAB,48,61,Troy,10,129,False,Legion Field
+2014,1,20140830,Purdue,43,38,Western Michigan,34,82,False,Ross-Ade Stadium
+2014,1,20140830,Iowa,31,29,Northern Iowa,23,186,False,Kinnick Stadium
+2014,1,20140830,NC State,24,20,Georgia Southern,23,124,False,Carter-Finley Stadium
+2014,1,20140830,Georgia Tech,38,17,Wofford,19,235,False,Bobby Dodd Stadium at Historic Grant Field
+2014,1,20140830,Ball St.,30,72,Colgate,10,211,False,Scheumann Stadium
+2014,1,20140830,Air Force,44,83,Nicholls State,16,242,False,Falcon Stadium
+2014,1,20140830,Nevada,28,88,Southern Utah,19,141,False,Mackay Stadium
+2014,1,20140830,Massachusetts,7,68,Boston College,30,13,False,Gillette Stadium
+2014,1,20140830,Miami (OH),27,78,Marshall,42,55,False,Yager Stadium
+2014,1,20140830,Nebraska,55,34,Florida Atlantic,7,52,False,Memorial Stadium
+2014,1,20140830,Missouri,38,115,South Dakota State,18,188,False,Faurot Field
+2014,1,20140830,Notre Dame,48,70,Rice,17,59,False,Notre Dame Stadium
+2014,1,20140830,Alabama,33,107,West Virginia,23,50,True,Georgia Dome
+2014,1,20140830,Maryland,52,30,James Madison,7,155,False,Maryland Stadium
+2014,1,20140830,Northwestern,24,35,California,31,97,False,Ryan Field
+2014,1,20140830,Buffalo,38,74,Duquesne,28,194,False,UB Stadium
+2014,1,20140830,Old Dominion,41,58,Hampton,28,147,False,Foreman Field
+2014,1,20140830,Stanford,45,101,UC Davis,0,142,False,Stanford Stadium
+2014,1,20140830,Wyoming,17,94,Montana,12,135,False,War Memorial Stadium
+2014,1,20140830,Oregon St.,29,100,Portland State,14,139,False,Reser Stadium
+2014,1,20140830,Virginia Tech,34,25,William & Mary,9,163,False,Lane Stadium
+2014,1,20140830,Auburn,45,109,Arkansas,21,108,False,Jordan-Hare Stadium
+2014,1,20140830,Georgia,45,111,Clemson,21,14,False,Sanford Stadium
+2014,1,20140830,North Carolina,56,21,Liberty,29,67,False,Kenan Memorial Stadium
+2014,1,20140830,Eastern Michigan,31,76,Morgan State,28,177,False,Rynearson Stadium
+2014,1,20140830,Duke,52,15,Elon,13,154,False,Wallace Wade Stadium
+2014,1,20140830,Kent State,14,77,Ohio,17,80,False,Dix Stadium
+2014,1,20140830,Texas Tech,42,49,Central Arkansas,35,237,False,Jones AT&T Stadium
+2014,1,20140830,Oklahoma,48,45,Louisiana Tech,16,54,False,Gaylord Family Oklahoma Memorial Stadium
+2014,1,20140830,Toledo,54,81,New Hampshire,20,157,False,Glass Bowl
+2014,1,20140830,Middle Tennessee,61,56,Savannah State,7,383,False,"Johnny Red"""" Floyd Stadium"""""
+2014,1,20140830,Florida Intl,12,53,Bethune-Cookman,14,173,False,FIU Stadium
+2014,1,20140830,San Diego St.,38,90,Northern Arizona,7,137,False,Qualcomm Stadium
+2014,1,20140830,Memphis,63,6,Austin Peay,0,201,False,Liberty Bowl Memorial Stadium
+2014,1,20140830,South Florida,36,9,Western Carolina,31,234,False,Raymond James Stadium
+2014,1,20140830,TCU,48,47,Samford,14,232,False,Amon G. Carter Stadium
+2014,1,20140830,Arkansas St.,37,122,Montana State,10,136,False,Centennial Bank Stadium
+2014,1,20140830,Louisiana,45,126,Southern,6,255,False,Cajun Field
+2014,1,20140830,Texas St.,65,128,Arkansas-Pine Bluff,0,250,False,Jim Wacker Field at Bobcat Stadium
+2014,1,20140830,Kansas St.,55,44,Stephen F. Austin,16,246,False,Bill Snyder Family Football Stadium
+2014,1,20140830,Mississippi St.,49,114,Southern Miss,0,60,False,Davis Wade Stadium
+2014,1,20140830,USC,52,103,Fresno St.,13,86,False,Los Angeles Memorial Coliseum
+2014,1,20140830,Oklahoma St.,31,46,Florida St.,37,16,True,AT&T Stadium
+2014,1,20140830,New Mexico,24,89,UTEP,31,62,False,University Stadium
+2014,1,20140830,Texas,38,48,North Texas,7,57,False,Darrell K Royal-Texas Memorial Stadium
+2014,1,20140830,East Carolina,52,4,North Carolina Central,7,180,False,Dowdy-Ficklen Stadium
+2014,1,20140830,LSU,28,113,Wisconsin,24,40,True,NRG Stadium
+2014,1,20140830,Hawaii,16,87,Washington,17,105,False,Aloha Stadium
+2014,1,20140830,Oregon,62,99,South Dakota,13,187,False,Autzen Stadium
+2014,1,20140831,Tennessee,38,118,Utah St.,7,93,False,Neyland Stadium
+2014,1,20140831,Baylor,45,41,SMU,0,8,False,McLane Stadium
+2014,1,20140901,Louisville,31,18,Miami (FL),13,19,False,Papa John's Cardinal Stadium
+2014,2,20140904,UTSA,23,63,Arizona,26,95,False,Alamodome
+2014,2,20140905,Boston College,20,13,Pittsburgh,30,22,False,Alumni Stadium
+2014,2,20140905,Nevada,24,88,Washington St.,13,106,False,Mackay Stadium
+2014,2,20140906,Army,47,65,Buffalo,39,74,False,Blaik Field at Michie Stadium
+2014,2,20140906,Nebraska,31,34,McNeese State,24,241,False,Memorial Stadium
+2014,2,20140906,Iowa St.,28,42,Kansas St.,32,44,False,Jack Trice Stadium
+2014,2,20140906,Tennessee,34,118,Arkansas St.,19,122,False,Neyland Stadium
+2014,2,20140906,Alabama,41,107,Florida Atlantic,0,52,False,Bryant Denny Stadium
+2014,2,20140906,Tulsa,7,12,Oklahoma,52,45,False,Skelly Field at H. A. Chapman Stadium
+2014,2,20140906,Penn State,21,37,Akron,3,71,False,Beaver Stadium
+2014,2,20140906,Illinois,42,27,Western Kentucky,34,64,False,Memorial Stadium
+2014,2,20140906,North Texas,43,57,SMU,6,8,False,Apogee Stadium
+2014,2,20140906,Connecticut,19,3,Stony Brook,16,160,False,Rentschler Field
+2014,2,20140906,Wisconsin,37,40,Western Illinois,3,190,False,Camp Randall Stadium
+2014,2,20140906,Rutgers,38,39,Howard,25,176,False,High Point Solutions Stadium
+2014,2,20140906,Purdue,17,38,Central Michigan,38,75,False,Ross-Ade Stadium
+2014,2,20140906,Toledo,24,81,Missouri,49,115,False,Glass Bowl
+2014,2,20140906,Clemson,73,14,South Carolina State,7,181,False,Memorial Stadium
+2014,2,20140906,Temple,24,10,Navy,31,7,False,Lincoln Financial Field
+2014,2,20140906,Kent State,13,77,South Alabama,23,127,False,Dix Stadium
+2014,2,20140906,Mississippi St.,47,114,UAB,34,61,False,Davis Wade Stadium
+2014,2,20140906,Georgia St.,31,125,New Mexico State,34,69,False,Georgia Dome
+2014,2,20140906,Utah,59,104,Fresno St.,27,86,False,Rice-Eccles Stadium
+2014,2,20140906,California,55,97,Sacramento State,14,140,False,California Memorial Stadium
+2014,2,20140906,Massachusetts,38,68,Colorado,41,98,False,Gillette Stadium
+2014,2,20140906,Washington,59,105,Eastern Washington,52,132,False,Husky Stadium
+2014,2,20140906,Minnesota,35,33,Middle Tennessee,24,56,False,TCF Bank Stadium
+2014,2,20140906,Oklahoma St.,40,46,Missouri State,23,184,False,Boone Pickens Stadium
+2014,2,20140906,Virginia,45,24,Richmond,13,159,False,Scott Stadium
+2014,2,20140906,Iowa,17,29,Ball St.,13,72,False,Kinnick Stadium
+2014,2,20140906,Stanford,10,101,USC,13,103,False,Stanford Stadium
+2014,2,20140906,Miami (OH),10,78,Eastern Kentucky,17,203,False,Yager Stadium
+2014,2,20140906,Bowling Green,48,73,VMI,7,233,False,Doyt Perry Stadium
+2014,2,20140906,Kentucky,20,112,Ohio,3,80,False,Kroger Field
+2014,2,20140906,Northwestern,15,35,Northern Illinois,23,79,False,Ryan Field
+2014,2,20140906,South Florida,17,9,Maryland,24,30,False,Raymond James Stadium
+2014,2,20140906,Arkansas,73,108,Nicholls State,7,242,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,2,20140906,Tulane,21,11,Georgia Tech,38,17,False,Benson Field at Yulman Stadium
+2014,2,20140906,Florida,65,110,Eastern Michigan,0,76,False,Ben Hill Griffin Stadium
+2014,2,20140906,Vanderbilt,3,120,Ole Miss,41,116,False,Nissan Stadium
+2014,2,20140906,Appalachian St.,66,121,Campbell,0,144,False,Kidd Brewer Stadium
+2014,2,20140906,Florida Intl,34,53,Wagner,3,200,False,FIU Stadium
+2014,2,20140906,NC State,46,20,Old Dominion,34,58,False,Carter-Finley Stadium
+2014,2,20140906,Georgia Southern,83,124,Savannah State,9,383,False,Paulson Stadium
+2014,2,20140906,Wake Forest,23,26,Gardner-Webb,7,146,False,BB&T Field
+2014,2,20140906,Oregon,46,99,Michigan St.,27,32,False,Autzen Stadium
+2014,2,20140906,Southern Miss,26,60,Alcorn State,20,249,False,M. M. Roberts Stadium
+2014,2,20140906,Louisville,66,18,Murray State,21,205,False,Papa John's Cardinal Stadium
+2014,2,20140906,New Mexico,23,89,Arizona St.,58,96,False,University Stadium
+2014,2,20140906,Auburn,59,109,San Jose St.,13,91,False,Jordan-Hare Stadium
+2014,2,20140906,South Carolina,33,117,East Carolina,23,4,False,Williams-Brice Stadium
+2014,2,20140906,Kansas,34,43,Southeast Missouri,28,206,False,Memorial Stadium
+2014,2,20140906,Miami (FL),41,19,Florida A&M,7,175,False,Hard Rock Stadium
+2014,2,20140906,Troy,17,129,Duke,34,15,False,Veterans Memorial Stadium
+2014,2,20140906,Louisiana,20,126,Louisiana Tech,48,54,False,Cajun Field
+2014,2,20140906,Marshall,48,55,Rhode Island,7,158,False,Joan C. Edwards Stadium
+2014,2,20140906,UL Monroe,38,130,Idaho,31,133,False,Malone Stadium
+2014,2,20140906,Texas,7,48,BYU,41,66,False,Darrell K Royal-Texas Memorial Stadium
+2014,2,20140906,West Virginia,54,50,Towson,0,161,False,Mountaineer Field at Milan Puskar Stadium
+2014,2,20140906,Florida St.,37,16,Citadel,12,228,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,2,20140906,Texas A&M,73,119,Lamar,3,240,False,Kyle Field
+2014,2,20140906,Baylor,70,41,Northwestern State,6,243,False,McLane Stadium
+2014,2,20140906,LSU,56,113,Sam Houston State,0,244,False,Tiger Stadium
+2014,2,20140906,Notre Dame,31,70,Michigan,0,31,False,Notre Dame Stadium
+2014,2,20140906,Houston,47,5,Grambling,0,251,False,John O'Quinn Field at TDECU Stadium
+2014,2,20140906,Ohio St.,21,36,Virginia Tech,35,25,False,Ohio Stadium
+2014,2,20140906,Utah St.,40,93,Idaho State,20,134,False,Romney Stadium
+2014,2,20140906,North Carolina,31,21,San Diego St.,27,90,False,Kenan Memorial Stadium
+2014,2,20140906,UCLA,42,102,Memphis,35,6,False,Rose Bowl
+2014,2,20140906,UNLV,13,92,Northern Colorado,12,138,False,Sam Boyd Stadium
+2014,2,20140906,Boise St.,37,84,Colorado St.,24,85,False,Albertsons Stadium
+2014,2,20140906,Wyoming,17,94,Air Force,13,83,False,War Memorial Stadium
+2014,2,20140906,Hawaii,30,87,Oregon St.,38,100,False,Aloha Stadium
+2014,2,20140906,UTEP,26,62,Texas Tech,30,49,False,Sun Bowl Stadium
+2014,3,20140911,North Texas,21,57,Louisiana Tech,42,54,False,Apogee Stadium
+2014,3,20140911,BYU,33,66,Houston,25,5,False,LaVell Edwards Stadium
+2014,3,20140912,Cincinnati,58,2,Toledo,34,81,False,Paul Brown Stadium
+2014,3,20140912,Buffalo,21,74,Baylor,63,41,False,UB Stadium
+2014,3,20140913,Ohio St.,66,36,Kent State,0,77,False,Ohio Stadium
+2014,3,20140913,Bowling Green,45,73,Indiana,42,28,False,Doyt Perry Stadium
+2014,3,20140913,Missouri,38,115,Central Florida,10,1,False,Faurot Field
+2014,3,20140913,Virginia Tech,21,25,East Carolina,28,4,False,Lane Stadium
+2014,3,20140913,Vanderbilt,34,120,Massachusetts,31,68,False,Vanderbilt Stadium
+2014,3,20140913,Maryland,37,30,West Virginia,40,50,False,Maryland Stadium
+2014,3,20140913,Central Michigan,3,75,Syracuse,40,23,False,Kelly/Shorts Stadium
+2014,3,20140913,Florida Intl,25,53,Pittsburgh,42,22,False,FIU Stadium
+2014,3,20140913,Georgia Tech,42,17,Georgia Southern,38,124,False,Bobby Dodd Stadium at Historic Grant Field
+2014,3,20140913,Connecticut,21,3,Boise St.,38,84,False,Rentschler Field
+2014,3,20140913,Marshall,44,55,Ohio,14,80,False,Joan C. Edwards Stadium
+2014,3,20140913,Virginia,23,24,Louisville,21,18,False,Scott Stadium
+2014,3,20140913,Georgia St.,38,125,Air Force,48,83,False,Georgia Dome
+2014,3,20140913,Oregon,48,99,Wyoming,14,94,False,Autzen Stadium
+2014,3,20140913,Ball St.,20,72,Indiana State,27,183,False,Scheumann Stadium
+2014,3,20140913,Colorado St.,49,85,UC Davis,21,142,False,Sonny Lubick Field at Hughes Stadium
+2014,3,20140913,Texas Tech,28,49,Arkansas,49,108,False,Jones AT&T Stadium
+2014,3,20140913,Miami (FL),41,19,Arkansas St.,20,122,False,Hard Rock Stadium
+2014,3,20140913,Duke,41,15,Kansas,3,43,False,Wallace Wade Stadium
+2014,3,20140913,UAB,41,61,Alabama A&M,14,247,False,Legion Field
+2014,3,20140913,Iowa,17,29,Iowa St.,20,42,False,Kinnick Stadium
+2014,3,20140913,South Florida,17,9,NC State,49,20,False,Raymond James Stadium
+2014,3,20140913,Michigan,34,31,Miami (OH),10,78,False,Michigan Stadium
+2014,3,20140913,South Carolina,38,117,Georgia,35,111,False,Williams-Brice Stadium
+2014,3,20140913,South Alabama,3,127,Mississippi St.,35,114,False,Ladd Peebles Stadium
+2014,3,20140913,Ole Miss,56,116,Louisiana,15,126,False,Vaught-Hemingway Stadium
+2014,3,20140913,TCU,30,47,Minnesota,7,33,False,Amon G. Carter Stadium
+2014,3,20140913,Washington,44,105,Illinois,19,27,False,Husky Stadium
+2014,3,20140913,Idaho,33,133,Western Michigan,45,82,False,Kibbie Dome
+2014,3,20140913,Stanford,35,101,Army,0,65,False,Stanford Stadium
+2014,3,20140913,Alabama,52,107,Southern Miss,12,60,False,Bryant Denny Stadium
+2014,3,20140913,Old Dominion,17,58,Eastern Michigan,3,76,False,Foreman Field
+2014,3,20140913,UNLV,34,92,Northern Illinois,48,79,False,Sam Boyd Stadium
+2014,3,20140913,LSU,31,113,UL Monroe,0,130,False,Tiger Stadium
+2014,3,20140913,Middle Tennessee,50,56,Western Kentucky,47,64,False,"Johnny Red"""" Floyd Stadium"""""
+2014,3,20140913,Oklahoma St.,43,46,UTSA,13,63,False,Boone Pickens Stadium
+2014,3,20140913,Utah St.,36,93,Wake Forest,24,26,False,Romney Stadium
+2014,3,20140913,Florida Atlantic,50,52,Tulsa,21,12,False,FAU Stadium
+2014,3,20140913,Troy,35,129,Abilene Christian,38,236,False,Veterans Memorial Stadium
+2014,3,20140913,Florida,36,110,Kentucky,30,112,False,Ben Hill Griffin Stadium
+2014,3,20140913,Notre Dame,30,70,Purdue,14,38,True,Lucas Oil Stadium
+2014,3,20140913,Oklahoma,34,45,Tennessee,10,118,False,Gaylord Family Oklahoma Memorial Stadium
+2014,3,20140913,Boston College,37,13,USC,31,103,False,Alumni Stadium
+2014,3,20140913,Rutgers,10,39,Penn State,13,37,False,High Point Solutions Stadium
+2014,3,20140913,UTEP,42,62,New Mexico State,24,69,False,Sun Bowl Stadium
+2014,3,20140913,Tulane,35,11,Southeastern Louisiana,20,245,False,Benson Field at Yulman Stadium
+2014,3,20140913,Texas St.,21,128,Navy,35,7,False,Jim Wacker Field at Bobcat Stadium
+2014,3,20140913,Washington St.,59,106,Portland State,21,139,False,Martin Stadium
+2014,3,20140913,Texas,17,48,UCLA,20,102,True,AT&T Stadium
+2014,3,20140913,Texas A&M,38,119,Rice,10,59,False,Kyle Field
+2014,3,20140913,Colorado,24,98,Arizona St.,38,96,False,Folsom Field
+2014,3,20140913,Fresno St.,19,86,Nebraska,55,34,False,Bulldog Stadium
+2014,3,20140913,Arizona,35,95,Nevada,28,88,False,Arizona Stadium
+2014,3,20140914,Hawaii,27,87,Northern Iowa,24,186,False,Aloha Stadium
+2014,4,20140918,Kansas St.,14,44,Auburn,20,109,False,Bill Snyder Family Football Stadium
+2014,4,20140919,South Florida,17,9,Connecticut,14,3,False,Raymond James Stadium
+2014,4,20140920,Virginia Tech,24,25,Georgia Tech,27,17,False,Lane Stadium
+2014,4,20140920,Northwestern,24,35,Western Illinois,7,190,False,Ryan Field
+2014,4,20140920,Purdue,35,38,Southern Illinois,13,189,False,Ross-Ade Stadium
+2014,4,20140920,Rice,42,59,Old Dominion,45,58,False,Rice Stadium
+2014,4,20140920,Michigan St.,73,32,Eastern Michigan,14,76,False,Spartan Stadium
+2014,4,20140920,Georgia,66,111,Troy,0,129,False,Sanford Stadium
+2014,4,20140920,Wisconsin,68,40,Bowling Green,17,73,False,Camp Randall Stadium
+2014,4,20140920,Pittsburgh,20,22,Iowa,24,29,False,Heinz Field
+2014,4,20140920,Duke,47,15,Tulane,13,11,False,Wallace Wade Stadium
+2014,4,20140920,Syracuse,20,23,Maryland,34,30,False,Carrier Dome
+2014,4,20140920,Boston College,40,13,Maine,10,156,False,Alumni Stadium
+2014,4,20140920,Temple,59,10,Delaware State,0,174,False,Lincoln Financial Field
+2014,4,20140920,Akron,17,71,Marshall,48,55,False,Summa Field at InfoCision Stadium
+2014,4,20140920,Colorado,21,98,Hawaii,12,87,False,Folsom Field
+2014,4,20140920,East Carolina,70,4,North Carolina,41,21,False,Dowdy-Ficklen Stadium
+2014,4,20140920,Alabama,42,107,Florida,21,110,False,Bryant Denny Stadium
+2014,4,20140920,SMU,6,8,Texas A&M,58,119,False,Gerald J. Ford Stadium
+2014,4,20140920,BYU,41,66,Virginia,33,24,False,LaVell Edwards Stadium
+2014,4,20140920,North Texas,77,57,Nicholls State,3,242,False,Apogee Stadium
+2014,4,20140920,Buffalo,36,74,Norfolk State,7,178,False,UB Stadium
+2014,4,20140920,Wake Forest,24,26,Army,21,65,False,BB&T Field
+2014,4,20140920,Florida Intl,3,53,Louisville,34,18,False,FIU Stadium
+2014,4,20140920,Kansas,24,43,Central Michigan,10,75,False,Memorial Stadium
+2014,4,20140920,Navy,24,7,Rutgers,31,39,False,Navy-Marine Corps Memorial Stadium
+2014,4,20140920,Michigan,10,31,Utah,26,104,False,Michigan Stadium
+2014,4,20140920,Illinois,42,27,Texas St.,35,128,False,Memorial Stadium
+2014,4,20140920,Minnesota,24,33,San Jose St.,7,91,False,TCF Bank Stadium
+2014,4,20140920,Missouri,27,115,Indiana,31,28,False,Faurot Field
+2014,4,20140920,Wyoming,20,94,Florida Atlantic,19,52,False,War Memorial Stadium
+2014,4,20140920,Penn State,48,37,Massachusetts,7,68,False,Beaver Stadium
+2014,4,20140920,Central Florida,41,1,Bethune-Cookman,7,173,False,Bright House Networks Stadium
+2014,4,20140920,Washington,45,105,Georgia St.,14,125,False,Husky Stadium
+2014,4,20140920,NC State,42,20,Presbyterian,0,151,False,Carter-Finley Stadium
+2014,4,20140920,LSU,29,113,Mississippi St.,34,114,False,Tiger Stadium
+2014,4,20140920,Arkansas,52,108,Northern Illinois,14,79,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,4,20140920,Arkansas St.,21,122,Utah St.,14,93,False,Centennial Bank Stadium
+2014,4,20140920,Cincinnati,31,2,Miami (OH),24,78,False,Paul Brown Stadium
+2014,4,20140920,Memphis,36,6,Middle Tennessee,17,56,False,Liberty Bowl Memorial Stadium
+2014,4,20140920,Louisiana Tech,27,54,Northwestern State,30,243,False,Joe Aillet Stadium
+2014,4,20140920,Southern Miss,21,60,Appalachian St.,20,121,False,M. M. Roberts Stadium
+2014,4,20140920,Toledo,34,81,Ball St.,23,72,False,Glass Bowl
+2014,4,20140920,Ohio,36,80,Idaho,24,133,False,Peden Stadium
+2014,4,20140920,Western Michigan,45,82,Murray State,14,205,False,Waldo Stadium
+2014,4,20140920,Vanderbilt,34,120,South Carolina,48,117,False,Vanderbilt Stadium
+2014,4,20140920,South Alabama,6,127,Georgia Southern,28,124,False,Ladd Peebles Stadium
+2014,4,20140920,West Virginia,33,50,Oklahoma,45,45,False,Mountaineer Field at Milan Puskar Stadium
+2014,4,20140920,New Mexico State,35,69,New Mexico,38,89,False,Aggie Memorial Stadium
+2014,4,20140920,Houston,47,5,UNLV,14,92,False,John O'Quinn Field at TDECU Stadium
+2014,4,20140920,Florida St.,23,16,Clemson,17,14,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,4,20140920,Nebraska,41,34,Miami (FL),31,19,False,Memorial Stadium
+2014,4,20140920,Arizona,49,95,California,45,97,False,Arizona Stadium
+2014,4,20140920,Fresno St.,56,86,Southern Utah,16,141,False,Bulldog Stadium
+2014,4,20140920,Washington St.,31,106,Oregon,38,99,False,Martin Stadium
+2014,4,20140920,Oregon St.,28,100,San Diego St.,7,90,False,Reser Stadium
+2014,4,20140920,Boise St.,34,84,Louisiana,9,126,False,Albertsons Stadium
+2014,5,20140925,Oklahoma St.,45,46,Texas Tech,35,49,False,Boone Pickens Stadium
+2014,5,20140925,Georgia Southern,34,124,Appalachian St.,14,121,False,Paulson Stadium
+2014,5,20140925,Arizona St.,27,96,UCLA,62,102,False,Sun Devil Stadium
+2014,5,20140926,New Mexico,24,89,Fresno St.,35,86,False,University Stadium
+2014,5,20140926,Old Dominion,28,58,Middle Tennessee,41,56,False,Foreman Field
+2014,5,20140927,Michigan St.,56,32,Wyoming,14,94,False,Spartan Stadium
+2014,5,20140927,Georgia,35,111,Tennessee,32,118,False,Sanford Stadium
+2014,5,20140927,Penn State,6,37,Northwestern,29,35,False,Beaver Stadium
+2014,5,20140927,Purdue,10,38,Iowa,24,29,False,Ross-Ade Stadium
+2014,5,20140927,Kansas St.,58,44,UTEP,28,62,False,Bill Snyder Family Football Stadium
+2014,5,20140927,Wisconsin,27,40,South Florida,10,9,False,Camp Randall Stadium
+2014,5,20140927,Rutgers,31,39,Tulane,6,11,False,High Point Solutions Stadium
+2014,5,20140927,SMU,0,8,TCU,56,47,False,Gerald J. Ford Stadium
+2014,5,20140927,Kentucky,17,112,Vanderbilt,7,120,False,Kroger Field
+2014,5,20140927,Virginia Tech,35,25,Western Michigan,17,82,False,Lane Stadium
+2014,5,20140927,Boston College,21,13,Colorado St.,24,85,False,Alumni Stadium
+2014,5,20140927,Yale,49,172,Army,43,65,False,Yale Bowl
+2014,5,20140927,Pittsburgh,10,22,Akron,21,71,False,Heinz Field
+2014,5,20140927,Indiana,15,28,Maryland,37,30,False,Memorial Stadium
+2014,5,20140927,Ohio,34,80,Eastern Illinois,19,202,False,Peden Stadium
+2014,5,20140927,Massachusetts,42,68,Bowling Green,47,73,False,Warren McGuirk Alumni Stadium
+2014,5,20140927,Louisville,20,18,Wake Forest,10,26,False,Papa John's Cardinal Stadium
+2014,5,20140927,Buffalo,35,74,Miami (OH),27,78,False,UB Stadium
+2014,5,20140927,Texas A&M,35,119,Arkansas,28,108,True,AT&T Stadium
+2014,5,20140927,NC State,41,20,Florida St.,56,16,False,Carter-Finley Stadium
+2014,5,20140927,Navy,27,7,Western Kentucky,36,64,False,Navy-Marine Corps Memorial Stadium
+2014,5,20140927,Michigan,14,31,Minnesota,30,33,False,Michigan Stadium
+2014,5,20140927,Virginia,45,24,Kent State,13,77,False,Scott Stadium
+2014,5,20140927,UAB,20,61,Florida Intl,34,53,False,Legion Field
+2014,5,20140927,Auburn,45,109,Louisiana Tech,17,54,False,Jordan-Hare Stadium
+2014,5,20140927,Connecticut,10,3,Temple,36,10,False,Rentschler Field
+2014,5,20140927,California,59,97,Colorado,56,98,False,California Memorial Stadium
+2014,5,20140927,Kansas,0,43,Texas,23,48,False,Memorial Stadium
+2014,5,20140927,Washington,13,105,Stanford,20,101,False,Husky Stadium
+2014,5,20140927,Florida Atlantic,41,52,UTSA,37,63,False,FAU Stadium
+2014,5,20140927,Idaho,10,133,South Alabama,34,127,False,Kibbie Dome
+2014,5,20140927,Ohio St.,50,36,Cincinnati,28,2,False,Ohio Stadium
+2014,5,20140927,South Carolina,20,117,Missouri,21,115,False,Williams-Brice Stadium
+2014,5,20140927,Clemson,50,14,North Carolina,35,21,False,Memorial Stadium
+2014,5,20140927,Toledo,42,81,Central Michigan,28,75,False,Glass Bowl
+2014,5,20140927,Southern Miss,23,60,Rice,41,59,False,M. M. Roberts Stadium
+2014,5,20140927,UL Monroe,22,130,Troy,20,129,False,Malone Stadium
+2014,5,20140927,Air Force,28,83,Boise St.,14,84,False,Falcon Stadium
+2014,5,20140927,Miami (FL),22,19,Duke,10,15,False,Hard Rock Stadium
+2014,5,20140927,LSU,63,113,New Mexico State,7,69,False,Tiger Stadium
+2014,5,20140927,Ole Miss,24,116,Memphis,3,6,False,Vaught-Hemingway Stadium
+2014,5,20140927,San Diego St.,34,90,UNLV,17,92,False,Qualcomm Stadium
+2014,5,20140927,Tulsa,34,12,Texas St.,37,128,False,Skelly Field at H. A. Chapman Stadium
+2014,5,20140927,Utah,27,104,Washington St.,28,106,False,Rice-Eccles Stadium
+2014,5,20140927,Syracuse,15,23,Notre Dame,31,70,True,MetLife Stadium
+2014,5,20140927,Iowa St.,28,42,Baylor,49,41,False,Jack Trice Stadium
+2014,5,20140927,Nebraska,45,34,Illinois,14,27,False,Memorial Stadium
+2014,5,20140927,USC,35,103,Oregon St.,10,100,False,Los Angeles Memorial Coliseum
+2014,5,20140927,San Jose St.,10,91,Nevada,21,88,False,Spartan Stadium
+2014,6,20141002,Florida Intl,38,53,Florida Atlantic,10,52,False,FIU Stadium
+2014,6,20141002,Houston,12,5,Central Florida,17,1,False,John O'Quinn Field at TDECU Stadium
+2014,6,20141002,Oregon,24,99,Arizona,31,95,False,Autzen Stadium
+2014,6,20141003,Syracuse,6,23,Louisville,28,18,False,Carrier Dome
+2014,6,20141003,Fresno St.,24,86,San Diego St.,13,90,False,Bulldog Stadium
+2014,6,20141003,BYU,20,66,Utah St.,35,93,False,LaVell Edwards Stadium
+2014,6,20141004,Oklahoma St.,37,46,Iowa St.,20,42,False,Boone Pickens Stadium
+2014,6,20141004,Mississippi St.,48,114,Texas A&M,31,119,False,Davis Wade Stadium
+2014,6,20141004,Maryland,24,30,Ohio St.,52,36,False,Maryland Stadium
+2014,6,20141004,East Carolina,45,4,SMU,24,8,False,Dowdy-Ficklen Stadium
+2014,6,20141004,Tennessee,9,118,Florida,10,110,False,Neyland Stadium
+2014,6,20141004,Illinois,27,27,Purdue,38,38,False,Memorial Stadium
+2014,6,20141004,Old Dominion,14,58,Marshall,56,55,False,Foreman Field
+2014,6,20141004,Middle Tennessee,37,56,Southern Miss,31,60,False,"Johnny Red"""" Floyd Stadium"""""
+2014,6,20141004,Army,33,65,Ball St.,24,72,False,Blaik Field at Michie Stadium
+2014,6,20141004,North Carolina,17,21,Virginia Tech,34,25,False,Kenan Memorial Stadium
+2014,6,20141004,Akron,31,71,Eastern Michigan,6,76,False,Summa Field at InfoCision Stadium
+2014,6,20141004,Miami (OH),42,78,Massachusetts,41,68,False,Yager Stadium
+2014,6,20141004,Indiana,49,28,North Texas,24,57,False,Memorial Stadium
+2014,6,20141004,Colorado St.,42,85,Tulsa,17,12,False,Sonny Lubick Field at Hughes Stadium
+2014,6,20141004,Notre Dame,17,70,Stanford,14,101,False,Notre Dame Stadium
+2014,6,20141004,Ole Miss,23,116,Alabama,17,107,False,Vaught-Hemingway Stadium
+2014,6,20141004,Air Force,30,83,Navy,21,7,False,Falcon Stadium
+2014,6,20141004,Northwestern,20,35,Wisconsin,14,40,False,Ryan Field
+2014,6,20141004,Texas,7,48,Baylor,28,41,False,Darrell K Royal-Texas Memorial Stadium
+2014,6,20141004,Florida St.,43,16,Wake Forest,3,26,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,6,20141004,TCU,37,47,Oklahoma,33,45,False,Amon G. Carter Stadium
+2014,6,20141004,Clemson,41,14,NC State,0,20,False,Memorial Stadium
+2014,6,20141004,Central Michigan,28,75,Ohio,10,80,False,Kelly/Shorts Stadium
+2014,6,20141004,Bowling Green,36,73,Buffalo,35,74,False,Doyt Perry Stadium
+2014,6,20141004,UTSA,9,63,New Mexico,21,89,False,Alamodome
+2014,6,20141004,Colorado,31,98,Oregon St.,36,100,False,Folsom Field
+2014,6,20141004,West Virginia,33,50,Kansas,14,43,False,Mountaineer Field at Milan Puskar Stadium
+2014,6,20141004,Georgia,44,111,Vanderbilt,17,120,False,Sanford Stadium
+2014,6,20141004,Northern Illinois,17,79,Kent State,14,77,False,Brigham Field at Huskie Stadium
+2014,6,20141004,Appalachian St.,21,121,South Alabama,47,127,False,Kidd Brewer Stadium
+2014,6,20141004,Western Michigan,19,82,Toledo,20,81,False,Waldo Stadium
+2014,6,20141004,Kansas St.,45,44,Texas Tech,13,49,False,Bill Snyder Family Football Stadium
+2014,6,20141004,Arkansas St.,28,122,UL Monroe,14,130,False,Centennial Bank Stadium
+2014,6,20141004,Louisiana,34,126,Georgia St.,31,125,False,Cajun Field
+2014,6,20141004,Rice,28,59,Hawaii,14,87,False,Rice Stadium
+2014,6,20141004,Texas St.,35,128,Idaho,30,133,False,Jim Wacker Field at Bobcat Stadium
+2014,6,20141004,Rutgers,26,39,Michigan,24,31,False,High Point Solutions Stadium
+2014,6,20141004,Western Kentucky,39,64,UAB,42,61,False,Houchens Industries-L. T. Smith Stadium
+2014,6,20141004,Louisiana Tech,55,54,UTEP,3,62,False,Joe Aillet Stadium
+2014,6,20141004,Cincinnati,14,2,Memphis,41,6,False,Paul Brown Stadium
+2014,6,20141004,Auburn,41,109,LSU,7,113,False,Jordan-Hare Stadium
+2014,6,20141004,Georgia Tech,28,17,Miami (FL),17,19,False,Bobby Dodd Stadium at Historic Grant Field
+2014,6,20141004,USC,34,103,Arizona St.,38,96,False,Los Angeles Memorial Coliseum
+2014,6,20141004,Virginia,24,24,Pittsburgh,19,22,False,Scott Stadium
+2014,6,20141004,Kentucky,45,112,South Carolina,38,117,False,Kroger Field
+2014,6,20141004,New Mexico State,28,69,Georgia Southern,36,124,False,Aggie Memorial Stadium
+2014,6,20141004,Michigan St.,27,32,Nebraska,22,34,False,Spartan Stadium
+2014,6,20141004,San Jose St.,33,91,UNLV,10,92,False,Spartan Stadium
+2014,6,20141004,UCLA,28,102,Utah,30,104,False,Rose Bowl
+2014,6,20141004,Nevada,46,88,Boise St.,51,84,False,Mackay Stadium
+2014,6,20141004,Washington St.,59,106,California,60,97,False,Martin Stadium
+2014,7,20141009,Central Florida,31,1,BYU,24,66,False,Bright House Networks Stadium
+2014,7,20141010,Stanford,34,101,Washington St.,17,106,False,Stanford Stadium
+2014,7,20141010,New Mexico,14,89,San Diego St.,24,90,False,University Stadium
+2014,7,20141010,UNLV,30,92,Fresno St.,27,86,False,Sam Boyd Stadium
+2014,7,20141011,Wisconsin,38,40,Illinois,28,27,False,Camp Randall Stadium
+2014,7,20141011,Syracuse,20,23,Florida St.,38,16,False,Carrier Dome
+2014,7,20141011,Marshall,49,55,Middle Tennessee,24,56,False,Joan C. Edwards Stadium
+2014,7,20141011,Kentucky,48,112,UL Monroe,14,130,False,Kroger Field
+2014,7,20141011,Minnesota,24,33,Northwestern,17,35,False,TCF Bank Stadium
+2014,7,20141011,Temple,35,10,Tulsa,24,12,False,Lincoln Financial Field
+2014,7,20141011,Missouri,0,115,Georgia,34,111,False,Faurot Field
+2014,7,20141011,Miami (FL),55,19,Cincinnati,34,2,False,Hard Rock Stadium
+2014,7,20141011,Iowa,45,29,Indiana,29,28,False,Kinnick Stadium
+2014,7,20141011,Army,21,65,Rice,41,59,False,Blaik Field at Michie Stadium
+2014,7,20141011,Texas Tech,34,49,West Virginia,37,50,False,Jones AT&T Stadium
+2014,7,20141011,Oklahoma,31,45,Texas,26,48,True,Cotton Bowl
+2014,7,20141011,Georgia Tech,25,17,Duke,31,15,False,Bobby Dodd Stadium at Historic Grant Field
+2014,7,20141011,Eastern Michigan,37,76,Buffalo,27,74,False,Rynearson Stadium
+2014,7,20141011,Kent State,17,77,Massachusetts,40,68,False,Dix Stadium
+2014,7,20141011,Ohio,13,80,Bowling Green,31,73,False,Peden Stadium
+2014,7,20141011,Akron,29,71,Miami (OH),19,78,False,Summa Field at InfoCision Stadium
+2014,7,20141011,Georgia St.,10,125,Arkansas St.,52,122,False,Georgia Dome
+2014,7,20141011,Ball St.,38,72,Western Michigan,42,82,False,Scheumann Stadium
+2014,7,20141011,Troy,41,129,New Mexico State,24,69,False,Veterans Memorial Stadium
+2014,7,20141011,Navy,51,7,VMI,14,233,False,Navy-Marine Corps Memorial Stadium
+2014,7,20141011,Baylor,61,41,TCU,58,47,False,McLane Stadium
+2014,7,20141011,Purdue,31,38,Michigan St.,45,32,False,Ross-Ade Stadium
+2014,7,20141011,Clemson,23,14,Louisville,17,18,False,Memorial Stadium
+2014,7,20141011,UCLA,30,102,Oregon,42,99,False,Rose Bowl
+2014,7,20141011,Appalachian St.,48,121,Liberty,55,67,False,Kidd Brewer Stadium
+2014,7,20141011,Mississippi St.,38,114,Auburn,23,109,False,Davis Wade Stadium
+2014,7,20141011,Notre Dame,50,70,North Carolina,43,21,False,Notre Dame Stadium
+2014,7,20141011,Iowa St.,37,42,Toledo,30,81,False,Jack Trice Stadium
+2014,7,20141011,UAB,56,61,North Texas,21,57,False,Legion Field
+2014,7,20141011,NC State,14,20,Boston College,30,13,False,Carter-Finley Stadium
+2014,7,20141011,Tennessee,45,118,Chattanooga,10,227,False,Neyland Stadium
+2014,7,20141011,Kansas,20,43,Oklahoma St.,27,46,False,Memorial Stadium
+2014,7,20141011,Northern Illinois,17,79,Central Michigan,34,75,False,Brigham Field at Huskie Stadium
+2014,7,20141011,Arkansas,13,108,Alabama,14,107,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,7,20141011,Georgia Southern,47,124,Idaho,24,133,False,Paulson Stadium
+2014,7,20141011,California,7,97,Washington,31,105,False,California Memorial Stadium
+2014,7,20141011,UTSA,16,63,Florida Intl,13,53,False,Alamodome
+2014,7,20141011,Memphis,24,6,Houston,28,5,False,Liberty Bowl Memorial Stadium
+2014,7,20141011,South Florida,17,9,East Carolina,28,4,False,Raymond James Stadium
+2014,7,20141011,Michigan,18,31,Penn State,13,37,False,Michigan Stadium
+2014,7,20141011,Vanderbilt,21,120,Charleston Southern,20,145,False,Vanderbilt Stadium
+2014,7,20141011,Florida,27,110,LSU,30,113,False,Ben Hill Griffin Stadium
+2014,7,20141011,Tulane,12,11,Connecticut,3,3,False,Benson Field at Yulman Stadium
+2014,7,20141011,UTEP,42,62,Old Dominion,35,58,False,Sun Bowl Stadium
+2014,7,20141011,Texas A&M,20,119,Ole Miss,35,116,False,Kyle Field
+2014,7,20141011,Utah St.,34,93,Air Force,16,83,False,Romney Stadium
+2014,7,20141011,Arizona,26,95,USC,28,103,False,Arizona Stadium
+2014,7,20141011,Nevada,24,88,Colorado St.,31,85,False,Mackay Stadium
+2014,7,20141012,Hawaii,38,87,Wyoming,28,94,False,Aloha Stadium
+2014,8,20141014,Texas St.,10,128,Louisiana,34,126,False,Jim Wacker Field at Bobcat Stadium
+2014,8,20141016,Pittsburgh,21,22,Virginia Tech,16,25,False,Heinz Field
+2014,8,20141016,Oregon St.,23,100,Utah,29,104,False,Reser Stadium
+2014,8,20141017,Boise St.,37,84,Fresno St.,27,86,False,Albertsons Stadium
+2014,8,20141017,Houston,31,5,Temple,10,10,False,John O'Quinn Field at TDECU Stadium
+2014,8,20141018,Florida Atlantic,45,52,Western Kentucky,38,64,False,FAU Stadium
+2014,8,20141018,Tulsa,30,12,South Florida,38,9,False,Skelly Field at H. A. Chapman Stadium
+2014,8,20141018,Minnesota,39,33,Purdue,38,38,False,TCF Bank Stadium
+2014,8,20141018,West Virginia,41,50,Baylor,27,41,False,Mountaineer Field at Milan Puskar Stadium
+2014,8,20141018,Maryland,38,30,Iowa,31,29,False,Maryland Stadium
+2014,8,20141018,Oklahoma,30,45,Kansas St.,31,44,False,Gaylord Family Oklahoma Memorial Stadium
+2014,8,20141018,Wake Forest,7,26,Syracuse,30,23,False,BB&T Field
+2014,8,20141018,South Carolina,41,117,Furman,10,230,False,Williams-Brice Stadium
+2014,8,20141018,Louisiana Tech,27,54,UTSA,20,63,False,Joe Aillet Stadium
+2014,8,20141018,Central Florida,20,1,Tulane,13,11,False,Bright House Networks Stadium
+2014,8,20141018,Duke,20,15,Virginia,13,24,False,Wallace Wade Stadium
+2014,8,20141018,Bowling Green,14,73,Western Michigan,26,82,False,Doyt Perry Stadium
+2014,8,20141018,Ohio,23,80,Akron,20,71,False,Peden Stadium
+2014,8,20141018,Massachusetts,36,68,Eastern Michigan,14,76,False,Gillette Stadium
+2014,8,20141018,Troy,14,129,Appalachian St.,53,121,False,Veterans Memorial Stadium
+2014,8,20141018,Kent State,39,77,Army,17,65,False,Dix Stadium
+2014,8,20141018,Alabama,59,107,Texas A&M,0,119,False,Bryant Denny Stadium
+2014,8,20141018,Indiana,17,28,Michigan St.,56,32,False,Memorial Stadium
+2014,8,20141018,Ohio St.,56,36,Rutgers,17,39,False,Ohio Stadium
+2014,8,20141018,Boston College,13,13,Clemson,17,14,False,Alumni Stadium
+2014,8,20141018,California,34,97,UCLA,36,102,False,California Memorial Stadium
+2014,8,20141018,Air Force,35,83,New Mexico,31,89,False,Falcon Stadium
+2014,8,20141018,Central Michigan,29,75,Ball St.,32,72,False,Kelly/Shorts Stadium
+2014,8,20141018,Middle Tennessee,34,56,UAB,22,61,False,"Johnny Red"""" Floyd Stadium"""""
+2014,8,20141018,Louisville,30,18,NC State,18,20,False,Papa John's Cardinal Stadium
+2014,8,20141018,SMU,3,8,Cincinnati,41,2,False,Gerald J. Ford Stadium
+2014,8,20141018,Texas Tech,34,49,Kansas,21,43,False,Jones AT&T Stadium
+2014,8,20141018,TCU,42,47,Oklahoma St.,9,46,False,Amon G. Carter Stadium
+2014,8,20141018,Wyoming,20,94,San Jose St.,27,91,False,War Memorial Stadium
+2014,8,20141018,Arkansas,32,108,Georgia,45,111,False,War Memorial Stadium
+2014,8,20141018,Idaho,29,133,New Mexico State,17,69,False,Kibbie Dome
+2014,8,20141018,Northern Illinois,51,79,Miami (OH),41,78,False,Brigham Field at Huskie Stadium
+2014,8,20141018,USC,56,103,Colorado,28,98,False,Los Angeles Memorial Coliseum
+2014,8,20141018,Florida Intl,13,53,Marshall,45,55,False,FIU Stadium
+2014,8,20141018,North Carolina,48,21,Georgia Tech,43,17,False,Kenan Memorial Stadium
+2014,8,20141018,Ole Miss,34,116,Tennessee,3,118,False,Vaught-Hemingway Stadium
+2014,8,20141018,Florida,13,110,Missouri,42,115,False,Ben Hill Griffin Stadium
+2014,8,20141018,North Texas,20,57,Southern Miss,30,60,False,Apogee Stadium
+2014,8,20141018,Colorado St.,16,85,Utah St.,13,93,False,Sonny Lubick Field at Hughes Stadium
+2014,8,20141018,South Alabama,30,127,Georgia St.,27,125,False,Ladd Peebles Stadium
+2014,8,20141018,LSU,41,113,Kentucky,3,112,False,Tiger Stadium
+2014,8,20141018,Northwestern,17,35,Nebraska,38,34,False,Ryan Field
+2014,8,20141018,Oregon,45,99,Washington,20,105,False,Autzen Stadium
+2014,8,20141018,Texas,48,48,Iowa St.,45,42,False,Darrell K Royal-Texas Memorial Stadium
+2014,8,20141018,Florida St.,31,16,Notre Dame,27,70,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,8,20141018,BYU,35,66,Nevada,42,88,False,LaVell Edwards Stadium
+2014,8,20141018,Arizona St.,26,96,Stanford,10,101,False,Sun Devil Stadium
+2014,8,20141018,San Diego St.,20,90,Hawaii,10,87,False,Qualcomm Stadium
+2014,9,20141021,Louisiana,55,126,Arkansas St.,40,122,False,Cajun Field
+2014,9,20141023,East Carolina,31,4,Connecticut,21,3,False,Dowdy-Ficklen Stadium
+2014,9,20141023,Virginia Tech,6,25,Miami (FL),30,19,False,Lane Stadium
+2014,9,20141024,Cincinnati,34,2,South Florida,17,9,False,Paul Brown Stadium
+2014,9,20141024,South Alabama,27,127,Troy,13,129,False,Ladd Peebles Stadium
+2014,9,20141024,Boise St.,55,84,BYU,30,66,False,Albertsons Stadium
+2014,9,20141024,California,41,97,Oregon,59,99,False,Levi's Stadium
+2014,9,20141025,Nebraska,42,34,Rutgers,24,39,False,Memorial Stadium
+2014,9,20141025,Rice,41,59,North Texas,21,57,False,Rice Stadium
+2014,9,20141025,Wisconsin,52,40,Maryland,7,30,False,Camp Randall Stadium
+2014,9,20141025,Kansas St.,23,44,Texas,0,48,False,Bill Snyder Family Football Stadium
+2014,9,20141025,Illinois,28,27,Minnesota,24,33,False,Memorial Stadium
+2014,9,20141025,Arkansas,45,108,UAB,17,61,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,9,20141025,SMU,10,8,Memphis,48,6,False,Gerald J. Ford Stadium
+2014,9,20141025,Virginia,27,24,North Carolina,28,21,False,Scott Stadium
+2014,9,20141025,Navy,41,7,San Jose St.,31,91,False,Navy-Marine Corps Memorial Stadium
+2014,9,20141025,Eastern Michigan,17,76,Northern Illinois,28,79,False,Rynearson Stadium
+2014,9,20141025,Georgia St.,31,125,Georgia Southern,69,124,False,Georgia Dome
+2014,9,20141025,Ball St.,35,72,Akron,21,71,False,Scheumann Stadium
+2014,9,20141025,Toledo,42,81,Massachusetts,35,68,False,Glass Bowl
+2014,9,20141025,Colorado,37,98,UCLA,40,102,False,Folsom Field
+2014,9,20141025,Western Michigan,42,82,Ohio,21,80,False,Waldo Stadium
+2014,9,20141025,Miami (OH),10,78,Kent State,3,77,False,Yager Stadium
+2014,9,20141025,Pittsburgh,28,22,Georgia Tech,56,17,False,Heinz Field
+2014,9,20141025,Kentucky,31,112,Mississippi St.,45,114,False,Kroger Field
+2014,9,20141025,Michigan St.,35,32,Michigan,11,31,False,Spartan Stadium
+2014,9,20141025,TCU,82,47,Texas Tech,27,49,False,Amon G. Carter Stadium
+2014,9,20141025,Oklahoma St.,10,46,West Virginia,34,50,False,Boone Pickens Stadium
+2014,9,20141025,Marshall,35,55,Florida Atlantic,16,52,False,Joan C. Edwards Stadium
+2014,9,20141025,Buffalo,14,74,Central Michigan,20,75,False,UB Stadium
+2014,9,20141025,Stanford,38,101,Oregon St.,14,100,False,Stanford Stadium
+2014,9,20141025,Wake Forest,17,26,Boston College,23,13,False,BB&T Field
+2014,9,20141025,Southern Miss,20,60,Louisiana Tech,31,54,False,M. M. Roberts Stadium
+2014,9,20141025,Utah St.,34,93,UNLV,20,92,False,Romney Stadium
+2014,9,20141025,Western Kentucky,66,64,Old Dominion,51,58,False,Houchens Industries-L. T. Smith Stadium
+2014,9,20141025,Missouri,24,115,Vanderbilt,14,120,False,Faurot Field
+2014,9,20141025,Central Florida,34,1,Temple,14,10,False,Bright House Networks Stadium
+2014,9,20141025,Washington St.,37,106,Arizona,59,95,False,Martin Stadium
+2014,9,20141025,UTSA,0,63,UTEP,34,62,False,Alamodome
+2014,9,20141025,Colorado St.,45,85,Wyoming,31,94,False,Sonny Lubick Field at Hughes Stadium
+2014,9,20141025,Clemson,16,14,Syracuse,6,23,False,Memorial Stadium
+2014,9,20141025,UL Monroe,18,130,Texas St.,22,128,False,Malone Stadium
+2014,9,20141025,LSU,10,113,Ole Miss,7,116,False,Tiger Stadium
+2014,9,20141025,Tennessee,20,118,Alabama,34,107,False,Neyland Stadium
+2014,9,20141025,Auburn,42,109,South Carolina,35,117,False,Jordan-Hare Stadium
+2014,9,20141025,Penn State,24,37,Ohio St.,31,36,False,Beaver Stadium
+2014,9,20141025,Utah,24,104,USC,21,103,False,Rice-Eccles Stadium
+2014,9,20141025,Washington,10,105,Arizona St.,24,96,False,Husky Stadium
+2014,9,20141026,Hawaii,18,87,Nevada,26,88,False,Aloha Stadium
+2014,10,20141030,Louisville,31,18,Florida St.,42,16,False,Papa John's Cardinal Stadium
+2014,10,20141030,Georgia Southern,42,124,Troy,10,129,False,Paulson Stadium
+2014,10,20141031,Tulane,14,11,Cincinnati,38,2,False,Benson Field at Yulman Stadium
+2014,10,20141031,Memphis,40,6,Tulsa,20,12,False,Liberty Bowl Memorial Stadium
+2014,10,20141101,Army,6,65,Air Force,23,83,False,Blaik Field at Michie Stadium
+2014,10,20141101,Pittsburgh,48,22,Duke,51,15,False,Heinz Field
+2014,10,20141101,Rutgers,0,39,Wisconsin,37,40,False,High Point Solutions Stadium
+2014,10,20141101,Penn State,19,37,Maryland,20,30,False,Beaver Stadium
+2014,10,20141101,Iowa,48,29,Northwestern,7,35,False,Kinnick Stadium
+2014,10,20141101,Iowa St.,14,42,Oklahoma,59,45,False,Jack Trice Stadium
+2014,10,20141101,Temple,20,10,East Carolina,10,4,False,Lincoln Financial Field
+2014,10,20141101,Texas A&M,21,119,UL Monroe,16,130,False,Kyle Field
+2014,10,20141101,Connecticut,37,3,Central Florida,29,1,False,Rentschler Field
+2014,10,20141101,Florida Intl,17,53,Rice,31,59,False,FIU Stadium
+2014,10,20141101,Virginia Tech,31,25,Boston College,33,13,False,Lane Stadium
+2014,10,20141101,Miami (FL),47,19,North Carolina,20,21,False,Hard Rock Stadium
+2014,10,20141101,Colorado,23,98,Washington,38,105,False,Folsom Field
+2014,10,20141101,Eastern Michigan,7,76,Central Michigan,38,75,False,Rynearson Stadium
+2014,10,20141101,Miami (OH),10,78,Western Michigan,41,82,False,Yager Stadium
+2014,10,20141101,Louisiana Tech,59,54,Western Kentucky,10,64,False,Joe Aillet Stadium
+2014,10,20141101,Syracuse,17,23,NC State,24,20,False,Carrier Dome
+2014,10,20141101,Georgia Tech,35,17,Virginia,10,24,False,Bobby Dodd Stadium at Historic Grant Field
+2014,10,20141101,Nebraska,35,34,Purdue,14,38,False,Memorial Stadium
+2014,10,20141101,Georgia,20,111,Florida,38,110,True,TIAA Bank Field
+2014,10,20141101,West Virginia,30,50,TCU,31,47,False,Mountaineer Field at Milan Puskar Stadium
+2014,10,20141101,Appalachian St.,44,121,Georgia St.,0,125,False,Kidd Brewer Stadium
+2014,10,20141101,Michigan,34,31,Indiana,10,28,False,Michigan Stadium
+2014,10,20141101,Middle Tennessee,7,56,BYU,27,66,False,"Johnny Red"""" Floyd Stadium"""""
+2014,10,20141101,Baylor,60,41,Kansas,14,43,False,McLane Stadium
+2014,10,20141101,New Mexico State,29,69,Texas St.,37,128,False,Aggie Memorial Stadium
+2014,10,20141101,South Florida,3,9,Houston,27,5,False,Raymond James Stadium
+2014,10,20141101,Missouri,20,115,Kentucky,10,112,False,Faurot Field
+2014,10,20141101,Washington St.,17,106,USC,44,103,False,Martin Stadium
+2014,10,20141101,Idaho,28,133,Arkansas St.,44,122,False,Kibbie Dome
+2014,10,20141101,Louisiana,19,126,South Alabama,9,127,False,Cajun Field
+2014,10,20141101,UNLV,28,92,New Mexico,31,89,False,Sam Boyd Stadium
+2014,10,20141101,San Jose St.,31,91,Colorado St.,38,85,False,Spartan Stadium
+2014,10,20141101,Ole Miss,31,116,Auburn,35,109,False,Vaught-Hemingway Stadium
+2014,10,20141101,Vanderbilt,42,120,Old Dominion,28,58,False,Vanderbilt Stadium
+2014,10,20141101,Florida Atlantic,28,52,UAB,31,61,False,FAU Stadium
+2014,10,20141101,Mississippi St.,17,114,Arkansas,10,108,False,Davis Wade Stadium
+2014,10,20141101,Texas Tech,13,49,Texas,34,48,False,Jones AT&T Stadium
+2014,10,20141101,Oregon,45,99,Stanford,16,101,False,Autzen Stadium
+2014,10,20141101,South Carolina,42,117,Tennessee,45,118,False,Williams-Brice Stadium
+2014,10,20141101,Ohio St.,55,36,Illinois,14,27,False,Ohio Stadium
+2014,10,20141101,Navy,39,7,Notre Dame,49,70,True,FedEx Field
+2014,10,20141101,Kansas St.,48,44,Oklahoma St.,14,46,False,Bill Snyder Family Football Stadium
+2014,10,20141101,UTEP,35,62,Southern Miss,14,60,False,Sun Bowl Stadium
+2014,10,20141101,UCLA,17,102,Arizona,7,95,False,Rose Bowl
+2014,10,20141101,Oregon St.,31,100,California,45,97,False,Reser Stadium
+2014,10,20141101,Nevada,30,88,San Diego St.,14,90,False,Mackay Stadium
+2014,10,20141101,Fresno St.,17,86,Wyoming,45,94,False,Bulldog Stadium
+2014,10,20141101,Hawaii,14,87,Utah St.,35,93,False,Aloha Stadium
+2014,10,20141101,Arizona St.,19,96,Utah,16,104,False,Sun Devil Stadium
+2014,11,20141104,Akron,10,71,Bowling Green,27,73,False,Summa Field at InfoCision Stadium
+2014,11,20141104,Kent State,20,77,Toledo,30,81,False,Dix Stadium
+2014,11,20141105,Ball St.,21,72,Northern Illinois,35,79,False,Scheumann Stadium
+2014,11,20141105,Ohio,37,80,Buffalo,14,74,False,Peden Stadium
+2014,11,20141106,Wake Forest,20,26,Clemson,34,14,False,BB&T Field
+2014,11,20141107,Temple,13,10,Memphis,16,6,False,Lincoln Financial Field
+2014,11,20141107,Wyoming,3,94,Utah St.,20,93,False,War Memorial Stadium
+2014,11,20141108,Purdue,16,38,Wisconsin,34,40,False,Ross-Ade Stadium
+2014,11,20141108,Ole Miss,48,116,Presbyterian,0,151,False,Vaught-Hemingway Stadium
+2014,11,20141108,Oklahoma,14,45,Baylor,48,41,False,Gaylord Family Oklahoma Memorial Stadium
+2014,11,20141108,Kentucky,31,112,Georgia,63,111,False,Kroger Field
+2014,11,20141108,UAB,24,61,Louisiana Tech,40,54,False,Legion Field
+2014,11,20141108,Rice,17,59,UTSA,7,63,False,Rice Stadium
+2014,11,20141108,Tulsa,38,12,SMU,28,8,False,Skelly Field at H. A. Chapman Stadium
+2014,11,20141108,Indiana,7,28,Penn State,13,37,False,Memorial Stadium
+2014,11,20141108,Minnesota,51,33,Iowa,14,29,False,TCF Bank Stadium
+2014,11,20141108,Syracuse,10,23,Duke,27,15,False,Carrier Dome
+2014,11,20141108,NC State,23,20,Georgia Tech,56,17,False,Carter-Finley Stadium
+2014,11,20141108,Arkansas St.,45,122,South Alabama,10,127,False,Centennial Bank Stadium
+2014,11,20141108,Troy,45,129,Georgia St.,21,125,False,Veterans Memorial Stadium
+2014,11,20141108,Kansas,34,43,Iowa St.,14,42,False,Memorial Stadium
+2014,11,20141108,Northwestern,9,35,Michigan,10,31,False,Ryan Field
+2014,11,20141108,Arizona St.,55,96,Notre Dame,31,70,False,Sun Devil Stadium
+2014,11,20141108,Old Dominion,38,58,Florida Intl,35,53,False,Foreman Field
+2014,11,20141108,Houston,24,5,Tulane,31,11,False,John O'Quinn Field at TDECU Stadium
+2014,11,20141108,Army,35,65,Connecticut,21,3,True,Yankee Stadium
+2014,11,20141108,Appalachian St.,31,121,UL Monroe,29,130,False,Kidd Brewer Stadium
+2014,11,20141108,Auburn,38,109,Texas A&M,41,119,False,Jordan-Hare Stadium
+2014,11,20141108,Texas,33,48,West Virginia,16,50,False,Darrell K Royal-Texas Memorial Stadium
+2014,11,20141108,Mississippi St.,45,114,Tennessee-Martin,16,209,False,Davis Wade Stadium
+2014,11,20141108,Western Kentucky,35,64,UTEP,27,62,False,Houchens Industries-L. T. Smith Stadium
+2014,11,20141108,UNLV,21,92,Air Force,48,83,False,Sam Boyd Stadium
+2014,11,20141108,Oregon St.,32,100,Washington St.,39,106,False,Reser Stadium
+2014,11,20141108,Texas St.,25,128,Georgia Southern,28,124,False,Jim Wacker Field at Bobcat Stadium
+2014,11,20141108,San Diego St.,35,90,Idaho,21,133,False,Qualcomm Stadium
+2014,11,20141108,Florida St.,34,16,Virginia,20,24,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,11,20141108,Washington,30,105,UCLA,44,102,False,Husky Stadium
+2014,11,20141108,North Texas,31,57,Florida Atlantic,10,52,False,Apogee Stadium
+2014,11,20141108,Southern Miss,17,60,Marshall,63,55,False,M. M. Roberts Stadium
+2014,11,20141108,New Mexico,49,89,Boise St.,60,84,False,University Stadium
+2014,11,20141108,Colorado St.,49,85,Hawaii,22,87,False,Sonny Lubick Field at Hughes Stadium
+2014,11,20141108,Boston College,19,13,Louisville,38,18,False,Alumni Stadium
+2014,11,20141108,Vanderbilt,10,120,Florida,34,110,False,Vanderbilt Stadium
+2014,11,20141108,TCU,41,47,Kansas St.,20,44,False,Amon G. Carter Stadium
+2014,11,20141108,Arizona,38,95,Colorado,20,98,False,Arizona Stadium
+2014,11,20141108,New Mexico State,16,69,Louisiana,44,126,False,Aggie Memorial Stadium
+2014,11,20141108,LSU,13,113,Alabama,20,107,False,Tiger Stadium
+2014,11,20141108,Michigan St.,37,32,Ohio St.,49,36,False,Spartan Stadium
+2014,11,20141108,Utah,27,104,Oregon,51,99,False,Rice-Eccles Stadium
+2014,11,20141108,Fresno St.,38,86,San Jose St.,24,91,False,Bulldog Stadium
+2014,12,20141111,Northern Illinois,27,79,Toledo,24,81,False,Brigham Field at Huskie Stadium
+2014,12,20141111,Buffalo,55,74,Akron,24,71,False,UB Stadium
+2014,12,20141112,Bowling Green,30,73,Kent State,20,77,False,Doyt Perry Stadium
+2014,12,20141112,Massachusetts,24,68,Ball St.,10,72,False,Warren McGuirk Alumni Stadium
+2014,12,20141113,Cincinnati,54,2,East Carolina,46,4,False,Paul Brown Stadium
+2014,12,20141113,UTSA,12,63,Southern Miss,10,60,False,Alamodome
+2014,12,20141113,USC,38,103,California,30,97,False,Los Angeles Memorial Coliseum
+2014,12,20141114,Central Florida,31,1,Tulsa,7,12,False,Bright House Networks Stadium
+2014,12,20141115,Minnesota,24,33,Ohio St.,31,36,False,TCF Bank Stadium
+2014,12,20141115,Duke,16,15,Virginia Tech,17,25,False,Wallace Wade Stadium
+2014,12,20141115,Illinois,14,27,Iowa,30,29,False,Memorial Stadium
+2014,12,20141115,Western Kentucky,52,64,Army,24,65,False,Houchens Industries-L. T. Smith Stadium
+2014,12,20141115,Florida,20,110,South Carolina,23,117,False,Ben Hill Griffin Stadium
+2014,12,20141115,Penn State,30,37,Temple,13,10,False,Beaver Stadium
+2014,12,20141115,Georgia Tech,28,17,Clemson,6,14,False,Bobby Dodd Stadium at Historic Grant Field
+2014,12,20141115,North Carolina,40,21,Pittsburgh,35,22,False,Kenan Memorial Stadium
+2014,12,20141115,Central Michigan,34,75,Miami (OH),27,78,False,Kelly/Shorts Stadium
+2014,12,20141115,Western Michigan,51,82,Eastern Michigan,7,76,False,Waldo Stadium
+2014,12,20141115,Air Force,45,83,Nevada,38,88,False,Falcon Stadium
+2014,12,20141115,Marshall,41,55,Rice,14,59,False,Joan C. Edwards Stadium
+2014,12,20141115,NC State,42,20,Wake Forest,13,26,False,Carter-Finley Stadium
+2014,12,20141115,Arkansas St.,32,122,Appalachian St.,37,121,False,Centennial Bank Stadium
+2014,12,20141115,Kansas,30,43,TCU,34,47,False,Memorial Stadium
+2014,12,20141115,Texas Tech,30,49,Oklahoma,42,45,False,Jones AT&T Stadium
+2014,12,20141115,Alabama,25,107,Mississippi St.,20,114,False,Bryant Denny Stadium
+2014,12,20141115,Arizona,27,95,Washington,26,105,False,Arizona Stadium
+2014,12,20141115,Wisconsin,59,40,Nebraska,24,34,False,Camp Randall Stadium
+2014,12,20141115,Notre Dame,40,70,Northwestern,43,35,False,Notre Dame Stadium
+2014,12,20141115,Navy,52,7,Georgia Southern,19,124,False,Navy-Marine Corps Memorial Stadium
+2014,12,20141115,Tulane,7,11,Memphis,38,6,False,Benson Field at Yulman Stadium
+2014,12,20141115,Florida Intl,38,53,Middle Tennessee,28,56,False,FIU Stadium
+2014,12,20141115,Rutgers,45,39,Indiana,23,28,False,High Point Solutions Stadium
+2014,12,20141115,Utah St.,28,93,New Mexico,21,89,False,Romney Stadium
+2014,12,20141115,Tennessee,50,118,Kentucky,16,112,False,Neyland Stadium
+2014,12,20141115,San Jose St.,0,91,Hawaii,13,87,False,Spartan Stadium
+2014,12,20141115,Idaho,17,133,Troy,34,129,False,Kibbie Dome
+2014,12,20141115,Stanford,17,101,Utah,20,104,False,Stanford Stadium
+2014,12,20141115,UL Monroe,27,130,Louisiana,34,126,False,Malone Stadium
+2014,12,20141115,BYU,42,66,UNLV,23,92,False,LaVell Edwards Stadium
+2014,12,20141115,Georgia,34,111,Auburn,7,109,False,Sanford Stadium
+2014,12,20141115,Texas A&M,27,119,Missouri,34,115,False,Kyle Field
+2014,12,20141115,South Alabama,24,127,Texas St.,20,128,False,Ladd Peebles Stadium
+2014,12,20141115,Oklahoma St.,7,46,Texas,28,48,False,Boone Pickens Stadium
+2014,12,20141115,Miami (FL),26,19,Florida St.,30,16,False,Hard Rock Stadium
+2014,12,20141115,Maryland,15,30,Michigan St.,37,32,False,Maryland Stadium
+2014,12,20141115,Arkansas,17,108,LSU,0,113,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,12,20141115,SMU,13,8,South Florida,14,9,False,Gerald J. Ford Stadium
+2014,12,20141115,UTEP,35,62,North Texas,17,57,False,Sun Bowl Stadium
+2014,12,20141115,Boise St.,38,84,San Diego St.,29,90,False,Albertsons Stadium
+2014,12,20141115,Oregon St.,35,100,Arizona St.,27,96,False,Reser Stadium
+2014,13,20141118,Akron,30,71,Massachusetts,6,68,False,Summa Field at InfoCision Stadium
+2014,13,20141118,Ohio,14,80,Northern Illinois,21,79,False,Peden Stadium
+2014,13,20141119,Toledo,27,81,Bowling Green,20,73,False,Glass Bowl
+2014,13,20141120,West Virginia,20,50,Kansas St.,26,44,False,Mountaineer Field at Milan Puskar Stadium
+2014,13,20141120,Duke,20,15,North Carolina,45,21,False,Wallace Wade Stadium
+2014,13,20141120,Texas St.,45,128,Arkansas St.,27,122,False,Jim Wacker Field at Bobcat Stadium
+2014,13,20141121,Rice,31,59,UTEP,13,62,False,Rice Stadium
+2014,13,20141121,San Diego St.,30,90,Air Force,14,83,False,Qualcomm Stadium
+2014,13,20141121,Utah St.,41,93,San Jose St.,7,91,False,Romney Stadium
+2014,13,20141122,Illinois,16,27,Penn State,14,37,False,Memorial Stadium
+2014,13,20141122,UAB,18,61,Marshall,23,55,False,Legion Field
+2014,13,20141122,Army,42,65,Fordham,31,212,False,Blaik Field at Michie Stadium
+2014,13,20141122,Houston,38,5,Tulsa,28,12,False,John O'Quinn Field at TDECU Stadium
+2014,13,20141122,Georgia,55,111,Charleston Southern,9,145,False,Sanford Stadium
+2014,13,20141122,Michigan St.,45,32,Rutgers,3,39,False,Spartan Stadium
+2014,13,20141122,Central Florida,53,1,SMU,7,8,False,Bright House Networks Stadium
+2014,13,20141122,Western Kentucky,45,64,UTSA,7,63,False,Houchens Industries-L. T. Smith Stadium
+2014,13,20141122,Nebraska,24,34,Minnesota,28,33,False,Memorial Stadium
+2014,13,20141122,Purdue,14,38,Northwestern,38,35,False,Ross-Ade Stadium
+2014,13,20141122,South Carolina,37,117,South Alabama,12,127,False,Williams-Brice Stadium
+2014,13,20141122,Florida,52,110,Eastern Kentucky,3,203,False,Ben Hill Griffin Stadium
+2014,13,20141122,Ohio St.,42,36,Indiana,27,28,False,Ohio Stadium
+2014,13,20141122,Wake Forest,6,26,Virginia Tech,3,25,False,BB&T Field
+2014,13,20141122,Old Dominion,30,58,Louisiana Tech,27,54,False,Foreman Field
+2014,13,20141122,Central Michigan,20,75,Western Michigan,32,82,False,Kelly/Shorts Stadium
+2014,13,20141122,Arizona St.,52,96,Washington St.,31,106,False,Sun Devil Stadium
+2014,13,20141122,Colorado St.,58,85,New Mexico,20,89,False,Sonny Lubick Field at Hughes Stadium
+2014,13,20141122,Oklahoma,44,45,Kansas,7,43,False,Gaylord Family Oklahoma Memorial Stadium
+2014,13,20141122,Ball St.,45,72,Eastern Michigan,30,76,False,Scheumann Stadium
+2014,13,20141122,Louisiana,16,126,Appalachian St.,35,121,False,Cajun Field
+2014,13,20141122,BYU,64,66,Savannah State,0,383,False,LaVell Edwards Stadium
+2014,13,20141122,Clemson,28,14,Georgia St.,0,125,False,Memorial Stadium
+2014,13,20141122,Florida St.,20,16,Boston College,17,13,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,13,20141122,Arkansas,30,108,Ole Miss,0,116,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2014,13,20141122,Utah,10,104,Arizona,42,95,False,Rice-Eccles Stadium
+2014,13,20141122,Iowa,24,29,Wisconsin,26,40,False,Kinnick Stadium
+2014,13,20141122,Notre Dame,28,70,Louisville,31,18,False,Notre Dame Stadium
+2014,13,20141122,North Texas,17,57,Florida Intl,14,53,False,Apogee Stadium
+2014,13,20141122,East Carolina,34,4,Tulane,6,11,False,Dowdy-Ficklen Stadium
+2014,13,20141122,Pittsburgh,30,22,Syracuse,7,23,False,Heinz Field
+2014,13,20141122,Iowa St.,31,42,Texas Tech,34,49,False,Jack Trice Stadium
+2014,13,20141122,Michigan,16,31,Maryland,23,30,False,Michigan Stadium
+2014,13,20141122,California,17,97,Stanford,38,101,False,California Memorial Stadium
+2014,13,20141122,New Mexico State,17,69,UL Monroe,30,130,False,Aggie Memorial Stadium
+2014,13,20141122,Alabama,48,107,Western Carolina,14,234,False,Bryant Denny Stadium
+2014,13,20141122,Memphis,31,6,South Florida,20,9,False,Liberty Bowl Memorial Stadium
+2014,13,20141122,Oregon,44,99,Colorado,10,98,False,Autzen Stadium
+2014,13,20141122,Auburn,31,109,Samford,7,232,False,Jordan-Hare Stadium
+2014,13,20141122,Virginia,30,24,Miami (FL),13,19,False,Scott Stadium
+2014,13,20141122,Middle Tennessee,35,56,Florida Atlantic,34,52,False,"Johnny Red"""" Floyd Stadium"""""
+2014,13,20141122,Mississippi St.,51,114,Vanderbilt,0,120,False,Davis Wade Stadium
+2014,13,20141122,Baylor,49,41,Oklahoma St.,28,46,False,McLane Stadium
+2014,13,20141122,Tennessee,21,118,Missouri,29,115,False,Neyland Stadium
+2014,13,20141122,UCLA,38,102,USC,20,103,False,Rose Bowl
+2014,13,20141122,Connecticut,0,3,Cincinnati,41,2,False,Rentschler Field
+2014,13,20141122,Wyoming,14,94,Boise St.,63,84,False,War Memorial Stadium
+2014,13,20141122,Nevada,20,88,Fresno St.,40,86,False,Mackay Stadium
+2014,13,20141122,Washington,37,105,Oregon St.,13,100,False,Husky Stadium
+2014,13,20141122,Hawaii,37,87,UNLV,35,92,False,Aloha Stadium
+2014,14,20141125,Miami (OH),21,78,Ohio,24,80,False,Yager Stadium
+2014,14,20141127,Texas,10,48,TCU,48,47,False,Darrell K Royal-Texas Memorial Stadium
+2014,14,20141127,Texas A&M,17,119,LSU,23,113,False,Kyle Field
+2014,14,20141128,Western Michigan,21,82,Northern Illinois,31,79,False,Waldo Stadium
+2014,14,20141128,Iowa,34,29,Nebraska,37,34,False,Kinnick Stadium
+2014,14,20141128,SMU,9,8,Houston,35,5,False,Gerald J. Ford Stadium
+2014,14,20141128,South Florida,0,9,Central Florida,16,1,False,Raymond James Stadium
+2014,14,20141128,Marshall,66,55,Western Kentucky,67,64,False,Joan C. Edwards Stadium
+2014,14,20141128,Massachusetts,21,68,Buffalo,41,74,False,Warren McGuirk Alumni Stadium
+2014,14,20141128,Bowling Green,24,73,Ball St.,41,72,False,Doyt Perry Stadium
+2014,14,20141128,Kent State,27,77,Akron,24,71,False,Dix Stadium
+2014,14,20141128,Eastern Michigan,16,76,Toledo,52,81,False,Rynearson Stadium
+2014,14,20141128,Missouri,21,115,Arkansas,14,108,False,Faurot Field
+2014,14,20141128,South Alabama,40,127,Navy,42,7,False,Ladd Peebles Stadium
+2014,14,20141128,UCLA,10,102,Stanford,31,101,False,Rose Bowl
+2014,14,20141128,Arizona,42,95,Arizona St.,35,96,False,Arizona Stadium
+2014,14,20141128,Air Force,27,83,Colorado St.,24,85,False,Falcon Stadium
+2014,14,20141128,Virginia Tech,24,25,Virginia,20,24,False,Lane Stadium
+2014,14,20141128,Tulsa,32,12,East Carolina,49,4,False,Skelly Field at H. A. Chapman Stadium
+2014,14,20141129,Clemson,35,14,South Carolina,17,117,False,Memorial Stadium
+2014,14,20141129,Ohio St.,42,36,Michigan,28,31,False,Ohio Stadium
+2014,14,20141129,Georgia,24,111,Georgia Tech,30,17,False,Sanford Stadium
+2014,14,20141129,Louisville,44,18,Kentucky,40,112,False,Papa John's Cardinal Stadium
+2014,14,20141129,Temple,6,10,Cincinnati,14,2,False,Lincoln Financial Field
+2014,14,20141129,Iowa St.,24,42,West Virginia,37,50,False,Jack Trice Stadium
+2014,14,20141129,UTSA,34,63,North Texas,27,57,False,Alamodome
+2014,14,20141129,Florida Atlantic,28,52,Old Dominion,31,58,False,FAU Stadium
+2014,14,20141129,Louisiana Tech,76,54,Rice,31,59,False,Joe Aillet Stadium
+2014,14,20141129,Northwestern,33,35,Illinois,47,27,False,Ryan Field
+2014,14,20141129,Indiana,23,28,Purdue,16,38,False,Memorial Stadium
+2014,14,20141129,North Carolina,7,21,NC State,35,20,False,Kenan Memorial Stadium
+2014,14,20141129,Boston College,28,13,Syracuse,7,23,False,Alumni Stadium
+2014,14,20141129,Troy,23,129,Louisiana,42,126,False,Veterans Memorial Stadium
+2014,14,20141129,Colorado,34,98,Utah,38,104,False,Folsom Field
+2014,14,20141129,Georgia St.,31,125,Texas St.,54,128,False,Georgia Dome
+2014,14,20141129,Appalachian St.,45,121,Idaho,28,133,False,Kidd Brewer Stadium
+2014,14,20141129,Arkansas St.,68,122,New Mexico State,35,69,False,Centennial Bank Stadium
+2014,14,20141129,New Mexico,36,89,Wyoming,30,94,False,University Stadium
+2014,14,20141129,San Diego St.,38,90,San Jose St.,7,91,False,Qualcomm Stadium
+2014,14,20141129,Wisconsin,34,40,Minnesota,24,33,False,Camp Randall Stadium
+2014,14,20141129,USC,49,103,Notre Dame,14,70,False,Los Angeles Memorial Coliseum
+2014,14,20141129,Maryland,38,30,Rutgers,41,39,False,Maryland Stadium
+2014,14,20141129,Southern Miss,24,60,UAB,45,61,False,M. M. Roberts Stadium
+2014,14,20141129,Penn State,10,37,Michigan St.,34,32,False,Beaver Stadium
+2014,14,20141129,Texas Tech,46,49,Baylor,48,41,True,AT&T Stadium
+2014,14,20141129,Ole Miss,31,116,Mississippi St.,17,114,False,Vaught-Hemingway Stadium
+2014,14,20141129,Florida St.,24,16,Florida,19,110,False,Bobby Bowden Field at Doak Campbell Stadium
+2014,14,20141129,Memphis,41,6,Connecticut,10,3,False,Liberty Bowl Memorial Stadium
+2014,14,20141129,Kansas St.,51,44,Kansas,13,43,False,Bill Snyder Family Football Stadium
+2014,14,20141129,Vanderbilt,17,120,Tennessee,24,118,False,Vanderbilt Stadium
+2014,14,20141129,California,35,97,BYU,42,66,False,California Memorial Stadium
+2014,14,20141129,Georgia Southern,22,124,UL Monroe,16,130,False,Paulson Stadium
+2014,14,20141129,Fresno St.,28,86,Hawaii,21,87,False,Bulldog Stadium
+2014,14,20141129,UTEP,24,62,Middle Tennessee,21,56,False,Sun Bowl Stadium
+2014,14,20141129,Miami (FL),23,19,Pittsburgh,35,22,False,Hard Rock Stadium
+2014,14,20141129,Duke,41,15,Wake Forest,21,26,False,Wallace Wade Stadium
+2014,14,20141129,Alabama,55,107,Auburn,44,109,False,Bryant Denny Stadium
+2014,14,20141129,Oregon St.,19,100,Oregon,47,99,False,Reser Stadium
+2014,14,20141129,Boise St.,50,84,Utah St.,19,93,False,Albertsons Stadium
+2014,14,20141129,Washington St.,13,106,Washington,31,105,False,Martin Stadium
+2014,14,20141129,UNLV,27,92,Nevada,49,88,False,Sam Boyd Stadium
+2014,15,20141204,East Carolina,30,4,Central Florida,32,1,False,Dowdy-Ficklen Stadium
+2014,15,20141205,Bowling Green,17,73,Northern Illinois,51,79,True,Ford Field
+2014,15,20141205,Oregon,51,99,Arizona,13,95,True,Levi's Stadium
+2014,15,20141206,Connecticut,20,3,SMU,27,8,False,Rentschler Field
+2014,15,20141206,TCU,55,47,Iowa St.,3,42,False,Amon G. Carter Stadium
+2014,15,20141206,Marshall,26,55,Louisiana Tech,23,54,False,Joan C. Edwards Stadium
+2014,15,20141206,Cincinnati,38,2,Houston,31,5,False,Paul Brown Stadium
+2014,15,20141206,Oklahoma,35,45,Oklahoma St.,38,46,False,Gaylord Family Oklahoma Memorial Stadium
+2014,15,20141206,Missouri,13,115,Alabama,42,107,True,Georgia Dome
+2014,15,20141206,Tulane,3,11,Temple,10,10,False,Benson Field at Yulman Stadium
+2014,15,20141206,Baylor,38,41,Kansas St.,27,44,False,McLane Stadium
+2014,15,20141206,Georgia Tech,35,17,Florida St.,37,16,True,Bank of America Stadium
+2014,15,20141206,Ohio St.,59,36,Wisconsin,0,40,True,Lucas Oil Stadium
+2014,15,20141206,Boise St.,28,84,Fresno St.,14,86,False,Albertsons Stadium
+2014,16,20141213,Army,10,65,Navy,17,7,True,M&T Bank Stadium
+2014,1,20141220,Louisiana,16,126,Nevada,3,88,True,Mercedes-Benz Superdome
+2014,1,20141220,UTEP,6,62,Utah St.,21,93,True,University Stadium
+2014,1,20141220,Colorado St.,10,85,Utah,45,104,True,Sam Boyd Stadium
+2014,1,20141220,Air Force,38,83,Western Michigan,24,82,True,Albertsons Stadium
+2014,1,20141220,Bowling Green,33,73,South Alabama,28,127,True,Cramton Bowl
+2014,1,20141222,Memphis,55,6,BYU,48,66,True,Marlins Park
+2014,1,20141223,Northern Illinois,23,79,Marshall,52,55,True,FAU Stadium
+2014,1,20141223,San Diego St.,16,90,Navy,17,7,True,Qualcomm Stadium
+2014,1,20141224,Western Kentucky,49,64,Central Michigan,48,75,True,Thomas Robinson Stadium
+2014,1,20141224,Rice,30,59,Fresno St.,6,86,True,Aloha Stadium
+2014,1,20141226,Louisiana Tech,35,54,Illinois,18,27,True,Cotton Bowl
+2014,1,20141226,North Carolina,21,21,Rutgers,40,39,True,Ford Field
+2014,1,20141226,Central Florida,27,1,NC State,34,20,True,Tropicana Field
+2014,1,20141227,Virginia Tech,33,25,Cincinnati,17,2,True,Navy-Marine Corps Memorial Stadium
+2014,1,20141227,Duke,31,15,Arizona St.,36,96,True,Sun Bowl Stadium
+2014,1,20141227,South Carolina,24,117,Miami (FL),21,19,True,Independence Stadium
+2014,1,20141227,Penn State,31,37,Boston College,30,13,True,Yankee Stadium
+2014,1,20141227,USC,45,103,Nebraska,42,34,True,Qualcomm Stadium
+2014,1,20141229,West Virginia,37,50,Texas A&M,45,119,True,Liberty Bowl Memorial Stadium
+2014,1,20141229,Clemson,40,14,Oklahoma,6,45,True,Camping World Stadium
+2014,1,20141229,Texas,7,48,Arkansas,31,108,True,NRG Stadium
+2014,1,20141230,LSU,28,113,Notre Dame,31,70,True,Nissan Stadium
+2014,1,20141230,Louisville,14,18,Georgia,37,111,True,Bank of America Stadium
+2014,1,20141230,Stanford,45,101,Maryland,21,30,True,Levi's Stadium
+2014,1,20141231,TCU,42,47,Ole Miss,3,116,True,Georgia Dome
+2014,1,20141231,Arizona,30,95,Boise St.,38,84,True,University of Phoenix Stadium
+2014,1,20141231,Georgia Tech,49,17,Mississippi St.,34,114,True,Hard Rock Stadium
+2014,1,20150101,Wisconsin,34,40,Auburn,31,109,True,Raymond James Stadium
+2014,1,20150101,Baylor,41,41,Michigan St.,42,32,True,AT&T Stadium
+2014,1,20150101,Minnesota,17,33,Missouri,33,115,True,Camping World Stadium
+2014,1,20150101,Florida St.,20,16,Oregon,59,99,True,Rose Bowl
+2014,1,20150101,Ohio St.,42,36,Alabama,35,107,True,Mercedes-Benz Superdome
+2014,1,20150102,Pittsburgh,34,22,Houston,35,5,True,Amon G. Carter Stadium
+2014,1,20150102,Tennessee,45,118,Iowa,28,29,True,TIAA Bank Field
+2014,1,20150102,UCLA,40,102,Kansas St.,35,44,True,Alamodome
+2014,1,20150102,Oklahoma St.,30,46,Washington,22,105,True,Sun Devil Stadium
+2014,1,20150103,Florida,28,110,East Carolina,20,4,True,Legion Field
+2014,1,20150104,Arkansas St.,44,122,Toledo,63,81,True,Ladd Peebles Stadium
+2014,1,20150112,Ohio St.,42,36,Oregon,20,99,True,AT&T Stadium

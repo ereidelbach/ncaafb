@@ -1,0 +1,874 @@
+season,week,date,home_team,home_points,home_code,away_team,away_points,away_code,neutral_site,venue
+2016,1,20160826,California,51,97,Hawaii,31,87,True,ANZ Stadium
+2016,1,20160901,Louisville,70,18,Charlotte,14,51,False,Papa John's Cardinal Stadium
+2016,1,20160901,Central Michigan,49,75,Presbyterian,3,151,False,Kelly/Shorts Stadium
+2016,1,20160901,Wake Forest,7,26,Tulane,3,11,False,BB&T Field
+2016,1,20160901,Cincinnati,28,2,Tennessee-Martin,7,209,False,Nippert Stadium
+2016,1,20160901,Connecticut,24,3,Maine,21,156,False,Rentschler Field
+2016,1,20160901,Florida Intl,13,53,Indiana,34,28,False,FIU Stadium
+2016,1,20160901,Tennessee,20,118,Appalachian St.,13,121,False,Neyland Stadium
+2016,1,20160901,NC State,48,20,William & Mary,14,163,False,Carter-Finley Stadium
+2016,1,20160901,Western Kentucky,46,64,Rice,14,59,False,Houchens Industries-L. T. Smith Stadium
+2016,1,20160901,Utah St.,45,93,Weber State,6,143,False,Romney Stadium
+2016,1,20160901,Vanderbilt,10,120,South Carolina,13,117,False,Vanderbilt Stadium
+2016,1,20160901,Utah,24,104,Southern Utah,0,141,False,Rice-Eccles Stadium
+2016,1,20160901,Minnesota,30,33,Oregon St.,23,100,False,TCF Bank Stadium
+2016,1,20160901,New Mexico,48,89,South Dakota,21,187,False,University Stadium
+2016,1,20160901,Idaho,20,133,Montana State,17,136,False,Kibbie Dome
+2016,1,20160901,UNLV,63,92,Jackson State,13,252,False,Sam Boyd Stadium
+2016,1,20160902,Eastern Michigan,61,76,Mississippi Valley State,14,253,False,Rynearson Stadium
+2016,1,20160902,Georgia St.,21,125,Ball St.,31,72,False,Georgia Dome
+2016,1,20160902,Michigan St.,28,32,Furman,13,230,False,Spartan Stadium
+2016,1,20160902,Buffalo,16,74,Albany,22,152,False,UB Stadium
+2016,1,20160902,Syracuse,33,23,Colgate,7,211,False,Carrier Dome
+2016,1,20160902,Temple,13,10,Army,28,65,False,Lincoln Financial Field
+2016,1,20160902,Baylor,55,41,Northwestern State,7,243,False,McLane Stadium
+2016,1,20160902,Colorado,44,98,Colorado St.,7,85,True,Sports Authority Field at Mile High
+2016,1,20160902,Arkansas St.,10,122,Toledo,31,81,False,Centennial Bank Stadium
+2016,1,20160902,Stanford,26,101,Kansas St.,13,44,False,Stanford Stadium
+2016,1,20160902,Nevada,30,88,Cal Poly,27,131,False,Mackay Stadium
+2016,1,20160903,Boston College,14,13,Georgia Tech,17,17,True,Aviva Stadium
+2016,1,20160903,West Virginia,26,50,Missouri,11,115,False,Mountaineer Field at Milan Puskar Stadium
+2016,1,20160903,Houston,33,5,Oklahoma,23,45,True,NRG Stadium
+2016,1,20160903,Louisiana,10,126,Boise St.,45,84,False,Cajun Field
+2016,1,20160903,Ohio St.,77,36,Bowling Green,10,73,False,Ohio Stadium
+2016,1,20160903,Michigan,63,31,Hawaii,3,87,False,Michigan Stadium
+2016,1,20160903,Purdue,45,38,Eastern Kentucky,24,203,False,Ross-Ade Stadium
+2016,1,20160903,Maryland,52,30,Howard,13,176,False,Maryland Stadium
+2016,1,20160903,Navy,52,7,Fordham,16,212,False,Navy-Marine Corps Memorial Stadium
+2016,1,20160903,Mississippi St.,20,114,South Alabama,21,127,False,Davis Wade Stadium
+2016,1,20160903,Northwestern,21,35,Western Michigan,22,82,False,Ryan Field
+2016,1,20160903,Virginia Tech,36,25,Liberty,13,67,False,Lane Stadium
+2016,1,20160903,Pittsburgh,28,22,Villanova,7,162,False,Heinz Field
+2016,1,20160903,Washington,48,105,Rutgers,13,39,False,Husky Stadium
+2016,1,20160903,Air Force,37,83,Abilene Christian,21,236,False,Falcon Stadium
+2016,1,20160903,Oklahoma St.,61,46,Southeastern Louisiana,7,245,False,Boone Pickens Stadium
+2016,1,20160903,Wisconsin,16,40,LSU,14,113,True,Lambeau Field
+2016,1,20160903,Texas A&M,31,119,UCLA,24,102,False,Kyle Field
+2016,1,20160903,Iowa,45,29,Miami (OH),21,78,False,Kinnick Stadium
+2016,1,20160903,Virginia,20,24,Richmond,37,159,False,Scott Stadium
+2016,1,20160903,Penn State,33,37,Kent State,13,77,False,Beaver Stadium
+2016,1,20160903,Ohio,54,80,Texas St.,56,128,False,Peden Stadium
+2016,1,20160903,Illinois,52,27,Murray State,3,205,False,Memorial Stadium
+2016,1,20160903,Arkansas,21,108,Louisiana Tech,20,54,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,1,20160903,Oregon,53,99,UC Davis,28,142,False,Autzen Stadium
+2016,1,20160903,North Carolina,24,21,Georgia,33,111,True,Georgia Dome
+2016,1,20160903,East Carolina,52,4,Western Carolina,7,234,False,Dowdy-Ficklen Stadium
+2016,1,20160903,Georgia Southern,54,124,Savannah State,0,383,False,Paulson Stadium
+2016,1,20160903,Troy,57,129,Austin Peay,17,201,False,Veterans Memorial Stadium
+2016,1,20160903,Miami (FL),70,19,Florida A&M,3,175,False,Hard Rock Stadium
+2016,1,20160903,Florida Atlantic,38,52,Southern Illinois,30,189,False,FAU Stadium
+2016,1,20160903,Duke,49,15,North Carolina Central,6,180,False,Wallace Wade Stadium
+2016,1,20160903,Akron,47,71,VMI,24,233,False,Summa Field at InfoCision Stadium
+2016,1,20160903,Memphis,35,6,Southeast Missouri,17,206,False,Liberty Bowl Memorial Stadium
+2016,1,20160903,UL Monroe,38,130,Southern,21,255,False,Malone Stadium
+2016,1,20160903,Kansas,55,43,Rhode Island,6,158,False,Memorial Stadium
+2016,1,20160903,UTSA,26,63,Alabama State,13,248,False,Alamodome
+2016,1,20160903,Middle Tennessee,55,56,Alabama A&M,0,247,False,"Johnny Red"""" Floyd Stadium"""""
+2016,1,20160903,North Texas,21,57,SMU,34,8,False,Apogee Stadium
+2016,1,20160903,Tulsa,45,12,San Jose St.,10,91,False,Skelly Field at H. A. Chapman Stadium
+2016,1,20160903,South Florida,56,9,Towson,20,161,False,Raymond James Stadium
+2016,1,20160903,Central Florida,38,1,South Carolina State,0,181,False,Bright House Networks Stadium
+2016,1,20160903,Kentucky,35,112,Southern Miss,44,60,False,Kroger Field
+2016,1,20160903,Florida,24,110,Massachusetts,7,68,False,Ben Hill Griffin Stadium
+2016,1,20160903,UTEP,38,62,New Mexico State,22,69,False,Sun Bowl Stadium
+2016,1,20160903,Iowa St.,20,42,Northern Iowa,25,186,False,Jack Trice Stadium
+2016,1,20160903,Nebraska,43,34,Fresno St.,10,86,False,Memorial Stadium
+2016,1,20160903,Washington St.,42,106,Eastern Washington,45,132,False,Martin Stadium
+2016,1,20160903,TCU,59,47,South Dakota State,41,188,False,Amon G. Carter Stadium
+2016,1,20160903,Texas Tech,69,49,Stephen F. Austin,17,246,False,Jones AT&T Stadium
+2016,1,20160903,Alabama,52,107,USC,6,103,True,AT&T Stadium
+2016,1,20160903,San Diego St.,31,90,New Hampshire,0,157,False,Qualcomm Stadium
+2016,1,20160903,Auburn,13,109,Clemson,19,14,False,Jordan-Hare Stadium
+2016,1,20160903,Arizona,16,95,BYU,18,66,True,University of Phoenix Stadium
+2016,1,20160903,Wyoming,40,94,Northern Illinois,34,79,False,War Memorial Stadium
+2016,1,20160903,Arizona St.,44,96,Northern Arizona,13,137,False,Sun Devil Stadium
+2016,1,20160904,Old Dominion,54,58,Hampton,21,147,False,Foreman Field
+2016,1,20160904,Texas,50,48,Notre Dame,47,70,False,Darrell K Royal-Texas Memorial Stadium
+2016,1,20160905,Florida St.,45,16,Ole Miss,34,116,True,Camping World Stadium
+2016,2,20160909,Florida Intl,14,53,Maryland,41,30,False,FIU Stadium
+2016,2,20160909,Syracuse,28,23,Louisville,62,18,False,Carrier Dome
+2016,2,20160910,Texas A&M,67,119,Prairie View A&M,0,254,False,Kyle Field
+2016,2,20160910,Rutgers,52,39,Howard,14,176,False,High Point Solutions Stadium
+2016,2,20160910,Pittsburgh,42,22,Penn State,39,37,False,Heinz Field
+2016,2,20160910,Purdue,20,38,Cincinnati,38,2,False,Ross-Ade Stadium
+2016,2,20160910,Michigan,51,31,Central Florida,14,1,False,Michigan Stadium
+2016,2,20160910,Houston,42,5,Lamar,0,240,False,John O'Quinn Field at TDECU Stadium
+2016,2,20160910,Nebraska,52,34,Wyoming,17,94,False,Memorial Stadium
+2016,2,20160910,Georgia,26,111,Nicholls State,24,242,False,Sanford Stadium
+2016,2,20160910,Massachusetts,7,68,Boston College,26,13,False,Gillette Stadium
+2016,2,20160910,Army,31,65,Rice,14,59,False,Blaik Field at Michie Stadium
+2016,2,20160910,Oklahoma St.,27,46,Central Michigan,30,75,False,Boone Pickens Stadium
+2016,2,20160910,East Carolina,33,4,NC State,30,20,False,Dowdy-Ficklen Stadium
+2016,2,20160910,Minnesota,58,33,Indiana State,28,183,False,TCF Bank Stadium
+2016,2,20160910,Clemson,30,14,Troy,24,129,False,Memorial Stadium
+2016,2,20160910,Florida St.,52,16,Charleston Southern,8,145,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,2,20160910,Temple,38,10,Stony Brook,0,160,False,Lincoln Financial Field
+2016,2,20160910,West Virginia,38,50,Youngstown State,21,191,False,Mountaineer Field at Milan Puskar Stadium
+2016,2,20160910,Air Force,48,83,Georgia St.,14,125,False,Falcon Stadium
+2016,2,20160910,USC,45,103,Utah St.,7,93,False,Los Angeles Memorial Coliseum
+2016,2,20160910,Kansas,21,43,Ohio,37,80,False,Memorial Stadium
+2016,2,20160910,Georgia Tech,35,17,Mercer,10,231,False,Bobby Dodd Stadium at Historic Grant Field
+2016,2,20160910,Duke,14,15,Wake Forest,24,26,False,Wallace Wade Stadium
+2016,2,20160910,Northwestern,7,35,Illinois State,9,182,False,Ryan Field
+2016,2,20160910,Navy,28,7,Connecticut,24,3,False,Navy-Marine Corps Memorial Stadium
+2016,2,20160910,Bowling Green,27,73,North Dakota,26,164,False,Doyt Perry Stadium
+2016,2,20160910,Notre Dame,39,70,Nevada,10,88,False,Notre Dame Stadium
+2016,2,20160910,Alabama,38,107,Western Kentucky,10,64,False,Bryant Denny Stadium
+2016,2,20160910,Wisconsin,54,40,Akron,10,71,False,Camp Randall Stadium
+2016,2,20160910,Ohio St.,48,36,Tulsa,3,12,False,Ohio Stadium
+2016,2,20160910,Florida,45,110,Kentucky,7,112,False,Ben Hill Griffin Stadium
+2016,2,20160910,Baylor,40,41,SMU,13,8,False,McLane Stadium
+2016,2,20160910,Appalachian St.,31,121,Old Dominion,7,58,False,Kidd Brewer Stadium
+2016,2,20160910,Colorado St.,23,85,UTSA,14,63,False,Sonny Lubick Field at Hughes Stadium
+2016,2,20160910,Ole Miss,38,116,Wofford,13,235,False,Vaught-Hemingway Stadium
+2016,2,20160910,Indiana,30,28,Ball St.,20,72,False,Memorial Stadium
+2016,2,20160910,Vanderbilt,47,120,Middle Tennessee,24,56,False,Vanderbilt Stadium
+2016,2,20160910,Miami (OH),17,78,Eastern Illinois,21,202,False,Yager Stadium
+2016,2,20160910,San Jose St.,66,91,Portland State,35,139,False,Spartan Stadium
+2016,2,20160910,Washington,59,105,Idaho,14,133,False,Husky Stadium
+2016,2,20160910,Colorado,56,98,Idaho State,7,134,False,Folsom Field
+2016,2,20160910,Charlotte,47,51,Elon,14,154,False,Jerry Richardson Stadium
+2016,2,20160910,Kent State,36,77,North Carolina A&T,39,179,False,Dix Stadium
+2016,2,20160910,Miami (FL),38,19,Florida Atlantic,10,52,False,Hard Rock Stadium
+2016,2,20160910,Marshall,62,55,Morgan State,0,177,False,Joan C. Edwards Stadium
+2016,2,20160910,Southern Miss,56,60,Savannah State,0,383,False,M. M. Roberts Stadium
+2016,2,20160910,Toledo,45,81,Maine,3,156,False,Glass Bowl
+2016,2,20160910,TCU,38,47,Arkansas,41,108,False,Amon G. Carter Stadium
+2016,2,20160910,Oklahoma,59,45,UL Monroe,17,130,False,Gaylord Family Oklahoma Memorial Stadium
+2016,2,20160910,Texas,41,48,UTEP,7,62,False,Darrell K Royal-Texas Memorial Stadium
+2016,2,20160910,Mississippi St.,27,114,South Carolina,14,117,False,Davis Wade Stadium
+2016,2,20160910,South Florida,48,9,Northern Illinois,17,79,False,Raymond James Stadium
+2016,2,20160910,South Alabama,9,127,Georgia Southern,24,124,False,Ladd Peebles Stadium
+2016,2,20160910,Louisiana,30,126,McNeese State,22,241,False,Cajun Field
+2016,2,20160910,North Texas,41,57,Bethune-Cookman,20,173,False,Apogee Stadium
+2016,2,20160910,Louisiana Tech,53,54,South Carolina State,24,181,False,Joe Aillet Stadium
+2016,2,20160910,Western Michigan,70,82,North Carolina Central,21,180,False,Waldo Stadium
+2016,2,20160910,Illinois,23,27,North Carolina,48,21,False,Memorial Stadium
+2016,2,20160910,Iowa,42,29,Iowa St.,3,42,False,Kinnick Stadium
+2016,2,20160910,Auburn,51,109,Arkansas St.,14,122,False,Jordan-Hare Stadium
+2016,2,20160910,Utah,20,104,BYU,19,66,False,Rice-Eccles Stadium
+2016,2,20160910,Missouri,61,115,Eastern Michigan,21,76,False,Faurot Field
+2016,2,20160910,LSU,34,113,Jacksonville State,13,204,False,Tiger Stadium
+2016,2,20160910,UCLA,42,102,UNLV,21,92,False,Rose Bowl
+2016,2,20160910,Tulane,66,11,Southern,21,255,False,Benson Field at Yulman Stadium
+2016,2,20160910,Tennessee,45,118,Virginia Tech,24,25,True,Bristol Motor Speedway
+2016,2,20160910,New Mexico State,32,69,New Mexico,31,89,False,Aggie Memorial Stadium
+2016,2,20160910,Arizona St.,68,96,Texas Tech,55,49,False,Sun Devil Stadium
+2016,2,20160910,Fresno St.,31,86,Sacramento State,3,140,False,Bulldog Stadium
+2016,2,20160910,Boise St.,31,84,Washington St.,28,106,False,Albertsons Stadium
+2016,2,20160910,Oregon,44,99,Virginia,26,24,False,Autzen Stadium
+2016,2,20160910,San Diego St.,45,90,California,40,97,False,Qualcomm Stadium
+2016,2,20160910,Arizona,31,95,Grambling,21,251,False,Arizona Stadium
+2016,2,20160910,Hawaii,41,87,Tennessee-Martin,36,209,False,Aloha Stadium
+2016,3,20160915,Cincinnati,16,2,Houston,40,5,False,Nippert Stadium
+2016,3,20160916,Rice,10,59,Baylor,38,41,False,Rice Stadium
+2016,3,20160916,Utah St.,34,93,Arkansas St.,20,122,False,Romney Stadium
+2016,3,20160916,UTSA,28,63,Arizona St.,32,96,False,Alamodome
+2016,3,20160917,Tennessee,28,118,Ohio,19,80,False,Neyland Stadium
+2016,3,20160917,Memphis,43,6,Kansas,7,43,False,Liberty Bowl Memorial Stadium
+2016,3,20160917,Louisville,63,18,Florida St.,20,16,False,Papa John's Cardinal Stadium
+2016,3,20160917,Penn State,34,37,Temple,27,10,False,Beaver Stadium
+2016,3,20160917,Clemson,59,14,South Carolina State,0,181,False,Memorial Stadium
+2016,3,20160917,Bowling Green,21,73,Middle Tennessee,41,56,False,Doyt Perry Stadium
+2016,3,20160917,Rutgers,37,39,New Mexico,28,89,False,High Point Solutions Stadium
+2016,3,20160917,Wisconsin,23,40,Georgia St.,17,125,False,Camp Randall Stadium
+2016,3,20160917,Marshall,38,55,Akron,65,71,False,Joan C. Edwards Stadium
+2016,3,20160917,TCU,41,47,Iowa St.,20,42,False,Amon G. Carter Stadium
+2016,3,20160917,Iowa,21,29,North Dakota State,23,185,False,Kinnick Stadium
+2016,3,20160917,Appalachian St.,10,121,Miami (FL),45,19,False,Kidd Brewer Stadium
+2016,3,20160917,Georgia Tech,38,17,Vanderbilt,7,120,False,Bobby Dodd Stadium at Historic Grant Field
+2016,3,20160917,Connecticut,13,3,Virginia,10,24,False,Rentschler Field
+2016,3,20160917,Tulsa,58,12,North Carolina A&T,21,179,False,Skelly Field at H. A. Chapman Stadium
+2016,3,20160917,Washington St.,56,106,Idaho,6,133,False,Martin Stadium
+2016,3,20160917,Kansas St.,63,44,Florida Atlantic,7,52,False,Bill Snyder Family Football Stadium
+2016,3,20160917,Central Michigan,44,75,UNLV,21,92,False,Kelly/Shorts Stadium
+2016,3,20160917,Toledo,52,81,Fresno St.,17,86,False,Glass Bowl
+2016,3,20160917,Ball St.,41,72,Eastern Kentucky,14,203,False,Scheumann Stadium
+2016,3,20160917,Syracuse,20,23,South Florida,45,9,False,Carrier Dome
+2016,3,20160917,Kent State,27,77,Monmouth,7,149,False,Dix Stadium
+2016,3,20160917,Michigan,45,31,Colorado,28,98,False,Michigan Stadium
+2016,3,20160917,Ole Miss,43,116,Alabama,48,107,False,Vaught-Hemingway Stadium
+2016,3,20160917,Virginia Tech,49,25,Boston College,0,13,False,Lane Stadium
+2016,3,20160917,Massachusetts,21,68,Florida Intl,13,53,False,Warren McGuirk Alumni Stadium
+2016,3,20160917,Nebraska,35,34,Oregon,32,99,False,Memorial Stadium
+2016,3,20160917,Northern Illinois,28,79,San Diego St.,42,90,False,Brigham Field at Huskie Stadium
+2016,3,20160917,Miami (OH),24,78,Western Kentucky,31,64,False,Yager Stadium
+2016,3,20160917,North Carolina,56,21,James Madison,28,155,False,Kenan Memorial Stadium
+2016,3,20160917,Oklahoma St.,45,46,Pittsburgh,38,22,False,Boone Pickens Stadium
+2016,3,20160917,Colorado St.,47,85,Northern Colorado,21,138,False,Sonny Lubick Field at Hughes Stadium
+2016,3,20160917,Illinois,10,27,Western Michigan,34,82,False,Memorial Stadium
+2016,3,20160917,Kentucky,62,112,New Mexico State,42,69,False,Kroger Field
+2016,3,20160917,South Carolina,20,117,East Carolina,15,4,False,Williams-Brice Stadium
+2016,3,20160917,Wyoming,45,94,UC Davis,22,142,False,War Memorial Stadium
+2016,3,20160917,Oregon St.,37,100,Idaho State,7,134,False,Reser Stadium
+2016,3,20160917,Georgia Southern,23,124,UL Monroe,21,130,False,Paulson Stadium
+2016,3,20160917,NC State,49,20,Old Dominion,22,58,False,Carter-Finley Stadium
+2016,3,20160917,Charlotte,19,51,Eastern Michigan,37,76,False,Jerry Richardson Stadium
+2016,3,20160917,Wake Forest,38,26,Delaware,21,153,False,BB&T Field
+2016,3,20160917,Auburn,16,109,Texas A&M,29,119,False,Jordan-Hare Stadium
+2016,3,20160917,LSU,23,113,Mississippi St.,20,114,False,Tiger Stadium
+2016,3,20160917,UTEP,14,62,Army,66,65,False,Sun Bowl Stadium
+2016,3,20160917,Southern Miss,31,60,Troy,37,129,False,M. M. Roberts Stadium
+2016,3,20160917,Texas Tech,59,49,Louisiana Tech,45,54,False,Jones AT&T Stadium
+2016,3,20160917,Louisiana,28,126,South Alabama,23,127,False,Cajun Field
+2016,3,20160917,SMU,29,8,Liberty,14,67,False,Gerald J. Ford Stadium
+2016,3,20160917,Tulane,14,11,Navy,21,7,False,Benson Field at Yulman Stadium
+2016,3,20160917,Central Florida,24,1,Maryland,30,30,False,Bright House Networks Stadium
+2016,3,20160917,Missouri,27,115,Georgia,28,111,False,Faurot Field
+2016,3,20160917,Notre Dame,28,70,Michigan St.,36,32,False,Notre Dame Stadium
+2016,3,20160917,Florida,32,110,North Texas,0,57,False,Ben Hill Griffin Stadium
+2016,3,20160917,Arkansas,42,108,Texas St.,3,128,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,3,20160917,Oklahoma,24,45,Ohio St.,45,36,False,Gaylord Family Oklahoma Memorial Stadium
+2016,3,20160917,Northwestern,24,35,Duke,13,15,False,Ryan Field
+2016,3,20160917,Washington,41,105,Portland State,3,139,False,Husky Stadium
+2016,3,20160917,Stanford,27,101,USC,10,103,False,Stanford Stadium
+2016,3,20160917,Nevada,38,88,Buffalo,14,74,False,Mackay Stadium
+2016,3,20160917,BYU,14,66,UCLA,17,102,False,LaVell Edwards Stadium
+2016,3,20160917,California,50,97,Texas,43,48,False,California Memorial Stadium
+2016,3,20160917,San Jose St.,17,91,Utah,34,104,False,Spartan Stadium
+2016,3,20160917,Arizona,47,95,Hawaii,28,87,False,Arizona Stadium
+2016,4,20160922,Georgia Tech,7,17,Clemson,26,14,False,Bobby Dodd Stadium at Historic Grant Field
+2016,4,20160923,Eastern Michigan,27,76,Wyoming,24,94,False,Rynearson Stadium
+2016,4,20160923,SMU,3,8,TCU,33,47,False,Gerald J. Ford Stadium
+2016,4,20160923,Utah,31,104,USC,27,103,False,Rice-Eccles Stadium
+2016,4,20160924,Temple,48,10,Charlotte,20,51,False,Lincoln Financial Field
+2016,4,20160924,Rutgers,7,39,Iowa,14,29,False,High Point Solutions Stadium
+2016,4,20160924,Minnesota,31,33,Colorado St.,24,85,False,TCF Bank Stadium
+2016,4,20160924,Purdue,24,38,Nevada,14,88,False,Ross-Ade Stadium
+2016,4,20160924,Iowa St.,44,42,San Jose St.,10,91,False,Jack Trice Stadium
+2016,4,20160924,Ole Miss,45,116,Georgia,14,111,False,Vaught-Hemingway Stadium
+2016,4,20160924,South Florida,35,9,Florida St.,55,16,False,Raymond James Stadium
+2016,4,20160924,Alabama,48,107,Kent State,0,77,False,Bryant Denny Stadium
+2016,4,20160924,Michigan St.,6,32,Wisconsin,30,40,False,Spartan Stadium
+2016,4,20160924,Virginia Tech,54,25,East Carolina,17,4,False,Lane Stadium
+2016,4,20160924,Virginia,49,24,Central Michigan,35,75,False,Scott Stadium
+2016,4,20160924,Connecticut,24,3,Syracuse,31,23,False,Rentschler Field
+2016,4,20160924,Boston College,42,13,Wagner,10,200,False,Alumni Stadium
+2016,4,20160924,Ohio,37,80,Gardner-Webb,21,146,False,Peden Stadium
+2016,4,20160924,Akron,38,71,Appalachian St.,45,121,False,Summa Field at InfoCision Stadium
+2016,4,20160924,Michigan,49,31,Penn State,10,37,False,Michigan Stadium
+2016,4,20160924,Indiana,28,28,Wake Forest,33,26,False,Memorial Stadium
+2016,4,20160924,Old Dominion,33,58,UTSA,19,63,False,Foreman Field
+2016,4,20160924,North Carolina,37,21,Pittsburgh,36,22,False,Kenan Memorial Stadium
+2016,4,20160924,Tennessee,38,118,Florida,28,110,False,Neyland Stadium
+2016,4,20160924,Massachusetts,35,68,Mississippi St.,47,114,False,Gillette Stadium
+2016,4,20160924,Notre Dame,35,70,Duke,38,15,False,Notre Dame Stadium
+2016,4,20160924,West Virginia,35,50,BYU,32,66,True,FedEx Field
+2016,4,20160924,Oregon St.,24,100,Boise St.,38,84,False,Reser Stadium
+2016,4,20160924,Cincinnati,27,2,Miami (OH),20,78,False,Nippert Stadium
+2016,4,20160924,Northern Illinois,23,79,Western Illinois,28,190,False,Brigham Field at Huskie Stadium
+2016,4,20160924,Missouri,79,115,Delaware State,0,174,False,Faurot Field
+2016,4,20160924,Fresno St.,41,86,Tulsa,48,12,False,Bulldog Stadium
+2016,4,20160924,Western Kentucky,30,64,Vanderbilt,31,120,False,Houchens Industries-L. T. Smith Stadium
+2016,4,20160924,Oregon,38,99,Colorado,41,98,False,Autzen Stadium
+2016,4,20160924,Auburn,18,109,LSU,13,113,False,Jordan-Hare Stadium
+2016,4,20160924,Rice,35,59,North Texas,42,57,False,Rice Stadium
+2016,4,20160924,Florida Atlantic,27,52,Ball St.,31,72,False,FAU Stadium
+2016,4,20160924,Florida Intl,14,53,Central Florida,53,1,False,FIU Stadium
+2016,4,20160924,Texas St.,3,128,Houston,64,5,False,Jim Wacker Field at Bobcat Stadium
+2016,4,20160924,Arkansas St.,23,122,Central Arkansas,28,237,False,Centennial Bank Stadium
+2016,4,20160924,Troy,52,129,New Mexico State,6,69,False,Veterans Memorial Stadium
+2016,4,20160924,South Alabama,41,127,Nicholls State,40,242,False,Ladd Peebles Stadium
+2016,4,20160924,Western Michigan,49,82,Georgia Southern,31,124,False,Waldo Stadium
+2016,4,20160924,Middle Tennessee,38,56,Louisiana Tech,34,54,False,"Johnny Red"""" Floyd Stadium"""""
+2016,4,20160924,Buffalo,23,74,Army,20,65,False,UB Stadium
+2016,4,20160924,Kansas St.,35,44,Missouri State,0,184,False,Bill Snyder Family Football Stadium
+2016,4,20160924,Kentucky,17,112,South Carolina,10,117,False,Kroger Field
+2016,4,20160924,Northwestern,13,35,Nebraska,24,34,False,Ryan Field
+2016,4,20160924,Baylor,35,41,Oklahoma St.,24,46,False,McLane Stadium
+2016,4,20160924,UTEP,7,62,Southern Miss,34,60,False,Sun Bowl Stadium
+2016,4,20160924,UCLA,13,102,Stanford,22,101,False,Rose Bowl
+2016,4,20160924,Marshall,28,55,Louisville,59,18,False,Joan C. Edwards Stadium
+2016,4,20160924,Memphis,77,6,Bowling Green,3,73,False,Liberty Bowl Memorial Stadium
+2016,4,20160924,Tulane,41,11,Louisiana,39,126,False,Benson Field at Yulman Stadium
+2016,4,20160924,Texas A&M,45,119,Arkansas,24,108,True,AT&T Stadium
+2016,4,20160924,UNLV,30,92,Idaho,33,133,False,Sam Boyd Stadium
+2016,4,20160924,Arizona St.,51,96,California,41,97,False,Sun Devil Stadium
+2016,4,20160924,Utah St.,20,93,Air Force,27,83,False,Romney Stadium
+2016,4,20160924,Arizona,28,95,Washington,35,105,False,Arizona Stadium
+2016,5,20160929,Houston,42,5,Connecticut,14,3,False,John O'Quinn Field at TDECU Stadium
+2016,5,20160929,Texas Tech,55,49,Kansas,19,43,False,Jones AT&T Stadium
+2016,5,20160930,Washington,44,105,Stanford,6,101,False,Husky Stadium
+2016,5,20160930,BYU,55,66,Toledo,53,81,False,LaVell Edwards Stadium
+2016,5,20161001,Oklahoma St.,49,46,Texas,31,48,False,Boone Pickens Stadium
+2016,5,20161001,Ohio St.,58,36,Rutgers,0,39,False,Ohio Stadium
+2016,5,20161001,Iowa St.,42,42,Baylor,45,41,False,Jack Trice Stadium
+2016,5,20161001,Georgia Tech,21,17,Miami (FL),35,19,False,Bobby Dodd Stadium at Historic Grant Field
+2016,5,20161001,Arkansas,52,108,Alcorn State,10,249,False,War Memorial Stadium
+2016,5,20161001,Vanderbilt,6,120,Florida,13,110,False,Vanderbilt Stadium
+2016,5,20161001,Syracuse,33,23,Notre Dame,50,70,True,MetLife Stadium
+2016,5,20161001,Iowa,31,29,Northwestern,38,35,False,Kinnick Stadium
+2016,5,20161001,East Carolina,29,4,Central Florida,47,1,False,Dowdy-Ficklen Stadium
+2016,5,20161001,Temple,45,10,SMU,20,8,False,Lincoln Financial Field
+2016,5,20161001,Appalachian St.,17,121,Georgia St.,3,125,False,Kidd Brewer Stadium
+2016,5,20161001,Duke,20,15,Virginia,34,24,False,Wallace Wade Stadium
+2016,5,20161001,Boston College,35,13,Buffalo,3,74,False,Alumni Stadium
+2016,5,20161001,Miami (OH),7,78,Ohio,17,80,False,Yager Stadium
+2016,5,20161001,Colorado,47,98,Oregon St.,6,100,False,Folsom Field
+2016,5,20161001,Bowling Green,25,73,Eastern Michigan,28,76,False,Doyt Perry Stadium
+2016,5,20161001,Maryland,50,30,Purdue,7,38,False,Maryland Stadium
+2016,5,20161001,West Virginia,17,50,Kansas St.,16,44,False,Mountaineer Field at Milan Puskar Stadium
+2016,5,20161001,Nebraska,31,34,Illinois,16,27,False,Memorial Stadium
+2016,5,20161001,NC State,33,20,Wake Forest,16,26,False,Carter-Finley Stadium
+2016,5,20161001,Ball St.,24,72,Northern Illinois,31,79,False,Scheumann Stadium
+2016,5,20161001,Massachusetts,24,68,Tulane,31,11,False,Warren McGuirk Alumni Stadium
+2016,5,20161001,Auburn,58,109,UL Monroe,7,130,False,Jordan-Hare Stadium
+2016,5,20161001,Air Force,28,83,Navy,14,7,False,Falcon Stadium
+2016,5,20161001,Florida St.,35,16,North Carolina,37,21,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,5,20161001,Georgia,31,111,Tennessee,34,118,False,Sanford Stadium
+2016,5,20161001,Kent State,27,77,Akron,31,71,False,Dix Stadium
+2016,5,20161001,Michigan,14,31,Wisconsin,7,40,False,Michigan Stadium
+2016,5,20161001,Penn State,29,37,Minnesota,26,33,False,Beaver Stadium
+2016,5,20161001,New Mexico,48,89,San Jose St.,41,91,False,University Stadium
+2016,5,20161001,South Carolina,13,117,Texas A&M,24,119,False,Williams-Brice Stadium
+2016,5,20161001,TCU,46,47,Oklahoma,52,45,False,Amon G. Carter Stadium
+2016,5,20161001,Idaho,13,133,Troy,34,129,False,Kibbie Dome
+2016,5,20161001,Charlotte,17,51,Old Dominion,52,58,False,Jerry Richardson Stadium
+2016,5,20161001,California,28,97,Utah,23,104,False,California Memorial Stadium
+2016,5,20161001,Ole Miss,48,116,Memphis,28,6,False,Vaught-Hemingway Stadium
+2016,5,20161001,Cincinnati,20,2,South Florida,45,9,False,Nippert Stadium
+2016,5,20161001,Alabama,34,107,Kentucky,6,112,False,Bryant Denny Stadium
+2016,5,20161001,Western Kentucky,50,64,Houston Baptist,3,238,False,Houchens Industries-L. T. Smith Stadium
+2016,5,20161001,Southern Miss,44,60,Rice,28,59,False,M. M. Roberts Stadium
+2016,5,20161001,Louisiana Tech,28,54,UTEP,7,62,False,Joe Aillet Stadium
+2016,5,20161001,Florida Intl,33,53,Florida Atlantic,31,52,False,FIU Stadium
+2016,5,20161001,North Texas,13,57,Middle Tennessee,30,56,False,Apogee Stadium
+2016,5,20161001,Central Michigan,10,75,Western Michigan,49,82,False,Kelly/Shorts Stadium
+2016,5,20161001,Pittsburgh,43,22,Marshall,27,55,False,Heinz Field
+2016,5,20161001,Texas St.,48,128,Incarnate Word,17,239,False,Jim Wacker Field at Bobcat Stadium
+2016,5,20161001,LSU,42,113,Missouri,7,115,False,Tiger Stadium
+2016,5,20161001,Indiana,24,28,Michigan St.,21,32,False,Memorial Stadium
+2016,5,20161001,Clemson,42,14,Louisville,36,18,False,Memorial Stadium
+2016,5,20161001,South Alabama,42,127,San Diego St.,24,90,False,Ladd Peebles Stadium
+2016,5,20161001,New Mexico State,37,69,Louisiana,31,126,False,Aggie Memorial Stadium
+2016,5,20161001,USC,41,103,Arizona St.,20,96,False,Los Angeles Memorial Coliseum
+2016,5,20161001,Washington St.,51,106,Oregon,33,99,False,Martin Stadium
+2016,5,20161001,Colorado St.,17,85,Wyoming,38,94,False,Sonny Lubick Field at Hughes Stadium
+2016,5,20161001,Boise St.,21,84,Utah St.,10,93,False,Albertsons Stadium
+2016,5,20161001,UCLA,45,102,Arizona,24,95,False,Rose Bowl
+2016,5,20161001,UNLV,45,92,Fresno St.,20,86,False,Sam Boyd Stadium
+2016,5,20161001,Hawaii,38,87,Nevada,17,88,False,Aloha Stadium
+2016,6,20161005,Arkansas St.,27,122,Georgia Southern,26,124,False,Centennial Bank Stadium
+2016,6,20161006,Memphis,34,6,Temple,27,10,False,Liberty Bowl Memorial Stadium
+2016,6,20161006,Louisiana Tech,55,54,Western Kentucky,52,64,False,Joe Aillet Stadium
+2016,6,20161007,Boston College,10,13,Clemson,56,14,False,Alumni Stadium
+2016,6,20161007,Tulsa,43,12,SMU,40,8,False,Skelly Field at H. A. Chapman Stadium
+2016,6,20161007,Old Dominion,36,58,Massachusetts,16,68,False,Foreman Field
+2016,6,20161007,New Mexico,21,89,Boise St.,49,84,False,University Stadium
+2016,6,20161008,Connecticut,20,3,Cincinnati,9,2,False,Rentschler Field
+2016,6,20161008,Oklahoma,45,45,Texas,40,48,True,Cotton Bowl
+2016,6,20161008,South Florida,38,9,East Carolina,22,4,False,Raymond James Stadium
+2016,6,20161008,Kansas,23,43,TCU,24,47,False,Memorial Stadium
+2016,6,20161008,Minnesota,7,33,Iowa,14,29,False,TCF Bank Stadium
+2016,6,20161008,Penn State,38,37,Maryland,14,30,False,Beaver Stadium
+2016,6,20161008,UTSA,55,63,Southern Miss,32,60,False,Alamodome
+2016,6,20161008,Mississippi St.,14,114,Auburn,38,109,False,Davis Wade Stadium
+2016,6,20161008,NC State,10,20,Notre Dame,3,70,False,Carter-Finley Stadium
+2016,6,20161008,Pittsburgh,37,22,Georgia Tech,34,17,False,Heinz Field
+2016,6,20161008,Ohio,30,80,Bowling Green,24,73,False,Peden Stadium
+2016,6,20161008,Eastern Michigan,20,76,Toledo,35,81,False,Rynearson Stadium
+2016,6,20161008,Akron,35,71,Miami (OH),13,78,False,Summa Field at InfoCision Stadium
+2016,6,20161008,Navy,46,7,Houston,40,5,False,Navy-Marine Corps Memorial Stadium
+2016,6,20161008,Texas A&M,45,119,Tennessee,38,118,False,Kyle Field
+2016,6,20161008,Central Michigan,24,75,Ball St.,21,72,False,Kelly/Shorts Stadium
+2016,6,20161008,Duke,13,15,Army,6,65,False,Wallace Wade Stadium
+2016,6,20161008,Michigan St.,14,32,BYU,31,66,False,Spartan Stadium
+2016,6,20161008,Ohio St.,38,36,Indiana,17,28,False,Ohio Stadium
+2016,6,20161008,North Carolina,3,21,Virginia Tech,34,25,False,Kenan Memorial Stadium
+2016,6,20161008,Illinois,31,27,Purdue,34,38,False,Memorial Stadium
+2016,6,20161008,Georgia St.,41,125,Texas St.,21,128,False,Georgia Dome
+2016,6,20161008,Buffalo,20,74,Kent State,44,77,False,UB Stadium
+2016,6,20161008,Wyoming,35,94,Air Force,26,83,False,War Memorial Stadium
+2016,6,20161008,Oklahoma St.,38,46,Iowa St.,31,42,False,Boone Pickens Stadium
+2016,6,20161008,USC,21,103,Colorado,17,98,False,Los Angeles Memorial Coliseum
+2016,6,20161008,Kentucky,20,112,Vanderbilt,13,120,False,Kroger Field
+2016,6,20161008,San Jose St.,17,91,Hawaii,34,87,False,Spartan Stadium
+2016,6,20161008,Western Michigan,45,82,Northern Illinois,30,79,False,Waldo Stadium
+2016,6,20161008,North Texas,38,57,Marshall,21,55,False,Apogee Stadium
+2016,6,20161008,Arkansas,30,108,Alabama,49,107,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,6,20161008,Rutgers,0,39,Michigan,78,31,False,High Point Solutions Stadium
+2016,6,20161008,Wake Forest,28,26,Syracuse,9,23,False,BB&T Field
+2016,6,20161008,Kansas St.,44,44,Texas Tech,38,49,False,Bill Snyder Family Football Stadium
+2016,6,20161008,UL Monroe,31,130,Idaho,34,133,False,Malone Stadium
+2016,6,20161008,Nevada,27,88,Fresno St.,22,86,False,Mackay Stadium
+2016,6,20161008,Oregon,21,99,Washington,70,105,False,Autzen Stadium
+2016,6,20161008,Miami (FL),19,19,Florida St.,20,16,False,Hard Rock Stadium
+2016,6,20161008,UTEP,21,62,Florida Intl,35,53,False,Sun Bowl Stadium
+2016,6,20161008,Oregon St.,47,100,California,44,97,False,Reser Stadium
+2016,6,20161008,Colorado St.,31,85,Utah St.,24,93,False,Sonny Lubick Field at Hughes Stadium
+2016,6,20161008,Utah,36,104,Arizona,23,95,False,Rice-Eccles Stadium
+2016,6,20161008,Arizona St.,23,96,UCLA,20,102,False,Sun Devil Stadium
+2016,6,20161008,San Diego St.,26,90,UNLV,7,92,False,Qualcomm Stadium
+2016,6,20161008,Stanford,16,101,Washington St.,42,106,False,Stanford Stadium
+2016,6,20161009,Florida Atlantic,23,52,Charlotte,28,51,False,FAU Stadium
+2016,6,20161009,South Carolina,14,117,Georgia,28,111,False,Williams-Brice Stadium
+2016,7,20161012,Louisiana,0,126,Appalachian St.,24,121,False,Cajun Field
+2016,7,20161014,Louisville,24,18,Duke,14,15,False,Papa John's Cardinal Stadium
+2016,7,20161014,Tulane,14,11,Memphis,24,6,False,Benson Field at Yulman Stadium
+2016,7,20161014,Fresno St.,3,86,San Diego St.,17,90,False,Bulldog Stadium
+2016,7,20161014,BYU,28,66,Mississippi St.,21,114,False,LaVell Edwards Stadium
+2016,7,20161015,Oklahoma,38,45,Kansas St.,17,44,False,Gaylord Family Oklahoma Memorial Stadium
+2016,7,20161015,Clemson,24,14,NC State,17,20,False,Memorial Stadium
+2016,7,20161015,Texas Tech,17,49,West Virginia,48,50,False,Jones AT&T Stadium
+2016,7,20161015,Army,62,65,Lafayette,7,215,False,Blaik Field at Michie Stadium
+2016,7,20161015,Georgia,16,111,Vanderbilt,17,120,False,Sanford Stadium
+2016,7,20161015,Maryland,10,30,Minnesota,31,33,False,Maryland Stadium
+2016,7,20161015,Purdue,35,38,Iowa,49,29,False,Ross-Ade Stadium
+2016,7,20161015,Rutgers,7,39,Illinois,24,27,False,High Point Solutions Stadium
+2016,7,20161015,Georgia Tech,35,17,Georgia Southern,24,124,False,Bobby Dodd Stadium at Historic Grant Field
+2016,7,20161015,Virginia,31,24,Pittsburgh,45,22,False,Scott Stadium
+2016,7,20161015,Ohio,20,80,Eastern Michigan,27,76,False,Peden Stadium
+2016,7,20161015,Miami (OH),18,78,Kent State,14,77,False,Yager Stadium
+2016,7,20161015,Middle Tennessee,43,56,Western Kentucky,44,64,False,"Johnny Red"""" Floyd Stadium"""""
+2016,7,20161015,Arizona,14,95,USC,48,103,False,Arizona Stadium
+2016,7,20161015,Air Force,40,83,New Mexico,45,89,True,Cotton Bowl
+2016,7,20161015,Michigan St.,40,32,Northwestern,54,35,False,Spartan Stadium
+2016,7,20161015,Troy,31,129,Georgia St.,21,125,False,Veterans Memorial Stadium
+2016,7,20161015,Massachusetts,28,68,Louisiana Tech,56,54,False,Gillette Stadium
+2016,7,20161015,Buffalo,21,74,Ball St.,31,72,False,UB Stadium
+2016,7,20161015,Toledo,42,81,Bowling Green,35,73,False,Glass Bowl
+2016,7,20161015,Northern Illinois,28,79,Central Michigan,34,75,False,Brigham Field at Huskie Stadium
+2016,7,20161015,Akron,0,71,Western Michigan,41,82,False,Summa Field at InfoCision Stadium
+2016,7,20161015,Florida St.,17,16,Wake Forest,6,26,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,7,20161015,Miami (FL),13,19,North Carolina,20,21,False,Hard Rock Stadium
+2016,7,20161015,Baylor,49,41,Kansas,7,43,False,McLane Stadium
+2016,7,20161015,Indiana,22,28,Nebraska,27,34,False,Memorial Stadium
+2016,7,20161015,Tennessee,10,118,Alabama,49,107,False,Neyland Stadium
+2016,7,20161015,Syracuse,31,23,Virginia Tech,17,25,False,Carrier Dome
+2016,7,20161015,Florida,40,110,Missouri,14,115,False,Ben Hill Griffin Stadium
+2016,7,20161015,Oregon St.,14,100,Utah,19,104,False,Reser Stadium
+2016,7,20161015,Idaho,55,133,New Mexico State,23,69,False,Kibbie Dome
+2016,7,20161015,Charlotte,26,51,Florida Intl,27,53,False,Jerry Richardson Stadium
+2016,7,20161015,Rice,13,59,UTSA,14,63,False,Rice Stadium
+2016,7,20161015,Marshall,27,55,Florida Atlantic,21,52,False,Joan C. Edwards Stadium
+2016,7,20161015,UL Monroe,40,130,Texas St.,34,128,False,Malone Stadium
+2016,7,20161015,Arkansas St.,17,122,South Alabama,7,127,False,Centennial Bank Stadium
+2016,7,20161015,South Florida,42,9,Connecticut,27,3,False,Raymond James Stadium
+2016,7,20161015,Texas,27,48,Iowa St.,6,42,False,Darrell K Royal-Texas Memorial Stadium
+2016,7,20161015,Houston,38,5,Tulsa,31,12,False,John O'Quinn Field at TDECU Stadium
+2016,7,20161015,Arkansas,34,108,Ole Miss,30,116,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,7,20161015,Notre Dame,10,70,Stanford,17,101,False,Notre Dame Stadium
+2016,7,20161015,LSU,45,113,Southern Miss,10,60,False,Tiger Stadium
+2016,7,20161015,Central Florida,25,1,Temple,26,10,False,Bright House Networks Stadium
+2016,7,20161015,Colorado,40,98,Arizona St.,16,96,False,Folsom Field
+2016,7,20161015,Wisconsin,23,40,Ohio St.,30,36,False,Camp Randall Stadium
+2016,7,20161015,Boise St.,28,84,Colorado St.,23,85,False,Albertsons Stadium
+2016,7,20161015,San Jose St.,14,91,Nevada,10,88,False,Spartan Stadium
+2016,7,20161015,Washington St.,27,106,UCLA,21,102,False,Martin Stadium
+2016,7,20161015,Hawaii,38,87,UNLV,41,92,False,Aloha Stadium
+2016,8,20161020,Virginia Tech,37,25,Miami (FL),16,19,False,Lane Stadium
+2016,8,20161020,South Alabama,21,127,Troy,28,129,False,Ladd Peebles Stadium
+2016,8,20161020,Boise St.,28,84,BYU,27,66,False,Albertsons Stadium
+2016,8,20161021,Temple,46,10,South Florida,30,9,False,Lincoln Financial Field
+2016,8,20161021,California,52,97,Oregon,49,99,False,California Memorial Stadium
+2016,8,20161021,San Diego St.,42,90,San Jose St.,3,91,False,Qualcomm Stadium
+2016,8,20161022,Louisville,54,18,NC State,13,20,False,Papa John's Cardinal Stadium
+2016,8,20161022,Iowa,9,29,Wisconsin,17,40,False,Kinnick Stadium
+2016,8,20161022,South Carolina,34,117,Massachusetts,28,68,False,Williams-Brice Stadium
+2016,8,20161022,Army,18,65,North Texas,35,57,False,Blaik Field at Michie Stadium
+2016,8,20161022,Connecticut,16,3,Central Florida,24,1,False,Rentschler Field
+2016,8,20161022,Toledo,31,81,Central Michigan,17,75,False,Glass Bowl
+2016,8,20161022,Bowling Green,26,73,Miami (OH),40,78,False,Doyt Perry Stadium
+2016,8,20161022,Northwestern,24,35,Indiana,14,28,False,Ryan Field
+2016,8,20161022,Kansas,20,43,Oklahoma St.,44,46,False,Memorial Stadium
+2016,8,20161022,Kansas St.,24,44,Texas,21,48,False,Bill Snyder Family Football Stadium
+2016,8,20161022,Minnesota,34,33,Rutgers,32,39,False,TCF Bank Stadium
+2016,8,20161022,Boston College,20,13,Syracuse,28,23,False,Alumni Stadium
+2016,8,20161022,Kent State,10,77,Ohio,14,80,False,Dix Stadium
+2016,8,20161022,Air Force,27,83,Hawaii,34,87,False,Falcon Stadium
+2016,8,20161022,Stanford,5,101,Colorado,10,98,False,Stanford Stadium
+2016,8,20161022,Ball St.,25,72,Akron,35,71,False,Scheumann Stadium
+2016,8,20161022,Virginia,14,24,North Carolina,35,21,False,Scott Stadium
+2016,8,20161022,West Virginia,34,50,TCU,10,47,False,Mountaineer Field at Milan Puskar Stadium
+2016,8,20161022,Alabama,33,107,Texas A&M,14,119,False,Bryant Denny Stadium
+2016,8,20161022,Nebraska,27,34,Purdue,14,38,False,Memorial Stadium
+2016,8,20161022,Michigan,41,31,Illinois,8,27,False,Michigan Stadium
+2016,8,20161022,Western Michigan,45,82,Eastern Michigan,31,76,False,Waldo Stadium
+2016,8,20161022,Navy,42,7,Memphis,28,6,False,Navy-Marine Corps Memorial Stadium
+2016,8,20161022,Appalachian St.,37,121,Idaho,19,133,False,Kidd Brewer Stadium
+2016,8,20161022,Georgia St.,31,125,Tennessee-Martin,6,209,False,Georgia Dome
+2016,8,20161022,Northern Illinois,44,79,Buffalo,7,74,False,Brigham Field at Huskie Stadium
+2016,8,20161022,Rice,65,59,Prairie View A&M,44,254,False,Rice Stadium
+2016,8,20161022,Tulsa,50,12,Tulane,27,11,False,Skelly Field at H. A. Chapman Stadium
+2016,8,20161022,Missouri,45,115,Middle Tennessee,51,56,False,Faurot Field
+2016,8,20161022,UCLA,45,102,Utah,52,104,False,Rose Bowl
+2016,8,20161022,UNLV,23,92,Colorado St.,42,85,False,Sam Boyd Stadium
+2016,8,20161022,Marshall,24,55,Charlotte,27,51,False,Joan C. Edwards Stadium
+2016,8,20161022,Auburn,56,109,Arkansas,3,108,False,Jordan-Hare Stadium
+2016,8,20161022,Washington,41,105,Oregon St.,17,100,False,Husky Stadium
+2016,8,20161022,SMU,38,8,Houston,16,5,False,Gerald J. Ford Stadium
+2016,8,20161022,Cincinnati,31,2,East Carolina,19,4,False,Nippert Stadium
+2016,8,20161022,Florida Intl,24,53,Louisiana Tech,44,54,False,FIU Stadium
+2016,8,20161022,Western Kentucky,59,64,Old Dominion,24,58,False,Houchens Industries-L. T. Smith Stadium
+2016,8,20161022,UTSA,49,63,UTEP,52,62,False,Alamodome
+2016,8,20161022,Texas St.,3,128,Louisiana,27,126,False,Jim Wacker Field at Bobcat Stadium
+2016,8,20161022,Kentucky,40,112,Mississippi St.,38,114,False,Kroger Field
+2016,8,20161022,Maryland,28,30,Michigan St.,17,32,False,Maryland Stadium
+2016,8,20161022,Vanderbilt,35,120,Tennessee State,17,207,False,Vanderbilt Stadium
+2016,8,20161022,New Mexico State,19,69,Georgia Southern,22,124,False,Aggie Memorial Stadium
+2016,8,20161022,Texas Tech,59,49,Oklahoma,66,45,False,Jones AT&T Stadium
+2016,8,20161022,Penn State,24,37,Ohio St.,21,36,False,Beaver Stadium
+2016,8,20161022,LSU,38,113,Ole Miss,21,116,False,Tiger Stadium
+2016,8,20161022,New Mexico,59,89,UL Monroe,17,130,False,University Stadium
+2016,8,20161022,Arizona St.,32,96,Washington St.,37,106,False,Sun Devil Stadium
+2016,8,20161022,Utah St.,38,93,Fresno St.,20,86,False,Romney Stadium
+2016,8,20161022,Nevada,34,88,Wyoming,42,94,False,Mackay Stadium
+2016,9,20161027,Pittsburgh,36,22,Virginia Tech,39,25,False,Heinz Field
+2016,9,20161027,Buffalo,41,74,Akron,20,71,False,UB Stadium
+2016,9,20161027,Toledo,26,81,Ohio,31,80,False,Glass Bowl
+2016,9,20161027,Georgia Southern,10,124,Appalachian St.,34,121,False,Paulson Stadium
+2016,9,20161027,USC,45,103,California,24,97,False,Los Angeles Memorial Coliseum
+2016,9,20161028,South Florida,52,9,Navy,45,7,False,Raymond James Stadium
+2016,9,20161028,Utah St.,13,93,San Diego St.,40,90,False,Romney Stadium
+2016,9,20161028,Fresno St.,21,86,Air Force,31,83,False,Bulldog Stadium
+2016,9,20161029,Houston,31,5,Central Florida,24,1,False,John O'Quinn Field at TDECU Stadium
+2016,9,20161029,Michigan St.,23,32,Michigan,32,31,False,Spartan Stadium
+2016,9,20161029,Virginia,25,24,Louisville,32,18,False,Scott Stadium
+2016,9,20161029,Oklahoma St.,37,46,West Virginia,20,50,False,Boone Pickens Stadium
+2016,9,20161029,Purdue,24,38,Penn State,62,37,False,Ross-Ade Stadium
+2016,9,20161029,Missouri,21,115,Kentucky,35,112,False,Faurot Field
+2016,9,20161029,Massachusetts,34,68,Wagner,10,200,False,Warren McGuirk Alumni Stadium
+2016,9,20161029,East Carolina,41,4,Connecticut,3,3,False,Dowdy-Ficklen Stadium
+2016,9,20161029,Georgia Tech,38,17,Duke,35,15,False,Bobby Dodd Stadium at Historic Grant Field
+2016,9,20161029,Central Michigan,24,75,Kent State,27,77,False,Kelly/Shorts Stadium
+2016,9,20161029,Iowa St.,26,42,Kansas St.,31,44,False,Jack Trice Stadium
+2016,9,20161029,Illinois,17,27,Minnesota,40,33,False,Memorial Stadium
+2016,9,20161029,NC State,14,20,Boston College,21,13,False,Carter-Finley Stadium
+2016,9,20161029,Indiana,42,28,Maryland,36,30,False,Memorial Stadium
+2016,9,20161029,Temple,34,10,Cincinnati,13,2,False,Lincoln Financial Field
+2016,9,20161029,TCU,24,47,Texas Tech,27,49,False,Amon G. Carter Stadium
+2016,9,20161029,Georgia,10,111,Florida,24,110,True,TIAA Bank Field
+2016,9,20161029,Wake Forest,13,26,Army,21,65,False,BB&T Field
+2016,9,20161029,Mississippi St.,56,114,Samford,41,232,False,Davis Wade Stadium
+2016,9,20161029,Notre Dame,30,70,Miami (FL),27,19,False,Notre Dame Stadium
+2016,9,20161029,Utah,24,104,Washington,31,105,False,Rice-Eccles Stadium
+2016,9,20161029,Florida Atlantic,3,52,Western Kentucky,52,64,False,FAU Stadium
+2016,9,20161029,Ohio St.,24,36,Northwestern,20,35,False,Ohio Stadium
+2016,9,20161029,Eastern Michigan,15,76,Miami (OH),28,78,False,Rynearson Stadium
+2016,9,20161029,Texas,35,48,Baylor,34,41,False,Darrell K Royal-Texas Memorial Stadium
+2016,9,20161029,Tulane,31,11,SMU,35,8,False,Benson Field at Yulman Stadium
+2016,9,20161029,Oregon,54,99,Arizona St.,35,96,False,Autzen Stadium
+2016,9,20161029,South Alabama,13,127,Georgia St.,10,125,False,Ladd Peebles Stadium
+2016,9,20161029,Louisiana Tech,61,54,Rice,16,59,False,Joe Aillet Stadium
+2016,9,20161029,Wisconsin,23,40,Nebraska,17,34,False,Camp Randall Stadium
+2016,9,20161029,Wyoming,30,94,Boise St.,28,84,False,War Memorial Stadium
+2016,9,20161029,Oklahoma,56,45,Kansas,3,43,False,Gaylord Family Oklahoma Memorial Stadium
+2016,9,20161029,Southern Miss,24,60,Marshall,14,55,False,M. M. Roberts Stadium
+2016,9,20161029,UTSA,31,63,North Texas,17,57,False,Alamodome
+2016,9,20161029,Florida Intl,35,53,Middle Tennessee,42,56,False,FIU Stadium
+2016,9,20161029,Arkansas St.,51,122,UL Monroe,10,130,False,Centennial Bank Stadium
+2016,9,20161029,South Carolina,24,117,Tennessee,21,118,False,Williams-Brice Stadium
+2016,9,20161029,Ole Miss,29,116,Auburn,40,109,False,Vaught-Hemingway Stadium
+2016,9,20161029,Texas A&M,52,119,New Mexico State,10,69,False,Kyle Field
+2016,9,20161029,Florida St.,34,16,Clemson,37,14,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,9,20161029,Memphis,30,6,Tulsa,59,12,False,Liberty Bowl Memorial Stadium
+2016,9,20161029,UTEP,21,62,Old Dominion,31,58,False,Sun Bowl Stadium
+2016,9,20161029,San Jose St.,30,91,UNLV,24,92,False,Spartan Stadium
+2016,9,20161029,Oregon St.,31,100,Washington St.,35,106,False,Reser Stadium
+2016,9,20161029,Arizona,10,95,Stanford,34,101,False,Arizona Stadium
+2016,9,20161029,Hawaii,21,87,New Mexico,28,89,False,Aloha Stadium
+2016,10,20161101,Ball St.,20,72,Western Michigan,52,82,False,Scheumann Stadium
+2016,10,20161101,Northern Illinois,45,79,Bowling Green,20,73,False,Brigham Field at Huskie Stadium
+2016,10,20161102,Akron,17,71,Toledo,48,81,False,Summa Field at InfoCision Stadium
+2016,10,20161103,Ohio,34,80,Buffalo,10,74,False,Peden Stadium
+2016,10,20161103,Iowa St.,24,42,Oklahoma,34,45,False,Jack Trice Stadium
+2016,10,20161103,Georgia St.,16,125,Arkansas St.,31,122,False,Georgia Dome
+2016,10,20161103,Colorado,20,98,UCLA,10,102,False,Folsom Field
+2016,10,20161104,Miami (OH),37,78,Central Michigan,17,75,False,Yager Stadium
+2016,10,20161104,Connecticut,0,3,Temple,21,10,False,Rentschler Field
+2016,10,20161104,Boise St.,45,84,San Jose St.,31,91,False,Albertsons Stadium
+2016,10,20161105,Navy,28,7,Notre Dame,27,70,True,TIAA Bank Field
+2016,10,20161105,Illinois,31,27,Michigan St.,27,32,False,Memorial Stadium
+2016,10,20161105,Rutgers,27,39,Indiana,33,28,False,High Point Solutions Stadium
+2016,10,20161105,Mississippi St.,35,114,Texas A&M,28,119,False,Davis Wade Stadium
+2016,10,20161105,Texas Tech,37,49,Texas,45,48,False,Jones AT&T Stadium
+2016,10,20161105,Ole Miss,37,116,Georgia Southern,27,124,False,Vaught-Hemingway Stadium
+2016,10,20161105,Boston College,7,13,Louisville,52,18,False,Alumni Stadium
+2016,10,20161105,Northwestern,7,35,Wisconsin,21,40,False,Ryan Field
+2016,10,20161105,Auburn,23,109,Vanderbilt,16,120,False,Jordan-Hare Stadium
+2016,10,20161105,Army,12,65,Air Force,31,83,False,Blaik Field at Michie Stadium
+2016,10,20161105,Miami (FL),51,19,Pittsburgh,28,22,False,Hard Rock Stadium
+2016,10,20161105,North Carolina,48,21,Georgia Tech,20,17,False,Kenan Memorial Stadium
+2016,10,20161105,Middle Tennessee,25,56,UTSA,45,63,False,"Johnny Red"""" Floyd Stadium"""""
+2016,10,20161105,Wake Forest,27,26,Virginia,20,24,False,BB&T Field
+2016,10,20161105,Baylor,22,41,TCU,62,47,False,McLane Stadium
+2016,10,20161105,Duke,21,15,Virginia Tech,24,25,False,Wallace Wade Stadium
+2016,10,20161105,Kansas St.,37,44,Oklahoma St.,43,46,False,Bill Snyder Family Football Stadium
+2016,10,20161105,Arkansas,31,108,Florida,10,110,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,10,20161105,Michigan,59,31,Maryland,3,30,False,Michigan Stadium
+2016,10,20161105,Clemson,54,14,Syracuse,0,23,False,Memorial Stadium
+2016,10,20161105,Minnesota,44,33,Purdue,31,38,False,TCF Bank Stadium
+2016,10,20161105,Appalachian St.,35,121,Texas St.,10,128,False,Kidd Brewer Stadium
+2016,10,20161105,Rice,25,59,Florida Atlantic,42,52,False,Rice Stadium
+2016,10,20161105,Southern Miss,27,60,Charlotte,38,51,False,M. M. Roberts Stadium
+2016,10,20161105,Stanford,26,101,Oregon St.,15,100,False,Stanford Stadium
+2016,10,20161105,Colorado St.,37,85,Fresno St.,0,86,False,Sonny Lubick Field at Hughes Stadium
+2016,10,20161105,Cincinnati,3,2,BYU,20,66,False,Nippert Stadium
+2016,10,20161105,Troy,52,129,Massachusetts,31,68,False,Veterans Memorial Stadium
+2016,10,20161105,SMU,7,8,Memphis,51,6,False,Gerald J. Ford Stadium
+2016,10,20161105,Washington St.,69,106,Arizona,7,95,False,Martin Stadium
+2016,10,20161105,South Carolina,31,117,Missouri,21,115,False,Williams-Brice Stadium
+2016,10,20161105,Tennessee,55,118,Tennessee Tech,0,208,False,Neyland Stadium
+2016,10,20161105,Louisiana,13,126,Idaho,23,133,False,Cajun Field
+2016,10,20161105,UL Monroe,42,130,South Alabama,35,127,False,Malone Stadium
+2016,10,20161105,Central Florida,37,1,Tulane,6,11,False,Bright House Networks Stadium
+2016,10,20161105,Western Kentucky,49,64,Florida Intl,21,53,False,Houchens Industries-L. T. Smith Stadium
+2016,10,20161105,North Texas,24,57,Louisiana Tech,45,54,False,Apogee Stadium
+2016,10,20161105,Old Dominion,38,58,Marshall,14,55,False,Foreman Field
+2016,10,20161105,West Virginia,48,50,Kansas,21,43,False,Mountaineer Field at Milan Puskar Stadium
+2016,10,20161105,NC State,20,20,Florida St.,24,16,False,Carter-Finley Stadium
+2016,10,20161105,USC,45,103,Oregon,20,99,False,Los Angeles Memorial Coliseum
+2016,10,20161105,San Diego St.,55,90,Hawaii,0,87,False,Qualcomm Stadium
+2016,10,20161105,Penn State,41,37,Iowa,14,29,False,Beaver Stadium
+2016,10,20161105,Kentucky,24,112,Georgia,27,111,False,Kroger Field
+2016,10,20161105,UTEP,42,62,Houston Baptist,10,238,False,Sun Bowl Stadium
+2016,10,20161105,Tulsa,45,12,East Carolina,24,4,False,Skelly Field at H. A. Chapman Stadium
+2016,10,20161105,LSU,0,113,Alabama,10,107,False,Tiger Stadium
+2016,10,20161105,Ohio St.,62,36,Nebraska,3,34,False,Ohio Stadium
+2016,10,20161105,Wyoming,52,94,Utah St.,28,93,False,War Memorial Stadium
+2016,10,20161105,New Mexico,35,89,Nevada,26,88,False,University Stadium
+2016,10,20161105,California,27,97,Washington,66,105,False,California Memorial Stadium
+2016,11,20161108,Ball St.,41,72,Eastern Michigan,48,76,False,Scheumann Stadium
+2016,11,20161108,Kent State,21,77,Western Michigan,37,82,False,Dix Stadium
+2016,11,20161109,Akron,28,71,Bowling Green,38,73,False,Summa Field at InfoCision Stadium
+2016,11,20161109,Northern Illinois,24,79,Toledo,31,81,True,Guaranteed Rate Field
+2016,11,20161110,Georgia Southern,26,124,Louisiana,33,126,False,Paulson Stadium
+2016,11,20161110,Duke,28,15,North Carolina,27,21,False,Wallace Wade Stadium
+2016,11,20161110,Arizona St.,26,96,Utah,49,104,False,Sun Devil Stadium
+2016,11,20161111,Florida St.,45,16,Boston College,7,13,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,11,20161112,Michigan St.,49,32,Rutgers,0,39,False,Spartan Stadium
+2016,11,20161112,Alabama,51,107,Mississippi St.,3,114,False,Bryant Denny Stadium
+2016,11,20161112,Florida,20,110,South Carolina,7,117,False,Ben Hill Griffin Stadium
+2016,11,20161112,East Carolina,31,4,SMU,55,8,False,Dowdy-Ficklen Stadium
+2016,11,20161112,Indiana,31,28,Penn State,45,37,False,Memorial Stadium
+2016,11,20161112,Oklahoma,45,45,Baylor,24,41,False,Gaylord Family Oklahoma Memorial Stadium
+2016,11,20161112,Central Florida,24,1,Cincinnati,3,2,False,Bright House Networks Stadium
+2016,11,20161112,Tennessee,49,118,Kentucky,36,112,False,Neyland Stadium
+2016,11,20161112,Texas,20,48,West Virginia,24,50,False,Darrell K Royal-Texas Memorial Stadium
+2016,11,20161112,Purdue,17,38,Northwestern,45,35,False,Ross-Ade Stadium
+2016,11,20161112,Kansas,24,43,Iowa St.,31,42,False,Memorial Stadium
+2016,11,20161112,Navy,42,7,Tulsa,40,12,False,Navy-Marine Corps Memorial Stadium
+2016,11,20161112,Syracuse,20,23,NC State,35,20,False,Carrier Dome
+2016,11,20161112,Buffalo,24,74,Miami (OH),35,78,False,UB Stadium
+2016,11,20161112,Virginia,14,24,Miami (FL),34,19,False,Scott Stadium
+2016,11,20161112,Charlotte,21,51,Rice,22,59,False,Jerry Richardson Stadium
+2016,11,20161112,Georgia St.,23,125,UL Monroe,37,130,False,Georgia Dome
+2016,11,20161112,Arkansas St.,41,122,New Mexico State,22,69,False,Centennial Bank Stadium
+2016,11,20161112,BYU,37,66,Southern Utah,7,141,False,LaVell Edwards Stadium
+2016,11,20161112,Oklahoma St.,45,46,Texas Tech,44,49,False,Boone Pickens Stadium
+2016,11,20161112,Clemson,42,14,Pittsburgh,43,22,False,Memorial Stadium
+2016,11,20161112,Maryland,3,30,Ohio St.,62,36,False,Maryland Stadium
+2016,11,20161112,Wisconsin,48,40,Illinois,3,27,False,Camp Randall Stadium
+2016,11,20161112,Georgia,13,111,Auburn,7,109,False,Sanford Stadium
+2016,11,20161112,Virginia Tech,20,25,Georgia Tech,30,17,False,Lane Stadium
+2016,11,20161112,Missouri,26,115,Vanderbilt,17,120,False,Faurot Field
+2016,11,20161112,Notre Dame,44,70,Army,6,65,True,Alamodome
+2016,11,20161112,UNLV,69,92,Wyoming,66,94,False,Sam Boyd Stadium
+2016,11,20161112,Louisiana Tech,63,54,UTSA,35,63,False,Joe Aillet Stadium
+2016,11,20161112,Western Kentucky,45,64,North Texas,7,57,False,Houchens Industries-L. T. Smith Stadium
+2016,11,20161112,Old Dominion,51,58,Southern Miss,35,60,False,Foreman Field
+2016,11,20161112,Troy,28,129,Appalachian St.,24,121,False,Veterans Memorial Stadium
+2016,11,20161112,Houston,30,5,Tulane,18,11,False,John O'Quinn Field at TDECU Stadium
+2016,11,20161112,Texas St.,14,128,Idaho,47,133,False,Jim Wacker Field at Bobcat Stadium
+2016,11,20161112,Oregon,27,99,Stanford,52,101,False,Autzen Stadium
+2016,11,20161112,Florida Atlantic,35,52,UTEP,31,62,False,FAU Stadium
+2016,11,20161112,Hawaii,16,87,Boise St.,52,84,False,Aloha Stadium
+2016,11,20161112,Arkansas,10,108,LSU,38,113,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2016,11,20161112,Memphis,42,6,South Florida,49,9,False,Liberty Bowl Memorial Stadium
+2016,11,20161112,Marshall,42,55,Middle Tennessee,17,56,False,Joan C. Edwards Stadium
+2016,11,20161112,Louisville,44,18,Wake Forest,12,26,False,Papa John's Cardinal Stadium
+2016,11,20161112,Washington,13,105,USC,26,103,False,Husky Stadium
+2016,11,20161112,Nebraska,24,34,Minnesota,17,33,False,Memorial Stadium
+2016,11,20161112,Texas A&M,28,119,Ole Miss,29,116,False,Kyle Field
+2016,11,20161112,Iowa,14,29,Michigan,13,31,False,Kinnick Stadium
+2016,11,20161112,UCLA,38,102,Oregon St.,24,100,False,Rose Bowl
+2016,11,20161112,Arizona,24,95,Colorado,49,98,False,Arizona Stadium
+2016,11,20161112,Utah St.,21,93,New Mexico,24,89,False,Romney Stadium
+2016,11,20161112,Air Force,49,83,Colorado St.,46,85,False,Falcon Stadium
+2016,11,20161112,Nevada,16,88,San Diego St.,46,90,False,Mackay Stadium
+2016,11,20161112,Washington St.,56,106,California,21,97,False,Martin Stadium
+2016,12,20161115,Central Michigan,27,75,Ohio,20,80,False,Kelly/Shorts Stadium
+2016,12,20161115,Bowling Green,42,73,Kent State,7,77,False,Doyt Perry Stadium
+2016,12,20161116,Toledo,37,81,Ball St.,19,72,False,Glass Bowl
+2016,12,20161116,Eastern Michigan,24,76,Northern Illinois,31,79,False,Rynearson Stadium
+2016,12,20161117,Houston,36,5,Louisville,10,18,False,John O'Quinn Field at TDECU Stadium
+2016,12,20161117,Troy,3,129,Arkansas St.,35,122,False,Veterans Memorial Stadium
+2016,12,20161118,Cincinnati,7,2,Memphis,34,6,False,Nippert Stadium
+2016,12,20161118,Boise St.,42,84,UNLV,25,92,False,Albertsons Stadium
+2016,12,20161119,Army,60,65,Morgan State,3,177,False,Blaik Field at Michie Stadium
+2016,12,20161119,Rice,44,59,UTEP,24,62,False,Rice Stadium
+2016,12,20161119,Michigan St.,16,32,Ohio St.,17,36,False,Spartan Stadium
+2016,12,20161119,Purdue,20,38,Wisconsin,49,40,False,Ross-Ade Stadium
+2016,12,20161119,TCU,6,47,Oklahoma St.,31,46,False,Amon G. Carter Stadium
+2016,12,20161119,Illinois,0,27,Iowa,28,29,False,Memorial Stadium
+2016,12,20161119,Nebraska,28,34,Maryland,7,30,False,Memorial Stadium
+2016,12,20161119,Texas A&M,23,119,UTSA,10,63,False,Kyle Field
+2016,12,20161119,Baylor,21,41,Kansas St.,42,44,False,McLane Stadium
+2016,12,20161119,Georgia,35,111,Louisiana,21,126,False,Sanford Stadium
+2016,12,20161119,Georgia Tech,31,17,Virginia,17,24,False,Bobby Dodd Stadium at Historic Grant Field
+2016,12,20161119,NC State,13,20,Miami (FL),27,19,False,Carter-Finley Stadium
+2016,12,20161119,Boston College,30,13,Connecticut,0,3,False,Alumni Stadium
+2016,12,20161119,LSU,10,113,Florida,16,110,False,Tiger Stadium
+2016,12,20161119,Utah,28,104,Oregon,30,99,False,Rice-Eccles Stadium
+2016,12,20161119,Georgia St.,30,125,Georgia Southern,24,124,False,Georgia Dome
+2016,12,20161119,BYU,51,66,Massachusetts,9,68,False,LaVell Edwards Stadium
+2016,12,20161119,Charlotte,31,51,Middle Tennessee,38,56,False,Jerry Richardson Stadium
+2016,12,20161119,Appalachian St.,42,121,UL Monroe,17,130,False,Kidd Brewer Stadium
+2016,12,20161119,Pittsburgh,56,22,Duke,14,15,False,Heinz Field
+2016,12,20161119,Notre Dame,31,70,Virginia Tech,34,25,False,Notre Dame Stadium
+2016,12,20161119,Wyoming,34,94,San Diego St.,33,90,False,War Memorial Stadium
+2016,12,20161119,North Carolina,41,21,Citadel,7,228,False,Kenan Memorial Stadium
+2016,12,20161119,Tulane,0,11,Temple,31,10,False,Benson Field at Yulman Stadium
+2016,12,20161119,Iowa St.,66,42,Texas Tech,10,49,False,Jack Trice Stadium
+2016,12,20161119,Kansas,24,43,Texas,21,48,False,Memorial Stadium
+2016,12,20161119,Minnesota,29,33,Northwestern,12,35,False,TCF Bank Stadium
+2016,12,20161119,Syracuse,14,23,Florida St.,45,16,False,Carrier Dome
+2016,12,20161119,Tennessee,63,118,Missouri,37,115,False,Neyland Stadium
+2016,12,20161119,Western Michigan,38,82,Buffalo,0,74,False,Waldo Stadium
+2016,12,20161119,Michigan,20,31,Indiana,10,28,False,Michigan Stadium
+2016,12,20161119,Colorado,38,98,Washington St.,24,106,False,Folsom Field
+2016,12,20161119,South Carolina,44,117,Western Carolina,31,234,False,Williams-Brice Stadium
+2016,12,20161119,Nevada,38,88,Utah St.,37,93,False,Mackay Stadium
+2016,12,20161119,East Carolina,31,4,Navy,66,7,False,Dowdy-Ficklen Stadium
+2016,12,20161119,Kentucky,49,112,Austin Peay,13,201,False,Kroger Field
+2016,12,20161119,New Mexico State,50,69,Texas St.,10,128,False,Aggie Memorial Stadium
+2016,12,20161119,North Texas,29,57,Southern Miss,23,60,False,Apogee Stadium
+2016,12,20161119,California,31,97,Stanford,45,101,False,California Memorial Stadium
+2016,12,20161119,Florida Atlantic,24,52,Old Dominion,42,58,False,FAU Stadium
+2016,12,20161119,Florida Intl,31,53,Marshall,14,55,False,FIU Stadium
+2016,12,20161119,Fresno St.,13,86,Hawaii,14,87,False,Bulldog Stadium
+2016,12,20161119,Mississippi St.,42,114,Arkansas,58,108,False,Davis Wade Stadium
+2016,12,20161119,SMU,27,8,South Florida,35,9,False,Gerald J. Ford Stadium
+2016,12,20161119,South Alabama,31,127,Presbyterian,7,151,False,Ladd Peebles Stadium
+2016,12,20161119,Alabama,31,107,Chattanooga,3,227,False,Bryant Denny Stadium
+2016,12,20161119,Wake Forest,13,26,Clemson,35,14,False,BB&T Field
+2016,12,20161119,Auburn,55,109,Alabama A&M,0,247,False,Jordan-Hare Stadium
+2016,12,20161119,Washington,44,105,Arizona St.,18,96,False,Husky Stadium
+2016,12,20161119,West Virginia,28,50,Oklahoma,56,45,False,Mountaineer Field at Milan Puskar Stadium
+2016,12,20161119,Rutgers,0,39,Penn State,39,37,False,High Point Solutions Stadium
+2016,12,20161119,Vanderbilt,38,120,Ole Miss,17,116,False,Vanderbilt Stadium
+2016,12,20161119,Central Florida,20,1,Tulsa,35,12,False,Bright House Networks Stadium
+2016,12,20161119,Colorado St.,49,85,New Mexico,31,89,False,Sonny Lubick Field at Hughes Stadium
+2016,12,20161119,Oregon St.,42,100,Arizona,17,95,False,Reser Stadium
+2016,12,20161119,San Jose St.,38,91,Air Force,41,83,False,Spartan Stadium
+2016,12,20161119,UCLA,14,102,USC,36,103,False,Rose Bowl
+2016,13,20161122,Eastern Michigan,26,76,Central Michigan,21,75,False,Rynearson Stadium
+2016,13,20161122,Ohio,9,80,Akron,3,71,False,Peden Stadium
+2016,13,20161122,Miami (OH),21,78,Ball St.,20,72,False,Yager Stadium
+2016,13,20161124,Texas A&M,39,119,LSU,54,113,False,Kyle Field
+2016,13,20161125,Memphis,48,6,Houston,44,5,False,Liberty Bowl Memorial Stadium
+2016,13,20161125,North Carolina,21,21,NC State,28,20,False,Kenan Memorial Stadium
+2016,13,20161125,Kent State,21,77,Northern Illinois,31,79,False,Dix Stadium
+2016,13,20161125,Missouri,28,115,Arkansas,24,108,False,Faurot Field
+2016,13,20161125,Bowling Green,27,73,Buffalo,19,74,False,Doyt Perry Stadium
+2016,13,20161125,Iowa,40,29,Nebraska,10,34,False,Kinnick Stadium
+2016,13,20161125,Air Force,27,83,Boise St.,20,84,False,Falcon Stadium
+2016,13,20161125,Washington St.,17,106,Washington,45,105,False,Martin Stadium
+2016,13,20161125,Texas,9,48,TCU,31,47,False,Darrell K Royal-Texas Memorial Stadium
+2016,13,20161125,Southern Miss,39,60,Louisiana Tech,24,54,False,M. M. Roberts Stadium
+2016,13,20161125,Western Michigan,55,82,Toledo,35,81,False,Waldo Stadium
+2016,13,20161125,Texas Tech,54,49,Baylor,35,41,True,AT&T Stadium
+2016,13,20161125,Tulsa,40,12,Cincinnati,37,2,False,Skelly Field at H. A. Chapman Stadium
+2016,13,20161125,Arizona,56,95,Arizona St.,35,96,False,Arizona Stadium
+2016,13,20161126,Indiana,26,28,Purdue,24,38,False,Memorial Stadium
+2016,13,20161126,Maryland,31,30,Rutgers,13,39,False,Maryland Stadium
+2016,13,20161126,South Florida,48,9,Central Florida,31,1,False,Raymond James Stadium
+2016,13,20161126,Northwestern,42,35,Illinois,21,27,False,Ryan Field
+2016,13,20161126,Ohio St.,30,36,Michigan,27,31,False,Ohio Stadium
+2016,13,20161126,Virginia Tech,52,25,Virginia,10,24,False,Lane Stadium
+2016,13,20161126,Georgia,27,111,Georgia Tech,28,17,False,Sanford Stadium
+2016,13,20161126,Louisville,38,18,Kentucky,41,112,False,Papa John's Cardinal Stadium
+2016,13,20161126,Kansas St.,34,44,Kansas,19,43,False,Bill Snyder Family Football Stadium
+2016,13,20161126,Louisiana,24,126,Arkansas St.,19,122,False,Cajun Field
+2016,13,20161126,Pittsburgh,76,22,Syracuse,61,23,False,Heinz Field
+2016,13,20161126,Wake Forest,14,26,Boston College,17,13,False,BB&T Field
+2016,13,20161126,SMU,31,8,Navy,75,7,False,Gerald J. Ford Stadium
+2016,13,20161126,Alabama,30,107,Auburn,12,109,False,Bryant Denny Stadium
+2016,13,20161126,Wisconsin,31,40,Minnesota,17,33,False,Camp Randall Stadium
+2016,13,20161126,Penn State,45,37,Michigan St.,12,32,False,Beaver Stadium
+2016,13,20161126,USC,45,103,Notre Dame,27,70,False,Los Angeles Memorial Coliseum
+2016,13,20161126,Iowa St.,19,42,West Virginia,49,50,False,Jack Trice Stadium
+2016,13,20161126,Miami (FL),40,19,Duke,21,15,False,Hard Rock Stadium
+2016,13,20161126,Old Dominion,42,58,Florida Intl,28,53,False,Foreman Field
+2016,13,20161126,Fresno St.,14,86,San Jose St.,16,91,False,Bulldog Stadium
+2016,13,20161126,Ole Miss,20,116,Mississippi St.,55,114,False,Vaught-Hemingway Stadium
+2016,13,20161126,Idaho,38,133,South Alabama,31,127,False,Kibbie Dome
+2016,13,20161126,UNLV,10,92,Nevada,45,88,False,Sam Boyd Stadium
+2016,13,20161126,New Mexico State,7,69,Appalachian St.,37,121,False,Aggie Memorial Stadium
+2016,13,20161126,Connecticut,13,3,Tulane,38,11,False,Rentschler Field
+2016,13,20161126,Oregon St.,34,100,Oregon,24,99,False,Reser Stadium
+2016,13,20161126,UTEP,52,62,North Texas,24,57,False,Sun Bowl Stadium
+2016,13,20161126,Texas St.,7,128,Troy,40,129,False,Jim Wacker Field at Bobcat Stadium
+2016,13,20161126,Middle Tennessee,77,56,Florida Atlantic,56,52,False,"Johnny Red"""" Floyd Stadium"""""
+2016,13,20161126,Marshall,6,55,Western Kentucky,60,64,False,Joan C. Edwards Stadium
+2016,13,20161126,UTSA,33,63,Charlotte,14,51,False,Alamodome
+2016,13,20161126,California,36,97,UCLA,10,102,False,California Memorial Stadium
+2016,13,20161126,Temple,37,10,East Carolina,10,4,False,Lincoln Financial Field
+2016,13,20161126,Clemson,56,14,South Carolina,7,117,False,Memorial Stadium
+2016,13,20161126,Colorado,27,98,Utah,22,104,False,Folsom Field
+2016,13,20161126,Vanderbilt,45,120,Tennessee,34,118,False,Vanderbilt Stadium
+2016,13,20161126,Florida St.,31,16,Florida,13,110,False,Bobby Bowden Field at Doak Campbell Stadium
+2016,13,20161126,Stanford,41,101,Rice,17,59,False,Stanford Stadium
+2016,13,20161126,San Diego St.,31,90,Colorado St.,63,85,False,Qualcomm Stadium
+2016,13,20161126,New Mexico,56,89,Wyoming,35,94,False,University Stadium
+2016,13,20161126,BYU,28,66,Utah St.,10,93,False,LaVell Edwards Stadium
+2016,13,20161126,Hawaii,46,87,Massachusetts,40,68,False,Aloha Stadium
+2016,14,20161202,Ohio,23,80,Western Michigan,29,82,True,Ford Field
+2016,14,20161202,Washington,41,105,Colorado,10,98,True,Levi's Stadium
+2016,14,20161203,Georgia Southern,28,124,Troy,24,129,False,Paulson Stadium
+2016,14,20161203,Western Kentucky,58,64,Louisiana Tech,44,54,False,Houchens Industries-L. T. Smith Stadium
+2016,14,20161203,Navy,10,7,Temple,34,10,False,Navy-Marine Corps Memorial Stadium
+2016,14,20161203,TCU,6,47,Kansas St.,30,44,False,Amon G. Carter Stadium
+2016,14,20161203,Oklahoma,38,45,Oklahoma St.,20,46,False,Gaylord Family Oklahoma Memorial Stadium
+2016,14,20161203,South Alabama,35,127,New Mexico State,28,69,False,Ladd Peebles Stadium
+2016,14,20161203,UL Monroe,3,130,Louisiana,30,126,False,Malone Stadium
+2016,14,20161203,West Virginia,24,50,Baylor,21,41,False,Mountaineer Field at Milan Puskar Stadium
+2016,14,20161203,Florida,16,110,Alabama,54,107,True,Georgia Dome
+2016,14,20161203,Idaho,37,133,Georgia St.,12,125,False,Kibbie Dome
+2016,14,20161203,Texas St.,14,128,Arkansas St.,36,122,False,Jim Wacker Field at Bobcat Stadium
+2016,14,20161203,Wyoming,24,94,San Diego St.,27,90,False,War Memorial Stadium
+2016,14,20161203,Virginia Tech,35,25,Clemson,42,14,True,Camping World Stadium
+2016,14,20161203,Penn State,38,37,Wisconsin,31,40,True,Lucas Oil Stadium
+2016,15,20161210,Army,21,65,Navy,17,7,True,M&T Bank Stadium
+2016,1,20161217,UTSA,20,63,New Mexico,23,89,True,University Stadium
+2016,1,20161217,San Diego St.,34,90,Houston,10,5,True,Sam Boyd Stadium
+2016,1,20161217,Toledo,28,81,Appalachian St.,31,121,True,Cramton Bowl
+2016,1,20161217,Central Florida,13,1,Arkansas St.,31,122,False,Camping World Stadium
+2016,1,20161217,Louisiana,21,126,Southern Miss,28,60,True,Mercedes-Benz Superdome
+2016,1,20161219,Tulsa,55,12,Central Michigan,10,75,True,Marlins Park
+2016,1,20161220,Western Kentucky,51,64,Memphis,31,6,True,FAU Stadium
+2016,1,20161221,Wyoming,21,94,BYU,24,66,True,Qualcomm Stadium
+2016,1,20161222,Colorado St.,50,85,Idaho,61,133,True,Albertsons Stadium
+2016,1,20161223,Old Dominion,24,58,Eastern Michigan,20,76,True,Thomas Robinson Stadium
+2016,1,20161223,Navy,45,7,Louisiana Tech,48,54,True,Amon G. Carter Stadium
+2016,1,20161223,Troy,28,129,Ohio,23,80,True,Ladd Peebles Stadium
+2016,1,20161224,Middle Tennessee,35,56,Hawaii,52,87,True,Aloha Stadium
+2016,1,20161226,Mississippi St.,17,114,Miami (OH),16,78,True,Tropicana Field
+2016,1,20161226,Boston College,36,13,Maryland,30,30,True,Ford Field
+2016,1,20161226,Vanderbilt,17,120,NC State,41,20,True,Independence Stadium
+2016,1,20161227,North Texas,31,57,Army,38,65,True,Cotton Bowl
+2016,1,20161227,Wake Forest,34,26,Temple,26,10,True,Navy-Marine Corps Memorial Stadium
+2016,1,20161227,Washington St.,12,106,Minnesota,17,33,True,Qualcomm Stadium
+2016,1,20161227,Baylor,31,41,Boise St.,12,84,True,Chase Field
+2016,1,20161228,Northwestern,31,35,Pittsburgh,24,22,True,Yankee Stadium
+2016,1,20161228,Miami (FL),31,19,West Virginia,14,50,True,Camping World Stadium
+2016,1,20161228,Utah,26,104,Indiana,24,28,True,Levi's Stadium
+2016,1,20161228,Kansas St.,33,44,Texas A&M,28,119,True,NRG Stadium
+2016,1,20161229,South Carolina,39,117,South Florida,46,9,True,Legion Field
+2016,1,20161229,Virginia Tech,35,25,Arkansas,24,108,True,Bank of America Stadium
+2016,1,20161229,Colorado,8,98,Oklahoma St.,38,46,True,Alamodome
+2016,1,20161230,TCU,23,47,Georgia,31,111,True,Liberty Bowl Memorial Stadium
+2016,1,20161230,North Carolina,23,21,Stanford,25,101,True,Sun Bowl Stadium
+2016,1,20161230,Tennessee,38,118,Nebraska,24,34,True,Nissan Stadium
+2016,1,20161230,Air Force,45,83,South Alabama,21,127,True,Arizona Stadium
+2016,1,20161230,Florida St.,33,16,Michigan,32,31,True,Hard Rock Stadium
+2016,1,20161231,Louisville,9,18,LSU,29,113,True,Camping World Stadium
+2016,1,20161231,Kentucky,18,112,Georgia Tech,33,17,True,TIAA Bank Field
+2016,1,20161231,Alabama,24,107,Washington,7,105,True,Georgia Dome
+2016,1,20161231,Clemson,31,14,Ohio St.,0,36,True,University of Phoenix Stadium
+2016,1,20170102,Wisconsin,24,40,Western Michigan,16,82,True,AT&T Stadium
+2016,1,20170102,Iowa,3,29,Florida,30,110,True,Raymond James Stadium
+2016,1,20170102,Penn State,49,37,USC,52,103,True,Rose Bowl
+2016,1,20170102,Oklahoma,35,45,Auburn,19,109,True,Mercedes-Benz Superdome
+2016,1,20170109,Alabama,31,107,Clemson,35,14,True,Raymond James Stadium

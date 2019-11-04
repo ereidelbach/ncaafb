@@ -1,0 +1,839 @@
+season,week,date,home_team,home_points,home_code,away_team,away_points,away_code,neutral_site,venue
+2019,1,20190824,Florida,24.0,110,Miami (FL),20.0,19,True,Camping World Stadium
+2019,1,20190824,Hawaii,45.0,87,Arizona,38.0,95,False,Aloha Stadium
+2019,1,20190829,Cincinnati,24.0,2,UCLA,14.0,102,False,Nippert Stadium
+2019,1,20190829,Bowling Green,46.0,73,Morgan State,3.0,177,False,Doyt Perry Stadium
+2019,1,20190829,Connecticut,24.0,3,Wagner,21.0,200,False,Rentschler Field
+2019,1,20190829,Buffalo,38.0,74,Robert Morris (PA),10.0,197,False,UB Stadium
+2019,1,20190829,Charlotte,49.0,51,Gardner-Webb,28.0,146,False,Jerry Richardson Stadium
+2019,1,20190829,Western Kentucky,28.0,64,Central Arkansas,35.0,237,False,Houchens Industries-L. T. Smith Stadium
+2019,1,20190829,Central Florida,62.0,1,Florida A&M,0.0,175,False,Bright House Networks Stadium
+2019,1,20190829,UAB,24.0,61,Alabama State,19.0,248,False,Legion Field
+2019,1,20190829,Tulane,42.0,11,Florida Intl,14.0,53,False,Benson Field at Yulman Stadium
+2019,1,20190829,Clemson,52.0,14,Georgia Tech,14.0,17,False,Memorial Stadium
+2019,1,20190829,Texas A&M,41.0,119,Texas St.,7.0,128,False,Kyle Field
+2019,1,20190829,Central Michigan,38.0,75,Albany,21.0,152,False,Kelly/Shorts Stadium
+2019,1,20190829,Minnesota,28.0,33,South Dakota State,21.0,188,False,TCF Bank Stadium
+2019,1,20190829,San Jose St.,35.0,91,Northern Colorado,18.0,138,False,Spartan Stadium
+2019,1,20190829,Arizona St.,30.0,96,Kent State,7.0,77,False,Sun Devil Stadium
+2019,1,20190829,BYU,12.0,66,Utah,30.0,104,False,LaVell Edwards Stadium
+2019,1,20190830,Army,14.0,65,Rice,7.0,59,False,Blaik Field at Michie Stadium
+2019,1,20190830,Michigan St.,28.0,32,Tulsa,7.0,12,False,Spartan Stadium
+2019,1,20190830,Rutgers,48.0,39,Massachusetts,21.0,68,False,High Point Solutions Stadium
+2019,1,20190830,South Florida,0.0,9,Wisconsin,49.0,40,False,Raymond James Stadium
+2019,1,20190830,Wake Forest,38.0,26,Utah St.,35.0,93,False,BB&T Field
+2019,1,20190830,Nevada,34.0,88,Purdue,31.0,38,False,Mackay Stadium
+2019,1,20190830,Colorado,52.0,98,Colorado St.,31.0,85,True,Sports Authority Field at Mile High
+2019,1,20190830,Oregon St.,36.0,100,Oklahoma St.,52.0,46,False,Reser Stadium
+2019,1,20190831,Memphis,15.0,6,Ole Miss,10.0,116,False,Liberty Bowl Memorial Stadium
+2019,1,20190831,Nebraska,35.0,34,South Alabama,21.0,127,False,Memorial Stadium
+2019,1,20190831,Ohio St.,45.0,36,Florida Atlantic,21.0,52,False,Ohio Stadium
+2019,1,20190831,Kentucky,38.0,112,Toledo,24.0,81,False,Commonwealth Stadium
+2019,1,20190831,Maryland,79.0,30,Howard,0.0,176,False,Maryland Stadium
+2019,1,20190831,Illinois,42.0,27,Akron,3.0,71,False,Memorial Stadium
+2019,1,20190831,Louisiana,28.0,126,Mississippi St.,38.0,114,True,Mercedes-Benz Superdome
+2019,1,20190831,Kansas,24.0,43,Indiana State,17.0,183,False,Memorial Stadium
+2019,1,20190831,NC State,34.0,20,East Carolina,6.0,4,False,Carter-Finley Stadium
+2019,1,20190831,Florida St.,31.0,16,Boise St.,36.0,84,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,1,20190831,Ball St.,24.0,72,Indiana,34.0,28,True,Lucas Oil Stadium
+2019,1,20190831,Iowa St.,29.0,42,Northern Iowa,26.0,186,False,Jack Trice Stadium
+2019,1,20190831,Ohio,41.0,80,Rhode Island,20.0,158,False,Peden Stadium
+2019,1,20190831,West Virginia,20.0,50,James Madison,13.0,155,False,Mountaineer Field at Milan Puskar Stadium
+2019,1,20190831,Washington,47.0,105,Eastern Washington,14.0,132,False,Husky Stadium
+2019,1,20190831,Temple,56.0,10,Bucknell,12.0,210,False,Lincoln Financial Field
+2019,1,20190831,North Carolina,24.0,21,South Carolina,20.0,117,True,Bank of America Stadium
+2019,1,20190831,Navy,45.0,7,Holy Cross,7.0,214,False,Navy-Marine Corps Memorial Stadium
+2019,1,20190831,Coastal Carolina,23.0,123,Eastern Michigan,30.0,76,False,Brooks Stadium
+2019,1,20190831,Penn State,79.0,37,Idaho,7.0,133,False,Beaver Stadium
+2019,1,20190831,Air Force,48.0,83,Colgate,7.0,211,False,Falcon Stadium
+2019,1,20190831,Tennessee,30.0,118,Georgia St.,38.0,125,False,Neyland Stadium
+2019,1,20190831,Appalachian St.,42.0,121,East Tennessee St.,7.0,229,False,Kidd Brewer Stadium
+2019,1,20190831,Alabama,42.0,107,Duke,3.0,15,True,Mercedes-Benz Stadium
+2019,1,20190831,Stanford,17.0,101,Northwestern,7.0,35,False,Stanford Stadium
+2019,1,20190831,Texas Tech,45.0,49,Montana State,10.0,136,False,Jones AT&T Stadium
+2019,1,20190831,Boston College,35.0,13,Virginia Tech,28.0,25,False,Alumni Stadium
+2019,1,20190831,Arkansas,20.0,108,Portland State,13.0,139,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,1,20190831,New Mexico,39.0,89,Sam Houston State,31.0,244,False,University Stadium
+2019,1,20190831,Troy,43.0,129,Campbell,14.0,144,False,Veterans Memorial Stadium
+2019,1,20190831,UTSA,35.0,63,Incarnate Word,7.0,239,False,Alamodome
+2019,1,20190831,Liberty,0.0,67,Syracuse,24.0,23,False,Williams Stadium
+2019,1,20190831,Marshall,56.0,55,VMI,17.0,233,False,Joan C. Edwards Stadium
+2019,1,20190831,California,27.0,97,UC Davis,13.0,142,False,California Memorial Stadium
+2019,1,20190831,Old Dominion,24.0,58,Norfolk State,21.0,178,False,Foreman Field
+2019,1,20190831,Southern Miss,38.0,60,Alcorn State,10.0,249,False,M. M. Roberts Stadium
+2019,1,20190831,Northern Illinois,24.0,79,Illinois State,10.0,182,False,Brigham Field at Huskie Stadium
+2019,1,20190831,Western Michigan,48.0,82,Monmouth,13.0,149,False,Waldo Stadium
+2019,1,20190831,Arkansas St.,30.0,122,SMU,37.0,8,False,Centennial Bank Stadium
+2019,1,20190831,Kansas St.,49.0,44,Nicholls State,14.0,242,False,Bill Snyder Family Football Stadium
+2019,1,20190831,Baylor,56.0,41,Stephen F. Austin,17.0,246,False,McLane Stadium
+2019,1,20190831,Michigan,40.0,31,Middle Tennessee,21.0,56,False,Michigan Stadium
+2019,1,20190831,Wyoming,37.0,94,Missouri,31.0,115,False,War Memorial Stadium
+2019,1,20190831,North Texas,51.0,57,Abilene Christian,31.0,236,False,Apogee Stadium
+2019,1,20190831,Auburn,27.0,109,Oregon,21.0,99,True,AT&T Stadium
+2019,1,20190831,Iowa,38.0,29,Miami (OH),14.0,78,False,Kinnick Stadium
+2019,1,20190831,LSU,55.0,113,Georgia Southern,3.0,124,False,Tiger Stadium
+2019,1,20190831,Vanderbilt,6.0,120,Georgia,30.0,111,False,Vanderbilt Stadium
+2019,1,20190831,Pittsburgh,14.0,22,Virginia,30.0,24,False,Heinz Field
+2019,1,20190831,Texas,45.0,48,Louisiana Tech,14.0,54,False,Darrell K Royal-Texas Memorial Stadium
+2019,1,20190831,UTEP,36.0,62,Houston Baptist,34.0,238,False,Sun Bowl Stadium
+2019,1,20190831,TCU,39.0,47,Arkansas-Pine Bluff,7.0,250,False,Amon G. Carter Stadium
+2019,1,20190831,UL Monroe,31.0,130,Grambling,9.0,251,False,Malone Stadium
+2019,1,20190831,San Diego St.,6.0,90,Weber State,0.0,143,False,Qualcomm Stadium
+2019,1,20190831,UNLV,56.0,92,Southern Utah,23.0,141,False,Sam Boyd Stadium
+2019,1,20190831,Washington St.,58.0,106,New Mexico State,7.0,69,False,Martin Stadium
+2019,1,20190831,USC,31.0,103,Fresno St.,23.0,86,False,Los Angeles Memorial Coliseum
+2019,1,20190901,Oklahoma,49.0,45,Houston,31.0,5,False,Gaylord Family Oklahoma Memorial Stadium
+2019,1,20190902,Louisville,17.0,18,Notre Dame,35.0,70,False,Papa John's Cardinal Stadium
+2019,2,20190906,Virginia,52.0,24,William & Mary,17.0,163,False,Scott Stadium
+2019,2,20190906,Rice,21.0,59,Wake Forest,41.0,26,False,Rice Stadium
+2019,2,20190906,Boise St.,14.0,84,Marshall,7.0,55,False,Albertsons Stadium
+2019,2,20190906,Arizona St.,19.0,96,Sacramento State,7.0,140,False,Sun Devil Stadium
+2019,2,20190907,Pittsburgh,20.0,22,Ohio,10.0,80,False,Heinz Field
+2019,2,20190907,Iowa,30.0,29,Rutgers,0.0,39,False,Kinnick Stadium
+2019,2,20190907,Maryland,63.0,30,Syracuse,20.0,23,False,Maryland Stadium
+2019,2,20190907,Virginia Tech,31.0,25,Old Dominion,17.0,58,False,Lane Stadium
+2019,2,20190907,Ohio St.,42.0,36,Cincinnati,0.0,2,False,Ohio Stadium
+2019,2,20190907,Michigan,24.0,31,Army,21.0,65,False,Michigan Stadium
+2019,2,20190907,Akron,20.0,71,UAB,31.0,61,False,Summa Field at InfoCision Stadium
+2019,2,20190907,Missouri,38.0,115,West Virginia,7.0,50,False,Faurot Field
+2019,2,20190907,South Carolina,72.0,117,Charleston Southern,10.0,145,False,Williams-Brice Stadium
+2019,2,20190907,Kent State,26.0,77,Kennesaw State,23.0,148,False,Dix Stadium
+2019,2,20190907,Purdue,42.0,38,Vanderbilt,24.0,120,False,Ross-Ade Stadium
+2019,2,20190907,Kansas St.,52.0,44,Bowling Green,0.0,73,False,Bill Snyder Family Football Stadium
+2019,2,20190907,Memphis,55.0,6,Southern,24.0,255,False,Liberty Bowl Memorial Stadium
+2019,2,20190907,NC State,41.0,20,Western Carolina,0.0,234,False,Carter-Finley Stadium
+2019,2,20190907,Utah,35.0,104,Northern Illinois,17.0,79,False,Rice-Eccles Stadium
+2019,2,20190907,Georgia Tech,14.0,17,South Florida,10.0,9,False,Bobby Dodd Stadium at Historic Grant Field
+2019,2,20190907,Ball St.,57.0,72,Fordham,29.0,212,False,Scheumann Stadium
+2019,2,20190907,Miami (OH),48.0,78,Tennessee Tech,17.0,208,False,Yager Stadium
+2019,2,20190907,Boston College,45.0,13,Richmond,13.0,159,False,Alumni Stadium
+2019,2,20190907,Massachusetts,20.0,68,Southern Illinois,45.0,189,False,Warren McGuirk Alumni Stadium
+2019,2,20190907,Indiana,52.0,28,Eastern Illinois,0.0,202,False,Memorial Stadium
+2019,2,20190907,Connecticut,23.0,3,Illinois,31.0,27,False,Rentschler Field
+2019,2,20190907,Louisiana Tech,20.0,54,Grambling,14.0,251,False,Joe Aillet Stadium
+2019,2,20190907,Appalachian St.,56.0,121,Charlotte,41.0,51,False,Kidd Brewer Stadium
+2019,2,20190907,Mississippi St.,38.0,114,Southern Miss,15.0,60,False,Davis Wade Stadium
+2019,2,20190907,Clemson,24.0,14,Texas A&M,10.0,119,False,Memorial Stadium
+2019,2,20190907,Wisconsin,61.0,40,Central Michigan,0.0,75,False,Camp Randall Stadium
+2019,2,20190907,Colorado,34.0,98,Nebraska,31.0,34,False,Folsom Field
+2019,2,20190907,Alabama,62.0,107,New Mexico State,10.0,69,False,Bryant Denny Stadium
+2019,2,20190907,Georgia,63.0,111,Murray State,17.0,205,False,Sanford Stadium
+2019,2,20190907,Baylor,63.0,41,UTSA,14.0,63,False,McLane Stadium
+2019,2,20190907,Colorado St.,38.0,85,Western Illinois,13.0,190,False,Canvas Stadium
+2019,2,20190907,UCLA,14.0,102,San Diego St.,23.0,90,False,Rose Bowl
+2019,2,20190907,Florida St.,45.0,16,UL Monroe,44.0,130,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,2,20190907,Washington St.,59.0,106,Northern Colorado,17.0,138,False,Martin Stadium
+2019,2,20190907,Duke,45.0,15,North Carolina A&T,13.0,179,False,Wallace Wade Stadium
+2019,2,20190907,East Carolina,48.0,4,Gardner-Webb,9.0,146,False,Dowdy-Ficklen Stadium
+2019,2,20190907,Georgia Southern,26.0,124,Maine,18.0,156,False,Paulson Stadium
+2019,2,20190907,Texas St.,14.0,128,Wyoming,23.0,94,False,Jim Wacker Field at Bobcat Stadium
+2019,2,20190907,Florida Intl,14.0,53,Western Kentucky,20.0,64,False,FIU Stadium
+2019,2,20190907,SMU,49.0,8,North Texas,27.0,57,False,Gerald J. Ford Stadium
+2019,2,20190907,Louisville,42.0,18,Eastern Kentucky,0.0,203,False,Papa John's Cardinal Stadium
+2019,2,20190907,Middle Tennessee,45.0,56,Tennessee State,26.0,207,False,"Johnny Red"""" Floyd Stadium"""""
+2019,2,20190907,Oklahoma St.,56.0,46,McNeese State,14.0,241,False,Boone Pickens Stadium
+2019,2,20190907,South Alabama,37.0,127,Jackson State,14.0,252,False,Ladd Peebles Stadium
+2019,2,20190907,Georgia St.,48.0,125,Furman,42.0,230,False,Georgia State Stadium
+2019,2,20190907,Tennessee,26.0,118,BYU,29.0,66,False,Neyland Stadium
+2019,2,20190907,Kansas,7.0,43,Coastal Carolina,12.0,123,False,Memorial Stadium
+2019,2,20190907,Oklahoma,70.0,45,South Dakota,14.0,187,False,Gaylord Family Oklahoma Memorial Stadium
+2019,2,20190907,Florida Atlantic,14.0,52,Central Florida,48.0,1,False,FAU Stadium
+2019,2,20190907,Michigan St.,51.0,32,Western Michigan,17.0,82,False,Spartan Stadium
+2019,2,20190907,Auburn,24.0,109,Tulane,6.0,11,False,Jordan-Hare Stadium
+2019,2,20190907,Oregon,77.0,99,Nevada,6.0,88,False,Autzen Stadium
+2019,2,20190907,Texas,38.0,48,LSU,45.0,113,False,Darrell K Royal-Texas Memorial Stadium
+2019,2,20190907,Florida,45.0,110,Tennessee-Martin,0.0,209,False,Ben Hill Griffin Stadium
+2019,2,20190907,Penn State,45.0,37,Buffalo,13.0,74,False,Beaver Stadium
+2019,2,20190907,Ole Miss,31.0,116,Arkansas,17.0,108,False,Vaught-Hemingway Stadium
+2019,2,20190907,Utah St.,62.0,93,Stony Brook,7.0,160,False,Romney Stadium
+2019,2,20190907,Kentucky,38.0,112,Eastern Michigan,17.0,76,False,Commonwealth Stadium
+2019,2,20190907,Louisiana,35.0,126,Liberty,14.0,67,False,Cajun Field
+2019,2,20190907,Houston,37.0,5,Prairie View A&M,17.0,254,False,John O'Quinn Field at TDECU Stadium
+2019,2,20190907,Texas Tech,38.0,49,UTEP,3.0,62,False,Jones AT&T Stadium
+2019,2,20190907,North Carolina,28.0,21,Miami (FL),25.0,19,False,Kenan Memorial Stadium
+2019,2,20190907,San Jose St.,16.0,91,Tulsa,34.0,12,False,Spartan Stadium
+2019,2,20190907,UNLV,17.0,92,Arkansas St.,43.0,122,False,Sam Boyd Stadium
+2019,2,20190907,Fresno St.,35.0,86,Minnesota,38.0,33,False,Bulldog Stadium
+2019,2,20190907,USC,45.0,103,Stanford,20.0,101,False,Los Angeles Memorial Coliseum
+2019,2,20190907,Washington,19.0,105,California,20.0,97,False,Husky Stadium
+2019,2,20190907,Arizona,65.0,95,Northern Arizona,41.0,137,False,Arizona Stadium
+2019,2,20190907,Hawaii,31.0,87,Oregon St.,28.0,100,False,Aloha Stadium
+2019,3,20190913,Wake Forest,24.0,26,North Carolina,18.0,21,False,BB&T Field
+2019,3,20190913,Boston College,24.0,13,Kansas,48.0,43,False,Alumni Stadium
+2019,3,20190913,Houston,24.0,5,Washington St.,31.0,106,True,NRG Stadium
+2019,3,20190914,Indiana,10.0,28,Ohio St.,51.0,36,False,Memorial Stadium
+2019,3,20190914,Cincinnati,35.0,2,Miami (OH),13.0,78,False,Nippert Stadium
+2019,3,20190914,Georgia,55.0,111,Arkansas St.,0.0,122,False,Sanford Stadium
+2019,3,20190914,Penn State,17.0,37,Pittsburgh,10.0,22,False,Beaver Stadium
+2019,3,20190914,Temple,20.0,10,Maryland,17.0,30,False,Lincoln Financial Field
+2019,3,20190914,West Virginia,44.0,50,NC State,27.0,20,False,Mountaineer Field at Milan Puskar Stadium
+2019,3,20190914,Illinois,31.0,27,Eastern Michigan,34.0,76,False,Memorial Stadium
+2019,3,20190914,Mississippi St.,24.0,114,Kansas St.,31.0,44,False,Davis Wade Stadium
+2019,3,20190914,Virginia Tech,24.0,25,Furman,17.0,230,False,Lane Stadium
+2019,3,20190914,Tennessee,45.0,118,Chattanooga,0.0,227,False,Neyland Stadium
+2019,3,20190914,Georgia Tech,24.0,17,Citadel,27.0,228,False,Bobby Dodd Stadium at Historic Grant Field
+2019,3,20190914,Colorado,23.0,98,Air Force,30.0,83,False,Folsom Field
+2019,3,20190914,Coastal Carolina,46.0,123,Norfolk State,7.0,178,False,Brooks Stadium
+2019,3,20190914,Ball St.,31.0,72,Florida Atlantic,41.0,52,False,Scheumann Stadium
+2019,3,20190914,Notre Dame,66.0,70,New Mexico,14.0,89,False,Notre Dame Stadium
+2019,3,20190914,Central Michigan,45.0,75,Akron,24.0,71,False,Kelly/Shorts Stadium
+2019,3,20190914,Tulsa,21.0,12,Oklahoma St.,40.0,46,False,Skelly Field at H. A. Chapman Stadium
+2019,3,20190914,Northwestern,30.0,35,UNLV,14.0,92,False,Ryan Field
+2019,3,20190914,Navy,42.0,7,East Carolina,10.0,4,False,Navy-Marine Corps Memorial Stadium
+2019,3,20190914,South Alabama,6.0,127,Memphis,42.0,6,False,Ladd Peebles Stadium
+2019,3,20190914,Minnesota,35.0,33,Georgia Southern,32.0,124,False,TCF Bank Stadium
+2019,3,20190914,Central Florida,45.0,1,Stanford,27.0,101,False,Bright House Networks Stadium
+2019,3,20190914,UTSA,13.0,63,Army,31.0,65,False,Alamodome
+2019,3,20190914,South Carolina,23.0,117,Alabama,47.0,107,False,Williams-Brice Stadium
+2019,3,20190914,BYU,30.0,66,USC,27.0,103,False,LaVell Edwards Stadium
+2019,3,20190914,Michigan St.,7.0,32,Arizona St.,10.0,96,False,Spartan Stadium
+2019,3,20190914,Iowa St.,17.0,42,Iowa,18.0,29,False,Jack Trice Stadium
+2019,3,20190914,Miami (FL),63.0,19,Bethune-Cookman,0.0,173,False,Hard Rock Stadium
+2019,3,20190914,Ole Miss,40.0,116,Southeastern Louisiana,29.0,245,False,Vaught-Hemingway Stadium
+2019,3,20190914,Arkansas,55.0,108,Colorado St.,34.0,85,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,3,20190914,Western Kentucky,21.0,64,Louisville,38.0,18,True,Nissan Stadium
+2019,3,20190914,California,23.0,97,North Texas,17.0,57,False,California Memorial Stadium
+2019,3,20190914,Oregon St.,45.0,100,Cal Poly,7.0,131,False,Reser Stadium
+2019,3,20190914,Utah,31.0,104,Idaho State,0.0,134,False,Rice-Eccles Stadium
+2019,3,20190914,Wyoming,21.0,94,Idaho,16.0,133,False,War Memorial Stadium
+2019,3,20190914,Bowling Green,7.0,73,Louisiana Tech,35.0,54,False,Doyt Perry Stadium
+2019,3,20190914,South Florida,55.0,9,South Carolina State,16.0,181,False,Raymond James Stadium
+2019,3,20190914,Liberty,35.0,67,Buffalo,17.0,74,False,Williams Stadium
+2019,3,20190914,Troy,42.0,129,Southern Miss,47.0,60,False,Veterans Memorial Stadium
+2019,3,20190914,Charlotte,52.0,51,Massachusetts,17.0,68,False,Jerry Richardson Stadium
+2019,3,20190914,Marshall,33.0,55,Ohio,31.0,80,False,Joan C. Edwards Stadium
+2019,3,20190914,Florida Intl,30.0,53,New Hampshire,17.0,157,False,FIU Stadium
+2019,3,20190914,Nevada,19.0,88,Weber State,13.0,143,False,Mackay Stadium
+2019,3,20190914,SMU,47.0,8,Texas St.,17.0,128,False,Gerald J. Ford Stadium
+2019,3,20190914,Western Michigan,57.0,82,Georgia St.,10.0,125,False,Waldo Stadium
+2019,3,20190914,Texas A&M,62.0,119,Lamar,3.0,240,False,Kyle Field
+2019,3,20190914,Middle Tennessee,18.0,56,Duke,41.0,15,False,"Johnny Red"""" Floyd Stadium"""""
+2019,3,20190914,Kentucky,21.0,112,Florida,29.0,110,False,Commonwealth Stadium
+2019,3,20190914,Auburn,55.0,109,Kent State,16.0,77,False,Jordan-Hare Stadium
+2019,3,20190914,Toledo,45.0,81,Murray State,0.0,205,False,Glass Bowl
+2019,3,20190914,LSU,65.0,113,Northwestern State,14.0,243,False,Tiger Stadium
+2019,3,20190914,Syracuse,6.0,23,Clemson,41.0,14,False,Carrier Dome
+2019,3,20190914,Purdue,13.0,38,TCU,34.0,47,False,Ross-Ade Stadium
+2019,3,20190914,Missouri,50.0,115,Southeast Missouri,0.0,206,False,Faurot Field
+2019,3,20190914,Louisiana,77.0,126,Texas Southern,6.0,256,False,Cajun Field
+2019,3,20190914,Washington,52.0,105,Hawaii,20.0,87,False,Husky Stadium
+2019,3,20190914,Virginia,31.0,24,Florida St.,24.0,16,False,Scott Stadium
+2019,3,20190914,UCLA,14.0,102,Oklahoma,48.0,45,False,Rose Bowl
+2019,3,20190914,Rice,13.0,59,Texas,48.0,48,True,NRG Stadium
+2019,3,20190914,Nebraska,44.0,34,Northern Illinois,8.0,79,False,Memorial Stadium
+2019,3,20190914,Tulane,58.0,11,Missouri State,6.0,184,False,Benson Field at Yulman Stadium
+2019,3,20190914,New Mexico State,10.0,69,San Diego St.,31.0,90,False,Aggie Memorial Stadium
+2019,3,20190914,Boise St.,45.0,84,Portland State,10.0,139,False,Albertsons Stadium
+2019,3,20190914,Arizona,28.0,95,Texas Tech,14.0,49,False,Arizona Stadium
+2019,3,20190914,Oregon,35.0,99,Montana,3.0,135,False,Autzen Stadium
+2019,4,20190919,Tulane,38.0,11,Houston,31.0,5,False,Benson Field at Yulman Stadium
+2019,4,20190920,Louisiana Tech,43.0,54,Florida Intl,31.0,53,False,Joe Aillet Stadium
+2019,4,20190920,USC,30.0,103,Utah,23.0,104,False,Los Angeles Memorial Coliseum
+2019,4,20190920,Boise St.,30.0,84,Air Force,19.0,83,False,Albertsons Stadium
+2019,4,20190921,Northwestern,10.0,35,Michigan St.,31.0,32,False,Ryan Field
+2019,4,20190921,Indiana,38.0,28,Connecticut,3.0,3,False,Memorial Stadium
+2019,4,20190921,Iowa St.,72.0,42,UL Monroe,20.0,130,False,Jack Trice Stadium
+2019,4,20190921,Syracuse,52.0,23,Western Michigan,33.0,82,False,Carrier Dome
+2019,4,20190921,Ole Miss,20.0,116,California,28.0,97,False,Vaught-Hemingway Stadium
+2019,4,20190921,Florida,34.0,110,Tennessee,3.0,118,False,Ben Hill Griffin Stadium
+2019,4,20190921,Vanderbilt,38.0,120,LSU,66.0,113,False,Vanderbilt Stadium
+2019,4,20190921,Rutgers,16.0,39,Boston College,30.0,13,False,High Point Solutions Stadium
+2019,4,20190921,Wake Forest,49.0,26,Elon,7.0,154,False,BB&T Field
+2019,4,20190921,Army,52.0,65,Morgan State,21.0,177,False,Blaik Field at Michie Stadium
+2019,4,20190921,Wisconsin,35.0,40,Michigan,14.0,31,False,Camp Randall Stadium
+2019,4,20190921,Alabama,49.0,107,Southern Miss,7.0,60,False,Bryant Denny Stadium
+2019,4,20190921,Massachusetts,28.0,68,Coastal Carolina,62.0,123,False,Warren McGuirk Alumni Stadium
+2019,4,20190921,Ohio,25.0,80,Louisiana,45.0,126,False,Peden Stadium
+2019,4,20190921,Eastern Michigan,34.0,76,Central Connecticut,29.0,193,False,Rynearson Stadium
+2019,4,20190921,Akron,7.0,71,Troy,35.0,129,False,Summa Field at InfoCision Stadium
+2019,4,20190921,North Carolina,31.0,21,Appalachian St.,34.0,121,False,Kenan Memorial Stadium
+2019,4,20190921,Ohio St.,76.0,36,Miami (OH),5.0,78,False,Ohio Stadium
+2019,4,20190921,Buffalo,38.0,74,Temple,22.0,10,False,UB Stadium
+2019,4,20190921,Texas A&M,20.0,119,Auburn,28.0,109,False,Kyle Field
+2019,4,20190921,Pittsburgh,35.0,22,Central Florida,34.0,1,False,Heinz Field
+2019,4,20190921,UAB,35.0,61,South Alabama,3.0,127,False,Legion Field
+2019,4,20190921,Florida St.,35.0,16,Louisville,24.0,18,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,4,20190921,BYU,19.0,66,Washington,45.0,105,False,LaVell Edwards Stadium
+2019,4,20190921,TCU,38.0,47,SMU,41.0,8,False,Amon G. Carter Stadium
+2019,4,20190921,Kent State,62.0,77,Bowling Green,20.0,73,False,Dix Stadium
+2019,4,20190921,Tulsa,24.0,12,Wyoming,21.0,94,False,Skelly Field at H. A. Chapman Stadium
+2019,4,20190921,Missouri,34.0,115,South Carolina,14.0,117,False,Faurot Field
+2019,4,20190921,Mississippi St.,28.0,114,Kentucky,13.0,112,False,Davis Wade Stadium
+2019,4,20190921,Miami (FL),17.0,19,Central Michigan,12.0,75,False,Hard Rock Stadium
+2019,4,20190921,Kansas,24.0,43,West Virginia,29.0,50,False,Memorial Stadium
+2019,4,20190921,New Mexico,55.0,89,New Mexico State,52.0,69,False,University Stadium
+2019,4,20190921,East Carolina,19.0,4,William & Mary,7.0,163,False,Dowdy-Ficklen Stadium
+2019,4,20190921,Florida Atlantic,42.0,52,Wagner,7.0,200,False,FAU Stadium
+2019,4,20190921,Liberty,62.0,67,Hampton,27.0,147,False,Williams Stadium
+2019,4,20190921,Arkansas St.,41.0,122,Southern Illinois,28.0,189,False,Centennial Bank Stadium
+2019,4,20190921,Texas St.,37.0,128,Georgia St.,34.0,125,False,Jim Wacker Field at Bobcat Stadium
+2019,4,20190921,NC State,34.0,20,Ball St.,23.0,72,False,Carter-Finley Stadium
+2019,4,20190921,Rice,13.0,59,Baylor,21.0,41,False,Rice Stadium
+2019,4,20190921,Stanford,6.0,101,Oregon,21.0,99,False,Stanford Stadium
+2019,4,20190921,Virginia,28.0,24,Old Dominion,17.0,58,False,Scott Stadium
+2019,4,20190921,Clemson,52.0,14,Charlotte,10.0,51,False,Memorial Stadium
+2019,4,20190921,Arkansas,24.0,108,San Jose St.,31.0,91,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,4,20190921,North Texas,45.0,57,UTSA,3.0,63,False,Apogee Stadium
+2019,4,20190921,Texas,36.0,48,Oklahoma St.,30.0,46,False,Darrell K Royal-Texas Memorial Stadium
+2019,4,20190921,Illinois,38.0,27,Nebraska,42.0,34,False,Memorial Stadium
+2019,4,20190921,UTEP,21.0,62,Nevada,37.0,88,False,Sun Bowl Stadium
+2019,4,20190921,Georgia,23.0,111,Notre Dame,17.0,70,False,Sanford Stadium
+2019,4,20190921,Arizona St.,31.0,96,Colorado,34.0,98,False,Sun Devil Stadium
+2019,4,20190921,Fresno St.,34.0,86,Sacramento State,20.0,140,False,Bulldog Stadium
+2019,4,20190921,Colorado St.,35.0,85,Toledo,41.0,81,False,Canvas Stadium
+2019,4,20190921,San Diego St.,17.0,90,Utah St.,23.0,93,False,Qualcomm Stadium
+2019,4,20190921,Washington St.,63.0,106,UCLA,67.0,102,False,Martin Stadium
+2019,4,20190921,Hawaii,35.0,87,Central Arkansas,16.0,237,False,Aloha Stadium
+2019,5,20190926,Memphis,35.0,6,Navy,23.0,7,False,Liberty Bowl Memorial Stadium
+2019,5,20190927,Virginia Tech,10.0,25,Duke,45.0,15,False,Lane Stadium
+2019,5,20190927,Maryland,0.0,30,Penn State,59.0,37,False,Maryland Stadium
+2019,5,20190927,Air Force,41.0,83,San Jose St.,24.0,91,False,Falcon Stadium
+2019,5,20190927,California,17.0,97,Arizona St.,24.0,96,False,California Memorial Stadium
+2019,5,20190928,Wisconsin,24.0,40,Northwestern,15.0,35,False,Camp Randall Stadium
+2019,5,20190928,Arkansas,27.0,108,Texas A&M,31.0,119,True,AT&T Stadium
+2019,5,20190928,Syracuse,41.0,23,Holy Cross,3.0,214,False,Carrier Dome
+2019,5,20190928,Vanderbilt,24.0,120,Northern Illinois,18.0,79,False,Vanderbilt Stadium
+2019,5,20190928,Toledo,28.0,81,BYU,21.0,66,False,Glass Bowl
+2019,5,20190928,Miami (OH),34.0,78,Buffalo,20.0,74,False,Yager Stadium
+2019,5,20190928,Western Michigan,31.0,82,Central Michigan,15.0,75,False,Waldo Stadium
+2019,5,20190928,Oklahoma,55.0,45,Texas Tech,16.0,49,False,Gaylord Family Oklahoma Memorial Stadium
+2019,5,20190928,Iowa,48.0,29,Middle Tennessee,3.0,56,False,Kinnick Stadium
+2019,5,20190928,TCU,51.0,47,Kansas,14.0,43,False,Amon G. Carter Stadium
+2019,5,20190928,Michigan,52.0,31,Rutgers,0.0,39,False,Michigan Stadium
+2019,5,20190928,Pittsburgh,17.0,22,Delaware,14.0,153,False,Heinz Field
+2019,5,20190928,Boston College,24.0,13,Wake Forest,27.0,26,False,Alumni Stadium
+2019,5,20190928,Washington,28.0,105,USC,14.0,103,False,Husky Stadium
+2019,5,20190928,Purdue,31.0,38,Minnesota,38.0,33,False,Ross-Ade Stadium
+2019,5,20190928,Alabama,59.0,107,Ole Miss,31.0,116,False,Bryant Denny Stadium
+2019,5,20190928,Baylor,23.0,41,Iowa St.,21.0,42,False,McLane Stadium
+2019,5,20190928,Notre Dame,35.0,70,Virginia,20.0,24,False,Notre Dame Stadium
+2019,5,20190928,Michigan St.,40.0,32,Indiana,31.0,28,False,Spartan Stadium
+2019,5,20190928,North Carolina,20.0,21,Clemson,21.0,14,False,Kenan Memorial Stadium
+2019,5,20190928,Massachusetts,37.0,68,Akron,29.0,71,False,Warren McGuirk Alumni Stadium
+2019,5,20190928,Temple,24.0,10,Georgia Tech,2.0,17,False,Lincoln Financial Field
+2019,5,20190928,Appalachian St.,56.0,121,Coastal Carolina,37.0,123,False,Kidd Brewer Stadium
+2019,5,20190928,Charlotte,27.0,51,Florida Atlantic,45.0,52,False,Jerry Richardson Stadium
+2019,5,20190928,South Florida,21.0,9,SMU,48.0,8,False,Raymond James Stadium
+2019,5,20190928,Florida,38.0,110,Towson,0.0,161,False,Ben Hill Griffin Stadium
+2019,5,20190928,Marshall,14.0,55,Cincinnati,52.0,2,False,Joan C. Edwards Stadium
+2019,5,20190928,Liberty,17.0,67,New Mexico,10.0,89,False,Williams Stadium
+2019,5,20190928,Georgia Southern,24.0,124,Louisiana,37.0,126,False,Paulson Stadium
+2019,5,20190928,Troy,43.0,129,Arkansas St.,50.0,122,False,Veterans Memorial Stadium
+2019,5,20190928,Old Dominion,21.0,58,East Carolina,24.0,4,False,Foreman Field
+2019,5,20190928,Auburn,56.0,109,Mississippi St.,23.0,114,False,Jordan-Hare Stadium
+2019,5,20190928,Oklahoma St.,26.0,46,Kansas St.,13.0,44,False,Boone Pickens Stadium
+2019,5,20190928,UL Monroe,30.0,130,South Alabama,17.0,127,False,Malone Stadium
+2019,5,20190928,Texas St.,24.0,128,Nicholls State,3.0,242,False,Jim Wacker Field at Bobcat Stadium
+2019,5,20190928,Southern Miss,31.0,60,UTEP,13.0,62,False,M. M. Roberts Stadium
+2019,5,20190928,Rice,20.0,59,Louisiana Tech,23.0,54,False,Rice Stadium
+2019,5,20190928,Oregon St.,28.0,100,Stanford,31.0,101,False,Reser Stadium
+2019,5,20190928,Central Florida,56.0,1,Connecticut,21.0,3,False,Bright House Networks Stadium
+2019,5,20190928,Western Kentucky,20.0,64,UAB,13.0,61,False,Houchens Industries-L. T. Smith Stadium
+2019,5,20190928,South Carolina,24.0,117,Kentucky,7.0,112,False,Williams-Brice Stadium
+2019,5,20190928,Florida St.,31.0,16,NC State,13.0,20,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,5,20190928,Nebraska,7.0,34,Ohio St.,48.0,36,False,Memorial Stadium
+2019,5,20190928,Utah St.,34.0,93,Colorado St.,24.0,85,False,Romney Stadium
+2019,5,20190928,Wyoming,53.0,94,UNLV,17.0,92,False,War Memorial Stadium
+2019,5,20190928,New Mexico State,17.0,69,Fresno St.,30.0,86,False,Aggie Memorial Stadium
+2019,5,20190928,North Texas,25.0,57,Houston,46.0,5,False,Apogee Stadium
+2019,5,20190928,Utah,38.0,104,Washington St.,13.0,106,False,Rice-Eccles Stadium
+2019,5,20190928,Arizona,20.0,95,UCLA,17.0,102,False,Arizona Stadium
+2019,5,20190928,Nevada,3.0,88,Hawaii,54.0,87,False,Mackay Stadium
+2019,6,20191003,South Alabama,17.0,127,Georgia Southern,20.0,124,False,Ladd Peebles Stadium
+2019,6,20191003,East Carolina,17.0,4,Temple,27.0,10,False,Dowdy-Ficklen Stadium
+2019,6,20191004,Cincinnati,27.0,2,Central Florida,24.0,1,False,Nippert Stadium
+2019,6,20191004,San Jose St.,32.0,91,New Mexico,21.0,89,False,Spartan Stadium
+2019,6,20191005,Kansas,20.0,43,Oklahoma,45.0,45,False,Memorial Stadium
+2019,6,20191005,Rutgers,7.0,39,Maryland,48.0,30,False,High Point Solutions Stadium
+2019,6,20191005,LSU,42.0,113,Utah St.,6.0,93,False,Tiger Stadium
+2019,6,20191005,Penn State,35.0,37,Purdue,7.0,38,False,Beaver Stadium
+2019,6,20191005,Army,33.0,65,Tulane,42.0,11,False,Blaik Field at Michie Stadium
+2019,6,20191005,Michigan,10.0,31,Iowa,3.0,29,False,Michigan Stadium
+2019,6,20191005,Connecticut,22.0,3,South Florida,48.0,9,False,Rentschler Field
+2019,6,20191005,Wisconsin,48.0,40,Kent State,0.0,77,False,Camp Randall Stadium
+2019,6,20191005,Texas Tech,45.0,49,Oklahoma St.,35.0,46,False,Jones AT&T Stadium
+2019,6,20191005,Louisville,41.0,18,Boston College,39.0,13,False,Papa John's Cardinal Stadium
+2019,6,20191005,Iowa St.,49.0,42,TCU,24.0,47,False,Jack Trice Stadium
+2019,6,20191005,Central Michigan,42.0,75,Eastern Michigan,16.0,76,False,Kelly/Shorts Stadium
+2019,6,20191005,Georgia St.,52.0,125,Arkansas St.,38.0,122,False,Georgia State Stadium
+2019,6,20191005,West Virginia,31.0,50,Texas,42.0,48,False,Mountaineer Field at Milan Puskar Stadium
+2019,6,20191005,Notre Dame,52.0,70,Bowling Green,0.0,73,False,Notre Dame Stadium
+2019,6,20191005,Florida,24.0,110,Auburn,13.0,109,False,Ben Hill Griffin Stadium
+2019,6,20191005,Minnesota,40.0,33,Illinois,17.0,27,False,TCF Bank Stadium
+2019,6,20191005,Kansas St.,12.0,44,Baylor,31.0,41,False,Bill Snyder Family Football Stadium
+2019,6,20191005,Middle Tennessee,24.0,56,Marshall,13.0,55,False,"Johnny Red"""" Floyd Stadium"""""
+2019,6,20191005,Navy,34.0,7,Air Force,25.0,83,False,Navy-Marine Corps Memorial Stadium
+2019,6,20191005,Northern Illinois,20.0,79,Ball St.,27.0,72,False,Brigham Field at Huskie Stadium
+2019,6,20191005,Toledo,31.0,81,Western Michigan,24.0,82,False,Glass Bowl
+2019,6,20191005,Buffalo,20.0,74,Ohio,21.0,80,False,UB Stadium
+2019,6,20191005,Miami (FL),35.0,19,Virginia Tech,42.0,25,False,Hard Rock Stadium
+2019,6,20191005,UL Monroe,33.0,130,Memphis,52.0,6,False,Malone Stadium
+2019,6,20191005,Missouri,42.0,115,Troy,10.0,129,False,Faurot Field
+2019,6,20191005,Georgia Tech,22.0,17,North Carolina,38.0,21,False,Bobby Dodd Stadium at Historic Grant Field
+2019,6,20191005,Nebraska,13.0,34,Northwestern,10.0,35,False,Memorial Stadium
+2019,6,20191005,Colorado,30.0,98,Arizona,35.0,95,False,Folsom Field
+2019,6,20191005,Old Dominion,3.0,58,Western Kentucky,20.0,64,False,Foreman Field
+2019,6,20191005,Florida Intl,44.0,53,Massachusetts,0.0,68,False,FIU Stadium
+2019,6,20191005,UAB,35.0,61,Rice,20.0,59,False,Legion Field
+2019,6,20191005,Tennessee,14.0,118,Georgia,43.0,111,False,Neyland Stadium
+2019,6,20191005,Ohio St.,34.0,36,Michigan St.,10.0,32,False,Ohio Stadium
+2019,6,20191005,Ole Miss,31.0,116,Vanderbilt,6.0,120,False,Vaught-Hemingway Stadium
+2019,6,20191005,SMU,43.0,8,Tulsa,37.0,12,False,Gerald J. Ford Stadium
+2019,6,20191005,UTEP,16.0,62,UTSA,26.0,63,False,Sun Bowl Stadium
+2019,6,20191005,New Mexico State,13.0,69,Liberty,20.0,67,False,Aggie Memorial Stadium
+2019,6,20191005,Oregon,17.0,99,California,7.0,97,False,Autzen Stadium
+2019,6,20191005,Duke,30.0,15,Pittsburgh,33.0,22,False,Wallace Wade Stadium
+2019,6,20191005,UCLA,31.0,102,Oregon St.,48.0,100,False,Rose Bowl
+2019,6,20191005,Colorado St.,10.0,85,San Diego St.,24.0,90,False,Canvas Stadium
+2019,6,20191005,UNLV,13.0,92,Boise St.,38.0,84,False,Sam Boyd Stadium
+2019,6,20191005,Stanford,23.0,101,Washington,13.0,105,False,Stanford Stadium
+2019,7,20191009,Louisiana,7.0,126,Appalachian St.,17.0,121,False,Cajun Field
+2019,7,20191010,NC State,16.0,20,Syracuse,10.0,23,False,Carter-Finley Stadium
+2019,7,20191010,Texas St.,14.0,128,UL Monroe,24.0,130,False,Jim Wacker Field at Bobcat Stadium
+2019,7,20191011,New Mexico,21.0,89,Colorado St.,35.0,85,False,University Stadium
+2019,7,20191011,Miami (FL),17.0,19,Virginia,9.0,24,False,Hard Rock Stadium
+2019,7,20191011,Oregon,45.0,99,Colorado,3.0,98,False,Autzen Stadium
+2019,7,20191012,Georgia,17.0,111,South Carolina,20.0,117,False,Sanford Stadium
+2019,7,20191012,Bowling Green,20.0,73,Toledo,7.0,81,False,Doyt Perry Stadium
+2019,7,20191012,Western Michigan,38.0,82,Miami (OH),16.0,78,False,Waldo Stadium
+2019,7,20191012,Indiana,35.0,28,Rutgers,0.0,39,False,Memorial Stadium
+2019,7,20191012,Tennessee,20.0,118,Mississippi St.,10.0,114,False,Neyland Stadium
+2019,7,20191012,Purdue,40.0,38,Maryland,14.0,30,False,Ross-Ade Stadium
+2019,7,20191012,Temple,30.0,10,Memphis,28.0,6,False,Lincoln Financial Field
+2019,7,20191012,Texas,27.0,48,Oklahoma,34.0,45,True,Cotton Bowl
+2019,7,20191012,Illinois,25.0,27,Michigan,42.0,31,False,Memorial Stadium
+2019,7,20191012,Duke,41.0,15,Georgia Tech,23.0,17,False,Wallace Wade Stadium
+2019,7,20191012,Eastern Michigan,23.0,76,Ball St.,29.0,72,False,Rynearson Stadium
+2019,7,20191012,Marshall,31.0,55,Old Dominion,17.0,58,False,Joan C. Edwards Stadium
+2019,7,20191012,Central Michigan,42.0,75,New Mexico State,28.0,69,False,Kelly/Shorts Stadium
+2019,7,20191012,Akron,3.0,71,Kent State,26.0,77,False,Summa Field at InfoCision Stadium
+2019,7,20191012,Wisconsin,38.0,40,Michigan St.,0.0,32,False,Camp Randall Stadium
+2019,7,20191012,Houston,23.0,5,Cincinnati,38.0,2,False,John O'Quinn Field at TDECU Stadium
+2019,7,20191012,Clemson,45.0,14,Florida St.,14.0,16,False,Memorial Stadium
+2019,7,20191012,Arizona St.,38.0,96,Washington St.,34.0,106,False,Sun Devil Stadium
+2019,7,20191012,South Florida,27.0,9,BYU,23.0,66,False,Raymond James Stadium
+2019,7,20191012,Ohio,36.0,80,Northern Illinois,39.0,79,False,Peden Stadium
+2019,7,20191012,Texas A&M,28.0,119,Alabama,47.0,107,False,Kyle Field
+2019,7,20191012,Tulane,49.0,11,Connecticut,7.0,3,False,Benson Field at Yulman Stadium
+2019,7,20191012,Vanderbilt,10.0,120,UNLV,34.0,92,False,Vanderbilt Stadium
+2019,7,20191012,Baylor,33.0,41,Texas Tech,30.0,49,False,McLane Stadium
+2019,7,20191012,Nevada,41.0,88,San Jose St.,38.0,91,False,Mackay Stadium
+2019,7,20191012,West Virginia,14.0,50,Iowa St.,38.0,42,False,Mountaineer Field at Milan Puskar Stadium
+2019,7,20191012,Virginia Tech,34.0,25,Rhode Island,17.0,158,False,Lane Stadium
+2019,7,20191012,Florida Atlantic,28.0,52,Middle Tennessee,13.0,56,False,FAU Stadium
+2019,7,20191012,Coastal Carolina,21.0,123,Georgia St.,31.0,125,False,Brooks Stadium
+2019,7,20191012,UTSA,14.0,63,UAB,33.0,61,False,Alamodome
+2019,7,20191012,Missouri,38.0,115,Ole Miss,27.0,116,False,Faurot Field
+2019,7,20191012,Louisiana Tech,69.0,54,Massachusetts,21.0,68,False,Joe Aillet Stadium
+2019,7,20191012,Southern Miss,45.0,60,North Texas,27.0,57,False,M. M. Roberts Stadium
+2019,7,20191012,Air Force,43.0,83,Fresno St.,24.0,86,False,Falcon Stadium
+2019,7,20191012,Western Kentucky,17.0,64,Army,8.0,65,False,Houchens Industries-L. T. Smith Stadium
+2019,7,20191012,Florida Intl,48.0,53,Charlotte,23.0,51,False,FIU Stadium
+2019,7,20191012,Tulsa,17.0,12,Navy,45.0,7,False,Skelly Field at H. A. Chapman Stadium
+2019,7,20191012,Minnesota,34.0,33,Nebraska,7.0,34,False,TCF Bank Stadium
+2019,7,20191012,Kentucky,24.0,112,Arkansas,20.0,108,False,Commonwealth Stadium
+2019,7,20191012,Iowa,12.0,29,Penn State,17.0,37,False,Kinnick Stadium
+2019,7,20191012,Notre Dame,30.0,70,USC,27.0,103,False,Notre Dame Stadium
+2019,7,20191012,Wake Forest,59.0,26,Louisville,62.0,18,False,BB&T Field
+2019,7,20191012,Oregon St.,7.0,100,Utah,52.0,104,False,Reser Stadium
+2019,7,20191012,LSU,42.0,113,Florida,28.0,110,False,Tiger Stadium
+2019,7,20191012,Boise St.,59.0,84,Hawaii,37.0,87,False,Albertsons Stadium
+2019,7,20191012,San Diego St.,26.0,90,Wyoming,22.0,94,False,Qualcomm Stadium
+2019,7,20191012,Arizona,27.0,95,Washington,51.0,105,False,Arizona Stadium
+2019,8,20191016,Troy,37.0,129,South Alabama,13.0,127,False,Veterans Memorial Stadium
+2019,8,20191017,Arkansas St.,20.0,122,Louisiana,37.0,126,False,Centennial Bank Stadium
+2019,8,20191017,Stanford,16.0,101,UCLA,34.0,102,False,Stanford Stadium
+2019,8,20191018,Florida Atlantic,31.0,52,Marshall,36.0,55,False,FAU Stadium
+2019,8,20191018,Syracuse,20.0,23,Pittsburgh,27.0,22,False,Carrier Dome
+2019,8,20191018,Northwestern,3.0,35,Ohio St.,52.0,36,False,Ryan Field
+2019,8,20191018,Fresno St.,56.0,86,UNLV,27.0,92,False,Bulldog Stadium
+2019,8,20191019,Texas Tech,24.0,49,Iowa St.,34.0,42,False,Jones AT&T Stadium
+2019,8,20191019,South Carolina,27.0,117,Florida,38.0,110,False,Williams-Brice Stadium
+2019,8,20191019,Illinois,24.0,27,Wisconsin,23.0,40,False,Memorial Stadium
+2019,8,20191019,Arkansas,10.0,108,Auburn,51.0,109,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,8,20191019,Oklahoma,52.0,45,West Virginia,14.0,50,False,Gaylord Family Oklahoma Memorial Stadium
+2019,8,20191019,Iowa,26.0,29,Purdue,20.0,38,False,Kinnick Stadium
+2019,8,20191019,Louisville,10.0,18,Clemson,45.0,14,False,Papa John's Cardinal Stadium
+2019,8,20191019,Miami (FL),21.0,19,Georgia Tech,28.0,17,False,Hard Rock Stadium
+2019,8,20191019,Boston College,45.0,13,NC State,24.0,20,False,Alumni Stadium
+2019,8,20191019,Connecticut,17.0,3,Houston,24.0,5,False,Rentschler Field
+2019,8,20191019,Ohio,45.0,80,Kent State,38.0,77,False,Peden Stadium
+2019,8,20191019,Bowling Green,20.0,73,Central Michigan,38.0,75,False,Doyt Perry Stadium
+2019,8,20191019,Ball St.,52.0,72,Toledo,14.0,81,False,Scheumann Stadium
+2019,8,20191019,Kansas St.,24.0,44,TCU,17.0,47,False,Bill Snyder Family Football Stadium
+2019,8,20191019,Miami (OH),27.0,78,Northern Illinois,24.0,79,False,Yager Stadium
+2019,8,20191019,California,17.0,97,Oregon St.,21.0,100,False,California Memorial Stadium
+2019,8,20191019,Georgia Southern,30.0,124,Coastal Carolina,27.0,123,False,Paulson Stadium
+2019,8,20191019,Wyoming,23.0,94,New Mexico,10.0,89,False,War Memorial Stadium
+2019,8,20191019,Appalachian St.,52.0,121,UL Monroe,7.0,130,False,Kidd Brewer Stadium
+2019,8,20191019,Louisiana Tech,45.0,54,Southern Miss,30.0,60,False,Joe Aillet Stadium
+2019,8,20191019,Maryland,28.0,30,Indiana,34.0,28,False,Maryland Stadium
+2019,8,20191019,Virginia,48.0,24,Duke,14.0,15,False,Scott Stadium
+2019,8,20191019,Navy,35.0,7,South Florida,3.0,9,False,Navy-Marine Corps Memorial Stadium
+2019,8,20191019,Virginia Tech,43.0,25,North Carolina,41.0,21,False,Lane Stadium
+2019,8,20191019,Akron,0.0,71,Buffalo,21.0,74,False,Summa Field at InfoCision Stadium
+2019,8,20191019,Rutgers,7.0,39,Minnesota,42.0,33,False,High Point Solutions Stadium
+2019,8,20191019,SMU,45.0,8,Temple,21.0,10,False,Gerald J. Ford Stadium
+2019,8,20191019,Cincinnati,24.0,2,Tulsa,13.0,12,False,Nippert Stadium
+2019,8,20191019,Washington,31.0,105,Oregon,35.0,99,False,Husky Stadium
+2019,8,20191019,Mississippi St.,13.0,114,LSU,36.0,113,False,Davis Wade Stadium
+2019,8,20191019,Oklahoma St.,27.0,46,Baylor,45.0,41,False,Boone Pickens Stadium
+2019,8,20191019,UAB,38.0,61,Old Dominion,14.0,58,False,Legion Field
+2019,8,20191019,Vanderbilt,21.0,120,Missouri,14.0,115,False,Vanderbilt Stadium
+2019,8,20191019,Western Kentucky,30.0,64,Charlotte,14.0,51,False,Houchens Industries-L. T. Smith Stadium
+2019,8,20191019,North Texas,33.0,57,Middle Tennessee,30.0,56,False,Apogee Stadium
+2019,8,20191019,UTSA,31.0,63,Rice,27.0,59,False,Alamodome
+2019,8,20191019,Utah,21.0,104,Arizona St.,3.0,96,False,Rice-Eccles Stadium
+2019,8,20191019,Georgia,21.0,111,Kentucky,0.0,112,False,Sanford Stadium
+2019,8,20191019,Liberty,59.0,67,Maine,44.0,156,False,Williams Stadium
+2019,8,20191019,San Jose St.,17.0,91,San Diego St.,27.0,90,False,Spartan Stadium
+2019,8,20191019,Texas,50.0,48,Kansas,48.0,43,False,Darrell K Royal-Texas Memorial Stadium
+2019,8,20191019,Central Florida,41.0,1,East Carolina,28.0,4,False,Bright House Networks Stadium
+2019,8,20191019,Florida Intl,32.0,53,UTEP,17.0,62,False,FIU Stadium
+2019,8,20191019,Washington St.,41.0,106,Colorado,10.0,98,False,Martin Stadium
+2019,8,20191019,Georgia St.,28.0,125,Army,21.0,65,False,Georgia State Stadium
+2019,8,20191019,Eastern Michigan,34.0,76,Western Michigan,27.0,82,False,Rynearson Stadium
+2019,8,20191019,Memphis,47.0,6,Tulane,17.0,11,False,Liberty Bowl Memorial Stadium
+2019,8,20191019,Wake Forest,22.0,26,Florida St.,20.0,16,False,BB&T Field
+2019,8,20191019,Ole Miss,17.0,116,Texas A&M,24.0,119,False,Vaught-Hemingway Stadium
+2019,8,20191019,Penn State,28.0,37,Michigan,21.0,31,False,Beaver Stadium
+2019,8,20191019,Alabama,35.0,107,Tennessee,13.0,118,False,Bryant Denny Stadium
+2019,8,20191019,USC,41.0,103,Arizona,14.0,95,False,Los Angeles Memorial Coliseum
+2019,8,20191019,BYU,28.0,66,Boise St.,25.0,84,False,LaVell Edwards Stadium
+2019,8,20191019,Utah St.,36.0,93,Nevada,10.0,88,False,Romney Stadium
+2019,8,20191019,Hawaii,26.0,87,Air Force,56.0,83,False,Aloha Stadium
+2019,9,20191024,Houston,31.0,5,SMU,34.0,8,False,John O'Quinn Field at TDECU Stadium
+2019,9,20191025,Colorado,31.0,98,USC,35.0,103,False,Folsom Field
+2019,9,20191026,Rutgers,44.0,39,Liberty,34.0,67,False,High Point Solutions Stadium
+2019,9,20191026,Purdue,6.0,38,Illinois,24.0,27,False,Ross-Ade Stadium
+2019,9,20191026,Ohio St.,38.0,36,Wisconsin,7.0,40,False,Ohio Stadium
+2019,9,20191026,South Alabama,3.0,127,Appalachian St.,30.0,121,False,Ladd Peebles Stadium
+2019,9,20191026,Northwestern,0.0,35,Iowa,20.0,29,False,Ryan Field
+2019,9,20191026,Kansas St.,48.0,44,Oklahoma,41.0,45,False,Bill Snyder Family Football Stadium
+2019,9,20191026,Pittsburgh,12.0,22,Miami (FL),16.0,19,False,Heinz Field
+2019,9,20191026,Texas A&M,49.0,119,Mississippi St.,30.0,114,False,Kyle Field
+2019,9,20191026,Army,29.0,65,San Jose St.,34.0,91,False,Blaik Field at Michie Stadium
+2019,9,20191026,Western Michigan,49.0,82,Bowling Green,10.0,73,False,Waldo Stadium
+2019,9,20191026,Rice,6.0,59,Southern Miss,20.0,60,False,Rice Stadium
+2019,9,20191026,Ball St.,21.0,72,Ohio,34.0,80,False,Scheumann Stadium
+2019,9,20191026,Wyoming,31.0,94,Nevada,3.0,88,False,War Memorial Stadium
+2019,9,20191026,Marshall,26.0,55,Western Kentucky,23.0,64,False,Joan C. Edwards Stadium
+2019,9,20191026,Georgia Southern,41.0,124,New Mexico State,7.0,69,False,Paulson Stadium
+2019,9,20191026,Stanford,41.0,101,Arizona,31.0,95,False,Stanford Stadium
+2019,9,20191026,Buffalo,43.0,74,Central Michigan,20.0,75,False,UB Stadium
+2019,9,20191026,Nebraska,31.0,34,Indiana,38.0,28,False,Memorial Stadium
+2019,9,20191026,Louisville,28.0,18,Virginia,21.0,24,False,Papa John's Cardinal Stadium
+2019,9,20191026,Florida St.,35.0,16,Syracuse,17.0,23,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,9,20191026,Old Dominion,3.0,58,Florida Atlantic,41.0,52,False,Foreman Field
+2019,9,20191026,Middle Tennessee,50.0,56,Florida Intl,17.0,53,False,"Johnny Red"""" Floyd Stadium"""""
+2019,9,20191026,Massachusetts,35.0,68,Connecticut,56.0,3,False,Warren McGuirk Alumni Stadium
+2019,9,20191026,Toledo,37.0,81,Eastern Michigan,34.0,76,False,Glass Bowl
+2019,9,20191026,Kent State,16.0,77,Miami (OH),23.0,78,False,Dix Stadium
+2019,9,20191026,Northern Illinois,49.0,79,Akron,0.0,71,False,Brigham Field at Huskie Stadium
+2019,9,20191026,Michigan St.,7.0,32,Penn State,28.0,37,False,Spartan Stadium
+2019,9,20191026,LSU,23.0,113,Auburn,20.0,109,False,Tiger Stadium
+2019,9,20191026,TCU,37.0,47,Texas,27.0,48,False,Amon G. Carter Stadium
+2019,9,20191026,Minnesota,52.0,33,Maryland,10.0,30,False,TCF Bank Stadium
+2019,9,20191026,Charlotte,39.0,51,North Texas,38.0,57,False,Jerry Richardson Stadium
+2019,9,20191026,Iowa St.,27.0,42,Oklahoma St.,34.0,46,False,Jack Trice Stadium
+2019,9,20191026,Navy,41.0,7,Tulane,38.0,11,False,Navy-Marine Corps Memorial Stadium
+2019,9,20191026,East Carolina,20.0,4,South Florida,45.0,9,False,Dowdy-Ficklen Stadium
+2019,9,20191026,Tennessee,41.0,118,South Carolina,21.0,117,False,Neyland Stadium
+2019,9,20191026,New Mexico,31.0,89,Hawaii,45.0,87,False,University Stadium
+2019,9,20191026,North Carolina,20.0,21,Duke,17.0,15,False,Kenan Memorial Stadium
+2019,9,20191026,Arkansas St.,38.0,122,Texas St.,14.0,128,False,Centennial Bank Stadium
+2019,9,20191026,Georgia St.,52.0,125,Troy,33.0,129,False,Georgia State Stadium
+2019,9,20191026,Temple,21.0,10,Central Florida,63.0,1,False,Lincoln Financial Field
+2019,9,20191026,Alabama,48.0,107,Arkansas,7.0,108,False,Bryant Denny Stadium
+2019,9,20191026,Tulsa,41.0,12,Memphis,42.0,6,False,Skelly Field at H. A. Chapman Stadium
+2019,9,20191026,Kansas,37.0,43,Texas Tech,34.0,49,False,Memorial Stadium
+2019,9,20191026,UCLA,42.0,102,Arizona St.,32.0,96,False,Rose Bowl
+2019,9,20191026,Clemson,59.0,14,Boston College,7.0,13,False,Memorial Stadium
+2019,9,20191026,Michigan,45.0,31,Notre Dame,14.0,70,False,Michigan Stadium
+2019,9,20191026,Kentucky,29.0,112,Missouri,7.0,115,False,Commonwealth Stadium
+2019,9,20191026,Fresno St.,31.0,86,Colorado St.,41.0,85,False,Bulldog Stadium
+2019,9,20191026,UTEP,21.0,62,Louisiana Tech,42.0,54,False,Sun Bowl Stadium
+2019,9,20191026,Utah,35.0,104,California,0.0,97,False,Rice-Eccles Stadium
+2019,9,20191026,Air Force,31.0,83,Utah St.,7.0,93,False,Falcon Stadium
+2019,9,20191026,UNLV,17.0,92,San Diego St.,20.0,90,False,Sam Boyd Stadium
+2019,9,20191026,Oregon,37.0,99,Washington St.,35.0,106,False,Autzen Stadium
+2019,10,20191031,Baylor,17.0,41,West Virginia,14.0,50,False,McLane Stadium
+2019,10,20191031,Appalachian St.,21.0,121,Georgia Southern,24.0,124,False,Kidd Brewer Stadium
+2019,10,20191101,Connecticut,10.0,3,Navy,56.0,7,False,Rentschler Field
+2019,10,20191102,Maryland,7.0,30,Michigan,38.0,31,False,Maryland Stadium
+2019,10,20191102,Eastern Michigan,14.0,76,Buffalo,43.0,74,False,Rynearson Stadium
+2019,10,20191102,Massachusetts,21.0,68,Liberty,63.0,67,False,Warren McGuirk Alumni Stadium
+2019,10,20191102,Central Florida,44.0,1,Houston,29.0,5,False,Bright House Networks Stadium
+2019,10,20191102,Florida Intl,24.0,53,Old Dominion,17.0,58,False,FIU Stadium
+2019,10,20191102,Wake Forest,44.0,26,NC State,10.0,20,False,BB&T Field
+2019,10,20191102,Texas A&M,45.0,119,UTSA,14.0,63,False,Kyle Field
+2019,10,20191102,Purdue,31.0,38,Nebraska,27.0,34,False,Ross-Ade Stadium
+2019,10,20191102,Syracuse,27.0,23,Boston College,58.0,13,False,Carrier Dome
+2019,10,20191102,Central Michigan,48.0,75,Northern Illinois,10.0,79,False,Kelly/Shorts Stadium
+2019,10,20191102,Bowling Green,35.0,73,Akron,6.0,71,False,Doyt Perry Stadium
+2019,10,20191102,Notre Dame,21.0,70,Virginia Tech,20.0,25,False,Notre Dame Stadium
+2019,10,20191102,Coastal Carolina,36.0,123,Troy,35.0,129,False,Brooks Stadium
+2019,10,20191102,Air Force,17.0,83,Army,13.0,65,False,Falcon Stadium
+2019,10,20191102,North Texas,52.0,57,UTEP,26.0,62,False,Apogee Stadium
+2019,10,20191102,Oklahoma St.,34.0,46,TCU,27.0,47,False,Boone Pickens Stadium
+2019,10,20191102,Florida,17.0,110,Georgia,24.0,111,True,EverBank Field
+2019,10,20191102,Illinois,38.0,27,Rutgers,10.0,39,False,Memorial Stadium
+2019,10,20191102,Florida St.,10.0,16,Miami (FL),27.0,19,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,10,20191102,Rice,7.0,59,Marshall,20.0,55,False,Rice Stadium
+2019,10,20191102,Charlotte,34.0,51,Middle Tennessee,20.0,56,False,Jerry Richardson Stadium
+2019,10,20191102,UL Monroe,41.0,130,Arkansas St.,48.0,122,False,Malone Stadium
+2019,10,20191102,Colorado St.,37.0,85,UNLV,17.0,92,False,Canvas Stadium
+2019,10,20191102,Kansas,10.0,43,Kansas St.,38.0,44,False,Memorial Stadium
+2019,10,20191102,Georgia Tech,10.0,17,Pittsburgh,20.0,22,False,Bobby Dodd Stadium at Historic Grant Field
+2019,10,20191102,Washington,28.0,105,Utah,33.0,104,False,Husky Stadium
+2019,10,20191102,Tulane,38.0,11,Tulsa,26.0,12,False,Benson Field at Yulman Stadium
+2019,10,20191102,Western Kentucky,24.0,64,Florida Atlantic,35.0,52,False,Houchens Industries-L. T. Smith Stadium
+2019,10,20191102,Clemson,59.0,14,Wofford,14.0,235,False,Memorial Stadium
+2019,10,20191102,Arkansas,24.0,108,Mississippi St.,54.0,114,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,10,20191102,Arizona,38.0,95,Oregon St.,56.0,100,False,Arizona Stadium
+2019,10,20191102,Louisiana,31.0,126,Texas St.,3.0,128,False,Cajun Field
+2019,10,20191102,Tennessee,30.0,118,UAB,7.0,61,False,Neyland Stadium
+2019,10,20191102,East Carolina,43.0,4,Cincinnati,46.0,2,False,Dowdy-Ficklen Stadium
+2019,10,20191102,Auburn,20.0,109,Ole Miss,14.0,116,False,Jordan-Hare Stadium
+2019,10,20191102,Indiana,34.0,28,Northwestern,3.0,35,False,Memorial Stadium
+2019,10,20191102,North Carolina,31.0,21,Virginia,38.0,24,False,Kenan Memorial Stadium
+2019,10,20191102,Memphis,54.0,6,SMU,48.0,8,False,Liberty Bowl Memorial Stadium
+2019,10,20191102,South Carolina,24.0,117,Vanderbilt,7.0,120,False,Williams-Brice Stadium
+2019,10,20191102,USC,24.0,103,Oregon,56.0,99,False,Los Angeles Memorial Coliseum
+2019,10,20191102,UCLA,31.0,102,Colorado,14.0,98,False,Rose Bowl
+2019,10,20191102,Utah St.,14.0,93,BYU,42.0,66,False,Romney Stadium
+2019,10,20191102,Nevada,21.0,88,New Mexico,10.0,89,False,Mackay Stadium
+2019,10,20191102,San Jose St.,42.0,91,Boise St.,52.0,84,False,Spartan Stadium
+2019,10,20191102,Hawaii,38.0,87,Fresno St.,41.0,86,False,Aloha Stadium
+2019,11,20191105,Toledo,,81,Kent State,,77,False,Glass Bowl
+2019,11,20191105,Western Michigan,,82,Ball St.,,72,False,Waldo Stadium
+2019,11,20191106,Ohio,,80,Miami (OH),,78,False,Peden Stadium
+2019,11,20191107,Coastal Carolina,,123,Louisiana,,126,False,Brooks Stadium
+2019,11,20191107,South Florida,,9,Temple,,10,False,Raymond James Stadium
+2019,11,20191108,Tulsa,,12,Central Florida,,1,False,Skelly Field at H. A. Chapman Stadium
+2019,11,20191108,Oregon St.,,100,Washington,,105,False,Reser Stadium
+2019,11,20191109,Wisconsin,,40,Iowa,,29,False,Camp Randall Stadium
+2019,11,20191109,Michigan St.,,32,Illinois,,27,False,Spartan Stadium
+2019,11,20191109,Northwestern,,35,Purdue,,38,False,Ryan Field
+2019,11,20191109,TCU,,47,Baylor,,41,False,Amon G. Carter Stadium
+2019,11,20191109,Texas,,48,Kansas St.,,44,False,Darrell K Royal-Texas Memorial Stadium
+2019,11,20191109,Ohio St.,,36,Maryland,,30,False,Ohio Stadium
+2019,11,20191109,California,,97,Washington St.,,106,False,California Memorial Stadium
+2019,11,20191109,Colorado,,98,Stanford,,101,False,Folsom Field
+2019,11,20191109,Army,,65,Massachusetts,,68,False,Blaik Field at Michie Stadium
+2019,11,20191109,West Virginia,,50,Texas Tech,,49,False,Mountaineer Field at Milan Puskar Stadium
+2019,11,20191109,SMU,,8,East Carolina,,4,False,Gerald J. Ford Stadium
+2019,11,20191109,Arkansas,,108,Western Kentucky,,64,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2019,11,20191109,Minnesota,,33,Penn State,,37,False,TCF Bank Stadium
+2019,11,20191109,Florida,,110,Vanderbilt,,120,False,Ben Hill Griffin Stadium
+2019,11,20191109,Boston College,,13,Florida St.,,16,False,Alumni Stadium
+2019,11,20191109,Virginia,,24,Georgia Tech,,17,False,Scott Stadium
+2019,11,20191109,Old Dominion,,58,UTSA,,63,False,Foreman Field
+2019,11,20191109,New Mexico,,89,Air Force,,83,False,University Stadium
+2019,11,20191109,Texas St.,,128,South Alabama,,127,False,Jim Wacker Field at Bobcat Stadium
+2019,11,20191109,UTEP,,62,Charlotte,,51,False,Sun Bowl Stadium
+2019,11,20191109,Southern Miss,,60,UAB,,61,False,M. M. Roberts Stadium
+2019,11,20191109,Miami (FL),,19,Louisville,,18,False,Hard Rock Stadium
+2019,11,20191109,Cincinnati,,2,Connecticut,,3,False,Nippert Stadium
+2019,11,20191109,Alabama,,107,LSU,,113,False,Bryant Denny Stadium
+2019,11,20191109,Virginia Tech,,25,Wake Forest,,26,False,Lane Stadium
+2019,11,20191109,Arizona St.,,96,USC,,103,False,Sun Devil Stadium
+2019,11,20191109,Troy,,129,Georgia Southern,,124,False,Veterans Memorial Stadium
+2019,11,20191109,Louisiana Tech,,54,North Texas,,57,False,Joe Aillet Stadium
+2019,11,20191109,Ole Miss,,116,New Mexico State,,69,False,Vaught-Hemingway Stadium
+2019,11,20191109,UL Monroe,,130,Georgia St.,,125,False,Malone Stadium
+2019,11,20191109,Florida Atlantic,,52,Florida Intl,,53,False,FAU Stadium
+2019,11,20191109,South Carolina,,117,Appalachian St.,,121,False,Williams-Brice Stadium
+2019,11,20191109,Georgia,,111,Missouri,,115,False,Sanford Stadium
+2019,11,20191109,Fresno St.,,86,Utah St.,,93,False,Bulldog Stadium
+2019,11,20191109,NC State,,20,Clemson,,14,False,Carter-Finley Stadium
+2019,11,20191109,BYU,,66,Liberty,,67,False,LaVell Edwards Stadium
+2019,11,20191109,Kentucky,,112,Tennessee,,118,False,Commonwealth Stadium
+2019,11,20191109,Duke,,15,Notre Dame,,70,False,Wallace Wade Stadium
+2019,11,20191109,Oklahoma,,45,Iowa St.,,42,False,Gaylord Family Oklahoma Memorial Stadium
+2019,11,20191109,Boise St.,,84,Wyoming,,94,False,Albertsons Stadium
+2019,11,20191109,San Diego St.,,90,Nevada,,88,False,Qualcomm Stadium
+2019,11,20191109,Hawaii,,87,San Jose St.,,91,False,Aloha Stadium
+2019,12,20191112,Ohio,,80,Western Michigan,,82,False,Peden Stadium
+2019,12,20191112,Akron,,71,Eastern Michigan,,76,False,Summa Field at InfoCision Stadium
+2019,12,20191113,Toledo,,81,Northern Illinois,,79,False,Glass Bowl
+2019,12,20191113,Miami (OH),,78,Bowling Green,,73,False,Yager Stadium
+2019,12,20191114,Kent State,,77,Buffalo,,74,False,Dix Stadium
+2019,12,20191114,Pittsburgh,,22,North Carolina,,21,False,Heinz Field
+2019,12,20191115,Marshall,,55,Louisiana Tech,,54,False,Joan C. Edwards Stadium
+2019,12,20191115,San Diego St.,,90,Fresno St.,,86,False,Qualcomm Stadium
+2019,12,20191116,Missouri,,115,Florida,,110,False,Faurot Field
+2019,12,20191116,Northwestern,,35,Massachusetts,,68,False,Ryan Field
+2019,12,20191116,Kansas St.,,44,West Virginia,,50,False,Bill Snyder Family Football Stadium
+2019,12,20191116,Oklahoma St.,,46,Kansas,,43,False,Boone Pickens Stadium
+2019,12,20191116,Washington St.,,106,Stanford,,101,False,Martin Stadium
+2019,12,20191116,California,,97,USC,,103,False,California Memorial Stadium
+2019,12,20191116,NC State,,20,Louisville,,18,False,Carter-Finley Stadium
+2019,12,20191116,Georgia Tech,,17,Virginia Tech,,25,False,Bobby Dodd Stadium at Historic Grant Field
+2019,12,20191116,Florida St.,,16,Alabama State,,248,False,Bobby Bowden Field at Doak Campbell Stadium
+2019,12,20191116,Duke,,15,Syracuse,,23,False,Wallace Wade Stadium
+2019,12,20191116,UAB,,61,UTEP,,62,False,Legion Field
+2019,12,20191116,Utah St.,,93,Wyoming,,94,False,Romney Stadium
+2019,12,20191116,Colorado St.,,85,Air Force,,83,False,Canvas Stadium
+2019,12,20191116,Ball St.,,72,Central Michigan,,75,False,Scheumann Stadium
+2019,12,20191116,Texas St.,,128,Troy,,129,False,Jim Wacker Field at Bobcat Stadium
+2019,12,20191116,South Alabama,,127,Louisiana,,126,False,Ladd Peebles Stadium
+2019,12,20191116,Georgia Southern,,124,UL Monroe,,130,False,Paulson Stadium
+2019,12,20191116,Temple,,10,Tulane,,11,False,Lincoln Financial Field
+2019,12,20191116,Houston,,5,Memphis,,6,False,John O'Quinn Field at TDECU Stadium
+2019,12,20191116,Oregon St.,,100,Arizona St.,,96,False,Reser Stadium
+2019,12,20191116,Boise St.,,84,New Mexico,,89,False,Albertsons Stadium
+2019,12,20191116,Michigan,,31,Michigan St.,,32,False,Michigan Stadium
+2019,12,20191116,South Florida,,9,Cincinnati,,2,False,Raymond James Stadium
+2019,12,20191116,Iowa,,29,Minnesota,,33,False,Kinnick Stadium
+2019,12,20191116,Iowa St.,,42,Texas,,48,False,Jack Trice Stadium
+2019,12,20191116,Nebraska,,34,Wisconsin,,40,False,Memorial Stadium
+2019,12,20191116,Utah,,104,UCLA,,102,False,Rice-Eccles Stadium
+2019,12,20191116,Oregon,,99,Arizona,,95,False,Autzen Stadium
+2019,12,20191116,Auburn,,109,Georgia,,111,False,Jordan-Hare Stadium
+2019,12,20191116,Texas Tech,,49,TCU,,47,False,Jones AT&T Stadium
+2019,12,20191116,Penn State,,37,Indiana,,28,False,Beaver Stadium
+2019,12,20191116,Baylor,,41,Oklahoma,,45,False,McLane Stadium
+2019,12,20191116,Clemson,,14,Wake Forest,,26,False,Memorial Stadium
+2019,12,20191116,Rutgers,,39,Ohio St.,,36,False,High Point Solutions Stadium
+2019,12,20191116,Ole Miss,,116,LSU,,113,False,Vaught-Hemingway Stadium
+2019,12,20191116,Mississippi St.,,114,Alabama,,107,False,Davis Wade Stadium
+2019,12,20191116,Army,,65,VMI,,233,False,Blaik Field at Michie Stadium
+2019,12,20191116,Georgia St.,,125,Appalachian St.,,121,False,Georgia State Stadium
+2019,12,20191116,Notre Dame,,70,Navy,,7,False,Notre Dame Stadium
+2019,12,20191116,BYU,,66,Idaho State,,134,False,LaVell Edwards Stadium
+2019,12,20191116,Arkansas St.,,122,Coastal Carolina,,123,False,Centennial Bank Stadium
+2019,12,20191116,Vanderbilt,,120,Kentucky,,112,False,Vanderbilt Stadium
+2019,12,20191116,UNLV,,92,Hawaii,,87,False,Sam Boyd Stadium
+2019,12,20191116,New Mexico State,,69,Incarnate Word,,239,False,Aggie Memorial Stadium
+2019,12,20191116,Middle Tennessee,,56,Rice,,59,False,"Johnny Red"""" Floyd Stadium"""""
+2019,12,20191116,UTSA,,63,Southern Miss,,60,False,Alamodome
+2019,12,20191116,Texas A&M,,119,South Carolina,,117,False,Kyle Field
+2019,13,20191119,Northern Illinois,,79,Eastern Michigan,,76,False,Brigham Field at Huskie Stadium
+2019,13,20191119,Bowling Green,,73,Ohio,,80,False,Doyt Perry Stadium
+2019,13,20191120,Miami (OH),,78,Akron,,71,False,Yager Stadium
+2019,13,20191120,Buffalo,,74,Toledo,,81,False,UB Stadium
+2019,13,20191121,Georgia Tech,,17,NC State,,20,False,Bobby Dodd Stadium at Historic Grant Field
+2019,13,20191122,Wyoming,,94,Colorado St.,,85,False,War Memorial Stadium
+2019,13,20191123,Arizona St.,,96,Oregon,,99,False,Sun Devil Stadium
+2019,13,20191123,Georgia,,111,Texas A&M,,119,False,Sanford Stadium
+2019,13,20191123,Oklahoma,,45,TCU,,47,False,Gaylord Family Oklahoma Memorial Stadium
+2019,13,20191123,Ohio St.,,36,Penn State,,37,False,Ohio Stadium
+2019,13,20191123,LSU,,113,Arkansas,,108,False,Tiger Stadium
+2019,13,20191123,Northwestern,,35,Minnesota,,33,False,Ryan Field
+2019,13,20191123,Louisville,,18,Syracuse,,23,False,Papa John's Cardinal Stadium
+2019,13,20191123,Louisiana,,126,Troy,,129,False,Cajun Field
+2019,13,20191123,Kent State,,77,Ball St.,,72,False,Dix Stadium
+2019,13,20191123,Tulsa,,12,Houston,,5,False,Skelly Field at H. A. Chapman Stadium
+2019,13,20191123,South Florida,,9,Memphis,,6,False,Raymond James Stadium
+2019,13,20191123,Connecticut,,3,East Carolina,,4,False,Rentschler Field
+2019,13,20191123,Tulane,,11,Central Florida,,1,False,Benson Field at Yulman Stadium
+2019,13,20191123,Fresno St.,,86,Nevada,,88,False,Bulldog Stadium
+2019,13,20191123,Wake Forest,,26,Duke,,15,False,BB&T Field
+2019,13,20191123,Iowa St.,,42,Kansas,,43,False,Jack Trice Stadium
+2019,13,20191123,Iowa,,29,Illinois,,27,False,Kinnick Stadium
+2019,13,20191123,Indiana,,28,Michigan,,31,False,Memorial Stadium
+2019,13,20191123,Cincinnati,,2,Temple,,10,False,Nippert Stadium
+2019,13,20191123,Baylor,,41,Texas,,48,False,McLane Stadium
+2019,13,20191123,Wisconsin,,40,Purdue,,38,False,Camp Randall Stadium
+2019,13,20191123,Arizona,,95,Utah,,104,False,Arizona Stadium
+2019,13,20191123,Texas Tech,,49,Kansas St.,,44,False,Jones AT&T Stadium
+2019,13,20191123,West Virginia,,50,Oklahoma St.,,46,False,Mountaineer Field at Milan Puskar Stadium
+2019,13,20191123,Maryland,,30,Nebraska,,34,False,Maryland Stadium
+2019,13,20191123,Rutgers,,39,Michigan St.,,32,False,High Point Solutions Stadium
+2019,13,20191123,Virginia Tech,,25,Pittsburgh,,22,False,Lane Stadium
+2019,13,20191123,Virginia,,24,Liberty,,67,False,Scott Stadium
+2019,13,20191123,Stanford,,101,California,,97,False,Stanford Stadium
+2019,13,20191123,Colorado,,98,Washington,,105,False,Folsom Field
+2019,13,20191123,Washington St.,,106,Oregon St.,,100,False,Martin Stadium
+2019,13,20191123,USC,,103,UCLA,,102,False,Los Angeles Memorial Coliseum
+2019,13,20191123,UAB,,61,Louisiana Tech,,54,False,Legion Field
+2019,13,20191123,Missouri,,115,Tennessee,,118,False,Faurot Field
+2019,13,20191123,North Carolina,,21,Mercer,,231,False,Kenan Memorial Stadium
+2019,13,20191123,Massachusetts,,68,BYU,,66,False,Warren McGuirk Alumni Stadium
+2019,13,20191123,Alabama,,107,Western Carolina,,234,False,Bryant Denny Stadium
+2019,13,20191123,Auburn,,109,Samford,,232,False,Jordan-Hare Stadium
+2019,13,20191123,Georgia St.,,125,South Alabama,,127,False,Georgia State Stadium
+2019,13,20191123,Appalachian St.,,121,Texas St.,,128,False,Kidd Brewer Stadium
+2019,13,20191123,Notre Dame,,70,Boston College,,13,False,Notre Dame Stadium
+2019,13,20191123,Arkansas St.,,122,Georgia Southern,,124,False,Centennial Bank Stadium
+2019,13,20191123,Southern Miss,,60,Western Kentucky,,64,False,M. M. Roberts Stadium
+2019,13,20191123,Rice,,59,North Texas,,57,False,Rice Stadium
+2019,13,20191123,Charlotte,,51,Marshall,,55,False,Jerry Richardson Stadium
+2019,13,20191123,Navy,,7,SMU,,8,False,Navy-Marine Corps Memorial Stadium
+2019,13,20191123,Vanderbilt,,120,East Tennessee St.,,229,False,Vanderbilt Stadium
+2019,13,20191123,Kentucky,,112,Tennessee-Martin,,209,False,Commonwealth Stadium
+2019,13,20191123,UNLV,,92,San Jose St.,,91,False,Sam Boyd Stadium
+2019,13,20191123,New Mexico State,,69,UTEP,,62,False,Aggie Memorial Stadium
+2019,13,20191123,Middle Tennessee,,56,Old Dominion,,58,False,"Johnny Red"""" Floyd Stadium"""""
+2019,13,20191123,UL Monroe,,130,Coastal Carolina,,123,False,Malone Stadium
+2019,13,20191123,UTSA,,63,Florida Atlantic,,52,False,Alamodome
+2019,13,20191123,Florida Intl,,53,Miami (FL),,19,False,FIU Stadium
+2019,13,20191123,Mississippi St.,,114,Abilene Christian,,236,False,Davis Wade Stadium
+2019,13,20191123,Utah St.,,93,Boise St.,,84,False,Romney Stadium
+2019,13,20191123,Hawaii,,87,San Diego St.,,90,False,Aloha Stadium
+2019,14,20191126,Akron,,71,Ohio,,80,False,Summa Field at InfoCision Stadium
+2019,14,20191126,Northern Illinois,,79,Western Michigan,,82,False,Brigham Field at Huskie Stadium
+2019,14,20191128,Mississippi St.,,114,Ole Miss,,116,False,Davis Wade Stadium
+2019,14,20191129,Ball St.,,72,Miami (OH),,78,False,Scheumann Stadium
+2019,14,20191129,Central Florida,,1,South Florida,,9,False,Bright House Networks Stadium
+2019,14,20191129,South Alabama,,127,Arkansas St.,,122,False,Ladd Peebles Stadium
+2019,14,20191129,Central Michigan,,75,Toledo,,81,False,Kelly/Shorts Stadium
+2019,14,20191129,Eastern Michigan,,76,Kent State,,77,False,Rynearson Stadium
+2019,14,20191129,Buffalo,,74,Bowling Green,,73,False,UB Stadium
+2019,14,20191129,Virginia,,24,Virginia Tech,,25,False,Scott Stadium
+2019,14,20191129,Memphis,,6,Cincinnati,,2,False,Liberty Bowl Memorial Stadium
+2019,14,20191129,Texas,,48,Texas Tech,,49,False,Darrell K Royal-Texas Memorial Stadium
+2019,14,20191129,Arkansas,,108,Missouri,,115,False,War Memorial Stadium
+2019,14,20191129,Nebraska,,34,Iowa,,29,False,Memorial Stadium
+2019,14,20191129,TCU,,47,West Virginia,,50,False,Amon G. Carter Stadium
+2019,14,20191129,Colorado St.,,85,Boise St.,,84,False,Canvas Stadium
+2019,14,20191129,Washington,,105,Washington St.,,106,False,Husky Stadium
+2019,14,20191129,Troy,,129,Appalachian St.,,121,False,Veterans Memorial Stadium
+2019,14,20191130,Oklahoma St.,,46,Oklahoma,,45,False,Boone Pickens Stadium
+2019,14,20191130,Florida,,110,Florida St.,,16,False,Ben Hill Griffin Stadium
+2019,14,20191130,Stanford,,101,Notre Dame,,70,False,Stanford Stadium
+2019,14,20191130,Georgia Tech,,17,Georgia,,111,False,Bobby Dodd Stadium at Historic Grant Field
+2019,14,20191130,Oregon,,99,Oregon St.,,100,False,Autzen Stadium
+2019,14,20191130,Utah,,104,Colorado,,98,False,Rice-Eccles Stadium
+2019,14,20191130,Minnesota,,33,Wisconsin,,40,False,TCF Bank Stadium
+2019,14,20191130,Kansas,,43,Baylor,,41,False,Memorial Stadium
+2019,14,20191130,SMU,,8,Tulane,,11,False,Gerald J. Ford Stadium
+2019,14,20191130,Kansas St.,,44,Iowa St.,,42,False,Bill Snyder Family Football Stadium
+2019,14,20191130,Arizona St.,,96,Arizona,,95,False,Sun Devil Stadium
+2019,14,20191130,Syracuse,,23,Wake Forest,,26,False,Carrier Dome
+2019,14,20191130,Coastal Carolina,,123,Texas St.,,128,False,Brooks Stadium
+2019,14,20191130,Georgia Southern,,124,Georgia St.,,125,False,Paulson Stadium
+2019,14,20191130,Louisiana,,126,UL Monroe,,130,False,Cajun Field
+2019,14,20191130,Temple,,10,Connecticut,,3,False,Lincoln Financial Field
+2019,14,20191130,East Carolina,,4,Tulsa,,12,False,Dowdy-Ficklen Stadium
+2019,14,20191130,Houston,,5,Navy,,7,False,John O'Quinn Field at TDECU Stadium
+2019,14,20191130,San Jose St.,,91,Fresno St.,,86,False,Spartan Stadium
+2019,14,20191130,Penn State,,37,Rutgers,,39,False,Beaver Stadium
+2019,14,20191130,Michigan St.,,32,Maryland,,30,False,Spartan Stadium
+2019,14,20191130,Illinois,,27,Northwestern,,35,False,Memorial Stadium
+2019,14,20191130,Purdue,,38,Indiana,,28,False,Ross-Ade Stadium
+2019,14,20191130,Auburn,,109,Alabama,,107,False,Jordan-Hare Stadium
+2019,14,20191130,LSU,,113,Texas A&M,,119,False,Tiger Stadium
+2019,14,20191130,South Carolina,,117,Clemson,,14,False,Williams-Brice Stadium
+2019,14,20191130,UCLA,,102,California,,97,False,Rose Bowl
+2019,14,20191130,NC State,,20,North Carolina,,21,False,Carter-Finley Stadium
+2019,14,20191130,Duke,,15,Miami (FL),,19,False,Wallace Wade Stadium
+2019,14,20191130,Pittsburgh,,22,Boston College,,13,False,Heinz Field
+2019,14,20191130,Kentucky,,112,Louisville,,18,False,Commonwealth Stadium
+2019,14,20191130,Marshall,,55,Florida Intl,,53,False,Joan C. Edwards Stadium
+2019,14,20191130,Michigan,,31,Ohio St.,,36,False,Michigan Stadium
+2019,14,20191130,Air Force,,83,Wyoming,,94,False,Falcon Stadium
+2019,14,20191130,Old Dominion,,58,Charlotte,,51,False,Foreman Field
+2019,14,20191130,Liberty,,67,New Mexico State,,69,False,Williams Stadium
+2019,14,20191130,Western Kentucky,,64,Middle Tennessee,,56,False,Houchens Industries-L. T. Smith Stadium
+2019,14,20191130,UTEP,,62,Rice,,59,False,Sun Bowl Stadium
+2019,14,20191130,Nevada,,88,UNLV,,92,False,Mackay Stadium
+2019,14,20191130,Louisiana Tech,,54,UTSA,,63,False,Joe Aillet Stadium
+2019,14,20191130,Florida Atlantic,,52,Southern Miss,,60,False,FAU Stadium
+2019,14,20191130,Tennessee,,118,Vanderbilt,,120,False,Neyland Stadium
+2019,14,20191130,New Mexico,,89,Utah St.,,93,False,University Stadium
+2019,14,20191130,North Texas,,57,UAB,,61,False,Apogee Stadium
+2019,14,20191130,San Diego St.,,90,BYU,,66,False,Qualcomm Stadium
+2019,14,20191130,Hawaii,,87,Army,,65,False,Aloha Stadium
+2019,15,20191214,Navy,,7,Army,,65,True,Lincoln Financial Field

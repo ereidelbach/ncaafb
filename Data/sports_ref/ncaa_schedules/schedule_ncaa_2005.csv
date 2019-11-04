@@ -1,0 +1,719 @@
+season,week,date,home_team,home_points,home_code,away_team,away_points,away_code,neutral_site,venue
+2005,1,20050901,Wake Forest,20,26,Vanderbilt,24,120,False,BB&T Field
+2005,1,20050901,Houston,24,5,Oregon,38,99,False,
+2005,1,20050901,Marshall,36,55,William & Mary,24,163,False,Joan C. Edwards Stadium
+2005,1,20050901,Cincinnati,28,2,Eastern Michigan,26,76,False,Nippert Stadium
+2005,1,20050901,Toledo,62,81,Western Illinois,14,190,False,Glass Bowl
+2005,1,20050901,South Carolina,24,117,Central Florida,15,1,False,Williams-Brice Stadium
+2005,1,20050901,Connecticut,38,3,Buffalo,0,74,False,Rentschler Field
+2005,1,20050901,UL Monroe,23,130,Northwestern State,27,243,False,Malone Stadium
+2005,1,20050901,Arizona St.,63,96,Temple,16,10,False,Sun Devil Stadium
+2005,1,20050901,Washington St.,38,106,Idaho,26,133,False,Martin Stadium
+2005,1,20050901,Tulsa,10,12,Minnesota,41,33,False,
+2005,1,20050902,Central Michigan,13,75,Indiana,20,28,False,Kelly/Shorts Stadium
+2005,1,20050902,Utah,27,104,Arizona,24,95,False,Rice-Eccles Stadium
+2005,1,20050903,Arkansas St.,17,122,Missouri,44,115,False,
+2005,1,20050903,Northwestern,38,35,Ohio,14,80,False,Ryan Field
+2005,1,20050903,Iowa,56,29,Ball St.,0,72,False,Kinnick Stadium
+2005,1,20050903,Michigan St.,49,32,Kent State,14,77,False,Spartan Stadium
+2005,1,20050903,Illinois,33,27,Rutgers,30,39,False,Memorial Stadium
+2005,1,20050903,Ohio St.,34,36,Miami (OH),14,78,False,Ohio Stadium
+2005,1,20050903,Oklahoma,10,45,TCU,17,47,False,Gaylord Family Oklahoma Memorial Stadium
+2005,1,20050903,Wisconsin,56,40,Bowling Green,42,73,False,Camp Randall Stadium
+2005,1,20050903,Tennessee,17,118,UAB,10,61,False,Neyland Stadium
+2005,1,20050903,East Carolina,24,4,Duke,21,15,False,Dowdy-Ficklen Stadium
+2005,1,20050903,Kansas St.,35,44,Florida Intl,21,53,False,Bill Snyder Family Football Stadium
+2005,1,20050903,Michigan,33,31,Northern Illinois,17,79,False,Michigan Stadium
+2005,1,20050903,BYU,3,66,Boston College,20,13,False,LaVell Edwards Stadium
+2005,1,20050903,Penn State,23,37,South Florida,13,9,False,Beaver Stadium
+2005,1,20050903,Colorado,31,98,Colorado St.,28,85,False,Folsom Field
+2005,1,20050903,Air Force,20,83,Washington,17,105,False,
+2005,1,20050903,California,41,97,Sacramento State,3,140,False,California Memorial Stadium
+2005,1,20050903,Georgia,48,111,Boise St.,13,84,False,Sanford Stadium
+2005,1,20050903,Florida,32,110,Wyoming,14,94,False,Ben Hill Griffin Stadium
+2005,1,20050903,San Jose St.,35,91,Eastern Washington,24,132,False,Spartan Stadium
+2005,1,20050903,Navy,20,7,Maryland,23,30,False,
+2005,1,20050903,Oregon St.,41,100,Portland State,14,139,False,Reser Stadium
+2005,1,20050903,Virginia,31,24,Western Michigan,19,82,False,Scott Stadium
+2005,1,20050903,Kansas,30,43,Florida Atlantic,19,52,False,Memorial Stadium
+2005,1,20050903,Hawaii,17,87,USC,63,103,False,Aloha Stadium
+2005,1,20050903,Alabama,26,107,Middle Tennessee,7,56,False,Bryant Denny Stadium
+2005,1,20050903,Mississippi St.,38,114,Murray State,6,205,False,Davis Wade Stadium
+2005,1,20050903,Texas,60,48,Louisiana,3,126,False,Darrell K Royal-Texas Memorial Stadium
+2005,1,20050903,Arkansas,49,108,Missouri State,17,184,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2005,1,20050903,Nebraska,25,34,Maine,7,156,False,Memorial Stadium
+2005,1,20050903,Oklahoma St.,15,46,Montana State,10,136,False,Boone Pickens Stadium
+2005,1,20050903,Iowa St.,32,42,Illinois State,21,182,False,Jack Trice Stadium
+2005,1,20050903,Troy,27,129,Cal Poly,10,131,False,Veterans Memorial Stadium
+2005,1,20050903,SMU,23,8,Baylor,28,41,False,Gerald J. Ford Stadium
+2005,1,20050903,Pittsburgh,21,22,Notre Dame,42,70,False,Heinz Field
+2005,1,20050903,Clemson,25,14,Texas A&M,24,119,False,Memorial Stadium
+2005,1,20050903,Auburn,14,109,Georgia Tech,23,17,False,Jordan-Hare Stadium
+2005,1,20050903,San Diego St.,21,90,UCLA,44,102,False,Qualcomm Stadium
+2005,1,20050903,New Mexico State,17,69,UTEP,34,62,False,Aggie Memorial Stadium
+2005,1,20050904,Syracuse,7,23,West Virginia,15,50,False,Carrier Dome
+2005,1,20050904,Kentucky,24,112,Louisville,31,18,False,Kroger Field
+2005,1,20050904,NC State,16,20,Virginia Tech,20,25,False,Carter-Finley Stadium
+2005,1,20050905,New Mexico,24,89,UNLV,22,92,False,University Stadium
+2005,1,20050905,Memphis,6,6,Ole Miss,10,116,False,Liberty Bowl Memorial Stadium
+2005,1,20050905,Florida St.,10,16,Miami (FL),7,19,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,2,20050908,Florida Atlantic,3,52,Oklahoma St.,23,46,False,Hard Rock Stadium
+2005,2,20050909,Ohio,16,80,Pittsburgh,10,22,False,Peden Stadium
+2005,2,20050909,Nevada,21,88,Washington St.,55,106,False,Mackay Stadium
+2005,2,20050910,Marshall,19,55,Kansas St.,21,44,False,Joan C. Edwards Stadium
+2005,2,20050910,Duke,0,15,Virginia Tech,45,25,False,Wallace Wade Stadium
+2005,2,20050910,Michigan,10,31,Notre Dame,17,70,False,Michigan Stadium
+2005,2,20050910,Maryland,24,30,Clemson,28,14,False,Maryland Stadium
+2005,2,20050910,Wisconsin,65,40,Temple,0,10,False,Camp Randall Stadium
+2005,2,20050910,Penn State,42,37,Cincinnati,24,2,False,Beaver Stadium
+2005,2,20050910,Auburn,28,109,Mississippi St.,0,114,False,Jordan-Hare Stadium
+2005,2,20050910,Boston College,44,13,Army,7,65,False,Alumni Stadium
+2005,2,20050910,Oklahoma,31,45,Tulsa,15,12,False,Gaylord Family Oklahoma Memorial Stadium
+2005,2,20050910,Connecticut,59,3,Liberty,0,67,False,Rentschler Field
+2005,2,20050910,Purdue,49,38,Akron,24,71,False,Ross-Ade Stadium
+2005,2,20050910,Minnesota,56,33,Colorado St.,24,85,False,
+2005,2,20050910,Miami (OH),37,78,Central Michigan,38,75,False,Yager Stadium
+2005,2,20050910,Air Force,41,83,San Diego St.,29,90,False,Falcon Stadium
+2005,2,20050910,Illinois,40,27,San Jose St.,19,91,False,Memorial Stadium
+2005,2,20050910,Wyoming,38,94,UL Monroe,0,130,False,
+2005,2,20050910,BYU,45,66,Eastern Illinois,10,202,False,LaVell Edwards Stadium
+2005,2,20050910,Rutgers,38,39,Villanova,6,162,False,High Point Solutions Stadium
+2005,2,20050910,Oregon,47,99,Montana,14,135,False,Autzen Stadium
+2005,2,20050910,Washington,17,105,California,56,97,False,
+2005,2,20050910,Georgia Tech,27,17,North Carolina,21,21,False,Bobby Dodd Stadium at Historic Grant Field
+2005,2,20050910,Syracuse,31,23,Buffalo,0,74,False,Carrier Dome
+2005,2,20050910,Iowa St.,23,42,Iowa,3,29,False,Jack Trice Stadium
+2005,2,20050910,Michigan St.,42,32,Hawaii,14,87,False,Spartan Stadium
+2005,2,20050910,Kent State,33,77,Southeast Missouri,12,206,False,Dix Stadium
+2005,2,20050910,Northwestern,38,35,Northern Illinois,37,79,False,Ryan Field
+2005,2,20050910,Indiana,35,28,Nicholls State,31,242,False,Memorial Stadium
+2005,2,20050910,Georgia,17,111,South Carolina,15,117,False,Sanford Stadium
+2005,2,20050910,Eastern Michigan,31,76,Louisiana,10,126,False,Rynearson Stadium
+2005,2,20050910,Navy,38,7,Stanford,41,101,False,Navy-Marine Corps Memorial Stadium
+2005,2,20050910,Kentucky,41,112,Idaho State,29,134,False,Kroger Field
+2005,2,20050910,West Virginia,35,50,Wofford,7,235,False,Mountaineer Field at Milan Puskar Stadium
+2005,2,20050910,Florida,41,110,Louisiana Tech,3,54,False,Ben Hill Griffin Stadium
+2005,2,20050910,Oregon St.,30,100,Boise St.,27,84,False,Reser Stadium
+2005,2,20050910,Florida St.,62,16,Citadel,10,228,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,2,20050910,Toledo,56,81,Western Michigan,23,82,False,Glass Bowl
+2005,2,20050910,Middle Tennessee,7,56,North Texas,14,57,False,"Johnny Red"""" Floyd Stadium"""""
+2005,2,20050910,Arkansas St.,56,122,Tennessee-Martin,7,209,False,
+2005,2,20050910,Texas Tech,56,49,Florida Intl,3,53,False,Jones AT&T Stadium
+2005,2,20050910,Kansas,36,43,Appalachian St.,8,121,False,Memorial Stadium
+2005,2,20050910,South Florida,37,9,Florida A&M,3,175,False,Raymond James Stadium
+2005,2,20050910,Arkansas,24,108,Vanderbilt,28,120,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2005,2,20050910,Baylor,48,41,Samford,14,232,False,Floyd Casey Stadium
+2005,2,20050910,Houston,31,5,Sam Houston State,10,244,False,Robertson Stadium
+2005,2,20050910,Missouri,35,115,New Mexico,45,89,False,Faurot Field
+2005,2,20050910,Nebraska,31,34,Wake Forest,3,26,False,Memorial Stadium
+2005,2,20050910,Alabama,30,107,Southern Miss,21,60,False,Bryant Denny Stadium
+2005,2,20050910,Utah,31,104,Utah St.,7,93,False,Rice-Eccles Stadium
+2005,2,20050910,Ohio St.,22,36,Texas,25,48,False,Ohio Stadium
+2005,2,20050910,Troy,7,129,UAB,27,61,False,Veterans Memorial Stadium
+2005,2,20050910,Ball St.,31,72,Bowling Green,40,73,False,Scheumann Stadium
+2005,2,20050910,Arizona St.,31,96,LSU,35,113,False,Sun Devil Stadium
+2005,2,20050910,SMU,21,8,TCU,10,47,False,Gerald J. Ford Stadium
+2005,2,20050910,Fresno St.,55,86,Weber State,17,143,False,Bulldog Stadium
+2005,2,20050910,UNLV,34,92,Idaho,31,133,False,Sam Boyd Stadium
+2005,2,20050910,Arizona,31,95,Northern Arizona,12,137,False,Arizona Stadium
+2005,2,20050910,UCLA,63,102,Rice,21,59,False,Rose Bowl
+2005,2,20050910,Colorado,39,98,New Mexico State,0,69,False,Folsom Field
+2005,3,20050915,TCU,23,47,Utah,20,104,False,Amon G. Carter Stadium
+2005,3,20050916,UTEP,44,62,Houston,41,5,False,Sun Bowl Stadium
+2005,3,20050917,Michigan,55,31,Eastern Michigan,0,76,False,Michigan Stadium
+2005,3,20050917,Syracuse,24,23,Virginia,27,24,False,Carrier Dome
+2005,3,20050917,Louisville,63,18,Oregon St.,27,100,False,Papa John's Cardinal Stadium
+2005,3,20050917,Maryland,19,30,West Virginia,31,50,False,Maryland Stadium
+2005,3,20050917,Vanderbilt,31,120,Ole Miss,23,116,False,Vanderbilt Stadium
+2005,3,20050917,Texas A&M,66,119,SMU,8,8,False,Kyle Field
+2005,3,20050917,Temple,17,10,Toledo,42,81,False,Lincoln Financial Field
+2005,3,20050917,Duke,40,15,VMI,14,233,False,Wallace Wade Stadium
+2005,3,20050917,Georgia,44,111,UL Monroe,7,130,False,Sanford Stadium
+2005,3,20050917,Missouri,52,115,Troy,21,129,False,Faurot Field
+2005,3,20050917,Air Force,28,83,Wyoming,29,94,False,Falcon Stadium
+2005,3,20050917,Auburn,63,109,Ball St.,3,72,False,Jordan-Hare Stadium
+2005,3,20050917,Army,10,65,Baylor,20,41,False,Blaik Field at Michie Stadium
+2005,3,20050917,South Carolina,14,117,Alabama,37,107,False,Williams-Brice Stadium
+2005,3,20050917,Washington,34,105,Idaho,6,133,False,
+2005,3,20050917,Nebraska,7,34,Pittsburgh,6,22,False,Memorial Stadium
+2005,3,20050917,Penn State,40,37,Central Michigan,3,75,False,Beaver Stadium
+2005,3,20050917,Clemson,30,14,Miami (FL),36,19,False,Memorial Stadium
+2005,3,20050917,Virginia Tech,45,25,Ohio,0,80,False,Lane Stadium
+2005,3,20050917,Ohio St.,27,36,San Diego St.,6,90,False,Ohio Stadium
+2005,3,20050917,Notre Dame,41,70,Michigan St.,44,32,False,Notre Dame Stadium
+2005,3,20050917,UCLA,41,102,Oklahoma,24,45,False,Rose Bowl
+2005,3,20050917,Iowa,45,29,Northern Iowa,21,186,False,Kinnick Stadium
+2005,3,20050917,Kent State,10,77,Miami (OH),27,78,False,Dix Stadium
+2005,3,20050917,Northern Illinois,42,79,Tennessee Tech,3,208,False,Brigham Field at Huskie Stadium
+2005,3,20050917,Middle Tennessee,7,56,Akron,17,71,False,"Johnny Red"""" Floyd Stadium"""""
+2005,3,20050917,California,35,97,Illinois,20,27,False,California Memorial Stadium
+2005,3,20050917,NC State,54,20,Eastern Kentucky,10,203,False,Carter-Finley Stadium
+2005,3,20050917,Wake Forest,44,26,East Carolina,34,4,False,BB&T Field
+2005,3,20050917,Indiana,38,28,Kentucky,14,112,False,Memorial Stadium
+2005,3,20050917,Georgia Tech,28,17,Connecticut,13,3,False,Bobby Dodd Stadium at Historic Grant Field
+2005,3,20050917,Texas,51,48,Rice,10,59,False,Darrell K Royal-Texas Memorial Stadium
+2005,3,20050917,Texas Tech,80,49,Sam Houston State,21,244,False,Jones AT&T Stadium
+2005,3,20050917,Oregon,37,99,Fresno St.,34,86,False,Autzen Stadium
+2005,3,20050917,South Florida,31,9,Central Florida,14,1,False,Raymond James Stadium
+2005,3,20050917,UAB,35,61,Jacksonville State,28,204,False,Legion Field
+2005,3,20050917,North Texas,2,57,Tulsa,54,12,False,
+2005,3,20050917,North Carolina,5,21,Wisconsin,14,40,False,Kenan Memorial Stadium
+2005,3,20050917,Kansas,34,43,Louisiana Tech,14,54,False,Memorial Stadium
+2005,3,20050917,Southern Miss,48,60,McNeese State,20,241,False,M. M. Roberts Stadium
+2005,3,20050917,Washington St.,48,106,Grambling,7,251,False,
+2005,3,20050917,Cincinnati,7,2,Western Carolina,3,234,False,Nippert Stadium
+2005,3,20050917,Western Michigan,34,82,Southern Illinois,28,189,False,Waldo Stadium
+2005,3,20050917,Oklahoma St.,20,46,Arkansas St.,10,122,False,Boone Pickens Stadium
+2005,3,20050917,Boston College,17,13,Florida St.,28,16,False,Alumni Stadium
+2005,3,20050917,Florida,16,110,Tennessee,7,118,False,Ben Hill Griffin Stadium
+2005,3,20050917,Louisiana,49,126,Northwestern State,28,243,False,Cajun Field
+2005,3,20050917,New Mexico,38,89,New Mexico State,21,69,False,University Stadium
+2005,3,20050917,Memphis,59,6,Chattanooga,14,227,False,Liberty Bowl Memorial Stadium
+2005,3,20050917,Buffalo,3,74,Rutgers,17,39,False,UB Stadium
+2005,3,20050917,Tulane,14,11,Mississippi St.,21,114,False,
+2005,3,20050917,Minnesota,46,33,Florida Atlantic,7,52,False,
+2005,3,20050917,Stanford,17,101,UC Davis,20,142,False,Stanford Stadium
+2005,3,20050917,Nevada,22,88,UNLV,14,92,False,Mackay Stadium
+2005,3,20050917,Arizona,24,95,Purdue,31,38,False,Arizona Stadium
+2005,3,20050917,Arizona St.,52,96,Northwestern,21,35,False,Sun Devil Stadium
+2005,3,20050917,USC,70,103,Arkansas,17,108,False,Los Angeles Memorial Coliseum
+2005,4,20050921,Boise St.,48,84,Bowling Green,20,73,False,Albertsons Stadium
+2005,4,20050922,Utah,38,104,Air Force,35,83,False,Rice-Eccles Stadium
+2005,4,20050922,Florida Atlantic,21,52,UL Monroe,28,130,False,
+2005,4,20050922,Texas A&M,44,119,Texas St.,31,128,False,Kyle Field
+2005,4,20050923,Army,21,65,Iowa St.,28,42,False,Blaik Field at Michie Stadium
+2005,4,20050923,New Mexico State,13,69,California,41,97,False,Aggie Memorial Stadium
+2005,4,20050924,Ohio St.,31,36,Iowa,6,29,False,Ohio Stadium
+2005,4,20050924,Clemson,13,14,Boston College,16,13,False,Memorial Stadium
+2005,4,20050924,Minnesota,42,33,Purdue,35,38,False,
+2005,4,20050924,Miami (FL),23,19,Colorado,3,98,False,
+2005,4,20050924,Illinois,14,27,Michigan St.,61,32,False,Memorial Stadium
+2005,4,20050924,Northwestern,29,35,Penn State,34,37,False,Ryan Field
+2005,4,20050924,NC State,24,20,North Carolina,31,21,False,Carter-Finley Stadium
+2005,4,20050924,West Virginia,20,50,East Carolina,15,4,False,Mountaineer Field at Milan Puskar Stadium
+2005,4,20050924,Alabama,24,107,Arkansas,13,108,False,Bryant Denny Stadium
+2005,4,20050924,Central Michigan,20,75,Eastern Michigan,23,76,False,Kelly/Shorts Stadium
+2005,4,20050924,Temple,16,10,Western Michigan,19,82,False,Lincoln Financial Field
+2005,4,20050924,Ohio,35,80,Kent State,32,77,False,Peden Stadium
+2005,4,20050924,SMU,10,8,Tulane,31,11,False,Gerald J. Ford Stadium
+2005,4,20050924,Pittsburgh,41,22,Youngstown State,0,191,False,Heinz Field
+2005,4,20050924,Kansas St.,54,44,North Texas,7,57,False,Bill Snyder Family Football Stadium
+2005,4,20050924,Auburn,37,109,Western Kentucky,14,64,False,Jordan-Hare Stadium
+2005,4,20050924,BYU,50,66,TCU,51,47,False,LaVell Edwards Stadium
+2005,4,20050924,Virginia,38,24,Duke,7,15,False,Scott Stadium
+2005,4,20050924,Washington,17,105,Notre Dame,36,70,False,
+2005,4,20050924,Arkansas St.,66,122,Florida Intl,24,53,False,
+2005,4,20050924,Wake Forest,12,26,Maryland,22,30,False,BB&T Field
+2005,4,20050924,Virginia Tech,51,25,Georgia Tech,7,17,False,Lane Stadium
+2005,4,20050924,Kentucky,28,112,Florida,49,110,False,Kroger Field
+2005,4,20050924,Akron,48,71,Northern Illinois,42,79,False,
+2005,4,20050924,Colorado St.,42,85,Nevada,21,88,False,Sonny Lubick Field at Hughes Stadium
+2005,4,20050924,Wisconsin,23,40,Michigan,20,31,False,Camp Randall Stadium
+2005,4,20050924,Central Florida,23,1,Marshall,13,55,False,
+2005,4,20050924,South Florida,45,9,Louisville,14,18,False,Raymond James Stadium
+2005,4,20050924,Texas Tech,63,49,Indiana State,7,183,False,Jones AT&T Stadium
+2005,4,20050924,South Carolina,45,117,Troy,20,129,False,Williams-Brice Stadium
+2005,4,20050924,Tulsa,37,12,Memphis,31,6,False,
+2005,4,20050924,Vanderbilt,37,120,Richmond,13,159,False,Vanderbilt Stadium
+2005,4,20050924,Ole Miss,14,116,Wyoming,24,94,False,Vaught-Hemingway Stadium
+2005,4,20050924,Oregon,13,99,USC,45,103,False,Autzen Stadium
+2005,4,20050924,Mississippi St.,10,114,Georgia,23,111,False,Davis Wade Stadium
+2005,4,20050924,San Diego St.,52,90,San Jose St.,21,91,False,Qualcomm Stadium
+2005,4,20050924,Utah St.,31,93,UNLV,24,92,False,Romney Stadium
+2005,4,20050924,UTEP,21,62,New Mexico,13,89,False,Sun Bowl Stadium
+2005,4,20050924,Idaho,0,133,Hawaii,24,87,False,Kibbie Dome
+2005,4,20050924,Oregon St.,24,100,Arizona St.,42,96,False,Reser Stadium
+2005,4,20050926,LSU,27,113,Tennessee,30,118,False,Tiger Stadium
+2005,5,20050927,Fresno St.,44,86,Toledo,14,81,False,Bulldog Stadium
+2005,5,20050928,Miami (OH),44,78,Cincinnati,16,2,False,Yager Stadium
+2005,5,20050929,Colorado St.,41,85,Air Force,23,83,False,Sonny Lubick Field at Hughes Stadium
+2005,5,20050930,Rutgers,37,39,Pittsburgh,29,22,False,High Point Solutions Stadium
+2005,5,20051001,Missouri,20,115,Texas,51,48,False,Faurot Field
+2005,5,20051001,Michigan St.,31,32,Michigan,34,31,False,Spartan Stadium
+2005,5,20051001,West Virginia,17,50,Virginia Tech,34,25,False,Mountaineer Field at Milan Puskar Stadium
+2005,5,20051001,Louisville,61,18,Florida Atlantic,10,52,False,Papa John's Cardinal Stadium
+2005,5,20051001,Army,13,65,Connecticut,47,3,False,Blaik Field at Michie Stadium
+2005,5,20051001,Maryland,45,30,Virginia,33,24,False,Maryland Stadium
+2005,5,20051001,Wisconsin,41,40,Indiana,24,28,False,Camp Randall Stadium
+2005,5,20051001,Iowa,35,29,Illinois,7,27,False,Kinnick Stadium
+2005,5,20051001,Texas A&M,16,119,Baylor,13,41,False,Kyle Field
+2005,5,20051001,Tennessee,27,118,Ole Miss,10,116,False,Neyland Stadium
+2005,5,20051001,Boston College,38,13,Ball St.,0,72,False,Alumni Stadium
+2005,5,20051001,Duke,21,15,Navy,28,7,False,Wallace Wade Stadium
+2005,5,20051001,North Carolina,31,21,Utah,17,104,False,Kenan Memorial Stadium
+2005,5,20051001,Eastern Michigan,27,76,Kent State,20,77,False,Rynearson Stadium
+2005,5,20051001,Oklahoma St.,0,46,Colorado,34,98,False,Boone Pickens Stadium
+2005,5,20051001,Mississippi St.,7,114,LSU,37,113,False,Davis Wade Stadium
+2005,5,20051001,Wyoming,42,94,UNLV,17,92,False,
+2005,5,20051001,Wake Forest,31,26,Clemson,27,14,False,BB&T Field
+2005,5,20051001,Penn State,44,37,Minnesota,14,33,False,Beaver Stadium
+2005,5,20051001,Nebraska,27,34,Iowa St.,20,42,False,Memorial Stadium
+2005,5,20051001,Tulane,28,11,Southeastern Louisiana,21,245,False,Tiger Stadium
+2005,5,20051001,Florida St.,38,16,Syracuse,14,23,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,5,20051001,Arizona St.,28,96,USC,38,103,False,Sun Devil Stadium
+2005,5,20051001,Alabama,31,107,Florida,3,110,False,Bryant Denny Stadium
+2005,5,20051001,Marshall,16,55,SMU,13,8,False,Joan C. Edwards Stadium
+2005,5,20051001,Oregon St.,44,100,Washington St.,33,106,False,Reser Stadium
+2005,5,20051001,Bowling Green,69,73,Temple,7,10,False,Doyt Perry Stadium
+2005,5,20051001,Idaho,27,133,Utah St.,13,93,False,Kibbie Dome
+2005,5,20051001,Stanford,20,101,Oregon,44,99,False,Stanford Stadium
+2005,5,20051001,Akron,17,71,Central Michigan,31,75,False,
+2005,5,20051001,Florida Intl,23,53,Florida A&M,6,175,False,FIU Stadium
+2005,5,20051001,East Carolina,7,4,Southern Miss,33,60,False,Dowdy-Ficklen Stadium
+2005,5,20051001,Oklahoma,43,45,Kansas St.,21,44,False,Gaylord Family Oklahoma Memorial Stadium
+2005,5,20051001,California,28,97,Arizona,0,95,False,California Memorial Stadium
+2005,5,20051001,Texas Tech,30,49,Kansas,17,43,False,Jones AT&T Stadium
+2005,5,20051001,Tulsa,23,12,Houston,30,5,False,
+2005,5,20051001,Louisiana Tech,34,54,New Mexico State,14,69,False,Joe Aillet Stadium
+2005,5,20051001,Western Michigan,31,82,Buffalo,21,74,False,Waldo Stadium
+2005,5,20051001,TCU,49,47,New Mexico,28,89,False,Amon G. Carter Stadium
+2005,5,20051001,UL Monroe,31,130,Arkansas St.,27,122,False,Malone Stadium
+2005,5,20051001,San Jose St.,23,91,Nevada,30,88,False,Spartan Stadium
+2005,5,20051001,Auburn,48,109,South Carolina,7,117,False,Jordan-Hare Stadium
+2005,5,20051001,UAB,45,61,Rice,26,59,False,Legion Field
+2005,5,20051001,Vanderbilt,15,120,Middle Tennessee,17,56,False,Vanderbilt Stadium
+2005,5,20051001,Purdue,28,38,Notre Dame,49,70,False,Ross-Ade Stadium
+2005,5,20051001,Louisiana,21,126,Central Florida,24,1,False,Cajun Field
+2005,5,20051001,Memphis,27,6,UTEP,20,62,False,Liberty Bowl Memorial Stadium
+2005,5,20051001,Miami (FL),27,19,South Florida,7,9,False,
+2005,5,20051001,San Diego St.,31,90,BYU,10,66,False,Qualcomm Stadium
+2005,5,20051001,UCLA,21,102,Washington,17,105,False,Rose Bowl
+2005,5,20051002,Hawaii,41,87,Boise St.,44,84,False,Aloha Stadium
+2005,6,20051004,North Texas,10,57,Troy,13,129,False,
+2005,6,20051005,Northern Illinois,38,79,Miami (OH),27,78,False,Brigham Field at Huskie Stadium
+2005,6,20051006,Georgia Tech,14,17,NC State,17,20,False,Bobby Dodd Stadium at Historic Grant Field
+2005,6,20051006,Louisiana,10,126,Florida Atlantic,28,52,False,Cajun Field
+2005,6,20051007,Connecticut,26,3,Syracuse,7,23,False,Rentschler Field
+2005,6,20051008,Northwestern,51,35,Wisconsin,48,40,False,Ryan Field
+2005,6,20051008,Virginia Tech,41,25,Marshall,14,55,False,Lane Stadium
+2005,6,20051008,Florida St.,41,16,Wake Forest,24,26,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,6,20051008,Kansas St.,12,44,Kansas,3,43,False,Bill Snyder Family Football Stadium
+2005,6,20051008,Rutgers,14,39,West Virginia,27,50,False,High Point Solutions Stadium
+2005,6,20051008,Indiana,36,28,Illinois,13,27,False,Memorial Stadium
+2005,6,20051008,Florida,35,110,Mississippi St.,9,114,False,Ben Hill Griffin Stadium
+2005,6,20051008,Boston College,28,13,Virginia,17,24,False,Alumni Stadium
+2005,6,20051008,Texas,45,48,Oklahoma,12,45,False,
+2005,6,20051008,Michigan,20,31,Minnesota,23,33,False,Michigan Stadium
+2005,6,20051008,Temple,7,10,Maryland,38,30,False,Lincoln Financial Field
+2005,6,20051008,South Carolina,44,117,Kentucky,16,112,False,Williams-Brice Stadium
+2005,6,20051008,Army,10,65,Central Michigan,14,75,False,Blaik Field at Michie Stadium
+2005,6,20051008,Buffalo,7,74,Akron,13,71,False,UB Stadium
+2005,6,20051008,Navy,27,7,Air Force,24,83,False,Navy-Marine Corps Memorial Stadium
+2005,6,20051008,Oklahoma St.,31,46,Missouri,38,115,False,Boone Pickens Stadium
+2005,6,20051008,Iowa St.,13,42,Baylor,23,41,False,Jack Trice Stadium
+2005,6,20051008,Ole Miss,27,116,Citadel,7,228,False,Vaught-Hemingway Stadium
+2005,6,20051008,Pittsburgh,38,22,Cincinnati,20,2,False,Heinz Field
+2005,6,20051008,UNLV,13,92,San Diego St.,10,90,False,Sam Boyd Stadium
+2005,6,20051008,Wyoming,14,94,TCU,28,47,False,
+2005,6,20051008,Utah St.,24,93,San Jose St.,17,91,False,Romney Stadium
+2005,6,20051008,Miami (FL),52,19,Duke,7,15,False,
+2005,6,20051008,Tennessee,14,118,Georgia,27,111,False,Neyland Stadium
+2005,6,20051008,USC,42,103,Arizona,21,95,False,Los Angeles Memorial Coliseum
+2005,6,20051008,Nebraska,31,34,Texas Tech,34,49,False,Memorial Stadium
+2005,6,20051008,Nevada,62,88,Idaho,14,133,False,Mackay Stadium
+2005,6,20051008,Purdue,17,38,Iowa,34,29,False,Ross-Ade Stadium
+2005,6,20051008,Louisville,69,18,North Carolina,14,21,False,Papa John's Cardinal Stadium
+2005,6,20051008,Washington St.,21,106,Stanford,24,101,False,Martin Stadium
+2005,6,20051008,Bowling Green,38,73,Ohio,14,80,False,Doyt Perry Stadium
+2005,6,20051008,East Carolina,41,4,Rice,28,59,False,Dowdy-Ficklen Stadium
+2005,6,20051008,Central Florida,38,1,Memphis,17,6,False,
+2005,6,20051008,Tulane,14,11,Houston,35,5,False,Cajun Field
+2005,6,20051008,Colorado St.,21,85,Utah,17,104,False,Sonny Lubick Field at Hughes Stadium
+2005,6,20051008,Louisiana Tech,46,54,Hawaii,14,87,False,Joe Aillet Stadium
+2005,6,20051008,Vanderbilt,6,120,LSU,34,113,False,Vanderbilt Stadium
+2005,6,20051008,Colorado,41,98,Texas A&M,20,119,False,Folsom Field
+2005,6,20051008,UAB,27,61,SMU,28,8,False,Legion Field
+2005,6,20051008,Arkansas,44,108,UL Monroe,15,130,False,
+2005,6,20051008,Western Michigan,57,82,Ball St.,60,72,False,Waldo Stadium
+2005,6,20051008,Toledo,30,81,Eastern Michigan,3,76,False,Glass Bowl
+2005,6,20051008,UCLA,47,102,California,40,97,False,Rose Bowl
+2005,6,20051008,Penn State,17,37,Ohio St.,10,36,False,Beaver Stadium
+2005,6,20051008,New Mexico,24,89,BYU,27,66,False,University Stadium
+2005,6,20051008,Southern Miss,17,60,Tulsa,34,12,False,M. M. Roberts Stadium
+2005,6,20051008,Boise St.,21,84,Portland State,14,139,False,Albertsons Stadium
+2005,6,20051008,New Mexico State,7,69,Fresno St.,37,86,False,Aggie Memorial Stadium
+2005,6,20051008,Arizona St.,17,96,Oregon,31,99,False,Sun Devil Stadium
+2005,7,20051013,NC State,10,20,Clemson,31,14,False,Carter-Finley Stadium
+2005,7,20051013,Arkansas St.,39,122,Louisiana,36,126,False,
+2005,7,20051014,Tulane,21,11,UTEP,45,62,False,Joe Aillet Stadium
+2005,7,20051015,Boston College,35,13,Wake Forest,30,26,False,Alumni Stadium
+2005,7,20051015,Ohio St.,35,36,Michigan St.,24,32,False,Ohio Stadium
+2005,7,20051015,Air Force,42,83,UNLV,7,92,False,Falcon Stadium
+2005,7,20051015,Syracuse,9,23,Rutgers,31,39,False,Carrier Dome
+2005,7,20051015,Minnesota,34,33,Wisconsin,38,40,False,
+2005,7,20051015,Texas Tech,59,49,Kansas St.,20,44,False,Jones AT&T Stadium
+2005,7,20051015,Ole Miss,10,116,Alabama,13,107,False,Vaught-Hemingway Stadium
+2005,7,20051015,Iowa,38,29,Indiana,21,28,False,Kinnick Stadium
+2005,7,20051015,Central Michigan,37,75,Ohio,10,80,False,Kelly/Shorts Stadium
+2005,7,20051015,Purdue,29,38,Northwestern,34,35,False,Ross-Ade Stadium
+2005,7,20051015,Temple,3,10,Miami (FL),34,19,False,Lincoln Financial Field
+2005,7,20051015,Buffalo,7,74,Bowling Green,27,73,False,UB Stadium
+2005,7,20051015,Navy,34,7,Kent State,31,77,False,Navy-Marine Corps Memorial Stadium
+2005,7,20051015,Pittsburgh,31,22,South Florida,17,9,False,Heinz Field
+2005,7,20051015,Miami (OH),51,78,Akron,23,71,False,Yager Stadium
+2005,7,20051015,Missouri,27,115,Iowa St.,24,42,False,Faurot Field
+2005,7,20051015,Ball St.,14,72,Toledo,34,81,False,Scheumann Stadium
+2005,7,20051015,Wyoming,24,94,New Mexico,27,89,False,
+2005,7,20051015,SMU,17,8,East Carolina,24,4,False,Gerald J. Ford Stadium
+2005,7,20051015,Michigan,27,31,Penn State,25,37,False,Michigan Stadium
+2005,7,20051015,UL Monroe,27,130,Troy,3,129,False,Malone Stadium
+2005,7,20051015,Oregon,45,99,Washington,21,105,False,Autzen Stadium
+2005,7,20051015,Texas,42,48,Colorado,17,98,False,Darrell K Royal-Texas Memorial Stadium
+2005,7,20051015,California,20,97,Oregon St.,23,100,False,California Memorial Stadium
+2005,7,20051015,Notre Dame,31,70,USC,34,103,False,Notre Dame Stadium
+2005,7,20051015,Duke,10,15,Georgia Tech,35,17,False,Wallace Wade Stadium
+2005,7,20051015,West Virginia,46,50,Louisville,44,18,False,Mountaineer Field at Milan Puskar Stadium
+2005,7,20051015,Texas A&M,62,119,Oklahoma St.,23,46,False,Kyle Field
+2005,7,20051015,LSU,21,113,Florida,17,110,False,Tiger Stadium
+2005,7,20051015,Cincinnati,28,2,Connecticut,17,3,False,Nippert Stadium
+2005,7,20051015,Rice,21,59,Tulsa,41,12,False,Rice Stadium
+2005,7,20051015,Florida Atlantic,14,52,Middle Tennessee,35,56,False,
+2005,7,20051015,Northern Illinois,24,79,Eastern Michigan,8,76,False,Brigham Field at Huskie Stadium
+2005,7,20051015,Nevada,37,88,Louisiana Tech,27,54,False,Mackay Stadium
+2005,7,20051015,Marshall,20,55,UAB,19,61,False,Joan C. Edwards Stadium
+2005,7,20051015,Houston,20,5,Memphis,35,6,False,Robertson Stadium
+2005,7,20051015,Florida Intl,10,53,North Texas,13,57,False,FIU Stadium
+2005,7,20051015,Washington St.,41,106,UCLA,44,102,False,Martin Stadium
+2005,7,20051015,TCU,38,47,Army,17,65,False,Amon G. Carter Stadium
+2005,7,20051015,Arkansas,17,108,Auburn,34,109,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2005,7,20051015,Utah,19,104,San Diego St.,28,90,False,Rice-Eccles Stadium
+2005,7,20051015,Baylor,14,41,Nebraska,23,34,False,Floyd Casey Stadium
+2005,7,20051015,Arizona,16,95,Stanford,20,101,False,Arizona Stadium
+2005,7,20051015,Kansas,3,43,Oklahoma,19,45,False,
+2005,7,20051015,Southern Miss,52,60,Central Florida,31,1,False,M. M. Roberts Stadium
+2005,7,20051015,Vanderbilt,17,120,Georgia,34,111,False,Vanderbilt Stadium
+2005,7,20051015,Virginia,26,24,Florida St.,21,16,False,Scott Stadium
+2005,7,20051015,Boise St.,38,84,San Jose St.,21,91,False,Albertsons Stadium
+2005,7,20051015,BYU,24,66,Colorado St.,14,85,False,LaVell Edwards Stadium
+2005,7,20051015,Fresno St.,53,86,Utah St.,21,93,False,Bulldog Stadium
+2005,7,20051016,Hawaii,49,87,New Mexico State,28,69,False,Aloha Stadium
+2005,8,20051020,Troy,18,129,Florida Intl,13,53,False,Veterans Memorial Stadium
+2005,8,20051020,Maryland,9,30,Virginia Tech,28,25,False,Maryland Stadium
+2005,8,20051021,Central Florida,34,1,Tulane,24,11,False,
+2005,8,20051021,UAB,28,61,Southern Miss,37,60,False,Legion Field
+2005,8,20051022,Michigan St.,14,32,Northwestern,49,35,False,Spartan Stadium
+2005,8,20051022,Cincinnati,22,2,Louisville,46,18,False,Nippert Stadium
+2005,8,20051022,Pittsburgh,34,22,Syracuse,17,23,False,Heinz Field
+2005,8,20051022,North Carolina,7,21,Virginia,5,24,False,Kenan Memorial Stadium
+2005,8,20051022,Iowa,20,29,Michigan,23,31,False,Kinnick Stadium
+2005,8,20051022,Indiana,10,28,Ohio St.,41,36,False,Memorial Stadium
+2005,8,20051022,Georgia,23,111,Arkansas,20,108,False,Sanford Stadium
+2005,8,20051022,Clemson,37,14,Temple,7,10,False,Memorial Stadium
+2005,8,20051022,Missouri,41,115,Nebraska,24,34,False,Faurot Field
+2005,8,20051022,Kent State,3,77,Northern Illinois,34,79,False,Dix Stadium
+2005,8,20051022,Ohio,38,80,Ball St.,21,72,False,Peden Stadium
+2005,8,20051022,Iowa St.,37,42,Oklahoma St.,10,46,False,Jack Trice Stadium
+2005,8,20051022,Ole Miss,13,116,Kentucky,7,112,False,Vaught-Hemingway Stadium
+2005,8,20051022,Kansas St.,28,44,Texas A&M,30,119,False,Bill Snyder Family Football Stadium
+2005,8,20051022,Notre Dame,49,70,BYU,23,66,False,Notre Dame Stadium
+2005,8,20051022,Mississippi St.,16,114,Houston,28,5,False,Davis Wade Stadium
+2005,8,20051022,Air Force,10,83,TCU,48,47,False,Falcon Stadium
+2005,8,20051022,Colorado St.,39,85,Wyoming,31,94,False,Sonny Lubick Field at Hughes Stadium
+2005,8,20051022,Connecticut,24,3,Rutgers,26,39,False,Rentschler Field
+2005,8,20051022,Tulsa,20,12,SMU,13,8,False,
+2005,8,20051022,Wisconsin,31,40,Purdue,20,38,False,Camp Randall Stadium
+2005,8,20051022,Washington,24,105,USC,51,103,False,
+2005,8,20051022,Texas,52,48,Texas Tech,17,49,False,Darrell K Royal-Texas Memorial Stadium
+2005,8,20051022,Alabama,6,107,Tennessee,3,118,False,Bryant Denny Stadium
+2005,8,20051022,Duke,24,15,Florida St.,55,16,False,Wallace Wade Stadium
+2005,8,20051022,South Carolina,35,117,Vanderbilt,28,120,False,Williams-Brice Stadium
+2005,8,20051022,Wake Forest,27,26,NC State,19,20,False,BB&T Field
+2005,8,20051022,Memphis,27,6,East Carolina,24,4,False,Liberty Bowl Memorial Stadium
+2005,8,20051022,Louisiana Tech,40,54,North Texas,14,57,False,Joe Aillet Stadium
+2005,8,20051022,Bowling Green,14,73,Western Michigan,45,82,False,Doyt Perry Stadium
+2005,8,20051022,Stanford,45,101,Arizona St.,35,96,False,Stanford Stadium
+2005,8,20051022,Idaho,10,133,Fresno St.,40,86,False,Kibbie Dome
+2005,8,20051022,Middle Tennessee,10,56,Louisiana,13,126,False,"Johnny Red"""" Floyd Stadium"""""
+2005,8,20051022,San Jose St.,38,91,Hawaii,45,87,False,Spartan Stadium
+2005,8,20051022,Rice,9,59,Navy,41,7,False,Rice Stadium
+2005,8,20051022,Akron,0,71,Army,20,65,False,
+2005,8,20051022,Eastern Michigan,23,76,Miami (OH),24,78,False,Rynearson Stadium
+2005,8,20051022,Utah St.,21,93,Boise St.,45,84,False,Romney Stadium
+2005,8,20051022,Colorado,44,98,Kansas,13,43,False,Folsom Field
+2005,8,20051022,Oklahoma,37,45,Baylor,30,41,False,Gaylord Family Oklahoma Memorial Stadium
+2005,8,20051022,Arkansas St.,3,122,Florida Atlantic,0,52,False,
+2005,8,20051022,UNLV,32,92,Utah,42,104,False,Sam Boyd Stadium
+2005,8,20051022,Toledo,38,81,Buffalo,15,74,False,Glass Bowl
+2005,8,20051022,Arizona,21,95,Oregon,28,99,False,Arizona Stadium
+2005,8,20051022,Illinois,10,27,Penn State,63,37,False,Memorial Stadium
+2005,8,20051022,UCLA,51,102,Oregon St.,28,100,False,Rose Bowl
+2005,8,20051022,LSU,20,113,Auburn,17,109,False,Tiger Stadium
+2005,8,20051022,UTEP,31,62,Marshall,3,55,False,Sun Bowl Stadium
+2005,8,20051022,San Diego St.,24,90,New Mexico,47,89,False,Qualcomm Stadium
+2005,8,20051022,California,42,97,Washington St.,38,106,False,California Memorial Stadium
+2005,9,20051027,Virginia Tech,30,25,Boston College,10,13,False,Lane Stadium
+2005,9,20051028,New Mexico,25,89,Colorado St.,35,85,False,University Stadium
+2005,9,20051029,Nebraska,24,34,Oklahoma,31,45,False,Memorial Stadium
+2005,9,20051029,Michigan St.,46,32,Indiana,15,28,False,Spartan Stadium
+2005,9,20051029,Miami (FL),34,19,North Carolina,16,21,False,
+2005,9,20051029,Minnesota,31,33,Ohio St.,45,36,False,
+2005,9,20051029,Illinois,24,27,Wisconsin,41,40,False,Memorial Stadium
+2005,9,20051029,Syracuse,16,23,Cincinnati,22,2,False,Carrier Dome
+2005,9,20051029,NC State,21,20,Southern Miss,17,60,False,Carter-Finley Stadium
+2005,9,20051029,Duke,6,15,Wake Forest,44,26,False,Wallace Wade Stadium
+2005,9,20051029,Baylor,0,41,Texas Tech,28,49,False,Floyd Casey Stadium
+2005,9,20051029,Auburn,27,109,Ole Miss,3,116,False,Jordan-Hare Stadium
+2005,9,20051029,Temple,14,10,Miami (OH),41,78,False,Lincoln Financial Field
+2005,9,20051029,Central Michigan,21,75,Toledo,17,81,False,Kelly/Shorts Stadium
+2005,9,20051029,Kansas,13,43,Missouri,3,115,False,Memorial Stadium
+2005,9,20051029,Buffalo,20,74,Ohio,34,80,False,UB Stadium
+2005,9,20051029,East Carolina,20,4,Central Florida,30,1,False,Dowdy-Ficklen Stadium
+2005,9,20051029,Western Michigan,44,82,Kent State,14,77,False,Waldo Stadium
+2005,9,20051029,Kansas St.,20,44,Colorado,23,98,False,Bill Snyder Family Football Stadium
+2005,9,20051029,Alabama,35,107,Utah St.,3,93,False,Bryant Denny Stadium
+2005,9,20051029,BYU,62,66,Air Force,41,83,False,LaVell Edwards Stadium
+2005,9,20051029,Boise St.,49,84,Nevada,14,88,False,Albertsons Stadium
+2005,9,20051029,USC,55,103,Washington St.,13,106,False,Los Angeles Memorial Coliseum
+2005,9,20051029,Florida,14,110,Georgia,10,111,False,
+2005,9,20051029,Florida St.,35,16,Maryland,27,30,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,9,20051029,Penn State,33,37,Purdue,15,38,False,Beaver Stadium
+2005,9,20051029,Georgia Tech,10,17,Clemson,9,14,False,Bobby Dodd Stadium at Historic Grant Field
+2005,9,20051029,Texas A&M,14,119,Iowa St.,42,42,False,Kyle Field
+2005,9,20051029,Rutgers,31,39,Navy,21,7,False,High Point Solutions Stadium
+2005,9,20051029,Bowling Green,14,73,Akron,24,71,False,Doyt Perry Stadium
+2005,9,20051029,Oregon St.,27,100,Arizona,29,95,False,Reser Stadium
+2005,9,20051029,Northern Illinois,17,79,Ball St.,31,72,False,Brigham Field at Huskie Stadium
+2005,9,20051029,Louisiana,31,126,Troy,28,129,False,Cajun Field
+2005,9,20051029,Rice,31,59,UTEP,38,62,False,Rice Stadium
+2005,9,20051029,Arizona St.,44,96,Washington,20,105,False,Sun Devil Stadium
+2005,9,20051029,Stanford,27,101,UCLA,30,102,False,Stanford Stadium
+2005,9,20051029,Northwestern,17,35,Michigan,33,31,False,Ryan Field
+2005,9,20051029,Oklahoma St.,28,46,Texas,47,48,False,Boone Pickens Stadium
+2005,9,20051029,Kentucky,13,112,Mississippi St.,7,114,False,Kroger Field
+2005,9,20051029,Louisiana Tech,31,54,San Jose St.,14,91,False,Joe Aillet Stadium
+2005,9,20051029,Tulane,26,11,Marshall,27,55,False,Joe Aillet Stadium
+2005,9,20051029,Hawaii,13,87,Fresno St.,27,86,False,Aloha Stadium
+2005,9,20051029,Tennessee,15,118,South Carolina,16,117,False,Neyland Stadium
+2005,9,20051029,San Diego St.,20,90,TCU,23,47,False,Qualcomm Stadium
+2005,9,20051029,LSU,56,113,North Texas,3,57,False,Tiger Stadium
+2005,9,20051029,New Mexico State,37,69,Idaho,38,133,False,Aggie Memorial Stadium
+2005,10,20051101,Memphis,20,6,UAB,37,61,False,Liberty Bowl Memorial Stadium
+2005,10,20051102,West Virginia,45,50,Connecticut,13,3,False,Mountaineer Field at Milan Puskar Stadium
+2005,10,20051103,Louisville,42,18,Pittsburgh,20,22,False,Papa John's Cardinal Stadium
+2005,10,20051104,Ohio,21,80,Toledo,30,81,False,Peden Stadium
+2005,10,20051105,Northwestern,28,35,Iowa,27,29,False,Ryan Field
+2005,10,20051105,Indiana,21,28,Minnesota,42,33,False,Memorial Stadium
+2005,10,20051105,North Carolina,16,21,Boston College,14,13,False,Kenan Memorial Stadium
+2005,10,20051105,Rutgers,31,39,South Florida,45,9,False,High Point Solutions Stadium
+2005,10,20051105,Purdue,28,38,Michigan St.,21,32,False,Ross-Ade Stadium
+2005,10,20051105,Baylor,0,41,Texas,62,48,False,Floyd Casey Stadium
+2005,10,20051105,Arkansas,10,108,South Carolina,14,117,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2005,10,20051105,Kentucky,27,112,Auburn,49,109,False,Kroger Field
+2005,10,20051105,Central Michigan,28,75,Northern Illinois,31,79,False,Kelly/Shorts Stadium
+2005,10,20051105,Clemson,49,14,Duke,20,15,False,Memorial Stadium
+2005,10,20051105,Kansas,40,43,Nebraska,15,34,False,Memorial Stadium
+2005,10,20051105,Eastern Michigan,36,76,Western Michigan,44,82,False,
+2005,10,20051105,Navy,49,7,Tulane,21,11,False,Navy-Marine Corps Memorial Stadium
+2005,10,20051105,Georgia Tech,30,17,Wake Forest,17,26,False,Bobby Dodd Stadium at Historic Grant Field
+2005,10,20051105,Ball St.,23,72,Akron,17,71,False,Scheumann Stadium
+2005,10,20051105,Iowa St.,45,42,Kansas St.,17,44,False,Jack Trice Stadium
+2005,10,20051105,Kent State,14,77,Bowling Green,24,73,False,Dix Stadium
+2005,10,20051105,Miami (OH),54,78,Buffalo,13,74,False,Yager Stadium
+2005,10,20051105,Notre Dame,41,70,Tennessee,21,118,False,Notre Dame Stadium
+2005,10,20051105,UNLV,14,92,BYU,55,66,False,Sam Boyd Stadium
+2005,10,20051105,Utah,43,104,Wyoming,13,94,False,Rice-Eccles Stadium
+2005,10,20051105,SMU,27,8,Rice,7,59,False,Gerald J. Ford Stadium
+2005,10,20051105,Utah St.,17,93,Louisiana Tech,27,54,False,Romney Stadium
+2005,10,20051105,Boise St.,56,84,New Mexico State,6,69,False,Albertsons Stadium
+2005,10,20051105,Air Force,24,83,Army,27,65,False,Falcon Stadium
+2005,10,20051105,Virginia,51,24,Temple,3,10,False,Scott Stadium
+2005,10,20051105,Troy,28,129,Florida Atlantic,14,52,False,Veterans Memorial Stadium
+2005,10,20051105,Mississippi St.,0,114,Alabama,17,107,False,Davis Wade Stadium
+2005,10,20051105,Oregon,27,99,California,20,97,False,Autzen Stadium
+2005,10,20051105,Ohio St.,40,36,Illinois,2,27,False,Ohio Stadium
+2005,10,20051105,Penn State,35,37,Wisconsin,14,40,False,Beaver Stadium
+2005,10,20051105,Florida St.,15,16,NC State,20,20,False,Bobby Bowden Field at Doak Campbell Stadium
+2005,10,20051105,Colorado,41,98,Missouri,12,115,False,Folsom Field
+2005,10,20051105,UL Monroe,29,130,Florida Intl,31,53,False,Malone Stadium
+2005,10,20051105,Nevada,38,88,Hawaii,28,87,False,Mackay Stadium
+2005,10,20051105,Middle Tennessee,45,56,Arkansas St.,7,122,False,"Johnny Red"""" Floyd Stadium"""""
+2005,10,20051105,Washington St.,24,106,Arizona St.,27,96,False,Martin Stadium
+2005,10,20051105,Central Florida,31,1,Houston,29,5,False,
+2005,10,20051105,Arizona,52,95,UCLA,14,102,False,Arizona Stadium
+2005,10,20051105,Washington,10,105,Oregon St.,18,100,False,
+2005,10,20051105,North Texas,28,57,Louisiana,31,126,False,
+2005,10,20051105,TCU,33,47,Colorado St.,6,85,False,Amon G. Carter Stadium
+2005,10,20051105,Texas Tech,56,49,Texas A&M,17,119,False,Jones AT&T Stadium
+2005,10,20051105,Florida,49,110,Vanderbilt,42,120,False,Ben Hill Griffin Stadium
+2005,10,20051105,Virginia Tech,7,25,Miami (FL),27,19,False,Lane Stadium
+2005,10,20051105,LSU,24,113,Appalachian St.,0,121,False,Tiger Stadium
+2005,10,20051105,Fresno St.,45,86,San Jose St.,7,91,False,Bulldog Stadium
+2005,10,20051105,UTEP,41,62,Tulsa,38,12,False,Sun Bowl Stadium
+2005,10,20051105,USC,51,103,Stanford,21,101,False,Los Angeles Memorial Coliseum
+2005,11,20051108,Marshall,24,55,Southern Miss,27,60,False,Joan C. Edwards Stadium
+2005,11,20051109,Cincinnati,0,2,West Virginia,38,50,False,Nippert Stadium
+2005,11,20051110,Fresno St.,27,86,Boise St.,7,84,False,Bulldog Stadium
+2005,11,20051111,Louisville,56,18,Rutgers,5,39,False,Papa John's Cardinal Stadium
+2005,11,20051112,Pittsburgh,24,22,Connecticut,0,3,False,Heinz Field
+2005,11,20051112,Clemson,35,14,Florida St.,14,16,False,Memorial Stadium
+2005,11,20051112,Michigan,41,31,Indiana,14,28,False,Michigan Stadium
+2005,11,20051112,Minnesota,41,33,Michigan St.,18,32,False,
+2005,11,20051112,North Carolina,30,21,Maryland,33,30,False,Kenan Memorial Stadium
+2005,11,20051112,Oklahoma,36,45,Texas A&M,30,119,False,Gaylord Family Oklahoma Memorial Stadium
+2005,11,20051112,Army,34,65,Massachusetts,27,68,False,Blaik Field at Michie Stadium
+2005,11,20051112,Purdue,37,38,Illinois,3,27,False,Ross-Ade Stadium
+2005,11,20051112,Ohio St.,48,36,Northwestern,7,35,False,Ohio Stadium
+2005,11,20051112,South Carolina,30,117,Florida,22,110,False,Williams-Brice Stadium
+2005,11,20051112,Notre Dame,42,70,Navy,21,7,False,Notre Dame Stadium
+2005,11,20051112,Florida Atlantic,26,52,North Texas,23,57,False,Hard Rock Stadium
+2005,11,20051112,Kent State,6,77,Buffalo,10,74,False,Dix Stadium
+2005,11,20051112,Syracuse,0,23,South Florida,27,9,False,Carrier Dome
+2005,11,20051112,Nebraska,27,34,Kansas St.,25,44,False,Memorial Stadium
+2005,11,20051112,Tennessee,20,118,Memphis,16,6,False,Neyland Stadium
+2005,11,20051112,Missouri,31,115,Baylor,16,41,False,Faurot Field
+2005,11,20051112,Vanderbilt,43,120,Kentucky,48,112,False,Vanderbilt Stadium
+2005,11,20051112,Oklahoma St.,24,46,Texas Tech,17,49,False,Boone Pickens Stadium
+2005,11,20051112,Ole Miss,17,116,Arkansas,28,108,False,Vaught-Hemingway Stadium
+2005,11,20051112,Western Michigan,31,82,Central Michigan,24,75,False,Waldo Stadium
+2005,11,20051112,Rice,42,59,Tulane,34,11,False,Rice Stadium
+2005,11,20051112,Tulsa,45,12,East Carolina,13,4,False,
+2005,11,20051112,Colorado St.,10,85,San Diego St.,30,90,False,Sonny Lubick Field at Hughes Stadium
+2005,11,20051112,Middle Tennessee,31,56,UL Monroe,34,130,False,"Johnny Red"""" Floyd Stadium"""""
+2005,11,20051112,Wake Forest,17,26,Miami (FL),47,19,False,BB&T Field
+2005,11,20051112,Wisconsin,10,40,Iowa,20,29,False,Camp Randall Stadium
+2005,11,20051112,Virginia,27,24,Georgia Tech,17,17,False,Scott Stadium
+2005,11,20051112,California,10,97,USC,35,103,False,California Memorial Stadium
+2005,11,20051112,Texas,66,48,Kansas,14,43,False,Darrell K Royal-Texas Memorial Stadium
+2005,11,20051112,Alabama,13,107,LSU,16,113,False,Bryant Denny Stadium
+2005,11,20051112,New Mexico State,24,69,Nevada,48,88,False,Aggie Memorial Stadium
+2005,11,20051112,UAB,21,61,Central Florida,27,1,False,Legion Field
+2005,11,20051112,Idaho,38,133,Louisiana Tech,41,54,False,Kibbie Dome
+2005,11,20051112,Arizona,14,95,Washington,38,105,False,Arizona Stadium
+2005,11,20051112,Wyoming,21,94,BYU,35,66,False,
+2005,11,20051112,Eastern Michigan,25,76,Ball St.,26,72,False,Rynearson Stadium
+2005,11,20051112,Utah,27,104,New Mexico,31,89,False,Rice-Eccles Stadium
+2005,11,20051112,Oregon St.,17,100,Stanford,20,101,False,Reser Stadium
+2005,11,20051112,Louisiana,28,126,Florida Intl,7,53,False,Cajun Field
+2005,11,20051112,Arkansas St.,9,122,Troy,3,129,False,
+2005,11,20051112,TCU,51,47,UNLV,3,92,False,Amon G. Carter Stadium
+2005,11,20051112,UCLA,45,102,Arizona St.,35,96,False,Rose Bowl
+2005,11,20051112,Iowa St.,30,42,Colorado,16,98,False,Jack Trice Stadium
+2005,11,20051112,Boston College,30,13,NC State,10,20,False,Alumni Stadium
+2005,11,20051112,Georgia,30,111,Auburn,31,109,False,Sanford Stadium
+2005,11,20051112,UTEP,45,62,Texas Southern,0,256,False,Sun Bowl Stadium
+2005,11,20051112,Washington St.,31,106,Oregon,34,99,False,Martin Stadium
+2005,11,20051112,Hawaii,50,87,Utah St.,23,93,False,Aloha Stadium
+2005,11,20051113,Houston,27,5,Southern Miss,24,60,False,Robertson Stadium
+2005,12,20051115,Miami (OH),14,78,Bowling Green,42,73,False,Yager Stadium
+2005,12,20051115,Akron,27,71,Ohio,3,80,False,
+2005,12,20051116,Toledo,17,81,Northern Illinois,35,79,False,Glass Bowl
+2005,12,20051119,South Florida,31,9,Cincinnati,16,2,False,Raymond James Stadium
+2005,12,20051119,Virginia,14,24,Virginia Tech,52,25,False,Scott Stadium
+2005,12,20051119,Texas Tech,23,49,Oklahoma,21,45,False,Jones AT&T Stadium
+2005,12,20051119,Maryland,16,30,Boston College,31,13,False,Maryland Stadium
+2005,12,20051119,Army,38,65,Arkansas St.,10,122,False,Blaik Field at Michie Stadium
+2005,12,20051119,Illinois,21,27,Northwestern,38,35,False,Memorial Stadium
+2005,12,20051119,Ball St.,24,72,Central Michigan,31,75,False,Scheumann Stadium
+2005,12,20051119,Iowa,52,29,Minnesota,28,33,False,Kinnick Stadium
+2005,12,20051119,Georgia,45,111,Kentucky,13,112,False,Sanford Stadium
+2005,12,20051119,Tennessee,24,118,Vanderbilt,28,120,False,Neyland Stadium
+2005,12,20051119,Indiana,14,28,Purdue,41,38,False,Memorial Stadium
+2005,12,20051119,Michigan,21,31,Ohio St.,25,36,False,Michigan Stadium
+2005,12,20051119,North Carolina,24,21,Duke,21,15,False,Kenan Memorial Stadium
+2005,12,20051119,NC State,24,20,Middle Tennessee,3,56,False,Carter-Finley Stadium
+2005,12,20051119,Buffalo,14,74,Eastern Michigan,38,76,False,UB Stadium
+2005,12,20051119,Navy,38,7,Temple,17,10,False,Navy-Marine Corps Memorial Stadium
+2005,12,20051119,Baylor,44,41,Oklahoma St.,34,46,False,Floyd Casey Stadium
+2005,12,20051119,Tulane,14,11,Tulsa,38,12,False,Malone Stadium
+2005,12,20051119,Arkansas,44,108,Mississippi St.,10,114,False,
+2005,12,20051119,Kansas St.,36,44,Missouri,28,115,False,Bill Snyder Family Football Stadium
+2005,12,20051119,New Mexico,24,89,Air Force,42,83,False,University Stadium
+2005,12,20051119,Notre Dame,34,70,Syracuse,10,23,False,Notre Dame Stadium
+2005,12,20051119,BYU,34,66,Utah,41,104,False,LaVell Edwards Stadium
+2005,12,20051119,Rice,28,59,Central Florida,31,1,False,Rice Stadium
+2005,12,20051119,Utah St.,24,93,Nevada,30,88,False,Romney Stadium
+2005,12,20051119,Boise St.,70,84,Idaho,35,133,False,Albertsons Stadium
+2005,12,20051119,Washington,22,105,Washington St.,26,106,False,
+2005,12,20051119,Auburn,28,109,Alabama,18,107,False,Jordan-Hare Stadium
+2005,12,20051119,Michigan St.,22,32,Penn State,31,37,False,Spartan Stadium
+2005,12,20051119,UNLV,27,92,Colorado St.,31,85,False,Sam Boyd Stadium
+2005,12,20051119,Marshall,29,55,East Carolina,34,4,False,Joan C. Edwards Stadium
+2005,12,20051119,Houston,24,5,SMU,29,8,False,Robertson Stadium
+2005,12,20051119,Florida Intl,38,53,Western Kentucky,35,64,False,FIU Stadium
+2005,12,20051119,San Jose St.,27,91,New Mexico State,10,69,False,Spartan Stadium
+2005,12,20051119,UTEP,23,62,UAB,35,61,False,Sun Bowl Stadium
+2005,12,20051119,Oregon,56,99,Oregon St.,14,100,False,Autzen Stadium
+2005,12,20051119,South Carolina,9,117,Clemson,13,14,False,Williams-Brice Stadium
+2005,12,20051119,Stanford,3,101,California,27,97,False,Stanford Stadium
+2005,12,20051119,North Texas,19,57,UL Monroe,24,130,False,
+2005,12,20051119,Ole Miss,7,116,LSU,40,113,False,Vaught-Hemingway Stadium
+2005,12,20051119,Miami (FL),10,19,Georgia Tech,14,17,False,
+2005,12,20051119,San Diego St.,34,90,Wyoming,21,94,False,Qualcomm Stadium
+2005,12,20051119,Southern Miss,22,60,Memphis,24,6,False,M. M. Roberts Stadium
+2005,12,20051119,USC,50,103,Fresno St.,42,86,False,Los Angeles Memorial Coliseum
+2005,12,20051121,Ohio,7,80,Miami (OH),38,78,False,Peden Stadium
+2005,13,20051122,Bowling Green,41,73,Toledo,44,81,False,Doyt Perry Stadium
+2005,13,20051123,Northern Illinois,42,79,Western Michigan,7,82,False,Brigham Field at Huskie Stadium
+2005,13,20051124,Akron,35,71,Kent State,3,77,False,
+2005,13,20051124,West Virginia,45,50,Pittsburgh,13,22,False,Mountaineer Field at Milan Puskar Stadium
+2005,13,20051125,Texas A&M,29,119,Texas,40,48,False,Kyle Field
+2005,13,20051125,LSU,19,113,Arkansas,17,108,False,Tiger Stadium
+2005,13,20051125,Arizona St.,23,96,Arizona,20,95,False,Sun Devil Stadium
+2005,13,20051125,Colorado,3,98,Nebraska,30,34,False,Folsom Field
+2005,13,20051125,Hawaii,24,87,Wisconsin,41,40,False,Aloha Stadium
+2005,13,20051126,NC State,20,20,Maryland,14,30,False,Carter-Finley Stadium
+2005,13,20051126,East Carolina,31,4,UAB,23,61,False,Dowdy-Ficklen Stadium
+2005,13,20051126,Kansas,24,43,Iowa St.,21,42,False,Memorial Stadium
+2005,13,20051126,Kentucky,8,112,Tennessee,27,118,False,Kroger Field
+2005,13,20051126,Rutgers,44,39,Cincinnati,9,2,False,High Point Solutions Stadium
+2005,13,20051126,North Texas,24,57,Arkansas St.,31,122,False,
+2005,13,20051126,Louisiana Tech,13,54,Boise St.,30,84,False,Joe Aillet Stadium
+2005,13,20051126,Memphis,26,6,Marshall,3,55,False,Liberty Bowl Memorial Stadium
+2005,13,20051126,Mississippi St.,35,114,Ole Miss,14,116,False,Davis Wade Stadium
+2005,13,20051126,SMU,40,8,UTEP,27,62,False,Gerald J. Ford Stadium
+2005,13,20051126,Southern Miss,26,60,Tulane,7,11,False,M. M. Roberts Stadium
+2005,13,20051126,Louisville,41,18,Syracuse,17,23,False,Papa John's Cardinal Stadium
+2005,13,20051126,Miami (FL),25,19,Virginia,17,24,False,
+2005,13,20051126,UL Monroe,21,130,Louisiana,54,126,False,Malone Stadium
+2005,13,20051126,Oklahoma,42,45,Oklahoma St.,14,46,False,Gaylord Family Oklahoma Memorial Stadium
+2005,13,20051126,Connecticut,15,3,South Florida,10,9,False,Rentschler Field
+2005,13,20051126,Florida,34,110,Florida St.,7,16,False,Ben Hill Griffin Stadium
+2005,13,20051126,New Mexico State,21,69,Utah St.,24,93,False,Aggie Memorial Stadium
+2005,13,20051126,Houston,35,5,Rice,18,59,False,Robertson Stadium
+2005,13,20051126,Florida Atlantic,6,52,Florida Intl,52,53,False,
+2005,13,20051126,San Jose St.,26,91,Idaho,18,133,False,Spartan Stadium
+2005,13,20051126,Troy,7,129,Middle Tennessee,17,56,False,Veterans Memorial Stadium
+2005,13,20051126,Nevada,38,88,Fresno St.,35,86,False,Mackay Stadium
+2005,13,20051126,Virginia Tech,30,25,North Carolina,3,21,False,Lane Stadium
+2005,13,20051126,Georgia Tech,7,17,Georgia,14,111,False,Bobby Dodd Stadium at Historic Grant Field
+2005,13,20051126,Stanford,31,101,Notre Dame,38,70,False,Stanford Stadium
+2005,14,20051201,Northern Illinois,30,79,Akron,31,71,False,
+2005,14,20051202,Fresno St.,28,86,Louisiana Tech,40,54,False,Bulldog Stadium
+2005,14,20051203,Central Florida,27,1,Tulsa,44,12,False,
+2005,14,20051203,Colorado,3,98,Texas,70,48,False,
+2005,14,20051203,Army,23,65,Navy,42,7,False,Lincoln Financial Field
+2005,14,20051203,USC,66,103,UCLA,19,102,False,Los Angeles Memorial Coliseum
+2005,14,20051203,LSU,14,113,Georgia,34,111,False,Georgia Dome
+2005,14,20051203,Florida Intl,35,53,Middle Tennessee,31,56,False,FIU Stadium
+2005,14,20051203,South Florida,13,9,West Virginia,28,50,False,Raymond James Stadium
+2005,14,20051203,Connecticut,20,3,Louisville,30,18,False,Rentschler Field
+2005,14,20051203,Florida St.,27,16,Virginia Tech,22,25,False,
+2005,14,20051203,Hawaii,49,87,San Diego St.,38,90,False,Aloha Stadium
+2005,1,20051220,Arkansas St.,19,122,Southern Miss,31,60,False,
+2005,1,20051221,UTEP,13,62,Toledo,45,81,False,Ladd Peebles Stadium
+2005,1,20051222,California,35,97,BYU,28,66,False,Sam Boyd Stadium
+2005,1,20051222,Navy,51,7,Colorado St.,30,85,False,Qualcomm Stadium
+2005,1,20051223,Houston,13,5,Kansas,42,43,False,Amon G. Carter Stadium
+2005,1,20051224,Central Florida,48,1,Nevada,49,88,False,Aloha Stadium
+2005,1,20051226,Akron,31,71,Memphis,38,6,False,
+2005,1,20051227,Colorado,10,98,Clemson,19,14,False,
+2005,1,20051227,Rutgers,40,39,Arizona St.,45,96,False,Case Field
+2005,1,20051228,Boston College,27,13,Boise St.,21,84,False,Albertsons Stadium
+2005,1,20051228,Nebraska,32,34,Michigan,28,31,False,Alamodome
+2005,1,20051229,Utah,38,104,Georgia Tech,10,17,False,
+2005,1,20051229,Oklahoma,17,45,Oregon,14,99,False,Qualcomm Stadium
+2005,1,20051230,Minnesota,31,33,Virginia,34,24,False,Nissan Stadium
+2005,1,20051230,UCLA,50,102,Northwestern,38,35,False,Sun Bowl Stadium
+2005,1,20051230,Missouri,38,115,South Carolina,31,117,False,
+2005,1,20051230,LSU,40,113,Miami (FL),3,19,False,Georgia Dome
+2005,1,20051231,NC State,14,20,South Florida,0,9,False,
+2005,1,20051231,Tulsa,31,12,Fresno St.,24,86,False,Liberty Bowl Memorial Stadium
+2005,1,20051231,Iowa St.,24,42,TCU,27,47,False,
+2005,1,20060102,Florida,31,110,Iowa,24,29,False,Raymond James Stadium
+2005,1,20060102,Alabama,13,107,Texas Tech,10,49,False,
+2005,1,20060102,Virginia Tech,35,25,Louisville,24,18,False,
+2005,1,20060102,Auburn,10,109,Wisconsin,24,40,False,
+2005,1,20060102,Ohio St.,34,36,Notre Dame,20,70,False,Sun Devil Stadium
+2005,1,20060102,Georgia,35,111,West Virginia,38,50,False,Georgia Dome
+2005,1,20060103,Florida St.,23,16,Penn State,26,37,False,
+2005,1,20060104,Texas,41,48,USC,38,103,False,Rose Bowl

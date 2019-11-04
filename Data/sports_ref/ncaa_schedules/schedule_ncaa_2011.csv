@@ -1,0 +1,813 @@
+season,week,date,home_team,home_points,home_code,away_team,away_points,away_code,neutral_site,venue
+2011,1,20110901,Louisville,21,18,Murray State,9,205,False,Papa John's Cardinal Stadium
+2011,1,20110901,Toledo,58,81,New Hampshire,22,157,False,Glass Bowl
+2011,1,20110901,Temple,42,10,Villanova,7,162,False,Lincoln Financial Field
+2011,1,20110901,Central Michigan,21,75,South Carolina State,6,181,False,Kelly/Shorts Stadium
+2011,1,20110901,Florida Intl,41,53,North Texas,16,57,False,FIU Stadium
+2011,1,20110901,Rutgers,48,39,North Carolina Central,0,180,False,High Point Solutions Stadium
+2011,1,20110901,Georgia Tech,63,17,Western Carolina,21,234,False,Bobby Dodd Stadium at Historic Grant Field
+2011,1,20110901,Memphis,14,6,Mississippi St.,59,114,False,Liberty Bowl Memorial Stadium
+2011,1,20110901,Wisconsin,51,40,UNLV,17,92,False,Camp Randall Stadium
+2011,1,20110901,Syracuse,36,23,Wake Forest,29,26,False,Carrier Dome
+2011,1,20110901,Utah,27,104,Montana State,10,136,False,Rice-Eccles Stadium
+2011,1,20110901,Idaho,15,133,Bowling Green,32,73,False,Kibbie Dome
+2011,1,20110901,Western Kentucky,3,64,Kentucky,14,112,True,Nissan Stadium
+2011,1,20110901,Arizona St.,48,96,UC Davis,14,142,False,Sun Devil Stadium
+2011,1,20110902,Michigan St.,28,32,Youngstown State,6,191,False,Spartan Stadium
+2011,1,20110902,Baylor,50,41,TCU,48,47,False,Floyd Casey Stadium
+2011,1,20110903,Purdue,27,38,Middle Tennessee,24,56,False,Ross-Ade Stadium
+2011,1,20110903,Missouri,17,115,Miami (OH),6,78,False,Faurot Field
+2011,1,20110903,Auburn,42,109,Utah St.,38,93,False,Jordan-Hare Stadium
+2011,1,20110903,Iowa,34,29,Tennessee Tech,7,208,False,Kinnick Stadium
+2011,1,20110903,Penn State,41,37,Indiana State,7,183,False,Beaver Stadium
+2011,1,20110903,Connecticut,35,3,Fordham,3,212,False,Rentschler Field
+2011,1,20110903,Boston College,17,13,Northwestern,24,35,False,Alumni Stadium
+2011,1,20110903,Ohio St.,42,36,Akron,0,71,False,Ohio Stadium
+2011,1,20110903,Alabama,48,107,Kent State,7,77,False,Bryant Denny Stadium
+2011,1,20110903,Virginia Tech,66,25,Appalachian St.,13,121,False,Lane Stadium
+2011,1,20110903,Tulane,47,11,Southeastern Louisiana,33,245,False,Mercedes-Benz Superdome
+2011,1,20110903,Air Force,37,83,South Dakota,20,187,False,Falcon Stadium
+2011,1,20110903,Navy,40,7,Delaware,17,153,False,Navy-Marine Corps Memorial Stadium
+2011,1,20110903,Florida St.,34,16,UL Monroe,0,130,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,1,20110903,Nebraska,40,34,Chattanooga,7,227,False,Memorial Stadium
+2011,1,20110903,Notre Dame,20,70,South Florida,23,9,False,Notre Dame Stadium
+2011,1,20110903,USC,19,103,Minnesota,17,33,False,Los Angeles Memorial Coliseum
+2011,1,20110903,Illinois,33,27,Arkansas St.,15,122,False,Memorial Stadium
+2011,1,20110903,Houston,38,5,UCLA,34,102,False,Robertson Stadium
+2011,1,20110903,Clemson,43,14,Troy,19,129,False,Memorial Stadium
+2011,1,20110903,North Carolina,42,21,James Madison,10,155,False,Kenan Memorial Stadium
+2011,1,20110903,Michigan,34,31,Western Michigan,10,82,False,Michigan Stadium
+2011,1,20110903,Oregon St.,28,100,Sacramento State,29,140,False,Reser Stadium
+2011,1,20110903,Ole Miss,13,116,BYU,14,66,False,Vaught-Hemingway Stadium
+2011,1,20110903,Washington St.,64,106,Idaho State,21,134,False,Martin Stadium
+2011,1,20110903,Stanford,57,101,San Jose St.,3,91,False,Stanford Stadium
+2011,1,20110903,Virginia,40,24,William & Mary,3,163,False,Scott Stadium
+2011,1,20110903,Tennessee,42,118,Montana,16,135,False,Neyland Stadium
+2011,1,20110903,NC State,43,20,Liberty,21,67,False,Carter-Finley Stadium
+2011,1,20110903,Pittsburgh,35,22,Buffalo,16,74,False,Heinz Field
+2011,1,20110903,New Mexico,10,89,Colorado St.,14,85,False,University Stadium
+2011,1,20110903,Texas Tech,50,49,Texas St.,10,128,False,Jones AT&T Stadium
+2011,1,20110903,Oklahoma St.,61,46,Louisiana,34,126,False,Boone Pickens Stadium
+2011,1,20110903,South Carolina,56,117,East Carolina,37,4,True,
+2011,1,20110903,Arkansas,51,108,Missouri State,7,184,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2011,1,20110903,Florida,41,110,Florida Atlantic,3,52,False,Ben Hill Griffin Stadium
+2011,1,20110903,Washington,30,105,Eastern Washington,27,132,False,Husky Stadium
+2011,1,20110903,Iowa St.,20,42,Northern Iowa,19,186,False,Jack Trice Stadium
+2011,1,20110903,Northern Illinois,49,79,Army,26,65,False,Brigham Field at Huskie Stadium
+2011,1,20110903,Kansas,42,43,McNeese State,24,241,False,Memorial Stadium
+2011,1,20110903,Kansas St.,10,44,Eastern Kentucky,7,203,False,Bill Snyder Family Football Stadium
+2011,1,20110903,Ball St.,27,72,Indiana,20,28,True,
+2011,1,20110903,Central Florida,62,1,Charleston Southern,0,145,False,Bright House Networks Stadium
+2011,1,20110903,Cincinnati,72,2,Austin Peay,10,201,False,Nippert Stadium
+2011,1,20110903,California,36,97,Fresno St.,21,86,False,
+2011,1,20110903,Duke,21,15,Richmond,23,159,False,Wallace Wade Stadium
+2011,1,20110903,Vanderbilt,45,120,Elon,14,154,False,Vanderbilt Stadium
+2011,1,20110903,Georgia,21,111,Boise St.,35,84,False,Georgia Dome
+2011,1,20110903,Oklahoma,47,45,Tulsa,14,12,False,Gaylord Family Oklahoma Memorial Stadium
+2011,1,20110903,Texas,34,48,Rice,9,59,False,Darrell K Royal-Texas Memorial Stadium
+2011,1,20110903,New Mexico State,24,69,Ohio,44,80,False,Aggie Memorial Stadium
+2011,1,20110903,LSU,40,113,Oregon,27,99,True,
+2011,1,20110903,UTEP,31,62,Stony Brook,24,160,False,Sun Bowl Stadium
+2011,1,20110903,Wyoming,35,94,Weber State,32,143,False,War Memorial Stadium
+2011,1,20110903,Arizona,41,95,Northern Arizona,10,137,False,Arizona Stadium
+2011,1,20110903,Southern Miss,19,60,Louisiana Tech,17,54,False,M. M. Roberts Stadium
+2011,1,20110903,San Diego St.,49,90,Cal Poly,21,131,False,Qualcomm Stadium
+2011,1,20110903,Hawaii,34,87,Colorado,17,98,False,Aloha Stadium
+2011,1,20110904,Eastern Michigan,41,76,Howard,9,176,False,Rynearson Stadium
+2011,1,20110904,West Virginia,34,50,Marshall,13,55,False,Mountaineer Field at Milan Puskar Stadium
+2011,1,20110904,Texas A&M,46,119,SMU,14,8,False,Kyle Field
+2011,1,20110905,Maryland,32,30,Miami (FL),24,19,False,Maryland Stadium
+2011,2,20110908,Oklahoma St.,37,46,Arizona,14,95,False,Boone Pickens Stadium
+2011,2,20110909,Louisville,17,18,Florida Intl,24,53,False,Papa John's Cardinal Stadium
+2011,2,20110909,Arizona St.,37,96,Missouri,30,115,False,Sun Devil Stadium
+2011,2,20110910,Ohio St.,27,36,Toledo,22,81,False,Ohio Stadium
+2011,2,20110910,Iowa St.,44,42,Iowa,41,29,False,Jack Trice Stadium
+2011,2,20110910,Michigan St.,44,32,Florida Atlantic,0,52,False,Spartan Stadium
+2011,2,20110910,Illinois,56,27,South Dakota State,3,188,False,Memorial Stadium
+2011,2,20110910,Army,20,65,San Diego St.,23,90,False,Blaik Field at Michie Stadium
+2011,2,20110910,Wisconsin,35,40,Oregon St.,0,100,False,Camp Randall Stadium
+2011,2,20110910,Kentucky,27,112,Central Michigan,13,75,False,Kroger Field
+2011,2,20110910,Auburn,41,109,Mississippi St.,34,114,False,Jordan-Hare Stadium
+2011,2,20110910,North Carolina,24,21,Rutgers,22,39,False,Kenan Memorial Stadium
+2011,2,20110910,West Virginia,55,50,Norfolk State,12,178,False,Mountaineer Field at Milan Puskar Stadium
+2011,2,20110910,Pittsburgh,35,22,Maine,29,156,False,Heinz Field
+2011,2,20110910,Eastern Michigan,14,76,Alabama State,7,248,False,Rynearson Stadium
+2011,2,20110910,Colorado St.,33,85,Northern Colorado,14,138,False,Sonny Lubick Field at Hughes Stadium
+2011,2,20110910,Oregon,69,99,Nevada,20,88,False,Autzen Stadium
+2011,2,20110910,Air Force,19,83,TCU,35,47,False,Falcon Stadium
+2011,2,20110910,East Carolina,10,4,Virginia Tech,17,25,False,Dowdy-Ficklen Stadium
+2011,2,20110910,Duke,14,15,Stanford,44,101,False,Wallace Wade Stadium
+2011,2,20110910,Penn State,11,37,Alabama,27,107,False,Beaver Stadium
+2011,2,20110910,Colorado,33,98,California,36,97,False,Folsom Field
+2011,2,20110910,Northwestern,42,35,Eastern Illinois,21,202,False,Ryan Field
+2011,2,20110910,Clemson,35,14,Wofford,27,235,False,Memorial Stadium
+2011,2,20110910,Wake Forest,34,26,NC State,27,20,False,BB&T Field
+2011,2,20110910,Minnesota,21,33,New Mexico State,28,69,False,TCF Bank Stadium
+2011,2,20110910,Marshall,26,55,Southern Miss,20,60,False,Joan C. Edwards Stadium
+2011,2,20110910,Rice,24,59,Purdue,22,38,False,Rice Stadium
+2011,2,20110910,Washington,40,105,Hawaii,32,87,False,Husky Stadium
+2011,2,20110910,Tennessee,45,118,Cincinnati,23,2,False,Neyland Stadium
+2011,2,20110910,Tulane,3,11,Tulsa,31,12,False,Mercedes-Benz Superdome
+2011,2,20110910,Georgia,42,111,South Carolina,45,117,False,Sanford Stadium
+2011,2,20110910,Syracuse,21,23,Rhode Island,14,158,False,Carrier Dome
+2011,2,20110910,Washington St.,59,106,UNLV,7,92,False,Martin Stadium
+2011,2,20110910,Idaho,44,133,North Dakota,14,164,False,Kibbie Dome
+2011,2,20110910,Buffalo,35,74,Stony Brook,7,160,False,UB Stadium
+2011,2,20110910,Wyoming,45,94,Texas St.,10,128,False,War Memorial Stadium
+2011,2,20110910,Akron,3,71,Temple,41,10,False,Summa Field at InfoCision Stadium
+2011,2,20110910,Florida St.,62,16,Charleston Southern,10,145,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,2,20110910,Ole Miss,42,116,Southern Illinois,24,189,False,Vaught-Hemingway Stadium
+2011,2,20110910,Texas,17,48,BYU,16,66,False,Darrell K Royal-Texas Memorial Stadium
+2011,2,20110910,Ohio,30,80,Gardner-Webb,3,146,False,Peden Stadium
+2011,2,20110910,Nebraska,42,34,Fresno St.,29,86,False,Memorial Stadium
+2011,2,20110910,Florida,39,110,UAB,0,61,False,Ben Hill Griffin Stadium
+2011,2,20110910,Arkansas,52,108,New Mexico,3,89,False,
+2011,2,20110910,SMU,28,8,UTEP,17,62,False,Gerald J. Ford Stadium
+2011,2,20110910,Bowling Green,58,73,Morgan State,13,177,False,Doyt Perry Stadium
+2011,2,20110910,Western Kentucky,14,64,Navy,40,7,False,Houchens Industries-L. T. Smith Stadium
+2011,2,20110910,Indiana,31,28,Virginia,34,24,False,Memorial Stadium
+2011,2,20110910,South Florida,37,9,Ball St.,7,72,False,Raymond James Stadium
+2011,2,20110910,Western Michigan,38,82,Nicholls State,7,242,False,Waldo Stadium
+2011,2,20110910,Arkansas St.,47,122,Memphis,3,6,False,Centennial Bank Stadium
+2011,2,20110910,Kansas,45,43,Northern Illinois,42,79,False,Memorial Stadium
+2011,2,20110910,Kent State,12,77,Louisiana,20,126,False,Dix Stadium
+2011,2,20110910,Louisiana Tech,48,54,Central Arkansas,42,237,False,Joe Aillet Stadium
+2011,2,20110910,Middle Tennessee,21,56,Georgia Tech,49,17,False,"Johnny Red"""" Floyd Stadium"""""
+2011,2,20110910,UL Monroe,35,130,Grambling,7,251,False,Malone Stadium
+2011,2,20110910,North Texas,23,57,Houston,48,5,False,Apogee Stadium
+2011,2,20110910,USC,23,103,Utah,14,104,False,Los Angeles Memorial Coliseum
+2011,2,20110910,Vanderbilt,24,120,Connecticut,21,3,False,Vanderbilt Stadium
+2011,2,20110910,Michigan,35,31,Notre Dame,31,70,False,Michigan Stadium
+2011,2,20110910,Utah St.,54,93,Weber State,17,143,False,Romney Stadium
+2011,2,20110910,Central Florida,30,1,Boston College,3,13,False,Bright House Networks Stadium
+2011,2,20110910,LSU,49,113,Northwestern State,3,243,False,Tiger Stadium
+2011,2,20110910,UCLA,27,102,San Jose St.,17,91,False,Rose Bowl
+2011,3,20110915,Mississippi St.,6,114,LSU,19,113,False,Davis Wade Stadium
+2011,3,20110916,Toledo,15,81,Boise St.,40,84,False,Glass Bowl
+2011,3,20110916,Connecticut,20,3,Iowa St.,24,42,False,Rentschler Field
+2011,3,20110917,Maryland,31,30,West Virginia,37,50,False,Maryland Stadium
+2011,3,20110917,Temple,10,10,Penn State,14,37,False,Lincoln Financial Field
+2011,3,20110917,Clemson,38,14,Auburn,24,109,False,Memorial Stadium
+2011,3,20110917,Michigan,31,31,Eastern Michigan,3,76,False,Michigan Stadium
+2011,3,20110917,Bowling Green,27,73,Wyoming,28,94,False,Doyt Perry Stadium
+2011,3,20110917,Iowa,31,29,Pittsburgh,27,22,False,Kinnick Stadium
+2011,3,20110917,Purdue,59,38,Southeast Missouri,0,206,False,Ross-Ade Stadium
+2011,3,20110917,Western Michigan,44,82,Central Michigan,14,75,False,Waldo Stadium
+2011,3,20110917,Vanderbilt,30,120,Ole Miss,7,116,False,Vanderbilt Stadium
+2011,3,20110917,Boston College,19,13,Duke,20,15,False,Alumni Stadium
+2011,3,20110917,Georgia Tech,66,17,Kansas,24,43,False,Bobby Dodd Stadium at Historic Grant Field
+2011,3,20110917,Georgia,59,111,Coastal Carolina,0,123,False,Sanford Stadium
+2011,3,20110917,Colorado,28,98,Colorado St.,14,85,True,
+2011,3,20110917,TCU,38,47,UL Monroe,17,130,False,Amon G. Carter Stadium
+2011,3,20110917,New Mexico,13,89,Texas Tech,59,49,False,University Stadium
+2011,3,20110917,Minnesota,29,33,Miami (OH),23,78,False,TCF Bank Stadium
+2011,3,20110917,UCLA,20,102,Texas,49,48,False,Rose Bowl
+2011,3,20110917,Army,21,65,Northwestern,14,35,False,Blaik Field at Michie Stadium
+2011,3,20110917,Cincinnati,59,2,Akron,14,71,False,Nippert Stadium
+2011,3,20110917,Indiana,38,28,South Carolina State,21,181,False,Memorial Stadium
+2011,3,20110917,North Carolina,28,21,Virginia,17,24,False,Kenan Memorial Stadium
+2011,3,20110917,Oregon,56,99,Missouri State,7,184,False,Autzen Stadium
+2011,3,20110917,Northern Illinois,7,79,Wisconsin,49,40,True,
+2011,3,20110917,Nebraska,51,34,Washington,38,105,False,Memorial Stadium
+2011,3,20110917,Notre Dame,31,70,Michigan St.,13,32,False,Notre Dame Stadium
+2011,3,20110917,Florida,33,110,Tennessee,23,118,False,Ben Hill Griffin Stadium
+2011,3,20110917,Virginia Tech,26,25,Arkansas St.,7,122,False,Lane Stadium
+2011,3,20110917,UAB,10,61,Tulane,49,11,False,Legion Field
+2011,3,20110917,San Jose St.,14,91,Nevada,17,88,False,Spartan Stadium
+2011,3,20110917,California,63,97,Presbyterian,12,151,False,
+2011,3,20110917,NC State,35,20,South Alabama,13,127,False,Carter-Finley Stadium
+2011,3,20110917,Florida Intl,17,53,Central Florida,10,1,False,FIU Stadium
+2011,3,20110917,South Carolina,24,117,Navy,21,7,False,Williams-Brice Stadium
+2011,3,20110917,Wake Forest,48,26,Gardner-Webb,5,146,False,BB&T Field
+2011,3,20110917,San Diego St.,42,90,Washington St.,24,106,False,Qualcomm Stadium
+2011,3,20110917,Memphis,27,6,Austin Peay,6,201,False,Liberty Bowl Memorial Stadium
+2011,3,20110917,Ohio,44,80,Marshall,7,55,False,Peden Stadium
+2011,3,20110917,Kentucky,17,112,Louisville,24,18,False,Kroger Field
+2011,3,20110917,Western Kentucky,16,64,Indiana State,44,183,False,Houchens Industries-L. T. Smith Stadium
+2011,3,20110917,Southern Miss,52,60,Southeastern Louisiana,6,245,False,M. M. Roberts Stadium
+2011,3,20110917,Ball St.,28,72,Buffalo,25,74,False,Scheumann Stadium
+2011,3,20110917,Kansas St.,37,44,Kent State,0,77,False,Bill Snyder Family Football Stadium
+2011,3,20110917,Louisiana Tech,34,54,Houston,35,5,False,Joe Aillet Stadium
+2011,3,20110917,Louisiana,38,126,Nicholls State,21,242,False,Cajun Field
+2011,3,20110917,Illinois,17,27,Arizona St.,14,96,False,Memorial Stadium
+2011,3,20110917,Missouri,69,115,Western Illinois,0,190,False,Faurot Field
+2011,3,20110917,Texas A&M,37,119,Idaho,7,133,False,Kyle Field
+2011,3,20110917,Baylor,48,41,Stephen F. Austin,0,246,False,Floyd Casey Stadium
+2011,3,20110917,South Florida,70,9,Florida A&M,17,175,False,Raymond James Stadium
+2011,3,20110917,Arkansas,38,108,Troy,28,129,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2011,3,20110917,Miami (FL),24,19,Ohio St.,6,36,False,Hard Rock Stadium
+2011,3,20110917,Alabama,41,107,North Texas,0,57,False,Bryant Denny Stadium
+2011,3,20110917,Florida St.,13,16,Oklahoma,23,45,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,3,20110917,USC,38,103,Syracuse,17,23,False,Los Angeles Memorial Coliseum
+2011,3,20110917,New Mexico State,10,69,UTEP,16,62,False,Aggie Memorial Stadium
+2011,3,20110917,SMU,40,8,Northwestern State,7,243,False,Gerald J. Ford Stadium
+2011,3,20110917,BYU,10,66,Utah,54,104,False,LaVell Edwards Stadium
+2011,3,20110917,UNLV,40,92,Hawaii,20,87,False,Sam Boyd Stadium
+2011,3,20110917,Fresno St.,27,86,North Dakota,22,164,False,Bulldog Stadium
+2011,3,20110917,Tulsa,33,12,Oklahoma St.,59,46,False,Skelly Field at H. A. Chapman Stadium
+2011,3,20110917,Arizona,10,95,Stanford,37,101,False,Arizona Stadium
+2011,4,20110922,Cincinnati,44,2,NC State,14,20,False,Nippert Stadium
+2011,4,20110923,BYU,24,66,Central Florida,17,1,False,LaVell Edwards Stadium
+2011,4,20110924,Michigan,28,31,San Diego St.,7,90,False,Michigan Stadium
+2011,4,20110924,Penn State,34,37,Eastern Michigan,6,76,False,Beaver Stadium
+2011,4,20110924,Pittsburgh,12,22,Notre Dame,15,70,False,Heinz Field
+2011,4,20110924,Memphis,0,6,SMU,42,8,False,Liberty Bowl Memorial Stadium
+2011,4,20110924,Iowa,45,29,UL Monroe,17,130,False,Kinnick Stadium
+2011,4,20110924,Michigan St.,45,32,Central Michigan,7,75,False,Spartan Stadium
+2011,4,20110924,Syracuse,33,23,Toledo,30,81,False,Carrier Dome
+2011,4,20110924,Georgia Tech,35,17,North Carolina,28,21,False,Bobby Dodd Stadium at Historic Grant Field
+2011,4,20110924,Ole Miss,13,116,Georgia,27,111,False,Vaught-Hemingway Stadium
+2011,4,20110924,Maryland,7,30,Temple,38,10,False,Maryland Stadium
+2011,4,20110924,Miami (OH),23,78,Bowling Green,37,73,False,Yager Stadium
+2011,4,20110924,Boston College,45,13,Massachusetts,17,68,False,Alumni Stadium
+2011,4,20110924,Akron,36,71,VMI,13,233,False,Summa Field at InfoCision Stadium
+2011,4,20110924,Rutgers,38,39,Ohio,26,80,False,High Point Solutions Stadium
+2011,4,20110924,Ball St.,48,72,Army,21,65,False,Scheumann Stadium
+2011,4,20110924,TCU,55,47,Portland State,13,139,False,Amon G. Carter Stadium
+2011,4,20110924,Air Force,63,83,Tennessee State,24,207,False,Falcon Stadium
+2011,4,20110924,Northern Illinois,47,79,Cal Poly,30,131,False,Brigham Field at Huskie Stadium
+2011,4,20110924,Kent State,33,77,South Alabama,25,127,False,Dix Stadium
+2011,4,20110924,Alabama,38,107,Arkansas,14,108,False,Bryant Denny Stadium
+2011,4,20110924,Wisconsin,59,40,South Dakota,10,187,False,Camp Randall Stadium
+2011,4,20110924,Texas A&M,29,119,Oklahoma St.,30,46,False,Kyle Field
+2011,4,20110924,East Carolina,28,4,UAB,23,61,False,Dowdy-Ficklen Stadium
+2011,4,20110924,Clemson,35,14,Florida St.,30,16,False,Memorial Stadium
+2011,4,20110924,Duke,48,15,Tulane,27,11,False,Wallace Wade Stadium
+2011,4,20110924,Marshall,10,55,Virginia Tech,30,25,False,Joan C. Edwards Stadium
+2011,4,20110924,Washington,31,105,California,23,97,False,Husky Stadium
+2011,4,20110924,Virginia,24,24,Southern Miss,30,60,False,Scott Stadium
+2011,4,20110924,Ohio St.,37,36,Colorado,17,98,False,Ohio Stadium
+2011,4,20110924,Oregon St.,19,100,UCLA,27,102,False,Reser Stadium
+2011,4,20110924,Illinois,23,27,Western Michigan,20,82,False,Memorial Stadium
+2011,4,20110924,Miami (FL),24,19,Kansas St.,28,44,False,Hard Rock Stadium
+2011,4,20110924,San Jose St.,34,91,New Mexico State,24,69,False,Spartan Stadium
+2011,4,20110924,Troy,38,129,Middle Tennessee,35,56,False,Veterans Memorial Stadium
+2011,4,20110924,Idaho,24,133,Fresno St.,48,86,False,Kibbie Dome
+2011,4,20110924,Florida Intl,31,53,Louisiana,36,126,False,FIU Stadium
+2011,4,20110924,New Mexico,45,89,Sam Houston State,48,244,False,University Stadium
+2011,4,20110924,Buffalo,3,74,Connecticut,17,3,False,UB Stadium
+2011,4,20110924,Kentucky,10,112,Florida,48,110,False,Kroger Field
+2011,4,20110924,South Carolina,21,117,Vanderbilt,3,120,False,Williams-Brice Stadium
+2011,4,20110924,Auburn,30,109,Florida Atlantic,14,52,False,Jordan-Hare Stadium
+2011,4,20110924,South Florida,52,9,UTEP,24,62,False,Raymond James Stadium
+2011,4,20110924,Baylor,56,41,Rice,31,59,False,Floyd Casey Stadium
+2011,4,20110924,Minnesota,24,33,North Dakota State,37,185,False,TCF Bank Stadium
+2011,4,20110924,Mississippi St.,26,114,Louisiana Tech,20,54,False,Davis Wade Stadium
+2011,4,20110924,North Texas,24,57,Indiana,21,28,False,Apogee Stadium
+2011,4,20110924,Texas Tech,35,49,Nevada,34,88,False,Jones AT&T Stadium
+2011,4,20110924,Wyoming,14,94,Nebraska,38,34,False,War Memorial Stadium
+2011,4,20110924,Oklahoma,38,45,Missouri,28,115,False,Gaylord Family Oklahoma Memorial Stadium
+2011,4,20110924,Boise St.,41,84,Tulsa,21,12,False,Albertsons Stadium
+2011,4,20110924,West Virginia,21,50,LSU,47,113,False,Mountaineer Field at Milan Puskar Stadium
+2011,4,20110924,Arkansas St.,53,122,Central Arkansas,24,237,False,Centennial Bank Stadium
+2011,4,20110924,Houston,56,5,Georgia St.,0,125,False,Robertson Stadium
+2011,4,20110924,Utah St.,34,93,Colorado St.,35,85,False,Romney Stadium
+2011,4,20110924,UNLV,16,92,Southern Utah,41,141,False,Sam Boyd Stadium
+2011,4,20110924,Arizona St.,43,96,USC,22,103,False,Sun Devil Stadium
+2011,4,20110924,Arizona,31,95,Oregon,56,99,False,Arizona Stadium
+2011,4,20110925,Hawaii,56,87,UC Davis,14,142,False,Aloha Stadium
+2011,5,20110929,UTEP,42,62,Houston,49,5,False,Sun Bowl Stadium
+2011,5,20110929,Pittsburgh,44,22,South Florida,17,9,False,Heinz Field
+2011,5,20110930,BYU,27,66,Utah St.,24,93,False,LaVell Edwards Stadium
+2011,5,20111001,Michigan,58,31,Minnesota,0,33,False,Michigan Stadium
+2011,5,20111001,Arkansas,42,108,Texas A&M,38,119,True,
+2011,5,20111001,Illinois,38,27,Northwestern,35,35,False,Memorial Stadium
+2011,5,20111001,Georgia,24,111,Mississippi St.,10,114,False,Sanford Stadium
+2011,5,20111001,Indiana,10,28,Penn State,16,37,False,Memorial Stadium
+2011,5,20111001,Syracuse,16,23,Rutgers,19,39,False,Carrier Dome
+2011,5,20111001,Temple,13,10,Toledo,36,81,False,Lincoln Financial Field
+2011,5,20111001,Army,45,65,Tulane,6,11,False,Blaik Field at Michie Stadium
+2011,5,20111001,Kansas,34,43,Texas Tech,45,49,False,Memorial Stadium
+2011,5,20111001,Navy,34,7,Air Force,35,83,False,Navy-Marine Corps Memorial Stadium
+2011,5,20111001,LSU,35,113,Kentucky,7,112,False,Tiger Stadium
+2011,5,20111001,Boston College,19,13,Wake Forest,27,26,False,Alumni Stadium
+2011,5,20111001,Tennessee,41,118,Buffalo,10,74,False,Neyland Stadium
+2011,5,20111001,Miami (OH),0,78,Cincinnati,27,2,False,Yager Stadium
+2011,5,20111001,Eastern Michigan,31,76,Akron,23,71,False,Rynearson Stadium
+2011,5,20111001,Ohio,17,80,Kent State,10,77,False,Peden Stadium
+2011,5,20111001,Boise St.,30,84,Nevada,10,88,False,Albertsons Stadium
+2011,5,20111001,Maryland,28,30,Towson,3,161,False,Maryland Stadium
+2011,5,20111001,Central Michigan,48,75,Northern Illinois,41,79,False,Kelly/Shorts Stadium
+2011,5,20111001,Virginia,21,24,Idaho,20,133,False,Scott Stadium
+2011,5,20111001,USC,48,103,Arizona,41,95,False,Los Angeles Memorial Coliseum
+2011,5,20111001,Connecticut,31,3,Western Michigan,38,82,False,Rentschler Field
+2011,5,20111001,Kansas St.,36,44,Baylor,35,41,False,Bill Snyder Family Football Stadium
+2011,5,20111001,Ohio St.,7,36,Michigan St.,10,32,False,Ohio Stadium
+2011,5,20111001,TCU,33,47,SMU,40,8,False,Amon G. Carter Stadium
+2011,5,20111001,NC State,35,20,Georgia Tech,45,17,False,Carter-Finley Stadium
+2011,5,20111001,West Virginia,55,50,Bowling Green,10,73,False,Mountaineer Field at Milan Puskar Stadium
+2011,5,20111001,Miami (FL),45,19,Bethune-Cookman,14,173,False,Hard Rock Stadium
+2011,5,20111001,Louisville,13,18,Marshall,17,55,False,Papa John's Cardinal Stadium
+2011,5,20111001,South Carolina,13,117,Auburn,16,109,False,Williams-Brice Stadium
+2011,5,20111001,Colorado,27,98,Washington St.,31,106,False,Folsom Field
+2011,5,20111001,Colorado St.,31,85,San Jose St.,38,91,False,Sonny Lubick Field at Hughes Stadium
+2011,5,20111001,Western Kentucky,22,64,Arkansas St.,26,122,False,Houchens Industries-L. T. Smith Stadium
+2011,5,20111001,Virginia Tech,3,25,Clemson,23,14,False,Lane Stadium
+2011,5,20111001,Florida Intl,27,53,Duke,31,15,False,FIU Stadium
+2011,5,20111001,Oklahoma,62,45,Ball St.,6,72,False,Gaylord Family Oklahoma Memorial Stadium
+2011,5,20111001,Iowa St.,14,42,Texas,37,48,False,Jack Trice Stadium
+2011,5,20111001,Louisiana,37,126,Florida Atlantic,34,52,False,Cajun Field
+2011,5,20111001,Tulsa,41,12,North Texas,24,57,False,Skelly Field at H. A. Chapman Stadium
+2011,5,20111001,Utah,14,104,Washington,31,105,False,Rice-Eccles Stadium
+2011,5,20111001,Troy,24,129,UAB,23,61,False,Veterans Memorial Stadium
+2011,5,20111001,Middle Tennessee,38,56,Memphis,31,6,False,"Johnny Red"""" Floyd Stadium"""""
+2011,5,20111001,Louisiana Tech,26,54,Hawaii,44,87,False,Joe Aillet Stadium
+2011,5,20111001,Southern Miss,48,60,Rice,24,59,False,M. M. Roberts Stadium
+2011,5,20111001,Florida,10,110,Alabama,38,107,False,Ben Hill Griffin Stadium
+2011,5,20111001,Wisconsin,48,40,Nebraska,17,34,False,Camp Randall Stadium
+2011,5,20111001,Purdue,10,38,Notre Dame,38,70,False,Ross-Ade Stadium
+2011,5,20111001,East Carolina,20,4,North Carolina,35,21,False,Dowdy-Ficklen Stadium
+2011,5,20111001,New Mexico,28,89,New Mexico State,42,69,False,University Stadium
+2011,5,20111001,Fresno St.,28,86,Ole Miss,38,116,False,Bulldog Stadium
+2011,5,20111001,Arizona St.,35,96,Oregon St.,20,100,False,Sun Devil Stadium
+2011,5,20111001,Stanford,45,101,UCLA,19,102,False,Stanford Stadium
+2011,6,20111006,Middle Tennessee,33,56,Western Kentucky,36,64,False,"Johnny Red"""" Floyd Stadium"""""
+2011,6,20111006,Oregon,43,99,California,15,97,False,Autzen Stadium
+2011,6,20111007,Fresno St.,7,86,Boise St.,57,84,False,Bulldog Stadium
+2011,6,20111008,West Virginia,43,50,Connecticut,16,3,False,Mountaineer Field at Milan Puskar Stadium
+2011,6,20111008,Purdue,45,38,Minnesota,17,33,False,Ross-Ade Stadium
+2011,6,20111008,North Carolina,14,21,Louisville,7,18,False,Kenan Memorial Stadium
+2011,6,20111008,UAB,3,61,Mississippi St.,21,114,False,Legion Field
+2011,6,20111008,Texas,17,48,Oklahoma,55,45,True,
+2011,6,20111008,Georgia Tech,21,17,Maryland,16,30,False,Bobby Dodd Stadium at Historic Grant Field
+2011,6,20111008,South Carolina,54,117,Kentucky,3,112,False,Williams-Brice Stadium
+2011,6,20111008,Wake Forest,35,26,Florida St.,30,16,False,BB&T Field
+2011,6,20111008,Rice,28,59,Memphis,6,6,False,Rice Stadium
+2011,6,20111008,Miami (OH),35,78,Army,28,65,False,Yager Stadium
+2011,6,20111008,Akron,17,71,Florida Intl,27,53,False,Summa Field at InfoCision Stadium
+2011,6,20111008,Ball St.,0,72,Temple,42,10,False,Scheumann Stadium
+2011,6,20111008,Western Michigan,45,82,Bowling Green,21,73,False,Waldo Stadium
+2011,6,20111008,Indiana,20,28,Illinois,41,27,False,Memorial Stadium
+2011,6,20111008,Toledo,54,81,Eastern Michigan,16,76,False,Glass Bowl
+2011,6,20111008,Clemson,36,14,Boston College,14,13,False,Memorial Stadium
+2011,6,20111008,Oklahoma St.,70,46,Kansas,28,43,False,Boone Pickens Stadium
+2011,6,20111008,LSU,41,113,Florida,11,110,False,Tiger Stadium
+2011,6,20111008,Oregon St.,37,100,Arizona,27,95,False,Reser Stadium
+2011,6,20111008,Kansas St.,24,44,Missouri,17,115,False,Bill Snyder Family Football Stadium
+2011,6,20111008,Notre Dame,59,70,Air Force,33,83,False,Notre Dame Stadium
+2011,6,20111008,Buffalo,38,74,Ohio,37,80,False,UB Stadium
+2011,6,20111008,Navy,35,7,Southern Miss,63,60,False,Navy-Marine Corps Memorial Stadium
+2011,6,20111008,Rutgers,34,39,Pittsburgh,10,22,False,High Point Solutions Stadium
+2011,6,20111008,Northern Illinois,40,79,Kent State,10,77,False,Brigham Field at Huskie Stadium
+2011,6,20111008,Penn State,13,37,Iowa,3,29,False,Beaver Stadium
+2011,6,20111008,NC State,38,20,Central Michigan,24,75,False,Carter-Finley Stadium
+2011,6,20111008,Virginia Tech,38,25,Miami (FL),35,19,False,Lane Stadium
+2011,6,20111008,Utah,14,104,Arizona St.,35,96,False,Rice-Eccles Stadium
+2011,6,20111008,Idaho,11,133,Louisiana Tech,24,54,False,Kibbie Dome
+2011,6,20111008,Arkansas,38,108,Auburn,14,109,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2011,6,20111008,Alabama,34,107,Vanderbilt,0,120,False,Bryant Denny Stadium
+2011,6,20111008,Northwestern,24,35,Michigan,42,31,False,Ryan Field
+2011,6,20111008,Texas Tech,40,49,Texas A&M,45,119,False,Jones AT&T Stadium
+2011,6,20111008,Baylor,49,41,Iowa St.,26,42,False,Floyd Casey Stadium
+2011,6,20111008,Louisiana,31,126,Troy,17,129,False,Cajun Field
+2011,6,20111008,Central Florida,16,1,Marshall,6,55,False,Bright House Networks Stadium
+2011,6,20111008,Houston,56,5,East Carolina,3,4,False,Robertson Stadium
+2011,6,20111008,UL Monroe,19,130,Arkansas St.,24,122,False,Malone Stadium
+2011,6,20111008,Nevada,37,88,UNLV,0,92,False,Mackay Stadium
+2011,6,20111008,Tennessee,12,118,Georgia,20,111,False,Neyland Stadium
+2011,6,20111008,Stanford,48,101,Colorado,7,98,False,Stanford Stadium
+2011,6,20111008,North Texas,31,57,Florida Atlantic,17,52,False,Apogee Stadium
+2011,6,20111008,Nebraska,34,34,Ohio St.,27,36,False,Memorial Stadium
+2011,6,20111008,Utah St.,63,93,Wyoming,19,94,False,Romney Stadium
+2011,6,20111008,Tulane,34,11,Syracuse,37,23,False,Mercedes-Benz Superdome
+2011,6,20111008,BYU,29,66,San Jose St.,16,91,False,LaVell Edwards Stadium
+2011,6,20111008,UCLA,28,102,Washington St.,25,106,False,Rose Bowl
+2011,6,20111008,San Diego St.,14,90,TCU,27,47,False,Qualcomm Stadium
+2011,7,20111013,Air Force,27,83,San Diego St.,41,90,False,Falcon Stadium
+2011,7,20111013,California,9,97,USC,30,103,False,
+2011,7,20111014,San Jose St.,28,91,Hawaii,27,87,False,Spartan Stadium
+2011,7,20111015,Bowling Green,21,73,Toledo,28,81,False,Doyt Perry Stadium
+2011,7,20111015,Michigan St.,28,32,Michigan,14,31,False,Spartan Stadium
+2011,7,20111015,Pittsburgh,14,22,Utah,26,104,False,Heinz Field
+2011,7,20111015,Penn State,23,37,Purdue,18,38,False,Beaver Stadium
+2011,7,20111015,Texas A&M,55,119,Baylor,28,41,False,Kyle Field
+2011,7,20111015,Wisconsin,59,40,Indiana,7,28,False,Camp Randall Stadium
+2011,7,20111015,Cincinnati,25,2,Louisville,16,18,False,
+2011,7,20111015,Mississippi St.,12,114,South Carolina,14,117,False,Davis Wade Stadium
+2011,7,20111015,North Carolina,24,21,Miami (FL),30,19,False,Kenan Memorial Stadium
+2011,7,20111015,Temple,34,10,Buffalo,0,74,False,Lincoln Financial Field
+2011,7,20111015,Rutgers,21,39,Navy,20,7,False,High Point Solutions Stadium
+2011,7,20111015,Missouri,52,115,Iowa St.,17,42,False,Faurot Field
+2011,7,20111015,Wyoming,41,94,UNLV,14,92,False,War Memorial Stadium
+2011,7,20111015,Duke,16,15,Florida St.,41,16,False,Wallace Wade Stadium
+2011,7,20111015,Central Michigan,28,75,Eastern Michigan,35,76,False,Kelly/Shorts Stadium
+2011,7,20111015,Marshall,24,55,Rice,20,59,False,Joan C. Edwards Stadium
+2011,7,20111015,SMU,38,8,Central Florida,17,1,False,Gerald J. Ford Stadium
+2011,7,20111015,Northern Illinois,51,79,Western Michigan,22,82,False,Brigham Field at Huskie Stadium
+2011,7,20111015,Tennessee,7,118,LSU,38,113,False,Neyland Stadium
+2011,7,20111015,Illinois,7,27,Ohio St.,17,36,False,Memorial Stadium
+2011,7,20111015,Washington,52,105,Colorado,24,98,False,Husky Stadium
+2011,7,20111015,Ohio,20,80,Ball St.,23,72,False,Peden Stadium
+2011,7,20111015,Connecticut,16,3,South Florida,10,9,False,Rentschler Field
+2011,7,20111015,Kent State,3,77,Miami (OH),9,78,False,Dix Stadium
+2011,7,20111015,Tulane,7,11,UTEP,44,62,False,Mercedes-Benz Superdome
+2011,7,20111015,Texas,26,48,Oklahoma St.,38,46,False,Darrell K Royal-Texas Memorial Stadium
+2011,7,20111015,Virginia,24,24,Georgia Tech,21,17,False,Scott Stadium
+2011,7,20111015,Florida Atlantic,0,52,Western Kentucky,20,64,False,FAU Stadium
+2011,7,20111015,Oregon St.,28,100,BYU,38,66,False,Reser Stadium
+2011,7,20111015,Nevada,49,88,New Mexico,7,89,False,Mackay Stadium
+2011,7,20111015,Louisiana,30,126,North Texas,10,57,False,Cajun Field
+2011,7,20111015,Ole Miss,7,116,Alabama,52,107,False,Vaught-Hemingway Stadium
+2011,7,20111015,Colorado St.,13,85,Boise St.,63,84,False,Sonny Lubick Field at Hughes Stadium
+2011,7,20111015,Wake Forest,17,26,Virginia Tech,38,25,False,BB&T Field
+2011,7,20111015,Memphis,17,6,East Carolina,35,4,False,Liberty Bowl Memorial Stadium
+2011,7,20111015,Auburn,17,109,Florida,6,110,False,Jordan-Hare Stadium
+2011,7,20111015,Maryland,45,30,Clemson,56,14,False,Maryland Stadium
+2011,7,20111015,Texas Tech,34,49,Kansas St.,41,44,False,Jones AT&T Stadium
+2011,7,20111015,Troy,10,129,UL Monroe,38,130,False,Veterans Memorial Stadium
+2011,7,20111015,Vanderbilt,28,120,Georgia,33,111,False,Vanderbilt Stadium
+2011,7,20111015,Iowa,41,29,Northwestern,31,35,False,Kinnick Stadium
+2011,7,20111015,Washington St.,14,106,Stanford,44,101,False,Martin Stadium
+2011,7,20111015,Tulsa,37,12,UAB,20,61,False,Skelly Field at H. A. Chapman Stadium
+2011,7,20111015,New Mexico State,31,69,Idaho,24,133,False,Aggie Memorial Stadium
+2011,7,20111015,Kansas,17,43,Oklahoma,47,45,False,Memorial Stadium
+2011,7,20111015,Fresno St.,31,86,Utah St.,21,93,False,Bulldog Stadium
+2011,7,20111015,Oregon,41,99,Arizona St.,27,96,False,Autzen Stadium
+2011,8,20111018,Arkansas St.,34,122,Florida Intl,16,53,False,Centennial Bank Stadium
+2011,8,20111020,UAB,26,61,Central Florida,24,1,False,Legion Field
+2011,8,20111020,Arizona,48,95,UCLA,12,102,False,Arizona Stadium
+2011,8,20111021,Syracuse,49,23,West Virginia,23,50,False,Carrier Dome
+2011,8,20111021,Louisville,16,18,Rutgers,14,39,False,Papa John's Cardinal Stadium
+2011,8,20111022,Kansas,21,43,Kansas St.,59,44,False,Memorial Stadium
+2011,8,20111022,Iowa,45,29,Indiana,24,28,False,Kinnick Stadium
+2011,8,20111022,Buffalo,30,74,Northern Illinois,31,79,False,UB Stadium
+2011,8,20111022,Kentucky,38,112,Jacksonville State,14,204,False,Kroger Field
+2011,8,20111022,Missouri,24,115,Oklahoma St.,45,46,False,Faurot Field
+2011,8,20111022,South Florida,34,9,Cincinnati,37,2,False,Raymond James Stadium
+2011,8,20111022,Purdue,21,38,Illinois,14,27,False,Ross-Ade Stadium
+2011,8,20111022,Clemson,59,14,North Carolina,38,21,False,Memorial Stadium
+2011,8,20111022,Ole Miss,24,116,Arkansas,29,108,False,Vaught-Hemingway Stadium
+2011,8,20111022,Duke,23,15,Wake Forest,24,26,False,Wallace Wade Stadium
+2011,8,20111022,Eastern Michigan,14,76,Western Michigan,10,82,False,Rynearson Stadium
+2011,8,20111022,Ball St.,31,72,Central Michigan,27,75,False,Scheumann Stadium
+2011,8,20111022,TCU,69,47,New Mexico,0,89,False,Amon G. Carter Stadium
+2011,8,20111022,BYU,56,66,Idaho State,3,134,False,LaVell Edwards Stadium
+2011,8,20111022,Utah St.,17,93,Louisiana Tech,24,54,False,Romney Stadium
+2011,8,20111022,Virginia Tech,30,25,Boston College,14,13,False,Lane Stadium
+2011,8,20111022,Colorado,2,98,Oregon,45,99,False,Folsom Field
+2011,8,20111022,Minnesota,14,33,Nebraska,41,34,False,TCF Bank Stadium
+2011,8,20111022,Iowa St.,17,42,Texas A&M,33,119,False,Jack Trice Stadium
+2011,8,20111022,Miami (FL),24,19,Georgia Tech,7,17,False,Hard Rock Stadium
+2011,8,20111022,Boise St.,37,84,Air Force,26,83,False,Albertsons Stadium
+2011,8,20111022,LSU,45,113,Auburn,10,109,False,Tiger Stadium
+2011,8,20111022,Florida St.,41,16,Maryland,16,30,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,8,20111022,Virginia,14,24,NC State,28,20,False,Scott Stadium
+2011,8,20111022,Bowling Green,13,73,Temple,10,10,False,Doyt Perry Stadium
+2011,8,20111022,Tulane,17,11,Memphis,33,6,False,Mercedes-Benz Superdome
+2011,8,20111022,Akron,20,71,Ohio,37,80,False,Summa Field at InfoCision Stadium
+2011,8,20111022,Navy,35,7,East Carolina,38,4,False,Navy-Marine Corps Memorial Stadium
+2011,8,20111022,Western Kentucky,42,64,Louisiana,23,126,False,Houchens Industries-L. T. Smith Stadium
+2011,8,20111022,Nevada,45,88,Fresno St.,38,86,False,Mackay Stadium
+2011,8,20111022,Houston,63,5,Marshall,28,55,False,Robertson Stadium
+2011,8,20111022,North Texas,38,57,UL Monroe,21,130,False,Apogee Stadium
+2011,8,20111022,California,34,97,Utah,10,104,False,
+2011,8,20111022,Toledo,49,81,Miami (OH),28,78,False,Glass Bowl
+2011,8,20111022,Vanderbilt,44,120,Army,21,65,False,Vanderbilt Stadium
+2011,8,20111022,Rice,20,59,Tulsa,38,12,False,Rice Stadium
+2011,8,20111022,Northwestern,24,35,Penn State,34,37,False,Ryan Field
+2011,8,20111022,Alabama,37,107,Tennessee,6,118,False,Bryant Denny Stadium
+2011,8,20111022,Notre Dame,17,70,USC,31,103,False,Notre Dame Stadium
+2011,8,20111022,Southern Miss,27,60,SMU,3,8,False,M. M. Roberts Stadium
+2011,8,20111022,UTEP,31,62,Colorado St.,17,85,False,Sun Bowl Stadium
+2011,8,20111022,Florida Atlantic,14,52,Middle Tennessee,38,56,False,FAU Stadium
+2011,8,20111022,Oklahoma,38,45,Texas Tech,41,49,False,Gaylord Family Oklahoma Memorial Stadium
+2011,8,20111022,Stanford,65,101,Washington,21,105,False,Stanford Stadium
+2011,8,20111022,Michigan St.,37,32,Wisconsin,31,40,False,Spartan Stadium
+2011,8,20111022,Washington St.,21,106,Oregon St.,44,100,False,
+2011,8,20111023,Hawaii,45,87,New Mexico State,34,69,False,Aloha Stadium
+2011,9,20111025,Florida Intl,23,53,Troy,20,129,False,FIU Stadium
+2011,9,20111026,Pittsburgh,35,22,Connecticut,20,3,False,Heinz Field
+2011,9,20111027,Houston,73,5,Rice,34,59,False,Robertson Stadium
+2011,9,20111027,Miami (FL),21,19,Virginia,28,24,False,Hard Rock Stadium
+2011,9,20111028,TCU,38,47,BYU,28,66,True,
+2011,9,20111029,Florida St.,34,16,NC State,0,20,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,9,20111029,Texas A&M,31,119,Missouri,38,115,False,Kyle Field
+2011,9,20111029,Michigan,36,31,Purdue,14,38,False,Michigan Stadium
+2011,9,20111029,Louisville,27,18,Syracuse,10,23,False,Papa John's Cardinal Stadium
+2011,9,20111029,Indiana,38,28,Northwestern,59,35,False,Memorial Stadium
+2011,9,20111029,Nebraska,24,34,Michigan St.,3,32,False,Memorial Stadium
+2011,9,20111029,Akron,22,71,Central Michigan,23,75,False,Summa Field at InfoCision Stadium
+2011,9,20111029,Marshall,59,55,UAB,14,61,False,Joan C. Edwards Stadium
+2011,9,20111029,Vanderbilt,28,120,Arkansas,31,108,False,Vanderbilt Stadium
+2011,9,20111029,Duke,10,15,Virginia Tech,14,25,False,Wallace Wade Stadium
+2011,9,20111029,Kent State,27,77,Bowling Green,15,73,False,Dix Stadium
+2011,9,20111029,Western Michigan,45,82,Ball St.,35,72,False,Waldo Stadium
+2011,9,20111029,New Mexico,0,89,Air Force,42,83,False,University Stadium
+2011,9,20111029,Maryland,17,30,Boston College,28,13,False,Maryland Stadium
+2011,9,20111029,Oregon,43,99,Washington St.,28,106,False,Autzen Stadium
+2011,9,20111029,Penn State,10,37,Illinois,7,27,False,Beaver Stadium
+2011,9,20111029,Oklahoma St.,59,46,Baylor,24,41,False,Boone Pickens Stadium
+2011,9,20111029,Kansas St.,17,44,Oklahoma,58,45,False,Bill Snyder Family Football Stadium
+2011,9,20111029,Florida,20,110,Georgia,24,111,True,
+2011,9,20111029,Rutgers,31,39,West Virginia,41,50,False,High Point Solutions Stadium
+2011,9,20111029,Miami (OH),41,78,Buffalo,13,74,False,Yager Stadium
+2011,9,20111029,East Carolina,34,4,Tulane,13,11,False,Dowdy-Ficklen Stadium
+2011,9,20111029,North Carolina,49,21,Wake Forest,24,26,False,Kenan Memorial Stadium
+2011,9,20111029,Army,55,65,Fordham,0,212,False,Blaik Field at Michie Stadium
+2011,9,20111029,Tulsa,38,12,SMU,7,8,False,Skelly Field at H. A. Chapman Stadium
+2011,9,20111029,UL Monroe,28,130,Western Kentucky,31,64,False,Malone Stadium
+2011,9,20111029,Minnesota,22,33,Iowa,21,29,False,TCF Bank Stadium
+2011,9,20111029,Notre Dame,56,70,Navy,14,7,False,Notre Dame Stadium
+2011,9,20111029,Central Florida,41,1,Memphis,0,6,False,Bright House Networks Stadium
+2011,9,20111029,Louisiana Tech,38,54,San Jose St.,28,91,False,Joe Aillet Stadium
+2011,9,20111029,Idaho,14,133,Hawaii,16,87,False,Kibbie Dome
+2011,9,20111029,UNLV,38,92,Colorado St.,35,85,False,Sam Boyd Stadium
+2011,9,20111029,Arizona St.,48,96,Colorado,14,98,False,Sun Devil Stadium
+2011,9,20111029,Auburn,41,109,Ole Miss,23,116,False,Jordan-Hare Stadium
+2011,9,20111029,Texas,43,48,Kansas,0,43,False,Darrell K Royal-Texas Memorial Stadium
+2011,9,20111029,Texas Tech,7,49,Iowa St.,41,42,False,Jones AT&T Stadium
+2011,9,20111029,UCLA,31,102,California,14,97,False,Rose Bowl
+2011,9,20111029,Kentucky,16,112,Mississippi St.,28,114,False,Kroger Field
+2011,9,20111029,Utah,27,104,Oregon St.,8,100,False,Rice-Eccles Stadium
+2011,9,20111029,Arkansas St.,37,122,North Texas,14,57,False,Centennial Bank Stadium
+2011,9,20111029,Tennessee,3,118,South Carolina,14,117,False,Neyland Stadium
+2011,9,20111029,Middle Tennessee,20,56,Louisiana,45,126,False,"Johnny Red"""" Floyd Stadium"""""
+2011,9,20111029,UTEP,13,62,Southern Miss,31,60,False,Sun Bowl Stadium
+2011,9,20111029,New Mexico State,34,69,Nevada,48,88,False,Aggie Memorial Stadium
+2011,9,20111029,Georgia Tech,31,17,Clemson,17,14,False,Bobby Dodd Stadium at Historic Grant Field
+2011,9,20111029,Ohio St.,33,36,Wisconsin,29,40,False,Ohio Stadium
+2011,9,20111029,USC,48,103,Stanford,56,101,False,Los Angeles Memorial Coliseum
+2011,9,20111029,San Diego St.,27,90,Wyoming,30,94,False,Qualcomm Stadium
+2011,9,20111029,Washington,42,105,Arizona,31,95,False,Husky Stadium
+2011,10,20111101,Toledo,60,81,Northern Illinois,63,79,False,Glass Bowl
+2011,10,20111102,Ohio,35,80,Temple,31,10,False,Peden Stadium
+2011,10,20111103,Miami (OH),35,78,Akron,3,71,False,Yager Stadium
+2011,10,20111103,Central Florida,17,1,Tulsa,24,12,False,Bright House Networks Stadium
+2011,10,20111103,Boston College,7,13,Florida St.,38,16,False,Alumni Stadium
+2011,10,20111104,Kent State,24,77,Central Michigan,21,75,False,Dix Stadium
+2011,10,20111104,Colorado,17,98,USC,42,103,False,Folsom Field
+2011,10,20111105,Iowa,24,29,Michigan,16,31,False,Kinnick Stadium
+2011,10,20111105,Michigan St.,31,32,Minnesota,24,33,False,Spartan Stadium
+2011,10,20111105,Ohio St.,34,36,Indiana,20,28,False,Ohio Stadium
+2011,10,20111105,Eastern Michigan,31,76,Ball St.,33,72,False,Rynearson Stadium
+2011,10,20111105,Texas,52,48,Texas Tech,20,49,False,Darrell K Royal-Texas Memorial Stadium
+2011,10,20111105,West Virginia,35,50,Louisville,38,18,False,Mountaineer Field at Milan Puskar Stadium
+2011,10,20111105,Connecticut,28,3,Syracuse,21,23,False,Rentschler Field
+2011,10,20111105,Florida,26,110,Vanderbilt,21,120,False,Ben Hill Griffin Stadium
+2011,10,20111105,NC State,13,20,North Carolina,0,21,False,Carter-Finley Stadium
+2011,10,20111105,Iowa St.,13,42,Kansas,10,43,False,Jack Trice Stadium
+2011,10,20111105,Maryland,13,30,Virginia,31,24,False,Maryland Stadium
+2011,10,20111105,Georgia,63,111,New Mexico State,16,69,False,Sanford Stadium
+2011,10,20111105,Wyoming,20,94,TCU,31,47,False,War Memorial Stadium
+2011,10,20111105,SMU,45,8,Tulane,24,11,False,Gerald J. Ford Stadium
+2011,10,20111105,Miami (FL),49,19,Duke,14,15,False,Hard Rock Stadium
+2011,10,20111105,Rice,41,59,UTEP,37,62,False,Rice Stadium
+2011,10,20111105,Navy,42,7,Troy,14,129,False,Navy-Marine Corps Memorial Stadium
+2011,10,20111105,Air Force,24,83,Army,14,65,False,Falcon Stadium
+2011,10,20111105,Louisiana,36,126,UL Monroe,35,130,False,Cajun Field
+2011,10,20111105,Kentucky,30,112,Ole Miss,13,116,False,Kroger Field
+2011,10,20111105,Oregon St.,13,100,Stanford,38,101,False,Reser Stadium
+2011,10,20111105,Oklahoma,41,45,Texas A&M,25,119,False,Gaylord Family Oklahoma Memorial Stadium
+2011,10,20111105,Nebraska,25,34,Northwestern,28,35,False,Memorial Stadium
+2011,10,20111105,Wisconsin,62,40,Purdue,17,38,False,Camp Randall Stadium
+2011,10,20111105,Florida Atlantic,21,52,Arkansas St.,39,122,False,FAU Stadium
+2011,10,20111105,East Carolina,28,4,Southern Miss,48,60,False,Dowdy-Ficklen Stadium
+2011,10,20111105,Western Kentucky,10,64,Florida Intl,9,53,False,Houchens Industries-L. T. Smith Stadium
+2011,10,20111105,San Jose St.,29,91,Idaho,32,133,False,Spartan Stadium
+2011,10,20111105,California,30,97,Washington St.,7,106,False,
+2011,10,20111105,Rutgers,20,39,South Florida,17,9,False,High Point Solutions Stadium
+2011,10,20111105,Arizona,21,95,Utah,34,104,False,Arizona Stadium
+2011,10,20111105,Pittsburgh,23,22,Cincinnati,26,2,False,Heinz Field
+2011,10,20111105,Baylor,42,41,Missouri,39,115,False,Floyd Casey Stadium
+2011,10,20111105,Tennessee,24,118,Middle Tennessee,0,56,False,Neyland Stadium
+2011,10,20111105,UAB,13,61,Houston,56,5,False,Legion Field
+2011,10,20111105,Arkansas,44,108,South Carolina,28,117,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2011,10,20111105,UCLA,29,102,Arizona St.,28,96,False,Rose Bowl
+2011,10,20111105,Mississippi St.,55,114,Tennessee-Martin,17,209,False,Davis Wade Stadium
+2011,10,20111105,San Diego St.,35,90,New Mexico,7,89,False,Qualcomm Stadium
+2011,10,20111105,Wake Forest,17,26,Notre Dame,24,70,False,BB&T Field
+2011,10,20111105,Alabama,6,107,LSU,9,113,False,Bryant Denny Stadium
+2011,10,20111105,Oklahoma St.,52,46,Kansas St.,45,44,False,Boone Pickens Stadium
+2011,10,20111105,UNLV,21,92,Boise St.,48,84,False,Sam Boyd Stadium
+2011,10,20111105,Washington,17,105,Oregon,34,99,False,Husky Stadium
+2011,10,20111105,Fresno St.,21,86,Louisiana Tech,41,54,False,Bulldog Stadium
+2011,10,20111106,Hawaii,31,87,Utah St.,35,93,False,Aloha Stadium
+2011,11,20111108,Bowling Green,14,73,Northern Illinois,45,79,False,Doyt Perry Stadium
+2011,11,20111108,Toledo,66,81,Western Michigan,63,82,False,Glass Bowl
+2011,11,20111109,Temple,24,10,Miami (OH),21,78,False,Lincoln Financial Field
+2011,11,20111110,Central Michigan,28,75,Ohio,43,80,False,Kelly/Shorts Stadium
+2011,11,20111110,Georgia Tech,26,17,Virginia Tech,37,25,False,Bobby Dodd Stadium at Historic Grant Field
+2011,11,20111110,Tulane,17,11,Houston,73,5,False,Mercedes-Benz Superdome
+2011,11,20111111,Syracuse,17,23,South Florida,37,9,False,Carrier Dome
+2011,11,20111112,Clemson,31,14,Wake Forest,28,26,False,Memorial Stadium
+2011,11,20111112,Texas Tech,6,49,Oklahoma St.,66,46,False,Jones AT&T Stadium
+2011,11,20111112,South Carolina,17,117,Florida,12,110,False,Williams-Brice Stadium
+2011,11,20111112,Penn State,14,37,Nebraska,17,34,False,Beaver Stadium
+2011,11,20111112,Northwestern,28,35,Rice,6,59,False,Ryan Field
+2011,11,20111112,Tulsa,59,12,Marshall,17,55,False,Skelly Field at H. A. Chapman Stadium
+2011,11,20111112,Missouri,17,115,Texas,5,48,False,Faurot Field
+2011,11,20111112,Iowa,21,29,Michigan St.,37,32,False,Kinnick Stadium
+2011,11,20111112,Purdue,26,38,Ohio St.,23,36,False,Ross-Ade Stadium
+2011,11,20111112,Louisville,14,18,Pittsburgh,21,22,False,Papa John's Cardinal Stadium
+2011,11,20111112,Cincinnati,21,2,West Virginia,24,50,False,
+2011,11,20111112,Vanderbilt,38,120,Kentucky,8,112,False,Vanderbilt Stadium
+2011,11,20111112,Boston College,14,13,NC State,10,20,False,Alumni Stadium
+2011,11,20111112,Troy,33,129,North Texas,38,57,False,Veterans Memorial Stadium
+2011,11,20111112,Eastern Michigan,30,76,Buffalo,17,74,False,Rynearson Stadium
+2011,11,20111112,Kansas,30,43,Baylor,31,41,False,Memorial Stadium
+2011,11,20111112,Air Force,17,83,Wyoming,25,94,False,Falcon Stadium
+2011,11,20111112,Akron,3,71,Kent State,35,77,False,Summa Field at InfoCision Stadium
+2011,11,20111112,Colorado,48,98,Arizona,29,95,False,Folsom Field
+2011,11,20111112,Arkansas St.,30,122,Louisiana,21,126,False,Centennial Bank Stadium
+2011,11,20111112,Virginia,31,24,Duke,21,15,False,Scott Stadium
+2011,11,20111112,Utah St.,34,93,San Jose St.,33,91,False,Romney Stadium
+2011,11,20111112,Florida St.,23,16,Miami (FL),19,19,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,11,20111112,Georgia,45,111,Auburn,7,109,False,Sanford Stadium
+2011,11,20111112,Minnesota,13,33,Wisconsin,42,40,False,TCF Bank Stadium
+2011,11,20111112,Illinois,14,27,Michigan,31,31,False,Memorial Stadium
+2011,11,20111112,Army,12,65,Rutgers,27,39,True,
+2011,11,20111112,UL Monroe,42,130,Middle Tennessee,14,56,False,Malone Stadium
+2011,11,20111112,SMU,17,8,Navy,24,7,False,Gerald J. Ford Stadium
+2011,11,20111112,Kansas St.,53,44,Texas A&M,50,119,False,Bill Snyder Family Football Stadium
+2011,11,20111112,Boise St.,35,84,TCU,36,47,False,Albertsons Stadium
+2011,11,20111112,USC,40,103,Washington,17,105,False,Los Angeles Memorial Coliseum
+2011,11,20111112,Memphis,35,6,UAB,41,61,False,Liberty Bowl Memorial Stadium
+2011,11,20111112,Colorado St.,15,85,San Diego St.,18,90,False,Sonny Lubick Field at Hughes Stadium
+2011,11,20111112,Florida Intl,41,53,Florida Atlantic,7,52,False,FIU Stadium
+2011,11,20111112,Arkansas,49,108,Tennessee,7,118,False,Donald W. Reynolds Razorback Stadium Frank Broyles Field
+2011,11,20111112,California,23,97,Oregon St.,6,100,False,
+2011,11,20111112,Utah,31,104,UCLA,6,102,False,Rice-Eccles Stadium
+2011,11,20111112,LSU,42,113,Western Kentucky,9,64,False,Tiger Stadium
+2011,11,20111112,Notre Dame,45,70,Maryland,21,30,True,
+2011,11,20111112,Ole Miss,7,116,Louisiana Tech,27,54,False,Vaught-Hemingway Stadium
+2011,11,20111112,Mississippi St.,7,114,Alabama,24,107,False,Davis Wade Stadium
+2011,11,20111112,Stanford,30,101,Oregon,53,99,False,Stanford Stadium
+2011,11,20111112,Southern Miss,30,60,Central Florida,29,1,False,M. M. Roberts Stadium
+2011,11,20111112,UTEP,22,62,East Carolina,17,4,False,Sun Bowl Stadium
+2011,11,20111112,New Mexico State,48,69,Fresno St.,45,86,False,Aggie Memorial Stadium
+2011,11,20111112,BYU,42,66,Idaho,7,133,False,LaVell Edwards Stadium
+2011,11,20111112,New Mexico,21,89,UNLV,14,92,False,University Stadium
+2011,11,20111112,Nevada,42,88,Hawaii,28,87,False,Mackay Stadium
+2011,11,20111112,Washington St.,37,106,Arizona St.,27,96,False,Martin Stadium
+2011,12,20111115,Northern Illinois,41,79,Ball St.,38,72,False,Brigham Field at Huskie Stadium
+2011,12,20111116,Bowling Green,28,73,Ohio,29,80,False,Doyt Perry Stadium
+2011,12,20111116,Miami (OH),21,78,Western Michigan,24,82,False,Yager Stadium
+2011,12,20111117,Virginia Tech,24,25,North Carolina,21,21,False,Lane Stadium
+2011,12,20111117,UAB,34,61,Southern Miss,31,60,False,Legion Field
+2011,12,20111117,Memphis,22,6,Marshall,23,55,False,
+2011,12,20111118,Iowa St.,37,42,Oklahoma St.,31,46,False,Jack Trice Stadium
+2011,12,20111118,Central Michigan,17,75,Toledo,44,81,False,Kelly/Shorts Stadium
+2011,12,20111119,Northwestern,28,35,Minnesota,13,33,False,Ryan Field
+2011,12,20111119,South Carolina,41,117,Citadel,20,228,False,Williams-Brice Stadium
+2011,12,20111119,Rutgers,20,39,Cincinnati,3,2,False,High Point Solutions Stadium
+2011,12,20111119,Michigan St.,55,32,Indiana,3,28,False,Spartan Stadium
+2011,12,20111119,Michigan,45,31,Nebraska,17,34,False,Michigan Stadium
+2011,12,20111119,Illinois,17,27,Wisconsin,28,40,False,Memorial Stadium
+2011,12,20111119,Connecticut,20,3,Louisville,34,18,False,Rentschler Field
+2011,12,20111119,Purdue,21,38,Iowa,31,29,False,Ross-Ade Stadium
+2011,12,20111119,Buffalo,51,74,Akron,10,71,False,UB Stadium
+2011,12,20111119,Texas A&M,61,119,Kansas,7,43,False,Kyle Field
+2011,12,20111119,Georgia,19,111,Kentucky,10,112,False,Sanford Stadium
+2011,12,20111119,Duke,31,15,Georgia Tech,38,17,False,Wallace Wade Stadium
+2011,12,20111119,Auburn,35,109,Samford,16,232,False,Jordan-Hare Stadium
+2011,12,20111119,Kent State,28,77,Eastern Michigan,22,76,False,Dix Stadium
+2011,12,20111119,Florida,54,110,Furman,32,230,False,Ben Hill Griffin Stadium
+2011,12,20111119,Temple,42,10,Army,14,65,False,Lincoln Financial Field
+2011,12,20111119,Wyoming,31,94,New Mexico,10,89,False,War Memorial Stadium
+2011,12,20111119,Alabama,45,107,Georgia Southern,21,124,False,Bryant Denny Stadium
+2011,12,20111119,UTEP,28,62,Tulsa,57,12,False,Sun Bowl Stadium
+2011,12,20111119,Middle Tennessee,19,56,Arkansas St.,45,122,False,"Johnny Red"""" Floyd Stadium"""""
+2011,12,20111119,Wake Forest,31,26,Maryland,10,30,False,BB&T Field
+2011,12,20111119,Houston,37,5,SMU,7,8,False,Robertson Stadium
+2011,12,20111119,NC State,37,20,Clemson,13,14,False,Carter-Finley Stadium
+2011,12,20111119,Arkansas,44,108,Mississippi St.,17,114,False,
+2011,12,20111119,Missouri,31,115,Texas Tech,27,49,False,Faurot Field
+2011,12,20111119,Ohio St.,14,36,Penn State,20,37,False,Ohio Stadium
+2011,12,20111119,Oregon St.,38,100,Washington,21,105,False,Reser Stadium
+2011,12,20111119,Rice,19,59,Tulane,7,11,False,Rice Stadium
+2011,12,20111119,South Florida,3,9,Miami (FL),6,19,False,Raymond James Stadium
+2011,12,20111119,TCU,34,47,Colorado St.,10,85,False,Amon G. Carter Stadium
+2011,12,20111119,Troy,34,129,Florida Atlantic,7,52,False,Veterans Memorial Stadium
+2011,12,20111119,San Jose St.,27,91,Navy,24,7,False,Spartan Stadium
+2011,12,20111119,Notre Dame,16,70,Boston College,14,13,False,Notre Dame Stadium
+2011,12,20111119,Nevada,20,88,Louisiana Tech,24,54,False,Mackay Stadium
+2011,12,20111119,UL Monroe,17,130,Florida Intl,28,53,False,Malone Stadium
+2011,12,20111119,Idaho,42,133,Utah St.,49,93,False,Kibbie Dome
+2011,12,20111119,Washington St.,27,106,Utah,30,104,False,Martin Stadium
+2011,12,20111119,Air Force,45,83,UNLV,17,92,False,Falcon Stadium
+2011,12,20111119,North Texas,21,57,Western Kentucky,31,64,False,Apogee Stadium
+2011,12,20111119,Tennessee,27,118,Vanderbilt,21,120,False,Neyland Stadium
+2011,12,20111119,East Carolina,38,4,Central Florida,31,1,False,Dowdy-Ficklen Stadium
+2011,12,20111119,Ole Miss,3,116,LSU,52,113,False,Vaught-Hemingway Stadium
+2011,12,20111119,UCLA,45,102,Colorado,6,98,False,Rose Bowl
+2011,12,20111119,Florida St.,13,16,Virginia,14,24,False,Bobby Bowden Field at Doak Campbell Stadium
+2011,12,20111119,Baylor,45,41,Oklahoma,38,45,False,Floyd Casey Stadium
+2011,12,20111119,San Diego St.,35,90,Boise St.,52,84,False,Qualcomm Stadium
+2011,12,20111119,Texas,13,48,Kansas St.,17,44,False,Darrell K Royal-Texas Memorial Stadium
+2011,12,20111119,Oregon,35,99,USC,38,103,False,Autzen Stadium
+2011,12,20111119,Arizona St.,27,96,Arizona,31,95,False,Sun Devil Stadium
+2011,12,20111119,BYU,42,66,New Mexico State,7,69,False,LaVell Edwards Stadium
+2011,12,20111119,Stanford,31,101,California,28,97,False,Stanford Stadium
+2011,12,20111119,Hawaii,21,87,Fresno St.,24,86,False,Aloha Stadium
+2011,13,20111122,Ohio,21,80,Miami (OH),14,78,False,Peden Stadium
+2011,13,20111124,Texas A&M,25,119,Texas,27,48,False,Kyle Field
+2011,13,20111125,Northern Illinois,18,79,Eastern Michigan,12,76,False,Brigham Field at Huskie Stadium
+2011,13,20111125,South Florida,24,9,Louisville,34,18,False,Raymond James Stadium
+2011,13,20111125,Temple,34,10,Kent State,16,77,False,Lincoln Financial Field
+2011,13,20111125,Tulsa,16,12,Houston,48,5,False,Skelly Field at H. A. Chapman Stadium
+2011,13,20111125,Nebraska,20,34,Iowa,7,29,False,Memorial Stadium
+2011,13,20111125,Buffalo,28,74,Bowling Green,42,73,False,UB Stadium
+2011,13,20111125,Western Michigan,68,82,Akron,19,71,False,Waldo Stadium
+2011,13,20111125,Ball St.,28,72,Toledo,45,81,False,Scheumann Stadium
+2011,13,20111125,LSU,41,113,Arkansas,17,108,False,Tiger Stadium
+2011,13,20111125,Utah,14,104,Colorado,17,98,False,Rice-Eccles Stadium
+2011,13,20111125,Miami (FL),17,19,Boston College,24,13,False,Hard Rock Stadium
+2011,13,20111125,West Virginia,21,50,Pittsburgh,20,22,False,Mountaineer Field at Milan Puskar Stadium
+2011,13,20111125,Central Florida,31,1,UTEP,14,62,False,Bright House Networks Stadium
+2011,13,20111125,Arizona St.,38,96,California,47,97,False,Sun Devil Stadium
+2011,13,20111126,Connecticut,40,3,Rutgers,22,39,False,Rentschler Field
+2011,13,20111126,Syracuse,13,23,Cincinnati,30,2,False,Carrier Dome
+2011,13,20111126,SMU,27,8,Rice,24,59,False,Gerald J. Ford Stadium
+2011,13,20111126,Oklahoma,26,45,Iowa St.,6,42,False,Gaylord Family Oklahoma Memorial Stadium
+2011,13,20111126,Georgia Tech,17,17,Georgia,31,111,False,Bobby Dodd Stadium at Historic Grant Field
+2011,13,20111126,Northwestern,17,35,Michigan St.,31,32,False,Ryan Field
+2011,13,20111126,Michigan,40,31,Ohio St.,34,36,False,Michigan Stadium
+2011,13,20111126,Kentucky,10,112,Tennessee,7,118,False,Kroger Field
+2011,13,20111126,NC State,56,20,Maryland,41,30,False,Carter-Finley Stadium
+2011,13,20111126,Western Kentucky,41,64,Troy,18,129,False,Houchens Industries-L. T. Smith Stadium
+2011,13,20111126,Boise St.,36,84,Wyoming,14,94,False,Albertsons Stadium
+2011,13,20111126,Utah St.,21,93,Nevada,17,88,False,Romney Stadium
+2011,13,20111126,Marshall,34,55,East Carolina,27,4,False,Joan C. Edwards Stadium
+2011,13,20111126,Auburn,14,109,Alabama,42,107,False,Jordan-Hare Stadium
+2011,13,20111126,Virginia,0,24,Virginia Tech,38,25,False,Scott Stadium
+2011,13,20111126,Oregon,49,99,Oregon St.,21,100,False,Autzen Stadium
+2011,13,20111126,Wisconsin,45,40,Penn State,7,37,False,Camp Randall Stadium
+2011,13,20111126,Indiana,25,28,Purdue,33,38,False,Memorial Stadium
+2011,13,20111126,Minnesota,27,33,Illinois,7,27,False,TCF Bank Stadium
+2011,13,20111126,Middle Tennessee,18,56,Florida Intl,31,53,False,"Johnny Red"""" Floyd Stadium"""""
+2011,13,20111126,Kansas,10,43,Missouri,24,115,True,
+2011,13,20111126,North Carolina,37,21,Duke,21,15,False,Kenan Memorial Stadium
+2011,13,20111126,Wake Forest,7,26,Vanderbilt,41,120,False,BB&T Field
+2011,13,20111126,Florida Atlantic,38,52,UAB,35,61,False,FAU Stadium
+2011,13,20111126,Louisiana Tech,44,54,New Mexico State,0,69,False,Joe Aillet Stadium
+2011,13,20111126,Southern Miss,44,60,Memphis,7,6,False,M. M. Roberts Stadium
+2011,13,20111126,Arizona,45,95,Louisiana,37,126,False,Arizona Stadium
+2011,13,20111126,Colorado St.,21,85,Air Force,45,83,False,Sonny Lubick Field at Hughes Stadium
+2011,13,20111126,Florida,7,110,Florida St.,21,16,False,Ben Hill Griffin Stadium
+2011,13,20111126,Mississippi St.,31,114,Ole Miss,3,116,False,Davis Wade Stadium
+2011,13,20111126,Baylor,66,41,Texas Tech,42,49,True,Floyd Casey Stadium
+2011,13,20111126,Washington,38,105,Washington St.,21,106,False,
+2011,13,20111126,South Carolina,34,117,Clemson,13,14,False,Williams-Brice Stadium
+2011,13,20111126,Stanford,28,101,Notre Dame,14,70,False,Stanford Stadium
+2011,13,20111126,Fresno St.,24,86,San Jose St.,27,91,False,Bulldog Stadium
+2011,13,20111126,USC,50,103,UCLA,0,102,False,Los Angeles Memorial Coliseum
+2011,13,20111126,UNLV,14,92,San Diego St.,31,90,False,Sam Boyd Stadium
+2011,13,20111126,Hawaii,35,87,Tulane,23,11,False,Aloha Stadium
+2011,14,20111201,South Florida,27,9,West Virginia,30,50,False,Raymond James Stadium
+2011,14,20111202,Northern Illinois,23,79,Ohio,20,80,True,
+2011,14,20111202,Oregon,49,99,UCLA,31,102,False,
+2011,14,20111203,Houston,28,5,Southern Miss,49,60,False,
+2011,14,20111203,Pittsburgh,33,22,Syracuse,20,23,False,Heinz Field
+2011,14,20111203,Cincinnati,35,2,Connecticut,27,3,False,Nippert Stadium
+2011,14,20111203,Kansas St.,30,44,Iowa St.,23,42,False,Bill Snyder Family Football Stadium
+2011,14,20111203,Colorado St.,19,85,Wyoming,22,94,False,Sonny Lubick Field at Hughes Stadium
+2011,14,20111203,TCU,56,47,UNLV,9,92,False,Amon G. Carter Stadium
+2011,14,20111203,New Mexico State,21,69,Utah St.,24,93,False,Aggie Memorial Stadium
+2011,14,20111203,Baylor,48,41,Texas,24,48,False,Floyd Casey Stadium
+2011,14,20111203,Florida Atlantic,0,52,UL Monroe,26,130,False,
+2011,14,20111203,LSU,42,113,Georgia,10,111,True,
+2011,14,20111203,North Texas,59,57,Middle Tennessee,7,56,False,Apogee Stadium
+2011,14,20111203,Nevada,56,88,Idaho,3,133,False,Mackay Stadium
+2011,14,20111203,Arkansas St.,45,122,Troy,14,129,False,Centennial Bank Stadium
+2011,14,20111203,Boise St.,45,84,New Mexico,0,89,False,Albertsons Stadium
+2011,14,20111203,Hawaii,20,87,BYU,41,66,False,Aloha Stadium
+2011,14,20111203,Clemson,38,14,Virginia Tech,10,25,True,
+2011,14,20111203,Oklahoma St.,44,46,Oklahoma,10,45,False,Boone Pickens Stadium
+2011,14,20111203,San Diego St.,35,90,Fresno St.,28,86,False,Qualcomm Stadium
+2011,14,20111203,Michigan St.,39,32,Wisconsin,42,40,True,
+2011,15,20111210,Navy,27,7,Army,21,65,True,
+2011,1,20111217,Wyoming,15,94,Temple,37,10,True,University Stadium
+2011,1,20111217,Utah St.,23,93,Ohio,24,80,True,Albertsons Stadium
+2011,1,20111217,Louisiana,32,126,San Diego St.,30,90,True,
+2011,1,20111220,Marshall,20,55,Florida Intl,10,53,True,
+2011,1,20111221,Louisiana Tech,24,54,TCU,31,47,True,Qualcomm Stadium
+2011,1,20111222,Boise St.,56,84,Arizona St.,24,96,True,Sam Boyd Stadium
+2011,1,20111224,Southern Miss,24,60,Nevada,17,88,True,Aloha Stadium
+2011,1,20111226,North Carolina,24,21,Missouri,41,115,True,
+2011,1,20111227,Purdue,37,38,Western Michigan,32,82,True,
+2011,1,20111227,NC State,31,20,Louisville,24,18,True,
+2011,1,20111228,Air Force,41,83,Toledo,42,81,True,
+2011,1,20111228,Texas,21,48,California,10,97,True,Qualcomm Stadium
+2011,1,20111229,Notre Dame,14,70,Florida St.,18,16,True,
+2011,1,20111229,Baylor,67,41,Washington,56,105,True,Alamodome
+2011,1,20111230,Tulsa,21,12,BYU,24,66,True,Gerald J. Ford Stadium
+2011,1,20111230,Iowa St.,13,42,Rutgers,27,39,True,
+2011,1,20111230,Wake Forest,17,26,Mississippi St.,23,114,True,Nissan Stadium
+2011,1,20111230,Oklahoma,31,45,Iowa,14,29,True,Sun Devil Stadium
+2011,1,20111231,Northwestern,22,35,Texas A&M,33,119,True,
+2011,1,20111231,Utah,30,104,Georgia Tech,27,17,True,Sun Bowl Stadium
+2011,1,20111231,UCLA,14,102,Illinois,20,27,True,
+2011,1,20111231,Vanderbilt,24,120,Cincinnati,31,2,True,Liberty Bowl Memorial Stadium
+2011,1,20111231,Auburn,43,109,Virginia,24,24,True,Georgia Dome
+2011,1,20120102,Penn State,14,37,Houston,30,5,True,
+2011,1,20120102,South Carolina,30,117,Nebraska,13,34,True,
+2011,1,20120102,Georgia,30,111,Michigan St.,33,32,True,Raymond James Stadium
+2011,1,20120102,Florida,24,110,Ohio St.,17,36,True,
+2011,1,20120102,Oregon,45,99,Wisconsin,38,40,True,Rose Bowl
+2011,1,20120102,Oklahoma St.,41,46,Stanford,38,101,True,
+2011,1,20120103,Virginia Tech,20,25,Michigan,23,31,True,
+2011,1,20120104,Clemson,33,14,West Virginia,70,50,True,Hard Rock Stadium
+2011,1,20120106,Arkansas,29,108,Kansas St.,16,44,True,
+2011,1,20120107,Pittsburgh,6,22,SMU,28,8,True,Legion Field
+2011,1,20120108,Northern Illinois,38,79,Arkansas St.,20,122,True,Ladd Peebles Stadium
+2011,1,20120109,LSU,0,113,Alabama,21,107,True,
