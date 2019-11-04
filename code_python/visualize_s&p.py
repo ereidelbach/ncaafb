@@ -87,7 +87,7 @@ def ingest_sp_data():
     '''
     # ingest s&p rankings
     df_sp = pd.read_csv('/home/ejreidelbach/Projects/CollegeFootball/' + 
-                        'Data/S&P_2019_week9.csv')
+                        'Data/SP+/SP+_2019_week10.csv')
     # clean s&p rankings
     df_sp = clean_sp_rankings(df_sp)
     # standardize team names
@@ -155,39 +155,33 @@ plt.rcParams['font.monospace'] = 'Ubuntu Mono'
 plt.rcParams['xtick.labelsize'] = 12
 plt.rcParams['ytick.labelsize'] = 12
 plt.rcParams['figure.titlesize'] = 12
+#plt.gca().spines['top'].set_visible(False)
+#plt.gca().spines['right'].set_visible(False)
 
 # add title and subtitle
 title_x = min(x) - 2
 title_y = min(y) - 3
 plt.text(x = title_x,
          y = title_y,
-         s = f'{conference} S&P Rankings',
+         s = f'{conference} SP+ Rankings',
          fontsize = 26,
          weight = 'bold',
-         alpha = 0.75)
+         alpha = 1)
 # add subtitle
 title_x = min(x) - 2
 title_y = min(y) - 1.5 
 plt.text(x = title_x,
          y = title_y,
-         s = 'October 28, 2019 (Week 9)',
+         s = 'November 4, 2019 (Week 10)',
          fontsize = 19,
          alpha = 0.85)
 
 # invert y axis
 ax.set_ylim(ax.get_ylim()[::-1])
-#ax.spines['right'].set_visibile(True)
-#ax.spines['bottom'].set_visibile(True)
 
 # set axis labels
 ax.set_xlabel('Offensive S&P Rating', fontsize = 17, weight = 'bold', alpha = 0.85)
 ax.set_ylabel('Defensive S&P Rating', fontsize = 17, weight = 'bold', alpha = 0.85)
-
-# draw diagonal line
-ax.plot(df_sp['offense'].median(), 
-        df_sp['defense'].median(),
-        'red',
-        linewidth = 10)
 
 # add signature bar
 sig_x = min(x) - 5
@@ -202,8 +196,8 @@ plt.text(x = sig_x,
 # add signature text
 plt.text(x = sig_x, 
          y = sig_y + 1,
-         s = ('©Stewmanji                         ' + 
-              'Source: Bill Connelly SP+ Week 9 Rankings (ESPN)'),
+         s = ('©eric.reidelbach                 ' + 
+              'Source: Bill Connelly SP+ Week 10 Rankings (ESPN)'),
          fontsize = 13, 
          color = 'black', 
          alpha = 0.7)
@@ -212,3 +206,9 @@ plt.text(x = sig_x,
 for x0, y0, logo in zip(x, y, logos):
     ab = AnnotationBbox(getImage(logo), (x0, y0), frameon=False)
     ax.add_artist(ab)
+    
+# draw median lines
+plt.axhline(df_sp['defense'].median(), color = 'blue', 
+            linestyle = '--', alpha = 0.5, label = '50th Percentile') # horizontal line
+plt.axvline(df_sp['offense'].median(), color = 'blue', 
+            linestyle = '--', alpha = 0.5, label = '50th Percentile') # vertical line
