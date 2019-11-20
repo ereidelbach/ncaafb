@@ -1,0 +1,1277 @@
+Player,Date,G,School,Loc,Opponent,WL,XP Made,XP Att,XP %,FG Made,FG Att,FG %,Pts,unique_id
+Chris Boswell,2012-08-30,1,Rice,,UCLA,L,3,3,100.0,1,2,50.0,6,chris-boswell-1
+Chad Christen,2012-08-30,1,Connecticut,,Massachusetts,W,4,4,100.0,3,3,100.0,13,chad-christen-1
+Freddy Cortez,2012-08-30,1,Kent State,,Towson,W,5,5,100.0,2,3,66.7,11,freddy-cortez-1
+Ka'Imi Fairbairn,2012-08-30,1,UCLA,@,Rice,W,2,5,40.0,1,1,100.0,5,kaimi-fairbairn-1
+Trey Farquhar,2012-08-30,1,Idaho,,Eastern Washington,L,0,0,,1,1,100.0,3,trey-farquhar-1
+Andrew Furney,2012-08-30,1,Washington State,@,Brigham Young,L,0,0,,2,2,100.0,6,andrew-furney-1
+David Harman,2012-08-30,1,Central Michigan,,Southeast Missouri State,W,5,5,100.0,1,1,100.0,8,david-harman-1
+Nolan Kohorst,2012-08-30,1,Nevada-Las Vegas,,Minnesota,L,3,3,100.0,2,2,100.0,9,nolan-kohorst-1
+Carlos Lopez,2012-08-30,1,Middle Tennessee State,,McNeese State,L,1,1,100.0,2,2,100.0,7,carlos-lopez-1
+Anthony Melchiori,2012-08-30,1,Kent State,,Towson,W,0,0,,0,1,0.0,0,anthony-melchiori-1
+Coleman Petersen,2012-08-30,1,Utah,,Northern Colorado,W,5,6,83.3,0,1,0.0,5,coleman-petersen-1
+Steven Schott,2012-08-30,1,Ball State,,Eastern Michigan,W,4,4,100.0,3,4,75.0,13,steven-schott-1
+Carey Spear,2012-08-30,1,Vanderbilt,,South Carolina,L,1,1,100.0,2,3,66.7,7,carey-spear-1
+Robert Stein,2012-08-30,1,Akron,,Central Florida,L,2,2,100.0,0,1,0.0,2,robert-stein-1
+Riley Stephenson,2012-08-30,1,Brigham Young,,Washington State,W,3,3,100.0,3,4,75.0,12,riley-stephenson-1
+Jordan Wettstein,2012-08-30,1,Minnesota,@,Nevada-Las Vegas,W,3,3,100.0,3,4,75.0,12,jordan-wettstein-1
+Adam Yates,2012-08-30,1,South Carolina,@,Vanderbilt,W,2,2,100.0,1,1,100.0,5,adam-yates-1
+Dan Conroy,2012-08-31,1,Michigan State,,Boise State,W,2,2,100.0,1,2,50.0,5,dan-conroy-1
+Michael Frisina,2012-08-31,1,Boise State,@,Michigan State,L,1,1,100.0,2,2,100.0,7,michael-frisina-1
+Sean Kelley,2012-08-31,1,Florida Atlantic,,Wagner,W,0,0,,0,1,0.0,0,sean-kelley-1
+Austin Lopez,2012-08-31,1,San Jose State,@,Stanford,L,2,2,100.0,1,1,100.0,5,austin-lopez-1
+Brandon McManus,2012-08-31,1,Temple,,Villanova,W,5,5,100.0,2,2,100.0,11,brandon-mcmanus-1
+Michael Palardy,2012-08-31,1,Tennessee,N,North Carolina State,W,3,4,75.0,2,2,100.0,9,michael-palardy-1
+Niklas Sade,2012-08-31,1,North Carolina State,N,Tennessee,L,3,3,100.0,0,1,0.0,3,niklas-sade-1
+Jordan Williamson,2012-08-31,1,Stanford,,San Jose State,W,2,2,100.0,2,2,100.0,8,jordan-williamson-1
+Corey Acosta,2012-09-01,1,Southern Mississippi,@,Nebraska,L,2,2,100.0,2,2,100.0,8,corey-acosta-1
+Justus Adams,2012-09-01,1,New Mexico,,Southern,W,9,9,100.0,1,1,100.0,12,justus-adams-1
+Drew Alleman,2012-09-01,1,Louisiana State,,North Texas,W,5,5,100.0,2,3,66.7,11,drew-alleman-1
+Edwin Arceo,2012-09-01,1,Iowa State,,Tulsa,W,5,5,100.0,1,1,100.0,8,edwin-arceo-1
+Brett Baer,2012-09-01,1,Louisiana,,Lamar,W,4,4,100.0,4,4,100.0,16,brett-baer-1
+Casey Barth,2012-09-01,1,North Carolina,,Elon,W,8,8,100.0,2,2,100.0,14,casey-barth-1
+Rob Beard,2012-09-01,1,Oregon,,Arkansas State,W,7,7,100.0,0,1,0.0,7,rob-beard-1
+Devon Bell,2012-09-01,1,Mississippi State,,Jackson State,W,4,4,100.0,0,1,0.0,4,devon-bell-1
+Spencer Benton,2012-09-01,1,Clemson,N,Auburn,W,0,0,,0,1,0.0,0,spencer-benton-1
+John Bonano,2012-09-01,1,Arizona,,Toledo,W,3,3,100.0,1,3,33.3,6,john-bonano-1
+Quentin Breshears,2012-09-01,1,Fresno State,,Weber State,W,4,5,80.0,1,1,100.0,7,quentin-breshears-1
+Ryan Bustin,2012-09-01,1,Texas Tech,,Northwestern State,W,5,5,100.0,3,3,100.0,14,ryan-bustin-1
+Anthony Cantele,2012-09-01,1,Kansas State,,Missouri State,W,6,6,100.0,3,3,100.0,15,anthony-cantele-1
+Chandler Catanzaro,2012-09-01,1,Clemson,N,Auburn,W,2,2,100.0,4,4,100.0,14,chandler-catanzaro-1
+Michel Chapuseaux,2012-09-01,1,South Alabama,,Texas-San Antonio,L,4,4,100.0,1,1,100.0,7,michel-chapuseaux-1
+Patrick Clarke,2012-09-01,1,Buffalo,@,Georgia,L,2,3,66.7,1,1,100.0,5,patrick-clarke-1
+Travis Coons,2012-09-01,1,Washington,,San Diego State,W,3,3,100.0,0,1,0.0,3,travis-coons-1
+Brad Craddock,2012-09-01,1,Maryland,,William & Mary,W,1,1,100.0,0,1,0.0,1,brad-craddock-1
+Vincenzo D'Amato,2012-09-01,1,California,,Nevada,L,3,3,100.0,1,2,50.0,6,vincenzo-damato-1
+Brian Davis,2012-09-01,1,Arkansas State,@,Oregon,L,4,4,100.0,2,3,66.7,10,brian-davis-1
+Jeremiah Detmer,2012-09-01,1,Toledo,@,Arizona,L,2,2,100.0,1,2,50.0,5,jeremiah-detmer-1
+Ron Doherty,2012-09-01,1,Kansas,,South Dakota State,W,4,4,100.0,1,2,50.0,7,ron-doherty-1
+Mitch Ewald,2012-09-01,1,Indiana,,Indiana State,W,3,3,100.0,1,3,33.3,6,mitch-ewald-1
+Kyle Federico,2012-09-01,1,Rutgers,@,Tulane,W,3,3,100.0,1,2,50.0,6,kyle-federico-1
+Cade Foster,2012-09-01,1,Alabama,N,Michigan,W,0,0,,1,2,50.0,3,cade-foster-1
+Nate Freese,2012-09-01,1,Boston College,,Miami (FL),L,3,3,100.0,3,3,100.0,12,nate-freese-1
+Kyle French,2012-09-01,1,Wisconsin,,Northern Iowa,W,2,3,66.7,2,2,100.0,8,kyle-french-1
+Jack Griffin,2012-09-01,1,Florida International,@,Duke,L,2,2,100.0,0,2,0.0,2,jack-griffin-1
+Tyler Hadden,2012-09-01,1,Hawaii,@,Southern California,L,1,1,100.0,1,1,100.0,4,tyler-hadden-1
+Justin Haig,2012-09-01,1,Marshall,@,West Virginia,L,4,4,100.0,2,2,100.0,10,justin-haig-1
+Andrew Haldeman,2012-09-01,1,Western Michigan,@,Illinois,L,1,1,100.0,0,2,0.0,1,andrew-haldeman-1
+Allen Hardison,2012-09-01,1,Nevada,@,California,W,4,4,100.0,1,1,100.0,7,allen-hardison-1
+Kevin Harper,2012-09-01,1,Pittsburgh,,Youngstown State,L,2,2,100.0,1,1,100.0,5,kevin-harper-1
+Warren Harvey,2012-09-01,1,East Carolina,,Appalachian State,W,5,5,100.0,0,2,0.0,5,warren-harvey-1
+Andre Heidari,2012-09-01,1,Southern California,,Hawaii,W,4,4,100.0,1,1,100.0,7,andre-heidari-1
+Paulo Henriques,2012-09-01,1,Memphis,,Tennessee-Martin,L,2,2,100.0,1,2,50.0,5,paulo-henriques-1
+Parker Herrington,2012-09-01,1,Air Force,,Idaho State,W,7,7,100.0,0,1,0.0,7,parker-herrington-1
+Matt Hogan,2012-09-01,1,Houston,,Texas State,L,1,1,100.0,2,2,100.0,7,matt-hogan-1
+Dustin Hopkins,2012-09-01,1,Florida State,,Murray State,W,9,9,100.0,2,2,100.0,15,dustin-hopkins-1
+Michael Hunnicutt,2012-09-01,1,Oklahoma,@,Texas-El Paso,W,3,3,100.0,1,2,50.0,6,michael-hunnicutt-1
+Sean Ianno,2012-09-01,1,Texas-San Antonio,@,South Alabama,W,3,3,100.0,4,4,100.0,15,sean-ianno-1
+Nick Immekus,2012-09-01,1,Illinois,,Western Michigan,W,3,3,100.0,1,2,50.0,6,nick-immekus-1
+Drew Jarrett,2012-09-01,1,Virginia,,Richmond,W,5,5,100.0,2,2,100.0,11,drew-jarrett-1
+Will Johnson,2012-09-01,1,Texas State,@,Houston,W,3,3,100.0,3,4,75.0,12,will-johnson-5
+Nick Jordan,2012-09-01,1,Texas,,Wyoming,W,4,5,80.0,1,3,33.3,7,nick-jordan-1
+Ross Krautman,2012-09-01,1,Syracuse,,Northwestern,L,3,3,100.0,2,3,66.7,9,ross-krautman-1
+Ty Long,2012-09-01,1,Alabama-Birmingham,,Troy,L,2,2,100.0,1,1,100.0,5,ty-long-1
+Brett Maher,2012-09-01,1,Nebraska,,Southern Mississippi,W,7,7,100.0,0,2,0.0,7,brett-maher-1
+Ross Martin,2012-09-01,1,Duke,,Florida International,W,5,5,100.0,1,2,50.0,8,ross-martin-1
+Mike Meyer,2012-09-01,1,Iowa,@,Northern Illinois,W,0,0,,4,5,80.0,12,mike-meyer-1
+Marshall Morgan,2012-09-01,1,Georgia,,Buffalo,W,6,6,100.0,1,2,50.0,9,marshall-morgan-1
+Jimmy Newman,2012-09-01,1,Wake Forest,,Liberty,W,2,2,100.0,0,1,0.0,2,jimmy-newman-1
+Will Oliver,2012-09-01,1,Colorado,N,Colorado State,L,2,2,100.0,1,1,100.0,5,will-oliver-1
+Cody Parkey,2012-09-01,1,Auburn,N,Clemson,L,1,1,100.0,4,4,100.0,13,cody-parkey-1
+Kaleb Patterson,2012-09-01,1,Miami (OH),@,Ohio State,L,1,1,100.0,1,2,50.0,4,kaleb-patterson-1
+Jared Roberts,2012-09-01,1,Colorado State,N,Colorado,W,1,2,50.0,3,3,100.0,10,jared-roberts-1
+Bryson Rose,2012-09-01,1,Mississippi,,Central Arkansas,W,7,7,100.0,0,2,0.0,7,bryson-rose-1
+Jesse Roy,2012-09-01,1,Western Kentucky,,Austin Peay,W,2,2,100.0,0,2,0.0,2,jesse-roy-1
+Cairo Santos,2012-09-01,1,Tulane,,Rutgers,L,0,1,0.0,2,2,100.0,6,cairo-santos-1
+Garrett Schwettman,2012-09-01,1,Western Kentucky,,Austin Peay,W,5,5,100.0,0,1,0.0,5,garrett-schwettman-1
+Will Scott,2012-09-01,1,Troy,@,Alabama-Birmingham,W,4,5,80.0,1,1,100.0,7,will-scott-1
+Quinn Sharp,2012-09-01,1,Oklahoma State,,Savannah State,W,12,12,100.0,0,1,0.0,12,quinn-sharp-1
+Jeremy Shelley,2012-09-01,1,Alabama,N,Michigan,W,5,5,100.0,1,1,100.0,8,jeremy-shelley-1
+Mathew Sims,2012-09-01,1,Northern Illinois,,Iowa,L,2,2,100.0,1,1,100.0,5,mathew-sims-1
+Nick Sloan,2012-09-01,1,Navy,N,Notre Dame,L,1,1,100.0,1,1,100.0,4,nick-sloan-1
+Stephen Stein,2012-09-01,1,Bowling Green State,@,Florida,L,2,2,100.0,0,2,0.0,2,stephen-stein-1
+Caleb Sturgis,2012-09-01,1,Florida,,Bowling Green State,W,3,3,100.0,2,3,66.7,9,caleb-sturgis-1
+Nick Tausch,2012-09-01,1,Notre Dame,N,Navy,W,5,6,83.3,1,1,100.0,8,nick-tausch-1
+Steven Valadez,2012-09-01,1,Texas-El Paso,,Oklahoma,L,0,0,,0,1,0.0,0,steven-valadez-1
+Dakota Warren,2012-09-01,1,Texas-El Paso,,Oklahoma,L,1,1,100.0,0,2,0.0,1,dakota-warren-1
+Matt Weller,2012-09-01,1,Ohio,@,Penn State,W,3,3,100.0,1,3,33.3,6,matt-weller-1
+Jake Wieclaw,2012-09-01,1,Miami (FL),@,Boston College,W,5,5,100.0,2,2,100.0,11,jake-wieclaw-1
+Stuart Williams,2012-09-01,1,Wyoming,@,Texas,L,0,1,0.0,1,1,100.0,3,stuart-williams-1
+Chase Hover,2012-09-02,1,Southern Methodist,@,Baylor,L,3,3,100.0,1,2,50.0,6,chase-hover-1
+Aaron Jones,2012-09-02,1,Baylor,,Southern Methodist,W,7,7,100.0,1,1,100.0,10,aaron-jones-2
+Craig McIntosh,2012-09-02,1,Kentucky,@,Louisville,L,2,2,100.0,0,1,0.0,2,craig-mcintosh-1
+John Wallace,2012-09-02,1,Louisville,,Kentucky,W,3,3,100.0,1,1,100.0,6,john-wallace-1
+Cody Journell,2012-09-03,1,Virginia Tech,,Georgia Tech,W,2,2,100.0,2,3,66.7,8,cody-journell-1
+David Scully,2012-09-03,1,Georgia Tech,@,Virginia Tech,L,2,2,100.0,1,1,100.0,5,david-scully-1
+Kevin Harper,2012-09-06,2,Pittsburgh,@,Cincinnati,L,1,1,100.0,1,1,100.0,4,kevin-harper-1
+Tony Miliano,2012-09-06,1,Cincinnati,,Pittsburgh,W,4,4,100.0,2,2,100.0,10,tony-miliano-1
+Coleman Petersen,2012-09-07,2,Utah,@,Utah State,L,2,2,100.0,2,3,66.7,8,coleman-petersen-1
+Brock Warren,2012-09-07,2,Utah State,,Utah,W,1,2,50.0,0,1,0.0,1,brock-warren-1
+Drew Alleman,2012-09-08,2,Louisiana State,,Washington,W,5,5,100.0,2,2,100.0,11,drew-alleman-1
+Edwin Arceo,2012-09-08,2,Iowa State,@,Iowa,W,0,1,0.0,1,2,50.0,3,edwin-arceo-1
+Brett Baer,2012-09-08,2,Louisiana,@,Troy,W,4,4,100.0,3,3,100.0,13,brett-baer-1
+Andrew Baggett,2012-09-08,2,Missouri,,Georgia,L,2,2,100.0,2,3,66.7,8,andrew-baggett-1
+Casey Barth,2012-09-08,2,North Carolina,@,Wake Forest,L,3,3,100.0,2,2,100.0,9,casey-barth-1
+Drew Basil,2012-09-08,2,Ohio State,,Central Florida,W,4,4,100.0,1,1,100.0,7,drew-basil-1
+Devon Bell,2012-09-08,2,Mississippi State,,Auburn,W,4,4,100.0,0,2,0.0,4,devon-bell-1
+Spencer Benton,2012-09-08,2,Clemson,,Ball State,W,0,0,,1,1,100.0,3,spencer-benton-1
+Taylor Bertolet,2012-09-08,1,Texas A&M,,Florida,L,2,2,100.0,1,1,100.0,5,taylor-bertolet-1
+John Bonano,2012-09-08,2,Arizona,,Oklahoma State,W,6,6,100.0,3,3,100.0,15,john-bonano-1
+Chris Boswell,2012-09-08,2,Rice,@,Kansas,W,1,1,100.0,4,4,100.0,13,chris-boswell-1
+Andrew Bowman,2012-09-08,2,Texas Tech,@,Texas State,W,0,0,,1,1,100.0,3,andrew-bowman-2
+Quentin Breshears,2012-09-08,2,Fresno State,@,Oregon,L,1,1,100.0,4,4,100.0,13,quentin-breshears-1
+Kyle Brindza,2012-09-08,2,Notre Dame,,Purdue,W,2,2,100.0,2,3,66.7,8,kyle-brindza-1
+Derrick Brodus,2012-09-08,2,Tennessee,,Georgia State,W,1,1,100.0,1,1,100.0,4,derrick-brodus-1
+Jeff Budzien,2012-09-08,2,Northwestern,,Vanderbilt,W,2,2,100.0,3,3,100.0,11,jeff-budzien-1
+Ryan Bustin,2012-09-08,2,Texas Tech,@,Texas State,W,7,7,100.0,2,2,100.0,13,ryan-bustin-1
+Anthony Cantele,2012-09-08,2,Kansas State,,Miami (FL),W,7,7,100.0,1,2,50.0,10,anthony-cantele-1
+Michel Chapuseaux,2012-09-08,2,South Alabama,,Nicholls State,W,0,0,,3,4,75.0,9,michel-chapuseaux-1
+Dan Conroy,2012-09-08,2,Michigan State,@,Central Michigan,W,5,5,100.0,2,3,66.7,11,dan-conroy-1
+Travis Coons,2012-09-08,2,Washington,@,Louisiana State,L,0,0,,1,1,100.0,3,travis-coons-1
+Freddy Cortez,2012-09-08,2,Kent State,@,Kentucky,L,2,2,100.0,0,2,0.0,2,freddy-cortez-1
+Brad Craddock,2012-09-08,2,Maryland,@,Temple,W,4,4,100.0,2,2,100.0,10,brad-craddock-1
+Vincenzo D'Amato,2012-09-08,2,California,,Southern Utah,W,5,6,83.3,3,3,100.0,14,vincenzo-damato-1
+Brian Davis,2012-09-08,2,Arkansas State,,Memphis,W,3,3,100.0,2,3,66.7,9,brian-davis-1
+Jeremiah Detmer,2012-09-08,2,Toledo,@,Wyoming,W,4,4,100.0,2,4,50.0,10,jeremiah-detmer-1
+Ron Doherty,2012-09-08,2,Kansas,,Rice,L,3,3,100.0,1,3,33.3,6,ron-doherty-1
+Mitch Ewald,2012-09-08,2,Indiana,@,Massachusetts,W,6,6,100.0,1,1,100.0,9,mitch-ewald-1
+Ka'Imi Fairbairn,2012-09-08,2,UCLA,,Nebraska,W,4,4,100.0,2,4,50.0,10,kaimi-fairbairn-1
+Trey Farquhar,2012-09-08,2,Idaho,@,Bowling Green State,L,1,1,100.0,2,3,66.7,7,trey-farquhar-1
+Sam Ficken,2012-09-08,2,Penn State,@,Virginia,L,1,2,50.0,1,5,20.0,4,sam-ficken-1
+Nate Freese,2012-09-08,2,Boston College,,Maine,W,4,4,100.0,2,2,100.0,10,nate-freese-1
+Kody Fulkerson,2012-09-08,2,Eastern Michigan,,Illinois State,L,2,2,100.0,0,1,0.0,2,kody-fulkerson-1
+Andrew Furney,2012-09-08,2,Washington State,,Eastern Washington,W,3,3,100.0,1,2,50.0,6,andrew-furney-1
+Alex Garoutte,2012-09-08,2,Arizona State,,Illinois,W,6,6,100.0,1,1,100.0,9,alex-garoutte-1
+Brendan Gibbons,2012-09-08,2,Michigan,,Air Force,W,4,4,100.0,1,1,100.0,7,brendan-gibbons-1
+Jack Griffin,2012-09-08,2,Florida International,,Akron,W,5,5,100.0,2,3,66.7,11,jack-griffin-1
+Justin Haig,2012-09-08,2,Marshall,,Western Carolina,W,7,7,100.0,1,2,50.0,10,justin-haig-1
+Andrew Haldeman,2012-09-08,2,Western Michigan,,Eastern Illinois,W,7,7,100.0,1,1,100.0,10,andrew-haldeman-1
+Allen Hardison,2012-09-08,2,Nevada,,South Florida,L,4,4,100.0,1,1,100.0,7,allen-hardison-1
+Warren Harvey,2012-09-08,2,East Carolina,@,South Carolina,L,1,1,100.0,1,2,50.0,4,warren-harvey-1
+Paulo Henriques,2012-09-08,2,Memphis,@,Arkansas State,L,4,4,100.0,0,1,0.0,4,paulo-henriques-1
+Parker Herrington,2012-09-08,2,Air Force,@,Michigan,L,2,2,100.0,1,2,50.0,5,parker-herrington-1
+Zach Hocker,2012-09-08,2,Arkansas,,Louisiana-Monroe,L,4,4,100.0,1,1,100.0,7,zach-hocker-1
+Matt Hogan,2012-09-08,2,Houston,,Louisiana Tech,L,5,5,100.0,2,2,100.0,11,matt-hogan-1
+Chase Hover,2012-09-08,2,Southern Methodist,,Stephen F. Austin,W,7,7,100.0,1,2,50.0,10,chase-hover-1
+Sean Ianno,2012-09-08,2,Texas-San Antonio,,Texas A&M-Commerce,W,3,3,100.0,2,2,100.0,9,sean-ianno-1
+Drew Jarrett,2012-09-08,2,Virginia,,Penn State,W,2,2,100.0,1,1,100.0,5,drew-jarrett-1
+Will Johnson,2012-09-08,2,Texas State,,Texas Tech,L,1,1,100.0,1,1,100.0,4,will-johnson-5
+Nick Jordan,2012-09-08,2,Texas,,New Mexico,W,3,3,100.0,1,2,50.0,6,nick-jordan-1
+Nolan Kohorst,2012-09-08,2,Nevada-Las Vegas,,Northern Arizona,L,2,2,100.0,0,1,0.0,2,nolan-kohorst-1
+Ross Krautman,2012-09-08,2,Syracuse,,Southern California,L,2,2,100.0,1,1,100.0,5,ross-krautman-1
+Austin Lopez,2012-09-08,2,San Jose State,,California-Davis,W,6,6,100.0,1,1,100.0,9,austin-lopez-1
+Carlos Lopez,2012-09-08,2,Middle Tennessee State,,Florida Atlantic,W,4,4,100.0,1,1,100.0,7,carlos-lopez-1
+Blake Lucas,2012-09-08,2,Massachusetts,,Indiana,L,0,1,0.0,0,1,0.0,0,blake-lucas-1
+Brett Maher,2012-09-08,2,Nebraska,@,UCLA,L,3,3,100.0,3,4,75.0,12,brett-maher-1
+Chance Marden,2012-09-08,2,San Diego State,,Army,W,6,6,100.0,0,2,0.0,6,chance-marden-1
+Ross Martin,2012-09-08,2,Duke,@,Stanford,L,1,1,100.0,2,2,100.0,7,ross-martin-1
+Sam McCartney,2012-09-08,2,Purdue,@,Notre Dame,L,2,2,100.0,1,1,100.0,5,sam-mccartney-1
+Craig McIntosh,2012-09-08,2,Kentucky,,Kent State,W,6,6,100.0,1,2,50.0,9,craig-mcintosh-1
+Brandon McManus,2012-09-08,2,Temple,,Maryland,L,3,3,100.0,2,3,66.7,9,brandon-mcmanus-1
+Mike Meyer,2012-09-08,2,Iowa,,Iowa State,L,0,0,,2,2,100.0,6,mike-meyer-1
+Shawn Moffitt,2012-09-08,2,Central Florida,@,Ohio State,L,1,2,50.0,1,1,100.0,4,shawn-moffitt-1
+Marshall Morgan,2012-09-08,2,Georgia,@,Missouri,W,3,4,75.0,2,2,100.0,9,marshall-morgan-1
+Matthew Nakatani,2012-09-08,2,Louisville,,Missouri State,W,3,3,100.0,2,2,100.0,9,matthew-nakatani-1
+Jimmy Newman,2012-09-08,2,Wake Forest,,North Carolina,W,4,4,100.0,0,1,0.0,4,jimmy-newman-1
+Zach Olen,2012-09-08,2,North Texas,,Texas Southern,W,4,4,100.0,2,2,100.0,10,zach-olen-1
+Michael Palardy,2012-09-08,2,Tennessee,,Georgia State,W,5,6,83.3,0,1,0.0,5,michael-palardy-1
+Cody Parkey,2012-09-08,2,Auburn,@,Mississippi State,L,1,1,100.0,1,1,100.0,4,cody-parkey-1
+Kaleb Patterson,2012-09-08,2,Miami (OH),,Southern Illinois,W,3,4,75.0,1,1,100.0,6,kaleb-patterson-1
+Jared Roberts,2012-09-08,2,Colorado State,,North Dakota State,L,1,1,100.0,0,1,0.0,1,jared-roberts-1
+Trevor Romaine,2012-09-08,1,Oregon State,,Wisconsin,W,1,1,100.0,1,2,50.0,4,trevor-romaine-1
+Bryson Rose,2012-09-08,2,Mississippi,,Texas-El Paso,W,4,4,100.0,0,2,0.0,4,bryson-rose-1
+Niklas Sade,2012-09-08,2,North Carolina State,@,Connecticut,W,1,1,100.0,1,2,50.0,4,niklas-sade-1
+Cairo Santos,2012-09-08,2,Tulane,@,Tulsa,L,1,1,100.0,1,1,100.0,4,cairo-santos-1
+Steven Schott,2012-09-08,2,Ball State,@,Clemson,L,3,3,100.0,2,2,100.0,9,steven-schott-1
+Daniel Schwarz,2012-09-08,2,Tulsa,,Tulane,W,6,6,100.0,1,2,50.0,9,daniel-schwarz-1
+Will Scott,2012-09-08,2,Troy,,Louisiana,L,3,3,100.0,1,1,100.0,6,will-scott-1
+David Scully,2012-09-08,2,Georgia Tech,,Presbyterian,W,8,8,100.0,1,1,100.0,11,david-scully-1
+Quinn Sharp,2012-09-08,2,Oklahoma State,@,Arizona,L,5,5,100.0,1,1,100.0,8,quinn-sharp-1
+Mathew Sims,2012-09-08,2,Northern Illinois,,Tennessee-Martin,W,5,5,100.0,0,1,0.0,5,mathew-sims-1
+Carey Spear,2012-09-08,2,Vanderbilt,@,Northwestern,L,1,1,100.0,2,2,100.0,7,carey-spear-1
+Tyler Stampler,2012-09-08,2,New Mexico State,@,Ohio,L,3,3,100.0,1,2,50.0,6,tyler-stampler-1
+Robert Stein,2012-09-08,2,Akron,@,Florida International,L,3,4,75.0,1,2,50.0,6,robert-stein-1
+Riley Stephenson,2012-09-08,2,Brigham Young,,Weber State,W,6,6,100.0,1,1,100.0,9,riley-stephenson-1
+Caleb Sturgis,2012-09-08,2,Florida,@,Texas A&M,W,2,2,100.0,2,2,100.0,8,caleb-sturgis-1
+Steven Valadez,2012-09-08,2,Texas-El Paso,@,Mississippi,L,1,1,100.0,1,1,100.0,4,steven-valadez-1
+Dakota Warren,2012-09-08,2,Texas-El Paso,@,Mississippi,L,0,0,,0,1,0.0,0,dakota-warren-1
+Matt Weller,2012-09-08,2,Ohio,,New Mexico State,W,6,6,100.0,3,4,75.0,15,matt-weller-1
+Jordan Wettstein,2012-09-08,2,Minnesota,,New Hampshire,W,6,6,100.0,0,1,0.0,6,jordan-wettstein-1
+Jake Wieclaw,2012-09-08,2,Miami (FL),@,Kansas State,L,1,1,100.0,2,2,100.0,7,jake-wieclaw-1
+Stuart Williams,2012-09-08,2,Wyoming,,Toledo,L,2,2,100.0,3,3,100.0,11,stuart-williams-1
+Jordan Williamson,2012-09-08,2,Stanford,,Duke,W,5,6,83.3,3,4,75.0,14,jordan-williamson-1
+Vinny Zaccario,2012-09-08,2,Florida Atlantic,@,Middle Tennessee State,L,2,2,100.0,1,1,100.0,5,vinny-zaccario-2
+Maikon Bonani,2012-09-13,3,South Florida,,Rutgers,L,1,1,100.0,2,2,100.0,7,maikon-bonani-1
+Kyle Federico,2012-09-13,3,Rutgers,@,South Florida,W,2,2,100.0,3,4,75.0,11,kyle-federico-1
+Nolan Kohorst,2012-09-14,3,Nevada-Las Vegas,,Washington State,L,3,3,100.0,2,2,100.0,9,nolan-kohorst-1
+Edwin Arceo,2012-09-15,3,Iowa State,,Western Illinois,W,4,4,100.0,1,1,100.0,7,edwin-arceo-1
+Brett Baer,2012-09-15,3,Louisiana,@,Oklahoma State,L,3,3,100.0,1,2,50.0,6,brett-baer-1
+Andrew Baggett,2012-09-15,3,Missouri,,Arizona State,W,3,3,100.0,1,4,25.0,6,andrew-baggett-1
+Rob Beard,2012-09-15,3,Oregon,,Tennessee Tech,W,9,9,100.0,0,1,0.0,9,rob-beard-1
+Devon Bell,2012-09-15,3,Mississippi State,@,Troy,W,3,4,75.0,1,1,100.0,6,devon-bell-1
+Taylor Bertolet,2012-09-15,2,Texas A&M,@,Southern Methodist,W,6,7,85.7,0,1,0.0,6,taylor-bertolet-1
+John Bonano,2012-09-15,3,Arizona,,South Carolina State,W,8,8,100.0,0,1,0.0,8,john-bonano-1
+Chris Boswell,2012-09-15,3,Rice,@,Louisiana Tech,L,4,5,80.0,1,1,100.0,7,chris-boswell-1
+Kyle Brindza,2012-09-15,3,Notre Dame,@,Michigan State,W,2,2,100.0,2,2,100.0,8,kyle-brindza-1
+Jeff Budzien,2012-09-15,3,Northwestern,,Boston College,W,1,1,100.0,5,5,100.0,16,jeff-budzien-1
+Ryan Bustin,2012-09-15,3,Texas Tech,,New Mexico,W,7,7,100.0,0,1,0.0,7,ryan-bustin-1
+Chandler Catanzaro,2012-09-15,3,Clemson,,Furman,W,5,5,100.0,2,2,100.0,11,chandler-catanzaro-1
+Chad Christen,2012-09-15,3,Connecticut,@,Maryland,W,3,3,100.0,1,2,50.0,6,chad-christen-1
+Dan Conroy,2012-09-15,3,Michigan State,,Notre Dame,L,0,0,,1,2,50.0,3,dan-conroy-1
+Travis Coons,2012-09-15,3,Washington,,Portland State,W,7,7,100.0,1,1,100.0,10,travis-coons-1
+Vincenzo D'Amato,2012-09-15,3,California,@,Ohio State,L,4,4,100.0,0,3,0.0,4,vincenzo-damato-1
+Brian Davis,2012-09-15,3,Arkansas State,@,Nebraska,L,1,1,100.0,2,2,100.0,7,brian-davis-1
+Jeremiah Detmer,2012-09-15,3,Toledo,,Bowling Green State,W,3,3,100.0,2,2,100.0,9,jeremiah-detmer-1
+Ron Doherty,2012-09-15,3,Kansas,,Texas Christian,L,0,0,,2,3,66.7,6,ron-doherty-1
+Mitch Ewald,2012-09-15,3,Indiana,,Ball State,L,4,4,100.0,1,1,100.0,7,mitch-ewald-1
+Ka'Imi Fairbairn,2012-09-15,3,UCLA,,Houston,W,4,4,100.0,3,3,100.0,13,kaimi-fairbairn-1
+Cade Foster,2012-09-15,3,Alabama,@,Arkansas,W,0,0,,1,2,50.0,3,cade-foster-1
+Nate Freese,2012-09-15,3,Boston College,@,Northwestern,L,1,1,100.0,2,2,100.0,7,nate-freese-1
+Kyle French,2012-09-15,3,Wisconsin,,Utah State,W,1,2,50.0,1,2,50.0,4,kyle-french-1
+Michael Frisina,2012-09-15,2,Boise State,,Miami (OH),W,4,4,100.0,1,2,50.0,7,michael-frisina-1
+Tyler Hadden,2012-09-15,2,Hawaii,,Lamar,W,6,6,100.0,2,3,66.7,12,tyler-hadden-1
+Justin Haig,2012-09-15,3,Marshall,,Ohio,L,3,3,100.0,1,1,100.0,6,justin-haig-1
+Andrew Haldeman,2012-09-15,3,Western Michigan,@,Minnesota,L,2,2,100.0,1,2,50.0,5,andrew-haldeman-1
+Allen Hardison,2012-09-15,3,Nevada,,Northwestern State,W,6,6,100.0,1,1,100.0,9,allen-hardison-1
+Kevin Harper,2012-09-15,3,Pittsburgh,,Virginia Tech,W,5,5,100.0,0,2,0.0,5,kevin-harper-1
+Warren Harvey,2012-09-15,3,East Carolina,@,Southern Mississippi,W,3,3,100.0,1,2,50.0,6,warren-harvey-1
+Zach Hocker,2012-09-15,3,Arkansas,,Alabama,L,0,0,,0,1,0.0,0,zach-hocker-1
+Matt Hogan,2012-09-15,3,Houston,@,UCLA,L,0,0,,0,1,0.0,0,matt-hogan-1
+Dustin Hopkins,2012-09-15,3,Florida State,,Wake Forest,W,7,7,100.0,1,1,100.0,10,dustin-hopkins-1
+Chase Hover,2012-09-15,3,Southern Methodist,,Texas A&M,L,0,0,,1,2,50.0,3,chase-hover-1
+Sean Ianno,2012-09-15,3,Texas-San Antonio,@,Georgia State,W,5,5,100.0,1,1,100.0,8,sean-ianno-1
+Aaron Jones,2012-09-15,2,Baylor,,Sam Houston State,W,6,6,100.0,2,4,50.0,12,aaron-jones-2
+Nick Jordan,2012-09-15,3,Texas,@,Mississippi,W,9,9,100.0,1,2,50.0,12,nick-jordan-1
+Cody Journell,2012-09-15,3,Virginia Tech,@,Pittsburgh,L,2,2,100.0,1,1,100.0,5,cody-journell-1
+Ross Krautman,2012-09-15,3,Syracuse,,Stony Brook,W,4,4,100.0,0,2,0.0,4,ross-krautman-1
+Brendon Levengood,2012-09-15,3,Massachusetts,@,Michigan,L,1,1,100.0,2,3,66.7,7,brendon-levengood-1
+Ty Long,2012-09-15,2,Alabama-Birmingham,@,South Carolina,L,0,0,,2,2,100.0,6,ty-long-1
+Austin Lopez,2012-09-15,3,San Jose State,,Colorado State,W,4,5,80.0,2,2,100.0,10,austin-lopez-1
+Carlos Lopez,2012-09-15,3,Middle Tennessee State,@,Memphis,W,6,6,100.0,2,2,100.0,12,carlos-lopez-1
+Justin Manton,2012-09-15,2,Louisiana-Monroe,@,Auburn,L,4,4,100.0,0,2,0.0,4,justin-manton-1
+Chance Marden,2012-09-15,3,San Diego State,,North Dakota,W,7,7,100.0,0,1,0.0,7,chance-marden-1
+Ross Martin,2012-09-15,3,Duke,,North Carolina Central,W,6,6,100.0,2,2,100.0,12,ross-martin-1
+Craig McIntosh,2012-09-15,3,Kentucky,,Western Kentucky,L,4,4,100.0,1,1,100.0,7,craig-mcintosh-1
+Mike Meyer,2012-09-15,3,Iowa,,Northern Iowa,W,3,3,100.0,2,2,100.0,9,mike-meyer-1
+Tony Miliano,2012-09-15,2,Cincinnati,,Delaware State,W,2,3,66.7,1,1,100.0,5,tony-miliano-1
+Shawn Moffitt,2012-09-15,3,Central Florida,,Florida International,W,4,4,100.0,1,1,100.0,7,shawn-moffitt-1
+Dylan Mulder,2012-09-15,3,Eastern Michigan,@,Purdue,L,1,2,50.0,1,1,100.0,4,dylan-mulder-1
+Jaden Oberkrom,2012-09-15,2,Texas Christian,@,Kansas,W,2,2,100.0,2,3,66.7,8,jaden-oberkrom-1
+Zach Olen,2012-09-15,3,North Texas,@,Kansas State,L,1,2,50.0,0,1,0.0,1,zach-olen-1
+Cody Parkey,2012-09-15,3,Auburn,,Louisiana-Monroe,W,4,4,100.0,1,1,100.0,7,cody-parkey-1
+Kaleb Patterson,2012-09-15,3,Miami (OH),@,Boise State,L,0,0,,2,2,100.0,6,kaleb-patterson-1
+Coleman Petersen,2012-09-15,3,Utah,,Brigham Young,W,3,3,100.0,1,2,50.0,6,coleman-petersen-1
+Bryson Rose,2012-09-15,3,Mississippi,,Texas,L,4,4,100.0,1,1,100.0,7,bryson-rose-1
+Niklas Sade,2012-09-15,3,North Carolina State,,South Alabama,W,4,4,100.0,1,2,50.0,7,niklas-sade-1
+Steven Schott,2012-09-15,3,Ball State,@,Indiana,W,5,5,100.0,2,2,100.0,11,steven-schott-1
+Daniel Schwarz,2012-09-15,3,Tulsa,,Nicholls State,W,9,9,100.0,1,1,100.0,12,daniel-schwarz-1
+Garrett Schwettman,2012-09-15,3,Western Kentucky,@,Kentucky,W,3,3,100.0,1,1,100.0,6,garrett-schwettman-1
+Will Scott,2012-09-15,3,Troy,,Mississippi State,L,3,3,100.0,1,2,50.0,6,will-scott-1
+Quinn Sharp,2012-09-15,3,Oklahoma State,,Louisiana,W,8,8,100.0,3,3,100.0,17,quinn-sharp-1
+Justin Sorensen,2012-09-15,3,Brigham Young,@,Utah,L,0,0,,0,1,0.0,0,justin-sorensen-2
+Carey Spear,2012-09-15,3,Vanderbilt,,Presbyterian,W,4,4,100.0,3,3,100.0,13,carey-spear-1
+Tyler Spurlock,2012-09-15,3,Memphis,,Middle Tennessee State,L,3,3,100.0,1,1,100.0,6,tyler-spurlock-1
+Robert Stein,2012-09-15,3,Akron,,Morgan State,W,9,9,100.0,1,2,50.0,12,robert-stein-1
+Riley Stephenson,2012-09-15,3,Brigham Young,@,Utah,L,3,3,100.0,0,1,0.0,3,riley-stephenson-1
+Caleb Sturgis,2012-09-15,3,Florida,@,Tennessee,W,4,4,100.0,3,3,100.0,13,caleb-sturgis-1
+Tyler Tate,2012-09-15,3,Bowling Green State,@,Toledo,L,0,1,0.0,1,2,50.0,3,tyler-tate-1
+Josh Thompson,2012-09-15,3,Utah State,@,Wisconsin,L,2,2,100.0,0,1,0.0,2,josh-thompson-3
+John Wallace,2012-09-15,3,Louisville,,North Carolina,W,3,3,100.0,2,2,100.0,9,john-wallace-1
+Matt Weller,2012-09-15,3,Ohio,@,Marshall,W,3,3,100.0,2,2,100.0,9,matt-weller-1
+Jordan Wettstein,2012-09-15,3,Minnesota,,Western Michigan,W,4,4,100.0,0,1,0.0,4,jordan-wettstein-1
+Jake Wieclaw,2012-09-15,3,Miami (FL),,Bethune-Cookman,W,5,5,100.0,1,1,100.0,8,jake-wieclaw-1
+Jordan Williamson,2012-09-15,3,Stanford,,Southern California,W,3,3,100.0,0,3,0.0,3,jordan-williamson-1
+Adam Yates,2012-09-15,3,South Carolina,,Alabama-Birmingham,W,6,6,100.0,0,1,0.0,6,adam-yates-1
+Taylor Zalewski,2012-09-15,3,Illinois,,Charleston Southern,W,4,4,100.0,1,1,100.0,7,taylor-zalewski-1
+Freddy Cortez,2012-09-19,3,Kent State,@,Buffalo,W,2,2,100.0,3,4,75.0,11,freddy-cortez-1
+Michael Frisina,2012-09-20,3,Boise State,,Brigham Young,W,1,1,100.0,0,1,0.0,1,michael-frisina-1
+Aaron Jones,2012-09-21,3,Baylor,@,Louisiana-Monroe,W,5,5,100.0,2,2,100.0,11,aaron-jones-2
+Corey Acosta,2012-09-22,3,Southern Mississippi,@,Western Kentucky,L,2,2,100.0,1,2,50.0,5,corey-acosta-1
+Justus Adams,2012-09-22,4,New Mexico,@,New Mexico State,W,3,3,100.0,2,2,100.0,9,justus-adams-1
+Drew Alleman,2012-09-22,4,Louisiana State,@,Auburn,W,1,1,100.0,1,2,50.0,4,drew-alleman-1
+Andrew Baggett,2012-09-22,4,Missouri,@,South Carolina,L,1,1,100.0,1,1,100.0,4,andrew-baggett-1
+Casey Barth,2012-09-22,4,North Carolina,,East Carolina,W,3,3,100.0,2,3,66.7,9,casey-barth-1
+Rob Beard,2012-09-22,4,Oregon,,Arizona,W,5,5,100.0,2,2,100.0,11,rob-beard-1
+Devon Bell,2012-09-22,4,Mississippi State,,South Alabama,W,3,3,100.0,3,3,100.0,12,devon-bell-1
+Tyler Bitancurt,2012-09-22,3,West Virginia,,Maryland,W,4,4,100.0,1,1,100.0,7,tyler-bitancurt-1
+Maikon Bonani,2012-09-22,4,South Florida,@,Ball State,L,1,2,50.0,2,2,100.0,7,maikon-bonani-1
+John Bonano,2012-09-22,4,Arizona,@,Oregon,L,0,0,,0,1,0.0,0,john-bonano-1
+Chris Boswell,2012-09-22,4,Rice,,Marshall,L,6,6,100.0,3,3,100.0,15,chris-boswell-1
+Quentin Breshears,2012-09-22,4,Fresno State,@,Tulsa,L,2,4,50.0,0,1,0.0,2,quentin-breshears-1
+Kyle Brindza,2012-09-22,4,Notre Dame,,Michigan,W,1,1,100.0,2,2,100.0,7,kyle-brindza-1
+Derrick Brodus,2012-09-22,4,Tennessee,,Akron,W,5,5,100.0,4,4,100.0,17,derrick-brodus-1
+Anthony Cantele,2012-09-22,4,Kansas State,@,Oklahoma,W,3,3,100.0,1,1,100.0,6,anthony-cantele-1
+Chandler Catanzaro,2012-09-22,4,Clemson,@,Florida State,L,4,4,100.0,1,1,100.0,7,chandler-catanzaro-1
+Michel Chapuseaux,2012-09-22,4,South Alabama,@,Mississippi State,L,1,1,100.0,1,2,50.0,4,michel-chapuseaux-1
+Chad Christen,2012-09-22,4,Connecticut,@,Western Michigan,L,3,3,100.0,1,2,50.0,6,chad-christen-1
+Dan Conroy,2012-09-22,4,Michigan State,,Eastern Michigan,W,2,2,100.0,3,4,75.0,11,dan-conroy-1
+Brad Craddock,2012-09-22,4,Maryland,@,West Virginia,L,3,3,100.0,0,1,0.0,3,brad-craddock-1
+Vincenzo D'Amato,2012-09-22,4,California,@,Southern California,L,0,0,,3,4,75.0,9,vincenzo-damato-1
+Jeremiah Detmer,2012-09-22,4,Toledo,,Coastal Carolina,W,5,5,100.0,1,2,50.0,8,jeremiah-detmer-1
+Ron Doherty,2012-09-22,4,Kansas,@,Northern Illinois,L,2,3,66.7,1,1,100.0,5,ron-doherty-1
+Ka'Imi Fairbairn,2012-09-22,4,UCLA,,Oregon State,L,2,2,100.0,2,3,66.7,8,kaimi-fairbairn-1
+Trey Farquhar,2012-09-22,4,Idaho,,Wyoming,L,4,4,100.0,3,3,100.0,13,trey-farquhar-1
+Kyle Federico,2012-09-22,4,Rutgers,@,Arkansas,W,5,5,100.0,0,2,0.0,5,kyle-federico-1
+Sam Ficken,2012-09-22,4,Penn State,,Temple,W,3,3,100.0,1,1,100.0,6,sam-ficken-1
+Steve Flaherty,2012-09-22,4,Northwestern,,South Dakota,W,0,0,,1,1,100.0,3,steve-flaherty-1
+Cade Foster,2012-09-22,4,Alabama,,Florida Atlantic,W,0,0,,2,2,100.0,6,cade-foster-1
+Andrew Furney,2012-09-22,4,Washington State,,Colorado,L,4,4,100.0,2,3,66.7,10,andrew-furney-1
+Alex Garoutte,2012-09-22,4,Arizona State,,Utah,W,4,4,100.0,3,4,75.0,13,alex-garoutte-1
+Brendan Gibbons,2012-09-22,4,Michigan,@,Notre Dame,L,0,0,,2,3,66.7,6,brendan-gibbons-1
+Charlie Grandfield,2012-09-22,4,Mississippi State,,South Alabama,W,0,0,,0,1,0.0,0,charlie-grandfield-1
+Dan Grochowski,2012-09-22,3,Army,@,Wake Forest,L,4,5,80.0,1,1,100.0,7,dan-grochowski-1
+Tyler Hadden,2012-09-22,3,Hawaii,,Nevada,L,3,3,100.0,1,1,100.0,6,tyler-hadden-1
+Andrew Haldeman,2012-09-22,4,Western Michigan,,Connecticut,W,3,4,75.0,1,1,100.0,6,andrew-haldeman-1
+David Harman,2012-09-22,3,Central Michigan,@,Iowa,W,2,2,100.0,4,4,100.0,14,david-harman-1
+Kevin Harper,2012-09-22,4,Pittsburgh,,Gardner-Webb,W,7,7,100.0,2,3,66.7,13,kevin-harper-1
+Warren Harvey,2012-09-22,4,East Carolina,@,North Carolina,L,0,0,,2,2,100.0,6,warren-harvey-1
+Andre Heidari,2012-09-22,4,Southern California,,California,W,3,3,100.0,2,2,100.0,9,andre-heidari-1
+Zach Hocker,2012-09-22,4,Arkansas,,Rutgers,L,2,2,100.0,2,2,100.0,8,zach-hocker-1
+Dustin Hopkins,2012-09-22,4,Florida State,,Clemson,W,7,7,100.0,0,2,0.0,7,dustin-hopkins-1
+Michael Hunnicutt,2012-09-22,3,Oklahoma,,Kansas State,L,1,1,100.0,2,2,100.0,7,michael-hunnicutt-1
+Will Johnson,2012-09-22,3,Texas State,,Stephen F. Austin,W,5,5,100.0,2,3,66.7,11,will-johnson-5
+Cody Journell,2012-09-22,4,Virginia Tech,,Bowling Green State,W,4,5,80.0,1,1,100.0,7,cody-journell-1
+Nolan Kohorst,2012-09-22,4,Nevada-Las Vegas,,Air Force,W,5,5,100.0,1,1,100.0,8,nolan-kohorst-1
+Ross Krautman,2012-09-22,4,Syracuse,@,Minnesota,L,1,1,100.0,1,1,100.0,4,ross-krautman-1
+Brendon Levengood,2012-09-22,4,Massachusetts,@,Miami (OH),L,1,2,50.0,1,2,50.0,4,brendon-levengood-1
+Ty Long,2012-09-22,3,Alabama-Birmingham,@,Ohio State,L,0,1,0.0,3,4,75.0,9,ty-long-1
+Austin Lopez,2012-09-22,4,San Jose State,@,San Diego State,W,5,5,100.0,1,1,100.0,8,austin-lopez-1
+Brett Maher,2012-09-22,4,Nebraska,,Idaho State,W,10,10,100.0,1,2,50.0,13,brett-maher-1
+Chance Marden,2012-09-22,4,San Diego State,,San Jose State,L,4,4,100.0,2,2,100.0,10,chance-marden-1
+Ross Martin,2012-09-22,4,Duke,,Memphis,W,5,5,100.0,1,1,100.0,8,ross-martin-1
+Craig McIntosh,2012-09-22,4,Kentucky,@,Florida,L,0,0,,0,2,0.0,0,craig-mcintosh-1
+Brandon McManus,2012-09-22,3,Temple,@,Penn State,L,1,1,100.0,2,2,100.0,7,brandon-mcmanus-1
+Mike Meyer,2012-09-22,4,Iowa,,Central Michigan,L,4,4,100.0,1,1,100.0,7,mike-meyer-1
+Jon Mora,2012-09-22,4,Arizona State,,Utah,W,0,0,,0,1,0.0,0,jon-mora-1
+Matt Nelson,2012-09-22,3,Louisiana Tech,@,Illinois,W,7,7,100.0,1,1,100.0,10,matt-nelson-1
+Jaden Oberkrom,2012-09-22,3,Texas Christian,,Virginia,W,3,3,100.0,2,2,100.0,9,jaden-oberkrom-1
+Zach Olen,2012-09-22,4,North Texas,,Troy,L,1,1,100.0,0,2,0.0,1,zach-olen-1
+Will Oliver,2012-09-22,4,Colorado,@,Washington State,W,5,5,100.0,0,1,0.0,5,will-oliver-1
+Cody Parkey,2012-09-22,4,Auburn,,Louisiana State,L,1,1,100.0,1,1,100.0,4,cody-parkey-1
+Zach Paul,2012-09-22,4,North Texas,,Troy,L,0,0,,0,1,0.0,0,zach-paul-2
+Jared Roberts,2012-09-22,4,Colorado State,,Utah State,L,1,1,100.0,2,2,100.0,7,jared-roberts-1
+Trevor Romaine,2012-09-22,2,Oregon State,@,UCLA,W,3,3,100.0,2,2,100.0,9,trevor-romaine-1
+Bryson Rose,2012-09-22,4,Mississippi,,Tulane,W,3,3,100.0,2,2,100.0,9,bryson-rose-1
+Jack Russell,2012-09-22,4,Wisconsin,,Texas-El Paso,W,4,4,100.0,0,1,0.0,4,jack-russell-1
+Niklas Sade,2012-09-22,4,North Carolina State,,Citadel,W,7,7,100.0,1,1,100.0,10,niklas-sade-1
+Steven Schott,2012-09-22,4,Ball State,,South Florida,W,4,4,100.0,1,1,100.0,7,steven-schott-1
+Daniel Schwarz,2012-09-22,4,Tulsa,,Fresno State,W,3,3,100.0,2,2,100.0,9,daniel-schwarz-1
+Will Scott,2012-09-22,4,Troy,@,North Texas,W,2,2,100.0,0,1,0.0,2,will-scott-1
+Jeremy Shelley,2012-09-22,4,Alabama,,Florida Atlantic,W,4,4,100.0,2,2,100.0,10,jeremy-shelley-1
+Mathew Sims,2012-09-22,4,Northern Illinois,,Kansas,W,3,4,75.0,1,1,100.0,6,mathew-sims-1
+Nick Sloan,2012-09-22,3,Navy,,Virginia Military Institute,W,5,5,100.0,2,2,100.0,11,nick-sloan-1
+Carey Spear,2012-09-22,4,Vanderbilt,@,Georgia,L,0,0,,1,2,50.0,3,carey-spear-1
+Robert Stein,2012-09-22,4,Akron,@,Tennessee,L,2,2,100.0,4,4,100.0,14,robert-stein-1
+Stephen Stein,2012-09-22,4,Bowling Green State,@,Virginia Tech,L,0,0,,0,1,0.0,0,stephen-stein-1
+Caleb Sturgis,2012-09-22,4,Florida,,Kentucky,W,5,5,100.0,1,2,50.0,8,caleb-sturgis-1
+Josh Thompson,2012-09-22,4,Utah State,@,Colorado State,W,4,4,100.0,1,1,100.0,7,josh-thompson-3
+Steven Valadez,2012-09-22,4,Texas-El Paso,@,Wisconsin,L,2,3,66.7,2,2,100.0,8,steven-valadez-1
+Matt Weller,2012-09-22,4,Ohio,,Norfolk State,W,5,5,100.0,3,6,50.0,14,matt-weller-1
+Jordan Wettstein,2012-09-22,4,Minnesota,,Syracuse,W,2,2,100.0,1,3,33.3,5,jordan-wettstein-1
+Jake Wieclaw,2012-09-22,4,Miami (FL),@,Georgia Tech,W,4,4,100.0,2,3,66.7,10,jake-wieclaw-1
+Stuart Williams,2012-09-22,4,Wyoming,@,Idaho,W,4,5,80.0,0,1,0.0,4,stuart-williams-1
+Adam Yates,2012-09-22,4,South Carolina,,Missouri,W,4,4,100.0,1,1,100.0,7,adam-yates-1
+Vinny Zaccario,2012-09-22,4,Florida Atlantic,@,Alabama,L,0,0,,0,1,0.0,0,vinny-zaccario-2
+Taylor Zalewski,2012-09-22,4,Illinois,,Louisiana Tech,L,3,3,100.0,1,1,100.0,6,taylor-zalewski-1
+Travis Coons,2012-09-27,4,Washington,,Stanford,W,2,2,100.0,1,1,100.0,5,travis-coons-1
+Jordan Williamson,2012-09-27,4,Stanford,@,Washington,L,1,1,100.0,2,2,100.0,7,jordan-williamson-1
+Corey Acosta,2012-09-29,4,Southern Mississippi,,Louisville,L,2,2,100.0,1,2,50.0,5,corey-acosta-1
+Drew Alleman,2012-09-29,5,Louisiana State,,Towson,W,5,5,100.0,1,2,50.0,8,drew-alleman-1
+Edwin Arceo,2012-09-29,4,Iowa State,,Texas Tech,L,1,2,50.0,0,1,0.0,1,edwin-arceo-1
+Brett Baer,2012-09-29,4,Louisiana,,Florida International,W,6,6,100.0,2,2,100.0,12,brett-baer-1
+Casey Barth,2012-09-29,5,North Carolina,,Idaho,W,9,9,100.0,1,1,100.0,12,casey-barth-1
+Drew Basil,2012-09-29,5,Ohio State,@,Michigan State,W,2,2,100.0,1,1,100.0,5,drew-basil-1
+Rob Beard,2012-09-29,5,Oregon,@,Washington State,W,6,6,100.0,1,1,100.0,9,rob-beard-1
+Taylor Bertolet,2012-09-29,4,Texas A&M,N,Arkansas,W,7,7,100.0,3,5,60.0,16,taylor-bertolet-1
+Tyler Bitancurt,2012-09-29,4,West Virginia,,Baylor,W,10,10,100.0,0,1,0.0,10,tyler-bitancurt-1
+Maikon Bonani,2012-09-29,5,South Florida,,Florida State,L,2,2,100.0,1,1,100.0,5,maikon-bonani-1
+John Bonano,2012-09-29,5,Arizona,,Oregon State,L,5,5,100.0,0,1,0.0,5,john-bonano-1
+Quentin Breshears,2012-09-29,5,Fresno State,,San Diego State,W,5,6,83.3,1,1,100.0,8,quentin-breshears-1
+Derrick Brodus,2012-09-29,5,Tennessee,@,Georgia,L,4,5,80.0,1,2,50.0,7,derrick-brodus-1
+Jeff Budzien,2012-09-29,5,Northwestern,,Indiana,W,5,5,100.0,3,3,100.0,14,jeff-budzien-1
+Ryan Bustin,2012-09-29,4,Texas Tech,@,Iowa State,W,3,3,100.0,1,2,50.0,6,ryan-bustin-1
+Chandler Catanzaro,2012-09-29,5,Clemson,@,Boston College,W,6,6,100.0,1,1,100.0,9,chandler-catanzaro-1
+Michel Chapuseaux,2012-09-29,5,South Alabama,,Troy,L,1,1,100.0,1,2,50.0,4,michel-chapuseaux-1
+Chad Christen,2012-09-29,5,Connecticut,,Buffalo,W,3,3,100.0,1,1,100.0,6,chad-christen-1
+Patrick Clarke,2012-09-29,4,Buffalo,@,Connecticut,L,2,2,100.0,1,1,100.0,5,patrick-clarke-1
+Dan Conroy,2012-09-29,5,Michigan State,,Ohio State,L,1,1,100.0,3,4,75.0,10,dan-conroy-1
+Freddy Cortez,2012-09-29,4,Kent State,,Ball State,W,6,6,100.0,1,1,100.0,9,freddy-cortez-1
+Vincenzo D'Amato,2012-09-29,5,California,,Arizona State,L,2,2,100.0,1,1,100.0,5,vincenzo-damato-1
+Brian Davis,2012-09-29,5,Arkansas State,,Western Kentucky,L,1,1,100.0,2,2,100.0,7,brian-davis-1
+Jeremiah Detmer,2012-09-29,5,Toledo,@,Western Michigan,W,4,4,100.0,3,4,75.0,13,jeremiah-detmer-1
+Mitch Ewald,2012-09-29,4,Indiana,@,Northwestern,L,3,3,100.0,0,1,0.0,3,mitch-ewald-1
+Ka'Imi Fairbairn,2012-09-29,5,UCLA,@,Colorado,W,6,6,100.0,0,1,0.0,6,kaimi-fairbairn-1
+Sam Ficken,2012-09-29,5,Penn State,@,Illinois,W,5,5,100.0,0,2,0.0,5,sam-ficken-1
+Nate Freese,2012-09-29,4,Boston College,,Clemson,L,4,4,100.0,1,1,100.0,7,nate-freese-1
+Michael Frisina,2012-09-29,4,Boise State,@,New Mexico,W,3,3,100.0,1,2,50.0,6,michael-frisina-1
+Andrew Furney,2012-09-29,5,Washington State,,Oregon,L,2,3,66.7,2,2,100.0,8,andrew-furney-1
+Alex Garoutte,2012-09-29,5,Arizona State,@,California,W,3,3,100.0,2,5,40.0,9,alex-garoutte-1
+Paul Griggs,2012-09-29,4,Purdue,,Marshall,W,6,7,85.7,1,1,100.0,9,paul-griggs-1
+Dan Grochowski,2012-09-29,4,Army,,Stony Brook,L,0,0,,1,1,100.0,3,dan-grochowski-1
+Justin Haig,2012-09-29,5,Marshall,@,Purdue,L,5,5,100.0,0,1,0.0,5,justin-haig-1
+Allen Hardison,2012-09-29,5,Nevada,@,Texas State,W,4,4,100.0,2,2,100.0,10,allen-hardison-1
+David Harman,2012-09-29,4,Central Michigan,@,Northern Illinois,L,3,3,100.0,1,2,50.0,6,david-harman-1
+Parker Herrington,2012-09-29,4,Air Force,,Colorado State,W,6,6,100.0,0,1,0.0,6,parker-herrington-1
+Zach Hocker,2012-09-29,5,Arkansas,N,Texas A&M,L,1,1,100.0,1,2,50.0,4,zach-hocker-1
+Matt Hogan,2012-09-29,4,Houston,N,Rice,W,5,5,100.0,0,2,0.0,5,matt-hogan-1
+Dustin Hopkins,2012-09-29,5,Florida State,@,South Florida,W,3,3,100.0,3,4,75.0,12,dustin-hopkins-1
+Chase Hover,2012-09-29,4,Southern Methodist,,Texas Christian,L,1,2,50.0,1,2,50.0,4,chase-hover-1
+Drew Jarrett,2012-09-29,5,Virginia,,Louisiana Tech,L,5,5,100.0,1,2,50.0,8,drew-jarrett-1
+Aaron Jones,2012-09-29,4,Baylor,@,West Virginia,L,9,9,100.0,0,2,0.0,9,aaron-jones-2
+Cody Journell,2012-09-29,5,Virginia Tech,N,Cincinnati,L,3,3,100.0,1,1,100.0,6,cody-journell-1
+Nolan Kohorst,2012-09-29,5,Nevada-Las Vegas,@,Utah State,L,1,1,100.0,2,2,100.0,7,nolan-kohorst-1
+Austin Lopez,2012-09-29,5,San Jose State,@,Navy,W,0,0,,4,4,100.0,12,austin-lopez-1
+Carlos Lopez,2012-09-29,4,Middle Tennessee State,@,Georgia Tech,W,7,7,100.0,0,1,0.0,7,carlos-lopez-1
+Blake Lucas,2012-09-29,5,Massachusetts,,Ohio,L,0,0,,2,2,100.0,6,blake-lucas-1
+Brett Maher,2012-09-29,5,Nebraska,,Wisconsin,W,3,3,100.0,3,4,75.0,12,brett-maher-1
+Ross Martin,2012-09-29,5,Duke,@,Wake Forest,W,4,4,100.0,2,2,100.0,10,ross-martin-1
+Craig McIntosh,2012-09-29,5,Kentucky,,South Carolina,L,2,2,100.0,1,1,100.0,5,craig-mcintosh-1
+Mike Meyer,2012-09-29,5,Iowa,,Minnesota,W,4,4,100.0,1,1,100.0,7,mike-meyer-1
+Tony Miliano,2012-09-29,3,Cincinnati,N,Virginia Tech,W,3,3,100.0,2,3,66.7,9,tony-miliano-1
+Shawn Moffitt,2012-09-29,4,Central Florida,,Missouri,L,1,1,100.0,1,1,100.0,4,shawn-moffitt-1
+Marshall Morgan,2012-09-29,5,Georgia,,Tennessee,W,4,6,66.7,1,1,100.0,7,marshall-morgan-1
+Matt Nelson,2012-09-29,4,Louisiana Tech,@,Virginia,W,5,5,100.0,3,3,100.0,14,matt-nelson-1
+Jimmy Newman,2012-09-29,5,Wake Forest,,Duke,L,3,3,100.0,2,2,100.0,9,jimmy-newman-1
+Jaden Oberkrom,2012-09-29,4,Texas Christian,@,Southern Methodist,W,3,3,100.0,1,2,50.0,6,jaden-oberkrom-1
+Zach Olen,2012-09-29,5,North Texas,@,Florida Atlantic,W,2,2,100.0,2,2,100.0,8,zach-olen-1
+Kaleb Patterson,2012-09-29,5,Miami (OH),@,Akron,W,4,5,80.0,2,3,66.7,10,kaleb-patterson-1
+Trevor Romaine,2012-09-29,3,Oregon State,@,Arizona,W,5,5,100.0,1,2,50.0,8,trevor-romaine-1
+Jack Russell,2012-09-29,5,Wisconsin,@,Nebraska,L,2,3,66.7,0,1,0.0,2,jack-russell-1
+Niklas Sade,2012-09-29,5,North Carolina State,@,Miami (FL),L,4,5,80.0,1,1,100.0,7,niklas-sade-1
+Cairo Santos,2012-09-29,4,Tulane,,Louisiana-Monroe,L,1,1,100.0,1,1,100.0,4,cairo-santos-1
+Steven Schott,2012-09-29,5,Ball State,@,Kent State,L,4,5,80.0,3,4,75.0,13,steven-schott-1
+Daniel Schwarz,2012-09-29,5,Tulsa,@,Alabama-Birmingham,W,7,7,100.0,0,1,0.0,7,daniel-schwarz-1
+Garrett Schwettman,2012-09-29,5,Western Kentucky,@,Arkansas State,W,2,3,66.7,2,2,100.0,8,garrett-schwettman-1
+Will Scott,2012-09-29,5,Troy,@,South Alabama,W,4,4,100.0,1,2,50.0,7,will-scott-1
+Quinn Sharp,2012-09-29,4,Oklahoma State,,Texas,L,3,3,100.0,3,4,75.0,12,quinn-sharp-1
+Jeremy Shelley,2012-09-29,5,Alabama,,Mississippi,W,3,3,100.0,4,4,100.0,15,jeremy-shelley-1
+Mathew Sims,2012-09-29,5,Northern Illinois,,Central Michigan,W,5,5,100.0,2,2,100.0,11,mathew-sims-1
+Josh Thompson,2012-09-29,5,Utah State,,Nevada-Las Vegas,W,3,4,75.0,2,2,100.0,9,josh-thompson-3
+Steven Valadez,2012-09-29,5,Texas-El Paso,@,East Carolina,L,1,1,100.0,1,2,50.0,4,steven-valadez-1
+John Wallace,2012-09-29,5,Louisville,@,Southern Mississippi,W,0,1,0.0,1,1,100.0,3,john-wallace-1
+Matt Weller,2012-09-29,5,Ohio,@,Massachusetts,W,4,4,100.0,3,4,75.0,13,matt-weller-1
+Jake Wieclaw,2012-09-29,5,Miami (FL),,North Carolina State,W,6,6,100.0,0,3,0.0,6,jake-wieclaw-1
+Adam Yates,2012-09-29,5,South Carolina,@,Kentucky,W,5,5,100.0,1,1,100.0,8,adam-yates-1
+Taylor Zalewski,2012-09-29,5,Illinois,,Penn State,L,1,1,100.0,0,1,0.0,1,taylor-zalewski-1
+Brian Davis,2012-10-04,6,Arkansas State,@,Florida International,W,4,5,80.0,0,1,0.0,4,brian-davis-1
+Jack Griffin,2012-10-04,6,Florida International,,Arkansas State,L,2,2,100.0,2,2,100.0,8,jack-griffin-1
+Warren Harvey,2012-10-04,6,East Carolina,@,Central Florida,L,2,2,100.0,2,2,100.0,8,warren-harvey-1
+Andre Heidari,2012-10-04,5,Southern California,@,Utah,W,5,5,100.0,1,3,33.3,8,andre-heidari-1
+Shawn Moffitt,2012-10-04,5,Central Florida,,East Carolina,W,4,4,100.0,4,4,100.0,16,shawn-moffitt-1
+Coleman Petersen,2012-10-04,5,Utah,,Southern California,L,4,4,100.0,0,1,0.0,4,coleman-petersen-1
+Kevin Harper,2012-10-05,5,Pittsburgh,@,Syracuse,L,1,1,100.0,2,3,66.7,7,kevin-harper-1
+Justin Sorensen,2012-10-05,6,Brigham Young,,Utah State,W,0,0,,0,1,0.0,0,justin-sorensen-2
+Josh Thompson,2012-10-05,6,Utah State,@,Brigham Young,L,0,0,,1,2,50.0,3,josh-thompson-3
+Corey Acosta,2012-10-06,5,Southern Mississippi,,Boise State,L,2,2,100.0,0,2,0.0,2,corey-acosta-1
+Justus Adams,2012-10-06,6,New Mexico,,Texas State,W,5,5,100.0,0,1,0.0,5,justus-adams-1
+Drew Alleman,2012-10-06,6,Louisiana State,@,Florida,L,0,0,,2,2,100.0,6,drew-alleman-1
+Edwin Arceo,2012-10-06,5,Iowa State,@,Texas Christian,W,4,5,80.0,1,1,100.0,7,edwin-arceo-1
+Brett Baer,2012-10-06,5,Louisiana,,Tulane,W,5,5,100.0,2,4,50.0,11,brett-baer-1
+Andrew Baggett,2012-10-06,6,Missouri,,Vanderbilt,L,0,0,,3,3,100.0,9,andrew-baggett-1
+Casey Barth,2012-10-06,6,North Carolina,,Virginia Tech,W,6,6,100.0,2,2,100.0,12,casey-barth-1
+Rob Beard,2012-10-06,6,Oregon,,Washington,W,7,7,100.0,1,2,50.0,10,rob-beard-1
+Devon Bell,2012-10-06,5,Mississippi State,@,Kentucky,W,3,3,100.0,2,2,100.0,9,devon-bell-1
+Taylor Bertolet,2012-10-06,5,Texas A&M,@,Mississippi,W,3,4,75.0,1,1,100.0,6,taylor-bertolet-1
+Tyler Bitancurt,2012-10-06,5,West Virginia,@,Texas,W,6,6,100.0,2,3,66.7,12,tyler-bitancurt-1
+Maikon Bonani,2012-10-06,6,South Florida,@,Temple,L,4,4,100.0,0,2,0.0,4,maikon-bonani-1
+John Bonano,2012-10-06,6,Arizona,@,Stanford,L,4,4,100.0,2,2,100.0,10,john-bonano-1
+Chris Boswell,2012-10-06,6,Rice,@,Memphis,L,1,1,100.0,1,2,50.0,4,chris-boswell-1
+Quentin Breshears,2012-10-06,6,Fresno State,@,Colorado State,W,4,4,100.0,0,1,0.0,4,quentin-breshears-1
+Kyle Brindza,2012-10-06,5,Notre Dame,,Miami (FL),W,5,5,100.0,2,3,66.7,11,kyle-brindza-1
+Ryan Bustin,2012-10-06,5,Texas Tech,,Oklahoma,L,2,2,100.0,2,2,100.0,8,ryan-bustin-1
+Chandler Catanzaro,2012-10-06,6,Clemson,,Georgia Tech,W,4,4,100.0,3,3,100.0,13,chandler-catanzaro-1
+Chad Christen,2012-10-06,6,Connecticut,@,Rutgers,L,0,0,,1,2,50.0,3,chad-christen-1
+Patrick Clarke,2012-10-06,5,Buffalo,@,Ohio,L,4,4,100.0,1,1,100.0,7,patrick-clarke-1
+Dan Conroy,2012-10-06,6,Michigan State,@,Indiana,W,4,4,100.0,1,1,100.0,7,dan-conroy-1
+Freddy Cortez,2012-10-06,5,Kent State,@,Eastern Michigan,W,5,5,100.0,2,2,100.0,11,freddy-cortez-1
+Brad Craddock,2012-10-06,5,Maryland,,Wake Forest,W,1,2,50.0,2,3,66.7,7,brad-craddock-1
+Vincenzo D'Amato,2012-10-06,6,California,,UCLA,W,4,6,66.7,1,1,100.0,7,vincenzo-damato-1
+Jeremiah Detmer,2012-10-06,6,Toledo,,Central Michigan,W,5,5,100.0,3,3,100.0,14,jeremiah-detmer-1
+Ron Doherty,2012-10-06,5,Kansas,@,Kansas State,L,2,2,100.0,0,1,0.0,2,ron-doherty-1
+Mitch Ewald,2012-10-06,5,Indiana,,Michigan State,L,3,3,100.0,2,2,100.0,9,mitch-ewald-1
+Ka'Imi Fairbairn,2012-10-06,6,UCLA,@,California,L,2,2,100.0,1,2,50.0,5,kaimi-fairbairn-1
+Trey Farquhar,2012-10-06,6,Idaho,,New Mexico State,W,2,2,100.0,4,4,100.0,14,trey-farquhar-1
+Kyle Federico,2012-10-06,5,Rutgers,,Connecticut,W,1,1,100.0,2,3,66.7,7,kyle-federico-1
+Fera,2012-10-06,5,Texas,,West Virginia,L,6,6,100.0,1,2,50.0,9,fera-1
+Sam Ficken,2012-10-06,6,Penn State,,Northwestern,W,4,4,100.0,1,1,100.0,7,sam-ficken-1
+Nate Freese,2012-10-06,5,Boston College,@,Army,L,4,4,100.0,1,1,100.0,7,nate-freese-1
+Kyle French,2012-10-06,6,Wisconsin,,Illinois,W,4,4,100.0,1,1,100.0,7,kyle-french-1
+Michael Frisina,2012-10-06,5,Boise State,@,Southern Mississippi,W,4,5,80.0,2,2,100.0,10,michael-frisina-1
+Andrew Furney,2012-10-06,6,Washington State,@,Oregon State,L,0,0,,2,2,100.0,6,andrew-furney-1
+Brendan Gibbons,2012-10-06,5,Michigan,@,Purdue,W,5,5,100.0,3,4,75.0,14,brendan-gibbons-1
+Paul Griggs,2012-10-06,5,Purdue,,Michigan,L,1,1,100.0,2,2,100.0,7,paul-griggs-1
+Dan Grochowski,2012-10-06,5,Army,,Boston College,W,4,4,100.0,2,3,66.7,10,dan-grochowski-1
+Justin Haig,2012-10-06,6,Marshall,,Tulsa,L,3,3,100.0,1,1,100.0,6,justin-haig-1
+Andrew Haldeman,2012-10-06,6,Western Michigan,,Massachusetts,W,7,7,100.0,1,1,100.0,10,andrew-haldeman-1
+Allen Hardison,2012-10-06,6,Nevada,,Wyoming,W,5,5,100.0,0,1,0.0,5,allen-hardison-1
+Parker Herrington,2012-10-06,5,Air Force,,Navy,L,3,3,100.0,0,2,0.0,3,parker-herrington-1
+Zach Hocker,2012-10-06,6,Arkansas,@,Auburn,W,3,3,100.0,1,3,33.3,6,zach-hocker-1
+Matt Hogan,2012-10-06,5,Houston,,North Texas,W,5,5,100.0,3,3,100.0,14,matt-hogan-1
+Dustin Hopkins,2012-10-06,6,Florida State,@,North Carolina State,L,1,1,100.0,3,3,100.0,10,dustin-hopkins-1
+Chase Hover,2012-10-06,5,Southern Methodist,@,Texas-El Paso,W,2,2,100.0,1,4,25.0,5,chase-hover-1
+Michael Hunnicutt,2012-10-06,4,Oklahoma,@,Texas Tech,W,5,5,100.0,2,2,100.0,11,michael-hunnicutt-1
+Drew Jarrett,2012-10-06,6,Virginia,@,Duke,L,2,2,100.0,1,3,33.3,5,drew-jarrett-1
+Cody Journell,2012-10-06,6,Virginia Tech,@,North Carolina,L,2,2,100.0,2,2,100.0,8,cody-journell-1
+Nolan Kohorst,2012-10-06,6,Nevada-Las Vegas,@,Louisiana Tech,L,4,4,100.0,1,1,100.0,7,nolan-kohorst-1
+Ty Long,2012-10-06,5,Alabama-Birmingham,,Southeastern Louisiana,W,7,7,100.0,1,1,100.0,10,ty-long-1
+Carlos Lopez,2012-10-06,5,Middle Tennessee State,,Louisiana-Monroe,L,2,2,100.0,1,1,100.0,5,carlos-lopez-1
+Brett Maher,2012-10-06,6,Nebraska,@,Ohio State,L,5,5,100.0,1,1,100.0,8,brett-maher-1
+Justin Manton,2012-10-06,5,Louisiana-Monroe,@,Middle Tennessee State,W,4,4,100.0,1,1,100.0,7,justin-manton-1
+Chance Marden,2012-10-06,6,San Diego State,,Hawaii,W,7,7,100.0,1,1,100.0,10,chance-marden-1
+Brandon McManus,2012-10-06,4,Temple,,South Florida,W,4,5,80.0,1,2,50.0,7,brandon-mcmanus-1
+Tony Miliano,2012-10-06,4,Cincinnati,,Miami (OH),W,7,7,100.0,1,2,50.0,10,tony-miliano-1
+Matt Nelson,2012-10-06,5,Louisiana Tech,,Nevada-Las Vegas,W,7,7,100.0,3,3,100.0,16,matt-nelson-1
+Jimmy Newman,2012-10-06,6,Wake Forest,@,Maryland,L,1,1,100.0,0,2,0.0,1,jimmy-newman-1
+Jaden Oberkrom,2012-10-06,5,Texas Christian,,Iowa State,L,2,2,100.0,3,3,100.0,11,jaden-oberkrom-1
+Cody Parkey,2012-10-06,5,Auburn,,Arkansas,L,1,1,100.0,0,1,0.0,1,cody-parkey-1
+Trevor Romaine,2012-10-06,4,Oregon State,,Washington State,W,1,2,50.0,2,2,100.0,7,trevor-romaine-1
+Bryson Rose,2012-10-06,6,Mississippi,,Texas A&M,L,3,3,100.0,2,3,66.7,9,bryson-rose-1
+Niklas Sade,2012-10-06,6,North Carolina State,,Florida State,W,2,2,100.0,1,1,100.0,5,niklas-sade-1
+Cairo Santos,2012-10-06,5,Tulane,@,Louisiana,L,1,1,100.0,2,2,100.0,7,cairo-santos-1
+Steven Schott,2012-10-06,6,Ball State,,Northern Illinois,L,2,2,100.0,3,5,60.0,11,steven-schott-1
+Daniel Schwarz,2012-10-06,6,Tulsa,@,Marshall,W,4,4,100.0,1,1,100.0,7,daniel-schwarz-1
+David Scully,2012-10-06,6,Georgia Tech,@,Clemson,L,4,4,100.0,1,3,33.3,7,david-scully-1
+Nick Sloan,2012-10-06,5,Navy,@,Air Force,W,2,2,100.0,2,2,100.0,8,nick-sloan-1
+Carey Spear,2012-10-06,5,Vanderbilt,@,Missouri,W,1,1,100.0,1,1,100.0,4,carey-spear-1
+Tyler Stampler,2012-10-06,6,New Mexico State,@,Idaho,L,1,1,100.0,1,1,100.0,4,tyler-stampler-1
+Robert Stein,2012-10-06,6,Akron,,Bowling Green State,L,1,1,100.0,1,1,100.0,4,robert-stein-1
+Stephen Stein,2012-10-06,6,Bowling Green State,@,Akron,W,3,3,100.0,1,2,50.0,6,stephen-stein-1
+Steven Valadez,2012-10-06,6,Texas-El Paso,,Southern Methodist,L,0,0,,0,1,0.0,0,steven-valadez-1
+Matt Weller,2012-10-06,6,Ohio,,Buffalo,W,5,5,100.0,1,1,100.0,8,matt-weller-1
+Jake Wieclaw,2012-10-06,6,Miami (FL),@,Notre Dame,L,0,0,,1,2,50.0,3,jake-wieclaw-1
+Adam Yates,2012-10-06,6,South Carolina,,Georgia,W,5,5,100.0,0,1,0.0,5,adam-yates-1
+Taylor Zalewski,2012-10-06,6,Illinois,@,Wisconsin,L,2,2,100.0,0,1,0.0,2,taylor-zalewski-1
+Jon Mora,2012-10-11,6,Arizona State,@,Colorado,W,1,2,50.0,1,1,100.0,4,jon-mora-1
+Will Oliver,2012-10-11,6,Colorado,,Arizona State,L,2,2,100.0,1,1,100.0,5,will-oliver-1
+Daniel Schwarz,2012-10-11,7,Tulsa,,Texas-El Paso,W,3,4,75.0,2,3,66.7,9,daniel-schwarz-1
+Garrett Schwettman,2012-10-11,6,Western Kentucky,@,Troy,W,4,4,100.0,1,1,100.0,7,garrett-schwettman-1
+Will Scott,2012-10-11,6,Troy,,Western Kentucky,L,2,2,100.0,2,3,66.7,8,will-scott-1
+Steven Valadez,2012-10-11,7,Texas-El Paso,@,Tulsa,L,0,0,,1,1,100.0,3,steven-valadez-1
+David Harman,2012-10-12,6,Central Michigan,,Navy,L,1,1,100.0,2,2,100.0,7,david-harman-1
+Nick Sloan,2012-10-12,6,Navy,@,Central Michigan,W,4,4,100.0,1,1,100.0,7,nick-sloan-1
+Corey Acosta,2012-10-13,6,Southern Mississippi,@,Central Florida,L,4,4,100.0,1,1,100.0,7,corey-acosta-1
+Drew Alleman,2012-10-13,7,Louisiana State,,South Carolina,W,2,2,100.0,3,4,75.0,11,drew-alleman-1
+Andrew Baggett,2012-10-13,7,Missouri,,Alabama,L,1,1,100.0,1,1,100.0,4,andrew-baggett-1
+Casey Barth,2012-10-13,7,North Carolina,@,Miami (FL),W,1,1,100.0,1,3,33.3,4,casey-barth-1
+Drew Basil,2012-10-13,7,Ohio State,@,Indiana,W,7,7,100.0,1,2,50.0,10,drew-basil-1
+Devon Bell,2012-10-13,6,Mississippi State,,Tennessee,W,5,5,100.0,2,3,66.7,11,devon-bell-1
+Taylor Bertolet,2012-10-13,6,Texas A&M,@,Louisiana Tech,W,6,7,85.7,3,3,100.0,15,taylor-bertolet-1
+Nick Borgese,2012-10-13,6,Rutgers,,Syracuse,W,2,3,66.7,1,1,100.0,5,nick-borgese-1
+Chris Boswell,2012-10-13,7,Rice,,Texas-San Antonio,W,4,4,100.0,2,2,100.0,10,chris-boswell-1
+Quentin Breshears,2012-10-13,7,Fresno State,@,Boise State,L,1,1,100.0,1,2,50.0,4,quentin-breshears-1
+Kyle Brindza,2012-10-13,6,Notre Dame,,Stanford,W,2,2,100.0,2,2,100.0,8,kyle-brindza-1
+Ryan Bustin,2012-10-13,6,Texas Tech,,West Virginia,W,7,7,100.0,0,1,0.0,7,ryan-bustin-1
+Anthony Cantele,2012-10-13,6,Kansas State,@,Iowa State,W,3,3,100.0,2,2,100.0,9,anthony-cantele-1
+Michel Chapuseaux,2012-10-13,6,South Alabama,@,Arkansas State,L,2,2,100.0,3,4,75.0,11,michel-chapuseaux-1
+Chad Christen,2012-10-13,7,Connecticut,,Temple,L,2,2,100.0,0,4,0.0,2,chad-christen-1
+Patrick Clarke,2012-10-13,6,Buffalo,@,Northern Illinois,L,0,0,,1,2,50.0,3,patrick-clarke-1
+Dan Conroy,2012-10-13,7,Michigan State,,Iowa,L,1,1,100.0,3,3,100.0,10,dan-conroy-1
+Travis Coons,2012-10-13,6,Washington,,Southern California,L,2,2,100.0,0,1,0.0,2,travis-coons-1
+Freddy Cortez,2012-10-13,6,Kent State,@,Army,W,4,4,100.0,1,1,100.0,7,freddy-cortez-1
+Brad Craddock,2012-10-13,6,Maryland,@,Virginia,W,3,3,100.0,2,3,66.7,9,brad-craddock-1
+Vincenzo D'Amato,2012-10-13,7,California,@,Washington State,W,4,4,100.0,1,1,100.0,7,vincenzo-damato-1
+Jeremiah Detmer,2012-10-13,7,Toledo,@,Eastern Michigan,W,7,7,100.0,1,1,100.0,10,jeremiah-detmer-1
+Mitch Ewald,2012-10-13,6,Indiana,,Ohio State,L,5,5,100.0,2,2,100.0,11,mitch-ewald-1
+Trey Farquhar,2012-10-13,7,Idaho,@,Texas State,L,1,1,100.0,0,1,0.0,1,trey-farquhar-1
+Kyle French,2012-10-13,7,Wisconsin,@,Purdue,W,5,5,100.0,1,3,33.3,8,kyle-french-1
+Michael Frisina,2012-10-13,6,Boise State,,Fresno State,W,2,2,100.0,2,3,66.7,8,michael-frisina-1
+Ian Frye,2012-10-13,7,Virginia,,Maryland,L,2,2,100.0,2,2,100.0,8,ian-frye-1
+Andrew Furney,2012-10-13,7,Washington State,,California,L,2,2,100.0,1,2,50.0,5,andrew-furney-1
+Brendan Gibbons,2012-10-13,6,Michigan,,Illinois,W,6,6,100.0,1,1,100.0,9,brendan-gibbons-1
+Jack Griffin,2012-10-13,7,Florida International,,Middle Tennessee State,L,3,4,75.0,1,2,50.0,6,jack-griffin-1
+Dan Grochowski,2012-10-13,6,Army,,Kent State,L,2,2,100.0,1,2,50.0,5,dan-grochowski-1
+Tyler Hadden,2012-10-13,6,Hawaii,,New Mexico,L,2,2,100.0,1,2,50.0,5,tyler-hadden-1
+Andrew Haldeman,2012-10-13,7,Western Michigan,@,Ball State,L,3,3,100.0,1,3,33.3,6,andrew-haldeman-1
+Kevin Harper,2012-10-13,6,Pittsburgh,,Louisville,L,5,5,100.0,0,1,0.0,5,kevin-harper-1
+Warren Harvey,2012-10-13,7,East Carolina,,Memphis,W,5,5,100.0,2,2,100.0,11,warren-harvey-1
+Andre Heidari,2012-10-13,6,Southern California,@,Washington,W,3,3,100.0,1,2,50.0,6,andre-heidari-1
+Matt Hogan,2012-10-13,6,Houston,,Alabama-Birmingham,W,3,3,100.0,6,7,85.7,21,matt-hogan-1
+Dustin Hopkins,2012-10-13,7,Florida State,,Boston College,W,6,6,100.0,3,3,100.0,15,dustin-hopkins-1
+Chase Hover,2012-10-13,6,Southern Methodist,@,Tulane,L,2,2,100.0,4,5,80.0,14,chase-hover-1
+Michael Hunnicutt,2012-10-13,5,Oklahoma,N,Texas,W,7,8,87.5,2,2,100.0,13,michael-hunnicutt-1
+Drew Jarrett,2012-10-13,7,Virginia,,Maryland,L,0,0,,0,1,0.0,0,drew-jarrett-1
+Will Johnson,2012-10-13,6,Texas State,,Idaho,W,5,5,100.0,1,2,50.0,8,will-johnson-5
+Cody Journell,2012-10-13,7,Virginia Tech,,Duke,W,5,5,100.0,2,2,100.0,11,cody-journell-1
+Nolan Kohorst,2012-10-13,7,Nevada-Las Vegas,,Nevada,L,4,4,100.0,1,1,100.0,7,nolan-kohorst-1
+Ross Krautman,2012-10-13,6,Syracuse,@,Rutgers,L,1,1,100.0,0,2,0.0,1,ross-krautman-1
+Ty Long,2012-10-13,6,Alabama-Birmingham,@,Houston,L,2,2,100.0,1,1,100.0,5,ty-long-1
+Austin Lopez,2012-10-13,6,San Jose State,,Utah State,L,3,3,100.0,2,2,100.0,9,austin-lopez-1
+Carlos Lopez,2012-10-13,6,Middle Tennessee State,@,Florida International,W,4,4,100.0,2,2,100.0,10,carlos-lopez-1
+Chance Marden,2012-10-13,7,San Diego State,,Colorado State,W,5,5,100.0,1,1,100.0,8,chance-marden-1
+Ross Martin,2012-10-13,7,Duke,@,Virginia Tech,L,2,2,100.0,2,2,100.0,8,ross-martin-1
+Brandon McManus,2012-10-13,5,Temple,@,Connecticut,W,2,2,100.0,1,1,100.0,5,brandon-mcmanus-1
+Mike Meyer,2012-10-13,6,Iowa,@,Michigan State,W,1,1,100.0,4,4,100.0,13,mike-meyer-1
+Tony Miliano,2012-10-13,5,Cincinnati,,Fordham,W,7,7,100.0,0,1,0.0,7,tony-miliano-1
+Shawn Moffitt,2012-10-13,6,Central Florida,,Southern Mississippi,W,5,5,100.0,1,2,50.0,8,shawn-moffitt-1
+Dylan Mulder,2012-10-13,6,Eastern Michigan,,Toledo,L,5,6,83.3,2,2,100.0,11,dylan-mulder-1
+Matt Nelson,2012-10-13,6,Louisiana Tech,,Texas A&M,L,4,5,80.0,1,1,100.0,7,matt-nelson-1
+Michael Palardy,2012-10-13,6,Tennessee,@,Mississippi State,L,4,4,100.0,1,1,100.0,7,michael-palardy-1
+Cody Parkey,2012-10-13,6,Auburn,@,Mississippi,L,2,2,100.0,2,2,100.0,8,cody-parkey-1
+Kaleb Patterson,2012-10-13,7,Miami (OH),@,Bowling Green State,L,0,0,,2,2,100.0,6,kaleb-patterson-1
+Bryson Rose,2012-10-13,7,Mississippi,,Auburn,W,5,5,100.0,2,2,100.0,11,bryson-rose-1
+Cairo Santos,2012-10-13,6,Tulane,,Southern Methodist,W,3,3,100.0,2,2,100.0,9,cairo-santos-1
+Steven Schott,2012-10-13,7,Ball State,,Western Michigan,W,3,3,100.0,1,1,100.0,6,steven-schott-1
+Quinn Sharp,2012-10-13,5,Oklahoma State,@,Kansas,W,2,2,100.0,2,3,66.7,8,quinn-sharp-1
+Mathew Sims,2012-10-13,7,Northern Illinois,,Buffalo,W,6,6,100.0,1,1,100.0,9,mathew-sims-1
+Justin Sorensen,2012-10-13,7,Brigham Young,,Oregon State,L,3,3,100.0,1,1,100.0,6,justin-sorensen-2
+Carey Spear,2012-10-13,6,Vanderbilt,,Florida,L,1,1,100.0,1,2,50.0,4,carey-spear-1
+Tyler Spurlock,2012-10-13,6,Memphis,@,East Carolina,L,1,1,100.0,0,1,0.0,1,tyler-spurlock-1
+Stephen Stein,2012-10-13,7,Bowling Green State,,Miami (OH),W,4,4,100.0,1,1,100.0,7,stephen-stein-1
+Kristian Stern,2012-10-13,6,Texas-San Antonio,@,Rice,L,0,0,,2,3,66.7,6,kristian-stern-1
+Caleb Sturgis,2012-10-13,6,Florida,@,Vanderbilt,W,2,2,100.0,3,3,100.0,11,caleb-sturgis-1
+John Wallace,2012-10-13,6,Louisville,@,Pittsburgh,W,6,6,100.0,1,1,100.0,9,john-wallace-1
+Matt Weller,2012-10-13,7,Ohio,,Akron,W,4,4,100.0,2,2,100.0,10,matt-weller-1
+Jordan Wettstein,2012-10-13,6,Minnesota,,Northwestern,L,1,1,100.0,2,2,100.0,7,jordan-wettstein-1
+Stuart Williams,2012-10-13,6,Wyoming,,Air Force,L,1,1,100.0,2,2,100.0,7,stuart-williams-1
+Jordan Williamson,2012-10-13,6,Stanford,@,Notre Dame,L,1,1,100.0,2,3,66.7,7,jordan-williamson-1
+Taylor Zalewski,2012-10-13,7,Illinois,@,Michigan,L,0,0,,0,1,0.0,0,taylor-zalewski-1
+Brett Baer,2012-10-16,6,Louisiana,@,North Texas,L,2,3,66.7,1,1,100.0,5,brett-baer-1
+Zach Olen,2012-10-16,7,North Texas,,Louisiana,W,3,3,100.0,3,3,100.0,12,zach-olen-1
+Alex Garoutte,2012-10-18,7,Arizona State,,Oregon,L,3,3,100.0,0,1,0.0,3,alex-garoutte-1
+Chase Hover,2012-10-18,7,Southern Methodist,,Houston,W,9,10,90.0,1,1,100.0,12,chase-hover-1
+Chad Christen,2012-10-19,8,Connecticut,@,Syracuse,L,1,1,100.0,1,1,100.0,4,chad-christen-1
+Ross Krautman,2012-10-19,7,Syracuse,,Connecticut,W,4,4,100.0,4,4,100.0,16,ross-krautman-1
+Corey Acosta,2012-10-20,7,Southern Mississippi,,Marshall,L,3,3,100.0,1,1,100.0,6,corey-acosta-1
+Justus Adams,2012-10-20,8,New Mexico,@,Air Force,L,2,2,100.0,1,2,50.0,5,justus-adams-1
+Drew Alleman,2012-10-20,8,Louisiana State,@,Texas A&M,W,3,3,100.0,1,2,50.0,6,drew-alleman-1
+Mitch Anderson,2012-10-20,7,Florida Atlantic,@,South Alabama,L,4,4,100.0,2,5,40.0,10,mitch-anderson-2
+Edwin Arceo,2012-10-20,7,Iowa State,@,Oklahoma State,L,1,1,100.0,1,1,100.0,4,edwin-arceo-1
+Casey Barth,2012-10-20,8,North Carolina,@,Duke,L,3,3,100.0,3,3,100.0,12,casey-barth-1
+Drew Basil,2012-10-20,8,Ohio State,,Purdue,W,3,3,100.0,0,1,0.0,3,drew-basil-1
+Devon Bell,2012-10-20,7,Mississippi State,,Middle Tennessee State,W,6,6,100.0,1,2,50.0,9,devon-bell-1
+Taylor Bertolet,2012-10-20,7,Texas A&M,,Louisiana State,L,1,2,50.0,2,4,50.0,7,taylor-bertolet-1
+Maikon Bonani,2012-10-20,7,South Florida,@,Louisville,L,2,2,100.0,1,1,100.0,5,maikon-bonani-1
+John Bonano,2012-10-20,7,Arizona,,Washington,W,7,7,100.0,1,1,100.0,10,john-bonano-1
+Chris Boswell,2012-10-20,8,Rice,@,Tulsa,L,3,3,100.0,1,3,33.3,6,chris-boswell-1
+Kyle Brindza,2012-10-20,7,Notre Dame,,Brigham Young,W,2,2,100.0,1,3,33.3,5,kyle-brindza-1
+Jeff Budzien,2012-10-20,8,Northwestern,,Nebraska,L,4,4,100.0,0,1,0.0,4,jeff-budzien-1
+Anthony Cantele,2012-10-20,7,Kansas State,@,West Virginia,W,7,7,100.0,2,2,100.0,13,anthony-cantele-1
+Chandler Catanzaro,2012-10-20,7,Clemson,,Virginia Tech,W,5,5,100.0,1,1,100.0,8,chandler-catanzaro-1
+Michel Chapuseaux,2012-10-20,7,South Alabama,,Florida Atlantic,W,4,4,100.0,3,3,100.0,13,michel-chapuseaux-1
+Patrick Clarke,2012-10-20,7,Buffalo,,Pittsburgh,L,0,0,,2,2,100.0,6,patrick-clarke-1
+Dan Conroy,2012-10-20,8,Michigan State,@,Michigan,L,1,1,100.0,1,2,50.0,4,dan-conroy-1
+Travis Coons,2012-10-20,7,Washington,@,Arizona,L,2,2,100.0,1,1,100.0,5,travis-coons-1
+Freddy Cortez,2012-10-20,7,Kent State,,Western Michigan,W,5,5,100.0,2,2,100.0,11,freddy-cortez-1
+Brad Craddock,2012-10-20,7,Maryland,,North Carolina State,L,0,1,0.0,2,3,66.7,6,brad-craddock-1
+Vincenzo D'Amato,2012-10-20,8,California,,Stanford,L,0,0,,1,1,100.0,3,vincenzo-damato-1
+Jeremiah Detmer,2012-10-20,8,Toledo,,Cincinnati,W,2,2,100.0,5,5,100.0,17,jeremiah-detmer-1
+Nick Diaz,2012-10-20,8,Utah State,,New Mexico State,W,5,5,100.0,2,3,66.7,11,nick-diaz-1
+Mitch Ewald,2012-10-20,7,Indiana,@,Navy,L,3,3,100.0,3,3,100.0,12,mitch-ewald-1
+Sam Ficken,2012-10-20,7,Penn State,@,Iowa,W,5,5,100.0,1,2,50.0,8,sam-ficken-1
+Cade Foster,2012-10-20,7,Alabama,@,Tennessee,W,0,0,,0,2,0.0,0,cade-foster-1
+Nate Freese,2012-10-20,7,Boston College,@,Georgia Tech,L,0,0,,1,2,50.0,3,nate-freese-1
+Kyle French,2012-10-20,8,Wisconsin,,Minnesota,W,5,5,100.0,1,1,100.0,8,kyle-french-1
+Michael Frisina,2012-10-20,7,Boise State,,Nevada-Las Vegas,W,3,3,100.0,1,2,50.0,6,michael-frisina-1
+Ian Frye,2012-10-20,8,Virginia,,Wake Forest,L,1,1,100.0,1,2,50.0,4,ian-frye-1
+Brendan Gibbons,2012-10-20,7,Michigan,,Michigan State,W,0,0,,3,3,100.0,9,brendan-gibbons-1
+Jack Griffin,2012-10-20,8,Florida International,@,Troy,L,4,5,80.0,1,1,100.0,7,jack-griffin-1
+Paul Griggs,2012-10-20,7,Purdue,@,Ohio State,L,2,3,66.7,0,2,0.0,2,paul-griggs-1
+Dan Grochowski,2012-10-20,7,Army,@,Eastern Michigan,L,5,5,100.0,1,1,100.0,8,dan-grochowski-1
+Justin Haig,2012-10-20,7,Marshall,@,Southern Mississippi,W,8,8,100.0,1,2,50.0,11,justin-haig-1
+Andrew Haldeman,2012-10-20,8,Western Michigan,@,Kent State,L,3,3,100.0,1,1,100.0,6,andrew-haldeman-1
+Allen Hardison,2012-10-20,8,Nevada,,San Diego State,L,5,5,100.0,1,1,100.0,8,allen-hardison-1
+David Harman,2012-10-20,7,Central Michigan,,Ball State,L,3,4,75.0,1,2,50.0,6,david-harman-1
+Kevin Harper,2012-10-20,7,Pittsburgh,@,Buffalo,W,2,2,100.0,2,2,100.0,8,kevin-harper-1
+Warren Harvey,2012-10-20,8,East Carolina,@,Alabama-Birmingham,W,4,4,100.0,2,2,100.0,10,warren-harvey-1
+Chad Hedlund,2012-10-20,7,Wake Forest,@,Virginia,W,1,1,100.0,3,3,100.0,10,chad-hedlund-1
+Andre Heidari,2012-10-20,7,Southern California,,Colorado,W,5,6,83.3,1,1,100.0,8,andre-heidari-1
+Paulo Henriques,2012-10-20,7,Memphis,,Central Florida,L,0,0,,0,1,0.0,0,paulo-henriques-1
+Dustin Hopkins,2012-10-20,8,Florida State,@,Miami (FL),W,3,3,100.0,4,5,80.0,15,dustin-hopkins-1
+Michael Hunnicutt,2012-10-20,6,Oklahoma,,Kansas,W,7,7,100.0,1,1,100.0,10,michael-hunnicutt-1
+Aaron Jones,2012-10-20,6,Baylor,@,Texas,L,5,5,100.0,3,3,100.0,14,aaron-jones-2
+Cody Journell,2012-10-20,8,Virginia Tech,@,Clemson,L,2,2,100.0,1,1,100.0,5,cody-journell-1
+Nolan Kohorst,2012-10-20,8,Nevada-Las Vegas,@,Boise State,L,1,1,100.0,0,1,0.0,1,nolan-kohorst-1
+Austin Lopez,2012-10-20,7,San Jose State,@,Texas-San Antonio,W,7,7,100.0,1,1,100.0,10,austin-lopez-1
+Carlos Lopez,2012-10-20,7,Middle Tennessee State,@,Mississippi State,L,0,0,,1,1,100.0,3,carlos-lopez-1
+Brett Maher,2012-10-20,7,Nebraska,@,Northwestern,W,2,2,100.0,1,1,100.0,5,brett-maher-1
+Chance Marden,2012-10-20,8,San Diego State,@,Nevada,W,2,2,100.0,3,3,100.0,11,chance-marden-1
+Ross Martin,2012-10-20,8,Duke,,North Carolina,W,3,3,100.0,4,4,100.0,15,ross-martin-1
+Craig McIntosh,2012-10-20,8,Kentucky,,Georgia,L,3,3,100.0,1,1,100.0,6,craig-mcintosh-1
+Brandon McManus,2012-10-20,6,Temple,,Rutgers,L,1,1,100.0,1,2,50.0,4,brandon-mcmanus-1
+Mike Meyer,2012-10-20,7,Iowa,,Penn State,L,2,2,100.0,0,2,0.0,2,mike-meyer-1
+Tony Miliano,2012-10-20,6,Cincinnati,@,Toledo,L,2,2,100.0,3,3,100.0,11,tony-miliano-1
+Justin Moore,2012-10-20,7,Georgia Tech,,Boston College,W,0,1,0.0,1,2,50.0,3,justin-moore-4
+Marshall Morgan,2012-10-20,7,Georgia,@,Kentucky,W,2,3,66.7,1,1,100.0,5,marshall-morgan-1
+Dylan Mulder,2012-10-20,7,Eastern Michigan,,Army,W,6,6,100.0,2,2,100.0,12,dylan-mulder-1
+Matt Nelson,2012-10-20,7,Louisiana Tech,,Idaho,W,10,10,100.0,0,1,0.0,10,matt-nelson-1
+Jaden Oberkrom,2012-10-20,7,Texas Christian,,Texas Tech,L,5,5,100.0,6,6,100.0,23,jaden-oberkrom-1
+Will Oliver,2012-10-20,7,Colorado,@,Southern California,L,0,0,,2,2,100.0,6,will-oliver-1
+Michael Palardy,2012-10-20,7,Tennessee,,Alabama,L,1,1,100.0,2,2,100.0,7,michael-palardy-1
+Cody Parkey,2012-10-20,7,Auburn,@,Vanderbilt,L,1,1,100.0,2,2,100.0,7,cody-parkey-1
+Coleman Petersen,2012-10-20,7,Utah,@,Oregon State,L,1,1,100.0,0,1,0.0,1,coleman-petersen-1
+Nick Prolago,2012-10-20,7,Kansas,@,Oklahoma,L,1,1,100.0,0,1,0.0,1,nick-prolago-1
+Niklas Sade,2012-10-20,7,North Carolina State,@,Maryland,W,2,2,100.0,2,2,100.0,8,niklas-sade-1
+Cairo Santos,2012-10-20,7,Tulane,@,Texas-El Paso,L,2,2,100.0,2,2,100.0,8,cairo-santos-1
+Steven Schott,2012-10-20,8,Ball State,@,Central Michigan,W,5,5,100.0,2,2,100.0,11,steven-schott-1
+Daniel Schwarz,2012-10-20,8,Tulsa,,Rice,W,4,4,100.0,0,1,0.0,4,daniel-schwarz-1
+Will Scott,2012-10-20,7,Troy,,Florida International,W,5,5,100.0,1,1,100.0,8,will-scott-1
+David Scully,2012-10-20,7,Georgia Tech,,Boston College,W,4,4,100.0,0,2,0.0,4,david-scully-1
+Quinn Sharp,2012-10-20,6,Oklahoma State,,Iowa State,W,4,4,100.0,1,3,33.3,7,quinn-sharp-1
+Jeremy Shelley,2012-10-20,7,Alabama,@,Tennessee,W,5,5,100.0,1,1,100.0,8,jeremy-shelley-1
+Mathew Sims,2012-10-20,8,Northern Illinois,@,Akron,W,4,4,100.0,3,5,60.0,13,mathew-sims-1
+Nick Sloan,2012-10-20,7,Navy,,Indiana,W,4,4,100.0,1,1,100.0,7,nick-sloan-1
+Justin Sorensen,2012-10-20,8,Brigham Young,@,Notre Dame,L,2,2,100.0,0,1,0.0,2,justin-sorensen-2
+Carey Spear,2012-10-20,7,Vanderbilt,,Auburn,W,1,1,100.0,1,1,100.0,4,carey-spear-1
+Tyler Spurlock,2012-10-20,7,Memphis,,Central Florida,L,2,2,100.0,1,1,100.0,5,tyler-spurlock-1
+Tyler Stampler,2012-10-20,7,New Mexico State,@,Utah State,L,0,0,,0,1,0.0,0,tyler-stampler-1
+Kristian Stern,2012-10-20,7,Texas-San Antonio,,San Jose State,L,3,3,100.0,1,1,100.0,6,kristian-stern-1
+Caleb Sturgis,2012-10-20,7,Florida,,South Carolina,W,5,6,83.3,1,1,100.0,8,caleb-sturgis-1
+Tyler Tate,2012-10-20,8,Bowling Green State,@,Massachusetts,W,0,0,,1,1,100.0,3,tyler-tate-1
+Steven Valadez,2012-10-20,8,Texas-El Paso,,Tulane,W,3,3,100.0,1,1,100.0,6,steven-valadez-1
+Jordan Wettstein,2012-10-20,7,Minnesota,@,Wisconsin,L,1,2,50.0,0,1,0.0,1,jordan-wettstein-1
+Jake Wieclaw,2012-10-20,8,Miami (FL),,Florida State,L,2,2,100.0,2,2,100.0,8,jake-wieclaw-1
+Matt Wile,2012-10-20,7,Michigan,,Michigan State,W,0,0,,1,1,100.0,3,matt-wile-1
+Jordan Williamson,2012-10-20,7,Stanford,@,California,W,3,3,100.0,0,2,0.0,3,jordan-williamson-1
+Adam Yates,2012-10-20,8,South Carolina,@,Florida,L,0,0,,3,4,75.0,9,adam-yates-1
+Brian Davis,2012-10-23,8,Arkansas State,@,Louisiana,W,5,5,100.0,5,5,100.0,20,brian-davis-1
+Chandler Catanzaro,2012-10-25,8,Clemson,@,Wake Forest,W,5,5,100.0,0,1,0.0,5,chandler-catanzaro-1
+Allen Hardison,2012-10-26,9,Nevada,@,Air Force,L,4,4,100.0,1,1,100.0,7,allen-hardison-1
+Parker Herrington,2012-10-26,8,Air Force,,Nevada,W,6,6,100.0,2,2,100.0,12,parker-herrington-1
+Tony Miliano,2012-10-26,7,Cincinnati,@,Louisville,L,4,4,100.0,1,2,50.0,7,tony-miliano-1
+John Wallace,2012-10-26,8,Louisville,,Cincinnati,W,4,4,100.0,2,3,66.7,10,john-wallace-1
+Corey Acosta,2012-10-27,8,Southern Mississippi,@,Rice,L,2,2,100.0,1,2,50.0,5,corey-acosta-1
+Justus Adams,2012-10-27,9,New Mexico,,Fresno State,L,3,3,100.0,1,2,50.0,6,justus-adams-1
+Mitch Anderson,2012-10-27,8,Florida Atlantic,,Troy,W,2,2,100.0,2,3,66.7,8,mitch-anderson-2
+Edwin Arceo,2012-10-27,8,Iowa State,,Baylor,W,5,5,100.0,0,1,0.0,5,edwin-arceo-1
+Andrew Baggett,2012-10-27,8,Missouri,,Kentucky,W,3,4,75.0,2,2,100.0,9,andrew-baggett-1
+Casey Barth,2012-10-27,9,North Carolina,,North Carolina State,W,3,3,100.0,2,3,66.7,9,casey-barth-1
+Devon Bell,2012-10-27,8,Mississippi State,@,Alabama,L,1,1,100.0,0,1,0.0,1,devon-bell-1
+Taylor Bertolet,2012-10-27,8,Texas A&M,@,Auburn,W,8,8,100.0,0,1,0.0,8,taylor-bertolet-1
+Maikon Bonani,2012-10-27,8,South Florida,,Syracuse,L,3,3,100.0,5,5,100.0,18,maikon-bonani-1
+John Bonano,2012-10-27,8,Arizona,,Southern California,W,3,3,100.0,2,3,66.7,9,john-bonano-1
+Nick Borgese,2012-10-27,8,Rutgers,,Kent State,L,2,2,100.0,1,1,100.0,5,nick-borgese-1
+Chris Boswell,2012-10-27,9,Rice,,Southern Mississippi,W,5,6,83.3,1,1,100.0,8,chris-boswell-1
+Kyle Brindza,2012-10-27,8,Notre Dame,@,Oklahoma,W,3,3,100.0,3,4,75.0,12,kyle-brindza-1
+Ryan Bustin,2012-10-27,8,Texas Tech,@,Kansas State,L,3,3,100.0,1,2,50.0,6,ryan-bustin-1
+Anthony Cantele,2012-10-27,8,Kansas State,,Texas Tech,W,7,7,100.0,2,2,100.0,13,anthony-cantele-1
+Michel Chapuseaux,2012-10-27,8,South Alabama,@,Louisiana-Monroe,L,3,3,100.0,1,1,100.0,6,michel-chapuseaux-1
+Patrick Clarke,2012-10-27,8,Buffalo,,Toledo,L,2,2,100.0,0,1,0.0,2,patrick-clarke-1
+Dan Conroy,2012-10-27,9,Michigan State,@,Wisconsin,W,1,1,100.0,1,1,100.0,4,dan-conroy-1
+Travis Coons,2012-10-27,8,Washington,,Oregon State,W,2,2,100.0,2,2,100.0,8,travis-coons-1
+Freddy Cortez,2012-10-27,8,Kent State,@,Rutgers,W,5,5,100.0,0,1,0.0,5,freddy-cortez-1
+Brad Craddock,2012-10-27,8,Maryland,@,Boston College,L,0,0,,0,1,0.0,0,brad-craddock-1
+Vincenzo D'Amato,2012-10-27,9,California,@,Utah,L,3,3,100.0,2,2,100.0,9,vincenzo-damato-1
+Nick Diaz,2012-10-27,9,Utah State,@,Texas-San Antonio,W,6,6,100.0,2,2,100.0,12,nick-diaz-1
+Mitch Ewald,2012-10-27,8,Indiana,@,Illinois,W,4,4,100.0,1,1,100.0,7,mitch-ewald-1
+Ka'Imi Fairbairn,2012-10-27,8,UCLA,@,Arizona State,W,6,6,100.0,1,1,100.0,9,kaimi-fairbairn-1
+Sam Ficken,2012-10-27,8,Penn State,,Ohio State,L,2,2,100.0,1,1,100.0,5,sam-ficken-1
+Nate Freese,2012-10-27,8,Boston College,,Maryland,W,2,2,100.0,2,2,100.0,8,nate-freese-1
+Kyle French,2012-10-27,9,Wisconsin,,Michigan State,L,1,1,100.0,2,2,100.0,7,kyle-french-1
+Michael Frisina,2012-10-27,8,Boise State,@,Wyoming,W,6,6,100.0,1,1,100.0,9,michael-frisina-1
+Andrew Furney,2012-10-27,8,Washington State,@,Stanford,L,2,2,100.0,1,1,100.0,5,andrew-furney-1
+Brendan Gibbons,2012-10-27,8,Michigan,@,Nebraska,L,0,0,,3,3,100.0,9,brendan-gibbons-1
+Jack Griffin,2012-10-27,9,Florida International,,Western Kentucky,L,0,0,,2,3,66.7,6,jack-griffin-1
+Dan Grochowski,2012-10-27,8,Army,,Ball State,L,2,2,100.0,2,3,66.7,8,dan-grochowski-1
+Tyler Hadden,2012-10-27,7,Hawaii,@,Colorado State,L,3,3,100.0,2,3,66.7,9,tyler-hadden-1
+Justin Haig,2012-10-27,8,Marshall,,Central Florida,L,2,2,100.0,1,1,100.0,5,justin-haig-1
+David Harman,2012-10-27,8,Central Michigan,,Akron,W,4,4,100.0,0,1,0.0,4,david-harman-1
+Kevin Harper,2012-10-27,8,Pittsburgh,,Temple,W,5,5,100.0,2,2,100.0,11,kevin-harper-1
+Paulo Henriques,2012-10-27,0,Memphis,@,Southern Methodist,L,0,0,,1,1,100.0,3,paulo-henriques-1
+Zach Hocker,2012-10-27,8,Arkansas,,Mississippi,L,3,3,100.0,2,2,100.0,9,zach-hocker-1
+Matt Hogan,2012-10-27,8,Houston,,Texas-El Paso,W,6,6,100.0,1,1,100.0,9,matt-hogan-1
+Dustin Hopkins,2012-10-27,9,Florida State,,Duke,W,6,6,100.0,2,2,100.0,12,dustin-hopkins-1
+Chase Hover,2012-10-27,0,Southern Methodist,,Memphis,,5,5,100.0,3,3,100.0,14,chase-hover-1
+Michael Hunnicutt,2012-10-27,7,Oklahoma,,Notre Dame,L,1,1,100.0,2,2,100.0,7,michael-hunnicutt-1
+Will Johnson,2012-10-27,7,Texas State,@,San Jose State,L,2,2,100.0,2,2,100.0,8,will-johnson-5
+Ross Krautman,2012-10-27,8,Syracuse,@,South Florida,W,4,4,100.0,1,2,50.0,7,ross-krautman-1
+Ty Long,2012-10-27,8,Alabama-Birmingham,@,Tulane,L,6,6,100.0,1,2,50.0,9,ty-long-1
+Austin Lopez,2012-10-27,8,San Jose State,,Texas State,W,4,4,100.0,1,1,100.0,7,austin-lopez-1
+Carlos Lopez,2012-10-27,8,Middle Tennessee State,,North Texas,W,5,5,100.0,1,2,50.0,8,carlos-lopez-1
+Brendan Magistro,2012-10-27,8,Maryland,@,Boston College,L,2,2,100.0,1,1,100.0,5,brendan-magistro-1
+Brett Maher,2012-10-27,8,Nebraska,,Michigan,W,2,2,100.0,3,3,100.0,11,brett-maher-1
+Justin Manton,2012-10-27,8,Louisiana-Monroe,,South Alabama,W,5,5,100.0,1,1,100.0,8,justin-manton-1
+Chance Marden,2012-10-27,9,San Diego State,,Nevada-Las Vegas,W,3,3,100.0,1,1,100.0,6,chance-marden-1
+Ross Martin,2012-10-27,9,Duke,@,Florida State,L,1,1,100.0,0,1,0.0,1,ross-martin-1
+Craig McIntosh,2012-10-27,9,Kentucky,@,Missouri,L,1,1,100.0,1,2,50.0,4,craig-mcintosh-1
+Brandon McManus,2012-10-27,7,Temple,@,Pittsburgh,L,2,2,100.0,1,1,100.0,5,brandon-mcmanus-1
+Mike Meyer,2012-10-27,8,Iowa,@,Northwestern,L,2,2,100.0,1,1,100.0,5,mike-meyer-1
+Justin Moore,2012-10-27,8,Georgia Tech,,Brigham Young,L,2,2,100.0,1,2,50.0,5,justin-moore-4
+Jon Mora,2012-10-27,8,Arizona State,,UCLA,L,0,0,,3,3,100.0,9,jon-mora-1
+Marshall Morgan,2012-10-27,8,Georgia,N,Florida,W,2,2,100.0,1,2,50.0,5,marshall-morgan-1
+Dylan Mulder,2012-10-27,8,Eastern Michigan,@,Bowling Green State,L,0,0,,1,1,100.0,3,dylan-mulder-1
+Matt Nelson,2012-10-27,8,Louisiana Tech,@,New Mexico State,W,4,4,100.0,0,3,0.0,4,matt-nelson-1
+Jaden Oberkrom,2012-10-27,8,Texas Christian,@,Oklahoma State,L,2,2,100.0,0,2,0.0,2,jaden-oberkrom-1
+Cody Parkey,2012-10-27,8,Auburn,,Texas A&M,L,3,3,100.0,0,1,0.0,3,cody-parkey-1
+Kaleb Patterson,2012-10-27,8,Miami (OH),,Ohio,W,2,2,100.0,3,3,100.0,11,kaleb-patterson-1
+Nick Prolago,2012-10-27,8,Kansas,,Texas,L,2,2,100.0,1,1,100.0,5,nick-prolago-1
+Trevor Romaine,2012-10-27,7,Oregon State,@,Washington,L,2,2,100.0,1,1,100.0,5,trevor-romaine-1
+Bryson Rose,2012-10-27,8,Mississippi,@,Arkansas,W,3,3,100.0,3,3,100.0,12,bryson-rose-1
+Niklas Sade,2012-10-27,8,North Carolina State,@,North Carolina,L,5,5,100.0,0,1,0.0,5,niklas-sade-1
+Cairo Santos,2012-10-27,8,Tulane,,Alabama-Birmingham,W,7,7,100.0,2,2,100.0,13,cairo-santos-1
+Steven Schott,2012-10-27,9,Ball State,@,Army,W,3,3,100.0,3,3,100.0,12,steven-schott-1
+Will Scott,2012-10-27,8,Troy,@,Florida Atlantic,L,3,3,100.0,2,2,100.0,9,will-scott-1
+Quinn Sharp,2012-10-27,7,Oklahoma State,,Texas Christian,W,3,3,100.0,5,5,100.0,18,quinn-sharp-1
+Jeremy Shelley,2012-10-27,8,Alabama,,Mississippi State,W,5,5,100.0,1,1,100.0,8,jeremy-shelley-1
+Mathew Sims,2012-10-27,9,Northern Illinois,@,Western Michigan,W,6,6,100.0,2,2,100.0,12,mathew-sims-1
+Justin Sorensen,2012-10-27,9,Brigham Young,@,Georgia Tech,W,5,5,100.0,2,3,66.7,11,justin-sorensen-2
+Tyler Spurlock,2012-10-27,0,Memphis,@,Southern Methodist,L,1,1,100.0,1,1,100.0,4,tyler-spurlock-1
+Stephen Stein,2012-10-27,9,Bowling Green State,,Eastern Michigan,W,3,3,100.0,0,1,0.0,3,stephen-stein-1
+Kristian Stern,2012-10-27,8,Texas-San Antonio,,Utah State,L,2,2,100.0,1,1,100.0,5,kristian-stern-1
+Caleb Sturgis,2012-10-27,8,Florida,N,Georgia,L,0,0,,3,3,100.0,9,caleb-sturgis-1
+Tyler Tate,2012-10-27,9,Bowling Green State,,Eastern Michigan,W,0,0,,1,1,100.0,3,tyler-tate-1
+Steven Valadez,2012-10-27,9,Texas-El Paso,@,Houston,L,3,3,100.0,0,1,0.0,3,steven-valadez-1
+Matt Weller,2012-10-27,8,Ohio,@,Miami (OH),L,2,2,100.0,2,2,100.0,8,matt-weller-1
+Jordan Wettstein,2012-10-27,8,Minnesota,,Purdue,W,5,5,100.0,3,4,75.0,14,jordan-wettstein-1
+Matt Wile,2012-10-27,8,Michigan,@,Nebraska,L,0,0,,0,1,0.0,0,matt-wile-1
+Stuart Williams,2012-10-27,8,Wyoming,,Boise State,L,2,2,100.0,0,1,0.0,2,stuart-williams-1
+Jordan Williamson,2012-10-27,8,Stanford,,Washington State,W,3,3,100.0,1,1,100.0,6,jordan-williamson-1
+Adam Yates,2012-10-27,9,South Carolina,,Tennessee,W,5,5,100.0,1,1,100.0,8,adam-yates-1
+Taylor Zalewski,2012-10-27,8,Illinois,,Indiana,L,2,2,100.0,1,1,100.0,5,taylor-zalewski-1
+Cody Journell,2012-11-01,9,Virginia Tech,@,Miami (FL),L,0,1,0.0,2,3,66.7,6,cody-journell-1
+Carlos Lopez,2012-11-01,9,Middle Tennessee State,@,Western Kentucky,W,4,4,100.0,2,2,100.0,10,carlos-lopez-1
+Dylan Mulder,2012-11-01,9,Eastern Michigan,@,Ohio,L,2,2,100.0,0,1,0.0,2,dylan-mulder-1
+Garrett Schwettman,2012-11-01,9,Western Kentucky,,Middle Tennessee State,L,3,3,100.0,2,3,66.7,9,garrett-schwettman-1
+Matt Weller,2012-11-01,9,Ohio,,Eastern Michigan,W,6,6,100.0,1,1,100.0,9,matt-weller-1
+Jake Wieclaw,2012-11-01,9,Miami (FL),,Virginia Tech,W,3,3,100.0,3,3,100.0,12,jake-wieclaw-1
+Vincenzo D'Amato,2012-11-02,10,California,,Washington,L,1,1,100.0,2,3,66.7,7,vincenzo-damato-1
+Corey Acosta,2012-11-03,9,Southern Mississippi,,Alabama-Birmingham,L,2,2,100.0,1,2,50.0,5,corey-acosta-1
+Drew Alleman,2012-11-03,9,Louisiana State,,Alabama,L,2,2,100.0,1,3,33.3,5,drew-alleman-1
+Mitch Anderson,2012-11-03,9,Florida Atlantic,@,Navy,L,2,2,100.0,1,1,100.0,5,mitch-anderson-2
+Edwin Arceo,2012-11-03,9,Iowa State,,Oklahoma,L,2,2,100.0,2,2,100.0,8,edwin-arceo-1
+Andrew Baggett,2012-11-03,9,Missouri,@,Florida,L,1,1,100.0,0,1,0.0,1,andrew-baggett-1
+Drew Basil,2012-11-03,10,Ohio State,,Illinois,W,7,7,100.0,1,1,100.0,10,drew-basil-1
+Rob Beard,2012-11-03,9,Oregon,@,Southern California,W,8,9,88.9,0,1,0.0,8,rob-beard-1
+Taylor Bertolet,2012-11-03,9,Texas A&M,@,Mississippi State,W,5,5,100.0,1,3,33.3,8,taylor-bertolet-1
+Tyler Bitancurt,2012-11-03,8,West Virginia,,Texas Christian,L,5,5,100.0,1,5,20.0,8,tyler-bitancurt-1
+Maikon Bonani,2012-11-03,9,South Florida,,Connecticut,W,1,1,100.0,2,2,100.0,7,maikon-bonani-1
+John Bonano,2012-11-03,9,Arizona,@,UCLA,L,1,1,100.0,1,1,100.0,4,john-bonano-1
+Quentin Breshears,2012-11-03,10,Fresno State,,Hawaii,W,6,6,100.0,1,1,100.0,9,quentin-breshears-1
+Kyle Brindza,2012-11-03,9,Notre Dame,,Pittsburgh,W,0,1,0.0,3,4,75.0,9,kyle-brindza-1
+Ryan Bustin,2012-11-03,9,Texas Tech,,Texas,L,1,1,100.0,3,4,75.0,10,ryan-bustin-1
+Anthony Cantele,2012-11-03,9,Kansas State,,Oklahoma State,W,5,5,100.0,3,4,75.0,14,anthony-cantele-1
+Michel Chapuseaux,2012-11-03,9,South Alabama,,Florida International,L,2,2,100.0,2,3,66.7,8,michel-chapuseaux-1
+Chad Christen,2012-11-03,9,Connecticut,@,South Florida,L,0,0,,2,2,100.0,6,chad-christen-1
+Patrick Clarke,2012-11-03,9,Buffalo,,Miami (OH),W,3,3,100.0,2,3,66.7,9,patrick-clarke-1
+Dan Conroy,2012-11-03,10,Michigan State,,Nebraska,L,3,3,100.0,1,2,50.0,6,dan-conroy-1
+Freddy Cortez,2012-11-03,9,Kent State,,Akron,W,5,5,100.0,0,1,0.0,5,freddy-cortez-1
+Brian Davis,2012-11-03,9,Arkansas State,@,North Texas,W,4,5,80.0,1,1,100.0,7,brian-davis-1
+Nick Diaz,2012-11-03,10,Utah State,,Texas State,W,5,5,100.0,1,2,50.0,8,nick-diaz-1
+Mitch Ewald,2012-11-03,9,Indiana,,Iowa,W,3,3,100.0,1,2,50.0,6,mitch-ewald-1
+Ka'Imi Fairbairn,2012-11-03,9,UCLA,,Arizona,W,9,9,100.0,1,1,100.0,12,kaimi-fairbairn-1
+Trey Farquhar,2012-11-03,9,Idaho,,San Jose State,L,1,1,100.0,2,3,66.7,7,trey-farquhar-1
+Fera,2012-11-03,9,Texas,@,Texas Tech,W,4,4,100.0,1,1,100.0,7,fera-1
+Sam Ficken,2012-11-03,9,Penn State,@,Purdue,W,4,4,100.0,2,2,100.0,10,sam-ficken-1
+Nate Freese,2012-11-03,9,Boston College,@,Wake Forest,L,2,2,100.0,0,1,0.0,2,nate-freese-1
+Ian Frye,2012-11-03,9,Virginia,@,North Carolina State,W,2,2,100.0,0,1,0.0,2,ian-frye-1
+Andrew Furney,2012-11-03,9,Washington State,@,Utah,L,0,0,,0,1,0.0,0,andrew-furney-1
+Paul Griggs,2012-11-03,9,Purdue,,Penn State,L,0,0,,0,1,0.0,0,paul-griggs-1
+Dan Grochowski,2012-11-03,9,Army,,Air Force,W,3,4,75.0,2,3,66.7,9,dan-grochowski-1
+Tyler Hadden,2012-11-03,8,Hawaii,@,Fresno State,L,1,1,100.0,1,2,50.0,4,tyler-hadden-1
+Justin Haig,2012-11-03,9,Marshall,,Memphis,W,5,5,100.0,1,1,100.0,8,justin-haig-1
+David Harman,2012-11-03,9,Central Michigan,,Western Michigan,L,2,2,100.0,3,4,75.0,11,david-harman-1
+Kevin Harper,2012-11-03,9,Pittsburgh,@,Notre Dame,L,2,2,100.0,4,5,80.0,14,kevin-harper-1
+Warren Harvey,2012-11-03,10,East Carolina,,Houston,W,6,6,100.0,2,3,66.7,12,warren-harvey-1
+Andre Heidari,2012-11-03,9,Southern California,,Oregon,L,6,6,100.0,1,1,100.0,9,andre-heidari-1
+Paulo Henriques,2012-11-03,9,Memphis,@,Marshall,L,3,3,100.0,0,1,0.0,3,paulo-henriques-1
+Zach Hocker,2012-11-03,9,Arkansas,,Tulsa,W,1,1,100.0,2,3,66.7,7,zach-hocker-1
+Chase Hover,2012-11-03,9,Southern Methodist,@,Central Florida,L,2,2,100.0,1,1,100.0,5,chase-hover-1
+Nick Immekus,2012-11-03,9,Illinois,@,Ohio State,L,0,0,,2,2,100.0,6,nick-immekus-1
+Drew Jarrett,2012-11-03,9,Virginia,@,North Carolina State,W,2,2,100.0,1,1,100.0,5,drew-jarrett-1
+Maxwell Johnson,2012-11-03,9,New Mexico State,@,Auburn,L,1,1,100.0,0,1,0.0,1,maxwell-johnson-1
+Aaron Jones,2012-11-03,8,Baylor,,Kansas,W,5,5,100.0,2,4,50.0,11,aaron-jones-2
+Ross Krautman,2012-11-03,9,Syracuse,@,Cincinnati,L,3,3,100.0,1,3,33.3,6,ross-krautman-1
+Ty Long,2012-11-03,9,Alabama-Birmingham,@,Southern Mississippi,W,3,3,100.0,2,2,100.0,9,ty-long-1
+Brett Maher,2012-11-03,9,Nebraska,@,Michigan State,W,4,4,100.0,0,1,0.0,4,brett-maher-1
+Justin Manton,2012-11-03,9,Louisiana-Monroe,,Louisiana,L,3,3,100.0,1,2,50.0,6,justin-manton-1
+Chance Marden,2012-11-03,10,San Diego State,@,Boise State,W,3,3,100.0,0,1,0.0,3,chance-marden-1
+Ross Martin,2012-11-03,10,Duke,,Clemson,L,2,2,100.0,2,2,100.0,8,ross-martin-1
+Sam McCartney,2012-11-03,9,Purdue,,Penn State,L,0,0,,1,1,100.0,3,sam-mccartney-1
+Craig McIntosh,2012-11-03,10,Kentucky,,Vanderbilt,L,0,0,,0,1,0.0,0,craig-mcintosh-1
+Brandon McManus,2012-11-03,8,Temple,@,Louisville,L,2,2,100.0,1,1,100.0,5,brandon-mcmanus-1
+Jon Mora,2012-11-03,9,Arizona State,@,Oregon State,L,0,0,,1,2,50.0,3,jon-mora-1
+Marshall Morgan,2012-11-03,9,Georgia,,Mississippi,W,5,5,100.0,0,1,0.0,5,marshall-morgan-1
+Matt Nelson,2012-11-03,9,Louisiana Tech,,Texas-San Antonio,W,6,7,85.7,1,2,50.0,9,matt-nelson-1
+Jaden Oberkrom,2012-11-03,9,Texas Christian,@,West Virginia,W,4,4,100.0,1,2,50.0,7,jaden-oberkrom-1
+Zach Olen,2012-11-03,9,North Texas,,Arkansas State,L,2,2,100.0,1,1,100.0,5,zach-olen-1
+Michael Palardy,2012-11-03,9,Tennessee,,Troy,W,7,7,100.0,2,3,66.7,13,michael-palardy-1
+Cody Parkey,2012-11-03,9,Auburn,,New Mexico State,W,6,6,100.0,0,1,0.0,6,cody-parkey-1
+Kaleb Patterson,2012-11-03,9,Miami (OH),@,Buffalo,L,3,3,100.0,1,1,100.0,6,kaleb-patterson-1
+Coleman Petersen,2012-11-03,9,Utah,,Washington State,W,5,5,100.0,2,2,100.0,11,coleman-petersen-1
+Brad Phillips,2012-11-03,9,Florida,,Missouri,W,2,2,100.0,0,1,0.0,2,brad-phillips-2
+Jared Roberts,2012-11-03,9,Colorado State,@,Wyoming,L,4,4,100.0,1,1,100.0,7,jared-roberts-1
+Trevor Romaine,2012-11-03,8,Oregon State,,Arizona State,W,3,4,75.0,3,3,100.0,12,trevor-romaine-1
+Bryson Rose,2012-11-03,9,Mississippi,@,Georgia,L,1,1,100.0,1,1,100.0,4,bryson-rose-1
+Cairo Santos,2012-11-03,9,Tulane,,Rice,L,5,5,100.0,2,2,100.0,11,cairo-santos-1
+Daniel Schwarz,2012-11-03,9,Tulsa,@,Arkansas,L,0,2,0.0,1,2,50.0,3,daniel-schwarz-1
+Will Scott,2012-11-03,9,Troy,@,Tennessee,L,4,5,80.0,2,2,100.0,10,will-scott-1
+Quinn Sharp,2012-11-03,8,Oklahoma State,@,Kansas State,L,3,3,100.0,3,3,100.0,12,quinn-sharp-1
+Nick Sloan,2012-11-03,9,Navy,,Florida Atlantic,W,3,3,100.0,1,3,33.3,6,nick-sloan-1
+Carey Spear,2012-11-03,9,Vanderbilt,@,Kentucky,W,3,3,100.0,2,2,100.0,9,carey-spear-1
+Robert Stein,2012-11-03,10,Akron,@,Kent State,L,3,3,100.0,1,1,100.0,6,robert-stein-1
+Caleb Sturgis,2012-11-03,9,Florida,,Missouri,W,0,0,,0,1,0.0,0,caleb-sturgis-1
+John Wallace,2012-11-03,9,Louisville,,Temple,W,6,6,100.0,1,1,100.0,9,john-wallace-1
+Jordan Wettstein,2012-11-03,9,Minnesota,,Michigan,L,1,1,100.0,2,3,66.7,7,jordan-wettstein-1
+Stuart Williams,2012-11-03,9,Wyoming,,Colorado State,W,6,6,100.0,1,2,50.0,9,stuart-williams-1
+Jordan Williamson,2012-11-03,9,Stanford,@,Colorado,W,6,6,100.0,2,2,100.0,12,jordan-williamson-1
+Jeremiah Detmer,2012-11-06,10,Toledo,,Ball State,L,3,3,100.0,2,2,100.0,9,jeremiah-detmer-1
+Steven Schott,2012-11-06,10,Ball State,@,Toledo,W,4,4,100.0,2,3,66.7,10,steven-schott-1
+Tyler Tate,2012-11-07,10,Bowling Green State,@,Ohio,W,0,0,,1,1,100.0,3,tyler-tate-1
+Brian Davis,2012-11-08,10,Arkansas State,,Louisiana-Monroe,W,6,6,100.0,1,1,100.0,9,brian-davis-1
+Dustin Hopkins,2012-11-08,10,Florida State,@,Virginia Tech,W,2,2,100.0,2,2,100.0,8,dustin-hopkins-1
+Cody Journell,2012-11-08,10,Virginia Tech,,Florida State,L,2,2,100.0,2,3,66.7,8,cody-journell-1
+Justin Manton,2012-11-08,10,Louisiana-Monroe,@,Arkansas State,L,2,3,66.7,1,1,100.0,5,justin-manton-1
+Chad Christen,2012-11-09,10,Connecticut,,Pittsburgh,W,3,3,100.0,1,1,100.0,6,chad-christen-1
+Kevin Harper,2012-11-09,10,Pittsburgh,@,Connecticut,L,2,2,100.0,1,2,50.0,5,kevin-harper-1
+Justus Adams,2012-11-10,11,New Mexico,,Wyoming,L,2,2,100.0,1,2,50.0,5,justus-adams-1
+Drew Alleman,2012-11-10,10,Louisiana State,,Mississippi State,W,4,4,100.0,3,3,100.0,13,drew-alleman-1
+Mitch Anderson,2012-11-10,10,Florida Atlantic,@,Western Kentucky,W,4,5,80.0,1,1,100.0,7,mitch-anderson-2
+Edwin Arceo,2012-11-10,10,Iowa State,@,Texas,L,1,1,100.0,0,1,0.0,1,edwin-arceo-1
+Brett Baer,2012-11-10,9,Louisiana,@,Florida,L,2,2,100.0,2,2,100.0,8,brett-baer-1
+Andrew Baggett,2012-11-10,10,Missouri,@,Tennessee,W,6,6,100.0,1,1,100.0,9,andrew-baggett-1
+Devon Bell,2012-11-10,10,Mississippi State,@,Louisiana State,L,2,2,100.0,1,1,100.0,5,devon-bell-1
+Spencer Benton,2012-11-10,10,Clemson,,Maryland,W,0,0,,0,1,0.0,0,spencer-benton-1
+Taylor Bertolet,2012-11-10,10,Texas A&M,@,Alabama,W,2,3,66.7,1,2,50.0,5,taylor-bertolet-1
+Tyler Bitancurt,2012-11-10,9,West Virginia,@,Oklahoma State,L,4,4,100.0,2,2,100.0,10,tyler-bitancurt-1
+Quentin Breshears,2012-11-10,11,Fresno State,@,Nevada,W,5,6,83.3,1,1,100.0,8,quentin-breshears-1
+Jeff Budzien,2012-11-10,10,Northwestern,@,Michigan,L,4,4,100.0,1,1,100.0,7,jeff-budzien-1
+Ryan Bustin,2012-11-10,10,Texas Tech,,Kansas,W,5,5,100.0,2,3,66.7,11,ryan-bustin-1
+Anthony Cantele,2012-11-10,10,Kansas State,@,Texas Christian,W,2,2,100.0,3,4,75.0,11,anthony-cantele-1
+Chandler Catanzaro,2012-11-10,10,Clemson,,Maryland,W,5,5,100.0,1,1,100.0,8,chandler-catanzaro-1
+Michel Chapuseaux,2012-11-10,10,South Alabama,@,North Texas,L,2,2,100.0,0,1,0.0,2,michel-chapuseaux-1
+Patrick Clarke,2012-11-10,10,Buffalo,,Western Michigan,W,2,2,100.0,3,4,75.0,11,patrick-clarke-1
+Freddy Cortez,2012-11-10,10,Kent State,@,Miami (OH),W,6,6,100.0,2,2,100.0,12,freddy-cortez-1
+Brad Craddock,2012-11-10,10,Maryland,@,Clemson,L,1,1,100.0,1,1,100.0,4,brad-craddock-1
+Vincenzo D'Amato,2012-11-10,11,California,,Oregon,L,2,2,100.0,1,2,50.0,5,vincenzo-damato-1
+Colin Ditsworth,2012-11-10,10,Nevada,,Fresno State,L,4,4,100.0,0,2,0.0,4,colin-ditsworth-1
+Trey Farquhar,2012-11-10,10,Idaho,@,Brigham Young,L,1,1,100.0,2,3,66.7,7,trey-farquhar-1
+Fera,2012-11-10,10,Texas,,Iowa State,W,2,3,66.7,0,1,0.0,2,fera-1
+Sam Ficken,2012-11-10,10,Penn State,@,Nebraska,L,2,2,100.0,3,3,100.0,11,sam-ficken-1
+Nate Freese,2012-11-10,10,Boston College,,Notre Dame,L,0,0,,2,2,100.0,6,nate-freese-1
+Kyle French,2012-11-10,10,Wisconsin,@,Indiana,W,6,6,100.0,2,2,100.0,12,kyle-french-1
+Andrew Furney,2012-11-10,10,Washington State,,UCLA,L,4,4,100.0,0,2,0.0,4,andrew-furney-1
+Brendan Gibbons,2012-11-10,10,Michigan,,Northwestern,W,5,5,100.0,1,1,100.0,8,brendan-gibbons-1
+Paul Griggs,2012-11-10,10,Purdue,@,Iowa,W,0,0,,1,1,100.0,3,paul-griggs-1
+Dan Grochowski,2012-11-10,10,Army,@,Rutgers,L,1,1,100.0,0,2,0.0,1,dan-grochowski-1
+Tyler Hadden,2012-11-10,9,Hawaii,,Boise State,L,2,2,100.0,0,1,0.0,2,tyler-hadden-1
+Justin Haig,2012-11-10,10,Marshall,@,Alabama-Birmingham,L,4,4,100.0,1,1,100.0,7,justin-haig-1
+Andrew Haldeman,2012-11-10,11,Western Michigan,@,Buffalo,L,3,3,100.0,1,2,50.0,6,andrew-haldeman-1
+David Harman,2012-11-10,10,Central Michigan,@,Eastern Michigan,W,4,4,100.0,2,2,100.0,10,david-harman-1
+Andre Heidari,2012-11-10,10,Southern California,,Arizona State,W,5,5,100.0,1,1,100.0,8,andre-heidari-1
+Paulo Henriques,2012-11-10,10,Memphis,,Tulane,W,4,5,80.0,1,1,100.0,7,paulo-henriques-1
+Parker Herrington,2012-11-10,10,Air Force,@,San Diego State,L,0,1,0.0,1,2,50.0,3,parker-herrington-1
+Zach Hocker,2012-11-10,10,Arkansas,@,South Carolina,L,2,2,100.0,2,2,100.0,8,zach-hocker-1
+Matt Hogan,2012-11-10,10,Houston,,Tulsa,L,1,1,100.0,0,1,0.0,1,matt-hogan-1
+Chase Hover,2012-11-10,10,Southern Methodist,,Southern Mississippi,W,4,4,100.0,2,3,66.7,10,chase-hover-1
+Nick Immekus,2012-11-10,10,Illinois,,Minnesota,L,0,0,,1,1,100.0,3,nick-immekus-1
+Will Johnson,2012-11-10,9,Texas State,,Louisiana Tech,L,7,8,87.5,0,1,0.0,7,will-johnson-5
+Aaron Jones,2012-11-10,9,Baylor,@,Oklahoma,L,2,2,100.0,2,2,100.0,8,aaron-jones-2
+Nick Jordan,2012-11-10,10,Texas,,Iowa State,W,1,1,100.0,2,2,100.0,7,nick-jordan-1
+Nolan Kohorst,2012-11-10,11,Nevada-Las Vegas,@,Colorado State,L,0,0,,1,1,100.0,3,nolan-kohorst-1
+Ross Krautman,2012-11-10,10,Syracuse,,Louisville,W,6,6,100.0,1,1,100.0,9,ross-krautman-1
+Ty Long,2012-11-10,10,Alabama-Birmingham,,Marshall,W,5,5,100.0,1,2,50.0,8,ty-long-1
+Austin Lopez,2012-11-10,10,San Jose State,@,New Mexico State,W,5,6,83.3,1,1,100.0,8,austin-lopez-1
+Blake Lucas,2012-11-10,10,Massachusetts,@,Akron,W,1,1,100.0,3,3,100.0,10,blake-lucas-1
+Brett Maher,2012-11-10,10,Nebraska,,Penn State,W,3,3,100.0,3,3,100.0,12,brett-maher-1
+Alejandro Maldonado,2012-11-10,10,Oregon,@,California,W,8,8,100.0,1,1,100.0,11,alejandro-maldonado-1
+Sam McCartney,2012-11-10,10,Purdue,@,Iowa,W,3,3,100.0,1,2,50.0,6,sam-mccartney-1
+Brandon McManus,2012-11-10,9,Temple,,Cincinnati,L,1,1,100.0,1,1,100.0,4,brandon-mcmanus-1
+Mike Meyer,2012-11-10,10,Iowa,,Purdue,L,3,3,100.0,1,1,100.0,6,mike-meyer-1
+Tony Miliano,2012-11-10,9,Cincinnati,@,Temple,W,4,4,100.0,2,2,100.0,10,tony-miliano-1
+Shawn Moffitt,2012-11-10,10,Central Florida,@,Texas-El Paso,W,4,4,100.0,1,2,50.0,7,shawn-moffitt-1
+Jon Mora,2012-11-10,10,Arizona State,@,Southern California,L,0,0,,1,1,100.0,3,jon-mora-1
+Marshall Morgan,2012-11-10,10,Georgia,@,Auburn,W,5,5,100.0,1,1,100.0,8,marshall-morgan-1
+Dylan Mulder,2012-11-10,10,Eastern Michigan,,Central Michigan,L,4,4,100.0,1,1,100.0,7,dylan-mulder-1
+Jaden Oberkrom,2012-11-10,10,Texas Christian,,Kansas State,L,1,1,100.0,1,2,50.0,4,jaden-oberkrom-1
+Zach Olen,2012-11-10,10,North Texas,,South Alabama,W,3,3,100.0,1,2,50.0,6,zach-olen-1
+Will Oliver,2012-11-10,10,Colorado,@,Arizona,L,4,4,100.0,1,1,100.0,7,will-oliver-1
+Michael Palardy,2012-11-10,10,Tennessee,,Missouri,L,6,6,100.0,0,1,0.0,6,michael-palardy-1
+Kaleb Patterson,2012-11-10,10,Miami (OH),,Kent State,L,3,3,100.0,1,2,50.0,6,kaleb-patterson-1
+Nick Prolago,2012-11-10,10,Kansas,@,Texas Tech,L,4,4,100.0,2,2,100.0,10,nick-prolago-1
+Jared Roberts,2012-11-10,10,Colorado State,,Nevada-Las Vegas,W,3,4,75.0,2,2,100.0,9,jared-roberts-1
+Trevor Romaine,2012-11-10,9,Oregon State,@,Stanford,L,2,2,100.0,3,3,100.0,11,trevor-romaine-1
+Bryson Rose,2012-11-10,10,Mississippi,,Vanderbilt,L,2,2,100.0,4,5,80.0,14,bryson-rose-1
+Niklas Sade,2012-11-10,10,North Carolina State,,Wake Forest,W,4,4,100.0,3,5,60.0,13,niklas-sade-1
+Cairo Santos,2012-11-10,10,Tulane,@,Memphis,L,2,2,100.0,3,3,100.0,11,cairo-santos-1
+Daniel Schwarz,2012-11-10,10,Tulsa,@,Houston,W,5,5,100.0,2,2,100.0,11,daniel-schwarz-1
+Garrett Schwettman,2012-11-10,10,Western Kentucky,,Florida Atlantic,L,4,4,100.0,0,1,0.0,4,garrett-schwettman-1
+Will Scott,2012-11-10,10,Troy,,Navy,W,5,5,100.0,2,2,100.0,11,will-scott-1
+Quinn Sharp,2012-11-10,9,Oklahoma State,,West Virginia,W,7,7,100.0,2,2,100.0,13,quinn-sharp-1
+Jeremy Shelley,2012-11-10,10,Alabama,,Texas A&M,L,3,3,100.0,1,1,100.0,6,jeremy-shelley-1
+Nick Sloan,2012-11-10,10,Navy,@,Troy,L,4,4,100.0,1,1,100.0,7,nick-sloan-1
+Justin Sorensen,2012-11-10,10,Brigham Young,,Idaho,W,7,7,100.0,1,2,50.0,10,justin-sorensen-2
+Carey Spear,2012-11-10,10,Vanderbilt,@,Mississippi,W,2,2,100.0,2,2,100.0,8,carey-spear-1
+Kristian Stern,2012-11-10,10,Texas-San Antonio,,McNeese State,W,4,4,100.0,1,1,100.0,7,kristian-stern-1
+Caleb Sturgis,2012-11-10,10,Florida,,Louisiana,W,3,3,100.0,2,2,100.0,9,caleb-sturgis-1
+Tanner,2012-11-10,10,Georgia Tech,@,North Carolina,W,8,8,100.0,2,2,100.0,14,tanner-1
+Steven Valadez,2012-11-10,10,Texas-El Paso,,Central Florida,L,3,3,100.0,1,2,50.0,6,steven-valadez-1
+Harrison Waid,2012-11-10,10,San Jose State,@,New Mexico State,W,0,0,,1,2,50.0,3,harrison-waid-1
+John Wallace,2012-11-10,10,Louisville,@,Syracuse,L,2,3,66.7,2,2,100.0,8,john-wallace-1
+Jordan Wettstein,2012-11-10,10,Minnesota,@,Illinois,W,2,2,100.0,1,1,100.0,5,jordan-wettstein-1
+Jake Wieclaw,2012-11-10,10,Miami (FL),@,Virginia,L,5,5,100.0,1,1,100.0,8,jake-wieclaw-1
+Jordan Williamson,2012-11-10,10,Stanford,,Oregon State,W,3,3,100.0,0,1,0.0,3,jordan-williamson-1
+Adam Yates,2012-11-10,10,South Carolina,,Arkansas,W,5,5,100.0,1,2,50.0,8,adam-yates-1
+Jeremiah Detmer,2012-11-14,11,Toledo,@,Northern Illinois,L,3,3,100.0,1,1,100.0,6,jeremiah-detmer-1
+Steven Schott,2012-11-14,11,Ball State,,Ohio,W,7,7,100.0,1,1,100.0,10,steven-schott-1
+Mathew Sims,2012-11-14,11,Northern Illinois,,Toledo,W,4,4,100.0,1,1,100.0,7,mathew-sims-1
+Matt Weller,2012-11-14,11,Ohio,@,Ball State,L,3,3,100.0,2,3,66.7,9,matt-weller-1
+Drew Jarrett,2012-11-15,11,Virginia,,North Carolina,L,1,1,100.0,2,2,100.0,7,drew-jarrett-1
+Thomas Moore,2012-11-15,11,North Carolina,@,Virginia,W,4,4,100.0,1,2,50.0,7,thomas-moore-1
+Mitch Anderson,2012-11-16,11,Florida Atlantic,,Florida International,L,3,3,100.0,1,2,50.0,6,mitch-anderson-2
+Jack Griffin,2012-11-16,11,Florida International,@,Florida Atlantic,W,4,5,80.0,0,1,0.0,4,jack-griffin-1
+Tyler Hadden,2012-11-16,10,Hawaii,@,Air Force,L,1,1,100.0,0,1,0.0,1,tyler-hadden-1
+Corey Acosta,2012-11-17,11,Southern Mississippi,,Texas-El Paso,L,3,3,100.0,2,2,100.0,9,corey-acosta-1
+Justus Adams,2012-11-17,12,New Mexico,,Nevada,L,3,3,100.0,1,1,100.0,6,justus-adams-1
+Drew Alleman,2012-11-17,11,Louisiana State,,Mississippi,W,3,3,100.0,2,3,66.7,9,drew-alleman-1
+Edwin Arceo,2012-11-17,11,Iowa State,@,Kansas,W,6,6,100.0,3,3,100.0,15,edwin-arceo-1
+Brett Baer,2012-11-17,10,Louisiana,,Western Kentucky,W,4,4,100.0,1,1,100.0,7,brett-baer-1
+Andrew Baggett,2012-11-17,11,Missouri,,Syracuse,L,3,3,100.0,2,3,66.7,9,andrew-baggett-1
+Devon Bell,2012-11-17,11,Mississippi State,,Arkansas,W,6,6,100.0,1,1,100.0,9,devon-bell-1
+Tyler Bitancurt,2012-11-17,10,West Virginia,,Oklahoma,L,4,5,80.0,1,1,100.0,7,tyler-bitancurt-1
+Maikon Bonani,2012-11-17,10,South Florida,@,Miami (FL),L,0,0,,3,5,60.0,9,maikon-bonani-1
+John Bonano,2012-11-17,11,Arizona,@,Utah,W,4,4,100.0,2,2,100.0,10,john-bonano-1
+Nick Borgese,2012-11-17,10,Rutgers,@,Cincinnati,W,1,1,100.0,1,2,50.0,4,nick-borgese-1
+Chris Boswell,2012-11-17,11,Rice,,Southern Methodist,W,3,3,100.0,5,6,83.3,18,chris-boswell-1
+Kyle Brindza,2012-11-17,11,Notre Dame,,Wake Forest,W,5,5,100.0,1,2,50.0,8,kyle-brindza-1
+Jeff Budzien,2012-11-17,11,Northwestern,@,Michigan State,W,2,2,100.0,3,3,100.0,11,jeff-budzien-1
+Anthony Cantele,2012-11-17,11,Kansas State,@,Baylor,L,3,3,100.0,1,1,100.0,6,anthony-cantele-1
+Chandler Catanzaro,2012-11-17,11,Clemson,,North Carolina State,W,6,6,100.0,2,2,100.0,12,chandler-catanzaro-1
+Michel Chapuseaux,2012-11-17,11,South Alabama,,Middle Tennessee State,L,0,0,,2,2,100.0,6,michel-chapuseaux-1
+Dan Conroy,2012-11-17,11,Michigan State,,Northwestern,L,1,1,100.0,1,2,50.0,4,dan-conroy-1
+Travis Coons,2012-11-17,11,Washington,@,Colorado,W,5,5,100.0,1,2,50.0,8,travis-coons-1
+Freddy Cortez,2012-11-17,11,Kent State,@,Bowling Green State,W,4,4,100.0,1,1,100.0,7,freddy-cortez-1
+Brian Davis,2012-11-17,11,Arkansas State,@,Troy,W,5,6,83.3,0,1,0.0,5,brian-davis-1
+Nick Diaz,2012-11-17,11,Utah State,@,Louisiana Tech,W,6,6,100.0,2,3,66.7,12,nick-diaz-1
+Colin Ditsworth,2012-11-17,11,Nevada,@,New Mexico,W,4,4,100.0,1,1,100.0,7,colin-ditsworth-1
+Mitch Ewald,2012-11-17,11,Indiana,@,Penn State,L,1,2,50.0,3,4,75.0,10,mitch-ewald-1
+Ka'Imi Fairbairn,2012-11-17,11,UCLA,,Southern California,W,5,5,100.0,1,1,100.0,8,kaimi-fairbairn-1
+Trey Farquhar,2012-11-17,11,Idaho,,Texas-San Antonio,L,3,3,100.0,2,4,50.0,9,trey-farquhar-1
+Sam Ficken,2012-11-17,11,Penn State,,Indiana,W,6,6,100.0,1,1,100.0,9,sam-ficken-1
+Nate Freese,2012-11-17,11,Boston College,,Virginia Tech,L,2,2,100.0,3,3,100.0,11,nate-freese-1
+Kyle French,2012-11-17,11,Wisconsin,,Ohio State,L,2,2,100.0,0,1,0.0,2,kyle-french-1
+Justin Haig,2012-11-17,11,Marshall,,Houston,W,5,5,100.0,3,3,100.0,14,justin-haig-1
+Andrew Haldeman,2012-11-17,12,Western Michigan,,Eastern Michigan,L,2,2,100.0,3,3,100.0,11,andrew-haldeman-1
+Andre Heidari,2012-11-17,11,Southern California,@,UCLA,L,2,3,66.7,0,2,0.0,2,andre-heidari-1
+Paulo Henriques,2012-11-17,11,Memphis,@,Alabama-Birmingham,W,5,6,83.3,1,2,50.0,8,paulo-henriques-1
+Matt Hogan,2012-11-17,11,Houston,@,Marshall,L,5,5,100.0,2,2,100.0,11,matt-hogan-1
+Dustin Hopkins,2012-11-17,11,Florida State,@,Maryland,W,5,5,100.0,2,2,100.0,11,dustin-hopkins-1
+Chase Hover,2012-11-17,11,Southern Methodist,@,Rice,L,2,2,100.0,0,1,0.0,2,chase-hover-1
+Michael Hunnicutt,2012-11-17,10,Oklahoma,@,West Virginia,W,5,5,100.0,1,2,50.0,8,michael-hunnicutt-1
+Sean Ianno,2012-11-17,11,Texas-San Antonio,@,Idaho,W,4,4,100.0,2,3,66.7,10,sean-ianno-1
+Will Johnson,2012-11-17,10,Texas State,@,Navy,L,1,1,100.0,1,1,100.0,4,will-johnson-5
+Aaron Jones,2012-11-17,10,Baylor,,Kansas State,W,7,7,100.0,1,1,100.0,10,aaron-jones-2
+Cody Journell,2012-11-17,11,Virginia Tech,@,Boston College,W,3,3,100.0,3,3,100.0,12,cody-journell-1
+Nolan Kohorst,2012-11-17,12,Nevada-Las Vegas,,Wyoming,L,2,2,100.0,1,1,100.0,5,nolan-kohorst-1
+Ross Krautman,2012-11-17,11,Syracuse,@,Missouri,W,4,4,100.0,1,1,100.0,7,ross-krautman-1
+Ty Long,2012-11-17,11,Alabama-Birmingham,,Memphis,L,0,1,0.0,1,1,100.0,3,ty-long-1
+Carlos Lopez,2012-11-17,10,Middle Tennessee State,@,South Alabama,W,2,2,100.0,2,4,50.0,8,carlos-lopez-1
+Blake Lucas,2012-11-17,11,Massachusetts,,Buffalo,L,1,1,100.0,2,2,100.0,7,blake-lucas-1
+Brett Maher,2012-11-17,11,Nebraska,,Minnesota,W,5,5,100.0,1,1,100.0,8,brett-maher-1
+Alejandro Maldonado,2012-11-17,11,Oregon,,Stanford,L,2,2,100.0,0,2,0.0,2,alejandro-maldonado-1
+Ross Martin,2012-11-17,11,Duke,@,Georgia Tech,L,3,3,100.0,1,1,100.0,6,ross-martin-1
+Sam McCartney,2012-11-17,11,Purdue,@,Illinois,W,2,2,100.0,2,2,100.0,8,sam-mccartney-1
+Craig McIntosh,2012-11-17,11,Kentucky,,Samford,W,4,4,100.0,2,2,100.0,10,craig-mcintosh-1
+Mike Meyer,2012-11-17,11,Iowa,@,Michigan,L,2,2,100.0,1,1,100.0,5,mike-meyer-1
+Tony Miliano,2012-11-17,10,Cincinnati,,Rutgers,L,0,0,,1,2,50.0,3,tony-miliano-1
+Shawn Moffitt,2012-11-17,11,Central Florida,@,Tulsa,L,3,3,100.0,0,1,0.0,3,shawn-moffitt-1
+Jon Mora,2012-11-17,11,Arizona State,,Washington State,W,0,0,,1,2,50.0,3,jon-mora-1
+Marshall Morgan,2012-11-17,11,Georgia,,Georgia Southern,W,6,6,100.0,1,2,50.0,9,marshall-morgan-1
+Dylan Mulder,2012-11-17,11,Eastern Michigan,@,Western Michigan,W,2,3,66.7,3,3,100.0,11,dylan-mulder-1
+Matt Nelson,2012-11-17,11,Louisiana Tech,,Utah State,L,5,5,100.0,2,3,66.7,11,matt-nelson-1
+Zach Olen,2012-11-17,11,North Texas,@,Louisiana-Monroe,L,1,1,100.0,1,1,100.0,4,zach-olen-1
+Will Oliver,2012-11-17,11,Colorado,,Washington,L,0,0,,1,1,100.0,3,will-oliver-1
+Eric Osteen,2012-11-17,11,Army,,Temple,L,1,2,50.0,1,1,100.0,4,eric-osteen-1
+Michael Palardy,2012-11-17,11,Tennessee,@,Vanderbilt,L,1,1,100.0,1,1,100.0,4,michael-palardy-1
+Kaleb Patterson,2012-11-17,11,Miami (OH),@,Central Michigan,L,1,1,100.0,1,1,100.0,4,kaleb-patterson-1
+Coleman Petersen,2012-11-17,11,Utah,,Arizona,L,3,3,100.0,1,1,100.0,6,coleman-petersen-1
+Nick Prolago,2012-11-17,11,Kansas,,Iowa State,L,2,2,100.0,1,1,100.0,5,nick-prolago-1
+Bryson Rose,2012-11-17,11,Mississippi,@,Louisiana State,L,5,5,100.0,0,1,0.0,5,bryson-rose-1
+Niklas Sade,2012-11-17,11,North Carolina State,@,Clemson,L,6,6,100.0,2,3,66.7,12,niklas-sade-1
+Cairo Santos,2012-11-17,11,Tulane,,East Carolina,L,2,2,100.0,3,3,100.0,11,cairo-santos-1
+Daniel Schwarz,2012-11-17,11,Tulsa,,Central Florida,W,2,3,66.7,1,2,50.0,5,daniel-schwarz-1
+Garrett Schwettman,2012-11-17,11,Western Kentucky,@,Louisiana,L,3,3,100.0,2,2,100.0,9,garrett-schwettman-1
+Will Scott,2012-11-17,11,Troy,,Arkansas State,L,2,2,100.0,4,4,100.0,14,will-scott-1
+Quinn Sharp,2012-11-17,10,Oklahoma State,,Texas Tech,W,8,8,100.0,1,2,50.0,11,quinn-sharp-1
+Nick Sloan,2012-11-17,11,Navy,,Texas State,W,3,3,100.0,0,2,0.0,3,nick-sloan-1
+Carey Spear,2012-11-17,11,Vanderbilt,,Tennessee,W,2,2,100.0,2,2,100.0,8,carey-spear-1
+Caleb Sturgis,2012-11-17,11,Florida,,Jacksonville State,W,2,2,100.0,3,4,75.0,11,caleb-sturgis-1
+Tyler Tate,2012-11-17,11,Bowling Green State,,Kent State,L,0,0,,1,2,50.0,3,tyler-tate-1
+Steven Valadez,2012-11-17,11,Texas-El Paso,@,Southern Mississippi,W,4,4,100.0,2,2,100.0,10,steven-valadez-1
+Jake Wieclaw,2012-11-17,11,Miami (FL),,South Florida,W,2,2,100.0,4,4,100.0,14,jake-wieclaw-1
+Stuart Williams,2012-11-17,11,Wyoming,@,Nevada-Las Vegas,W,4,4,100.0,0,2,0.0,4,stuart-williams-1
+Jordan Williamson,2012-11-17,11,Stanford,@,Oregon,W,2,2,100.0,1,2,50.0,5,jordan-williamson-1
+Adam Yates,2012-11-17,11,South Carolina,,Wofford,W,3,3,100.0,1,1,100.0,6,adam-yates-1
+Taylor Zalewski,2012-11-17,11,Illinois,,Purdue,L,0,0,,1,1,100.0,3,taylor-zalewski-1
+Robert Stein,2012-11-20,12,Akron,@,Toledo,L,2,2,100.0,1,1,100.0,5,robert-stein-1
+Nick Jordan,2012-11-22,11,Texas,,Texas Christian,L,1,1,100.0,2,2,100.0,7,nick-jordan-1
+Jaden Oberkrom,2012-11-22,11,Texas Christian,@,Texas,W,2,2,100.0,2,3,66.7,8,jaden-oberkrom-1
+Drew Alleman,2012-11-23,12,Louisiana State,@,Arkansas,W,2,2,100.0,2,2,100.0,8,drew-alleman-1
+Edwin Arceo,2012-11-23,12,Iowa State,,West Virginia,L,3,3,100.0,1,2,50.0,6,edwin-arceo-1
+Tyler Bitancurt,2012-11-23,11,West Virginia,@,Iowa State,W,2,2,100.0,3,4,75.0,11,tyler-bitancurt-1
+Maikon Bonani,2012-11-23,11,South Florida,@,Cincinnati,L,1,1,100.0,1,2,50.0,4,maikon-bonani-1
+John Bonano,2012-11-23,12,Arizona,,Arizona State,L,2,3,66.7,2,2,100.0,8,john-bonano-1
+Travis Coons,2012-11-23,12,Washington,@,Washington State,L,4,4,100.0,0,1,0.0,4,travis-coons-1
+Andrew Furney,2012-11-23,12,Washington State,,Washington,W,2,2,100.0,3,3,100.0,11,andrew-furney-1
+Justin Haig,2012-11-23,12,Marshall,@,East Carolina,L,8,8,100.0,1,1,100.0,11,justin-haig-1
+Warren Harvey,2012-11-23,12,East Carolina,,Marshall,W,8,8,100.0,1,1,100.0,11,warren-harvey-1
+John Henson,2012-11-23,12,Arkansas,,Louisiana State,L,1,1,100.0,2,2,100.0,7,john-henson-1
+Zach Hocker,2012-11-23,12,Arkansas,,Louisiana State,L,0,0,,0,2,0.0,0,zach-hocker-1
+Ross Krautman,2012-11-23,12,Syracuse,@,Temple,W,5,5,100.0,1,1,100.0,8,ross-krautman-1
+Brett Maher,2012-11-23,12,Nebraska,@,Iowa,W,1,1,100.0,2,2,100.0,7,brett-maher-1
+Brandon McManus,2012-11-23,11,Temple,,Syracuse,L,2,2,100.0,2,2,100.0,8,brandon-mcmanus-1
+Mike Meyer,2012-11-23,12,Iowa,,Nebraska,L,1,1,100.0,0,1,0.0,1,mike-meyer-1
+Jon Mora,2012-11-23,12,Arizona State,@,Arizona,W,0,0,,2,2,100.0,6,jon-mora-1
+Will Oliver,2012-11-23,12,Colorado,,Utah,L,5,5,100.0,0,1,0.0,5,will-oliver-1
+Kaleb Patterson,2012-11-23,12,Miami (OH),,Ball State,L,3,3,100.0,1,1,100.0,6,kaleb-patterson-1
+Coleman Petersen,2012-11-23,12,Utah,@,Colorado,W,4,4,100.0,2,2,100.0,10,coleman-petersen-1
+Steven Schott,2012-11-23,12,Ball State,@,Miami (OH),W,4,4,100.0,1,2,50.0,7,steven-schott-1
+Mathew Sims,2012-11-23,12,Northern Illinois,@,Eastern Michigan,W,7,7,100.0,0,1,0.0,7,mathew-sims-1
+Tyler Tate,2012-11-23,12,Bowling Green State,,Buffalo,W,0,0,,0,1,0.0,0,tyler-tate-1
+Matt Weller,2012-11-23,12,Ohio,@,Kent State,L,0,0,,2,2,100.0,6,matt-weller-1
+Corey Acosta,2012-11-24,12,Southern Mississippi,@,Memphis,L,3,3,100.0,1,1,100.0,6,corey-acosta-1
+Justus Adams,2012-11-24,13,New Mexico,@,Colorado State,L,2,2,100.0,2,2,100.0,8,justus-adams-1
+Brett Baer,2012-11-24,11,Louisiana,,South Alabama,W,7,7,100.0,1,1,100.0,10,brett-baer-1
+Andrew Baggett,2012-11-24,12,Missouri,@,Texas A&M,L,2,4,50.0,1,1,100.0,5,andrew-baggett-1
+Drew Basil,2012-11-24,12,Ohio State,,Michigan,W,2,2,100.0,4,5,80.0,14,drew-basil-1
+Devon Bell,2012-11-24,12,Mississippi State,@,Mississippi,L,3,3,100.0,1,2,50.0,6,devon-bell-1
+Taylor Bertolet,2012-11-24,12,Texas A&M,,Missouri,W,8,8,100.0,1,1,100.0,11,taylor-bertolet-1
+Chris Boswell,2012-11-24,12,Rice,@,Texas-El Paso,W,3,3,100.0,2,2,100.0,9,chris-boswell-1
+Quentin Breshears,2012-11-24,12,Fresno State,,Air Force,W,6,6,100.0,2,2,100.0,12,quentin-breshears-1
+Kyle Brindza,2012-11-24,12,Notre Dame,@,Southern California,W,1,1,100.0,5,6,83.3,16,kyle-brindza-1
+Jeff Budzien,2012-11-24,12,Northwestern,,Illinois,W,6,6,100.0,2,2,100.0,12,jeff-budzien-1
+Ryan Bustin,2012-11-24,12,Texas Tech,N,Baylor,L,6,6,100.0,1,1,100.0,9,ryan-bustin-1
+Chandler Catanzaro,2012-11-24,12,Clemson,,South Carolina,L,2,2,100.0,1,1,100.0,5,chandler-catanzaro-1
+Michel Chapuseaux,2012-11-24,12,South Alabama,@,Louisiana,L,3,3,100.0,3,4,75.0,12,michel-chapuseaux-1
+Chad Christen,2012-11-24,11,Connecticut,@,Louisville,W,2,2,100.0,3,3,100.0,11,chad-christen-1
+Dan Conroy,2012-11-24,12,Michigan State,@,Minnesota,W,2,2,100.0,4,5,80.0,14,dan-conroy-1
+Brad Craddock,2012-11-24,12,Maryland,@,North Carolina,L,5,5,100.0,1,1,100.0,8,brad-craddock-1
+Nick Diaz,2012-11-24,12,Utah State,,Idaho,W,6,6,100.0,1,1,100.0,9,nick-diaz-1
+Ka'Imi Fairbairn,2012-11-24,12,UCLA,,Stanford,L,2,2,100.0,1,1,100.0,5,kaimi-fairbairn-1
+Trey Farquhar,2012-11-24,12,Idaho,@,Utah State,L,0,0,,3,3,100.0,9,trey-farquhar-1
+Sam Ficken,2012-11-24,12,Penn State,,Wisconsin,W,1,1,100.0,3,3,100.0,10,sam-ficken-1
+Nate Freese,2012-11-24,12,Boston College,@,North Carolina State,L,1,1,100.0,1,1,100.0,4,nate-freese-1
+Kyle French,2012-11-24,12,Wisconsin,@,Penn State,L,3,3,100.0,0,1,0.0,3,kyle-french-1
+Jack Griffin,2012-11-24,12,Florida International,,Louisiana-Monroe,L,2,2,100.0,1,2,50.0,5,jack-griffin-1
+Tyler Hadden,2012-11-24,11,Hawaii,,Nevada-Las Vegas,W,6,6,100.0,2,4,50.0,12,tyler-hadden-1
+Kevin Harper,2012-11-24,11,Pittsburgh,,Rutgers,W,3,3,100.0,2,2,100.0,9,kevin-harper-1
+Andre Heidari,2012-11-24,12,Southern California,,Notre Dame,L,1,1,100.0,2,2,100.0,7,andre-heidari-1
+Matt Hogan,2012-11-24,12,Houston,,Tulane,W,4,4,100.0,4,4,100.0,16,matt-hogan-1
+Dustin Hopkins,2012-11-24,12,Florida State,,Florida,L,2,2,100.0,2,2,100.0,8,dustin-hopkins-1
+Michael Hunnicutt,2012-11-24,11,Oklahoma,,Oklahoma State,W,4,4,100.0,3,4,75.0,13,michael-hunnicutt-1
+Sean Ianno,2012-11-24,12,Texas-San Antonio,,Texas State,W,5,5,100.0,1,3,33.3,8,sean-ianno-1
+Will Johnson,2012-11-24,11,Texas State,@,Texas-San Antonio,L,4,4,100.0,1,2,50.0,7,will-johnson-5
+Aaron Jones,2012-11-24,11,Baylor,N,Texas Tech,W,7,7,100.0,1,4,25.0,10,aaron-jones-2
+Cody Journell,2012-11-24,12,Virginia Tech,,Virginia,W,2,2,100.0,1,2,50.0,5,cody-journell-1
+Nolan Kohorst,2012-11-24,13,Nevada-Las Vegas,@,Hawaii,L,1,1,100.0,1,1,100.0,4,nolan-kohorst-1
+Ty Long,2012-11-24,12,Alabama-Birmingham,@,Central Florida,L,3,3,100.0,1,1,100.0,6,ty-long-1
+Austin Lopez,2012-11-24,12,San Jose State,,Louisiana Tech,W,7,7,100.0,1,1,100.0,10,austin-lopez-1
+Carlos Lopez,2012-11-24,11,Middle Tennessee State,,Troy,W,1,1,100.0,3,4,75.0,10,carlos-lopez-1
+Alejandro Maldonado,2012-11-24,12,Oregon,@,Oregon State,W,6,6,100.0,0,1,0.0,6,alejandro-maldonado-1
+Justin Manton,2012-11-24,12,Louisiana-Monroe,@,Florida International,W,2,2,100.0,1,1,100.0,5,justin-manton-1
+Ross Martin,2012-11-24,12,Duke,,Miami (FL),L,6,6,100.0,1,1,100.0,9,ross-martin-1
+Craig McIntosh,2012-11-24,12,Kentucky,@,Tennessee,L,2,2,100.0,1,2,50.0,5,craig-mcintosh-1
+Thomas Moore,2012-11-24,12,North Carolina,,Maryland,W,6,6,100.0,1,1,100.0,9,thomas-moore-1
+Matt Nelson,2012-11-24,12,Louisiana Tech,@,San Jose State,L,4,5,80.0,1,1,100.0,7,matt-nelson-1
+Zach Olen,2012-11-24,12,North Texas,@,Western Kentucky,L,3,3,100.0,1,2,50.0,6,zach-olen-1
+Michael Palardy,2012-11-24,12,Tennessee,,Kentucky,W,4,5,80.0,1,1,100.0,7,michael-palardy-1
+Jared Roberts,2012-11-24,12,Colorado State,,New Mexico,W,3,3,100.0,1,1,100.0,6,jared-roberts-1
+Trevor Romaine,2012-11-24,11,Oregon State,,Oregon,L,3,3,100.0,1,1,100.0,6,trevor-romaine-1
+Bryson Rose,2012-11-24,12,Mississippi,,Mississippi State,W,5,5,100.0,2,3,66.7,11,bryson-rose-1
+Niklas Sade,2012-11-24,12,North Carolina State,,Boston College,W,3,4,75.0,0,2,0.0,3,niklas-sade-1
+Cairo Santos,2012-11-24,12,Tulane,@,Houston,L,2,2,100.0,1,1,100.0,5,cairo-santos-1
+Garrett Schwettman,2012-11-24,12,Western Kentucky,,North Texas,W,1,1,100.0,2,2,100.0,7,garrett-schwettman-1
+Quinn Sharp,2012-11-24,11,Oklahoma State,@,Oklahoma,L,6,6,100.0,2,2,100.0,12,quinn-sharp-1
+Justin Sorensen,2012-11-24,12,Brigham Young,@,New Mexico State,W,5,7,71.4,1,2,50.0,8,justin-sorensen-2
+Carey Spear,2012-11-24,12,Vanderbilt,@,Wake Forest,W,4,4,100.0,2,2,100.0,10,carey-spear-1
+Caleb Sturgis,2012-11-24,12,Florida,@,Florida State,W,4,4,100.0,3,3,100.0,13,caleb-sturgis-1
+Tanner,2012-11-24,12,Georgia Tech,@,Georgia,L,1,1,100.0,1,2,50.0,4,tanner-1
+Steven Valadez,2012-11-24,12,Texas-El Paso,,Rice,L,3,3,100.0,1,1,100.0,6,steven-valadez-1
+John Wallace,2012-11-24,11,Louisville,,Connecticut,L,2,2,100.0,2,3,66.7,8,john-wallace-1
+Jordan Wettstein,2012-11-24,12,Minnesota,,Michigan State,L,1,1,100.0,1,1,100.0,4,jordan-wettstein-1
+Jake Wieclaw,2012-11-24,12,Miami (FL),@,Duke,W,7,7,100.0,1,2,50.0,10,jake-wieclaw-1
+Jordan Williamson,2012-11-24,12,Stanford,@,UCLA,W,5,5,100.0,0,1,0.0,5,jordan-williamson-1
+Adam Yates,2012-11-24,12,South Carolina,@,Clemson,W,3,3,100.0,2,2,100.0,9,adam-yates-1
+Nick Borgese,2012-11-29,12,Rutgers,,Louisville,L,2,2,100.0,1,1,100.0,5,nick-borgese-1
+John Wallace,2012-11-29,12,Louisville,@,Rutgers,W,2,2,100.0,2,3,66.7,8,john-wallace-1
+Freddy Cortez,2012-11-30,13,Kent State,N,Northern Illinois,L,4,4,100.0,3,3,100.0,13,freddy-cortez-1
+Ka'Imi Fairbairn,2012-11-30,13,UCLA,@,Stanford,L,3,3,100.0,1,2,50.0,6,kaimi-fairbairn-1
+Mathew Sims,2012-11-30,13,Northern Illinois,N,Kent State,W,5,5,100.0,3,3,100.0,14,mathew-sims-1
+Jordan Williamson,2012-11-30,13,Stanford,,UCLA,W,3,3,100.0,2,2,100.0,9,jordan-williamson-1
+Mitch Anderson,2012-12-01,12,Florida Atlantic,,Louisiana,L,3,3,100.0,0,2,0.0,3,mitch-anderson-2
+Tyler Bitancurt,2012-12-01,12,West Virginia,,Kansas,W,8,8,100.0,1,1,100.0,11,tyler-bitancurt-1
+Maikon Bonani,2012-12-01,12,South Florida,,Pittsburgh,L,0,0,,1,1,100.0,3,maikon-bonani-1
+Brian Davis,2012-12-01,12,Arkansas State,,Middle Tennessee State,W,6,6,100.0,1,1,100.0,9,brian-davis-1
+Cade Foster,2012-12-01,13,Alabama,N,Georgia,W,0,0,,0,1,0.0,0,cade-foster-1
+Kyle French,2012-12-01,13,Wisconsin,N,Nebraska,W,6,6,100.0,0,1,0.0,6,kyle-french-1
+Michael Frisina,2012-12-01,12,Boise State,@,Nevada,W,3,3,100.0,2,2,100.0,9,michael-frisina-1
+Tyler Hadden,2012-12-01,12,Hawaii,,South Alabama,W,2,2,100.0,3,3,100.0,11,tyler-hadden-1
+Kevin Harper,2012-12-01,12,Pittsburgh,@,South Florida,W,3,3,100.0,2,2,100.0,9,kevin-harper-1
+Michael Hunnicutt,2012-12-01,12,Oklahoma,@,Texas Christian,W,3,3,100.0,1,2,50.0,6,michael-hunnicutt-1
+Maxwell Johnson,2012-12-01,12,New Mexico State,@,Texas State,L,4,4,100.0,0,1,0.0,4,maxwell-johnson-1
+Will Johnson,2012-12-01,12,Texas State,,New Mexico State,W,9,9,100.0,1,1,100.0,12,will-johnson-5
+Aaron Jones,2012-12-01,12,Baylor,,Oklahoma State,W,5,5,100.0,2,4,50.0,11,aaron-jones-2
+Nick Jordan,2012-12-01,12,Texas,@,Kansas State,L,3,3,100.0,1,2,50.0,6,nick-jordan-1
+Brett Maher,2012-12-01,13,Nebraska,N,Wisconsin,L,4,4,100.0,1,1,100.0,7,brett-maher-1
+Tony Miliano,2012-12-01,12,Cincinnati,@,Connecticut,W,4,4,100.0,2,2,100.0,10,tony-miliano-1
+Shawn Moffitt,2012-12-01,13,Central Florida,@,Tulsa,L,3,4,75.0,0,1,0.0,3,shawn-moffitt-1
+Marshall Morgan,2012-12-01,13,Georgia,N,Alabama,L,4,4,100.0,0,1,0.0,4,marshall-morgan-1
+Jaden Oberkrom,2012-12-01,12,Texas Christian,,Oklahoma,L,2,2,100.0,1,2,50.0,5,jaden-oberkrom-1
+Nick Prolago,2012-12-01,12,Kansas,@,West Virginia,L,1,1,100.0,1,1,100.0,4,nick-prolago-1
+Bobby Puyol,2012-12-01,12,Connecticut,,Cincinnati,L,2,2,100.0,1,1,100.0,5,bobby-puyol-1
+David Scully,2012-12-01,13,Georgia Tech,N,Florida State,L,0,0,,1,1,100.0,3,david-scully-1
+Quinn Sharp,2012-12-01,12,Oklahoma State,@,Baylor,L,4,4,100.0,2,2,100.0,10,quinn-sharp-1
+Jeremy Shelley,2012-12-01,13,Alabama,N,Georgia,W,3,3,100.0,1,1,100.0,6,jeremy-shelley-1
+Tanner,2012-12-01,13,Georgia Tech,N,Florida State,L,0,0,,2,2,100.0,6,tanner-1
+Eric Osteen,2012-12-08,12,Army,N,Navy,L,1,1,100.0,2,3,66.7,7,eric-osteen-1
+Nick Sloan,2012-12-08,12,Navy,N,Army,W,2,2,100.0,1,1,100.0,5,nick-sloan-1
+Jeremiah Detmer,2012-12-15,13,Toledo,N,Utah State,L,0,0,,3,3,100.0,9,jeremiah-detmer-1
+Nick Diaz,2012-12-15,13,Utah State,N,Toledo,W,5,5,100.0,2,2,100.0,11,nick-diaz-1
+Allen Hardison,2012-12-15,13,Nevada,N,Arizona,L,6,6,100.0,2,2,100.0,12,allen-hardison-1
+Chance Marden,2012-12-20,13,San Diego State,,Brigham Young,L,0,0,,2,2,100.0,6,chance-marden-1
+Justin Sorensen,2012-12-20,13,Brigham Young,@,San Diego State,W,2,3,66.7,1,1,100.0,5,justin-sorensen-2
+Shawn Moffitt,2012-12-21,14,Central Florida,N,Ball State,W,2,3,66.7,1,1,100.0,5,shawn-moffitt-1
+Steven Schott,2012-12-21,13,Ball State,N,Central Florida,L,2,2,100.0,1,2,50.0,5,steven-schott-1
+Brett Baer,2012-12-22,13,Louisiana,N,East Carolina,W,4,5,80.0,3,3,100.0,13,brett-baer-1
+Travis Coons,2012-12-22,13,Washington,N,Boise State,L,2,2,100.0,2,3,66.7,8,travis-coons-1
+Michael Frisina,2012-12-22,13,Boise State,N,Washington,W,1,2,50.0,3,3,100.0,10,michael-frisina-1
+Warren Harvey,2012-12-22,13,East Carolina,N,Louisiana,L,4,4,100.0,2,2,100.0,10,warren-harvey-1
+Quentin Breshears,2012-12-24,13,Fresno State,N,Southern Methodist,L,1,1,100.0,1,1,100.0,4,quentin-breshears-1
+Chase Hover,2012-12-24,13,Southern Methodist,N,Fresno State,W,5,5,100.0,2,3,66.7,11,chase-hover-1
+David Harman,2012-12-26,13,Central Michigan,N,Western Kentucky,W,3,3,100.0,1,2,50.0,6,david-harman-1
+Ka'Imi Fairbairn,2012-12-27,14,UCLA,N,Baylor,L,2,2,100.0,2,2,100.0,8,kaimi-fairbairn-1
+Austin Lopez,2012-12-27,13,San Jose State,N,Bowling Green State,W,3,3,100.0,2,2,100.0,9,austin-lopez-1
+Ross Martin,2012-12-27,13,Duke,N,Cincinnati,L,2,3,66.7,2,3,66.7,8,ross-martin-1
+Tony Miliano,2012-12-27,13,Cincinnati,N,Duke,W,6,6,100.0,2,2,100.0,12,tony-miliano-1
+Tyler Tate,2012-12-27,13,Bowling Green State,N,San Jose State,L,0,0,,2,2,100.0,6,tyler-tate-1
+Nick Borgese,2012-12-28,13,Rutgers,N,Virginia Tech,L,1,1,100.0,1,3,33.3,4,nick-borgese-1
+Ryan Bustin,2012-12-28,13,Texas Tech,N,Minnesota,W,4,4,100.0,2,3,66.7,10,ryan-bustin-1
+Cody Journell,2012-12-28,13,Virginia Tech,N,Rutgers,W,1,1,100.0,2,3,66.7,7,cody-journell-1
+Justin Manton,2012-12-28,13,Louisiana-Monroe,N,Ohio,L,2,2,100.0,0,1,0.0,2,justin-manton-1
+Matt Weller,2012-12-28,13,Ohio,N,Louisiana-Monroe,W,6,6,100.0,1,1,100.0,9,matt-weller-1
+Jordan Wettstein,2012-12-28,13,Minnesota,N,Texas Tech,L,4,4,100.0,1,1,100.0,7,jordan-wettstein-1
+Tyler Bitancurt,2012-12-29,13,West Virginia,N,Syracuse,L,2,2,100.0,0,1,0.0,2,tyler-bitancurt-1
+Chris Boswell,2012-12-29,13,Rice,N,Air Force,W,3,3,100.0,2,3,66.7,9,chris-boswell-1
+Dan Conroy,2012-12-29,13,Michigan State,N,Texas Christian,W,2,2,100.0,1,1,100.0,5,dan-conroy-1
+Nick Jordan,2012-12-29,13,Texas,N,Oregon State,W,4,4,100.0,1,2,50.0,7,nick-jordan-1
+Ross Krautman,2012-12-29,13,Syracuse,N,West Virginia,W,4,4,100.0,2,2,100.0,10,ross-krautman-1
+Jaden Oberkrom,2012-12-29,13,Texas Christian,N,Michigan State,L,1,1,100.0,3,3,100.0,10,jaden-oberkrom-1
+Trevor Romaine,2012-12-29,13,Oregon State,N,Texas,L,3,3,100.0,2,2,100.0,9,trevor-romaine-1
+Nick Sloan,2012-12-29,13,Navy,N,Arizona State,L,4,4,100.0,0,1,0.0,4,nick-sloan-1
+Drew Alleman,2012-12-31,13,Louisiana State,N,Clemson,L,3,3,100.0,1,1,100.0,6,drew-alleman-1
+Edwin Arceo,2012-12-31,13,Iowa State,N,Tulsa,L,2,2,100.0,1,2,50.0,5,edwin-arceo-1
+Chandler Catanzaro,2012-12-31,13,Clemson,N,Louisiana State,W,1,2,50.0,2,2,100.0,7,chandler-catanzaro-1
+Andre Heidari,2012-12-31,13,Southern California,N,Georgia Tech,L,1,1,100.0,0,1,0.0,1,andre-heidari-1
+Niklas Sade,2012-12-31,13,North Carolina State,@,Vanderbilt,L,3,3,100.0,1,2,50.0,6,niklas-sade-1
+Daniel Schwarz,2012-12-31,14,Tulsa,N,Iowa State,W,4,4,100.0,1,1,100.0,7,daniel-schwarz-1
+Carey Spear,2012-12-31,13,Vanderbilt,,North Carolina State,W,3,3,100.0,1,2,50.0,6,carey-spear-1
+Devon Bell,2013-01-01,13,Mississippi State,N,Northwestern,L,2,2,100.0,2,2,100.0,8,devon-bell-1
+Jeff Budzien,2013-01-01,13,Northwestern,N,Mississippi State,W,4,4,100.0,2,2,100.0,10,jeff-budzien-1
+Brendan Gibbons,2013-01-01,13,Michigan,N,South Carolina,L,1,1,100.0,2,2,100.0,7,brendan-gibbons-1
+Dustin Hopkins,2013-01-01,14,Florida State,N,Northern Illinois,W,4,4,100.0,1,2,50.0,7,dustin-hopkins-1
+Brett Maher,2013-01-01,14,Nebraska,N,Georgia,L,4,4,100.0,1,2,50.0,7,brett-maher-1
+Sam McCartney,2013-01-01,13,Purdue,N,Oklahoma State,L,2,2,100.0,0,1,0.0,2,sam-mccartney-1
+Marshall Morgan,2013-01-01,14,Georgia,N,Nebraska,W,1,1,100.0,4,4,100.0,13,marshall-morgan-1
+Jack Russell,2013-01-01,14,Wisconsin,N,Stanford,L,3,3,100.0,1,2,50.0,6,jack-russell-1
+Quinn Sharp,2013-01-01,13,Oklahoma State,N,Purdue,W,7,7,100.0,3,3,100.0,16,quinn-sharp-1
+Mathew Sims,2013-01-01,14,Northern Illinois,N,Florida State,L,1,1,100.0,1,1,100.0,4,mathew-sims-1
+Matt Wile,2013-01-01,13,Michigan,N,South Carolina,L,0,0,,1,1,100.0,3,matt-wile-1
+Jordan Williamson,2013-01-01,14,Stanford,N,Wisconsin,W,2,2,100.0,2,2,100.0,8,jordan-williamson-1
+Adam Yates,2013-01-01,13,South Carolina,N,Michigan,W,3,3,100.0,0,2,0.0,3,adam-yates-1
+Caleb Sturgis,2013-01-02,13,Florida,N,Louisville,L,2,2,100.0,1,1,100.0,5,caleb-sturgis-1
+John Wallace,2013-01-02,13,Louisville,N,Florida,W,3,4,75.0,2,4,50.0,9,john-wallace-1
+Anthony Cantele,2013-01-03,13,Kansas State,N,Oregon,L,2,2,100.0,1,2,50.0,5,anthony-cantele-1
+Alejandro Maldonado,2013-01-03,13,Oregon,N,Kansas State,W,2,3,66.7,2,2,100.0,8,alejandro-maldonado-1
+Michael Hunnicutt,2013-01-04,13,Oklahoma,N,Texas A&M,L,1,1,100.0,2,2,100.0,7,michael-hunnicutt-1
+Kevin Harper,2013-01-05,13,Pittsburgh,N,Mississippi,L,2,2,100.0,1,1,100.0,5,kevin-harper-1
+Bryson Rose,2013-01-05,13,Mississippi,N,Pittsburgh,W,5,5,100.0,1,3,33.3,8,bryson-rose-1
+Freddy Cortez,2013-01-06,14,Kent State,N,Arkansas State,L,1,1,100.0,2,2,100.0,7,freddy-cortez-1
+Brian Davis,2013-01-06,13,Arkansas State,N,Kent State,W,2,2,100.0,1,1,100.0,5,brian-davis-1

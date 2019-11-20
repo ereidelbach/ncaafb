@@ -1,0 +1,337 @@
+{
+  "code_player_data": {
+    "college": {
+      "teamsfile": "teams_ncaa.csv",
+      "playersfile": "players2-2005to2018.csv",
+      "teamcols": ["Team Code", "School"],
+      "lkcols": [
+        "Player",
+        "unique_id",
+        "School",
+        "To",
+        "From",
+        "av",
+        "position",
+        "height",
+        "weight"
+      ],
+      "pcols": [
+        "Player",
+        "unique_id",
+        "School",
+        "av",
+        "position",
+        "height",
+        "weight"
+      ]
+    },
+    "nfl_fantasy": {
+      "teamsfile": "teams_nfl.csv",
+      "playersfile": "nflPlayers-1999to2018.csv",
+      "teamcols": ["Team Code", "Team"],
+      "lkcols": ["Player", "unique_id", "Team", "From", "To"],
+      "pcols": ["Player", "unique_id", "Team"]
+    }
+  },
+  "convert_player_game_stats": {
+    "college": {
+      "keepcols": [
+        "unique_id",
+        "Team Code",
+        "Team Code opp",
+        "Game Code",
+        "G",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Pass Yard",
+        "Pass TD",
+        "Pass Int",
+        "Rec",
+        "Rec Yards",
+        "Rec TD",
+        "Int Ret",
+        "Tackle Solo",
+        "Tackle Assist",
+        "Tackle for Loss",
+        "Sack",
+        "Fumble Forced",
+        "Pass Broken Up"
+      ],
+      "namereplace": {
+        "Alabama-Birmingham": "UAB",
+        "Brigham Young": "BYU",
+        "Central Florida": "UCF",
+        "Louisiana State": "LSU",
+        "Miami (FL)": "Miami (Florida)",
+        "Miami (OH)": "Miami (Ohio)",
+        "Nevada-Las Vegas": "UNLV",
+        "Pitt": "Pittsburgh",
+        "Southern California": "USC",
+        "Southern Methodist": "SMU",
+        "Louisiana": "Louisiana-Lafayette",
+        "Texas Christian": "TCU",
+        "Texas-El Paso": "UTEP",
+        "Texas-San Antonio": "UTSA",
+        "Ole Miss": "Mississippi",
+        "UNC Charlotte": "Charlotte"
+      }
+    },
+    "nfl": {
+      "keepcols": [
+        "unique_id",
+        "Pos",
+        "Team Code",
+        "Team Code opp",
+        "Game Code",
+        "G",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Pass Yard",
+        "Pass TD",
+        "Pass Int",
+        "QBR",
+        "Targets",
+        "Rec",
+        "Rec Yards",
+        "Rec TD",
+        "Int Ret",
+        "Tackle Solo",
+        "Tackle Assist",
+        "Tackle for Loss",
+        "QBHits",
+        "Sack",
+        "Fumble Forced",
+        "Pass Broken Up"
+      ]
+    },
+    "fantasy": {
+      "keepcols": [
+        "unique_id",
+        "Team Code",
+        "Team Code opp",
+        "Game Code",
+        "Player",
+        "Pos",
+        "G",
+        "Week",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Pass Yard",
+        "Pass TD",
+        "Pass Int",
+        "QBR",
+        "Sk",
+        "Sk Yds",
+        "AYPA",
+        "Targets",
+        "Rec",
+        "Rec Yards",
+        "Rec TD",
+        "Fantasy Pts",
+        "PPR",
+        "DK Pts",
+        "FD Pts",
+        "From",
+        "To"
+      ]
+    }
+  },
+  "convert_team_stats": {
+    "college": {
+      "keepcols": [
+        "Team Code",
+        "Game Code",
+        "G",
+        "Team Code opp",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Comp Pct",
+        "Pass Yard",
+        "Pass TD",
+        "Pass Int",
+        "Rush Att opp",
+        "Rush Yard opp",
+        "Rush TD opp",
+        "Pass Att opp",
+        "Pass Comp opp",
+        "Pass Yard opp",
+        "Pass TD opp"        
+      ],
+      "namereplace": {
+        "Alabama-Birmingham": "UAB",
+        "Brigham Young": "BYU",
+        "Central Florida": "UCF",
+        "Louisiana State": "LSU",
+        "Miami (FL)": "Miami (Florida)",
+        "Miami (OH)": "Miami (Ohio)",
+        "Nevada-Las Vegas": "UNLV",
+        "Pitt": "Pittsburgh",
+        "Southern California": "USC",
+        "Southern Methodist": "SMU",
+        "Louisiana": "Louisiana-Lafayette",
+        "Texas Christian": "TCU",
+        "Texas-El Paso": "UTEP",
+        "Texas-San Antonio": "UTSA",
+        "Ole Miss": "Mississippi",
+        "UNC Charlotte": "Charlotte"
+      }
+    },
+    "nfl": {
+      "gamefile": "nflTeam1994to1998.csv",
+      "gamefile2": "nflTeams1999to2018.csv",
+      "outfile": "nflTeamGames1994to1998.csv",
+      "outfile2": "nflTeamGames1999to2018.csv",
+      "keepcols": [
+        "Team Code",
+        "Game Code",
+        "G",
+        "Team Code opp",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Comp Pct",
+        "Pass Yard",
+        "Pass TD",
+        "Pass Int",
+        "Sk opp",
+        "Pass Rate",
+        "Rush Att opp",
+        "Rush Yard opp",
+        "Rush TD opp",
+        "Pass Att opp",
+        "Pass Comp opp",
+        "Pass Yard opp",
+        "Pass TD opp"
+      ]
+    },
+    "fantasy": {
+      "gamefile": "fantasyEarlyTeamGames.csv",
+      "gamefile2": "fantasyTeamGames.csv",
+      "outfile": "fantasyTeamGames1994to1998.csv",
+      "outfile2": "fantasyTeamGames1999to2018.csv",
+      "keepcols": [
+        "Team Code",
+        "Game Code",
+        "G",
+        "Team Code opp",
+        "Rush Att",
+        "Rush Yard",
+        "Rush TD",
+        "Pass Att",
+        "Pass Comp",
+        "Pass Yard",
+        "Pass TD",
+        "Rush Att opp",
+        "Rush Yard opp",
+        "Rush TD opp",
+        "Pass Att opp",
+        "Pass Comp opp",
+        "Pass Yard opp",
+        "Pass TD opp"
+      ]
+    }
+  },
+  "findStats": {
+    "college": { "playerstatfile": "player-game-statistics" },
+    "nfl": { "playerstatfile": "nflPlayerGameStats.csv" },
+    "fantasy": { "playerstatfile": "fantasyPlayerGameStats.csv" }
+  },
+  "run_old_seasons": {
+    "college": {
+      "teamidfile": "team.csv",
+      "teamgamefile": "games2000to2004.csv",
+      "nTeams": 5000,
+      "initialTeamElo": 1200,
+      "power5initialTeamElo": 1300,
+      "initialOppCode": 0,
+      "initialDate": 20000820,
+      "teamK": 20,
+      "rushing": {
+        "opp_perf_var": "Rush Yard opp",
+        "drawline": 150,
+        "yardFactor": 1,
+        "ypcFactor": 5,
+        "fumline": 0.1
+      },
+      "passing": {
+        "opp_perf_var": "Pass Yard opp",
+        "drawline": 218,
+        "yardFactor": 8,
+        "ypcFactor": 5,
+        "fumline": 0.1
+      }
+    },
+    "nfl": {
+      "teamidfile": "nflTeamEarly.csv",
+      "teamgamefile": "nflTeamGames1994to1998.csv",
+      "nTeams": 32,
+      "initialTeamElo": 1300,
+      "initialOppCode": 0,
+      "initialDate": 19940820,
+      "teamK": 20,
+      "rushing": {
+        "opp_perf_var": "Rush Yard opp",
+        "drawline": 106,
+        "yardFactor": 1,
+        "ypcFactor": 5,
+        "fumline": 0.1
+      },
+      "passing": {
+        "opp_perf_var": "Pass Yard opp",
+        "drawline": 217,
+        "yardFactor": 5,
+        "ypcFactor": 5,
+        "fumline": 0.1
+      }
+    },
+    "fantasy": {
+      "teamidfile": "nflTeamEarly.csv",
+      "teamgamefile": "fantasyTeamGames1994to1998.csv",
+      "nTeams": 32,
+      "initialTeamElo": 1300,
+      "initialOppCode": 0,
+      "initialDate": 19940820,
+      "teamK": 20,
+      "rushing": {
+        "opp_perf_var": "Rush Yard opp",
+        "opp_perf_var2": "Rush TD opp",
+        "drawline": 106,
+        "tdline": 1
+      },
+      "passing": {
+        "opp_perf_var": "Pass Yard opp",
+        "opp_perf_var2": "Pass TD opp",
+        "drawline": 231,
+        "tdline": 1
+      }
+    }
+  },
+  "computeElo": {
+    "college": {
+      "playerstatfile": "player-game-statistics",
+      "teamstatfile": "team-game-statistics"
+    },
+    "nfl": {
+      "playerstatfile": "nflPlayerGameStats.csv",
+      "teamstatfile": "nflTeamGames1999to2018.csv"
+    },
+    "fantasy": {
+      "playerstatfile": "fantasyPlayerGameStats.csv",
+      "teamstatfile": "fantasyTeamGames1999to2018.csv"
+    }
+  }
+}

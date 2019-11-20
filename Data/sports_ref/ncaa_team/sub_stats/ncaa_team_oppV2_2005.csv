@@ -1,0 +1,1383 @@
+School,Date,G,Loc,Opponent,WL,Total TD opp,Points Against
+Arizona State,2005-09-01,1,,Temple,W,2,16
+Buffalo,2005-09-01,1,@,Connecticut,L,5,38
+Cincinnati,2005-09-01,1,,Eastern Michigan,W,3,26
+Connecticut,2005-09-01,1,,Buffalo,W,0,0
+Eastern Michigan,2005-09-01,1,@,Cincinnati,L,4,28
+Houston,2005-09-01,1,,Oregon,L,3,38
+Idaho,2005-09-01,1,@,Washington State,L,5,38
+Louisiana-Monroe,2005-09-01,1,,Northwestern State,L,4,27
+Marshall,2005-09-01,1,,William & Mary,W,3,24
+Minnesota,2005-09-01,1,@,Tulsa,W,1,10
+Oregon,2005-09-01,1,@,Houston,W,3,24
+South Carolina,2005-09-01,1,,Central Florida,W,1,15
+Temple,2005-09-01,1,@,Arizona State,L,9,63
+Toledo,2005-09-01,1,,Western Illinois,W,2,14
+Tulsa,2005-09-01,1,,Minnesota,L,5,41
+UCF,2005-09-01,1,@,South Carolina,L,3,24
+Vanderbilt,2005-09-01,1,@,Wake Forest,W,2,20
+Wake Forest,2005-09-01,1,,Vanderbilt,L,3,24
+Washington State,2005-09-01,1,,Idaho,W,3,26
+Arizona,2005-09-02,1,@,Utah,L,3,27
+Central Michigan,2005-09-02,1,,Indiana,L,3,20
+Indiana,2005-09-02,1,@,Central Michigan,W,1,13
+Utah,2005-09-02,1,,Arizona,W,3,24
+Air Force,2005-09-03,1,@,Washington,W,2,17
+Alabama,2005-09-03,1,,Middle Tennessee State,W,1,7
+Arkansas,2005-09-03,1,,Missouri State,W,2,17
+Arkansas State,2005-09-03,1,@,Missouri,L,6,44
+Auburn,2005-09-03,1,,Georgia Tech,L,2,23
+Ball State,2005-09-03,1,@,Iowa,L,8,56
+Baylor,2005-09-03,1,@,Southern Methodist,W,3,23
+Boise State,2005-09-03,1,@,Georgia,L,6,48
+Boston College,2005-09-03,1,@,Brigham Young,W,0,3
+Bowling Green State,2005-09-03,1,@,Wisconsin,L,8,56
+Brigham Young,2005-09-03,1,,Boston College,L,2,20
+California,2005-09-03,1,,Sacramento State,W,0,3
+Clemson,2005-09-03,1,,Texas A&M,W,3,24
+Colorado,2005-09-03,1,,Colorado State,W,4,28
+Colorado State,2005-09-03,1,@,Colorado,L,3,31
+Duke,2005-09-03,1,@,East Carolina,L,3,24
+East Carolina,2005-09-03,1,,Duke,W,3,21
+Florida,2005-09-03,1,,Wyoming,W,2,14
+Florida Atlantic,2005-09-03,1,@,Kansas,L,3,30
+Florida International,2005-09-03,1,@,Kansas State,L,4,35
+Georgia,2005-09-03,1,,Boise State,W,2,13
+Georgia Tech,2005-09-03,1,@,Auburn,W,2,14
+Hawaii,2005-09-03,1,,Southern California,L,9,63
+Illinois,2005-09-03,1,,Rutgers,W,3,30
+Iowa,2005-09-03,1,,Ball State,W,0,0
+Iowa State,2005-09-03,1,,Illinois State,W,3,21
+Kansas,2005-09-03,1,,Florida Atlantic,W,3,19
+Kansas State,2005-09-03,1,,Florida International,W,3,21
+Kent State,2005-09-03,1,@,Michigan State,L,7,49
+Louisiana,2005-09-03,1,@,Texas,L,9,60
+Maryland,2005-09-03,1,N,Navy,W,3,20
+Miami (OH),2005-09-03,1,@,Ohio State,L,4,34
+Michigan,2005-09-03,1,,Northern Illinois,W,2,17
+Michigan State,2005-09-03,1,,Kent State,W,2,14
+Middle Tennessee State,2005-09-03,1,@,Alabama,L,3,26
+Mississippi State,2005-09-03,1,,Murray State,W,1,6
+Missouri,2005-09-03,1,,Arkansas State,W,2,17
+Navy,2005-09-03,1,N,Maryland,L,2,23
+Nebraska,2005-09-03,1,,Maine,W,1,7
+New Mexico State,2005-09-03,1,,Texas-El Paso,L,4,34
+Northern Illinois,2005-09-03,1,@,Michigan,L,4,33
+Northwestern,2005-09-03,1,,Ohio,W,2,14
+Notre Dame,2005-09-03,1,@,Pittsburgh,W,2,21
+Ohio,2005-09-03,1,@,Northwestern,L,5,38
+Ohio State,2005-09-03,1,,Miami (OH),W,2,14
+Oklahoma,2005-09-03,1,,Texas Christian,L,2,17
+Oklahoma State,2005-09-03,1,,Montana State,W,1,10
+Oregon State,2005-09-03,1,,Portland State,W,2,14
+Penn State,2005-09-03,1,,South Florida,W,2,13
+Pitt,2005-09-03,1,,Notre Dame,L,6,42
+Rutgers,2005-09-03,1,@,Illinois,L,4,33
+San Diego State,2005-09-03,1,,UCLA,L,5,44
+San Jose State,2005-09-03,1,,Eastern Washington,W,3,24
+SMU,2005-09-03,1,,Baylor,L,3,28
+South Florida,2005-09-03,1,@,Penn State,L,3,23
+Tennessee,2005-09-03,1,,Alabama-Birmingham,W,1,10
+Texas,2005-09-03,1,,Louisiana,W,0,3
+Texas A&M,2005-09-03,1,@,Clemson,L,1,25
+Texas Christian,2005-09-03,1,@,Oklahoma,W,1,10
+Troy,2005-09-03,1,,Cal Poly,W,1,10
+UAB,2005-09-03,1,@,Tennessee,L,2,17
+UCLA,2005-09-03,1,@,San Diego State,W,3,21
+USC,2005-09-03,1,@,Hawaii,W,2,17
+UTEP,2005-09-03,1,@,New Mexico State,W,2,17
+Virginia,2005-09-03,1,,Western Michigan,W,1,19
+Washington,2005-09-03,1,,Air Force,L,2,20
+Western Michigan,2005-09-03,1,@,Virginia,L,4,31
+Wisconsin,2005-09-03,1,,Bowling Green State,W,6,42
+Wyoming,2005-09-03,1,@,Florida,L,4,32
+Kentucky,2005-09-04,1,,Louisville,L,4,31
+Louisville,2005-09-04,1,@,Kentucky,W,3,24
+North Carolina State,2005-09-04,1,,Virginia Tech,L,2,20
+Syracuse,2005-09-04,1,,West Virginia,L,1,15
+Virginia Tech,2005-09-04,1,@,North Carolina State,W,1,16
+West Virginia,2005-09-04,1,@,Syracuse,W,1,7
+Florida State,2005-09-05,1,,Miami (FL),W,1,7
+Memphis,2005-09-05,1,,Mississippi,L,1,10
+Miami (FL),2005-09-05,1,@,Florida State,L,1,10
+New Mexico,2005-09-05,1,,Nevada-Las Vegas,W,3,22
+Ole Miss,2005-09-05,1,@,Memphis,W,0,6
+UNLV,2005-09-05,1,@,New Mexico,L,3,24
+Florida Atlantic,2005-09-08,2,,Oklahoma State,L,2,23
+Oklahoma State,2005-09-08,2,@,Florida Atlantic,W,0,3
+Nevada,2005-09-09,1,,Washington State,L,7,55
+Ohio,2005-09-09,2,,Pittsburgh,W,1,10
+Pitt,2005-09-09,2,@,Ohio,L,2,16
+Washington State,2005-09-09,2,@,Nevada,W,3,21
+Air Force,2005-09-10,2,,San Diego State,W,3,29
+Akron,2005-09-10,1,@,Purdue,L,7,49
+Alabama,2005-09-10,2,,Southern Mississippi,W,3,21
+Arizona,2005-09-10,2,,Northern Arizona,W,1,12
+Arizona State,2005-09-10,2,,Louisiana State,L,5,35
+Arkansas,2005-09-10,2,,Vanderbilt,L,3,28
+Arkansas State,2005-09-10,2,,Tennessee-Martin,W,1,7
+Army,2005-09-10,1,@,Boston College,L,6,44
+Auburn,2005-09-10,2,,Mississippi State,W,0,0
+Ball State,2005-09-10,2,,Bowling Green State,L,6,40
+Baylor,2005-09-10,2,,Samford,W,2,14
+Boise State,2005-09-10,2,@,Oregon State,L,3,30
+Boston College,2005-09-10,2,,Army,W,1,7
+Bowling Green State,2005-09-10,2,@,Ball State,W,4,31
+Brigham Young,2005-09-10,2,,Eastern Illinois,W,1,10
+Buffalo,2005-09-10,2,@,Syracuse,L,4,31
+California,2005-09-10,2,@,Washington,W,2,17
+Central Michigan,2005-09-10,2,@,Miami (OH),W,4,37
+Cincinnati,2005-09-10,2,@,Penn State,L,6,42
+Clemson,2005-09-10,2,@,Maryland,W,3,24
+Colorado,2005-09-10,2,,New Mexico State,W,0,0
+Colorado State,2005-09-10,2,@,Minnesota,L,8,56
+Connecticut,2005-09-10,2,,Liberty,W,0,0
+Duke,2005-09-10,2,,Virginia Tech,L,6,45
+Eastern Michigan,2005-09-10,2,,Louisiana,W,1,10
+Florida,2005-09-10,2,,Louisiana Tech,W,0,3
+Florida International,2005-09-10,2,@,Texas Tech,L,8,56
+Florida State,2005-09-10,2,,Citadel,W,1,10
+Fresno State,2005-09-10,1,,Weber State,W,2,17
+Georgia,2005-09-10,2,,South Carolina,W,2,15
+Georgia Tech,2005-09-10,2,,North Carolina,W,3,21
+Hawaii,2005-09-10,2,@,Michigan State,L,6,42
+Houston,2005-09-10,2,,Sam Houston State,W,1,10
+Idaho,2005-09-10,2,@,Nevada-Las Vegas,L,4,34
+Illinois,2005-09-10,2,,San Jose State,W,2,19
+Indiana,2005-09-10,2,,Nicholls State,W,4,31
+Iowa,2005-09-10,2,@,Iowa State,L,3,23
+Iowa State,2005-09-10,2,,Iowa,W,0,3
+Kansas,2005-09-10,2,,Appalachian State,W,1,8
+Kansas State,2005-09-10,2,@,Marshall,W,2,19
+Kent State,2005-09-10,2,,Southeast Missouri State,W,1,12
+Kentucky,2005-09-10,2,,Idaho State,W,3,29
+Louisiana,2005-09-10,2,@,Eastern Michigan,L,4,31
+Louisiana Tech,2005-09-10,1,@,Florida,L,6,41
+Louisiana-Monroe,2005-09-10,2,@,Wyoming,L,5,38
+LSU,2005-09-10,1,@,Arizona State,W,4,31
+Marshall,2005-09-10,2,,Kansas State,L,3,21
+Maryland,2005-09-10,2,,Clemson,L,4,28
+Miami (OH),2005-09-10,2,,Central Michigan,L,5,38
+Michigan,2005-09-10,2,,Notre Dame,L,2,17
+Michigan State,2005-09-10,2,,Hawaii,W,2,14
+Middle Tennessee State,2005-09-10,2,,North Texas,L,2,14
+Minnesota,2005-09-10,2,,Colorado State,W,3,24
+Mississippi State,2005-09-10,2,@,Auburn,L,4,28
+Missouri,2005-09-10,2,,New Mexico,L,6,45
+Navy,2005-09-10,2,,Stanford,L,5,41
+Nebraska,2005-09-10,2,,Wake Forest,W,0,3
+New Mexico,2005-09-10,2,@,Missouri,W,4,35
+New Mexico State,2005-09-10,2,@,Colorado,L,4,39
+North Carolina,2005-09-10,1,@,Georgia Tech,L,3,27
+North Texas,2005-09-10,1,@,Middle Tennessee State,W,1,7
+Northern Illinois,2005-09-10,2,@,Northwestern,L,5,38
+Northwestern,2005-09-10,2,,Northern Illinois,W,5,37
+Notre Dame,2005-09-10,2,@,Michigan,W,1,10
+Ohio State,2005-09-10,2,,Texas,L,2,25
+Oklahoma,2005-09-10,2,,Tulsa,W,1,15
+Oregon,2005-09-10,2,,Montana,W,2,14
+Oregon State,2005-09-10,2,,Boise State,W,3,27
+Penn State,2005-09-10,2,,Cincinnati,W,3,24
+Purdue,2005-09-10,1,,Akron,W,3,24
+Rice,2005-09-10,1,@,UCLA,L,9,63
+Rutgers,2005-09-10,2,,Villanova,W,1,6
+San Diego State,2005-09-10,2,@,Air Force,L,6,41
+San Jose State,2005-09-10,2,@,Illinois,L,4,40
+SMU,2005-09-10,2,,Texas Christian,W,1,10
+South Carolina,2005-09-10,2,@,Georgia,L,2,17
+South Florida,2005-09-10,2,,Florida A&M,W,0,3
+Southern Mississippi,2005-09-10,1,@,Alabama,L,4,30
+Stanford,2005-09-10,1,@,Navy,W,5,38
+Syracuse,2005-09-10,2,,Buffalo,W,0,0
+Temple,2005-09-10,2,@,Wisconsin,L,9,65
+Texas,2005-09-10,2,@,Ohio State,W,1,22
+Texas Christian,2005-09-10,2,@,Southern Methodist,L,3,21
+Texas Tech,2005-09-10,1,,Florida International,W,0,3
+Toledo,2005-09-10,2,,Western Michigan,W,3,23
+Troy,2005-09-10,2,,Alabama-Birmingham,L,3,27
+Tulsa,2005-09-10,2,@,Oklahoma,L,4,31
+UAB,2005-09-10,2,@,Troy,W,1,7
+UCLA,2005-09-10,2,,Rice,W,3,21
+UNLV,2005-09-10,2,,Idaho,W,4,31
+Utah,2005-09-10,2,,Utah State,W,1,7
+Utah State,2005-09-10,1,@,Utah,L,4,31
+Vanderbilt,2005-09-10,2,@,Arkansas,W,3,24
+Virginia Tech,2005-09-10,2,@,Duke,W,0,0
+Wake Forest,2005-09-10,2,@,Nebraska,L,4,31
+Washington,2005-09-10,2,,California,L,8,56
+West Virginia,2005-09-10,2,,Wofford,W,1,7
+Western Michigan,2005-09-10,2,@,Toledo,L,8,56
+Wisconsin,2005-09-10,2,,Temple,W,0,0
+Wyoming,2005-09-10,2,,Louisiana-Monroe,W,0,0
+Texas Christian,2005-09-15,3,,Utah,W,2,20
+Utah,2005-09-15,3,@,Texas Christian,L,3,23
+Houston,2005-09-16,3,@,Texas-El Paso,L,4,44
+UTEP,2005-09-16,2,,Houston,W,5,41
+Air Force,2005-09-17,3,,Wyoming,L,3,29
+Akron,2005-09-17,2,@,Middle Tennessee State,W,1,7
+Alabama,2005-09-17,3,@,South Carolina,W,2,14
+Arizona,2005-09-17,3,,Purdue,L,4,31
+Arizona State,2005-09-17,3,,Northwestern,W,3,21
+Arkansas,2005-09-17,3,@,Southern California,L,10,70
+Arkansas State,2005-09-17,3,@,Oklahoma State,L,2,20
+Army,2005-09-17,2,,Baylor,L,2,20
+Auburn,2005-09-17,3,,Ball State,W,0,3
+Ball State,2005-09-17,3,@,Auburn,L,9,63
+Baylor,2005-09-17,3,@,Army,W,1,10
+Boston College,2005-09-17,3,,Florida State,L,4,28
+Buffalo,2005-09-17,3,,Rutgers,L,2,17
+California,2005-09-17,3,,Illinois,W,2,20
+Central Michigan,2005-09-17,3,@,Penn State,L,5,40
+Cincinnati,2005-09-17,3,,Western Carolina,W,0,3
+Clemson,2005-09-17,3,,Miami (FL),L,4,36
+Connecticut,2005-09-17,3,@,Georgia Tech,L,4,28
+Duke,2005-09-17,3,,Virginia Military Institute,W,2,14
+East Carolina,2005-09-17,2,@,Wake Forest,L,5,44
+Eastern Michigan,2005-09-17,3,@,Michigan,L,7,55
+Florida,2005-09-17,3,,Tennessee,W,1,7
+Florida Atlantic,2005-09-17,3,@,Minnesota,L,6,46
+Florida State,2005-09-17,3,@,Boston College,W,2,17
+Fresno State,2005-09-17,2,@,Oregon,L,5,37
+Georgia,2005-09-17,3,,Louisiana-Monroe,W,1,7
+Georgia Tech,2005-09-17,3,,Connecticut,W,1,13
+Idaho,2005-09-17,3,@,Washington,L,4,34
+Illinois,2005-09-17,3,@,California,L,5,35
+Indiana,2005-09-17,3,,Kentucky,W,2,14
+Iowa,2005-09-17,3,,Northern Iowa,W,3,21
+Kansas,2005-09-17,3,,Louisiana Tech,W,2,14
+Kent State,2005-09-17,3,,Miami (OH),L,3,27
+Kentucky,2005-09-17,3,@,Indiana,L,5,38
+Louisiana,2005-09-17,3,,Northwestern State,W,4,28
+Louisiana Tech,2005-09-17,2,@,Kansas,L,4,34
+Louisiana-Monroe,2005-09-17,3,@,Georgia,L,5,44
+Louisville,2005-09-17,2,,Oregon State,W,3,27
+Maryland,2005-09-17,3,,West Virginia,L,4,31
+Memphis,2005-09-17,2,,Chattanooga,W,2,14
+Miami (FL),2005-09-17,2,@,Clemson,W,3,30
+Miami (OH),2005-09-17,3,@,Kent State,W,1,10
+Michigan,2005-09-17,3,,Eastern Michigan,W,0,0
+Michigan State,2005-09-17,3,@,Notre Dame,W,5,41
+Middle Tennessee State,2005-09-17,3,,Akron,L,2,17
+Minnesota,2005-09-17,3,,Florida Atlantic,W,1,7
+Mississippi State,2005-09-17,3,N,Tulane,W,2,14
+Missouri,2005-09-17,3,,Troy,W,3,21
+Nebraska,2005-09-17,3,,Pittsburgh,W,0,6
+Nevada,2005-09-17,2,,Nevada-Las Vegas,W,2,14
+New Mexico,2005-09-17,3,,New Mexico State,W,3,21
+New Mexico State,2005-09-17,3,@,New Mexico,L,5,38
+North Carolina,2005-09-17,2,,Wisconsin,L,2,14
+North Carolina State,2005-09-17,2,,Eastern Kentucky,W,1,10
+North Texas,2005-09-17,2,,Tulsa,L,7,54
+Northern Illinois,2005-09-17,3,,Tennessee Tech,W,0,3
+Northwestern,2005-09-17,3,@,Arizona State,L,7,52
+Notre Dame,2005-09-17,3,,Michigan State,L,6,44
+Ohio,2005-09-17,3,@,Virginia Tech,L,6,45
+Ohio State,2005-09-17,3,,San Diego State,W,1,6
+Oklahoma,2005-09-17,3,@,UCLA,L,5,41
+Oklahoma State,2005-09-17,3,,Arkansas State,W,1,10
+Ole Miss,2005-09-17,2,@,Vanderbilt,L,4,31
+Oregon,2005-09-17,3,,Fresno State,W,4,34
+Oregon State,2005-09-17,3,@,Louisville,L,9,63
+Penn State,2005-09-17,3,,Central Michigan,W,0,3
+Pitt,2005-09-17,3,@,Nebraska,L,1,7
+Purdue,2005-09-17,2,@,Arizona,W,3,24
+Rice,2005-09-17,2,@,Texas,L,7,51
+Rutgers,2005-09-17,3,@,Buffalo,W,0,3
+San Diego State,2005-09-17,3,@,Ohio State,L,3,27
+SMU,2005-09-17,3,@,Texas A&M,L,9,66
+South Carolina,2005-09-17,3,,Alabama,L,4,37
+South Florida,2005-09-17,3,,Central Florida,W,2,14
+Southern Mississippi,2005-09-17,2,,McNeese State,W,2,20
+Stanford,2005-09-17,2,,California-Davis,L,3,20
+Syracuse,2005-09-17,3,,Virginia,L,3,27
+Temple,2005-09-17,3,,Toledo,L,6,42
+Tennessee,2005-09-17,2,@,Florida,L,1,16
+Texas,2005-09-17,3,,Rice,W,1,10
+Texas A&M,2005-09-17,2,,Southern Methodist,W,1,8
+Texas Tech,2005-09-17,2,,Sam Houston State,W,3,21
+Toledo,2005-09-17,3,@,Temple,W,2,17
+Troy,2005-09-17,3,@,Missouri,L,6,52
+Tulane,2005-09-17,1,N,Mississippi State,L,3,21
+Tulsa,2005-09-17,3,@,North Texas,W,0,2
+UAB,2005-09-17,3,,Jacksonville State,W,4,28
+UCF,2005-09-17,2,@,South Florida,L,4,31
+UCLA,2005-09-17,3,,Oklahoma,W,3,24
+UNLV,2005-09-17,3,@,Nevada,L,2,22
+USC,2005-09-17,2,,Arkansas,W,2,17
+Vanderbilt,2005-09-17,3,,Mississippi,W,3,23
+Virginia,2005-09-17,2,@,Syracuse,W,3,24
+Virginia Tech,2005-09-17,3,,Ohio,W,0,0
+Wake Forest,2005-09-17,3,,East Carolina,W,4,34
+Washington,2005-09-17,3,,Idaho,W,0,6
+Washington State,2005-09-17,3,,Grambling State,W,1,7
+West Virginia,2005-09-17,3,@,Maryland,W,2,19
+Western Michigan,2005-09-17,3,,Southern Illinois,W,4,28
+Wisconsin,2005-09-17,3,@,North Carolina,W,0,5
+Wyoming,2005-09-17,3,@,Air Force,W,4,28
+Boise State,2005-09-21,3,,Bowling Green State,W,3,20
+Bowling Green State,2005-09-21,3,@,Boise State,L,6,48
+Air Force,2005-09-22,4,@,Utah,L,5,38
+Florida Atlantic,2005-09-22,4,,Louisiana-Monroe,L,4,28
+Louisiana-Monroe,2005-09-22,4,@,Florida Atlantic,W,3,21
+Texas A&M,2005-09-22,3,,Texas State,W,4,31
+Utah,2005-09-22,4,,Air Force,W,5,35
+Army,2005-09-23,3,,Iowa State,L,4,28
+California,2005-09-23,4,@,New Mexico State,W,1,13
+Iowa State,2005-09-23,3,@,Army,W,3,21
+New Mexico State,2005-09-23,4,,California,L,6,41
+Akron,2005-09-24,3,,Northern Illinois,W,6,42
+Alabama,2005-09-24,4,,Arkansas,W,1,13
+Arizona State,2005-09-24,4,@,Oregon State,W,3,24
+Arkansas,2005-09-24,4,@,Alabama,L,3,24
+Arkansas State,2005-09-24,4,,Florida International,W,3,24
+Auburn,2005-09-24,4,,Western Kentucky,W,2,14
+Boston College,2005-09-24,4,@,Clemson,W,1,13
+Brigham Young,2005-09-24,3,,Texas Christian,L,6,51
+Central Michigan,2005-09-24,4,,Eastern Michigan,L,2,23
+Clemson,2005-09-24,4,,Boston College,L,2,16
+Colorado,2005-09-24,3,@,Miami (FL),L,2,23
+Colorado State,2005-09-24,3,,Nevada,W,3,21
+Duke,2005-09-24,4,@,Virginia,L,5,38
+East Carolina,2005-09-24,3,@,West Virginia,L,3,20
+Eastern Michigan,2005-09-24,4,@,Central Michigan,W,2,20
+Florida,2005-09-24,4,@,Kentucky,W,4,28
+Florida International,2005-09-24,3,@,Arkansas State,L,9,66
+Georgia,2005-09-24,4,@,Mississippi State,W,1,10
+Georgia Tech,2005-09-24,4,@,Virginia Tech,L,6,51
+Hawaii,2005-09-24,3,@,Idaho,W,0,0
+Idaho,2005-09-24,4,,Hawaii,L,3,24
+Illinois,2005-09-24,4,,Michigan State,L,8,61
+Iowa,2005-09-24,4,@,Ohio State,L,4,31
+Kansas State,2005-09-24,3,,North Texas,W,1,7
+Kent State,2005-09-24,4,@,Ohio,L,5,35
+Kentucky,2005-09-24,4,,Florida,L,7,49
+Louisville,2005-09-24,3,@,South Florida,L,6,45
+Marshall,2005-09-24,3,@,Central Florida,L,2,23
+Maryland,2005-09-24,4,@,Wake Forest,W,1,12
+Memphis,2005-09-24,3,@,Tulsa,L,5,37
+Miami (FL),2005-09-24,3,,Colorado,W,0,3
+Michigan,2005-09-24,4,@,Wisconsin,L,2,23
+Michigan State,2005-09-24,4,@,Illinois,W,2,14
+Minnesota,2005-09-24,4,,Purdue,W,5,35
+Mississippi State,2005-09-24,4,,Georgia,L,2,23
+Nevada,2005-09-24,3,@,Colorado State,L,6,42
+New Mexico,2005-09-24,4,@,Texas-El Paso,L,3,21
+North Carolina,2005-09-24,3,@,North Carolina State,W,3,24
+North Carolina State,2005-09-24,3,,North Carolina,L,4,31
+North Texas,2005-09-24,3,@,Kansas State,L,7,54
+Northern Illinois,2005-09-24,4,@,Akron,L,6,48
+Northwestern,2005-09-24,4,,Penn State,L,4,34
+Notre Dame,2005-09-24,4,@,Washington,W,2,17
+Ohio,2005-09-24,4,,Kent State,W,4,32
+Ohio State,2005-09-24,4,,Iowa,W,0,6
+Ole Miss,2005-09-24,3,,Wyoming,L,3,24
+Oregon,2005-09-24,4,,Southern California,L,6,45
+Oregon State,2005-09-24,4,,Arizona State,L,6,42
+Penn State,2005-09-24,4,@,Northwestern,W,2,29
+Pitt,2005-09-24,4,,Youngstown State,W,0,0
+Purdue,2005-09-24,3,@,Minnesota,L,5,42
+San Diego State,2005-09-24,4,,San Jose State,W,3,21
+San Jose State,2005-09-24,3,@,San Diego State,L,7,52
+SMU,2005-09-24,4,,Tulane,L,4,31
+South Carolina,2005-09-24,4,,Troy,W,2,20
+South Florida,2005-09-24,4,,Louisville,W,2,14
+Temple,2005-09-24,4,,Western Michigan,L,2,19
+Texas Christian,2005-09-24,4,@,Brigham Young,W,6,50
+Texas Tech,2005-09-24,3,,Indiana State,W,1,7
+Troy,2005-09-24,4,@,South Carolina,L,6,45
+Tulane,2005-09-24,2,@,Southern Methodist,W,1,10
+Tulsa,2005-09-24,4,,Memphis,W,4,31
+UCF,2005-09-24,3,,Marshall,W,2,13
+UNLV,2005-09-24,4,@,Utah State,L,4,31
+USC,2005-09-24,3,@,Oregon,W,1,13
+Utah State,2005-09-24,2,,Nevada-Las Vegas,W,3,24
+UTEP,2005-09-24,3,,New Mexico,W,1,13
+Vanderbilt,2005-09-24,4,,Richmond,W,1,13
+Virginia,2005-09-24,3,,Duke,W,1,7
+Virginia Tech,2005-09-24,4,,Georgia Tech,W,1,7
+Wake Forest,2005-09-24,4,,Maryland,L,2,22
+Washington,2005-09-24,4,,Notre Dame,L,4,36
+West Virginia,2005-09-24,4,,East Carolina,W,1,15
+Western Michigan,2005-09-24,4,@,Temple,W,2,16
+Wisconsin,2005-09-24,4,,Michigan,W,2,20
+Wyoming,2005-09-24,4,@,Mississippi,W,2,14
+LSU,2005-09-26,2,,Tennessee,L,4,30
+Tennessee,2005-09-26,3,@,Louisiana State,W,3,27
+Fresno State,2005-09-27,3,,Toledo,W,2,14
+Toledo,2005-09-27,4,@,Fresno State,L,6,44
+Cincinnati,2005-09-28,4,@,Miami (OH),L,5,44
+Miami (OH),2005-09-28,4,,Cincinnati,W,2,16
+Air Force,2005-09-29,5,@,Colorado State,L,6,41
+Colorado State,2005-09-29,4,,Air Force,W,2,23
+Pitt,2005-09-30,5,@,Rutgers,L,4,37
+Rutgers,2005-09-30,4,,Pittsburgh,W,4,29
+Akron,2005-10-01,4,,Central Michigan,L,4,31
+Alabama,2005-10-01,5,,Florida,W,0,3
+Arizona,2005-10-01,4,@,California,L,4,28
+Arizona State,2005-10-01,5,,Southern California,L,5,38
+Arkansas State,2005-10-01,5,@,Louisiana-Monroe,L,4,31
+Army,2005-10-01,4,,Connecticut,L,6,47
+Auburn,2005-10-01,5,,South Carolina,W,1,7
+Ball State,2005-10-01,4,@,Boston College,L,5,38
+Baylor,2005-10-01,4,@,Texas A&M,L,2,16
+Boise State,2005-10-01,4,@,Hawaii,W,5,41
+Boston College,2005-10-01,5,,Ball State,W,0,0
+Bowling Green State,2005-10-01,4,,Temple,W,1,7
+Brigham Young,2005-10-01,4,@,San Diego State,L,4,31
+Buffalo,2005-10-01,4,@,Western Michigan,L,4,31
+California,2005-10-01,5,,Arizona,W,0,0
+Central Michigan,2005-10-01,5,@,Akron,W,2,17
+Clemson,2005-10-01,5,@,Wake Forest,L,4,31
+Colorado,2005-10-01,4,@,Oklahoma State,W,0,0
+Connecticut,2005-10-01,4,@,Army,W,2,13
+Duke,2005-10-01,5,,Navy,L,4,28
+East Carolina,2005-10-01,4,,Southern Mississippi,L,3,33
+Eastern Michigan,2005-10-01,5,,Kent State,W,3,20
+Florida,2005-10-01,5,@,Alabama,L,4,31
+Florida Atlantic,2005-10-01,5,@,Louisville,L,8,61
+Florida International,2005-10-01,4,,Florida A&M,W,1,6
+Florida State,2005-10-01,4,,Syracuse,W,2,14
+Hawaii,2005-10-01,4,,Boise State,L,6,44
+Houston,2005-10-01,4,@,Tulsa,W,3,23
+Idaho,2005-10-01,5,,Utah State,W,2,13
+Illinois,2005-10-01,5,@,Iowa,L,5,35
+Indiana,2005-10-01,4,@,Wisconsin,L,5,41
+Iowa,2005-10-01,5,,Illinois,W,1,7
+Iowa State,2005-10-01,4,@,Nebraska,L,3,27
+Kansas,2005-10-01,4,@,Texas Tech,L,3,30
+Kansas State,2005-10-01,4,@,Oklahoma,L,5,43
+Kent State,2005-10-01,5,@,Eastern Michigan,L,3,27
+Louisiana,2005-10-01,4,,Central Florida,L,3,24
+Louisiana Tech,2005-10-01,3,,New Mexico State,W,2,14
+Louisiana-Monroe,2005-10-01,5,,Arkansas State,W,3,27
+Louisville,2005-10-01,4,,Florida Atlantic,W,1,10
+LSU,2005-10-01,3,@,Mississippi State,W,1,7
+Marshall,2005-10-01,4,,Southern Methodist,W,1,13
+Maryland,2005-10-01,5,,Virginia,W,3,33
+Memphis,2005-10-01,4,,Texas-El Paso,W,2,20
+Miami (FL),2005-10-01,4,,South Florida,W,1,7
+Michigan,2005-10-01,5,@,Michigan State,W,4,31
+Michigan State,2005-10-01,5,,Michigan,L,4,34
+Middle Tennessee State,2005-10-01,4,@,Vanderbilt,W,1,15
+Minnesota,2005-10-01,5,@,Penn State,L,5,44
+Mississippi State,2005-10-01,5,,Louisiana State,L,5,37
+Missouri,2005-10-01,4,,Texas,L,7,51
+Navy,2005-10-01,3,@,Duke,W,2,21
+Nebraska,2005-10-01,4,,Iowa State,W,2,20
+Nevada,2005-10-01,4,@,San Jose State,W,2,23
+New Mexico,2005-10-01,5,@,Texas Christian,L,7,49
+New Mexico State,2005-10-01,5,@,Louisiana Tech,L,4,34
+North Carolina,2005-10-01,4,,Utah,W,2,17
+Notre Dame,2005-10-01,5,@,Purdue,W,4,28
+Oklahoma,2005-10-01,4,,Kansas State,W,3,21
+Oklahoma State,2005-10-01,4,,Colorado,L,4,34
+Ole Miss,2005-10-01,4,@,Tennessee,L,3,27
+Oregon,2005-10-01,5,@,Stanford,W,2,20
+Oregon State,2005-10-01,5,,Washington State,W,4,33
+Penn State,2005-10-01,5,,Minnesota,W,2,14
+Purdue,2005-10-01,4,,Notre Dame,L,7,49
+Rice,2005-10-01,3,@,Alabama-Birmingham,L,6,45
+San Diego State,2005-10-01,5,,Brigham Young,W,1,10
+San Jose State,2005-10-01,4,,Nevada,L,4,30
+SMU,2005-10-01,5,@,Marshall,L,2,16
+South Carolina,2005-10-01,5,@,Auburn,L,6,48
+South Florida,2005-10-01,5,@,Miami (FL),L,3,27
+Southern Mississippi,2005-10-01,3,@,East Carolina,W,1,7
+Stanford,2005-10-01,3,,Oregon,L,6,44
+Syracuse,2005-10-01,4,@,Florida State,L,5,38
+Temple,2005-10-01,5,@,Bowling Green State,L,10,70
+Tennessee,2005-10-01,4,,Mississippi,W,1,10
+Texas,2005-10-01,4,@,Missouri,W,3,20
+Texas A&M,2005-10-01,4,,Baylor,W,1,13
+Texas Christian,2005-10-01,5,,New Mexico,W,4,28
+Texas Tech,2005-10-01,4,,Kansas,W,2,17
+Tulane,2005-10-01,3,N,Southeastern Louisiana,W,3,21
+Tulsa,2005-10-01,5,,Houston,L,4,30
+UAB,2005-10-01,4,,Rice,W,3,26
+UCF,2005-10-01,4,@,Louisiana,W,3,21
+UCLA,2005-10-01,4,,Washington,W,2,17
+UNLV,2005-10-01,5,@,Wyoming,L,6,42
+USC,2005-10-01,4,@,Arizona State,W,4,28
+Utah,2005-10-01,5,@,North Carolina,L,4,31
+Utah State,2005-10-01,3,@,Idaho,L,3,27
+UTEP,2005-10-01,4,@,Memphis,L,3,27
+Vanderbilt,2005-10-01,5,,Middle Tennessee State,L,2,17
+Virginia,2005-10-01,4,@,Maryland,L,6,45
+Virginia Tech,2005-10-01,5,@,West Virginia,W,2,17
+Wake Forest,2005-10-01,5,,Clemson,W,3,27
+Washington,2005-10-01,5,@,UCLA,L,3,21
+Washington State,2005-10-01,4,@,Oregon State,L,5,44
+West Virginia,2005-10-01,5,,Virginia Tech,L,4,34
+Western Michigan,2005-10-01,5,,Buffalo,W,3,21
+Wisconsin,2005-10-01,5,,Indiana,W,3,24
+Wyoming,2005-10-01,5,,Nevada-Las Vegas,W,2,17
+North Texas,2005-10-04,4,,Troy,L,1,13
+Troy,2005-10-04,5,@,North Texas,W,1,10
+Miami (OH),2005-10-05,5,@,Northern Illinois,L,5,38
+Northern Illinois,2005-10-05,5,,Miami (OH),W,3,27
+Florida Atlantic,2005-10-06,6,@,Louisiana,W,1,10
+Georgia Tech,2005-10-06,5,,North Carolina State,L,2,17
+Louisiana,2005-10-06,5,,Florida Atlantic,L,4,28
+North Carolina State,2005-10-06,4,@,Georgia Tech,W,2,14
+Connecticut,2005-10-07,5,,Syracuse,W,1,7
+Syracuse,2005-10-07,5,@,Connecticut,L,3,26
+Air Force,2005-10-08,6,@,Navy,L,3,27
+Akron,2005-10-08,5,@,Buffalo,W,1,7
+Arizona,2005-10-08,5,@,Southern California,L,6,42
+Arizona State,2005-10-08,6,,Oregon,L,3,31
+Arkansas,2005-10-08,5,,Louisiana-Monroe,W,2,15
+Army,2005-10-08,5,,Central Michigan,L,2,14
+Ball State,2005-10-08,5,@,Western Michigan,W,8,57
+Baylor,2005-10-08,5,@,Iowa State,W,1,13
+Boise State,2005-10-08,5,,Portland State,W,2,14
+Boston College,2005-10-08,6,,Virginia,W,2,17
+Bowling Green State,2005-10-08,5,,Ohio,W,2,14
+Brigham Young,2005-10-08,5,@,New Mexico,W,3,24
+Buffalo,2005-10-08,5,,Akron,L,1,13
+California,2005-10-08,6,@,UCLA,L,7,47
+Central Michigan,2005-10-08,6,@,Army,W,1,10
+Cincinnati,2005-10-08,5,@,Pittsburgh,L,4,38
+Colorado,2005-10-08,5,,Texas A&M,W,2,20
+Colorado State,2005-10-08,5,,Utah,W,2,17
+Duke,2005-10-08,6,@,Miami (FL),L,7,52
+East Carolina,2005-10-08,5,,Rice,W,4,28
+Eastern Michigan,2005-10-08,6,@,Toledo,L,3,30
+Florida,2005-10-08,6,,Mississippi State,W,1,9
+Florida State,2005-10-08,5,,Wake Forest,W,3,24
+Fresno State,2005-10-08,4,@,New Mexico State,W,1,7
+Georgia,2005-10-08,5,@,Tennessee,W,2,14
+Hawaii,2005-10-08,5,@,Louisiana Tech,L,6,46
+Houston,2005-10-08,5,N,Tulane,W,2,14
+Idaho,2005-10-08,6,@,Nevada,L,9,62
+Illinois,2005-10-08,6,@,Indiana,L,5,36
+Indiana,2005-10-08,5,,Illinois,W,1,13
+Iowa,2005-10-08,6,@,Purdue,W,2,17
+Iowa State,2005-10-08,5,,Baylor,L,2,23
+Kansas,2005-10-08,5,@,Kansas State,L,1,12
+Kansas State,2005-10-08,5,,Kansas,W,0,3
+Kentucky,2005-10-08,5,@,South Carolina,L,6,44
+Louisiana Tech,2005-10-08,4,,Hawaii,W,2,14
+Louisiana-Monroe,2005-10-08,6,@,Arkansas,L,6,44
+Louisville,2005-10-08,5,,North Carolina,W,2,14
+LSU,2005-10-08,4,@,Vanderbilt,W,0,6
+Marshall,2005-10-08,5,@,Virginia Tech,L,5,41
+Maryland,2005-10-08,6,@,Temple,W,1,7
+Memphis,2005-10-08,5,@,Central Florida,L,5,38
+Miami (FL),2005-10-08,5,,Duke,W,1,7
+Michigan,2005-10-08,6,,Minnesota,L,2,23
+Minnesota,2005-10-08,6,@,Michigan,W,2,20
+Mississippi State,2005-10-08,6,@,Florida,L,4,35
+Missouri,2005-10-08,5,@,Oklahoma State,W,3,31
+Navy,2005-10-08,4,,Air Force,W,3,24
+Nebraska,2005-10-08,5,,Texas Tech,L,4,34
+Nevada,2005-10-08,5,,Idaho,W,2,14
+New Mexico,2005-10-08,6,,Brigham Young,L,4,27
+New Mexico State,2005-10-08,6,,Fresno State,L,4,37
+North Carolina,2005-10-08,5,@,Louisville,L,9,69
+Northwestern,2005-10-08,5,,Wisconsin,W,6,48
+Ohio,2005-10-08,5,@,Bowling Green State,L,5,38
+Ohio State,2005-10-08,5,@,Penn State,L,2,17
+Oklahoma,2005-10-08,5,N,Texas,L,6,45
+Oklahoma State,2005-10-08,5,,Missouri,L,5,38
+Ole Miss,2005-10-08,5,,Citadel,W,1,7
+Oregon,2005-10-08,6,@,Arizona State,W,2,17
+Penn State,2005-10-08,6,,Ohio State,W,1,10
+Pitt,2005-10-08,6,,Cincinnati,W,3,20
+Purdue,2005-10-08,5,,Iowa,L,3,34
+Rice,2005-10-08,4,@,East Carolina,L,5,41
+Rutgers,2005-10-08,5,,West Virginia,L,3,27
+San Diego State,2005-10-08,6,@,Nevada-Las Vegas,L,1,13
+San Jose State,2005-10-08,5,@,Utah State,L,3,24
+SMU,2005-10-08,6,@,Alabama-Birmingham,W,3,27
+South Carolina,2005-10-08,6,,Kentucky,W,2,16
+Southern Mississippi,2005-10-08,4,,Tulsa,L,4,34
+Stanford,2005-10-08,4,@,Washington State,W,3,21
+Temple,2005-10-08,6,,Maryland,L,5,38
+Tennessee,2005-10-08,5,,Georgia,L,3,27
+Texas,2005-10-08,5,N,Oklahoma,W,1,12
+Texas A&M,2005-10-08,5,@,Colorado,L,5,41
+Texas Christian,2005-10-08,6,@,Wyoming,W,2,14
+Texas Tech,2005-10-08,5,@,Nebraska,W,4,31
+Toledo,2005-10-08,5,,Eastern Michigan,W,0,3
+Tulane,2005-10-08,4,N,Houston,L,5,35
+Tulsa,2005-10-08,6,@,Southern Mississippi,W,2,17
+UAB,2005-10-08,5,,Southern Methodist,L,3,28
+UCF,2005-10-08,5,,Memphis,W,2,17
+UCLA,2005-10-08,5,,California,W,4,40
+UNLV,2005-10-08,6,,San Diego State,W,1,10
+USC,2005-10-08,5,,Arizona,W,3,21
+Utah,2005-10-08,6,@,Colorado State,L,3,21
+Utah State,2005-10-08,4,,San Jose State,W,2,17
+Vanderbilt,2005-10-08,6,,Louisiana State,L,4,34
+Virginia,2005-10-08,5,@,Boston College,L,4,28
+Virginia Tech,2005-10-08,6,,Marshall,W,2,14
+Wake Forest,2005-10-08,6,@,Florida State,L,5,41
+Washington State,2005-10-08,5,,Stanford,L,3,24
+West Virginia,2005-10-08,6,@,Rutgers,W,2,14
+Western Michigan,2005-10-08,6,,Ball State,L,8,60
+Wisconsin,2005-10-08,6,@,Northwestern,L,7,51
+Wyoming,2005-10-08,6,,Texas Christian,L,3,28
+Arkansas State,2005-10-13,6,,Louisiana,W,5,36
+Clemson,2005-10-13,6,@,North Carolina State,W,1,10
+Louisiana,2005-10-13,6,@,Arkansas State,L,5,39
+North Carolina State,2005-10-13,5,,Clemson,L,4,31
+Tulane,2005-10-14,5,,Texas-El Paso,L,6,45
+UTEP,2005-10-14,5,@,Tulane,W,3,21
+Air Force,2005-10-15,7,,Nevada-Las Vegas,W,1,7
+Akron,2005-10-15,6,@,Miami (OH),L,7,51
+Alabama,2005-10-15,6,@,Mississippi,W,1,10
+Arizona,2005-10-15,6,,Stanford,L,2,20
+Arkansas,2005-10-15,6,,Auburn,L,4,34
+Army,2005-10-15,6,@,Texas Christian,L,5,38
+Auburn,2005-10-15,6,@,Arkansas,W,2,17
+Ball State,2005-10-15,6,,Toledo,L,5,34
+Baylor,2005-10-15,6,,Nebraska,L,2,23
+Boise State,2005-10-15,6,,San Jose State,W,3,21
+Boston College,2005-10-15,7,,Wake Forest,W,3,30
+Bowling Green State,2005-10-15,6,@,Buffalo,W,1,7
+Brigham Young,2005-10-15,6,,Colorado State,W,2,14
+Buffalo,2005-10-15,6,,Bowling Green State,L,4,27
+California,2005-10-15,7,,Oregon State,L,2,23
+Central Michigan,2005-10-15,7,,Ohio,W,1,10
+Cincinnati,2005-10-15,6,,Connecticut,W,2,17
+Colorado,2005-10-15,6,@,Texas,L,6,42
+Colorado State,2005-10-15,6,@,Brigham Young,L,3,24
+Connecticut,2005-10-15,6,@,Cincinnati,L,4,28
+Duke,2005-10-15,7,,Georgia Tech,L,5,35
+East Carolina,2005-10-15,6,@,Southern Methodist,W,2,17
+Eastern Michigan,2005-10-15,7,@,Northern Illinois,L,3,24
+Florida,2005-10-15,7,@,Louisiana State,L,3,21
+Florida Atlantic,2005-10-15,7,,Middle Tennessee State,L,5,35
+Florida International,2005-10-15,5,,North Texas,L,1,13
+Florida State,2005-10-15,6,@,Virginia,L,2,26
+Fresno State,2005-10-15,5,,Utah State,W,3,21
+Georgia,2005-10-15,6,@,Vanderbilt,W,2,17
+Georgia Tech,2005-10-15,6,@,Duke,W,1,10
+Hawaii,2005-10-15,6,,New Mexico State,W,4,28
+Houston,2005-10-15,6,,Memphis,L,5,35
+Indiana,2005-10-15,6,@,Iowa,L,5,38
+Iowa,2005-10-15,7,,Indiana,W,3,21
+Iowa State,2005-10-15,6,@,Missouri,L,3,27
+Kansas,2005-10-15,6,,Oklahoma,L,2,19
+Kansas State,2005-10-15,6,@,Texas Tech,L,8,59
+Kent State,2005-10-15,6,@,Navy,L,4,34
+Louisiana Tech,2005-10-15,5,@,Nevada,L,4,37
+Louisiana-Monroe,2005-10-15,7,,Troy,W,0,3
+Louisville,2005-10-15,6,@,West Virginia,L,6,46
+LSU,2005-10-15,5,,Florida,W,2,17
+Marshall,2005-10-15,6,,Alabama-Birmingham,W,2,19
+Memphis,2005-10-15,6,@,Houston,W,2,20
+Miami (FL),2005-10-15,6,@,Temple,W,0,3
+Miami (OH),2005-10-15,6,,Akron,W,3,23
+Michigan,2005-10-15,7,,Penn State,W,3,25
+Michigan State,2005-10-15,6,@,Ohio State,L,5,35
+Middle Tennessee State,2005-10-15,5,@,Florida Atlantic,W,2,14
+Minnesota,2005-10-15,7,,Wisconsin,L,5,38
+Missouri,2005-10-15,6,,Iowa State,W,3,24
+Navy,2005-10-15,5,,Kent State,W,4,31
+Nebraska,2005-10-15,6,@,Baylor,W,2,14
+Nevada,2005-10-15,6,,Louisiana Tech,W,4,27
+New Mexico,2005-10-15,7,@,Wyoming,W,3,24
+New Mexico State,2005-10-15,7,@,Hawaii,L,7,49
+North Texas,2005-10-15,5,@,Florida International,W,1,10
+Northern Illinois,2005-10-15,6,,Eastern Michigan,W,0,8
+Northwestern,2005-10-15,6,@,Purdue,W,4,29
+Notre Dame,2005-10-15,6,,Southern California,L,5,34
+Ohio,2005-10-15,6,@,Central Michigan,L,5,37
+Ohio State,2005-10-15,6,,Michigan State,W,3,24
+Oklahoma,2005-10-15,6,@,Kansas,W,0,3
+Oklahoma State,2005-10-15,6,@,Texas A&M,L,8,62
+Ole Miss,2005-10-15,6,,Alabama,L,1,13
+Oregon,2005-10-15,7,,Washington,W,3,21
+Oregon State,2005-10-15,6,@,California,W,3,20
+Penn State,2005-10-15,7,@,Michigan,L,3,27
+Pitt,2005-10-15,7,,South Florida,W,2,17
+Purdue,2005-10-15,6,,Northwestern,L,5,34
+Rice,2005-10-15,5,,Tulsa,L,6,41
+Rutgers,2005-10-15,6,@,Syracuse,W,0,9
+San Diego State,2005-10-15,7,@,Utah,W,2,19
+San Jose State,2005-10-15,6,@,Boise State,L,5,38
+SMU,2005-10-15,7,,East Carolina,L,3,24
+South Florida,2005-10-15,6,@,Pittsburgh,L,4,31
+Southern Mississippi,2005-10-15,5,,Central Florida,W,4,31
+Stanford,2005-10-15,5,@,Arizona,W,2,16
+Syracuse,2005-10-15,6,,Rutgers,L,4,31
+Temple,2005-10-15,7,,Miami (FL),L,5,34
+Texas,2005-10-15,6,,Colorado,W,2,17
+Texas A&M,2005-10-15,6,,Oklahoma State,W,3,23
+Texas Christian,2005-10-15,7,,Army,W,2,17
+Texas Tech,2005-10-15,6,,Kansas State,W,2,20
+Toledo,2005-10-15,6,@,Ball State,W,2,14
+Troy,2005-10-15,6,@,Louisiana-Monroe,L,3,27
+Tulsa,2005-10-15,7,@,Rice,W,3,21
+UAB,2005-10-15,6,@,Marshall,L,3,20
+UCF,2005-10-15,6,@,Southern Mississippi,L,6,52
+UCLA,2005-10-15,6,@,Washington State,W,5,41
+UNLV,2005-10-15,7,@,Air Force,L,6,42
+USC,2005-10-15,6,@,Notre Dame,W,4,31
+Utah,2005-10-15,7,,San Diego State,L,4,28
+Utah State,2005-10-15,5,@,Fresno State,L,6,53
+Vanderbilt,2005-10-15,7,,Georgia,L,4,34
+Virginia,2005-10-15,6,,Florida State,W,2,21
+Wake Forest,2005-10-15,7,@,Boston College,L,5,35
+Washington,2005-10-15,6,@,Oregon,L,6,45
+Washington State,2005-10-15,6,,UCLA,L,6,44
+West Virginia,2005-10-15,7,,Louisville,W,6,44
+Wisconsin,2005-10-15,7,@,Minnesota,W,4,34
+Wyoming,2005-10-15,7,,New Mexico,L,3,27
+Florida International,2005-10-20,6,@,Troy,L,1,18
+Maryland,2005-10-20,7,,Virginia Tech,L,4,28
+Troy,2005-10-20,7,,Florida International,W,1,13
+Virginia Tech,2005-10-20,7,@,Maryland,W,1,9
+Southern Mississippi,2005-10-21,6,@,Alabama-Birmingham,W,4,28
+Tulane,2005-10-21,6,@,Central Florida,L,4,34
+UAB,2005-10-21,7,,Southern Mississippi,L,4,37
+UCF,2005-10-21,7,,Tulane,W,3,24
+Air Force,2005-10-22,8,,Texas Christian,L,7,48
+Akron,2005-10-22,7,,Army,L,2,20
+Alabama,2005-10-22,7,,Tennessee,W,0,3
+Arizona,2005-10-22,7,,Oregon,L,4,28
+Arizona State,2005-10-22,7,@,Stanford,L,6,45
+Arkansas,2005-10-22,7,@,Georgia,L,2,23
+Arkansas State,2005-10-22,7,,Florida Atlantic,W,0,0
+Army,2005-10-22,7,@,Akron,W,0,0
+Auburn,2005-10-22,7,@,Louisiana State,L,2,20
+Ball State,2005-10-22,7,@,Ohio,L,5,38
+Baylor,2005-10-22,7,@,Oklahoma,L,4,37
+Boise State,2005-10-22,7,@,Utah State,W,3,21
+Bowling Green State,2005-10-22,7,,Western Michigan,L,6,45
+Brigham Young,2005-10-22,7,@,Notre Dame,L,7,49
+Buffalo,2005-10-22,7,@,Toledo,L,5,38
+California,2005-10-22,8,,Washington State,W,5,38
+Cincinnati,2005-10-22,7,,Louisville,L,7,46
+Clemson,2005-10-22,7,,Temple,W,1,7
+Colorado,2005-10-22,7,,Kansas,W,1,13
+Colorado State,2005-10-22,7,,Wyoming,W,4,31
+Connecticut,2005-10-22,7,,Rutgers,L,3,26
+Duke,2005-10-22,8,,Florida State,L,7,55
+East Carolina,2005-10-22,7,@,Memphis,L,3,27
+Eastern Michigan,2005-10-22,8,,Miami (OH),L,3,24
+Florida Atlantic,2005-10-22,8,@,Arkansas State,L,0,3
+Florida State,2005-10-22,7,@,Duke,W,3,24
+Fresno State,2005-10-22,6,@,Idaho,W,1,10
+Georgia,2005-10-22,7,,Arkansas,W,2,20
+Hawaii,2005-10-22,7,@,San Jose State,W,5,38
+Houston,2005-10-22,7,@,Mississippi State,W,1,16
+Idaho,2005-10-22,7,,Fresno State,L,5,40
+Illinois,2005-10-22,7,,Penn State,L,9,63
+Indiana,2005-10-22,7,,Ohio State,L,5,41
+Iowa,2005-10-22,8,,Michigan,L,3,23
+Iowa State,2005-10-22,7,,Oklahoma State,W,1,10
+Kansas,2005-10-22,7,@,Colorado,L,6,44
+Kansas State,2005-10-22,7,,Texas A&M,L,4,30
+Kent State,2005-10-22,7,,Northern Illinois,L,5,34
+Kentucky,2005-10-22,6,@,Mississippi,L,1,13
+Louisiana,2005-10-22,7,@,Middle Tennessee State,W,1,10
+Louisiana Tech,2005-10-22,6,,North Texas,W,2,14
+Louisville,2005-10-22,7,@,Cincinnati,W,3,22
+LSU,2005-10-22,6,,Auburn,W,2,17
+Marshall,2005-10-22,7,@,Texas-El Paso,L,4,31
+Memphis,2005-10-22,7,,East Carolina,W,3,24
+Miami (OH),2005-10-22,7,@,Eastern Michigan,W,3,23
+Michigan,2005-10-22,8,@,Iowa,W,2,20
+Michigan State,2005-10-22,7,,Northwestern,L,7,49
+Middle Tennessee State,2005-10-22,6,,Louisiana,L,2,13
+Mississippi State,2005-10-22,7,,Houston,L,4,28
+Missouri,2005-10-22,7,,Nebraska,W,3,24
+Navy,2005-10-22,6,@,Rice,W,1,9
+Nebraska,2005-10-22,7,@,Missouri,L,5,41
+New Mexico,2005-10-22,8,@,San Diego State,W,3,24
+North Carolina,2005-10-22,6,,Virginia,W,0,5
+North Carolina State,2005-10-22,6,@,Wake Forest,L,3,27
+North Texas,2005-10-22,6,@,Louisiana Tech,L,4,40
+Northern Illinois,2005-10-22,7,@,Kent State,W,0,3
+Northwestern,2005-10-22,7,@,Michigan State,W,2,14
+Notre Dame,2005-10-22,7,,Brigham Young,W,3,23
+Ohio,2005-10-22,7,,Ball State,W,3,21
+Ohio State,2005-10-22,7,@,Indiana,W,1,10
+Oklahoma,2005-10-22,7,,Baylor,W,4,30
+Oklahoma State,2005-10-22,7,@,Iowa State,L,4,37
+Ole Miss,2005-10-22,7,,Kentucky,W,1,7
+Oregon,2005-10-22,8,@,Arizona,W,3,21
+Oregon State,2005-10-22,7,@,UCLA,L,6,51
+Penn State,2005-10-22,8,@,Illinois,W,1,10
+Pitt,2005-10-22,8,,Syracuse,W,2,17
+Purdue,2005-10-22,7,@,Wisconsin,L,4,31
+Rice,2005-10-22,6,,Navy,L,5,41
+Rutgers,2005-10-22,7,@,Connecticut,W,3,24
+San Diego State,2005-10-22,8,,New Mexico,L,6,47
+San Jose State,2005-10-22,7,,Hawaii,L,6,45
+SMU,2005-10-22,8,@,Tulsa,L,2,20
+South Carolina,2005-10-22,7,,Vanderbilt,W,4,28
+Stanford,2005-10-22,6,,Arizona State,W,5,35
+Syracuse,2005-10-22,7,@,Pittsburgh,L,4,34
+Temple,2005-10-22,8,@,Clemson,L,4,37
+Tennessee,2005-10-22,6,@,Alabama,L,0,6
+Texas,2005-10-22,7,,Texas Tech,W,2,17
+Texas A&M,2005-10-22,7,@,Kansas State,W,4,28
+Texas Christian,2005-10-22,8,@,Air Force,W,1,10
+Texas Tech,2005-10-22,7,@,Texas,L,7,52
+Toledo,2005-10-22,7,,Buffalo,W,1,15
+Tulsa,2005-10-22,8,,Southern Methodist,W,1,13
+UCLA,2005-10-22,7,,Oregon State,W,4,28
+UNLV,2005-10-22,8,,Utah,L,6,42
+USC,2005-10-22,7,@,Washington,W,3,24
+Utah,2005-10-22,8,@,Nevada-Las Vegas,W,4,32
+Utah State,2005-10-22,6,,Boise State,L,6,45
+UTEP,2005-10-22,6,,Marshall,W,0,3
+Vanderbilt,2005-10-22,8,@,South Carolina,L,5,35
+Virginia,2005-10-22,7,@,North Carolina,L,1,7
+Wake Forest,2005-10-22,8,,North Carolina State,W,2,19
+Washington,2005-10-22,7,,Southern California,L,7,51
+Washington State,2005-10-22,7,@,California,L,6,42
+Western Michigan,2005-10-22,7,@,Bowling Green State,W,2,14
+Wisconsin,2005-10-22,8,,Purdue,W,2,20
+Wyoming,2005-10-22,8,@,Colorado State,L,5,39
+Boston College,2005-10-27,8,@,Virginia Tech,L,3,30
+Virginia Tech,2005-10-27,8,,Boston College,W,1,10
+Colorado State,2005-10-28,8,@,New Mexico,W,3,25
+New Mexico,2005-10-28,9,,Colorado State,L,3,35
+Air Force,2005-10-29,9,@,Brigham Young,L,8,62
+Akron,2005-10-29,8,@,Bowling Green State,W,2,14
+Alabama,2005-10-29,8,,Utah State,W,0,3
+Arizona,2005-10-29,8,@,Oregon State,W,3,27
+Arizona State,2005-10-29,8,,Washington,W,2,20
+Auburn,2005-10-29,8,,Mississippi,W,0,3
+Ball State,2005-10-29,8,@,Northern Illinois,W,2,17
+Baylor,2005-10-29,8,,Texas Tech,L,3,28
+Boise State,2005-10-29,8,,Nevada,W,2,14
+Bowling Green State,2005-10-29,8,,Akron,L,3,24
+Brigham Young,2005-10-29,8,,Air Force,W,6,41
+Buffalo,2005-10-29,8,,Ohio,L,5,34
+Central Michigan,2005-10-29,8,,Toledo,W,2,17
+Cincinnati,2005-10-29,8,@,Syracuse,W,2,16
+Clemson,2005-10-29,8,@,Georgia Tech,L,1,10
+Colorado,2005-10-29,8,@,Kansas State,W,2,20
+Duke,2005-10-29,9,,Wake Forest,L,5,44
+East Carolina,2005-10-29,8,,Central Florida,L,4,30
+Florida,2005-10-29,8,N,Georgia,W,1,10
+Florida State,2005-10-29,8,,Maryland,W,3,27
+Fresno State,2005-10-29,7,@,Hawaii,W,1,13
+Georgia,2005-10-29,8,N,Florida,L,2,14
+Georgia Tech,2005-10-29,7,,Clemson,W,0,9
+Hawaii,2005-10-29,8,,Fresno State,L,4,27
+Idaho,2005-10-29,8,@,New Mexico State,W,5,37
+Illinois,2005-10-29,8,,Wisconsin,L,6,41
+Indiana,2005-10-29,8,@,Michigan State,L,6,46
+Iowa State,2005-10-29,8,@,Texas A&M,W,2,14
+Kansas,2005-10-29,8,,Missouri,W,0,3
+Kansas State,2005-10-29,8,,Colorado,L,2,23
+Kent State,2005-10-29,8,@,Western Michigan,L,6,44
+Kentucky,2005-10-29,7,,Mississippi State,W,1,7
+Louisiana,2005-10-29,8,,Troy,W,4,28
+Louisiana Tech,2005-10-29,7,,San Jose State,W,2,14
+LSU,2005-10-29,7,,North Texas,W,0,3
+Marshall,2005-10-29,8,@,Tulane,W,4,26
+Maryland,2005-10-29,8,@,Florida State,L,5,35
+Miami (FL),2005-10-29,7,,North Carolina,W,2,16
+Miami (OH),2005-10-29,8,@,Temple,W,2,14
+Michigan,2005-10-29,9,@,Northwestern,W,2,17
+Michigan State,2005-10-29,8,,Indiana,W,2,15
+Minnesota,2005-10-29,8,,Ohio State,L,6,45
+Mississippi State,2005-10-29,8,@,Kentucky,L,1,13
+Missouri,2005-10-29,8,@,Kansas,L,2,13
+Navy,2005-10-29,7,@,Rutgers,L,4,31
+Nebraska,2005-10-29,8,,Oklahoma,L,4,31
+Nevada,2005-10-29,7,@,Boise State,L,7,49
+New Mexico State,2005-10-29,8,,Idaho,L,4,38
+North Carolina,2005-10-29,7,@,Miami (FL),L,5,34
+North Carolina State,2005-10-29,7,,Southern Mississippi,W,2,17
+North Texas,2005-10-29,7,@,Louisiana State,L,8,56
+Northern Illinois,2005-10-29,8,,Ball State,L,4,31
+Northwestern,2005-10-29,8,,Michigan,L,3,33
+Ohio,2005-10-29,8,@,Buffalo,W,3,20
+Ohio State,2005-10-29,8,@,Minnesota,W,4,31
+Oklahoma,2005-10-29,8,@,Nebraska,W,3,24
+Oklahoma State,2005-10-29,8,,Texas,L,6,47
+Ole Miss,2005-10-29,8,@,Auburn,L,3,27
+Oregon State,2005-10-29,8,,Arizona,L,4,29
+Penn State,2005-10-29,9,,Purdue,W,2,15
+Purdue,2005-10-29,8,@,Penn State,L,3,33
+Rice,2005-10-29,7,,Texas-El Paso,L,5,38
+Rutgers,2005-10-29,8,,Navy,W,3,21
+San Diego State,2005-10-29,9,,Texas Christian,L,3,23
+San Jose State,2005-10-29,8,@,Louisiana Tech,L,4,31
+South Carolina,2005-10-29,8,@,Tennessee,W,1,15
+Southern Mississippi,2005-10-29,7,@,North Carolina State,L,3,21
+Stanford,2005-10-29,7,,UCLA,L,4,30
+Syracuse,2005-10-29,8,,Cincinnati,L,3,22
+Temple,2005-10-29,9,,Miami (OH),L,5,41
+Tennessee,2005-10-29,7,,South Carolina,L,2,16
+Texas,2005-10-29,8,@,Oklahoma State,W,4,28
+Texas A&M,2005-10-29,8,,Iowa State,L,6,42
+Texas Christian,2005-10-29,9,@,San Diego State,W,2,20
+Texas Tech,2005-10-29,8,@,Baylor,W,0,0
+Toledo,2005-10-29,8,@,Central Michigan,L,3,21
+Troy,2005-10-29,8,@,Louisiana,L,4,31
+Tulane,2005-10-29,7,,Marshall,L,4,27
+UCF,2005-10-29,8,@,East Carolina,W,2,20
+UCLA,2005-10-29,8,@,Stanford,W,3,27
+USC,2005-10-29,8,,Washington State,W,2,13
+Utah State,2005-10-29,7,@,Alabama,L,5,35
+UTEP,2005-10-29,7,@,Rice,W,4,31
+Wake Forest,2005-10-29,9,@,Duke,W,1,6
+Washington,2005-10-29,8,@,Arizona State,L,6,44
+Washington State,2005-10-29,8,@,Southern California,L,7,55
+Western Michigan,2005-10-29,8,,Kent State,W,2,14
+Wisconsin,2005-10-29,9,@,Illinois,W,3,24
+Memphis,2005-11-01,8,,Alabama-Birmingham,L,4,37
+UAB,2005-11-01,8,@,Memphis,W,2,20
+Connecticut,2005-11-02,8,@,West Virginia,L,6,45
+West Virginia,2005-11-02,8,,Connecticut,W,1,13
+Louisville,2005-11-03,8,,Pittsburgh,W,2,20
+Pitt,2005-11-03,9,@,Louisville,L,4,42
+Ohio,2005-11-04,9,,Toledo,L,3,30
+Toledo,2005-11-04,9,@,Ohio,W,3,21
+Air Force,2005-11-05,10,,Army,L,3,27
+Akron,2005-11-05,9,@,Ball State,L,2,23
+Alabama,2005-11-05,9,@,Mississippi State,W,0,0
+Arizona,2005-11-05,9,,UCLA,W,2,14
+Arizona State,2005-11-05,9,@,Washington State,W,3,24
+Arkansas,2005-11-05,8,,South Carolina,L,2,14
+Arkansas State,2005-11-05,8,@,Middle Tennessee State,L,6,45
+Army,2005-11-05,8,@,Air Force,W,3,24
+Auburn,2005-11-05,9,@,Kentucky,W,3,27
+Ball State,2005-11-05,9,,Akron,W,2,17
+Baylor,2005-11-05,9,,Texas,L,9,62
+Boise State,2005-11-05,9,,New Mexico State,W,1,6
+Boston College,2005-11-05,9,@,North Carolina,L,1,16
+Bowling Green State,2005-11-05,9,@,Kent State,W,2,14
+Brigham Young,2005-11-05,9,@,Nevada-Las Vegas,W,2,14
+Buffalo,2005-11-05,9,@,Miami (OH),L,6,54
+California,2005-11-05,9,@,Oregon,L,3,27
+Central Michigan,2005-11-05,9,,Northern Illinois,L,4,31
+Clemson,2005-11-05,9,,Duke,W,2,20
+Colorado,2005-11-05,9,,Missouri,W,2,12
+Colorado State,2005-11-05,9,@,Texas Christian,L,4,33
+Duke,2005-11-05,10,@,Clemson,L,7,49
+Eastern Michigan,2005-11-05,9,,Western Michigan,L,6,44
+Florida,2005-11-05,9,,Vanderbilt,W,6,42
+Florida Atlantic,2005-11-05,9,@,Troy,L,4,28
+Florida International,2005-11-05,7,@,Louisiana-Monroe,W,4,29
+Florida State,2005-11-05,9,,North Carolina State,L,2,20
+Fresno State,2005-11-05,8,,San Jose State,W,1,7
+Georgia Tech,2005-11-05,8,,Wake Forest,W,2,17
+Hawaii,2005-11-05,9,@,Nevada,L,5,38
+Houston,2005-11-05,8,@,Central Florida,L,4,31
+Illinois,2005-11-05,9,@,Ohio State,L,5,40
+Indiana,2005-11-05,9,,Minnesota,L,6,42
+Iowa,2005-11-05,9,@,Northwestern,L,4,28
+Iowa State,2005-11-05,9,,Kansas State,W,2,17
+Kansas,2005-11-05,9,,Nebraska,W,2,15
+Kansas State,2005-11-05,9,@,Iowa State,L,6,45
+Kent State,2005-11-05,9,,Bowling Green State,L,3,24
+Kentucky,2005-11-05,8,,Auburn,L,7,49
+Louisiana,2005-11-05,9,@,North Texas,W,4,28
+Louisiana Tech,2005-11-05,8,@,Utah State,W,2,17
+Louisiana-Monroe,2005-11-05,8,,Florida International,L,4,31
+LSU,2005-11-05,8,,Appalachian State,W,0,0
+Miami (FL),2005-11-05,8,@,Virginia Tech,W,1,7
+Miami (OH),2005-11-05,9,,Buffalo,W,2,13
+Michigan State,2005-11-05,9,@,Purdue,L,4,28
+Middle Tennessee State,2005-11-05,7,,Arkansas State,W,1,7
+Minnesota,2005-11-05,9,@,Indiana,W,3,21
+Mississippi State,2005-11-05,9,,Alabama,L,2,17
+Missouri,2005-11-05,9,@,Colorado,L,5,41
+Navy,2005-11-05,8,,Tulane,W,3,21
+Nebraska,2005-11-05,9,@,Kansas,L,5,40
+Nevada,2005-11-05,8,,Hawaii,W,4,28
+New Mexico State,2005-11-05,9,@,Boise State,L,8,56
+North Carolina,2005-11-05,8,,Boston College,W,2,14
+North Carolina State,2005-11-05,8,@,Florida State,W,1,15
+North Texas,2005-11-05,8,,Louisiana,L,4,31
+Northern Illinois,2005-11-05,9,@,Central Michigan,W,4,28
+Northwestern,2005-11-05,9,,Iowa,W,3,27
+Notre Dame,2005-11-05,8,,Tennessee,W,2,21
+Ohio State,2005-11-05,9,,Illinois,W,0,2
+Oregon,2005-11-05,9,,California,W,2,20
+Oregon State,2005-11-05,9,@,Washington,W,1,10
+Penn State,2005-11-05,10,,Wisconsin,W,2,14
+Purdue,2005-11-05,9,,Michigan State,W,3,21
+Rice,2005-11-05,8,@,Southern Methodist,L,3,27
+Rutgers,2005-11-05,9,,South Florida,L,6,45
+San Jose State,2005-11-05,9,@,Fresno State,L,6,45
+SMU,2005-11-05,9,,Rice,W,1,7
+South Carolina,2005-11-05,9,@,Arkansas,W,1,10
+South Florida,2005-11-05,7,@,Rutgers,W,4,31
+Stanford,2005-11-05,8,@,Southern California,L,7,51
+Temple,2005-11-05,10,@,Virginia,L,6,51
+Tennessee,2005-11-05,8,@,Notre Dame,L,5,41
+Texas,2005-11-05,9,@,Baylor,W,0,0
+Texas A&M,2005-11-05,9,@,Texas Tech,L,8,56
+Texas Christian,2005-11-05,10,,Colorado State,W,0,6
+Texas Tech,2005-11-05,9,,Texas A&M,W,2,17
+Troy,2005-11-05,9,,Florida Atlantic,W,2,14
+Tulane,2005-11-05,8,@,Navy,L,7,49
+Tulsa,2005-11-05,9,@,Texas-El Paso,L,5,41
+UCF,2005-11-05,9,,Houston,W,4,29
+UCLA,2005-11-05,9,@,Arizona,L,7,52
+UNLV,2005-11-05,9,,Brigham Young,L,7,55
+USC,2005-11-05,9,,Stanford,W,3,21
+Utah,2005-11-05,9,,Wyoming,W,1,13
+Utah State,2005-11-05,8,,Louisiana Tech,L,3,27
+UTEP,2005-11-05,8,,Tulsa,W,5,38
+Vanderbilt,2005-11-05,9,@,Florida,L,7,49
+Virginia,2005-11-05,8,,Temple,W,0,3
+Virginia Tech,2005-11-05,9,,Miami (FL),L,3,27
+Wake Forest,2005-11-05,10,@,Georgia Tech,L,3,30
+Washington,2005-11-05,9,,Oregon State,L,0,18
+Washington State,2005-11-05,9,,Arizona State,L,3,27
+Western Michigan,2005-11-05,9,@,Eastern Michigan,W,5,36
+Wisconsin,2005-11-05,10,@,Penn State,L,5,35
+Wyoming,2005-11-05,9,@,Utah,L,5,43
+Marshall,2005-11-08,9,,Southern Mississippi,L,3,27
+Southern Mississippi,2005-11-08,8,@,Marshall,W,3,24
+Cincinnati,2005-11-09,9,,West Virginia,L,5,38
+West Virginia,2005-11-09,9,@,Cincinnati,W,0,0
+Boise State,2005-11-10,10,@,Fresno State,L,3,27
+Fresno State,2005-11-10,9,,Boise State,W,1,7
+Louisville,2005-11-11,9,,Rutgers,W,0,5
+Rutgers,2005-11-11,10,@,Louisville,L,8,56
+Alabama,2005-11-12,10,,Louisiana State,L,2,16
+Arizona,2005-11-12,10,,Washington,L,5,38
+Arizona State,2005-11-12,10,@,UCLA,L,6,45
+Arkansas,2005-11-12,9,@,Mississippi,W,2,17
+Arkansas State,2005-11-12,9,,Troy,W,0,3
+Army,2005-11-12,9,,Massachusetts,W,3,27
+Auburn,2005-11-12,10,@,Georgia,W,3,30
+Ball State,2005-11-12,10,@,Eastern Michigan,W,2,25
+Baylor,2005-11-12,10,@,Missouri,L,4,31
+Boston College,2005-11-12,10,,North Carolina State,W,1,10
+Brigham Young,2005-11-12,10,@,Wyoming,W,3,21
+Buffalo,2005-11-12,10,@,Kent State,W,0,6
+California,2005-11-12,10,,Southern California,L,5,35
+Central Michigan,2005-11-12,10,@,Western Michigan,L,4,31
+Clemson,2005-11-12,10,,Florida State,W,1,14
+Colorado,2005-11-12,10,@,Iowa State,L,3,30
+Colorado State,2005-11-12,10,,San Diego State,L,3,30
+Connecticut,2005-11-12,9,@,Pittsburgh,L,3,24
+East Carolina,2005-11-12,9,@,Tulsa,L,6,45
+Eastern Michigan,2005-11-12,10,,Ball State,L,4,26
+Florida,2005-11-12,10,@,South Carolina,L,4,30
+Florida Atlantic,2005-11-12,10,,North Texas,W,3,23
+Florida International,2005-11-12,8,@,Louisiana,L,4,28
+Florida State,2005-11-12,10,@,Clemson,L,5,35
+Georgia,2005-11-12,9,,Auburn,L,4,31
+Georgia Tech,2005-11-12,9,@,Virginia,L,3,27
+Hawaii,2005-11-12,10,,Utah State,W,3,23
+Idaho,2005-11-12,9,,Louisiana Tech,L,5,41
+Illinois,2005-11-12,10,@,Purdue,L,5,37
+Indiana,2005-11-12,10,@,Michigan,L,6,41
+Iowa,2005-11-12,10,@,Wisconsin,W,1,10
+Iowa State,2005-11-12,10,,Colorado,W,1,16
+Kansas,2005-11-12,10,@,Texas,L,9,66
+Kansas State,2005-11-12,10,@,Nebraska,L,3,27
+Kent State,2005-11-12,10,,Buffalo,L,1,10
+Kentucky,2005-11-12,9,@,Vanderbilt,W,6,43
+Louisiana,2005-11-12,10,,Florida International,W,1,7
+Louisiana Tech,2005-11-12,9,@,Idaho,W,3,38
+Louisiana-Monroe,2005-11-12,9,@,Middle Tennessee State,W,4,31
+LSU,2005-11-12,9,@,Alabama,W,1,13
+Maryland,2005-11-12,9,@,North Carolina,W,3,30
+Memphis,2005-11-12,9,@,Tennessee,L,2,20
+Miami (FL),2005-11-12,9,@,Wake Forest,W,2,17
+Michigan,2005-11-12,10,,Indiana,W,2,14
+Michigan State,2005-11-12,10,@,Minnesota,L,6,41
+Middle Tennessee State,2005-11-12,8,,Louisiana-Monroe,L,4,34
+Minnesota,2005-11-12,10,,Michigan State,W,2,18
+Missouri,2005-11-12,10,,Baylor,W,2,16
+Navy,2005-11-12,9,@,Notre Dame,L,6,42
+Nebraska,2005-11-12,10,,Kansas State,W,3,25
+Nevada,2005-11-12,9,@,New Mexico State,W,3,24
+New Mexico,2005-11-12,10,@,Utah,W,4,27
+New Mexico State,2005-11-12,10,,Nevada,L,6,48
+North Carolina,2005-11-12,9,,Maryland,L,4,33
+North Carolina State,2005-11-12,9,@,Boston College,L,4,30
+North Texas,2005-11-12,9,@,Florida Atlantic,L,3,26
+Northwestern,2005-11-12,10,@,Ohio State,L,6,48
+Notre Dame,2005-11-12,9,,Navy,W,3,21
+Ohio State,2005-11-12,10,,Northwestern,W,1,7
+Oklahoma,2005-11-12,9,,Texas A&M,W,3,30
+Oklahoma State,2005-11-12,9,,Texas Tech,W,2,17
+Ole Miss,2005-11-12,9,,Arkansas,L,4,28
+Oregon,2005-11-12,10,@,Washington State,W,4,31
+Oregon State,2005-11-12,10,,Stanford,L,2,20
+Pitt,2005-11-12,10,,Connecticut,W,0,0
+Purdue,2005-11-12,10,,Illinois,W,0,3
+Rice,2005-11-12,9,,Tulane,W,4,34
+San Diego State,2005-11-12,10,@,Colorado State,W,1,10
+South Carolina,2005-11-12,10,,Florida,W,2,22
+South Florida,2005-11-12,8,@,Syracuse,W,0,0
+Stanford,2005-11-12,9,@,Oregon State,W,2,17
+Syracuse,2005-11-12,9,,South Florida,L,3,27
+Tennessee,2005-11-12,9,,Memphis,W,1,16
+Texas,2005-11-12,10,,Kansas,W,2,14
+Texas A&M,2005-11-12,10,@,Oklahoma,L,5,36
+Texas Christian,2005-11-12,11,,Nevada-Las Vegas,W,0,3
+Texas Tech,2005-11-12,10,@,Oklahoma State,L,3,24
+Troy,2005-11-12,10,@,Arkansas State,L,0,9
+Tulane,2005-11-12,9,@,Rice,L,6,42
+Tulsa,2005-11-12,10,,East Carolina,W,1,13
+UAB,2005-11-12,9,,Central Florida,L,2,27
+UCF,2005-11-12,10,@,Alabama-Birmingham,W,3,21
+UCLA,2005-11-12,10,,Arizona State,W,5,35
+UNLV,2005-11-12,10,@,Texas Christian,L,6,51
+USC,2005-11-12,10,@,California,W,1,10
+Utah,2005-11-12,10,,New Mexico,L,5,31
+Utah State,2005-11-12,9,@,Hawaii,L,6,50
+UTEP,2005-11-12,9,,Texas Southern,W,0,0
+Vanderbilt,2005-11-12,10,,Kentucky,L,6,48
+Virginia,2005-11-12,9,,Georgia Tech,W,2,17
+Wake Forest,2005-11-12,11,,Miami (FL),L,7,47
+Washington,2005-11-12,10,@,Arizona,W,2,14
+Washington State,2005-11-12,10,,Oregon,L,4,34
+Western Michigan,2005-11-12,10,,Central Michigan,W,3,24
+Wisconsin,2005-11-12,11,,Iowa,L,2,20
+Wyoming,2005-11-12,10,,Brigham Young,L,5,35
+Houston,2005-11-13,9,,Southern Mississippi,W,3,24
+Southern Mississippi,2005-11-13,9,@,Houston,L,3,27
+Akron,2005-11-15,10,,Ohio,W,0,3
+Bowling Green State,2005-11-15,10,@,Miami (OH),W,2,14
+Miami (OH),2005-11-15,10,,Bowling Green State,L,5,42
+Ohio,2005-11-15,10,@,Akron,L,3,27
+Northern Illinois,2005-11-16,10,@,Toledo,W,2,17
+Toledo,2005-11-16,10,,Northern Illinois,L,5,35
+Air Force,2005-11-19,11,@,New Mexico,W,3,24
+Alabama,2005-11-19,11,@,Auburn,L,4,28
+Arkansas,2005-11-19,10,,Mississippi State,W,1,10
+Arkansas State,2005-11-19,10,@,Army,L,5,38
+Army,2005-11-19,10,,Arkansas State,W,1,10
+Auburn,2005-11-19,11,,Alabama,W,2,18
+Ball State,2005-11-19,11,,Central Michigan,L,4,31
+Baylor,2005-11-19,11,,Oklahoma State,W,5,34
+Boise State,2005-11-19,11,,Idaho,W,5,35
+Boston College,2005-11-19,11,@,Maryland,W,2,16
+Brigham Young,2005-11-19,11,,Utah,L,5,41
+Buffalo,2005-11-19,11,,Eastern Michigan,L,5,38
+California,2005-11-19,11,@,Stanford,W,0,3
+Central Michigan,2005-11-19,11,@,Ball State,W,3,24
+Cincinnati,2005-11-19,10,@,South Florida,L,4,31
+Clemson,2005-11-19,11,@,South Carolina,W,0,9
+Colorado State,2005-11-19,11,@,Nevada-Las Vegas,W,3,27
+Duke,2005-11-19,11,@,North Carolina,L,3,24
+East Carolina,2005-11-19,10,@,Marshall,W,4,29
+Eastern Michigan,2005-11-19,11,@,Buffalo,W,2,14
+Florida International,2005-11-19,9,,Western Kentucky,W,5,35
+Fresno State,2005-11-19,10,@,Southern California,L,6,50
+Georgia,2005-11-19,10,,Kentucky,W,1,13
+Georgia Tech,2005-11-19,10,@,Miami (FL),W,1,10
+Houston,2005-11-19,10,,Southern Methodist,L,3,29
+Idaho,2005-11-19,10,@,Boise State,L,10,70
+Illinois,2005-11-19,11,,Northwestern,L,5,38
+Indiana,2005-11-19,11,,Purdue,L,5,41
+Iowa,2005-11-19,11,,Minnesota,W,4,28
+Kansas State,2005-11-19,11,,Missouri,W,4,28
+Kentucky,2005-11-19,10,@,Georgia,L,6,45
+Louisiana-Monroe,2005-11-19,10,@,North Texas,W,2,19
+LSU,2005-11-19,10,@,Mississippi,W,1,7
+Marshall,2005-11-19,10,,East Carolina,L,4,34
+Maryland,2005-11-19,10,,Boston College,L,4,31
+Memphis,2005-11-19,10,@,Southern Mississippi,W,3,22
+Miami (FL),2005-11-19,10,,Georgia Tech,L,2,14
+Michigan,2005-11-19,11,,Ohio State,L,3,25
+Michigan State,2005-11-19,11,,Penn State,L,4,31
+Middle Tennessee State,2005-11-19,9,@,North Carolina State,L,3,24
+Minnesota,2005-11-19,11,@,Iowa,L,7,52
+Mississippi State,2005-11-19,10,@,Arkansas,L,5,44
+Missouri,2005-11-19,11,@,Kansas State,L,5,36
+Navy,2005-11-19,10,,Temple,W,2,17
+Nevada,2005-11-19,10,@,Utah State,W,3,24
+New Mexico,2005-11-19,11,,Air Force,L,5,42
+New Mexico State,2005-11-19,11,@,San Jose State,L,3,27
+North Carolina,2005-11-19,10,,Duke,W,3,21
+North Carolina State,2005-11-19,10,,Middle Tennessee State,W,0,3
+North Texas,2005-11-19,10,,Louisiana-Monroe,L,3,24
+Northwestern,2005-11-19,11,@,Illinois,W,3,21
+Notre Dame,2005-11-19,10,,Syracuse,W,1,10
+Ohio State,2005-11-19,11,@,Michigan,W,2,21
+Oklahoma,2005-11-19,10,@,Texas Tech,L,3,23
+Oklahoma State,2005-11-19,10,@,Baylor,L,5,44
+Ole Miss,2005-11-19,10,,Louisiana State,L,5,40
+Oregon,2005-11-19,11,,Oregon State,W,2,14
+Oregon State,2005-11-19,11,@,Oregon,L,8,56
+Penn State,2005-11-19,11,@,Michigan State,W,3,22
+Purdue,2005-11-19,11,@,Indiana,W,2,14
+Rice,2005-11-19,10,,Central Florida,L,4,31
+San Diego State,2005-11-19,11,,Wyoming,W,3,21
+San Jose State,2005-11-19,10,,New Mexico State,W,1,10
+SMU,2005-11-19,10,@,Houston,W,3,24
+South Carolina,2005-11-19,11,,Clemson,L,1,13
+South Florida,2005-11-19,9,,Cincinnati,W,2,16
+Southern Mississippi,2005-11-19,10,,Memphis,L,3,24
+Stanford,2005-11-19,10,,California,L,4,27
+Syracuse,2005-11-19,10,@,Notre Dame,L,4,34
+Temple,2005-11-19,11,@,Navy,L,5,38
+Tennessee,2005-11-19,10,,Vanderbilt,L,4,28
+Texas Tech,2005-11-19,11,,Oklahoma,W,3,21
+Tulane,2005-11-19,10,,Tulsa,L,5,38
+Tulsa,2005-11-19,11,@,Tulane,W,2,14
+UAB,2005-11-19,10,@,Texas-El Paso,W,3,23
+UCF,2005-11-19,11,@,Rice,W,4,28
+UNLV,2005-11-19,11,,Colorado State,L,4,31
+USC,2005-11-19,11,,Fresno State,W,6,42
+Utah,2005-11-19,11,@,Brigham Young,W,4,34
+Utah State,2005-11-19,10,,Nevada,L,4,30
+UTEP,2005-11-19,10,,Alabama-Birmingham,L,5,35
+Vanderbilt,2005-11-19,11,@,Tennessee,W,3,24
+Virginia,2005-11-19,10,,Virginia Tech,L,7,52
+Virginia Tech,2005-11-19,10,@,Virginia,W,2,14
+Washington,2005-11-19,11,,Washington State,L,3,26
+Washington State,2005-11-19,11,@,Washington,W,3,22
+Wyoming,2005-11-19,11,@,San Diego State,L,4,34
+Miami (OH),2005-11-21,11,@,Ohio,W,1,7
+Ohio,2005-11-21,11,,Miami (OH),L,5,38
+Bowling Green State,2005-11-22,11,,Toledo,L,6,44
+Toledo,2005-11-22,11,@,Bowling Green State,W,5,41
+Northern Illinois,2005-11-23,11,,Western Michigan,W,1,7
+Western Michigan,2005-11-23,11,@,Northern Illinois,L,6,42
+Akron,2005-11-24,11,,Kent State,W,0,3
+Kent State,2005-11-24,11,@,Akron,L,5,35
+Pitt,2005-11-24,11,@,West Virginia,L,6,45
+West Virginia,2005-11-24,10,,Pittsburgh,W,2,13
+Arizona,2005-11-25,11,@,Arizona State,L,2,23
+Arizona State,2005-11-25,11,,Arizona,W,2,20
+Arkansas,2005-11-25,11,@,Louisiana State,L,2,19
+Colorado,2005-11-25,11,,Nebraska,L,3,30
+Hawaii,2005-11-25,11,,Wisconsin,L,5,41
+LSU,2005-11-25,11,,Arkansas,W,2,17
+Nebraska,2005-11-25,11,@,Colorado,W,0,3
+Texas,2005-11-25,11,@,Texas A&M,W,4,29
+Texas A&M,2005-11-25,11,,Texas,L,5,40
+Wisconsin,2005-11-25,12,@,Hawaii,W,3,24
+Arkansas State,2005-11-26,11,@,North Texas,W,3,24
+Boise State,2005-11-26,12,@,Louisiana Tech,W,1,13
+Cincinnati,2005-11-26,11,@,Rutgers,L,5,44
+Connecticut,2005-11-26,10,,South Florida,W,1,10
+East Carolina,2005-11-26,11,,Alabama-Birmingham,W,2,23
+Florida,2005-11-26,11,,Florida State,W,1,7
+Florida Atlantic,2005-11-26,11,@,Florida International,L,7,52
+Florida International,2005-11-26,10,,Florida Atlantic,W,1,6
+Florida State,2005-11-26,11,@,Florida,L,4,34
+Fresno State,2005-11-26,11,@,Nevada,L,5,38
+Georgia,2005-11-26,11,@,Georgia Tech,W,1,7
+Georgia Tech,2005-11-26,11,,Georgia,L,2,14
+Houston,2005-11-26,11,,Rice,W,2,18
+Idaho,2005-11-26,11,@,San Jose State,L,3,26
+Iowa State,2005-11-26,11,@,Kansas,L,2,24
+Kansas,2005-11-26,11,,Iowa State,W,3,21
+Kentucky,2005-11-26,11,,Tennessee,L,3,27
+Louisiana,2005-11-26,11,@,Louisiana-Monroe,W,3,21
+Louisiana Tech,2005-11-26,10,,Boise State,L,4,30
+Louisiana-Monroe,2005-11-26,11,,Louisiana,L,7,54
+Louisville,2005-11-26,10,,Syracuse,W,2,17
+Marshall,2005-11-26,11,@,Memphis,L,2,26
+Maryland,2005-11-26,11,@,North Carolina State,L,2,20
+Memphis,2005-11-26,11,,Marshall,W,0,3
+Miami (FL),2005-11-26,11,,Virginia,W,2,17
+Middle Tennessee State,2005-11-26,10,@,Troy,W,1,7
+Mississippi State,2005-11-26,11,,Mississippi,W,2,14
+Nevada,2005-11-26,11,,Fresno State,W,4,35
+New Mexico State,2005-11-26,12,,Utah State,L,3,24
+North Carolina,2005-11-26,11,@,Virginia Tech,L,4,30
+North Carolina State,2005-11-26,11,,Maryland,W,2,14
+North Texas,2005-11-26,11,,Arkansas State,L,4,31
+Notre Dame,2005-11-26,11,@,Stanford,W,4,31
+Oklahoma,2005-11-26,11,,Oklahoma State,W,2,14
+Oklahoma State,2005-11-26,11,@,Oklahoma,L,6,42
+Ole Miss,2005-11-26,11,@,Mississippi State,L,5,35
+Rice,2005-11-26,11,@,Houston,L,5,35
+Rutgers,2005-11-26,11,,Cincinnati,W,1,9
+San Jose State,2005-11-26,11,,Idaho,W,2,18
+SMU,2005-11-26,11,,Texas-El Paso,W,4,27
+South Florida,2005-11-26,10,@,Connecticut,L,2,15
+Southern Mississippi,2005-11-26,11,,Tulane,W,1,7
+Stanford,2005-11-26,11,,Notre Dame,L,5,38
+Syracuse,2005-11-26,11,@,Louisville,L,5,41
+Tennessee,2005-11-26,11,@,Kentucky,W,0,8
+Troy,2005-11-26,11,,Middle Tennessee State,L,2,17
+Tulane,2005-11-26,11,@,Southern Mississippi,L,2,26
+UAB,2005-11-26,11,@,East Carolina,L,4,31
+Utah State,2005-11-26,11,@,New Mexico State,W,3,21
+UTEP,2005-11-26,11,@,Southern Methodist,L,4,40
+Virginia,2005-11-26,11,@,Miami (FL),L,3,25
+Virginia Tech,2005-11-26,11,,North Carolina,W,0,3
+Akron,2005-12-01,12,N,Northern Illinois,W,3,30
+Northern Illinois,2005-12-01,12,N,Akron,L,4,31
+Fresno State,2005-12-02,12,,Louisiana Tech,L,5,40
+Louisiana Tech,2005-12-02,11,@,Fresno State,W,4,28
+Army,2005-12-03,11,N,Navy,L,6,42
+Colorado,2005-12-03,12,N,Texas,L,10,70
+Connecticut,2005-12-03,11,,Louisville,L,4,30
+Florida International,2005-12-03,11,,Middle Tennessee State,W,4,31
+Florida State,2005-12-03,12,N,Virginia Tech,W,3,22
+Georgia,2005-12-03,12,N,Louisiana State,W,2,14
+Hawaii,2005-12-03,12,,San Diego State,W,5,38
+Louisville,2005-12-03,11,@,Connecticut,W,3,20
+LSU,2005-12-03,12,N,Georgia,L,4,34
+Middle Tennessee State,2005-12-03,11,@,Florida International,L,5,35
+Navy,2005-12-03,11,N,Army,W,3,23
+San Diego State,2005-12-03,12,@,Hawaii,L,7,49
+South Florida,2005-12-03,11,,West Virginia,L,4,28
+Texas,2005-12-03,12,N,Colorado,W,0,3
+Tulsa,2005-12-03,12,@,Central Florida,W,3,27
+UCF,2005-12-03,12,,Tulsa,L,5,44
+UCLA,2005-12-03,11,@,Southern California,L,9,66
+USC,2005-12-03,12,,UCLA,W,2,19
+Virginia Tech,2005-12-03,12,N,Florida State,L,3,27
+West Virginia,2005-12-03,11,@,South Florida,W,1,13
+Arkansas State,2005-12-20,12,N,Southern Mississippi,L,4,31
+Southern Mississippi,2005-12-20,12,N,Arkansas State,W,2,19
+Toledo,2005-12-21,12,N,Texas-El Paso,W,1,13
+UTEP,2005-12-21,12,N,Toledo,L,6,45
+Brigham Young,2005-12-22,12,N,California,L,5,35
+California,2005-12-22,12,N,Brigham Young,W,4,28
+Colorado State,2005-12-22,12,N,Navy,L,7,51
+Navy,2005-12-22,12,N,Colorado State,W,4,30
+Houston,2005-12-23,12,N,Kansas,L,6,42
+Kansas,2005-12-23,12,N,Houston,W,1,13
+Nevada,2005-12-24,12,N,Central Florida,W,6,48
+UCF,2005-12-24,13,N,Nevada,L,7,49
+Akron,2005-12-26,13,N,Memphis,L,4,38
+Memphis,2005-12-26,12,N,Akron,W,4,31
+Arizona State,2005-12-27,12,,Rutgers,W,4,40
+Clemson,2005-12-27,12,N,Colorado,W,1,10
+Colorado,2005-12-27,13,N,Clemson,L,2,19
+Rutgers,2005-12-27,12,@,Arizona State,L,6,45
+Boise State,2005-12-28,13,,Boston College,L,3,27
+Boston College,2005-12-28,12,@,Boise State,W,3,21
+Michigan,2005-12-28,12,N,Nebraska,L,4,32
+Nebraska,2005-12-28,12,N,Michigan,W,4,28
+Georgia Tech,2005-12-29,12,N,Utah,L,5,38
+Oklahoma,2005-12-29,12,N,Oregon,W,2,14
+Oregon,2005-12-29,12,N,Oklahoma,L,2,17
+Utah,2005-12-29,12,N,Georgia Tech,W,1,10
+LSU,2005-12-30,13,N,Miami (FL),W,0,3
+Miami (FL),2005-12-30,12,N,Louisiana State,L,4,40
+Minnesota,2005-12-30,12,N,Virginia,L,4,34
+Missouri,2005-12-30,12,N,South Carolina,W,4,31
+Northwestern,2005-12-30,12,N,UCLA,L,7,50
+South Carolina,2005-12-30,12,N,Missouri,L,5,38
+UCLA,2005-12-30,12,N,Northwestern,W,5,38
+Virginia,2005-12-30,12,N,Minnesota,W,4,31
+Fresno State,2005-12-31,13,N,Tulsa,L,4,31
+Iowa State,2005-12-31,12,N,Texas Christian,L,3,27
+North Carolina State,2005-12-31,12,N,South Florida,W,0,0
+South Florida,2005-12-31,12,N,North Carolina State,L,2,14
+Texas Christian,2005-12-31,12,N,Iowa State,W,3,24
+Tulsa,2005-12-31,13,N,Fresno State,W,3,24
+Alabama,2006-01-02,12,N,Texas Tech,W,1,10
+Auburn,2006-01-02,12,N,Wisconsin,L,3,24
+Florida,2006-01-02,12,N,Iowa,W,3,24
+Georgia,2006-01-02,13,N,West Virginia,L,5,38
+Iowa,2006-01-02,12,N,Florida,L,4,31
+Louisville,2006-01-02,12,N,Virginia Tech,L,4,35
+Notre Dame,2006-01-02,12,N,Ohio State,L,4,34
+Ohio State,2006-01-02,12,N,Notre Dame,W,3,20
+Texas Tech,2006-01-02,12,N,Alabama,L,1,13
+Virginia Tech,2006-01-02,13,N,Louisville,W,3,24
+West Virginia,2006-01-02,12,N,Georgia,W,5,35
+Wisconsin,2006-01-02,13,N,Auburn,W,1,10
+Florida State,2006-01-03,13,N,Penn State,L,3,26
+Penn State,2006-01-03,12,N,Florida State,W,3,23
+Texas,2006-01-04,13,@,Southern California,W,5,38
+USC,2006-01-04,13,,Texas,L,5,41

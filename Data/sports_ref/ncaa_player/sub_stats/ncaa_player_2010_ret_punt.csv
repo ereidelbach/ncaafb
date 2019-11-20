@@ -1,0 +1,1443 @@
+Player,Date,G,School,Loc,Opponent,WL,Punt Ret,Punt Ret Yds,Punt Ret Avg,Punt Ret TD,unique_id
+Dri Archer,2010-09-02,1,Kent State,,Murray State,W,3,25,8.3,0,dri-archer-1
+Travis Benjamin,2010-09-02,1,Miami (FL),,Florida A&M,W,2,17,8.5,0,travis-benjamin-1
+Brandon Bing,2010-09-02,1,Rutgers,,Norfolk State,W,1,28,28.0,0,brandon-bing-1
+Corey Brown,2010-09-02,1,Ohio State,,Marshall,W,1,11,11.0,0,corey-brown-2
+Kevin Bush,2010-09-02,1,Indiana,,Towson,W,1,13,13.0,0,kevin-bush-1
+Brandon Green,2010-09-02,1,Minnesota,@,Middle Tennessee State,W,2,18,9.0,0,brandon-green-1
+Jordan Hall,2010-09-02,1,Ohio State,,Marshall,W,3,19,6.3,0,jordan-hall-1
+Avery Holley,2010-09-02,1,Florida Atlantic,@,Alabama-Birmingham,W,1,1,1.0,0,avery-holley-1
+Terrell Jackson,2010-09-02,1,Buffalo,,Rhode Island,W,3,43,14.3,0,terrell-jackson-3
+Eugene Jarvis,2010-09-02,1,Kent State,,Murray State,W,5,46,9.2,0,eugene-jarvis-1
+Ronald Johnson,2010-09-02,1,Southern California,@,Hawaii,W,3,100,33.3,1,ronald-johnson-2
+Jermaine Kelson,2010-09-02,1,Marshall,@,Ohio State,L,1,2,2.0,0,jermaine-kelson-1
+Shiloh Keo,2010-09-02,1,Idaho,,North Dakota,W,2,9,4.5,0,shiloh-keo-1
+Tracy Lampley,2010-09-02,1,Southern Mississippi,@,South Carolina,L,1,13,13.0,0,tracy-lampley-1
+Josh Lenz,2010-09-02,1,Iowa State,,Northern Illinois,W,1,11,11.0,0,josh-lenz-1
+Francisco Llanos,2010-09-02,1,Southern Mississippi,@,South Carolina,L,1,17,17.0,0,francisco-llanos-1
+Rishard Matthews,2010-09-02,1,Nevada,,Eastern Washington,W,3,33,11.0,0,rishard-matthews-1
+Lamar Miller,2010-09-02,1,Miami (FL),,Florida A&M,W,1,15,15.0,0,lamar-miller-1
+Briggs Orsbon,2010-09-02,1,Ball State,,Southeast Missouri State,W,1,0,0.0,0,briggs-orsbon-1
+Antwuan Reed,2010-09-02,1,Pittsburgh,@,Utah,L,1,18,18.0,0,antwuan-reed-1
+Mason Robinson,2010-09-02,1,Rutgers,,Norfolk State,W,2,29,14.5,0,mason-robinson-1
+Casey Robottom,2010-09-02,1,Tulane,,Southeastern Louisiana,W,3,20,6.7,0,casey-robottom-1
+Pat Shed,2010-09-02,1,Alabama-Birmingham,,Florida Atlantic,L,5,27,5.4,0,pat-shed-1
+Jamill Smith,2010-09-02,1,Ball State,,Southeast Missouri State,W,1,10,10.0,0,jamill-smith-1
+Shaky Smithson,2010-09-02,1,Utah,,Pittsburgh,W,1,-2,-2.0,0,shaky-smithson-1
+Cody Wilson,2010-09-02,1,Central Michigan,,Hampton,W,2,28,14.0,0,cody-wilson-1
+Ryan Alderman,2010-09-03,1,Temple,,Villanova,W,1,28,28.0,0,ryan-alderman-1
+Delano Green,2010-09-03,1,Temple,,Villanova,W,2,6,3.0,0,delano-green-1
+Eric Page,2010-09-03,1,Toledo,,Arizona,L,3,-10,-3.3,0,eric-page-1
+William Wright,2010-09-03,1,Arizona,@,Toledo,W,3,47,15.7,0,william-wright-1
+Joe Adams,2010-09-04,1,Arkansas,,Tennessee Tech,W,1,7,7.0,0,joe-adams-1
+Armando Allen,2010-09-04,1,Notre Dame,,Purdue,W,1,38,38.0,0,armando-allen-1
+Braxton Amy,2010-09-04,1,Texas-El Paso,,Arkansas-Pine Bluff,W,4,36,9.0,0,braxton-amy-1
+Derrall Anderson,2010-09-04,1,Arizona State,,Portland State,W,1,5,5.0,0,derrall-anderson-1
+Doug Baldwin,2010-09-04,1,Stanford,,Sacramento State,W,1,8,8.0,0,doug-baldwin-1
+Kenjon Barner,2010-09-04,1,Oregon,,New Mexico,W,1,9,9.0,0,kenjon-barner-1
+Doug Beaumont,2010-09-04,1,Louisville,,Kentucky,L,1,28,28.0,0,doug-beaumont-1
+Leon Brooks,2010-09-04,1,Washington State,@,Oklahoma State,L,1,14,14.0,0,leon-brooks-1
+Curtis Brown,2010-09-04,1,Texas,@,Rice,W,1,17,17.0,0,curtis-brown-2
+Justin Brown,2010-09-04,1,Penn State,,Youngstown State,W,2,4,2.0,0,justin-brown-1
+Krys Buerck,2010-09-04,1,Baylor,,Sam Houston State,W,3,41,13.7,0,krys-buerck-1
+Chad Bumphis,2010-09-04,1,Mississippi State,,Memphis,W,4,49,12.3,0,chad-bumphis-1
+Justin Byers,2010-09-04,1,North Carolina State,,Western Carolina,W,1,9,9.0,0,justin-byers-1
+Quindarius Carr,2010-09-04,1,Auburn,,Arkansas State,W,5,47,9.4,0,quindarius-carr-1
+Travis Carrie,2010-09-04,1,Ohio,,Wofford,W,1,13,13.0,0,travis-carrie-1
+O'Neill Chambers,2010-09-04,1,Brigham Young,,Washington,W,2,26,13.0,0,oneill-chambers-1
+Randall Cobb,2010-09-04,1,Kentucky,@,Louisville,W,1,-8,-8.0,0,randall-cobb-1
+Eugene Cooper,2010-09-04,1,Bowling Green State,@,Troy,L,2,72,36.0,1,eugene-cooper-1
+Josh Cooper,2010-09-04,1,Oklahoma State,,Washington State,W,2,5,2.5,0,josh-cooper-2
+Jon Davis,2010-09-04,1,Air Force,,Northwestern State,W,1,0,0.0,0,jon-davis-2
+Mark Dell,2010-09-04,1,Michigan State,,Western Michigan,W,1,8,8.0,0,mark-dell-1
+Patrick Edwards,2010-09-04,1,Houston,,Texas State,W,2,52,26.0,0,patrick-edwards-1
+Matt Elam,2010-09-04,1,Florida,,Miami (OH),W,1,0,0.0,0,matt-elam-1
+Taylor Embree,2010-09-04,1,UCLA,@,Kansas State,L,2,14,7.0,0,taylor-embree-1
+Rashad Evans,2010-09-04,1,Fresno State,,Cincinnati,W,2,6,3.0,0,rashad-evans-1
+Jarred Fayson,2010-09-04,1,Illinois,N,Missouri,L,1,6,6.0,0,jarred-fayson-1
+Chris Fox,2010-09-04,1,Boston College,,Weber State,W,1,7,7.0,0,chris-fox-1
+Dwayne Frampton,2010-09-04,1,Arkansas State,@,Auburn,L,1,7,7.0,0,dwayne-frampton-1
+Jeremy Gallon,2010-09-04,1,Michigan,,Connecticut,W,1,7,7.0,0,jeremy-gallon-1
+Deleon Gause,2010-09-04,1,Boston College,,Weber State,W,2,3,1.5,0,deleon-gause-1
+Carl Gettis,2010-09-04,1,Missouri,N,Illinois,W,3,20,6.7,0,carl-gettis-1
+Justin Gilbert,2010-09-04,1,Oklahoma State,,Washington State,W,2,-10,-5.0,0,justin-gilbert-1
+Marcus Gilchrist,2010-09-04,1,Clemson,,North Texas,W,2,41,20.5,0,marcus-gilchrist-1
+David Gilreath,2010-09-04,1,Wisconsin,@,Nevada-Las Vegas,W,1,2,2.0,0,david-gilreath-1
+Jesse Grandy,2010-09-04,1,Mississippi,,Jacksonville State,L,1,0,0.0,0,jesse-grandy-1
+A.J. Guyton,2010-09-04,1,Central Florida,,South Dakota,W,3,34,11.3,0,aj-guyton-1
+Darius Hanks,2010-09-04,1,Alabama,,San Jose State,W,1,1,1.0,0,darius-hanks-1
+Cliff Harris,2010-09-04,1,Oregon,,New Mexico,W,2,125,62.5,2,cliff-harris-1
+Royce Hill,2010-09-04,1,North Texas,@,Clemson,L,2,3,1.5,0,royce-hill-1
+Sidney Hodge,2010-09-04,1,Nevada-Las Vegas,,Wisconsin,L,1,-2,-2.0,0,sidney-hodge-1
+Brandon Hogan,2010-09-04,1,West Virginia,,Coastal Carolina,W,2,10,5.0,0,brandon-hogan-1
+Mike Holmes,2010-09-04,1,Syracuse,@,Akron,W,1,2,2.0,0,mike-holmes-1
+Faron Hornes,2010-09-04,1,South Florida,,Stony Brook,W,1,14,14.0,0,faron-hornes-1
+Jaquez Jenkins,2010-09-04,1,South Florida,,Stony Brook,W,1,12,12.0,0,jaquez-jenkins-1
+Jerrel Jernigan,2010-09-04,1,Troy,,Bowling Green State,W,3,34,11.3,0,jerrel-jernigan-1
+Curtis Johnson,2010-09-04,1,Memphis,@,Mississippi State,L,1,1,1.0,0,curtis-johnson-1
+Gerald Jones,2010-09-04,1,Tennessee,,Tennessee-Martin,W,2,-8,-4.0,0,gerald-jones-2
+Julio Jones,2010-09-04,1,Alabama,,San Jose State,W,1,0,0.0,0,julio-jones-1
+Jeremy Kerley,2010-09-04,1,Texas Christian,,Oregon State,W,3,42,14.0,0,jeremy-kerley-1
+Phillip Livas,2010-09-04,1,Louisiana Tech,,Grambling State,W,1,5,5.0,0,phillip-livas-1
+Keshawn Martin,2010-09-04,1,Michigan State,,Western Michigan,W,2,5,2.5,0,keshawn-martin-1
+Marquis Maze,2010-09-04,1,Alabama,,San Jose State,W,1,8,8.0,0,marquis-maze-1
+Leon McFadden,2010-09-04,1,San Diego State,,Nicholls State,W,3,33,11.0,0,leon-mcfadden-1
+Daniel McKayhan,2010-09-04,1,Georgia Tech,,South Carolina State,W,1,11,11.0,0,daniel-mckayhan-1
+Kenric McNeal,2010-09-04,1,Texas A&M,,Stephen F. Austin,W,5,41,8.2,0,kenric-mcneal-1
+Willie McNeal,2010-09-04,1,Western Kentucky,@,Nebraska,L,2,10,5.0,0,willie-mcneal-1
+Jamal Miles,2010-09-04,1,Arizona State,,Portland State,W,1,10,10.0,0,jamal-miles-1
+Chase Minnifield,2010-09-04,1,Virginia,,Richmond,W,1,2,2.0,0,chase-minnifield-1
+Paki O'Meara,2010-09-04,1,Iowa,,Eastern Illinois,W,1,42,42.0,1,paki-omeara-1
+Larry Parker,2010-09-04,1,San Diego State,,Nicholls State,W,2,14,7.0,0,larry-parker-1
+Daymond Patterson,2010-09-04,1,Kansas,,North Dakota State,L,5,8,1.6,0,daymond-patterson-1
+Travon Patterson,2010-09-04,1,Colorado,N,Colorado State,W,4,46,11.5,0,travon-patterson-2
+Niles Paul,2010-09-04,1,Nebraska,,Western Kentucky,W,3,58,19.3,0,niles-paul-1
+Patrick Peterson,2010-09-04,1,Louisiana State,N,North Carolina,W,4,157,39.3,1,patrick-peterson-1
+Chris Rainey,2010-09-04,1,Florida,,Miami (OH),W,1,15,15.0,0,chris-rainey-1
+Jack Ramsey,2010-09-04,1,Illinois,N,Missouri,L,1,3,3.0,0,jack-ramsey-1
+Rueben Randle,2010-09-04,1,Louisiana State,N,North Carolina,W,1,6,6.0,0,rueben-randle-1
+Greg Reid,2010-09-04,1,Florida State,,Samford,W,1,74,74.0,1,greg-reid-1
+James Rodgers,2010-09-04,1,Oregon State,@,Texas Christian,L,2,13,6.5,0,james-rodgers-1
+Jeremy Ross,2010-09-04,1,California,,California-Davis,W,3,55,18.3,0,jeremy-ross-1
+Jarred Salubi,2010-09-04,1,Baylor,,Sam Houston State,W,1,-14,-14.0,0,jarred-salubi-1
+Colin Sandeman,2010-09-04,1,Iowa,,Eastern Illinois,W,2,17,8.5,0,colin-sandeman-1
+Johnny Sitton,2010-09-04,1,South Florida,,Stony Brook,W,1,30,30.0,0,johnny-sitton-1
+Branden Smith,2010-09-04,1,Georgia,,Louisiana,W,3,51,17.0,0,branden-smith-1
+Devon Smith,2010-09-04,1,Penn State,,Youngstown State,W,1,20,20.0,0,devon-smith-1
+Zac Stacy,2010-09-04,1,Vanderbilt,,Northwestern,L,1,-1,-1.0,0,zac-stacy-1
+James Thomas,2010-09-04,1,Oklahoma State,,Washington State,W,1,17,17.0,0,james-thomas-2
+Momo Thomas,2010-09-04,1,Colorado State,N,Colorado,L,5,38,7.6,0,momo-thomas-1
+Chris Thompson,2010-09-04,1,Florida State,,Samford,W,1,4,4.0,0,chris-thompson-1
+Tramaine Thompson,2010-09-04,1,Kansas State,,UCLA,W,3,38,12.7,0,tramaine-thompson-1
+Jordan White,2010-09-04,1,Western Michigan,@,Michigan State,L,5,30,6.0,0,jordan-white-1
+Aaron Williams,2010-09-04,1,Texas,@,Rice,W,3,25,8.3,0,aaron-williams-2
+D.J. Woods,2010-09-04,1,Cincinnati,@,Fresno State,L,1,0,0.0,0,dj-woods-1
+Anthony Wright,2010-09-04,1,Air Force,,Northwestern State,W,5,74,14.8,0,anthony-wright-3
+Kenneth Acker,2010-09-05,1,Southern Methodist,@,Texas Tech,L,2,10,5.0,0,kenneth-acker-1
+Dwayne Harris,2010-09-05,1,East Carolina,,Tulsa,W,2,7,3.5,0,dwayne-harris-1
+Damaris Johnson,2010-09-05,1,Tulsa,@,East Carolina,L,3,41,13.7,0,damaris-johnson-1
+Detron Lewis,2010-09-05,1,Texas Tech,,Southern Methodist,W,2,12,6.0,0,detron-lewis-1
+Mitch Burroughs,2010-09-06,1,Boise State,@,Virginia Tech,W,3,40,13.3,0,mitch-burroughs-1
+Jayron Hosley,2010-09-06,1,Virginia Tech,,Boise State,L,1,0,0.0,0,jayron-hosley-1
+Tony Logan,2010-09-06,1,Maryland,N,Navy,W,1,57,57.0,0,tony-logan-1
+Gary Myers,2010-09-06,1,Navy,N,Maryland,L,2,13,6.5,0,gary-myers-1
+Austin Pettis,2010-09-06,1,Boise State,@,Virginia Tech,W,1,4,4.0,0,austin-pettis-1
+Chad Bumphis,2010-09-09,2,Mississippi State,,Auburn,L,1,4,4.0,0,chad-bumphis-1
+Quindarius Carr,2010-09-09,2,Auburn,@,Mississippi State,W,2,11,5.5,0,quindarius-carr-1
+Delano Green,2010-09-09,2,Temple,,Central Michigan,W,2,22,11.0,0,delano-green-1
+Cody Wilson,2010-09-09,2,Central Michigan,@,Temple,L,1,10,10.0,0,cody-wilson-1
+Patrick Edwards,2010-09-10,2,Houston,,Texas-El Paso,W,2,17,8.5,0,patrick-edwards-1
+Troy Evans,2010-09-10,2,Marshall,,West Virginia,L,1,8,8.0,0,troy-evans-2
+Joe Adams,2010-09-11,2,Arkansas,,Louisiana-Monroe,W,5,82,16.4,0,joe-adams-1
+Devin Aguilar,2010-09-11,2,Washington,,Syracuse,W,1,0,0.0,0,devin-aguilar-1
+Armando Allen,2010-09-11,2,Notre Dame,,Michigan,L,1,9,9.0,0,armando-allen-1
+Dri Archer,2010-09-11,2,Kent State,@,Boston College,L,2,-13,-6.5,0,dri-archer-1
+Nate Askew,2010-09-11,2,Texas A&M,,Louisiana Tech,W,1,23,23.0,0,nate-askew-1
+Doug Baldwin,2010-09-11,2,Stanford,@,UCLA,W,2,2,1.0,0,doug-baldwin-1
+Kenjon Barner,2010-09-11,2,Oregon,@,Tennessee,W,2,84,42.0,1,kenjon-barner-1
+Hunter Bates,2010-09-11,2,Northwestern,,Illinois State,W,2,7,3.5,0,hunter-bates-1
+Doug Beaumont,2010-09-11,2,Louisville,,Eastern Kentucky,W,1,1,1.0,0,doug-beaumont-1
+Josh Bellamy,2010-09-11,2,Louisville,,Eastern Kentucky,W,1,9,9.0,0,josh-bellamy-1
+Julian Bellinger,2010-09-11,2,Toledo,@,Ohio,W,1,0,0.0,0,julian-bellinger-1
+Travis Benjamin,2010-09-11,2,Miami (FL),@,Ohio State,L,1,79,79.0,1,travis-benjamin-1
+Lavon Brazill,2010-09-11,2,Ohio,,Toledo,L,1,0,0.0,0,lavon-brazill-1
+Curtis Brown,2010-09-11,2,Texas,,Wyoming,W,2,35,17.5,0,curtis-brown-2
+Devon Brown,2010-09-11,2,Wake Forest,,Duke,W,2,53,26.5,0,devon-brown-1
+Kourtnei Brown,2010-09-11,2,Clemson,,Presbyterian,W,1,9,9.0,0,kourtnei-brown-1
+Ryan Broyles,2010-09-11,2,Oklahoma,,Florida State,W,3,27,9.0,0,ryan-broyles-1
+Jonathan Brydon,2010-09-11,2,Texas Tech,@,New Mexico,W,1,15,15.0,0,jonathan-brydon-1
+Lee Butler,2010-09-11,2,Duke,@,Wake Forest,L,3,50,16.7,0,lee-butler-1
+Darius Carey,2010-09-11,2,North Texas,,Rice,L,1,-6,-6.0,0,darius-carey-1
+Travis Carrie,2010-09-11,2,Ohio,,Toledo,L,1,2,2.0,0,travis-carrie-1
+Nate Carter,2010-09-11,2,Nevada-Las Vegas,@,Utah,L,1,21,21.0,0,nate-carter-1
+Dareyon Chance,2010-09-11,2,Western Michigan,,Nicholls State,W,1,-11,-11.0,0,dareyon-chance-1
+Randall Cobb,2010-09-11,2,Kentucky,,Western Kentucky,W,4,52,13.0,1,randall-cobb-1
+Donyae Coleman,2010-09-11,1,New Mexico State,,San Diego State,L,3,11,3.7,0,donyae-coleman-1
+Eugene Cooper,2010-09-11,2,Bowling Green State,@,Tulsa,L,2,-1,-0.5,0,eugene-cooper-1
+Josh Cooper,2010-09-11,2,Oklahoma State,,Troy,W,1,66,66.0,1,josh-cooper-2
+Aaron Crawford,2010-09-11,2,Texas Tech,@,New Mexico,W,1,39,39.0,0,aaron-crawford-1
+Tommy Davis,2010-09-11,2,Northern Illinois,,North Dakota,W,2,4,2.0,0,tommy-davis-2
+Kip Edwards,2010-09-11,2,Missouri,,McNeese State,W,1,4,4.0,0,kip-edwards-1
+Taylor Embree,2010-09-11,2,UCLA,,Stanford,L,1,14,14.0,0,taylor-embree-1
+Andy Erickson,2010-09-11,2,Rice,@,North Texas,W,4,42,10.5,0,andy-erickson-1
+J.D. Falslev,2010-09-11,2,Brigham Young,@,Air Force,L,1,2,2.0,0,jd-falslev-1
+Dwayne Frampton,2010-09-11,2,Arkansas State,@,Louisiana,L,1,-4,-4.0,0,dwayne-frampton-1
+Jason Frierson,2010-09-11,1,Florida International,,Rutgers,L,1,16,16.0,0,jason-frierson-1
+Deleon Gause,2010-09-11,2,Boston College,,Kent State,W,4,18,4.5,0,deleon-gause-1
+Carl Gettis,2010-09-11,2,Missouri,,McNeese State,W,1,9,9.0,0,carl-gettis-1
+Justin Gilbert,2010-09-11,2,Oklahoma State,,Troy,W,1,50,50.0,0,justin-gilbert-1
+Marcus Gilchrist,2010-09-11,2,Clemson,,Presbyterian,W,2,54,27.0,0,marcus-gilchrist-1
+Stephon Gilmore,2010-09-11,2,South Carolina,,Georgia,W,3,24,8.0,0,stephon-gilmore-1
+David Gilreath,2010-09-11,2,Wisconsin,,San Jose State,W,2,5,2.5,0,david-gilreath-1
+Eric Gordon,2010-09-11,2,Tennessee,,Oregon,L,1,0,0.0,0,eric-gordon-2
+T.J. Graham,2010-09-11,2,North Carolina State,@,Central Florida,W,2,20,10.0,0,tj-graham-1
+Waynelle Gravesande,2010-09-11,2,Purdue,,Western Illinois,W,1,4,4.0,0,waynelle-gravesande-1
+Brandon Green,2010-09-11,2,Minnesota,,South Dakota,L,2,19,9.5,0,brandon-green-1
+Jordan Hall,2010-09-11,2,Ohio State,,Miami (FL),W,2,16,8.0,0,jordan-hall-1
+Dustin Harris,2010-09-11,2,Texas A&M,,Louisiana Tech,W,2,54,27.0,1,dustin-harris-1
+Nick Harwell,2010-09-11,2,Miami (OH),,Eastern Michigan,W,1,1,1.0,0,nick-harwell-1
+T.Y. Hilton,2010-09-11,1,Florida International,,Rutgers,L,1,14,14.0,0,ty-hilton-1
+Sidney Hodge,2010-09-11,2,Nevada-Las Vegas,@,Utah,L,1,0,0.0,0,sidney-hodge-1
+Mike Holmes,2010-09-11,2,Syracuse,@,Washington,L,4,56,14.0,0,mike-holmes-1
+Deandre Hopkins,2010-09-11,2,Clemson,,Presbyterian,W,1,2,2.0,0,deandre-hopkins-1
+Josh Jackson,2010-09-11,2,Army,,Hawaii,L,1,4,4.0,0,josh-jackson-1
+Terrell Jackson,2010-09-11,2,Buffalo,@,Baylor,L,1,22,22.0,0,terrell-jackson-3
+McKay Jacobson,2010-09-11,2,Brigham Young,@,Air Force,L,1,11,11.0,0,mckay-jacobson-1
+Janoris Jenkins,2010-09-11,2,Florida,,South Florida,W,1,30,30.0,0,janoris-jenkins-1
+Jerrel Jernigan,2010-09-11,2,Troy,@,Oklahoma State,L,1,11,11.0,0,jerrel-jernigan-1
+Curtis Johnson,2010-09-11,2,Memphis,@,East Carolina,L,2,9,4.5,0,curtis-johnson-1
+Damaris Johnson,2010-09-11,2,Tulsa,,Bowling Green State,W,2,28,14.0,0,damaris-johnson-1
+Darius Johnson,2010-09-11,2,Southern Methodist,,Alabama-Birmingham,W,1,2,2.0,0,darius-johnson-2
+Michael Johnson,2010-09-11,2,Nevada-Las Vegas,@,Utah,L,1,-1,-1.0,0,michael-johnson-8
+Ronald Johnson,2010-09-11,2,Southern California,,Virginia,W,3,15,5.0,0,ronald-johnson-2
+Travis Jones,2010-09-11,2,Florida Atlantic,@,Michigan State,L,1,6,6.0,0,travis-jones-2
+Jeremy Kerley,2010-09-11,2,Texas Christian,,Tennessee Tech,W,1,12,12.0,0,jeremy-kerley-1
+Jeremy Lafrance,2010-09-11,2,Akron,,Gardner-Webb,L,2,15,7.5,0,jeremy-lafrance-1
+Joe Lefeged,2010-09-11,2,Rutgers,@,Florida International,W,2,8,4.0,0,joe-lefeged-1
+Josh Lenz,2010-09-11,2,Iowa State,@,Iowa,L,2,13,6.5,0,josh-lenz-1
+Phillip Livas,2010-09-11,2,Louisiana Tech,@,Texas A&M,L,2,5,2.5,0,phillip-livas-1
+Francisco Llanos,2010-09-11,2,Southern Mississippi,,Prairie View A&M,W,5,33,6.6,0,francisco-llanos-1
+Tony Logan,2010-09-11,2,Maryland,,Morgan State,W,4,128,32.0,0,tony-logan-1
+Venric Mark,2010-09-11,2,Northwestern,,Illinois State,W,1,7,7.0,0,venric-mark-1
+Keshawn Martin,2010-09-11,2,Michigan State,,Florida Atlantic,W,3,62,20.7,0,keshawn-martin-1
+Bryce McNeal,2010-09-11,2,Clemson,,Presbyterian,W,1,0,0.0,0,bryce-mcneal-1
+Jamal Miles,2010-09-11,2,Arizona State,,Northern Arizona,W,5,105,21.0,0,jamal-miles-1
+Chase Minnifield,2010-09-11,2,Virginia,@,Southern California,L,1,0,0.0,0,chase-minnifield-1
+Terrence Mitchell,2010-09-11,2,South Florida,@,Florida,L,1,1,1.0,0,terrence-mitchell-1
+Eric Moats,2010-09-11,2,Utah State,,Idaho State,W,1,9,9.0,0,eric-moats-1
+Leneric Muldrow,2010-09-11,2,Kent State,@,Boston College,L,1,-11,-11.0,0,leneric-muldrow-1
+Gary Myers,2010-09-11,2,Navy,,Georgia Southern,W,4,31,7.8,0,gary-myers-1
+Larry Parker,2010-09-11,2,San Diego State,@,New Mexico State,W,2,5,2.5,0,larry-parker-1
+Daymond Patterson,2010-09-11,2,Kansas,,Georgia Tech,W,1,10,10.0,0,daymond-patterson-1
+Travon Patterson,2010-09-11,2,Colorado,@,California,L,2,8,4.0,0,travon-patterson-2
+Patrick Peterson,2010-09-11,2,Louisiana State,@,Vanderbilt,W,2,8,4.0,0,patrick-peterson-1
+Chris Rainey,2010-09-11,2,Florida,,South Florida,W,2,2,1.0,0,chris-rainey-1
+Jack Ramsey,2010-09-11,2,Illinois,,Southern Illinois,W,4,15,3.8,0,jack-ramsey-1
+Greg Reid,2010-09-11,2,Florida State,@,Oklahoma,L,2,1,0.5,0,greg-reid-1
+Mason Robinson,2010-09-11,2,Rutgers,@,Florida International,W,1,4,4.0,0,mason-robinson-1
+Casey Robottom,2010-09-11,2,Tulane,,Mississippi,L,3,10,3.3,0,casey-robottom-1
+Jeremy Ross,2010-09-11,2,California,,Colorado,W,2,33,16.5,0,jeremy-ross-1
+Eric Russell,2010-09-11,2,Middle Tennessee State,,Austin Peay,W,2,28,14.0,0,eric-russell-1
+Cameron Saddler,2010-09-11,2,Pittsburgh,,New Hampshire,W,3,26,8.7,0,cameron-saddler-1
+Greg Salas,2010-09-11,2,Hawaii,@,Army,W,1,5,5.0,0,greg-salas-1
+Michael Sam,2010-09-11,2,Missouri,,McNeese State,W,1,8,8.0,0,michael-sam-1
+Colin Sandeman,2010-09-11,2,Iowa,,Iowa State,W,2,2,1.0,0,colin-sandeman-1
+Raymond Sanders,2010-09-11,2,Kentucky,,Western Kentucky,W,1,12,12.0,0,raymond-sanders-1
+Pat Shed,2010-09-11,2,Alabama-Birmingham,@,Southern Methodist,L,1,3,3.0,0,pat-shed-1
+Ryan Skorupka,2010-09-11,2,Arizona State,,Northern Arizona,W,1,6,6.0,0,ryan-skorupka-1
+Branden Smith,2010-09-11,2,Georgia,@,South Carolina,L,2,4,2.0,0,branden-smith-1
+Keith Smith,2010-09-11,2,Purdue,,Western Illinois,W,1,4,4.0,0,keith-smith-1
+Shaky Smithson,2010-09-11,2,Utah,,Nevada-Las Vegas,W,5,128,25.6,1,shaky-smithson-1
+Zac Stacy,2010-09-11,2,Vanderbilt,,Louisiana State,L,1,7,7.0,0,zac-stacy-1
+Chantz Staden,2010-09-11,2,Washington State,,Montana State,W,1,-3,-3.0,0,chantz-staden-1
+Jerrard Tarrant,2010-09-11,2,Georgia Tech,@,Kansas,L,2,2,1.0,0,jerrard-tarrant-1
+Tramaine Thompson,2010-09-11,2,Kansas State,,Missouri State,W,5,17,3.4,0,tramaine-thompson-1
+Denzel Wells,2010-09-11,2,Rice,@,North Texas,W,1,22,22.0,0,denzel-wells-1
+Jordan White,2010-09-11,2,Western Michigan,,Nicholls State,W,2,18,9.0,0,jordan-white-1
+Gary Wilburn,2010-09-11,2,Connecticut,,Texas Southern,W,3,13,4.3,0,gary-wilburn-1
+Aaron Williams,2010-09-11,2,Texas,,Wyoming,W,2,31,15.5,0,aaron-williams-2
+Kerwynn Williams,2010-09-11,2,Utah State,,Idaho State,W,3,33,11.0,0,kerwynn-williams-1
+Nick Williams,2010-09-11,2,Connecticut,,Texas Southern,W,2,43,21.5,0,nick-williams-1
+Terrance Williams,2010-09-11,2,Baylor,,Buffalo,W,4,52,13.0,0,terrance-williams-2
+Deron Wilson,2010-09-11,2,Southern Mississippi,,Prairie View A&M,W,1,13,13.0,0,deron-wilson-1
+D.J. Woods,2010-09-11,2,Cincinnati,,Indiana State,W,3,32,10.7,0,dj-woods-1
+William Wright,2010-09-11,2,Arizona,,Citadel,W,3,8,2.7,0,william-wright-1
+Austin Zouzalik,2010-09-11,2,Texas Tech,@,New Mexico,W,2,-15,-7.5,0,austin-zouzalik-1
+T.J. Graham,2010-09-16,3,North Carolina State,,Cincinnati,W,1,-3,-3.0,0,tj-graham-1
+D.J. Woods,2010-09-16,3,Cincinnati,@,North Carolina State,L,1,-2,-2.0,0,dj-woods-1
+Tim Green,2010-09-17,3,Southern Mississippi,,Kansas,W,1,21,21.0,0,tim-green-2
+Daymond Patterson,2010-09-17,3,Kansas,@,Southern Mississippi,L,1,-1,-1.0,0,daymond-patterson-1
+Jared Abbrederis,2010-09-18,3,Wisconsin,,Arizona State,W,2,22,11.0,0,jared-abbrederis-1
+Joe Adams,2010-09-18,3,Arkansas,@,Georgia,W,1,1,1.0,0,joe-adams-1
+Devin Aguilar,2010-09-18,3,Washington,,Nebraska,L,1,13,13.0,0,devin-aguilar-1
+Drew Astorino,2010-09-18,3,Penn State,,Kent State,W,1,2,2.0,0,drew-astorino-1
+Doug Baldwin,2010-09-18,3,Stanford,,Wake Forest,W,1,22,22.0,0,doug-baldwin-1
+Kenjon Barner,2010-09-18,3,Oregon,,Portland State,W,1,-2,-2.0,0,kenjon-barner-1
+Hunter Bates,2010-09-18,3,Northwestern,@,Rice,W,2,33,16.5,0,hunter-bates-1
+Doug Beaumont,2010-09-18,3,Louisville,@,Oregon State,L,3,44,14.7,0,doug-beaumont-1
+Josh Bellamy,2010-09-18,3,Louisville,@,Oregon State,L,1,2,2.0,0,josh-bellamy-1
+Julian Bellinger,2010-09-18,3,Toledo,@,Western Michigan,W,1,17,17.0,0,julian-bellinger-1
+Leon Brooks,2010-09-18,3,Washington State,@,Southern Methodist,L,3,26,8.7,0,leon-brooks-1
+Curtis Brown,2010-09-18,3,Texas,@,Texas Tech,W,3,35,11.7,0,curtis-brown-2
+Devon Brown,2010-09-18,3,Wake Forest,@,Stanford,L,1,0,0.0,0,devon-brown-1
+Justin Brown,2010-09-18,3,Penn State,,Kent State,W,3,21,7.0,0,justin-brown-1
+Ryan Broyles,2010-09-18,3,Oklahoma,,Air Force,W,1,7,7.0,0,ryan-broyles-1
+Mitch Burroughs,2010-09-18,2,Boise State,@,Wyoming,W,2,15,7.5,0,mitch-burroughs-1
+Lee Butler,2010-09-18,3,Duke,,Alabama,L,1,11,11.0,0,lee-butler-1
+Chris Bynes,2010-09-18,3,North Texas,@,Army,L,1,4,4.0,0,chris-bynes-1
+Quindarius Carr,2010-09-18,3,Auburn,,Clemson,W,2,6,3.0,0,quindarius-carr-1
+Travis Carrie,2010-09-18,3,Ohio,@,Ohio State,L,1,3,3.0,0,travis-carrie-1
+O'Neill Chambers,2010-09-18,3,Brigham Young,@,Florida State,L,2,19,9.5,0,oneill-chambers-1
+Brelan Chancellor,2010-09-18,3,North Texas,@,Army,L,2,5,2.5,0,brelan-chancellor-1
+Danny Coale,2010-09-18,3,Virginia Tech,,East Carolina,W,1,11,11.0,0,danny-coale-1
+Randall Cobb,2010-09-18,3,Kentucky,,Akron,W,3,21,7.0,0,randall-cobb-1
+John Cole,2010-09-18,3,Vanderbilt,@,Mississippi,W,1,0,0.0,0,john-cole-1
+Eugene Cooper,2010-09-18,3,Bowling Green State,,Marshall,W,3,35,11.7,0,eugene-cooper-1
+Tommy Davis,2010-09-18,3,Northern Illinois,@,Illinois,L,3,4,1.3,0,tommy-davis-2
+Tandon Doss,2010-09-18,2,Indiana,@,Western Kentucky,W,1,12,12.0,0,tandon-doss-1
+Patrick Edwards,2010-09-18,3,Houston,@,UCLA,L,2,4,2.0,0,patrick-edwards-1
+Taylor Embree,2010-09-18,3,UCLA,,Houston,W,3,34,11.3,0,taylor-embree-1
+Andy Erickson,2010-09-18,3,Rice,,Northwestern,L,1,1,1.0,0,andy-erickson-1
+Rashad Evans,2010-09-18,2,Fresno State,@,Utah State,W,2,63,31.5,0,rashad-evans-1
+Troy Evans,2010-09-18,3,Marshall,@,Bowling Green State,L,1,15,15.0,0,troy-evans-2
+Brian Fields,2010-09-18,3,Western Michigan,,Toledo,L,1,26,26.0,0,brian-fields-1
+Dwayne Frampton,2010-09-18,3,Arkansas State,,Louisiana-Monroe,W,1,12,12.0,0,dwayne-frampton-1
+Jason Frierson,2010-09-18,2,Florida International,@,Texas A&M,L,1,0,0.0,0,jason-frierson-1
+Carl Gettis,2010-09-18,3,Missouri,,San Diego State,W,5,47,9.4,0,carl-gettis-1
+Justin Gilbert,2010-09-18,3,Oklahoma State,,Tulsa,W,3,15,5.0,0,justin-gilbert-1
+Marcus Gilchrist,2010-09-18,3,Clemson,@,Auburn,L,2,15,7.5,0,marcus-gilchrist-1
+Billy Gonzales-Santos,2010-09-18,3,Ohio,@,Ohio State,L,1,21,21.0,0,billy-gonzales-santos-1
+John Goodman,2010-09-18,3,Notre Dame,@,Michigan State,L,3,27,9.0,0,john-goodman-1
+Eric Gordon,2010-09-18,3,Tennessee,,Florida,L,1,2,2.0,0,eric-gordon-2
+Waynelle Gravesande,2010-09-18,3,Purdue,,Ball State,W,3,5,1.7,0,waynelle-gravesande-1
+Logan Gray,2010-09-18,3,Georgia,,Arkansas,L,2,25,12.5,0,logan-gray-1
+Delano Green,2010-09-18,3,Temple,,Connecticut,W,4,42,10.5,0,delano-green-1
+A.J. Guyton,2010-09-18,3,Central Florida,@,Buffalo,W,1,5,5.0,0,aj-guyton-1
+Jordan Hall,2010-09-18,3,Ohio State,,Ohio,W,2,22,11.0,0,jordan-hall-1
+Jamel Hamler,2010-09-18,2,Fresno State,@,Utah State,W,1,10,10.0,0,jamel-hamler-1
+Cliff Harris,2010-09-18,3,Oregon,,Portland State,W,5,72,14.4,0,cliff-harris-1
+Dustin Harris,2010-09-18,3,Texas A&M,,Florida International,W,4,23,5.8,0,dustin-harris-1
+T.Y. Hilton,2010-09-18,2,Florida International,@,Texas A&M,L,1,9,9.0,0,ty-hilton-1
+Mike Holmes,2010-09-18,3,Syracuse,,Maine,W,2,66,33.0,0,mike-holmes-1
+Josh Jackson,2010-09-18,3,Army,,North Texas,W,5,37,7.4,0,josh-jackson-1
+Terrell Jackson,2010-09-18,3,Buffalo,,Central Florida,L,1,14,14.0,0,terrell-jackson-3
+LaMichael James,2010-09-18,3,Oregon,,Portland State,W,1,-2,-2.0,0,lamichael-james-1
+Janoris Jenkins,2010-09-18,3,Florida,@,Tennessee,W,2,6,3.0,0,janoris-jenkins-1
+Darius Johnson,2010-09-18,3,Southern Methodist,,Washington State,W,3,14,4.7,0,darius-johnson-2
+Julio Jones,2010-09-18,3,Alabama,@,Duke,W,2,3,1.5,0,julio-jones-1
+Mike Jones,2010-09-18,3,Alabama-Birmingham,,Troy,W,1,0,0.0,0,mike-jones-4
+Jermaine Kelson,2010-09-18,3,Marshall,@,Bowling Green State,L,1,5,5.0,0,jermaine-kelson-1
+Shiloh Keo,2010-09-18,3,Idaho,,Nevada-Las Vegas,W,2,16,8.0,0,shiloh-keo-1
+Jeremy Kerley,2010-09-18,3,Texas Christian,,Baylor,W,4,84,21.0,0,jeremy-kerley-1
+Ty Kirk,2010-09-18,3,New Mexico,,Utah,L,1,3,3.0,0,ty-kirk-1
+Todd Lee,2010-09-18,2,New Mexico State,@,Texas-El Paso,L,1,37,37.0,0,todd-lee-1
+Josh Lenz,2010-09-18,3,Iowa State,@,Kansas State,L,2,5,2.5,0,josh-lenz-1
+David Leonard,2010-09-18,3,Wyoming,,Boise State,L,1,9,9.0,0,david-leonard-1
+Derrick Locke,2010-09-18,3,Kentucky,,Akron,W,1,8,8.0,0,derrick-locke-1
+Tony Logan,2010-09-18,3,Maryland,@,West Virginia,L,2,7,3.5,0,tony-logan-1
+Tavarese Maye,2010-09-18,2,Louisiana-Monroe,@,Arkansas State,L,1,5,5.0,0,tavarese-maye-1
+Marquis Maze,2010-09-18,3,Alabama,@,Duke,W,2,26,13.0,0,marquis-maze-1
+Marlon McClure,2010-09-18,3,Texas-El Paso,,New Mexico State,W,3,28,9.3,0,marlon-mcclure-1
+Leon McFadden,2010-09-18,3,San Diego State,@,Missouri,L,2,13,6.5,0,leon-mcfadden-1
+Griffin McNabb,2010-09-18,3,Utah,@,New Mexico,W,1,4,4.0,0,griffin-mcnabb-1
+Jamal Miles,2010-09-18,3,Arizona State,@,Wisconsin,L,3,27,9.0,0,jamal-miles-1
+Eric Moats,2010-09-18,3,Utah State,,Fresno State,L,1,15,15.0,0,eric-moats-1
+Leneric Muldrow,2010-09-18,3,Kent State,@,Penn State,L,1,6,6.0,0,leneric-muldrow-1
+Eric Page,2010-09-18,3,Toledo,@,Western Michigan,W,1,13,13.0,0,eric-page-1
+DeMarco Paine,2010-09-18,3,Miami (OH),,Colorado State,W,3,10,3.3,0,demarco-paine-1
+Larry Parker,2010-09-18,3,San Diego State,@,Missouri,L,1,3,3.0,0,larry-parker-1
+Travon Patterson,2010-09-18,3,Colorado,,Hawaii,W,2,-3,-1.5,0,travon-patterson-2
+Niles Paul,2010-09-18,3,Nebraska,@,Washington,W,6,58,9.7,0,niles-paul-1
+Patrick Peterson,2010-09-18,3,Louisiana State,,Mississippi State,W,1,2,2.0,0,patrick-peterson-1
+Greg Reid,2010-09-18,3,Florida State,,Brigham Young,W,3,18,6.0,0,greg-reid-1
+Steve Rene,2010-09-18,3,Syracuse,,Maine,W,3,6,2.0,0,steve-rene-1
+David Roberts,2010-09-18,3,Arizona,,Iowa,W,1,11,11.0,0,david-roberts-1
+James Rodgers,2010-09-18,2,Oregon State,,Louisville,W,2,43,21.5,0,james-rodgers-1
+Eric Russell,2010-09-18,3,Middle Tennessee State,@,Memphis,L,1,26,26.0,0,eric-russell-1
+Brandon Rutley,2010-09-18,3,San Jose State,,Southern Utah,W,1,10,10.0,0,brandon-rutley-1
+Greg Salas,2010-09-18,3,Hawaii,@,Colorado,L,1,-1,-1.0,0,greg-salas-1
+Colin Sandeman,2010-09-18,3,Iowa,@,Arizona,L,2,35,17.5,0,colin-sandeman-1
+Jock Sanders,2010-09-18,3,West Virginia,,Maryland,W,3,69,23.0,0,jock-sanders-1
+Dominique Sandifer,2010-09-18,3,San Diego State,@,Missouri,L,1,0,0.0,0,dominique-sandifer-1
+Jalen Saunders,2010-09-18,2,Fresno State,@,Utah State,W,2,26,13.0,0,jalen-saunders-1
+Pat Shed,2010-09-18,3,Alabama-Birmingham,,Troy,W,2,5,2.5,0,pat-shed-1
+Travis Simmons,2010-09-18,3,East Carolina,@,Virginia Tech,L,1,6,6.0,0,travis-simmons-1
+Devon Smith,2010-09-18,3,Penn State,,Kent State,W,1,16,16.0,0,devon-smith-1
+Kevin Smith,2010-09-18,3,Washington,,Nebraska,L,1,12,12.0,0,kevin-smith-3
+Shaky Smithson,2010-09-18,3,Utah,@,New Mexico,W,4,140,35.0,1,shaky-smithson-1
+Zac Stacy,2010-09-18,3,Vanderbilt,@,Mississippi,W,2,9,4.5,0,zac-stacy-1
+Jerrard Tarrant,2010-09-18,3,Georgia Tech,@,North Carolina,W,2,9,4.5,0,jerrard-tarrant-1
+Momo Thomas,2010-09-18,3,Colorado State,@,Miami (OH),L,1,22,22.0,0,momo-thomas-1
+Tramaine Thompson,2010-09-18,3,Kansas State,,Iowa State,W,1,-1,-1.0,0,tramaine-thompson-1
+Jordan White,2010-09-18,3,Western Michigan,,Toledo,L,2,10,5.0,0,jordan-white-1
+Aaron Williams,2010-09-18,3,Texas,@,Texas Tech,W,1,0,0.0,0,aaron-williams-2
+Ryan Williams,2010-09-18,3,Louisiana Tech,,Navy,L,1,2,2.0,0,ryan-williams-3
+Terrance Williams,2010-09-18,3,Baylor,@,Texas Christian,L,1,8,8.0,0,terrance-williams-2
+Cody Wilson,2010-09-18,3,Central Michigan,@,Eastern Michigan,W,2,3,1.5,0,cody-wilson-1
+William Wright,2010-09-18,3,Arizona,,Iowa,W,4,11,2.8,0,william-wright-1
+Titus Young,2010-09-18,2,Boise State,@,Wyoming,W,1,36,36.0,0,titus-young-1
+Austin Zouzalik,2010-09-18,3,Texas Tech,,Texas,L,1,16,16.0,0,austin-zouzalik-1
+Travis Benjamin,2010-09-23,3,Miami (FL),@,Pittsburgh,W,1,2,2.0,0,travis-benjamin-1
+Lamar Miller,2010-09-23,3,Miami (FL),@,Pittsburgh,W,2,1,0.5,0,lamar-miller-1
+Cameron Saddler,2010-09-23,3,Pittsburgh,,Miami (FL),L,4,37,9.3,0,cameron-saddler-1
+Darius Johnson,2010-09-24,4,Southern Methodist,,Texas Christian,L,2,4,2.0,0,darius-johnson-2
+Jeremy Kerley,2010-09-24,4,Texas Christian,@,Southern Methodist,W,2,23,11.5,0,jeremy-kerley-1
+Jared Abbrederis,2010-09-25,4,Wisconsin,,Austin Peay,W,5,45,9.0,0,jared-abbrederis-1
+Ryan Alderman,2010-09-25,4,Temple,@,Penn State,L,1,0,0.0,0,ryan-alderman-1
+Bryant Allen,2010-09-25,4,Minnesota,,Northern Illinois,L,1,6,6.0,0,bryant-allen-1
+Orkeys Auriene,2010-09-25,3,Louisiana,,Middle Tennessee State,L,2,21,10.5,0,orkeys-auriene-1
+Doug Baldwin,2010-09-25,4,Stanford,@,Notre Dame,W,2,4,2.0,0,doug-baldwin-1
+Kenjon Barner,2010-09-25,4,Oregon,@,Arizona State,W,3,19,6.3,0,kenjon-barner-1
+Corey Brown,2010-09-25,4,Ohio State,,Eastern Michigan,W,2,11,5.5,0,corey-brown-2
+Curtis Brown,2010-09-25,4,Texas,,UCLA,L,1,0,0.0,0,curtis-brown-2
+Justin Brown,2010-09-25,4,Penn State,,Temple,W,2,1,0.5,0,justin-brown-1
+Ryan Broyles,2010-09-25,4,Oklahoma,@,Cincinnati,W,4,16,4.0,0,ryan-broyles-1
+Chad Bumphis,2010-09-25,4,Mississippi State,,Georgia,W,1,1,1.0,0,chad-bumphis-1
+Lee Butler,2010-09-25,4,Duke,,Army,L,3,10,3.3,0,lee-butler-1
+Darius Carey,2010-09-25,4,North Texas,@,Florida Atlantic,W,1,18,18.0,0,darius-carey-1
+Quindarius Carr,2010-09-25,4,Auburn,,South Carolina,W,1,10,10.0,0,quindarius-carr-1
+Travis Carrie,2010-09-25,4,Ohio,@,Marshall,L,1,9,9.0,0,travis-carrie-1
+Bruce Carter,2010-09-25,3,North Carolina,@,Rutgers,W,1,17,17.0,0,bruce-carter-1
+Randall Cobb,2010-09-25,4,Kentucky,@,Florida,L,1,21,21.0,0,randall-cobb-1
+Drew Dileo,2010-09-25,4,Michigan,,Bowling Green State,W,1,15,15.0,0,drew-dileo-1
+Ryan Downard,2010-09-25,4,Eastern Michigan,@,Ohio State,L,1,27,27.0,0,ryan-downard-1
+Patrick Edwards,2010-09-25,4,Houston,,Tulane,W,5,89,17.8,0,patrick-edwards-1
+Troy Evans,2010-09-25,4,Marshall,,Ohio,W,2,23,11.5,0,troy-evans-2
+Jason Frierson,2010-09-25,3,Florida International,@,Maryland,L,1,6,6.0,0,jason-frierson-1
+Jeremy Gallon,2010-09-25,4,Michigan,,Bowling Green State,W,2,22,11.0,0,jeremy-gallon-1
+Eric Gordon,2010-09-25,4,Tennessee,,Alabama-Birmingham,W,1,14,14.0,0,eric-gordon-2
+T.J. Graham,2010-09-25,4,North Carolina State,@,Georgia Tech,W,1,4,4.0,0,tj-graham-1
+Jesse Grandy,2010-09-25,4,Mississippi,,Fresno State,W,2,34,17.0,1,jesse-grandy-1
+Waynelle Gravesande,2010-09-25,4,Purdue,,Toledo,L,3,-2,-0.7,0,waynelle-gravesande-1
+A.J. Guyton,2010-09-25,4,Central Florida,@,Kansas State,L,2,36,18.0,0,aj-guyton-1
+Jordan Hall,2010-09-25,4,Ohio State,,Eastern Michigan,W,3,14,4.7,0,jordan-hall-1
+Roderick Hall,2010-09-25,4,Arkansas State,@,Troy,L,1,20,20.0,0,roderick-hall-1
+Aaron Henry,2010-09-25,4,Wisconsin,,Austin Peay,W,1,30,30.0,0,aaron-henry-1
+Ryan Henry,2010-09-25,4,Hawaii,,Charleston Southern,W,1,0,0.0,0,ryan-henry-1
+T.Y. Hilton,2010-09-25,3,Florida International,@,Maryland,L,3,8,2.7,0,ty-hilton-1
+Brandon Hogan,2010-09-25,4,West Virginia,@,Louisiana State,L,1,5,5.0,0,brandon-hogan-1
+Avery Holley,2010-09-25,3,Florida Atlantic,,North Texas,L,1,10,10.0,0,avery-holley-1
+Mike Holmes,2010-09-25,4,Syracuse,,Colgate,W,2,44,22.0,0,mike-holmes-1
+Wes Horton,2010-09-25,4,Southern California,@,Washington State,W,1,24,24.0,0,wes-horton-1
+Jayron Hosley,2010-09-25,4,Virginia Tech,@,Boston College,W,1,7,7.0,0,jayron-hosley-1
+Justin Hunter,2010-09-25,4,Tennessee,,Alabama-Birmingham,W,2,16,8.0,0,justin-hunter-1
+Josh Jackson,2010-09-25,4,Army,@,Duke,W,1,11,11.0,0,josh-jackson-1
+Terrell Jackson,2010-09-25,4,Buffalo,@,Connecticut,L,1,18,18.0,0,terrell-jackson-3
+McKay Jacobson,2010-09-25,4,Brigham Young,,Nevada,L,1,8,8.0,0,mckay-jacobson-1
+Janoris Jenkins,2010-09-25,4,Florida,,Kentucky,W,3,38,12.7,0,janoris-jenkins-1
+Jerrel Jernigan,2010-09-25,4,Troy,,Arkansas State,W,1,10,10.0,0,jerrel-jernigan-1
+Curtis Johnson,2010-09-25,4,Memphis,@,Texas-El Paso,L,1,6,6.0,0,curtis-johnson-1
+Damaris Johnson,2010-09-25,4,Tulsa,,Central Arkansas,W,2,13,6.5,0,damaris-johnson-1
+Michael Johnson,2010-09-25,4,Nevada-Las Vegas,,New Mexico,W,3,19,6.3,0,michael-johnson-8
+Julio Jones,2010-09-25,4,Alabama,@,Arkansas,W,1,0,0.0,0,julio-jones-1
+Perry Jones,2010-09-25,3,Virginia,,Virginia Military Institute,W,2,15,7.5,0,perry-jones-1
+Shiloh Keo,2010-09-25,4,Idaho,@,Colorado State,L,1,-2,-2.0,0,shiloh-keo-1
+Tracy Lampley,2010-09-25,4,Southern Mississippi,@,Louisiana Tech,W,3,27,9.0,0,tracy-lampley-1
+Josh Lenz,2010-09-25,4,Iowa State,,Northern Iowa,W,2,23,11.5,0,josh-lenz-1
+Brent Leonard,2010-09-25,3,Louisiana-Monroe,,Southeastern Louisiana,W,4,7,1.8,0,brent-leonard-1
+Tony Logan,2010-09-25,4,Maryland,,Florida International,W,6,135,22.5,1,tony-logan-1
+Taylor Mack,2010-09-25,4,Connecticut,,Buffalo,W,4,73,18.3,0,taylor-mack-1
+Keshawn Martin,2010-09-25,4,Michigan State,,Northern Colorado,W,3,35,11.7,0,keshawn-martin-1
+Rishard Matthews,2010-09-25,4,Nevada,@,Brigham Young,W,1,0,0.0,0,rishard-matthews-1
+Marlon McClure,2010-09-25,4,Texas-El Paso,,Memphis,W,2,57,28.5,0,marlon-mcclure-1
+Jamal Miles,2010-09-25,4,Arizona State,,Oregon,L,3,3,1.0,0,jamal-miles-1
+Chase Minnifield,2010-09-25,3,Virginia,,Virginia Military Institute,W,4,29,7.3,0,chase-minnifield-1
+Terrence Mitchell,2010-09-25,3,South Florida,,Western Kentucky,W,2,94,47.0,0,terrence-mitchell-1
+Eric Moats,2010-09-25,4,Utah State,@,San Diego State,L,2,9,4.5,0,eric-moats-1
+DeMarco Paine,2010-09-25,4,Miami (OH),@,Missouri,L,1,5,5.0,0,demarco-paine-1
+Daymond Patterson,2010-09-25,4,Kansas,,New Mexico State,W,2,23,11.5,0,daymond-patterson-1
+Niles Paul,2010-09-25,4,Nebraska,,South Dakota State,W,2,4,2.0,0,niles-paul-1
+Patrick Peterson,2010-09-25,4,Louisiana State,,West Virginia,W,2,86,43.0,1,patrick-peterson-1
+Rufus Porter,2010-09-25,4,Louisiana Tech,,Southern Mississippi,L,1,26,26.0,0,rufus-porter-1
+Bacarri Rambo,2010-09-25,4,Georgia,@,Mississippi State,L,1,0,0.0,0,bacarri-rambo-1
+Rueben Randle,2010-09-25,4,Louisiana State,,West Virginia,W,1,4,4.0,0,rueben-randle-1
+Greg Reid,2010-09-25,4,Florida State,,Wake Forest,W,5,25,5.0,0,greg-reid-1
+Thomas Roberson,2010-09-25,4,Tulsa,,Central Arkansas,W,1,4,4.0,0,thomas-roberson-1
+Casey Robottom,2010-09-25,3,Tulane,@,Houston,L,2,38,19.0,0,casey-robottom-1
+James Rodgers,2010-09-25,3,Oregon State,@,Boise State,L,1,54,54.0,1,james-rodgers-1
+Jeremy Ross,2010-09-25,4,California,@,Arizona,L,3,32,10.7,0,jeremy-ross-1
+Eric Russell,2010-09-25,4,Middle Tennessee State,@,Louisiana,W,3,30,10.0,0,eric-russell-1
+Colin Sandeman,2010-09-25,4,Iowa,,Ball State,W,2,33,16.5,0,colin-sandeman-1
+Jock Sanders,2010-09-25,4,West Virginia,@,Louisiana State,L,1,7,7.0,0,jock-sanders-1
+Dominique Sandifer,2010-09-25,4,San Diego State,,Utah State,W,2,6,3.0,0,dominique-sandifer-1
+Jalen Saunders,2010-09-25,3,Fresno State,@,Mississippi,L,1,8,8.0,0,jalen-saunders-1
+Pat Shed,2010-09-25,4,Alabama-Birmingham,@,Tennessee,L,2,26,13.0,0,pat-shed-1
+Devon Smith,2010-09-25,4,Penn State,,Temple,W,2,33,16.5,0,devon-smith-1
+Shaky Smithson,2010-09-25,4,Utah,,San Jose State,W,4,33,8.3,0,shaky-smithson-1
+Bobby Swigert,2010-09-25,3,Boston College,,Virginia Tech,L,1,7,7.0,0,bobby-swigert-1
+Jerrard Tarrant,2010-09-25,4,Georgia Tech,,North Carolina State,L,2,2,1.0,0,jerrard-tarrant-1
+Momo Thomas,2010-09-25,4,Colorado State,,Idaho,W,1,20,20.0,0,momo-thomas-1
+Tramaine Thompson,2010-09-25,4,Kansas State,,Central Florida,W,2,13,6.5,0,tramaine-thompson-1
+Reggie Topps,2010-09-25,4,Utah,,San Jose State,W,1,10,10.0,1,reggie-topps-1
+Jimmie Ward,2010-09-25,4,Northern Illinois,@,Minnesota,W,1,18,18.0,0,jimmie-ward-1
+Asa Watson,2010-09-25,4,North Carolina State,@,Georgia Tech,W,1,20,20.0,0,asa-watson-1
+Mitchell White,2010-09-25,4,Michigan State,,Northern Colorado,W,1,14,14.0,0,mitchell-white-1
+Jackie Williams,2010-09-25,4,Alabama-Birmingham,@,Tennessee,L,1,12,12.0,0,jackie-williams-1
+Terrance Williams,2010-09-25,4,Baylor,@,Rice,W,1,14,14.0,0,terrance-williams-2
+Cody Wilson,2010-09-25,4,Central Michigan,@,Northwestern,L,2,11,5.5,0,cody-wilson-1
+D.J. Woods,2010-09-25,4,Cincinnati,,Oklahoma,L,3,39,13.0,0,dj-woods-1
+Robert Woods,2010-09-25,4,Southern California,@,Washington State,W,1,4,4.0,0,robert-woods-1
+Titus Young,2010-09-25,3,Boise State,,Oregon State,W,3,7,2.3,0,titus-young-1
+Justin Gilbert,2010-09-30,4,Oklahoma State,,Texas A&M,W,2,0,0.0,0,justin-gilbert-1
+Kenric McNeal,2010-09-30,4,Texas A&M,@,Oklahoma State,L,4,32,8.0,0,kenric-mcneal-1
+McKay Jacobson,2010-10-01,5,Brigham Young,@,Utah State,L,1,4,4.0,0,mckay-jacobson-1
+Eric Moats,2010-10-01,5,Utah State,,Brigham Young,W,2,-1,-0.5,0,eric-moats-1
+Devin Aguilar,2010-10-02,4,Washington,@,Southern California,W,1,4,4.0,0,devin-aguilar-1
+Orkeys Auriene,2010-10-02,4,Louisiana,@,North Texas,W,2,10,5.0,0,orkeys-auriene-1
+Doug Baldwin,2010-10-02,5,Stanford,@,Oregon,L,1,1,1.0,0,doug-baldwin-1
+Isaiah Ballard,2010-10-02,5,Toledo,,Wyoming,L,1,0,0.0,0,isaiah-ballard-1
+Kenjon Barner,2010-10-02,5,Oregon,,Stanford,W,1,17,17.0,0,kenjon-barner-1
+Josh Bellamy,2010-10-02,4,Louisville,@,Arkansas State,W,2,24,12.0,0,josh-bellamy-1
+Travis Benjamin,2010-10-02,4,Miami (FL),@,Clemson,W,4,1,0.3,0,travis-benjamin-1
+Josh Borgman,2010-10-02,4,Boise State,@,New Mexico State,W,1,7,7.0,0,josh-borgman-1
+Devon Brown,2010-10-02,5,Wake Forest,,Georgia Tech,L,1,13,13.0,0,devon-brown-1
+Justin Brown,2010-10-02,5,Penn State,@,Iowa,L,1,13,13.0,0,justin-brown-1
+Ryan Broyles,2010-10-02,5,Oklahoma,N,Texas,W,2,20,10.0,0,ryan-broyles-1
+Chad Bumphis,2010-10-02,5,Mississippi State,,Alcorn State,W,3,19,6.3,0,chad-bumphis-1
+Lee Butler,2010-10-02,5,Duke,@,Maryland,L,4,48,12.0,0,lee-butler-1
+Mike Callaghan,2010-10-02,5,Arizona State,@,Oregon State,L,1,19,19.0,0,mike-callaghan-1
+Quindarius Carr,2010-10-02,5,Auburn,,Louisiana-Monroe,W,3,26,8.7,0,quindarius-carr-1
+Randall Cobb,2010-10-02,5,Kentucky,@,Mississippi,L,5,85,17.0,0,randall-cobb-1
+John Cole,2010-10-02,4,Vanderbilt,@,Connecticut,L,2,16,8.0,0,john-cole-1
+Jamil Cooks,2010-10-02,5,Air Force,,Navy,W,1,36,36.0,0,jamil-cooks-1
+Eugene Cooper,2010-10-02,5,Bowling Green State,,Buffalo,L,2,9,4.5,0,eugene-cooper-1
+Tommy Davis,2010-10-02,5,Northern Illinois,@,Akron,W,1,0,0.0,0,tommy-davis-2
+Tandon Doss,2010-10-02,4,Indiana,,Michigan,L,1,10,10.0,0,tandon-doss-1
+Andy Erickson,2010-10-02,5,Rice,,Southern Methodist,L,2,8,4.0,0,andy-erickson-1
+Troy Evans,2010-10-02,5,Marshall,@,Southern Mississippi,L,1,10,10.0,0,troy-evans-2
+Dwayne Frampton,2010-10-02,5,Arkansas State,,Louisville,L,1,0,0.0,0,dwayne-frampton-1
+Marcus Gilchrist,2010-10-02,4,Clemson,,Miami (FL),L,3,44,14.7,0,marcus-gilchrist-1
+John Goodman,2010-10-02,5,Notre Dame,@,Boston College,W,1,-4,-4.0,0,john-goodman-1
+Eric Gordon,2010-10-02,5,Tennessee,@,Louisiana State,L,1,21,21.0,0,eric-gordon-2
+T.J. Graham,2010-10-02,5,North Carolina State,,Virginia Tech,L,3,13,4.3,0,tj-graham-1
+Jesse Grandy,2010-10-02,5,Mississippi,,Kentucky,W,2,73,36.5,0,jesse-grandy-1
+Logan Gray,2010-10-02,5,Georgia,@,Colorado,L,1,1,1.0,0,logan-gray-1
+Delano Green,2010-10-02,5,Temple,@,Army,W,1,3,3.0,0,delano-green-1
+Jordan Hall,2010-10-02,5,Ohio State,@,Illinois,W,4,21,5.3,0,jordan-hall-1
+Dwayne Harris,2010-10-02,4,East Carolina,@,North Carolina,L,2,6,3.0,0,dwayne-harris-1
+Aaron Henry,2010-10-02,5,Wisconsin,@,Michigan State,L,1,13,13.0,0,aaron-henry-1
+Anthony Hollis,2010-10-02,5,Central Michigan,,Ball State,L,1,0,0.0,0,anthony-hollis-1
+Jayron Hosley,2010-10-02,5,Virginia Tech,@,North Carolina State,W,1,1,1.0,0,jayron-hosley-1
+Reggie Hunt,2010-10-02,5,Southern Mississippi,,Marshall,W,1,0,0.0,0,reggie-hunt-1
+Josh Jackson,2010-10-02,5,Army,,Temple,L,2,27,13.5,0,josh-jackson-1
+Terrell Jackson,2010-10-02,5,Buffalo,@,Bowling Green State,W,1,15,15.0,0,terrell-jackson-3
+Janoris Jenkins,2010-10-02,5,Florida,@,Alabama,L,2,6,3.0,0,janoris-jenkins-1
+Damaris Johnson,2010-10-02,5,Tulsa,@,Memphis,W,2,25,12.5,0,damaris-johnson-1
+Darius Johnson,2010-10-02,5,Southern Methodist,@,Rice,W,2,9,4.5,0,darius-johnson-2
+Julio Jones,2010-10-02,5,Alabama,,Florida,W,1,41,41.0,0,julio-jones-1
+Cameron Kenney,2010-10-02,5,Oklahoma,N,Texas,W,1,25,25.0,0,cameron-kenney-1
+Shiloh Keo,2010-10-02,5,Idaho,@,Western Michigan,W,3,35,11.7,0,shiloh-keo-1
+Jeremy Kerley,2010-10-02,5,Texas Christian,@,Colorado State,W,3,35,11.7,0,jeremy-kerley-1
+Shawney Kersey,2010-10-02,5,Penn State,@,Iowa,L,1,2,2.0,0,shawney-kersey-1
+Ty Kirk,2010-10-02,5,New Mexico,,Texas-El Paso,L,2,9,4.5,0,ty-kirk-1
+Brian Lainhart,2010-10-02,4,Kent State,@,Miami (OH),L,1,0,0.0,0,brian-lainhart-1
+Tracy Lampley,2010-10-02,5,Southern Mississippi,,Marshall,W,5,46,9.2,0,tracy-lampley-1
+Josh Lenz,2010-10-02,5,Iowa State,,Texas Tech,W,1,1,1.0,0,josh-lenz-1
+David Leonard,2010-10-02,5,Wyoming,@,Toledo,W,1,8,8.0,0,david-leonard-1
+Tyson Liggett,2010-10-02,5,Colorado State,,Texas Christian,L,3,5,1.7,0,tyson-liggett-1
+Tony Logan,2010-10-02,5,Maryland,,Duke,W,2,88,44.0,1,tony-logan-1
+Taylor Mack,2010-10-02,5,Connecticut,,Vanderbilt,W,2,13,6.5,0,taylor-mack-1
+Keshawn Martin,2010-10-02,5,Michigan State,,Wisconsin,W,2,83,41.5,1,keshawn-martin-1
+Rishard Matthews,2010-10-02,5,Nevada,@,Nevada-Las Vegas,W,3,7,2.3,0,rishard-matthews-1
+Marlon McClure,2010-10-02,5,Texas-El Paso,@,New Mexico,W,1,-1,-1.0,0,marlon-mcclure-1
+Jamal Miles,2010-10-02,5,Arizona State,@,Oregon State,L,4,24,6.0,0,jamal-miles-1
+Chase Minnifield,2010-10-02,4,Virginia,,Florida State,L,1,9,9.0,0,chase-minnifield-1
+Billy Mitchell,2010-10-02,5,Marshall,@,Southern Mississippi,L,1,0,0.0,0,billy-mitchell-1
+Terrence Mitchell,2010-10-02,4,South Florida,,Florida Atlantic,W,3,12,4.0,0,terrence-mitchell-1
+Gary Myers,2010-10-02,4,Navy,@,Air Force,L,2,15,7.5,0,gary-myers-1
+Travaun Nixon,2010-10-02,5,Texas-El Paso,@,New Mexico,W,1,46,46.0,0,travaun-nixon-1
+DeMarco Paine,2010-10-02,5,Miami (OH),,Kent State,W,2,2,1.0,0,demarco-paine-1
+Travon Patterson,2010-10-02,4,Colorado,,Georgia,W,1,13,13.0,0,travon-patterson-2
+Patrick Peterson,2010-10-02,5,Louisiana State,,Tennessee,W,3,30,10.0,0,patrick-peterson-1
+Shawn Plummer,2010-10-02,4,Fresno State,,Cal Poly,W,1,11,11.0,0,shawn-plummer-1
+Chris Potter,2010-10-02,4,Boise State,@,New Mexico State,W,3,43,14.3,0,chris-potter-1
+Chaz Powell,2010-10-02,5,Penn State,@,Iowa,L,1,-3,-3.0,0,chaz-powell-1
+Jordan Poyer,2010-10-02,4,Oregon State,,Arizona State,W,2,9,4.5,0,jordan-poyer-1
+Jack Ramsey,2010-10-02,4,Illinois,,Ohio State,L,2,1,0.5,0,jack-ramsey-1
+Greg Reid,2010-10-02,5,Florida State,@,Virginia,W,4,62,15.5,0,greg-reid-1
+Reggie Rembert,2010-10-02,5,Air Force,,Navy,W,1,5,5.0,0,reggie-rembert-1
+Mason Robinson,2010-10-02,4,Rutgers,,Tulane,L,1,1,1.0,0,mason-robinson-1
+Casey Robottom,2010-10-02,4,Tulane,@,Rutgers,W,2,16,8.0,0,casey-robottom-1
+Brandon Rutley,2010-10-02,5,San Jose State,,California-Davis,L,1,22,22.0,0,brandon-rutley-1
+Cameron Saddler,2010-10-02,4,Pittsburgh,,Florida International,W,2,32,16.0,0,cameron-saddler-1
+Jalen Saunders,2010-10-02,4,Fresno State,,Cal Poly,W,2,25,12.5,0,jalen-saunders-1
+Da'Norris Searcy,2010-10-02,4,North Carolina,,East Carolina,W,3,24,8.0,0,danorris-searcy-1
+Branden Smith,2010-10-02,5,Georgia,@,Colorado,L,1,36,36.0,0,branden-smith-1
+Devon Smith,2010-10-02,5,Penn State,@,Iowa,L,2,7,3.5,0,devon-smith-1
+Jamill Smith,2010-10-02,5,Ball State,@,Central Michigan,W,5,45,9.0,0,jamill-smith-1
+Zac Stacy,2010-10-02,4,Vanderbilt,@,Connecticut,L,1,-3,-3.0,0,zac-stacy-1
+Bobby Swigert,2010-10-02,4,Boston College,,Notre Dame,L,1,1,1.0,0,bobby-swigert-1
+Jerrard Tarrant,2010-10-02,5,Georgia Tech,@,Wake Forest,W,5,51,10.2,0,jerrard-tarrant-1
+Quenton Washington,2010-10-02,4,South Florida,,Florida Atlantic,W,1,14,14.0,0,quenton-washington-1
+Markus Wheaton,2010-10-02,4,Oregon State,,Arizona State,W,1,52,52.0,0,markus-wheaton-1
+Jordan White,2010-10-02,4,Western Michigan,,Idaho,L,1,5,5.0,0,jordan-white-1
+Aaron Williams,2010-10-02,5,Texas,N,Oklahoma,L,3,13,4.3,0,aaron-williams-2
+Terrance Williams,2010-10-02,5,Baylor,,Kansas,W,2,16,8.0,0,terrance-williams-2
+Cody Wilson,2010-10-02,5,Central Michigan,,Ball State,L,2,2,1.0,0,cody-wilson-1
+Anthony Wright,2010-10-02,5,Air Force,,Navy,W,1,0,0.0,0,anthony-wright-3
+Ed Young,2010-10-02,5,Buffalo,@,Bowling Green State,W,1,1,1.0,0,ed-young-1
+Austin Zouzalik,2010-10-02,4,Texas Tech,@,Iowa State,L,1,-1,-1.0,0,austin-zouzalik-1
+Tebiarus Gill,2010-10-05,5,Troy,@,Middle Tennessee State,W,2,4,2.0,0,tebiarus-gill-1
+Jerrel Jernigan,2010-10-05,5,Troy,@,Middle Tennessee State,W,1,2,2.0,0,jerrel-jernigan-1
+Eric Russell,2010-10-05,5,Middle Tennessee State,,Troy,L,4,2,0.5,0,eric-russell-1
+Austin Hudson,2010-10-06,5,Central Florida,,Alabama-Birmingham,W,1,2,2.0,0,austin-hudson-1
+Josh Robinson,2010-10-06,5,Central Florida,,Alabama-Birmingham,W,1,4,4.0,0,josh-robinson-1
+Tramaine Thompson,2010-10-07,5,Kansas State,,Nebraska,L,1,13,13.0,0,tramaine-thompson-1
+Bo Bowling,2010-10-08,5,Oklahoma State,@,Louisiana,W,1,23,23.0,0,bo-bowling-1
+Taylor Mack,2010-10-08,6,Connecticut,@,Rutgers,L,4,44,11.0,0,taylor-mack-1
+Joseph Randle,2010-10-08,5,Oklahoma State,@,Louisiana,W,1,-1,-1.0,0,joseph-randle-1
+Mason Robinson,2010-10-08,5,Rutgers,,Connecticut,W,4,16,4.0,0,mason-robinson-1
+Joe Adams,2010-10-09,5,Arkansas,@,Texas A&M,W,1,1,1.0,0,joe-adams-1
+Hunter Bates,2010-10-09,6,Northwestern,,Purdue,L,3,0,0.0,0,hunter-bates-1
+Josh Bellamy,2010-10-09,5,Louisville,,Memphis,W,2,30,15.0,0,josh-bellamy-1
+Travis Benjamin,2010-10-09,5,Miami (FL),,Florida State,L,1,1,1.0,0,travis-benjamin-1
+Dustin Blount,2010-10-09,6,Hawaii,@,Fresno State,W,1,-2,-2.0,0,dustin-blount-1
+Devon Brown,2010-10-09,6,Wake Forest,,Navy,L,2,16,8.0,0,devon-brown-1
+Justin Brown,2010-10-09,6,Penn State,,Illinois,L,1,6,6.0,0,justin-brown-1
+Darius Carey,2010-10-09,6,North Texas,,Arkansas State,L,2,14,7.0,0,darius-carey-1
+Travis Carrie,2010-10-09,6,Ohio,,Bowling Green State,W,3,49,16.3,0,travis-carrie-1
+O'Neill Chambers,2010-10-09,6,Brigham Young,,San Diego State,W,1,0,0.0,0,oneill-chambers-1
+Ryan Clark,2010-10-09,6,Ohio,,Bowling Green State,W,1,0,0.0,0,ryan-clark-2
+John Cole,2010-10-09,5,Vanderbilt,,Eastern Michigan,W,4,60,15.0,0,john-cole-1
+Eugene Cooper,2010-10-09,6,Bowling Green State,@,Ohio,L,1,3,3.0,0,eugene-cooper-1
+Evan Davis,2010-10-09,6,Texas-El Paso,,Rice,W,1,4,4.0,0,evan-davis-1
+Tandon Doss,2010-10-09,5,Indiana,@,Ohio State,L,1,-4,-4.0,0,tandon-doss-1
+Ryan Downard,2010-10-09,6,Eastern Michigan,@,Vanderbilt,L,1,4,4.0,0,ryan-downard-1
+Patrick Edwards,2010-10-09,5,Houston,,Mississippi State,L,1,-4,-4.0,0,patrick-edwards-1
+Taylor Embree,2010-10-09,6,UCLA,@,California,L,2,14,7.0,0,taylor-embree-1
+Andy Erickson,2010-10-09,6,Rice,@,Texas-El Paso,L,1,34,34.0,0,andy-erickson-1
+Rashad Evans,2010-10-09,5,Fresno State,,Hawaii,L,3,57,19.0,0,rashad-evans-1
+J.D. Falslev,2010-10-09,6,Brigham Young,,San Diego State,W,2,9,4.5,0,jd-falslev-1
+Jarred Fayson,2010-10-09,5,Illinois,@,Penn State,W,1,2,2.0,0,jarred-fayson-1
+Jason Frierson,2010-10-09,5,Florida International,,Western Kentucky,W,2,3,1.5,0,jason-frierson-1
+Kevin Gaddis,2010-10-09,6,Rice,@,Texas-El Paso,L,1,16,16.0,0,kevin-gaddis-1
+Carl Gettis,2010-10-09,5,Missouri,,Colorado,W,1,5,5.0,0,carl-gettis-1
+Marcus Gilchrist,2010-10-09,5,Clemson,@,North Carolina,L,3,2,0.7,0,marcus-gilchrist-1
+Stephon Gilmore,2010-10-09,5,South Carolina,,Alabama,W,1,15,15.0,0,stephon-gilmore-1
+John Goodman,2010-10-09,6,Notre Dame,,Pittsburgh,W,2,-2,-1.0,0,john-goodman-1
+Eric Gordon,2010-10-09,6,Tennessee,@,Georgia,L,1,0,0.0,0,eric-gordon-2
+T.J. Graham,2010-10-09,6,North Carolina State,,Boston College,W,3,16,5.3,0,tj-graham-1
+Logan Gray,2010-10-09,6,Georgia,,Tennessee,W,2,11,5.5,0,logan-gray-1
+A.J. Green,2010-10-09,6,Georgia,,Tennessee,W,1,7,7.0,0,aj-green-1
+Delano Green,2010-10-09,6,Temple,@,Northern Illinois,L,2,47,23.5,0,delano-green-1
+D.A. Griffin,2010-10-09,6,Memphis,@,Louisville,L,1,0,0.0,0,da-griffin-1
+Jordan Hall,2010-10-09,6,Ohio State,,Indiana,W,3,27,9.0,0,jordan-hall-1
+Roderick Hall,2010-10-09,6,Arkansas State,@,North Texas,W,1,9,9.0,0,roderick-hall-1
+Cliff Harris,2010-10-09,6,Oregon,@,Washington State,W,4,83,20.8,1,cliff-harris-1
+Dwayne Harris,2010-10-09,5,East Carolina,@,Southern Mississippi,W,3,30,10.0,0,dwayne-harris-1
+Aaron Henry,2010-10-09,6,Wisconsin,,Minnesota,W,1,9,9.0,0,aaron-henry-1
+T.Y. Hilton,2010-10-09,5,Florida International,,Western Kentucky,W,2,15,7.5,0,ty-hilton-1
+Avery Holley,2010-10-09,5,Florida Atlantic,@,Louisiana-Monroe,L,1,9,9.0,0,avery-holley-1
+Deandre Hopkins,2010-10-09,5,Clemson,@,North Carolina,L,1,31,31.0,0,deandre-hopkins-1
+Jayron Hosley,2010-10-09,6,Virginia Tech,,Central Michigan,W,3,98,32.7,1,jayron-hosley-1
+Alan Howze,2010-10-09,6,Southern Mississippi,,East Carolina,L,1,0,0.0,0,alan-howze-1
+Colby Jackson,2010-10-09,6,North Carolina State,,Boston College,W,1,21,21.0,0,colby-jackson-1
+Josh Jackson,2010-10-09,6,Army,@,Tulane,W,3,3,1.0,0,josh-jackson-1
+McKay Jacobson,2010-10-09,6,Brigham Young,,San Diego State,W,1,13,13.0,0,mckay-jacobson-1
+Janoris Jenkins,2010-10-09,6,Florida,,Louisiana State,L,2,10,5.0,0,janoris-jenkins-1
+Curtis Johnson,2010-10-09,6,Memphis,@,Louisville,L,1,-2,-2.0,0,curtis-johnson-1
+Damaris Johnson,2010-10-09,6,Tulsa,@,Southern Methodist,L,4,28,7.0,0,damaris-johnson-1
+Darius Johnson,2010-10-09,6,Southern Methodist,,Tulsa,W,2,4,2.0,0,darius-johnson-2
+Josh Johnson,2010-10-09,5,Purdue,@,Northwestern,W,1,2,2.0,0,josh-johnson-3
+Michael Johnson,2010-10-09,6,Nevada-Las Vegas,@,West Virginia,L,2,7,3.5,0,michael-johnson-8
+Ronald Johnson,2010-10-09,6,Southern California,@,Stanford,L,1,15,15.0,0,ronald-johnson-2
+Jeremy Kerley,2010-10-09,6,Texas Christian,,Wyoming,W,3,48,16.0,0,jeremy-kerley-1
+Jeremy Lafrance,2010-10-09,6,Akron,@,Kent State,L,3,5,1.7,0,jeremy-lafrance-1
+Brian Lainhart,2010-10-09,5,Kent State,,Akron,W,2,15,7.5,0,brian-lainhart-1
+Tracy Lampley,2010-10-09,6,Southern Mississippi,,East Carolina,L,1,6,6.0,0,tracy-lampley-1
+Todd Lee,2010-10-09,5,New Mexico State,,New Mexico,W,3,7,2.3,0,todd-lee-1
+Brent Leonard,2010-10-09,5,Louisiana-Monroe,,Florida Atlantic,W,1,5,5.0,0,brent-leonard-1
+Tyson Liggett,2010-10-09,6,Colorado State,@,Air Force,L,1,2,2.0,0,tyson-liggett-1
+Keshawn Martin,2010-10-09,6,Michigan State,@,Michigan,W,1,9,9.0,0,keshawn-martin-1
+Rishard Matthews,2010-10-09,6,Nevada,,San Jose State,W,3,20,6.7,0,rishard-matthews-1
+Marquis Maze,2010-10-09,6,Alabama,@,South Carolina,L,1,28,28.0,0,marquis-maze-1
+Griffin McNabb,2010-10-09,5,Utah,@,Iowa State,W,1,11,11.0,0,griffin-mcnabb-1
+Kenric McNeal,2010-10-09,5,Texas A&M,,Arkansas,L,3,1,0.3,0,kenric-mcneal-1
+Jamal Miles,2010-10-09,6,Arizona State,@,Washington,W,2,30,15.0,0,jamal-miles-1
+Chase Minnifield,2010-10-09,5,Virginia,@,Georgia Tech,L,1,19,19.0,0,chase-minnifield-1
+Terrence Mitchell,2010-10-09,5,South Florida,,Syracuse,L,1,9,9.0,0,terrence-mitchell-1
+Eric Moats,2010-10-09,6,Utah State,@,Louisiana Tech,L,2,-2,-1.0,0,eric-moats-1
+Leneric Muldrow,2010-10-09,5,Kent State,,Akron,W,2,20,10.0,0,leneric-muldrow-1
+Travaun Nixon,2010-10-09,6,Texas-El Paso,,Rice,W,3,32,10.7,0,travaun-nixon-1
+Martavious Odoms,2010-10-09,6,Michigan,,Michigan State,L,1,14,14.0,0,martavious-odoms-1
+Eric Page,2010-10-09,6,Toledo,@,Boise State,L,1,4,4.0,0,eric-page-1
+DeMarco Paine,2010-10-09,6,Miami (OH),@,Cincinnati,L,1,10,10.0,0,demarco-paine-1
+Larry Parker,2010-10-09,5,San Diego State,@,Brigham Young,L,2,21,10.5,0,larry-parker-1
+Travon Patterson,2010-10-09,5,Colorado,@,Missouri,L,2,9,4.5,0,travon-patterson-2
+Patrick Peterson,2010-10-09,6,Louisiana State,@,Florida,W,1,0,0.0,0,patrick-peterson-1
+Chris Potter,2010-10-09,5,Boise State,,Toledo,W,1,15,15.0,0,chris-potter-1
+Scott Radcliff,2010-10-09,5,Louisville,,Memphis,W,2,14,7.0,0,scott-radcliff-1
+Jack Ramsey,2010-10-09,5,Illinois,@,Penn State,W,2,-1,-0.5,0,jack-ramsey-1
+Greg Reid,2010-10-09,6,Florida State,@,Miami (FL),W,2,16,8.0,0,greg-reid-1
+James Rodgers,2010-10-09,5,Oregon State,@,Arizona,W,1,0,0.0,0,james-rodgers-1
+Jeremy Ross,2010-10-09,5,California,,UCLA,W,6,51,8.5,0,jeremy-ross-1
+Cameron Saddler,2010-10-09,5,Pittsburgh,@,Notre Dame,L,1,-2,-2.0,0,cameron-saddler-1
+Jock Sanders,2010-10-09,5,West Virginia,,Nevada-Las Vegas,W,1,6,6.0,0,jock-sanders-1
+Da'Norris Searcy,2010-10-09,5,North Carolina,,Clemson,W,1,7,7.0,0,danorris-searcy-1
+Devon Smith,2010-10-09,6,Penn State,,Illinois,L,1,12,12.0,0,devon-smith-1
+Jamill Smith,2010-10-09,6,Ball State,,Western Michigan,L,2,23,11.5,0,jamill-smith-1
+Shaky Smithson,2010-10-09,5,Utah,@,Iowa State,W,5,145,29.0,0,shaky-smithson-1
+Chantz Staden,2010-10-09,6,Washington State,,Oregon,L,1,3,3.0,0,chantz-staden-1
+Bobby Swigert,2010-10-09,5,Boston College,@,North Carolina State,L,1,5,5.0,0,bobby-swigert-1
+Drew Terrell,2010-10-09,6,Stanford,,Southern California,W,1,1,1.0,0,drew-terrell-1
+Jordan White,2010-10-09,5,Western Michigan,@,Ball State,W,1,5,5.0,0,jordan-white-1
+Ryan Williams,2010-10-09,6,Louisiana Tech,,Utah State,W,2,4,2.0,0,ryan-williams-3
+Cody Wilson,2010-10-09,6,Central Michigan,@,Virginia Tech,L,3,19,6.3,0,cody-wilson-1
+D.J. Woods,2010-10-09,5,Cincinnati,,Miami (OH),W,2,19,9.5,0,dj-woods-1
+Kendall Wright,2010-10-09,6,Baylor,N,Texas Tech,L,2,5,2.5,0,kendall-wright-1
+Austin Zouzalik,2010-10-09,5,Texas Tech,N,Baylor,W,1,0,0.0,0,austin-zouzalik-1
+Troy Evans,2010-10-13,6,Marshall,,Central Florida,L,1,7,7.0,0,troy-evans-2
+A.J. Guyton,2010-10-13,6,Central Florida,@,Marshall,W,2,13,6.5,0,aj-guyton-1
+Terrence Mitchell,2010-10-14,6,South Florida,@,West Virginia,L,1,1,1.0,0,terrence-mitchell-1
+Jock Sanders,2010-10-14,6,West Virginia,,South Florida,W,1,-1,-1.0,0,jock-sanders-1
+Tramaine Thompson,2010-10-14,6,Kansas State,@,Kansas,W,1,16,16.0,0,tramaine-thompson-1
+Josh Bellamy,2010-10-15,6,Louisville,,Cincinnati,L,1,-2,-2.0,0,josh-bellamy-1
+Marcus Allen,2010-10-16,6,New Mexico State,@,Fresno State,L,1,3,3.0,0,marcus-allen-1
+Perez Ashford,2010-10-16,7,Northern Illinois,,Buffalo,W,1,13,13.0,0,perez-ashford-1
+Travis Benjamin,2010-10-16,6,Miami (FL),@,Duke,W,1,0,0.0,0,travis-benjamin-1
+Josh Borgman,2010-10-16,6,Boise State,@,San Jose State,W,3,24,8.0,0,josh-borgman-1
+Bo Bowling,2010-10-16,6,Oklahoma State,@,Texas Tech,W,1,-4,-4.0,0,bo-bowling-1
+Curtis Brown,2010-10-16,6,Texas,@,Nebraska,W,2,35,17.5,0,curtis-brown-2
+Jaron Brown,2010-10-16,6,Clemson,,Maryland,W,3,52,17.3,0,jaron-brown-1
+Ryan Broyles,2010-10-16,6,Oklahoma,,Iowa State,W,2,15,7.5,0,ryan-broyles-1
+Cody Bruns,2010-10-16,6,Washington,,Oregon State,W,4,19,4.8,0,cody-bruns-1
+Krys Buerck,2010-10-16,7,Baylor,@,Colorado,W,2,2,1.0,0,krys-buerck-1
+Michael Campanaro,2010-10-16,7,Wake Forest,@,Virginia Tech,L,1,0,0.0,0,michael-campanaro-1
+Donald Campbell,2010-10-16,6,Western Kentucky,,Louisiana-Monroe,L,1,8,8.0,0,donald-campbell-1
+Travis Carrie,2010-10-16,7,Ohio,,Akron,W,3,45,15.0,0,travis-carrie-1
+Randall Cobb,2010-10-16,7,Kentucky,,South Carolina,W,3,-5,-1.7,0,randall-cobb-1
+John Cole,2010-10-16,6,Vanderbilt,@,Georgia,L,1,2,2.0,0,john-cole-1
+Eugene Cooper,2010-10-16,7,Bowling Green State,@,Temple,L,1,5,5.0,0,eugene-cooper-1
+Tommy Davis,2010-10-16,7,Northern Illinois,,Buffalo,W,2,15,7.5,0,tommy-davis-2
+Rashad Evans,2010-10-16,6,Fresno State,,New Mexico State,W,3,11,3.7,0,rashad-evans-1
+J.D. Falslev,2010-10-16,7,Brigham Young,@,Texas Christian,L,1,23,23.0,0,jd-falslev-1
+Dwayne Frampton,2010-10-16,7,Arkansas State,@,Indiana,L,2,0,0.0,0,dwayne-frampton-1
+Jason Frierson,2010-10-16,6,Florida International,@,North Texas,W,2,3,1.5,0,jason-frierson-1
+Jeremy Gallon,2010-10-16,7,Michigan,,Iowa,L,3,5,1.7,0,jeremy-gallon-1
+Deleon Gause,2010-10-16,6,Boston College,@,Florida State,L,2,13,6.5,0,deleon-gause-1
+Carl Gettis,2010-10-16,6,Missouri,@,Texas A&M,W,3,5,1.7,0,carl-gettis-1
+Tebiarus Gill,2010-10-16,6,Troy,,Louisiana,W,1,-1,-1.0,0,tebiarus-gill-1
+Stephon Gilmore,2010-10-16,6,South Carolina,@,Kentucky,L,5,8,1.6,0,stephon-gilmore-1
+David Gilreath,2010-10-16,7,Wisconsin,,Ohio State,W,1,13,13.0,0,david-gilreath-1
+Antonio Goodwin,2010-10-16,7,Auburn,,Arkansas,W,1,7,7.0,0,antonio-goodwin-1
+Logan Gray,2010-10-16,7,Georgia,,Vanderbilt,W,1,2,2.0,0,logan-gray-1
+Eric Hagg,2010-10-16,6,Nebraska,,Texas,L,1,95,95.0,1,eric-hagg-1
+Roderick Hall,2010-10-16,7,Arkansas State,@,Indiana,L,1,0,0.0,0,roderick-hall-1
+Dwayne Harris,2010-10-16,6,East Carolina,,North Carolina State,W,3,75,25.0,0,dwayne-harris-1
+Ryan Henry,2010-10-16,7,Hawaii,,Nevada,W,4,30,7.5,0,ryan-henry-1
+T.Y. Hilton,2010-10-16,6,Florida International,@,North Texas,W,4,36,9.0,0,ty-hilton-1
+Mike Holmes,2010-10-16,6,Syracuse,,Pittsburgh,L,4,34,8.5,0,mike-holmes-1
+Jayron Hosley,2010-10-16,7,Virginia Tech,,Wake Forest,W,4,55,13.8,0,jayron-hosley-1
+Josh Jackson,2010-10-16,7,Army,@,Rutgers,L,1,13,13.0,0,josh-jackson-1
+Janoris Jenkins,2010-10-16,7,Florida,,Mississippi State,L,1,5,5.0,0,janoris-jenkins-1
+Jerrel Jernigan,2010-10-16,6,Troy,,Louisiana,W,2,87,43.5,1,jerrel-jernigan-1
+Damaris Johnson,2010-10-16,7,Tulsa,,Tulane,W,3,34,11.3,0,damaris-johnson-1
+Josh Johnson,2010-10-16,6,Purdue,,Minnesota,W,1,0,0.0,0,josh-johnson-3
+Ronald Johnson,2010-10-16,7,Southern California,,California,W,2,38,19.0,0,ronald-johnson-2
+Aire Justin,2010-10-16,7,Washington State,,Arizona,L,4,18,4.5,0,aire-justin-1
+Shiloh Keo,2010-10-16,6,Idaho,@,Louisiana Tech,L,1,2,2.0,0,shiloh-keo-1
+Jeremy Kerley,2010-10-16,7,Texas Christian,,Brigham Young,W,4,56,14.0,0,jeremy-kerley-1
+Jonathan Krause,2010-10-16,6,Vanderbilt,@,Georgia,L,1,4,4.0,0,jonathan-krause-1
+Tracy Lampley,2010-10-16,7,Southern Mississippi,@,Memphis,W,4,16,4.0,0,tracy-lampley-1
+Todd Lee,2010-10-16,6,New Mexico State,@,Fresno State,L,1,5,5.0,0,todd-lee-1
+Joe Lefeged,2010-10-16,6,Rutgers,,Army,W,1,0,0.0,0,joe-lefeged-1
+Detron Lewis,2010-10-16,6,Texas Tech,,Oklahoma State,L,2,15,7.5,0,detron-lewis-1
+Tyson Liggett,2010-10-16,7,Colorado State,,Nevada-Las Vegas,W,1,4,4.0,0,tyson-liggett-1
+Phillip Livas,2010-10-16,7,Louisiana Tech,,Idaho,W,2,12,6.0,0,phillip-livas-1
+Tony Logan,2010-10-16,6,Maryland,@,Clemson,L,3,28,9.3,0,tony-logan-1
+Keshawn Martin,2010-10-16,7,Michigan State,,Illinois,W,2,13,6.5,0,keshawn-martin-1
+Rishard Matthews,2010-10-16,7,Nevada,@,Hawaii,L,2,42,21.0,0,rishard-matthews-1
+Marquis Maze,2010-10-16,7,Alabama,,Mississippi,W,6,125,20.8,0,marquis-maze-1
+Griffin McNabb,2010-10-16,6,Utah,@,Wyoming,W,1,7,7.0,0,griffin-mcnabb-1
+Kenric McNeal,2010-10-16,6,Texas A&M,,Missouri,L,3,6,2.0,0,kenric-mcneal-1
+Chase Minnifield,2010-10-16,6,Virginia,,North Carolina,L,1,1,1.0,0,chase-minnifield-1
+Gary Myers,2010-10-16,6,Navy,,Southern Methodist,W,1,4,4.0,0,gary-myers-1
+Robert Nelson,2010-10-16,6,Louisiana-Monroe,@,Western Kentucky,W,3,18,6.0,0,robert-nelson-1
+Isaiah Newsome,2010-10-16,6,Louisiana-Monroe,@,Western Kentucky,W,1,1,1.0,0,isaiah-newsome-1
+Eric Page,2010-10-16,7,Toledo,,Kent State,W,3,4,1.3,0,eric-page-1
+DeMarco Paine,2010-10-16,7,Miami (OH),@,Central Michigan,W,1,-1,-1.0,0,demarco-paine-1
+Niles Paul,2010-10-16,6,Nebraska,,Texas,L,2,16,8.0,0,niles-paul-1
+Patrick Peterson,2010-10-16,7,Louisiana State,,McNeese State,W,2,34,17.0,0,patrick-peterson-1
+Chris Potter,2010-10-16,6,Boise State,@,San Jose State,W,4,76,19.0,0,chris-potter-1
+Jordan Poyer,2010-10-16,6,Oregon State,@,Washington,L,2,15,7.5,0,jordan-poyer-1
+Greg Reid,2010-10-16,7,Florida State,,Boston College,W,3,17,5.7,0,greg-reid-1
+Reggie Rembert,2010-10-16,7,Air Force,@,San Diego State,L,1,7,7.0,0,reggie-rembert-1
+Mason Robinson,2010-10-16,6,Rutgers,,Army,W,1,4,4.0,0,mason-robinson-1
+Casey Robottom,2010-10-16,6,Tulane,@,Tulsa,L,1,0,0.0,0,casey-robottom-1
+Eric Russell,2010-10-16,6,Middle Tennessee State,@,Georgia Tech,L,2,18,9.0,0,eric-russell-1
+Brandon Rutley,2010-10-16,7,San Jose State,,Boise State,L,1,29,29.0,0,brandon-rutley-1
+Cameron Saddler,2010-10-16,6,Pittsburgh,@,Syracuse,W,4,44,11.0,0,cameron-saddler-1
+Colin Sandeman,2010-10-16,6,Iowa,@,Michigan,W,1,0,0.0,0,colin-sandeman-1
+Shaky Smithson,2010-10-16,6,Utah,@,Wyoming,W,4,111,27.8,0,shaky-smithson-1
+Kenny Stills,2010-10-16,6,Oklahoma,,Iowa State,W,1,16,16.0,0,kenny-stills-1
+Jerrard Tarrant,2010-10-16,7,Georgia Tech,,Middle Tennessee State,W,2,21,10.5,0,jerrard-tarrant-1
+Eric Tuiloma,2010-10-16,7,Nevada-Las Vegas,@,Colorado State,L,1,27,27.0,0,eric-tuiloma-1
+Zach Watts,2010-10-16,7,Army,@,Rutgers,L,1,7,7.0,0,zach-watts-1
+Corey Welch,2010-10-16,7,Eastern Michigan,@,Ball State,W,1,-3,-3.0,0,corey-welch-1
+Jordan White,2010-10-16,6,Western Michigan,@,Notre Dame,L,2,0,0.0,0,jordan-white-1
+Aaron Williams,2010-10-16,6,Texas,@,Nebraska,W,1,17,17.0,0,aaron-williams-2
+Jackie Williams,2010-10-16,6,Alabama-Birmingham,,Texas-El Paso,W,1,0,0.0,0,jackie-williams-1
+Cody Wilson,2010-10-16,7,Central Michigan,,Miami (OH),L,2,33,16.5,0,cody-wilson-1
+Luke Wollet,2010-10-16,6,Kent State,@,Toledo,L,2,8,4.0,0,luke-wollet-1
+Cliff Harris,2010-10-21,7,Oregon,,UCLA,W,4,17,4.3,0,cliff-harris-1
+Johnny Sitton,2010-10-22,7,South Florida,@,Cincinnati,W,1,12,12.0,0,johnny-sitton-1
+D.J. Woods,2010-10-22,7,Cincinnati,,South Florida,L,1,5,5.0,0,dj-woods-1
+Joe Adams,2010-10-23,7,Arkansas,,Mississippi,W,3,120,40.0,1,joe-adams-1
+Ryan Alderman,2010-10-23,8,Temple,@,Buffalo,W,2,5,2.5,0,ryan-alderman-1
+Bryant Allen,2010-10-23,8,Minnesota,,Penn State,L,2,37,18.5,0,bryant-allen-1
+Marcus Allen,2010-10-23,7,New Mexico State,@,Idaho,L,4,10,2.5,0,marcus-allen-1
+Perez Ashford,2010-10-23,8,Northern Illinois,,Central Michigan,W,1,16,16.0,0,perez-ashford-1
+Hunter Bates,2010-10-23,7,Northwestern,,Michigan State,L,1,14,14.0,0,hunter-bates-1
+Doug Beaumont,2010-10-23,7,Louisville,,Connecticut,W,2,105,52.5,1,doug-beaumont-1
+Travis Benjamin,2010-10-23,7,Miami (FL),,North Carolina,W,4,0,0.0,0,travis-benjamin-1
+Corey Brown,2010-10-23,8,Ohio State,,Purdue,W,1,10,10.0,0,corey-brown-2
+Curtis Brown,2010-10-23,7,Texas,,Iowa State,L,2,48,24.0,0,curtis-brown-2
+Justin Brown,2010-10-23,7,Penn State,@,Minnesota,W,1,5,5.0,0,justin-brown-1
+Chad Bumphis,2010-10-23,8,Mississippi State,,Alabama-Birmingham,W,1,14,14.0,0,chad-bumphis-1
+Nate Bussey,2010-10-23,7,Illinois,,Indiana,W,1,7,7.0,0,nate-bussey-1
+Donald Campbell,2010-10-23,7,Western Kentucky,@,Louisiana,W,1,9,9.0,0,donald-campbell-1
+Travis Carrie,2010-10-23,8,Ohio,@,Miami (OH),W,3,18,6.0,0,travis-carrie-1
+Danny Coale,2010-10-23,8,Virginia Tech,,Duke,W,1,11,11.0,0,danny-coale-1
+John Cole,2010-10-23,7,Vanderbilt,,South Carolina,L,4,35,8.8,0,john-cole-1
+Chris Conte,2010-10-23,7,California,,Arizona State,W,1,17,17.0,1,chris-conte-1
+Josh Cooper,2010-10-23,7,Oklahoma State,,Nebraska,L,2,13,6.5,0,josh-cooper-2
+Tommy Davis,2010-10-23,8,Northern Illinois,,Central Michigan,W,1,14,14.0,0,tommy-davis-2
+Tandon Doss,2010-10-23,7,Indiana,@,Illinois,L,1,12,12.0,0,tandon-doss-1
+Patrick Edwards,2010-10-23,7,Houston,@,Southern Methodist,W,1,-1,-1.0,0,patrick-edwards-1
+Rashad Evans,2010-10-23,7,Fresno State,@,San Jose State,W,2,30,15.0,0,rashad-evans-1
+J.D. Falslev,2010-10-23,8,Brigham Young,,Wyoming,W,2,12,6.0,0,jd-falslev-1
+Kevin Gaddis,2010-10-23,8,Rice,@,Central Florida,L,1,2,2.0,0,kevin-gaddis-1
+Marcus Gilchrist,2010-10-23,7,Clemson,,Georgia Tech,W,2,29,14.5,0,marcus-gilchrist-1
+Jesse Grandy,2010-10-23,7,Mississippi,@,Arkansas,L,3,58,19.3,0,jesse-grandy-1
+Waynelle Gravesande,2010-10-23,7,Purdue,@,Ohio State,L,1,5,5.0,0,waynelle-gravesande-1
+Delano Green,2010-10-23,8,Temple,@,Buffalo,W,3,3,1.0,0,delano-green-1
+Jordan Hall,2010-10-23,8,Ohio State,,Purdue,W,2,14,7.0,0,jordan-hall-1
+Roderick Hall,2010-10-23,8,Arkansas State,,Florida Atlantic,W,3,13,4.3,0,roderick-hall-1
+Roderick Harris Jr.,2010-10-23,7,Kansas,,Texas A&M,L,1,2,2.0,0,roderick-harris-jr-1
+Dustin Harris,2010-10-23,7,Texas A&M,@,Kansas,W,1,12,12.0,0,dustin-harris-1
+Dwayne Harris,2010-10-23,7,East Carolina,,Marshall,W,1,-6,-6.0,0,dwayne-harris-1
+Montel Harris,2010-10-23,7,Boston College,,Maryland,L,3,28,9.3,0,montel-harris-1
+Ryan Henry,2010-10-23,8,Hawaii,@,Utah State,W,3,23,7.7,0,ryan-henry-1
+Adrian Hodges,2010-10-23,8,Bowling Green State,,Kent State,L,1,3,3.0,0,adrian-hodges-1
+Brandon Hogan,2010-10-23,7,West Virginia,,Syracuse,L,2,9,4.5,0,brandon-hogan-1
+Mike Holmes,2010-10-23,7,Syracuse,@,West Virginia,W,3,35,11.7,0,mike-holmes-1
+Jayron Hosley,2010-10-23,8,Virginia Tech,,Duke,W,1,61,61.0,0,jayron-hosley-1
+Terrell Jackson,2010-10-23,7,Buffalo,,Temple,L,2,73,36.5,0,terrell-jackson-3
+Mike Jones,2010-10-23,7,Alabama-Birmingham,@,Mississippi State,L,1,0,0.0,0,mike-jones-4
+Travis Jones,2010-10-23,6,Florida Atlantic,@,Arkansas State,L,2,29,14.5,0,travis-jones-2
+Aire Justin,2010-10-23,8,Washington State,@,Stanford,L,1,1,1.0,0,aire-justin-1
+Shiloh Keo,2010-10-23,7,Idaho,,New Mexico State,W,2,-1,-0.5,0,shiloh-keo-1
+David Leonard,2010-10-23,8,Wyoming,@,Brigham Young,L,1,-4,-4.0,0,david-leonard-1
+Detron Lewis,2010-10-23,7,Texas Tech,@,Colorado,W,2,9,4.5,0,detron-lewis-1
+Tony Logan,2010-10-23,7,Maryland,@,Boston College,W,3,45,15.0,0,tony-logan-1
+Taylor Mack,2010-10-23,7,Connecticut,@,Louisville,L,1,1,1.0,0,taylor-mack-1
+Venric Mark,2010-10-23,7,Northwestern,,Michigan State,L,2,26,13.0,0,venric-mark-1
+Keshawn Martin,2010-10-23,8,Michigan State,@,Northwestern,W,1,3,3.0,0,keshawn-martin-1
+Marquis Maze,2010-10-23,8,Alabama,@,Tennessee,W,1,-4,-4.0,0,marquis-maze-1
+Marlon McClure,2010-10-23,8,Texas-El Paso,,Tulane,L,1,12,12.0,0,marlon-mcclure-1
+Kenric McNeal,2010-10-23,7,Texas A&M,@,Kansas,W,3,24,8.0,0,kenric-mcneal-1
+Jamal Miles,2010-10-23,7,Arizona State,@,California,L,1,3,3.0,0,jamal-miles-1
+Chase Minnifield,2010-10-23,7,Virginia,,Eastern Michigan,W,2,16,8.0,0,chase-minnifield-1
+Leneric Muldrow,2010-10-23,7,Kent State,@,Bowling Green State,W,2,9,4.5,0,leneric-muldrow-1
+Gary Myers,2010-10-23,7,Navy,N,Notre Dame,W,1,0,0.0,0,gary-myers-1
+Robert Nelson,2010-10-23,7,Louisiana-Monroe,@,Middle Tennessee State,L,2,4,2.0,0,robert-nelson-1
+Eric Page,2010-10-23,8,Toledo,,Ball State,W,2,16,8.0,0,eric-page-1
+Colin Parker,2010-10-23,7,Arizona State,@,California,L,1,30,30.0,0,colin-parker-1
+Larry Parker,2010-10-23,7,San Diego State,@,New Mexico,W,2,1,0.5,0,larry-parker-1
+Travon Patterson,2010-10-23,7,Colorado,,Texas Tech,L,3,53,17.7,0,travon-patterson-2
+Niles Paul,2010-10-23,7,Nebraska,@,Oklahoma State,W,1,24,24.0,0,niles-paul-1
+Patrick Peterson,2010-10-23,8,Louisiana State,@,Auburn,L,2,18,9.0,0,patrick-peterson-1
+Jack Ramsey,2010-10-23,7,Illinois,,Indiana,W,1,0,0.0,0,jack-ramsey-1
+Josh Robinson,2010-10-23,7,Central Florida,,Rice,W,3,53,17.7,0,josh-robinson-1
+Mason Robinson,2010-10-23,7,Rutgers,@,Pittsburgh,L,2,10,5.0,0,mason-robinson-1
+Casey Robottom,2010-10-23,7,Tulane,@,Texas-El Paso,W,1,2,2.0,0,casey-robottom-1
+Jeremy Ross,2010-10-23,7,California,,Arizona State,W,4,77,19.3,0,jeremy-ross-1
+Eric Russell,2010-10-23,7,Middle Tennessee State,,Louisiana-Monroe,W,2,26,13.0,0,eric-russell-1
+Brandon Rutley,2010-10-23,8,San Jose State,,Fresno State,L,2,7,3.5,0,brandon-rutley-1
+Cameron Saddler,2010-10-23,7,Pittsburgh,,Rutgers,W,5,76,15.2,0,cameron-saddler-1
+Colin Sandeman,2010-10-23,7,Iowa,,Wisconsin,L,2,12,6.0,0,colin-sandeman-1
+Ace Sanders,2010-10-23,7,South Carolina,@,Vanderbilt,W,3,-4,-1.3,0,ace-sanders-1
+Jamill Smith,2010-10-23,8,Ball State,@,Toledo,L,2,45,22.5,0,jamill-smith-1
+Shaky Smithson,2010-10-23,7,Utah,,Colorado State,W,1,5,5.0,0,shaky-smithson-1
+Drew Terrell,2010-10-23,7,Stanford,,Washington State,W,1,10,10.0,0,drew-terrell-1
+Jimmie Ward,2010-10-23,8,Northern Illinois,,Central Michigan,W,1,4,4.0,0,jimmie-ward-1
+Wayne Warren,2010-10-23,7,Rutgers,@,Pittsburgh,L,1,30,30.0,0,wayne-warren-1
+Corey Welch,2010-10-23,8,Eastern Michigan,@,Virginia,L,1,4,4.0,0,corey-welch-1
+Jordan White,2010-10-23,7,Western Michigan,@,Akron,W,2,7,3.5,0,jordan-white-1
+Nick Wilhelm,2010-10-23,7,New Mexico,,San Diego State,L,1,6,6.0,0,nick-wilhelm-1
+Aaron Williams,2010-10-23,7,Texas,,Iowa State,L,1,0,0.0,0,aaron-williams-2
+Jackie Williams,2010-10-23,7,Alabama-Birmingham,@,Mississippi State,L,1,2,2.0,0,jackie-williams-1
+Johnny Williams,2010-10-23,7,Duke,@,Virginia Tech,L,1,0,0.0,0,johnny-williams-1
+Martez Wilson,2010-10-23,7,Illinois,,Indiana,W,1,6,6.0,0,martez-wilson-1
+Luke Wollet,2010-10-23,7,Kent State,@,Bowling Green State,W,2,29,14.5,0,luke-wollet-1
+Jarius Wright,2010-10-23,7,Arkansas,,Mississippi,W,1,24,24.0,0,jarius-wright-1
+William Wright,2010-10-23,7,Arizona,,Washington,W,3,8,2.7,0,william-wright-1
+Phillip Livas,2010-10-26,8,Louisiana Tech,@,Boise State,L,1,11,11.0,0,phillip-livas-1
+Chris Potter,2010-10-26,7,Boise State,,Louisiana Tech,W,1,-6,-6.0,0,chris-potter-1
+T.J. Graham,2010-10-28,8,North Carolina State,,Florida State,W,2,8,4.0,0,tj-graham-1
+Greg Reid,2010-10-28,8,Florida State,@,North Carolina State,L,2,46,23.0,0,greg-reid-1
+Travis Bell,2010-10-29,8,West Virginia,@,Connecticut,L,1,0,0.0,0,travis-bell-3
+Brandon Hogan,2010-10-29,8,West Virginia,@,Connecticut,L,1,11,11.0,0,brandon-hogan-1
+Taylor Mack,2010-10-29,8,Connecticut,,West Virginia,W,1,0,0.0,0,taylor-mack-1
+Brian Albrecht,2010-10-30,9,Ohio,,Louisiana,W,1,0,0.0,0,brian-albrecht-1
+Robert Arnheim,2010-10-30,8,Western Michigan,,Northern Illinois,L,1,1,1.0,0,robert-arnheim-1
+Perez Ashford,2010-10-30,9,Northern Illinois,@,Western Michigan,W,1,10,10.0,0,perez-ashford-1
+Drew Astorino,2010-10-30,8,Penn State,,Michigan,W,1,7,7.0,0,drew-astorino-1
+Adam Ayala,2010-10-30,9,Texas-El Paso,@,Marshall,L,1,19,19.0,0,adam-ayala-1
+Isiah Barton,2010-10-30,9,Washington State,@,Arizona State,L,2,23,11.5,0,isiah-barton-1
+Julian Bellinger,2010-10-30,9,Toledo,@,Eastern Michigan,W,1,10,10.0,0,julian-bellinger-1
+Curtis Brown,2010-10-30,8,Texas,,Baylor,L,2,24,12.0,0,curtis-brown-2
+Ryan Broyles,2010-10-30,8,Oklahoma,,Colorado,W,2,3,1.5,0,ryan-broyles-1
+Cody Bruns,2010-10-30,8,Washington,,Stanford,L,1,2,2.0,0,cody-bruns-1
+Chad Bumphis,2010-10-30,9,Mississippi State,,Kentucky,W,4,44,11.0,0,chad-bumphis-1
+Rex Burkhead,2010-10-30,8,Nebraska,,Missouri,W,2,4,2.0,0,rex-burkhead-1
+Kendric Burney,2010-10-30,8,North Carolina,,William & Mary,W,2,18,9.0,0,kendric-burney-1
+Donald Campbell,2010-10-30,8,Western Kentucky,,North Texas,L,2,19,9.5,0,donald-campbell-1
+Paul Chaney Jr.,2010-10-30,8,Iowa,,Michigan State,W,1,12,12.0,0,paul-chaney-jr-1
+Ryan Clark,2010-10-30,9,Ohio,,Louisiana,W,3,45,15.0,0,ryan-clark-2
+Toney Clemons,2010-10-30,8,Colorado,@,Oklahoma,L,1,-1,-1.0,0,toney-clemons-1
+Randall Cobb,2010-10-30,9,Kentucky,@,Mississippi State,L,2,-1,-0.5,0,randall-cobb-1
+John Cole,2010-10-30,8,Vanderbilt,@,Arkansas,L,1,1,1.0,0,john-cole-1
+Eugene Cooper,2010-10-30,9,Bowling Green State,@,Central Michigan,W,2,1,0.5,0,eugene-cooper-1
+Graig Cooper,2010-10-30,8,Miami (FL),@,Virginia,L,3,9,3.0,0,graig-cooper-1
+Josh Cooper,2010-10-30,8,Oklahoma State,@,Kansas State,W,3,9,3.0,0,josh-cooper-2
+Tommy Davis,2010-10-30,9,Northern Illinois,@,Western Michigan,W,2,34,17.0,0,tommy-davis-2
+Mark Dell,2010-10-30,9,Michigan State,@,Iowa,L,1,0,0.0,0,mark-dell-1
+Tandon Doss,2010-10-30,8,Indiana,,Northwestern,L,1,9,9.0,0,tandon-doss-1
+Tony Drake,2010-10-30,9,Colorado State,,New Mexico,W,1,1,1.0,0,tony-drake-1
+Patrick Edwards,2010-10-30,8,Houston,@,Memphis,W,1,74,74.0,1,patrick-edwards-1
+Taylor Embree,2010-10-30,8,UCLA,,Arizona,L,2,13,6.5,0,taylor-embree-1
+Jeremy Gallon,2010-10-30,8,Michigan,@,Penn State,L,2,12,6.0,0,jeremy-gallon-1
+Carl Gettis,2010-10-30,8,Missouri,@,Nebraska,L,3,47,15.7,0,carl-gettis-1
+Marcus Gilchrist,2010-10-30,8,Clemson,@,Boston College,L,1,3,3.0,0,marcus-gilchrist-1
+John Goodman,2010-10-30,9,Notre Dame,,Tulsa,L,2,-2,-1.0,0,john-goodman-1
+Eric Gordon,2010-10-30,8,Tennessee,@,South Carolina,L,1,2,2.0,0,eric-gordon-2
+Waynelle Gravesande,2010-10-30,8,Purdue,@,Illinois,L,3,29,9.7,0,waynelle-gravesande-1
+Delano Green,2010-10-30,9,Temple,,Akron,W,3,44,14.7,0,delano-green-1
+Jordan Hall,2010-10-30,9,Ohio State,@,Minnesota,W,2,70,35.0,0,jordan-hall-1
+Cliff Harris,2010-10-30,8,Oregon,@,Southern California,W,3,54,18.0,0,cliff-harris-1
+Javon Harris,2010-10-30,8,Oklahoma,,Colorado,W,1,11,11.0,0,javon-harris-1
+Tysyn Hartman,2010-10-30,8,Kansas State,,Oklahoma State,L,2,27,13.5,0,tysyn-hartman-1
+T.Y. Hilton,2010-10-30,7,Florida International,@,Florida Atlantic,L,2,22,11.0,0,ty-hilton-1
+Mike Holmes,2010-10-30,8,Syracuse,@,Cincinnati,W,1,15,15.0,0,mike-holmes-1
+Josh Jackson,2010-10-30,8,Army,,Virginia Military Institute,W,2,17,8.5,0,josh-jackson-1
+Lovell Jackson,2010-10-30,8,Wake Forest,@,Maryland,L,1,9,9.0,0,lovell-jackson-1
+Terrell Jackson,2010-10-30,8,Buffalo,,Miami (OH),L,2,15,7.5,0,terrell-jackson-3
+Janoris Jenkins,2010-10-30,8,Florida,N,Georgia,W,1,0,0.0,0,janoris-jenkins-1
+Jerrel Jernigan,2010-10-30,7,Troy,@,Louisiana-Monroe,L,2,-4,-2.0,0,jerrel-jernigan-1
+Damaris Johnson,2010-10-30,8,Tulsa,@,Notre Dame,W,3,72,24.0,1,damaris-johnson-1
+Josh Johnson,2010-10-30,8,Purdue,@,Illinois,L,1,17,17.0,0,josh-johnson-3
+Michael Johnson,2010-10-30,8,Nevada-Las Vegas,,Texas Christian,L,1,0,0.0,0,michael-johnson-8
+Ronald Johnson,2010-10-30,8,Southern California,,Oregon,L,4,94,23.5,0,ronald-johnson-2
+Josh Jones,2010-10-30,8,Army,,Virginia Military Institute,W,1,0,0.0,0,josh-jones-1
+Travis Jones,2010-10-30,7,Florida Atlantic,,Florida International,W,2,12,6.0,0,travis-jones-2
+Shiloh Keo,2010-10-30,8,Idaho,@,Hawaii,L,1,3,3.0,0,shiloh-keo-1
+Jeremy Kerley,2010-10-30,9,Texas Christian,@,Nevada-Las Vegas,W,2,-3,-1.5,0,jeremy-kerley-1
+Todd Lee,2010-10-30,8,New Mexico State,,San Jose State,W,2,18,9.0,0,todd-lee-1
+Josh Lenz,2010-10-30,9,Iowa State,,Kansas,W,2,64,32.0,1,josh-lenz-1
+Detron Lewis,2010-10-30,8,Texas Tech,@,Texas A&M,L,1,-2,-2.0,0,detron-lewis-1
+Tony Logan,2010-10-30,8,Maryland,,Wake Forest,W,3,22,7.3,0,tony-logan-1
+Venric Mark,2010-10-30,8,Northwestern,@,Indiana,W,2,17,8.5,0,venric-mark-1
+Rishard Matthews,2010-10-30,8,Nevada,,Utah State,W,2,33,16.5,0,rishard-matthews-1
+Marlon McClure,2010-10-30,9,Texas-El Paso,@,Marshall,L,2,58,29.0,0,marlon-mcclure-1
+Kenric McNeal,2010-10-30,8,Texas A&M,,Texas Tech,W,1,0,0.0,0,kenric-mcneal-1
+Jamal Miles,2010-10-30,8,Arizona State,,Washington State,W,3,22,7.3,0,jamal-miles-1
+Leneric Muldrow,2010-10-30,8,Kent State,,Ball State,W,2,11,5.5,0,leneric-muldrow-1
+Gary Myers,2010-10-30,8,Navy,,Duke,L,1,4,4.0,0,gary-myers-1
+Jonathan Newsome,2010-10-30,9,Ohio State,@,Minnesota,W,1,19,19.0,0,jonathan-newsome-1
+Eric Page,2010-10-30,9,Toledo,@,Eastern Michigan,W,3,-1,-0.3,0,eric-page-1
+Larry Parker,2010-10-30,8,San Diego State,@,Wyoming,W,2,30,15.0,0,larry-parker-1
+Daymond Patterson,2010-10-30,8,Kansas,@,Iowa State,L,2,3,1.5,0,daymond-patterson-1
+Travon Patterson,2010-10-30,8,Colorado,@,Oklahoma,L,1,-1,-1.0,0,travon-patterson-2
+Nick Peterson,2010-10-30,8,Maryland,,Wake Forest,W,1,15,15.0,0,nick-peterson-1
+Kealoha Pilares,2010-10-30,9,Hawaii,,Idaho,W,2,28,14.0,0,kealoha-pilares-1
+Jordan Poyer,2010-10-30,7,Oregon State,,California,W,1,5,5.0,0,jordan-poyer-1
+Josh Robinson,2010-10-30,8,Central Florida,,East Carolina,W,2,42,21.0,0,josh-robinson-1
+Casey Robottom,2010-10-30,8,Tulane,,Southern Methodist,L,1,0,0.0,0,casey-robottom-1
+Jeremy Ross,2010-10-30,8,California,@,Oregon State,L,1,8,8.0,0,jeremy-ross-1
+Luke Ruff,2010-10-30,9,Wyoming,,San Diego State,L,1,15,15.0,0,luke-ruff-1
+Colin Sandeman,2010-10-30,8,Iowa,,Michigan State,W,2,12,6.0,0,colin-sandeman-1
+Branden Smith,2010-10-30,9,Georgia,N,Florida,L,2,14,7.0,0,branden-smith-1
+Devon Smith,2010-10-30,8,Penn State,,Michigan,W,1,22,22.0,0,devon-smith-1
+Jamill Smith,2010-10-30,9,Ball State,@,Kent State,L,3,16,5.3,0,jamill-smith-1
+Drew Terrell,2010-10-30,8,Stanford,@,Washington,W,4,26,6.5,0,drew-terrell-1
+Bennie Thomas,2010-10-30,9,Southern Methodist,@,Tulane,W,2,8,4.0,0,bennie-thomas-1
+Johnny Williams,2010-10-30,8,Duke,@,Navy,W,1,7,7.0,0,johnny-williams-1
+Cody Wilson,2010-10-30,9,Central Michigan,,Bowling Green State,L,1,9,9.0,0,cody-wilson-1
+D.J. Woods,2010-10-30,8,Cincinnati,,Syracuse,L,1,20,20.0,0,dj-woods-1
+Jarius Wright,2010-10-30,8,Arkansas,,Vanderbilt,W,1,8,8.0,0,jarius-wright-1
+William Wright,2010-10-30,8,Arizona,@,UCLA,W,1,11,11.0,0,william-wright-1
+Terrence Mitchell,2010-11-03,8,South Florida,,Rutgers,W,2,37,18.5,0,terrence-mitchell-1
+Mason Robinson,2010-11-03,8,Rutgers,@,South Florida,L,2,61,30.5,1,mason-robinson-1
+Ryan Clark,2010-11-04,10,Ohio,,Buffalo,W,2,10,5.0,0,ryan-clark-2
+Jayron Hosley,2010-11-04,9,Virginia Tech,,Georgia Tech,W,2,6,3.0,0,jayron-hosley-1
+Jerrard Tarrant,2010-11-04,9,Georgia Tech,@,Virginia Tech,L,2,10,5.0,0,jerrard-tarrant-1
+Josh Robinson,2010-11-05,9,Central Florida,@,Houston,W,2,37,18.5,0,josh-robinson-1
+Jordan White,2010-11-05,9,Western Michigan,@,Central Michigan,L,3,34,11.3,0,jordan-white-1
+Darvin Adams,2010-11-06,10,Auburn,,Chattanooga,W,1,11,11.0,0,darvin-adams-1
+Bryant Allen,2010-11-06,10,Minnesota,@,Michigan State,L,1,6,6.0,0,bryant-allen-1
+D.J. Banks,2010-11-06,9,Tulane,,Southern Mississippi,L,1,0,0.0,0,dj-banks-1
+Doug Beaumont,2010-11-06,9,Louisville,@,Syracuse,W,3,12,4.0,0,doug-beaumont-1
+Travis Benjamin,2010-11-06,9,Miami (FL),,Maryland,W,2,-2,-1.0,0,travis-benjamin-1
+Omar Bolden,2010-11-06,9,Arizona State,@,Southern California,L,1,0,0.0,0,omar-bolden-1
+Andre Booker,2010-11-06,9,Marshall,@,Alabama-Birmingham,W,1,0,0.0,0,andre-booker-1
+Howard Bowens,2010-11-06,9,Kent State,,Temple,L,1,14,14.0,0,howard-bowens-1
+Devon Brown,2010-11-06,9,Wake Forest,,Boston College,L,1,0,0.0,0,devon-brown-1
+Justin Brown,2010-11-06,9,Penn State,,Northwestern,W,1,5,5.0,0,justin-brown-1
+Ryan Broyles,2010-11-06,9,Oklahoma,@,Texas A&M,L,3,31,10.3,0,ryan-broyles-1
+Krys Buerck,2010-11-06,10,Baylor,@,Oklahoma State,L,1,14,14.0,0,krys-buerck-1
+Lee Butler,2010-11-06,9,Duke,,Virginia,W,1,26,26.0,0,lee-butler-1
+Donald Campbell,2010-11-06,9,Western Kentucky,,Florida Atlantic,L,3,18,6.0,0,donald-campbell-1
+Quindarius Carr,2010-11-06,10,Auburn,,Chattanooga,W,3,23,7.7,0,quindarius-carr-1
+Brelan Chancellor,2010-11-06,9,North Texas,,Troy,L,1,-2,-2.0,0,brelan-chancellor-1
+Randall Cobb,2010-11-06,10,Kentucky,,Charleston Southern,W,1,13,13.0,0,randall-cobb-1
+John Cole,2010-11-06,9,Vanderbilt,,Florida,L,2,-1,-0.5,0,john-cole-1
+Graig Cooper,2010-11-06,9,Miami (FL),,Maryland,W,1,4,4.0,0,graig-cooper-1
+Josh Cooper,2010-11-06,9,Oklahoma State,,Baylor,W,3,29,9.7,0,josh-cooper-2
+Richard Crawford,2010-11-06,10,Southern Methodist,@,Texas-El Paso,L,2,16,8.0,0,richard-crawford-1
+Andre Debose,2010-11-06,9,Florida,@,Vanderbilt,W,1,4,4.0,0,andre-debose-1
+Tandon Doss,2010-11-06,9,Indiana,,Iowa,L,1,9,9.0,0,tandon-doss-1
+Taylor Embree,2010-11-06,9,UCLA,,Oregon State,W,1,1,1.0,0,taylor-embree-1
+Rashad Evans,2010-11-06,8,Fresno State,@,Louisiana Tech,W,2,3,1.5,0,rashad-evans-1
+Troy Evans,2010-11-06,9,Marshall,@,Alabama-Birmingham,W,3,23,7.7,0,troy-evans-2
+J.D. Falslev,2010-11-06,9,Brigham Young,,Nevada-Las Vegas,W,4,42,10.5,0,jd-falslev-1
+Jason Frierson,2010-11-06,8,Florida International,,Louisiana-Monroe,W,1,11,11.0,0,jason-frierson-1
+Kevin Gaddis,2010-11-06,9,Rice,@,Tulsa,L,1,0,0.0,0,kevin-gaddis-1
+Jeremy Gallon,2010-11-06,9,Michigan,,Illinois,W,1,14,14.0,0,jeremy-gallon-1
+Carl Gettis,2010-11-06,9,Missouri,@,Texas Tech,L,3,6,2.0,0,carl-gettis-1
+Marcus Gilchrist,2010-11-06,9,Clemson,,North Carolina State,W,1,8,8.0,0,marcus-gilchrist-1
+David Gilreath,2010-11-06,9,Wisconsin,@,Purdue,W,1,27,27.0,0,david-gilreath-1
+Jesse Grandy,2010-11-06,9,Mississippi,,Louisiana,W,2,42,21.0,0,jesse-grandy-1
+Waynelle Gravesande,2010-11-06,9,Purdue,,Wisconsin,L,2,28,14.0,0,waynelle-gravesande-1
+Delano Green,2010-11-06,10,Temple,@,Kent State,W,2,2,1.0,0,delano-green-1
+Cliff Harris,2010-11-06,9,Oregon,,Washington,W,4,127,31.8,0,cliff-harris-1
+Dwayne Harris,2010-11-06,9,East Carolina,,Navy,L,1,-1,-1.0,0,dwayne-harris-1
+Montel Harris,2010-11-06,9,Boston College,@,Wake Forest,W,1,0,0.0,0,montel-harris-1
+Tysyn Hartman,2010-11-06,9,Kansas State,,Texas,W,1,6,6.0,0,tysyn-hartman-1
+Aaron Henry,2010-11-06,9,Wisconsin,@,Purdue,W,1,1,1.0,0,aaron-henry-1
+T.Y. Hilton,2010-11-06,8,Florida International,,Louisiana-Monroe,W,1,3,3.0,0,ty-hilton-1
+Mike Holmes,2010-11-06,9,Syracuse,,Louisville,L,4,26,6.5,0,mike-holmes-1
+Janzen Jackson,2010-11-06,9,Tennessee,@,Memphis,W,2,26,13.0,0,janzen-jackson-1
+Josh Jackson,2010-11-06,9,Army,,Air Force,L,2,16,8.0,0,josh-jackson-1
+Lovell Jackson,2010-11-06,9,Wake Forest,,Boston College,L,1,2,2.0,0,lovell-jackson-1
+Janoris Jenkins,2010-11-06,9,Florida,@,Vanderbilt,W,2,13,6.5,0,janoris-jenkins-1
+Jerrel Jernigan,2010-11-06,8,Troy,@,North Texas,W,3,28,9.3,0,jerrel-jernigan-1
+Damaris Johnson,2010-11-06,9,Tulsa,,Rice,W,1,3,3.0,0,damaris-johnson-1
+Ronald Johnson,2010-11-06,9,Southern California,,Arizona State,W,3,21,7.0,0,ronald-johnson-2
+Mike Jones,2010-11-06,9,Alabama-Birmingham,,Marshall,L,3,0,0.0,0,mike-jones-4
+Perry Jones,2010-11-06,9,Virginia,@,Duke,L,1,0,0.0,0,perry-jones-1
+Travis Jones,2010-11-06,8,Florida Atlantic,@,Western Kentucky,W,4,36,9.0,0,travis-jones-2
+Aire Justin,2010-11-06,10,Washington State,,California,L,2,33,16.5,0,aire-justin-1
+Jeremy Kerley,2010-11-06,10,Texas Christian,@,Utah,W,1,4,4.0,0,jeremy-kerley-1
+Sam Kirkland,2010-11-06,9,Kent State,,Temple,L,1,9,9.0,1,sam-kirkland-1
+Tracy Lampley,2010-11-06,9,Southern Mississippi,@,Tulane,W,2,3,1.5,0,tracy-lampley-1
+Josh Lenz,2010-11-06,10,Iowa State,,Nebraska,L,1,10,10.0,0,josh-lenz-1
+Detron Lewis,2010-11-06,9,Texas Tech,,Missouri,W,2,26,13.0,0,detron-lewis-1
+Phillip Livas,2010-11-06,9,Louisiana Tech,,Fresno State,L,1,29,29.0,0,phillip-livas-1
+Tony Logan,2010-11-06,9,Maryland,@,Miami (FL),L,4,52,13.0,0,tony-logan-1
+Rishard Matthews,2010-11-06,9,Nevada,@,Idaho,W,1,10,10.0,0,rishard-matthews-1
+Marquis Maze,2010-11-06,9,Alabama,@,Louisiana State,L,1,3,3.0,0,marquis-maze-1
+Marlon McClure,2010-11-06,10,Texas-El Paso,,Southern Methodist,W,1,8,8.0,0,marlon-mcclure-1
+T.J. McDonald,2010-11-06,9,Southern California,,Arizona State,W,1,24,24.0,0,tj-mcdonald-1
+Kenric McNeal,2010-11-06,9,Texas A&M,,Oklahoma,W,1,2,2.0,0,kenric-mcneal-1
+Eric Moats,2010-11-06,9,Utah State,,New Mexico State,W,1,0,0.0,0,eric-moats-1
+Leneric Muldrow,2010-11-06,9,Kent State,,Temple,L,1,1,1.0,0,leneric-muldrow-1
+Gary Myers,2010-11-06,9,Navy,@,East Carolina,W,1,0,0.0,0,gary-myers-1
+Corey Nelson,2010-11-06,9,Oklahoma,@,Texas A&M,L,1,3,3.0,0,corey-nelson-2
+Robert Nelson,2010-11-06,9,Louisiana-Monroe,@,Florida International,L,1,4,4.0,0,robert-nelson-1
+Derek Owens,2010-11-06,10,Georgia,,Idaho State,W,2,16,8.0,0,derek-owens-1
+Larry Parker,2010-11-06,9,San Diego State,,Colorado State,W,2,9,4.5,0,larry-parker-1
+Patrick Peterson,2010-11-06,9,Louisiana State,,Alabama,W,2,22,11.0,0,patrick-peterson-1
+Tavious Polo,2010-11-06,8,Florida Atlantic,@,Western Kentucky,W,2,5,2.5,0,tavious-polo-1
+Chris Potter,2010-11-06,8,Boise State,,Hawaii,W,3,8,2.7,0,chris-potter-1
+William Powell,2010-11-06,9,Kansas State,,Texas,W,1,0,0.0,0,william-powell-1
+Jordan Poyer,2010-11-06,8,Oregon State,@,UCLA,L,2,27,13.5,0,jordan-poyer-1
+Chris Rainey,2010-11-06,9,Florida,@,Vanderbilt,W,2,39,19.5,0,chris-rainey-1
+Jack Ramsey,2010-11-06,9,Illinois,@,Michigan,L,1,21,21.0,0,jack-ramsey-1
+Austin Raphael,2010-11-06,8,Fresno State,@,Louisiana Tech,W,1,10,10.0,0,austin-raphael-1
+Greg Reid,2010-11-06,9,Florida State,,North Carolina,L,5,2,0.4,0,greg-reid-1
+Casey Robottom,2010-11-06,9,Tulane,,Southern Mississippi,L,1,0,0.0,0,casey-robottom-1
+Jeremy Ross,2010-11-06,9,California,@,Washington State,W,2,15,7.5,0,jeremy-ross-1
+Colin Sandeman,2010-11-06,9,Iowa,@,Indiana,W,2,14,7.0,0,colin-sandeman-1
+Da'Norris Searcy,2010-11-06,9,North Carolina,@,Florida State,W,2,44,22.0,0,danorris-searcy-1
+Branden Smith,2010-11-06,10,Georgia,,Idaho State,W,1,40,40.0,0,branden-smith-1
+Devon Smith,2010-11-06,9,Penn State,,Northwestern,W,1,5,5.0,0,devon-smith-1
+Jamill Smith,2010-11-06,10,Ball State,,Akron,W,2,2,1.0,0,jamill-smith-1
+Shaky Smithson,2010-11-06,9,Utah,,Texas Christian,L,1,10,10.0,0,shaky-smithson-1
+Drew Terrell,2010-11-06,9,Stanford,,Arizona,W,1,27,27.0,0,drew-terrell-1
+Jamar Thomas,2010-11-06,9,Tulane,,Southern Mississippi,L,3,6,2.0,0,jamar-thomas-1
+Ryan Van Rensburg,2010-11-06,9,Vanderbilt,,Florida,L,1,18,18.0,0,ryan-van-rensburg-1
+Nick Wilhelm,2010-11-06,9,New Mexico,,Wyoming,W,1,6,6.0,0,nick-wilhelm-1
+Austin Zouzalik,2010-11-06,9,Texas Tech,,Missouri,W,1,5,5.0,0,austin-zouzalik-1
+Tommy Davis,2010-11-09,10,Northern Illinois,,Toledo,W,2,8,4.0,0,tommy-davis-2
+Eugene Cooper,2010-11-10,10,Bowling Green State,,Miami (OH),L,3,13,4.3,0,eugene-cooper-1
+Dwayne Harris,2010-11-11,10,East Carolina,@,Alabama-Birmingham,W,2,64,32.0,0,dwayne-harris-1
+Cameron Saddler,2010-11-11,9,Pittsburgh,@,Connecticut,L,2,15,7.5,0,cameron-saddler-1
+Mitch Burroughs,2010-11-12,9,Boise State,@,Idaho,W,1,8,8.0,0,mitch-burroughs-1
+Terrell Jackson,2010-11-12,10,Buffalo,,Ball State,L,1,0,0.0,0,terrell-jackson-3
+Jeron Johnson,2010-11-12,9,Boise State,@,Idaho,W,1,8,8.0,0,jeron-johnson-1
+Shiloh Keo,2010-11-12,10,Idaho,,Boise State,L,3,9,3.0,0,shiloh-keo-1
+Chris Potter,2010-11-12,9,Boise State,@,Idaho,W,4,106,26.5,1,chris-potter-1
+Jamill Smith,2010-11-12,11,Ball State,@,Buffalo,W,2,5,2.5,0,jamill-smith-1
+Joe Adams,2010-11-13,10,Arkansas,,Texas-El Paso,W,2,40,20.0,0,joe-adams-1
+Antonio Andrews,2010-11-13,10,Western Kentucky,@,Arkansas State,W,2,2,1.0,0,antonio-andrews-1
+Orkeys Auriene,2010-11-13,10,Louisiana,@,Florida Atlantic,L,1,4,4.0,0,orkeys-auriene-1
+Doug Beaumont,2010-11-13,10,Louisville,,South Florida,L,1,-3,-3.0,0,doug-beaumont-1
+Robert Blanton,2010-11-13,10,Notre Dame,,Utah,W,2,27,13.5,1,robert-blanton-1
+Alfred Blue,2010-11-13,10,Louisiana State,,Louisiana-Monroe,W,1,4,4.0,0,alfred-blue-1
+Justin Brown,2010-11-13,10,Penn State,@,Ohio State,L,1,8,8.0,0,justin-brown-1
+Ryan Broyles,2010-11-13,10,Oklahoma,,Texas Tech,W,3,11,3.7,0,ryan-broyles-1
+Krys Buerck,2010-11-13,11,Baylor,,Texas A&M,L,1,0,0.0,0,krys-buerck-1
+Chad Bumphis,2010-11-13,10,Mississippi State,@,Alabama,L,1,3,3.0,0,chad-bumphis-1
+Kris Burd,2010-11-13,10,Virginia,,Maryland,L,1,4,4.0,0,kris-burd-1
+Lee Butler,2010-11-13,10,Duke,,Boston College,L,3,2,0.7,0,lee-butler-1
+Brelan Chancellor,2010-11-13,10,North Texas,@,Middle Tennessee State,W,1,1,1.0,0,brelan-chancellor-1
+Paul Chaney Jr.,2010-11-13,10,Iowa,@,Northwestern,L,2,-1,-0.5,0,paul-chaney-jr-1
+Curtis Clay,2010-11-13,11,Texas Christian,,San Diego State,W,1,33,33.0,0,curtis-clay-1
+Toney Clemons,2010-11-13,10,Colorado,,Iowa State,W,1,-4,-4.0,0,toney-clemons-1
+Randall Cobb,2010-11-13,11,Kentucky,,Vanderbilt,W,5,19,3.8,0,randall-cobb-1
+Ryan Collado,2010-11-13,11,Minnesota,@,Illinois,W,2,4,2.0,0,ryan-collado-1
+Josh Cooper,2010-11-13,10,Oklahoma State,@,Texas,W,1,2,2.0,0,josh-cooper-2
+David Douglas,2010-11-13,10,Arizona,,Southern California,L,1,2,2.0,0,david-douglas-1
+Rashad Evans,2010-11-13,9,Fresno State,,Nevada,L,3,2,0.7,0,rashad-evans-1
+Troy Evans,2010-11-13,10,Marshall,,Memphis,W,4,38,9.5,0,troy-evans-2
+J.D. Falslev,2010-11-13,10,Brigham Young,@,Colorado State,W,1,5,5.0,0,jd-falslev-1
+Marcus Gilchrist,2010-11-13,10,Clemson,@,Florida State,L,2,9,4.5,0,marcus-gilchrist-1
+David Gilreath,2010-11-13,10,Wisconsin,,Indiana,W,1,22,22.0,0,david-gilreath-1
+T.J. Graham,2010-11-13,10,North Carolina State,,Wake Forest,W,3,6,2.0,0,tj-graham-1
+Jesse Grandy,2010-11-13,10,Mississippi,@,Tennessee,L,2,2,1.0,0,jesse-grandy-1
+D.A. Griffin,2010-11-13,10,Memphis,@,Marshall,L,2,1,0.5,0,da-griffin-1
+Jordan Hall,2010-11-13,10,Ohio State,,Penn State,W,1,23,23.0,0,jordan-hall-1
+Roderick Hall,2010-11-13,10,Arkansas State,,Western Kentucky,L,3,41,13.7,0,roderick-hall-1
+Cliff Harris,2010-11-13,10,Oregon,@,California,W,2,79,39.5,1,cliff-harris-1
+Montel Harris,2010-11-13,10,Boston College,@,Duke,W,3,21,7.0,0,montel-harris-1
+Brandon Hogan,2010-11-13,9,West Virginia,,Cincinnati,W,2,18,9.0,0,brandon-hogan-1
+Mike Holmes,2010-11-13,10,Syracuse,@,Rutgers,W,2,2,1.0,0,mike-holmes-1
+Jayron Hosley,2010-11-13,10,Virginia Tech,@,North Carolina,W,1,0,0.0,0,jayron-hosley-1
+Treon Howard,2010-11-13,9,Florida Atlantic,,Louisiana,W,1,9,9.0,0,treon-howard-1
+Janzen Jackson,2010-11-13,10,Tennessee,,Mississippi,W,3,-12,-4.0,0,janzen-jackson-1
+Josh Jackson,2010-11-13,10,Army,@,Kent State,W,1,4,4.0,0,josh-jackson-1
+Lovell Jackson,2010-11-13,10,Wake Forest,@,North Carolina State,L,2,8,4.0,0,lovell-jackson-1
+Janoris Jenkins,2010-11-13,10,Florida,,South Carolina,L,2,17,8.5,0,janoris-jenkins-1
+Jerrel Jernigan,2010-11-13,9,Troy,,Florida International,L,3,32,10.7,0,jerrel-jernigan-1
+Damaris Johnson,2010-11-13,10,Tulsa,@,Houston,W,1,5,5.0,0,damaris-johnson-1
+Michael Johnson,2010-11-13,10,Nevada-Las Vegas,,Wyoming,W,2,-3,-1.5,0,michael-johnson-8
+Ronald Johnson,2010-11-13,10,Southern California,@,Arizona,W,1,11,11.0,0,ronald-johnson-2
+Perry Jones,2010-11-13,10,Virginia,,Maryland,L,2,30,15.0,0,perry-jones-1
+Aire Justin,2010-11-13,11,Washington State,@,Oregon State,W,1,0,0.0,0,aire-justin-1
+Jeremy Kerley,2010-11-13,11,Texas Christian,,San Diego State,W,5,59,11.8,0,jeremy-kerley-1
+Tracy Lampley,2010-11-13,10,Southern Mississippi,@,Central Florida,W,1,7,7.0,0,tracy-lampley-1
+Josh Lenz,2010-11-13,11,Iowa State,@,Colorado,L,1,14,14.0,0,josh-lenz-1
+Detron Lewis,2010-11-13,10,Texas Tech,@,Oklahoma,L,1,2,2.0,0,detron-lewis-1
+Phillip Livas,2010-11-13,10,Louisiana Tech,@,New Mexico State,W,1,3,3.0,0,phillip-livas-1
+Tony Logan,2010-11-13,10,Maryland,@,Virginia,W,1,1,1.0,0,tony-logan-1
+Marquis Maze,2010-11-13,10,Alabama,,Mississippi State,W,3,36,12.0,0,marquis-maze-1
+Marlon McClure,2010-11-13,11,Texas-El Paso,@,Arkansas,L,1,0,0.0,0,marlon-mcclure-1
+Jamal Miles,2010-11-13,10,Arizona State,,Stanford,L,2,3,1.5,0,jamal-miles-1
+Chase Minnifield,2010-11-13,10,Virginia,,Maryland,L,1,7,7.0,0,chase-minnifield-1
+Eric Moats,2010-11-13,10,Utah State,@,San Jose State,W,2,5,2.5,0,eric-moats-1
+Jerico Nelson,2010-11-13,10,Arkansas,,Texas-El Paso,W,1,10,10.0,0,jerico-nelson-1
+Robert Nelson,2010-11-13,10,Louisiana-Monroe,@,Louisiana State,L,2,7,3.5,0,robert-nelson-1
+Larry Parker,2010-11-13,10,San Diego State,@,Texas Christian,L,2,33,16.5,0,larry-parker-1
+Daymond Patterson,2010-11-13,10,Kansas,@,Nebraska,L,1,1,1.0,0,daymond-patterson-1
+Patrick Peterson,2010-11-13,10,Louisiana State,,Louisiana-Monroe,W,3,31,10.3,0,patrick-peterson-1
+Tavious Polo,2010-11-13,9,Florida Atlantic,,Louisiana,W,1,7,7.0,0,tavious-polo-1
+Jordan Poyer,2010-11-13,9,Oregon State,,Washington State,L,1,17,17.0,0,jordan-poyer-1
+Chris Rainey,2010-11-13,10,Florida,,South Carolina,L,2,2,1.0,0,chris-rainey-1
+Greg Reid,2010-11-13,10,Florida State,,Clemson,W,1,0,0.0,0,greg-reid-1
+Reggie Rembert,2010-11-13,11,Air Force,,New Mexico,W,2,0,0.0,0,reggie-rembert-1
+Josh Robinson,2010-11-13,10,Central Florida,,Southern Mississippi,L,1,0,0.0,0,josh-robinson-1
+Mason Robinson,2010-11-13,9,Rutgers,,Syracuse,L,2,2,1.0,0,mason-robinson-1
+Jeremy Ross,2010-11-13,10,California,,Oregon,L,1,8,8.0,0,jeremy-ross-1
+Luke Ruff,2010-11-13,11,Wyoming,@,Nevada-Las Vegas,L,1,0,0.0,0,luke-ruff-1
+Eric Russell,2010-11-13,9,Middle Tennessee State,,North Texas,L,3,4,1.3,0,eric-russell-1
+Ace Sanders,2010-11-13,10,South Carolina,@,Florida,W,1,0,0.0,0,ace-sanders-1
+Da'Norris Searcy,2010-11-13,10,North Carolina,,Virginia Tech,L,1,-9,-9.0,0,danorris-searcy-1
+David Sims,2010-11-13,11,Iowa State,@,Colorado,L,1,-1,-1.0,0,david-sims-1
+Shaky Smithson,2010-11-13,10,Utah,@,Notre Dame,L,1,-2,-2.0,0,shaky-smithson-1
+Markeith Summers,2010-11-13,10,Mississippi,@,Tennessee,L,4,20,5.0,0,markeith-summers-1
+Jerrard Tarrant,2010-11-13,10,Georgia Tech,,Miami (FL),L,1,11,11.0,0,jerrard-tarrant-1
+Drew Terrell,2010-11-13,10,Stanford,@,Arizona State,W,3,56,18.7,0,drew-terrell-1
+Tre Walker,2010-11-13,10,Kansas State,@,Missouri,L,1,0,0.0,0,tre-walker-1
+Xavier Webb,2010-11-13,10,Rice,@,Tulane,L,2,17,8.5,0,xavier-webb-1
+Nick Wilhelm,2010-11-13,10,New Mexico,@,Air Force,L,1,0,0.0,0,nick-wilhelm-1
+Cody Wilson,2010-11-13,11,Central Michigan,@,Navy,L,1,5,5.0,0,cody-wilson-1
+Luke Wollet,2010-11-13,10,Kent State,,Army,L,1,36,36.0,0,luke-wollet-1
+Travis Carrie,2010-11-16,11,Ohio,@,Temple,W,2,9,4.5,0,travis-carrie-1
+Nate Burney,2010-11-17,11,Akron,,Miami (OH),L,1,-2,-2.0,0,nate-burney-1
+Eugene Cooper,2010-11-17,11,Bowling Green State,@,Toledo,L,2,71,35.5,1,eugene-cooper-1
+Jeremy Lafrance,2010-11-17,11,Akron,,Miami (OH),L,1,5,5.0,0,jeremy-lafrance-1
+Eric Page,2010-11-17,11,Toledo,,Bowling Green State,W,2,3,1.5,0,eric-page-1
+DeMarco Paine,2010-11-17,11,Miami (OH),@,Akron,W,3,29,9.7,0,demarco-paine-1
+Cody Bruns,2010-11-18,10,Washington,,UCLA,W,6,29,4.8,0,cody-bruns-1
+Taylor Embree,2010-11-18,10,UCLA,@,Washington,L,3,14,4.7,0,taylor-embree-1
+Marquis Maze,2010-11-18,11,Alabama,,Georgia State,W,1,23,23.0,0,marquis-maze-1
+Reggie Rembert,2010-11-18,12,Air Force,@,Nevada-Las Vegas,W,1,1,1.0,0,reggie-rembert-1
+Chavis Williams,2010-11-18,11,Alabama,,Georgia State,W,1,15,15.0,0,chavis-williams-1
+Mitch Burroughs,2010-11-19,10,Boise State,,Fresno State,W,1,35,35.0,0,mitch-burroughs-1
+Jalen Saunders,2010-11-19,10,Fresno State,@,Boise State,L,1,10,10.0,0,jalen-saunders-1
+Denicos Allen,2010-11-20,11,Michigan State,,Purdue,W,1,10,10.0,0,denicos-allen-1
+Anthony Anderson,2010-11-20,11,Tennessee,@,Vanderbilt,W,2,1,0.5,0,anthony-anderson-1
+Antonio Andrews,2010-11-20,11,Western Kentucky,,Middle Tennessee State,L,2,13,6.5,0,antonio-andrews-1
+Perez Ashford,2010-11-20,11,Northern Illinois,@,Ball State,W,1,15,15.0,0,perez-ashford-1
+Orkeys Auriene,2010-11-20,11,Louisiana,,Florida International,L,3,14,4.7,0,orkeys-auriene-1
+Kama Bailey,2010-11-20,11,Idaho,@,Utah State,W,4,6,1.5,0,kama-bailey-1
+Doug Beaumont,2010-11-20,11,Louisville,,West Virginia,L,1,0,0.0,0,doug-beaumont-1
+Travis Benjamin,2010-11-20,11,Miami (FL),,Virginia Tech,L,1,-4,-4.0,0,travis-benjamin-1
+Greg Bird,2010-11-20,11,Utah,@,San Diego State,W,1,12,12.0,0,greg-bird-1
+Bar'Ee Boyd,2010-11-20,11,Western Kentucky,,Middle Tennessee State,L,2,42,21.0,0,baree-boyd-1
+Krys Buerck,2010-11-20,12,Baylor,,Oklahoma,L,2,-4,-2.0,0,krys-buerck-1
+Rex Burkhead,2010-11-20,11,Nebraska,@,Texas A&M,L,1,8,8.0,0,rex-burkhead-1
+Lee Butler,2010-11-20,11,Duke,@,Georgia Tech,L,1,24,24.0,0,lee-butler-1
+Tracy Carter,2010-11-20,11,Idaho,@,Utah State,W,1,1,1.0,0,tracy-carter-1
+Brelan Chancellor,2010-11-20,11,North Texas,@,Louisiana-Monroe,L,1,6,6.0,0,brelan-chancellor-1
+Cameron Chism,2010-11-20,11,Maryland,,Florida State,L,1,1,1.0,0,cameron-chism-1
+John Cole,2010-11-20,11,Vanderbilt,,Tennessee,L,1,12,12.0,0,john-cole-1
+Graig Cooper,2010-11-20,11,Miami (FL),,Virginia Tech,L,1,3,3.0,0,graig-cooper-1
+Josh Cooper,2010-11-20,11,Oklahoma State,@,Kansas,W,2,14,7.0,0,josh-cooper-2
+Richard Crawford,2010-11-20,11,Southern Methodist,,Marshall,W,2,43,21.5,0,richard-crawford-1
+Benjamin Cunningham,2010-11-20,10,Middle Tennessee State,@,Western Kentucky,W,1,0,0.0,0,benjamin-cunningham-1
+Andrew Dailey,2010-11-20,11,Penn State,N,Indiana,W,1,11,11.0,0,andrew-dailey-1
+Tommy Davis,2010-11-20,11,Northern Illinois,@,Ball State,W,2,56,28.0,0,tommy-davis-2
+Jordan Delegal,2010-11-20,11,Northern Illinois,@,Ball State,W,2,22,11.0,0,jordan-delegal-1
+Tandon Doss,2010-11-20,11,Indiana,N,Penn State,L,1,1,1.0,0,tandon-doss-1
+Ryan Downard,2010-11-20,11,Eastern Michigan,@,Buffalo,W,3,-1,-0.3,0,ryan-downard-1
+Troy Evans,2010-11-20,11,Marshall,@,Southern Methodist,L,3,-4,-1.3,0,troy-evans-2
+J.D. Falslev,2010-11-20,11,Brigham Young,,New Mexico,W,2,1,0.5,0,jd-falslev-1
+Marcus Gilchrist,2010-11-20,11,Clemson,@,Wake Forest,W,1,2,2.0,0,marcus-gilchrist-1
+T.J. Graham,2010-11-20,11,North Carolina State,@,North Carolina,W,2,88,44.0,1,tj-graham-1
+Jesse Grandy,2010-11-20,11,Mississippi,@,Louisiana State,L,1,3,3.0,0,jesse-grandy-1
+Jordan Hall,2010-11-20,11,Ohio State,@,Iowa,W,1,7,7.0,0,jordan-hall-1
+Roderick Hall,2010-11-20,11,Arkansas State,@,Navy,L,1,-1,-1.0,0,roderick-hall-1
+Frankie Hammond Jr.,2010-11-20,11,Florida,,Appalachian State,W,1,0,0.0,0,frankie-hammond-jr-1
+Dwayne Harris,2010-11-20,11,East Carolina,@,Rice,L,1,0,0.0,0,dwayne-harris-1
+Montel Harris,2010-11-20,11,Boston College,,Virginia,W,2,0,0.0,0,montel-harris-1
+Michael Harrison,2010-11-20,11,Oklahoma State,@,Kansas,W,1,32,32.0,1,michael-harrison-1
+Brandon Hogan,2010-11-20,10,West Virginia,@,Louisville,W,3,22,7.3,0,brandon-hogan-1
+Mike Holmes,2010-11-20,11,Syracuse,,Connecticut,L,2,1,0.5,0,mike-holmes-1
+Janoris Jenkins,2010-11-20,11,Florida,,Appalachian State,W,2,25,12.5,0,janoris-jenkins-1
+Jerrel Jernigan,2010-11-20,10,Troy,@,South Carolina,L,3,42,14.0,0,jerrel-jernigan-1
+Damaris Johnson,2010-11-20,11,Tulsa,,Texas-El Paso,W,1,25,25.0,0,damaris-johnson-1
+Josh Johnson,2010-11-20,11,Purdue,@,Michigan State,L,2,23,11.5,0,josh-johnson-3
+Ronald Johnson,2010-11-20,11,Southern California,@,Oregon State,L,1,-2,-2.0,0,ronald-johnson-2
+Perry Jones,2010-11-20,11,Virginia,@,Boston College,L,1,0,0.0,0,perry-jones-1
+Tracy Lampley,2010-11-20,11,Southern Mississippi,,Houston,W,2,-1,-0.5,0,tracy-lampley-1
+Todd Lee,2010-11-20,11,New Mexico State,@,Nevada,L,2,16,8.0,0,todd-lee-1
+Josh Lenz,2010-11-20,12,Iowa State,,Missouri,L,1,5,5.0,0,josh-lenz-1
+David Leonard,2010-11-20,12,Wyoming,,Colorado State,W,1,18,18.0,0,david-leonard-1
+Venric Mark,2010-11-20,11,Northwestern,,Illinois,L,1,58,58.0,0,venric-mark-1
+Keshawn Martin,2010-11-20,11,Michigan State,,Purdue,W,1,3,3.0,0,keshawn-martin-1
+Rishard Matthews,2010-11-20,11,Nevada,,New Mexico State,W,4,25,6.3,0,rishard-matthews-1
+Anthony McClung,2010-11-20,10,Cincinnati,,Rutgers,W,1,6,6.0,0,anthony-mcclung-1
+Marlon McClure,2010-11-20,12,Texas-El Paso,@,Tulsa,L,2,20,10.0,0,marlon-mcclure-1
+Terrence Mitchell,2010-11-20,10,South Florida,,Pittsburgh,L,1,12,12.0,0,terrence-mitchell-1
+Leneric Muldrow,2010-11-20,11,Kent State,@,Western Michigan,L,2,8,4.0,0,leneric-muldrow-1
+Gary Myers,2010-11-20,11,Navy,,Arkansas State,W,1,3,3.0,0,gary-myers-1
+Robert Nelson,2010-11-20,11,Louisiana-Monroe,,North Texas,W,2,18,9.0,0,robert-nelson-1
+Larry Parker,2010-11-20,11,San Diego State,,Utah,L,1,0,0.0,0,larry-parker-1
+Patrick Peterson,2010-11-20,11,Louisiana State,,Mississippi,W,3,30,10.0,0,patrick-peterson-1
+Adrian Phillips,2010-11-20,11,Texas,,Florida Atlantic,W,1,9,9.0,0,adrian-phillips-1
+Jordan Poyer,2010-11-20,10,Oregon State,,Southern California,W,2,23,11.5,0,jordan-poyer-1
+Jack Ramsey,2010-11-20,11,Illinois,@,Northwestern,W,1,0,0.0,0,jack-ramsey-1
+Greg Reid,2010-11-20,11,Florida State,@,Maryland,W,1,0,0.0,0,greg-reid-1
+Josh Robinson,2010-11-20,11,Central Florida,@,Tulane,W,4,71,17.8,0,josh-robinson-1
+Mason Robinson,2010-11-20,10,Rutgers,@,Cincinnati,L,2,-3,-1.5,0,mason-robinson-1
+Eric Russell,2010-11-20,10,Middle Tennessee State,@,Western Kentucky,W,1,11,11.0,0,eric-russell-1
+Cameron Saddler,2010-11-20,10,Pittsburgh,@,South Florida,W,1,23,23.0,0,cameron-saddler-1
+Greg Salas,2010-11-20,11,Hawaii,,San Jose State,W,2,0,0.0,0,greg-salas-1
+Ace Sanders,2010-11-20,11,South Carolina,,Troy,W,1,0,0.0,0,ace-sanders-1
+Da'Norris Searcy,2010-11-20,11,North Carolina,,North Carolina State,L,2,16,8.0,0,danorris-searcy-1
+Pat Shed,2010-11-20,11,Alabama-Birmingham,,Memphis,W,1,3,3.0,0,pat-shed-1
+Devon Smith,2010-11-20,11,Penn State,N,Indiana,W,1,25,25.0,0,devon-smith-1
+Shaky Smithson,2010-11-20,11,Utah,@,San Diego State,W,1,2,2.0,0,shaky-smithson-1
+Andrew Taglianetti,2010-11-20,10,Pittsburgh,@,South Florida,W,1,22,22.0,0,andrew-taglianetti-1
+Jerrard Tarrant,2010-11-20,11,Georgia Tech,,Duke,W,2,7,3.5,0,jerrard-tarrant-1
+Drew Terrell,2010-11-20,11,Stanford,@,California,W,1,32,32.0,0,drew-terrell-1
+Dominique Vinson,2010-11-20,12,Colorado State,@,Wyoming,L,1,17,17.0,0,dominique-vinson-1
+Xavier Webb,2010-11-20,11,Rice,,East Carolina,W,1,1,1.0,0,xavier-webb-1
+Jordan White,2010-11-20,11,Western Michigan,,Kent State,W,2,9,4.5,0,jordan-white-1
+Nick Wilhelm,2010-11-20,11,New Mexico,@,Brigham Young,L,1,0,0.0,0,nick-wilhelm-1
+Kerwynn Williams,2010-11-20,11,Utah State,,Idaho,L,1,4,4.0,0,kerwynn-williams-1
+Nick Williams,2010-11-20,10,Connecticut,@,Syracuse,W,3,31,10.3,0,nick-williams-1
+Vernon Wolfe,2010-11-20,11,Louisiana,,Florida International,L,1,47,47.0,0,vernon-wolfe-1
+D.J. Woods,2010-11-20,10,Cincinnati,,Rutgers,W,3,16,5.3,0,dj-woods-1
+Ty Zimmerman,2010-11-20,11,Kansas State,@,Colorado,L,2,41,20.5,0,ty-zimmerman-1
+Delano Green,2010-11-23,12,Temple,@,Miami (OH),L,2,3,1.5,0,delano-green-1
+DeMarco Paine,2010-11-23,12,Miami (OH),,Temple,W,1,-2,-2.0,0,demarco-paine-1
+Carrington Byndom,2010-11-25,12,Texas,,Texas A&M,L,1,13,13.0,0,carrington-byndom-1
+Dustin Harris,2010-11-25,12,Texas A&M,@,Texas,W,1,3,3.0,0,dustin-harris-1
+Kenric McNeal,2010-11-25,12,Texas A&M,@,Texas,W,4,32,8.0,0,kenric-mcneal-1
+Vincent Agnew,2010-11-26,12,Central Michigan,@,Toledo,L,1,27,27.0,0,vincent-agnew-1
+Broderick Alexander,2010-11-26,12,Akron,,Buffalo,W,1,12,12.0,0,broderick-alexander-1
+Perez Ashford,2010-11-26,12,Northern Illinois,@,Eastern Michigan,W,2,11,5.5,0,perez-ashford-1
+Doug Beaumont,2010-11-26,12,Louisville,@,Rutgers,W,1,12,12.0,0,doug-beaumont-1
+Travis Carrie,2010-11-26,12,Ohio,@,Kent State,L,2,40,20.0,0,travis-carrie-1
+Toney Clemons,2010-11-26,12,Colorado,@,Nebraska,L,1,11,11.0,0,toney-clemons-1
+Eugene Cooper,2010-11-26,12,Bowling Green State,,Western Michigan,L,1,11,11.0,0,eugene-cooper-1
+Richard Crawford,2010-11-26,12,Southern Methodist,@,East Carolina,W,3,8,2.7,0,richard-crawford-1
+Tommy Davis,2010-11-26,12,Northern Illinois,@,Eastern Michigan,W,2,8,4.0,0,tommy-davis-2
+Dwayne Harris,2010-11-26,12,East Carolina,,Southern Methodist,L,3,11,3.7,0,dwayne-harris-1
+Dalton Hilliard,2010-11-26,11,UCLA,@,Arizona State,L,1,6,6.0,0,dalton-hilliard-1
+Jeremy Lafrance,2010-11-26,12,Akron,,Buffalo,W,1,-3,-3.0,0,jeremy-lafrance-1
+Tim Marlowe,2010-11-26,12,Nebraska,,Colorado,W,1,0,0.0,0,tim-marlowe-1
+Rishard Matthews,2010-11-26,12,Nevada,,Boise State,W,1,0,0.0,0,rishard-matthews-1
+Marquis Maze,2010-11-26,12,Alabama,,Auburn,L,2,0,0.0,0,marquis-maze-1
+Jamal Miles,2010-11-26,11,Arizona State,,UCLA,W,4,16,4.0,0,jamal-miles-1
+Eric Page,2010-11-26,12,Toledo,,Central Michigan,W,1,2,2.0,0,eric-page-1
+Chris Potter,2010-11-26,11,Boise State,@,Nevada,L,1,28,28.0,0,chris-potter-1
+Mason Robinson,2010-11-26,11,Rutgers,,Louisville,L,2,15,7.5,0,mason-robinson-1
+Cameron Saddler,2010-11-26,11,Pittsburgh,,West Virginia,L,1,6,6.0,0,cameron-saddler-1
+Jordan White,2010-11-26,12,Western Michigan,@,Bowling Green State,W,1,10,10.0,0,jordan-white-1
+Ed Young,2010-11-26,12,Buffalo,@,Akron,L,1,0,0.0,0,ed-young-1
+Kyle Zelinsky,2010-11-26,12,Central Michigan,@,Toledo,L,1,23,23.0,0,kyle-zelinsky-1
+Joe Adams,2010-11-27,12,Arkansas,,Louisiana State,W,1,0,0.0,0,joe-adams-1
+Keenan Allen,2010-11-27,12,California,,Washington,L,2,8,4.0,0,keenan-allen-1
+Antonio Andrews,2010-11-27,12,Western Kentucky,@,Troy,L,1,9,9.0,0,antonio-andrews-1
+Travis Benjamin,2010-11-27,12,Miami (FL),,South Florida,L,4,12,3.0,0,travis-benjamin-1
+D.J. Beshears,2010-11-27,12,Kansas,N,Missouri,L,1,6,6.0,0,dj-beshears-1
+Andre Booker,2010-11-27,12,Marshall,,Tulane,W,1,-3,-3.0,0,andre-booker-1
+Justin Brown,2010-11-27,12,Penn State,,Michigan State,L,2,8,4.0,0,justin-brown-1
+Ryan Broyles,2010-11-27,12,Oklahoma,@,Oklahoma State,W,4,24,6.0,0,ryan-broyles-1
+Cody Bruns,2010-11-27,11,Washington,@,California,W,4,13,3.3,0,cody-bruns-1
+Chad Bumphis,2010-11-27,12,Mississippi State,@,Mississippi,W,1,3,3.0,0,chad-bumphis-1
+Lee Butler,2010-11-27,12,Duke,,North Carolina,L,2,13,6.5,0,lee-butler-1
+Darius Carey,2010-11-27,12,North Texas,,Kansas State,L,1,0,0.0,0,darius-carey-1
+Curtis Clay,2010-11-27,12,Texas Christian,@,New Mexico,W,4,87,21.8,0,curtis-clay-1
+Randall Cobb,2010-11-27,12,Kentucky,@,Tennessee,L,1,4,4.0,0,randall-cobb-1
+John Cole,2010-11-27,12,Vanderbilt,,Wake Forest,L,2,18,9.0,0,john-cole-1
+Graig Cooper,2010-11-27,12,Miami (FL),,South Florida,L,3,16,5.3,0,graig-cooper-1
+Skye Dawson,2010-11-27,12,Texas Christian,@,New Mexico,W,1,25,25.0,0,skye-dawson-1
+Drew Dileo,2010-11-27,12,Michigan,@,Ohio State,L,1,-2,-2.0,0,drew-dileo-1
+Patrick Edwards,2010-11-27,12,Houston,@,Texas Tech,L,1,0,0.0,0,patrick-edwards-1
+Rashad Evans,2010-11-27,11,Fresno State,,Idaho,W,2,5,2.5,0,rashad-evans-1
+Carl Gettis,2010-11-27,12,Missouri,N,Kansas,W,2,11,5.5,0,carl-gettis-1
+Marcus Gilchrist,2010-11-27,12,Clemson,,South Carolina,L,4,26,6.5,0,marcus-gilchrist-1
+Chris Givens,2010-11-27,12,Wake Forest,@,Vanderbilt,W,1,10,10.0,0,chris-givens-2
+T.J. Graham,2010-11-27,12,North Carolina State,@,Maryland,L,2,2,1.0,0,tj-graham-1
+Jesse Grandy,2010-11-27,12,Mississippi,,Mississippi State,L,2,8,4.0,0,jesse-grandy-1
+D.A. Griffin,2010-11-27,12,Memphis,,Central Florida,L,1,-1,-1.0,0,da-griffin-1
+Tysyn Hartman,2010-11-27,12,Kansas State,@,North Texas,W,1,8,8.0,0,tysyn-hartman-1
+T.Y. Hilton,2010-11-27,11,Florida International,,Arkansas State,W,2,-3,-1.5,0,ty-hilton-1
+Mike Holmes,2010-11-27,12,Syracuse,,Boston College,L,2,5,2.5,0,mike-holmes-1
+Jayron Hosley,2010-11-27,12,Virginia Tech,,Virginia,W,1,5,5.0,0,jayron-hosley-1
+Jerrel Jernigan,2010-11-27,11,Troy,,Western Kentucky,W,1,7,7.0,0,jerrel-jernigan-1
+Josh Johnson,2010-11-27,12,Purdue,,Indiana,L,3,31,10.3,0,josh-johnson-3
+Ronald Johnson,2010-11-27,12,Southern California,,Notre Dame,L,1,4,4.0,0,ronald-johnson-2
+Travis Jones,2010-11-27,11,Florida Atlantic,@,Middle Tennessee State,L,2,21,10.5,0,travis-jones-2
+Jeremy Kerley,2010-11-27,12,Texas Christian,@,New Mexico,W,2,28,14.0,0,jeremy-kerley-1
+Phillip Livas,2010-11-27,11,Louisiana Tech,@,San Jose State,W,3,103,34.3,1,phillip-livas-1
+Tony Logan,2010-11-27,12,Maryland,,North Carolina State,W,1,0,0.0,0,tony-logan-1
+Venric Mark,2010-11-27,12,Northwestern,@,Wisconsin,L,3,8,2.7,0,venric-mark-1
+Chase Minnifield,2010-11-27,12,Virginia,@,Virginia Tech,L,1,1,1.0,0,chase-minnifield-1
+Terrence Mitchell,2010-11-27,11,South Florida,@,Miami (FL),W,3,12,4.0,0,terrence-mitchell-1
+Robert Nelson,2010-11-27,12,Louisiana-Monroe,,Louisiana,L,2,8,4.0,0,robert-nelson-1
+Daymond Patterson,2010-11-27,12,Kansas,N,Missouri,L,1,5,5.0,0,daymond-patterson-1
+Ladarius Perkins,2010-11-27,12,Mississippi State,@,Mississippi,W,1,16,16.0,0,ladarius-perkins-1
+Patrick Peterson,2010-11-27,12,Louisiana State,@,Arkansas,L,1,0,0.0,0,patrick-peterson-1
+Jordan Poyer,2010-11-27,11,Oregon State,@,Stanford,L,1,8,8.0,0,jordan-poyer-1
+Josh Robinson,2010-11-27,12,Central Florida,@,Memphis,W,3,78,26.0,0,josh-robinson-1
+Eric Russell,2010-11-27,11,Middle Tennessee State,,Florida Atlantic,W,4,14,3.5,0,eric-russell-1
+Brandon Rutley,2010-11-27,12,San Jose State,,Louisiana Tech,L,3,1,0.3,0,brandon-rutley-1
+Ace Sanders,2010-11-27,12,South Carolina,@,Clemson,W,2,17,8.5,0,ace-sanders-1
+Da'Norris Searcy,2010-11-27,12,North Carolina,@,Duke,W,1,3,3.0,0,danorris-searcy-1
+Pat Shed,2010-11-27,12,Alabama-Birmingham,@,Rice,L,1,5,5.0,0,pat-shed-1
+Branden Smith,2010-11-27,12,Georgia,,Georgia Tech,W,1,-2,-2.0,0,branden-smith-1
+Devon Smith,2010-11-27,12,Penn State,,Michigan State,L,1,12,12.0,0,devon-smith-1
+Shaky Smithson,2010-11-27,12,Utah,,Brigham Young,W,2,2,1.0,0,shaky-smithson-1
+Troy Stoudermire,2010-11-27,12,Minnesota,,Iowa,W,2,9,4.5,0,troy-stoudermire-1
+Essray Taliaferro,2010-11-27,12,Marshall,,Tulane,W,1,25,25.0,0,essray-taliaferro-1
+Jerrard Tarrant,2010-11-27,12,Georgia Tech,@,Georgia,L,1,19,19.0,0,jerrard-tarrant-1
+Drew Terrell,2010-11-27,12,Stanford,,Oregon State,W,3,31,10.3,0,drew-terrell-1
+Jamar Thomas,2010-11-27,12,Tulane,@,Marshall,L,1,5,5.0,0,jamar-thomas-1
+Terrance Turner,2010-11-27,12,Indiana,@,Purdue,W,1,-1,-1.0,0,terrance-turner-1
+C.J. Washington,2010-11-27,12,Wake Forest,@,Vanderbilt,W,1,22,22.0,0,cj-washington-1
+Xavier Webb,2010-11-27,12,Rice,,Alabama-Birmingham,W,3,55,18.3,0,xavier-webb-1
+Nick Wilhelm,2010-11-27,12,New Mexico,,Texas Christian,L,1,12,12.0,0,nick-wilhelm-1
+Nick Williams,2010-11-27,11,Connecticut,,Cincinnati,W,1,12,12.0,0,nick-williams-1
+D.J. Woods,2010-11-27,11,Cincinnati,@,Connecticut,L,3,17,5.7,0,dj-woods-1
+Austin Yancy,2010-11-27,12,Stanford,,Oregon State,W,1,5,5.0,0,austin-yancy-1
+David Douglas,2010-12-02,12,Arizona,,Arizona State,L,4,26,6.5,0,david-douglas-1
+Jamal Miles,2010-12-02,12,Arizona State,@,Arizona,W,1,5,5.0,0,jamal-miles-1
+Rashad Evans,2010-12-03,12,Fresno State,,Illinois,W,4,21,5.3,0,rashad-evans-1
+Nick Harwell,2010-12-03,13,Miami (OH),N,Northern Illinois,W,1,8,8.0,0,nick-harwell-1
+Darvin Adams,2010-12-04,13,Auburn,N,South Carolina,W,1,10,10.0,0,darvin-adams-1
+Devin Aguilar,2010-12-04,12,Washington,@,Washington State,W,1,0,0.0,0,devin-aguilar-1
+Isiah Barton,2010-12-04,12,Washington State,,Washington,L,2,7,3.5,0,isiah-barton-1
+Ryan Broyles,2010-12-04,13,Oklahoma,N,Nebraska,W,5,22,4.4,0,ryan-broyles-1
+Cody Bruns,2010-12-04,12,Washington,@,Washington State,W,1,0,0.0,0,cody-bruns-1
+Rex Burkhead,2010-12-04,13,Nebraska,N,Oklahoma,L,2,14,7.0,0,rex-burkhead-1
+Mitch Burroughs,2010-12-04,12,Boise State,,Utah State,W,1,29,29.0,0,mitch-burroughs-1
+Jesse Callier,2010-12-04,12,Washington,@,Washington State,W,2,21,10.5,0,jesse-callier-1
+Taylor Embree,2010-12-04,12,UCLA,,Southern California,L,1,0,0.0,0,taylor-embree-1
+Cliff Harris,2010-12-04,12,Oregon,@,Oregon State,W,2,2,1.0,0,cliff-harris-1
+T.Y. Hilton,2010-12-04,12,Florida International,,Middle Tennessee State,L,3,22,7.3,0,ty-hilton-1
+Brandon Hogan,2010-12-04,12,West Virginia,,Rutgers,W,1,18,18.0,0,brandon-hogan-1
+Jayron Hosley,2010-12-04,13,Virginia Tech,N,Florida State,W,2,10,5.0,0,jayron-hosley-1
+Lester Jean,2010-12-04,12,Florida Atlantic,,Troy,L,1,1,1.0,0,lester-jean-1
+Jerrel Jernigan,2010-12-04,12,Troy,@,Florida Atlantic,W,2,52,26.0,0,jerrel-jernigan-1
+Ronald Johnson,2010-12-04,13,Southern California,@,UCLA,W,3,16,5.3,0,ronald-johnson-2
+Travis Jones,2010-12-04,12,Florida Atlantic,,Troy,L,2,7,3.5,0,travis-jones-2
+Shiloh Keo,2010-12-04,13,Idaho,,San Jose State,W,2,3,1.5,0,shiloh-keo-1
+Phillip Livas,2010-12-04,12,Louisiana Tech,,Nevada,L,1,18,18.0,0,phillip-livas-1
+Tim Marlowe,2010-12-04,13,Nebraska,N,Oklahoma,L,1,17,17.0,0,tim-marlowe-1
+Tyler Mason,2010-12-04,12,Middle Tennessee State,@,Florida International,W,2,11,5.5,0,tyler-mason-1
+Rishard Matthews,2010-12-04,13,Nevada,@,Louisiana Tech,W,1,2,2.0,0,rishard-matthews-1
+Terrence Mitchell,2010-12-04,12,South Florida,,Connecticut,L,3,18,6.0,0,terrence-mitchell-1
+Eric Moats,2010-12-04,12,Utah State,@,Boise State,L,1,0,0.0,0,eric-moats-1
+Chris Potter,2010-12-04,12,Boise State,,Utah State,W,4,8,2.0,0,chris-potter-1
+Josh Robinson,2010-12-04,13,Central Florida,,Southern Methodist,W,1,9,9.0,0,josh-robinson-1
+Eric Russell,2010-12-04,12,Middle Tennessee State,@,Florida International,W,1,4,4.0,0,eric-russell-1
+Cameron Saddler,2010-12-04,12,Pittsburgh,@,Cincinnati,W,1,0,0.0,0,cameron-saddler-1
+Jock Sanders,2010-12-04,12,West Virginia,,Rutgers,W,1,7,7.0,0,jock-sanders-1
+Nick Williams,2010-12-04,12,Connecticut,@,South Florida,W,1,8,8.0,0,nick-williams-1
+D.J. Woods,2010-12-04,12,Cincinnati,,Pittsburgh,L,1,0,0.0,0,dj-woods-1
+J.D. Woods,2010-12-04,12,West Virginia,,Rutgers,W,1,6,6.0,0,jd-woods-1
+Ronnie Yell,2010-12-04,13,San Jose State,@,Idaho,L,1,6,6.0,0,ronnie-yell-1
+Travis Carrie,2010-12-18,13,Ohio,N,Troy,L,2,9,4.5,0,travis-carrie-1
+J.D. Falslev,2010-12-18,13,Brigham Young,N,Texas-El Paso,W,2,42,21.0,0,jd-falslev-1
+Jerrel Jernigan,2010-12-18,13,Troy,N,Ohio,W,1,5,5.0,0,jerrel-jernigan-1
+Marlon McClure,2010-12-18,13,Texas-El Paso,N,Brigham Young,L,1,1,1.0,0,marlon-mcclure-1
+Travaun Nixon,2010-12-18,13,Texas-El Paso,N,Brigham Young,L,1,1,1.0,0,travaun-nixon-1
+Doug Beaumont,2010-12-21,13,Louisville,N,Southern Mississippi,W,1,14,14.0,0,doug-beaumont-1
+Tracy Lampley,2010-12-21,13,Southern Mississippi,N,Louisville,L,1,9,9.0,0,tracy-lampley-1
+Chris Potter,2010-12-22,13,Boise State,N,Utah,W,1,15,15.0,0,chris-potter-1
+Shaky Smithson,2010-12-22,13,Utah,N,Boise State,L,1,0,0.0,0,shaky-smithson-1
+Larry Parker,2010-12-23,13,San Diego State,,Navy,W,3,1,0.3,0,larry-parker-1
+Damaris Johnson,2010-12-24,13,Tulsa,@,Hawaii,W,1,18,18.0,0,damaris-johnson-1
+Kealoha Pilares,2010-12-24,14,Hawaii,,Tulsa,L,1,0,0.0,0,kealoha-pilares-1
+Greg Salas,2010-12-24,14,Hawaii,,Tulsa,L,1,-6,-6.0,0,greg-salas-1
+T.Y. Hilton,2010-12-26,13,Florida International,N,Toledo,W,1,0,0.0,0,ty-hilton-1
+Eric Page,2010-12-26,13,Toledo,N,Florida International,L,3,41,13.7,0,eric-page-1
+Wayne Times,2010-12-26,13,Florida International,N,Toledo,W,1,7,7.0,0,wayne-times-1
+Daniel McKayhan,2010-12-27,13,Georgia Tech,N,Air Force,L,2,-8,-4.0,0,daniel-mckayhan-1
+Reggie Rembert,2010-12-27,13,Air Force,N,Georgia Tech,W,2,46,23.0,0,reggie-rembert-1
+Paul Chaney Jr.,2010-12-28,13,Iowa,N,Missouri,W,2,1,0.5,0,paul-chaney-jr-1
+Jock Sanders,2010-12-28,13,West Virginia,N,North Carolina State,L,1,-2,-2.0,0,jock-sanders-1
+Krys Buerck,2010-12-29,13,Baylor,N,Illinois,L,3,15,5.0,0,krys-buerck-1
+Josh Cooper,2010-12-29,13,Oklahoma State,N,Arizona,W,1,6,6.0,0,josh-cooper-2
+David Douglas,2010-12-29,13,Arizona,N,Oklahoma State,L,1,4,4.0,0,david-douglas-1
+Jarred Fayson,2010-12-29,13,Illinois,N,Baylor,W,1,1,1.0,0,jarred-fayson-1
+Dwayne Harris,2010-12-29,13,East Carolina,@,Maryland,L,1,36,36.0,0,dwayne-harris-1
+Tony Logan,2010-12-29,13,Maryland,,East Carolina,W,1,-3,-3.0,0,tony-logan-1
+Torrey Smith,2010-12-29,13,Maryland,,East Carolina,W,1,0,0.0,0,torrey-smith-1
+William Wright,2010-12-29,13,Arizona,N,Oklahoma State,L,1,1,1.0,0,william-wright-1
+Kenneth Acker,2010-12-30,14,Southern Methodist,N,Army,L,1,6,6.0,0,kenneth-acker-1
+Devin Aguilar,2010-12-30,13,Washington,N,Nebraska,W,3,15,5.0,0,devin-aguilar-1
+Anthony Anderson,2010-12-30,13,Tennessee,N,North Carolina,L,1,11,11.0,0,anthony-anderson-1
+Richard Crawford,2010-12-30,14,Southern Methodist,N,Army,L,2,16,8.0,0,richard-crawford-1
+Mike Holmes,2010-12-30,13,Syracuse,N,Kansas State,W,1,3,3.0,0,mike-holmes-1
+Chris Parks,2010-12-30,14,Southern Methodist,N,Army,L,1,0,0.0,0,chris-parks-1
+Da'Norris Searcy,2010-12-30,13,North Carolina,N,Tennessee,W,2,8,4.0,0,danorris-searcy-1
+Ty Zimmerman,2010-12-30,13,Kansas State,N,Syracuse,L,2,11,5.5,0,ty-zimmerman-1
+Travis Benjamin,2010-12-31,13,Miami (FL),N,Notre Dame,L,2,0,0.0,0,travis-benjamin-1
+John Goodman,2010-12-31,13,Notre Dame,N,Miami (FL),W,2,2,1.0,0,john-goodman-1
+A.J. Green,2010-12-31,13,Georgia,N,Central Florida,L,1,18,18.0,0,aj-green-1
+Terrence Mitchell,2010-12-31,13,South Florida,N,Clemson,W,2,38,19.0,0,terrence-mitchell-1
+Greg Reid,2010-12-31,14,Florida State,N,South Carolina,W,2,53,26.5,0,greg-reid-1
+Josh Robinson,2010-12-31,14,Central Florida,N,Georgia,W,3,10,3.3,0,josh-robinson-1
+Ace Sanders,2010-12-31,14,South Carolina,N,Florida State,L,2,3,1.5,0,ace-sanders-1
+Justin Brown,2011-01-01,13,Penn State,N,Florida,L,1,6,6.0,0,justin-brown-1
+Ryan Broyles,2011-01-01,14,Oklahoma,N,Connecticut,W,5,92,18.4,0,ryan-broyles-1
+David Gilreath,2011-01-01,13,Wisconsin,N,Texas Christian,L,2,13,6.5,0,david-gilreath-1
+Frankie Hammond Jr.,2011-01-01,13,Florida,N,Penn State,W,1,0,0.0,0,frankie-hammond-jr-1
+Junior Hemingway,2011-01-01,13,Michigan,N,Mississippi State,L,1,34,34.0,0,junior-hemingway-1
+Keshawn Martin,2011-01-01,13,Michigan State,N,Alabama,L,1,15,15.0,0,keshawn-martin-1
+Marquis Maze,2011-01-01,13,Alabama,N,Michigan State,W,3,22,7.3,0,marquis-maze-1
+Solomon Patton,2011-01-01,13,Florida,N,Penn State,W,1,14,14.0,0,solomon-patton-1
+Chris Rainey,2011-01-01,13,Florida,N,Penn State,W,2,9,4.5,0,chris-rainey-1
+Devon Smith,2011-01-01,13,Penn State,N,Florida,L,1,3,3.0,0,devon-smith-1
+Nick Williams,2011-01-01,13,Connecticut,N,Oklahoma,L,1,-1,-1.0,0,nick-williams-1
+Drew Terrell,2011-01-03,13,Stanford,N,Virginia Tech,W,4,36,9.0,0,drew-terrell-1
+Joe Adams,2011-01-04,13,Arkansas,N,Ohio State,L,2,-2,-1.0,0,joe-adams-1
+Jordan Hall,2011-01-04,13,Ohio State,N,Arkansas,W,1,5,5.0,0,jordan-hall-1
+Jermale Hines,2011-01-04,13,Ohio State,N,Arkansas,W,1,0,0.0,0,jermale-hines-1
+Colton Miles-Nash,2011-01-04,13,Arkansas,N,Ohio State,L,1,20,20.0,0,colton-miles-nash-1
+DeMarco Paine,2011-01-06,14,Miami (OH),N,Middle Tennessee State,W,3,56,18.7,0,demarco-paine-1
+Eric Russell,2011-01-06,13,Middle Tennessee State,N,Miami (OH),L,1,0,0.0,0,eric-russell-1
+Randall Cobb,2011-01-08,13,Kentucky,N,Pittsburgh,L,2,18,9.0,0,randall-cobb-1
+Cameron Saddler,2011-01-08,13,Pittsburgh,N,Kentucky,W,1,6,6.0,0,cameron-saddler-1
+Andrew Taglianetti,2011-01-08,13,Pittsburgh,N,Kentucky,W,1,31,31.0,0,andrew-taglianetti-1
+Rishard Matthews,2011-01-09,14,Nevada,N,Boston College,W,4,72,18.0,1,rishard-matthews-1
+Bobby Swigert,2011-01-09,13,Boston College,N,Nevada,L,3,12,4.0,0,bobby-swigert-1
+Kenjon Barner,2011-01-10,13,Oregon,N,Auburn,L,2,5,2.5,0,kenjon-barner-1
+Cliff Harris,2011-01-10,13,Oregon,N,Auburn,L,1,1,1.0,0,cliff-harris-1

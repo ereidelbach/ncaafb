@@ -1,0 +1,2123 @@
+Player,Date,G,School,Loc,Opponent,WL,Pass Comp,Pass Att,Pass Pct,Pass Yard,Pass TD,Pass Int,QBR,unique_id
+Matt Bohnet,2005-09-01,1,Eastern Michigan,@,Cincinnati,L,22,33,66.7,167,1,0,119.2,matt-bohnet-1
+Matt Bonislawski,2005-09-01,1,Connecticut,,Buffalo,W,11,18,61.1,121,2,1,143.1,matt-bonislawski-1
+Alex Brink,2005-09-01,1,Washington State,,Idaho,W,17,29,58.6,230,3,2,145.6,alex-brink-1
+Rudy Carpenter,2005-09-01,1,Arizona State,,Temple,W,5,7,71.4,51,1,0,179.8,rudy-carpenter-1
+Kellen Clemens,2005-09-01,1,Oregon,@,Houston,W,30,47,63.8,348,2,0,140.1,kellen-clemens-1
+Clint Cochran,2005-09-01,1,Toledo,,Western Illinois,W,7,9,77.8,57,0,0,131.0,clint-cochran-1
+Bryan Cupito,2005-09-01,1,Minnesota,@,Tulsa,W,14,25,56.0,235,1,1,140.2,bryan-cupito-1
+Jay Cutler,2005-09-01,1,Vanderbilt,@,Wake Forest,W,25,36,69.4,276,1,1,137.5,jay-cutler-1
+Dennis Dixon,2005-09-01,1,Oregon,@,Houston,W,0,2,0.0,0,0,1,-100.0,dennis-dixon-1
+Bruce Gradkowski,2005-09-01,1,Toledo,,Western Illinois,W,9,17,52.9,134,2,0,158.0,bruce-gradkowski-1
+Dustin Grutza,2005-09-01,1,Cincinnati,,Eastern Michigan,W,17,26,65.4,176,2,0,147.6,dustin-grutza-1
+Michael Harrington,2005-09-01,1,Idaho,@,Washington State,L,6,9,66.7,37,1,0,137.9,michael-harrington-1
+D.J. Hernandez,2005-09-01,1,Connecticut,,Buffalo,W,3,3,100.0,11,1,0,240.8,dj-hernandez-1
+David Johnson,2005-09-01,1,Tulsa,,Minnesota,L,20,30,66.7,172,1,1,119.2,david-johnson-3
+Steven Jyles,2005-09-01,1,Louisiana-Monroe,,Northwestern State,L,25,41,61.0,283,1,1,122.1,steven-jyles-1
+Sam Keller,2005-09-01,1,Arizona State,,Temple,W,14,24,58.3,208,4,2,169.5,sam-keller-1
+Kevin Kolb,2005-09-01,1,Houston,,Oregon,L,24,43,55.8,312,2,2,122.8,kevin-kolb-1
+Ben Mauk,2005-09-01,1,Wake Forest,,Vanderbilt,L,15,26,57.7,198,0,0,121.7,ben-mauk-1
+Mike McGann,2005-09-01,1,Temple,@,Arizona State,L,18,37,48.6,203,1,2,92.8,mike-mcgann-1
+Blake Mitchell,2005-09-01,1,South Carolina,,Central Florida,W,18,23,78.3,330,3,0,241.8,blake-mitchell-1
+Steven Moffett,2005-09-01,1,Central Florida,@,South Carolina,L,27,39,69.2,258,1,1,128.1,steven-moffett-1
+Bernard Morris,2005-09-01,1,Marshall,,William & Mary,W,15,23,65.2,215,3,1,178.1,bernard-morris-1
+Tony Paoli,2005-09-01,1,Buffalo,@,Connecticut,L,4,4,100.0,9,0,0,118.9,tony-paoli-1
+Stewart Sampsel,2005-09-01,1,Buffalo,@,Connecticut,L,6,17,35.3,51,0,0,60.5,stewart-sampsel-1
+Jimmy Skinner,2005-09-01,1,Marshall,,William & Mary,W,11,17,64.7,98,0,0,113.1,jimmy-skinner-1
+Paul Smith,2005-09-01,1,Tulsa,,Minnesota,L,7,11,63.6,46,0,0,98.8,paul-smith-2
+Steven Wichman,2005-09-01,1,Idaho,@,Washington State,L,13,23,56.5,143,1,0,123.1,steven-wichman-1
+Adam Austin,2005-09-02,1,Arizona,@,Utah,L,3,5,60.0,32,0,0,113.8,adam-austin-1
+Brian Johnson,2005-09-02,1,Utah,,Arizona,W,19,30,63.3,220,1,0,135.9,brian-johnson-2
+Richard Kovalcheck,2005-09-02,1,Arizona,@,Utah,L,21,37,56.8,255,2,2,121.7,richard-kovalcheck-1
+Blake Powers,2005-09-02,1,Indiana,@,Central Michigan,W,17,35,48.6,276,3,1,137.4,blake-powers-1
+Kent Smith,2005-09-02,1,Central Michigan,,Indiana,L,18,36,50.0,216,0,0,100.4,kent-smith-1
+Fano Tagovailoa,2005-09-02,1,Utah,,Arizona,W,0,1,0.0,0,0,0,0.0,fano-tagovailoa-1
+Erik Ainge,2005-09-03,1,Tennessee,,Alabama-Birmingham,W,5,14,35.7,57,1,2,64.9,erik-ainge-1
+Joe Ayoob,2005-09-03,1,California,,Sacramento State,W,0,10,0.0,0,0,0,0.0,joe-ayoob-1
+Jerry Babb,2005-09-03,1,Louisiana,@,Texas,L,9,18,50.0,109,0,0,100.9,jerry-babb-1
+C.J. Bacher,2005-09-03,1,Northwestern,,Ohio,W,1,3,33.3,3,0,1,-24.9,cj-bacher-1
+Reggie Ball,2005-09-03,1,Georgia Tech,@,Auburn,W,17,36,47.2,174,1,1,91.4,reggie-ball-1
+Adam Barmann,2005-09-03,1,Kansas,,Florida Atlantic,W,5,11,45.5,56,0,1,70.0,adam-barmann-1
+Blake Barnes,2005-09-03,1,Georgia,,Boise State,W,1,1,100.0,6,0,0,150.4,blake-barnes-1
+Brett Basanez,2005-09-03,1,Northwestern,,Ohio,W,27,37,73.0,353,2,0,171.0,brett-basanez-1
+John Beck,2005-09-03,1,Brigham Young,,Boston College,L,41,60,68.3,330,0,0,114.5,john-beck-1
+Shawn Bell,2005-09-03,1,Baylor,@,Southern Methodist,W,23,40,57.5,198,0,2,89.1,shawn-bell-1
+Josh Betts,2005-09-03,1,Miami (OH),@,Ohio State,L,24,44,54.5,250,1,1,105.2,josh-betts-1
+Todd Boeckman,2005-09-03,1,Ohio State,,Miami (OH),W,5,7,71.4,67,1,0,199.0,todd-boeckman-1
+Rhett Bomar,2005-09-03,1,Oklahoma,,Texas Christian,L,2,5,40.0,19,0,0,71.9,rhett-bomar-1
+John David Booty,2005-09-03,1,Southern California,@,Hawaii,W,2,5,40.0,9,1,0,121.1,john-david-booty-1
+Chad Bozzo,2005-09-03,1,San Jose State,,Eastern Washington,W,0,1,0.0,0,0,0,0.0,chad-bozzo-1
+Corey Bramlet,2005-09-03,1,Wyoming,@,Florida,L,14,32,43.8,150,1,1,87.2,corey-bramlet-1
+Tim Brasic,2005-09-03,1,Illinois,,Rutgers,W,24,34,70.6,233,3,2,145.5,tim-brasic-1
+Colt Brennan,2005-09-03,1,Hawaii,,Southern California,L,21,32,65.6,250,1,1,135.3,colt-brennan-1
+Jon Brown,2005-09-03,1,Kent State,@,Michigan State,L,1,3,33.3,8,0,0,55.7,jon-brown-1
+Shaun Carney,2005-09-03,1,Air Force,@,Washington,W,9,14,64.3,107,0,0,128.5,shaun-carney-1
+Jason Carter,2005-09-03,1,Texas A&M,@,Clemson,L,0,1,0.0,0,0,0,0.0,jason-carter-2
+Rick Clausen,2005-09-03,1,Tennessee,,Alabama-Birmingham,W,17,24,70.8,217,1,1,152.2,rick-clausen-1
+Omarr Conner,2005-09-03,1,Mississippi State,,Murray State,W,17,24,70.8,233,4,0,207.4,omarr-conner-1
+Brandon Cox,2005-09-03,1,Auburn,,Georgia Tech,L,22,44,50.0,342,2,4,112.1,brandon-cox-1
+Brodie Croyle,2005-09-03,1,Alabama,,Middle Tennessee State,W,16,24,66.7,210,1,1,145.6,brodie-croyle-1
+Orlando Cruz,2005-09-03,1,Texas-El Paso,@,New Mexico State,W,2,7,28.6,17,0,0,49.0,orlando-cruz-1
+Chase Daniel,2005-09-03,1,Missouri,,Arkansas State,W,4,11,36.4,23,0,1,35.7,chase-daniel-1
+Courtney Denson,2005-09-03,1,South Florida,@,Penn State,L,0,3,0.0,0,0,0,0.0,courtney-denson-1
+Michael Desormeaux,2005-09-03,1,Louisiana,@,Texas,L,7,15,46.7,57,0,1,65.3,michael-desormeaux-1
+Paul Dombrowski,2005-09-03,1,New Mexico State,,Texas-El Paso,L,1,1,100.0,11,0,0,192.4,paul-dombrowski-1
+Curt Dukes,2005-09-03,1,Duke,@,East Carolina,L,0,2,0.0,0,0,0,0.0,curt-dukes-1
+Tony Eckert,2005-09-03,1,Southern Methodist,,Baylor,L,6,18,33.3,64,1,0,81.5,tony-eckert-1
+Danny Embick,2005-09-03,1,Florida Atlantic,@,Kansas,L,20,28,71.4,299,3,0,196.5,danny-embick-1
+Austen Everson,2005-09-03,1,Ohio,@,Northwestern,L,10,26,38.5,157,0,1,81.5,austen-everson-1
+Adam Fitch,2005-09-03,1,Air Force,@,Washington,W,4,8,50.0,100,1,0,196.3,adam-fitch-1
+Royal Gill,2005-09-03,1,New Mexico State,,Texas-El Paso,L,36,57,63.2,332,2,2,116.6,royal-gill-1
+Tyler Graunke,2005-09-03,1,Hawaii,,Southern California,L,12,17,70.6,127,1,0,152.8,tyler-graunke-1
+Ryan Gunderson,2005-09-03,1,Oregon State,,Portland State,W,2,8,25.0,35,0,0,61.8,ryan-gunderson-1
+Tye Gunn,2005-09-03,1,Texas Christian,@,Oklahoma,W,24,45,53.3,226,1,1,98.4,tye-gunn-1
+Matt Gutierrez,2005-09-03,1,Michigan,,Northern Illinois,W,1,2,50.0,12,0,0,100.4,matt-gutierrez-1
+Robbie Haas,2005-09-03,1,Western Michigan,@,Virginia,L,33,48,68.8,271,0,1,112.0,robbie-haas-1
+Darrell Hackney,2005-09-03,1,Alabama-Birmingham,@,Tennessee,L,27,38,71.1,282,1,1,136.8,darrell-hackney-1
+Marques Hagans,2005-09-03,1,Virginia,,Western Michigan,W,17,25,68.0,252,1,2,149.9,marques-hagans-1
+Bush Hamdan,2005-09-03,1,Boise State,@,Georgia,L,0,1,0.0,0,0,0,0.0,bush-hamdan-1
+Brian Hampton,2005-09-03,1,Navy,N,Maryland,L,0,1,0.0,0,0,1,-200.0,brian-hampton-1
+Josh Harris,2005-09-03,1,Middle Tennessee State,@,Alabama,L,1,2,50.0,6,0,0,75.2,josh-harris-1
+Ryan Hart,2005-09-03,1,Rutgers,@,Illinois,L,27,44,61.4,342,2,0,141.7,ryan-hart-1
+Michael Henig,2005-09-03,1,Mississippi State,,Murray State,W,0,3,0.0,0,0,0,0.0,michael-henig-1
+Chad Henne,2005-09-03,1,Michigan,,Northern Illinois,W,20,31,64.5,227,2,0,147.3,chad-henne-1
+Travis Hewitt,2005-09-03,1,Arkansas State,@,Missouri,L,1,5,20.0,18,0,0,50.2,travis-hewitt-1
+Justin Holland,2005-09-03,1,Colorado State,@,Colorado,L,28,43,65.1,291,3,4,126.4,justin-holland-1
+Sam Hollenbach,2005-09-03,1,Maryland,N,Navy,W,19,30,63.3,217,1,2,121.8,sam-hollenbach-1
+Phil Horvath,2005-09-03,1,Northern Illinois,@,Michigan,L,17,25,68.0,200,0,1,127.2,phil-horvath-1
+Brian Hoyer,2005-09-03,1,Michigan State,,Kent State,W,4,5,80.0,28,0,0,127.0,brian-hoyer-1
+Omar Jacobs,2005-09-03,1,Bowling Green State,@,Wisconsin,L,30,51,58.8,458,5,1,162.7,omar-jacobs-1
+Greg Jennings,2005-09-03,1,Western Michigan,@,Virginia,L,0,1,0.0,0,0,0,0.0,greg-jennings-1
+Robert Johnson,2005-09-03,1,Arkansas,,Missouri State,W,12,22,54.5,88,1,1,94.1,robert-johnson-1
+Pat Julmiste,2005-09-03,1,South Florida,@,Penn State,L,21,35,60.0,200,2,1,121.1,pat-julmiste-1
+Joel Klatt,2005-09-03,1,Colorado,,Colorado State,W,22,33,66.7,283,0,1,132.6,joel-klatt-1
+David Koral,2005-09-03,1,UCLA,@,San Diego State,W,2,3,66.7,6,0,0,83.5,david-koral-1
+Chris Leak,2005-09-03,1,Florida,,Wyoming,W,26,34,76.5,320,3,0,184.6,chris-leak-1
+Matt Leinart,2005-09-03,1,Southern California,@,Hawaii,W,18,24,75.0,332,3,1,224.1,matt-leinart-1
+Steve Levy,2005-09-03,1,California,,Sacramento State,W,2,7,28.6,52,1,1,109.5,steve-levy-1
+Nate Longshore,2005-09-03,1,California,,Sacramento State,W,8,11,72.7,131,1,1,184.6,nate-longshore-1
+Brian Luke,2005-09-03,1,Kansas,,Florida Atlantic,W,11,24,45.8,121,1,1,93.6,brian-luke-1
+Joey Lynch,2005-09-03,1,Ball State,@,Iowa,L,6,10,60.0,37,0,0,91.1,joey-lynch-1
+Michael Machen,2005-09-03,1,Kent State,@,Michigan State,L,31,52,59.6,293,2,1,115.8,michael-machen-1
+Jason Manson,2005-09-03,1,Iowa,,Ball State,W,9,9,100.0,92,0,0,185.9,jason-manson-1
+Clint Marks,2005-09-03,1,Middle Tennessee State,@,Alabama,L,12,18,66.7,117,1,0,139.6,clint-marks-1
+Reggie McNeal,2005-09-03,1,Texas A&M,@,Clemson,L,8,16,50.0,110,1,1,115.9,reggie-mcneal-1
+Carl Meadows,2005-09-03,1,Troy,,Cal Poly,W,14,31,45.2,213,1,1,107.1,carl-meadows-1
+Bret Meyer,2005-09-03,1,Iowa State,,Illinois State,W,30,41,73.2,314,1,0,145.6,bret-meyer-1
+Matt Moore,2005-09-03,1,Oregon State,,Portland State,W,26,38,68.4,367,4,1,179.0,matt-moore-1
+Alex Mortensen,2005-09-03,1,Arkansas,,Missouri State,W,1,3,33.3,20,0,0,89.3,alex-mortensen-1
+Darren Mougey,2005-09-03,1,San Diego State,,UCLA,L,5,9,55.6,42,0,0,94.8,darren-mougey-1
+Nick Noce,2005-09-03,1,Arkansas State,@,Missouri,L,18,33,54.5,188,1,1,106.3,nick-noce-1
+Kevin O'Connell,2005-09-03,1,San Diego State,,UCLA,L,19,26,73.1,204,1,2,136.3,kevin-oconnell-2
+Drew Olson,2005-09-03,1,UCLA,@,San Diego State,W,10,15,66.7,152,0,0,151.8,drew-olson-1
+Lamar Owens,2005-09-03,1,Navy,N,Maryland,L,5,11,45.5,97,0,0,119.5,lamar-owens-2
+Josh Padrick,2005-09-03,1,Florida International,@,Kansas State,L,17,34,50.0,154,1,1,91.9,josh-padrick-1
+Tyler Palko,2005-09-03,1,Pittsburgh,,Notre Dame,L,20,35,57.1,220,1,1,113.7,tyler-palko-1
+Jordan Palmer,2005-09-03,1,Texas-El Paso,@,New Mexico State,W,15,26,57.7,187,3,0,156.2,jordan-palmer-1
+Mark Petruziello,2005-09-03,1,Ohio,@,Northwestern,L,2,2,100.0,20,0,0,184.0,mark-petruziello-1
+Cy Phillips,2005-09-03,1,Iowa,,Ball State,W,1,1,100.0,9,0,0,175.6,cy-phillips-1
+James Pinkney,2005-09-03,1,East Carolina,,Duke,W,17,21,81.0,235,1,0,190.7,james-pinkney-1
+Quinton Porter,2005-09-03,1,Boston College,@,Brigham Young,W,27,35,77.1,232,2,0,151.7,quinton-porter-1
+Will Proctor,2005-09-03,1,Clemson,,Texas A&M,W,2,4,50.0,28,0,0,108.8,will-proctor-1
+Brady Quinn,2005-09-03,1,Notre Dame,@,Pittsburgh,W,18,27,66.7,227,2,1,154.3,brady-quinn-1
+Bobby Reid,2005-09-03,1,Oklahoma State,,Montana State,W,1,2,50.0,17,0,0,121.4,bobby-reid-1
+Michael Robinson,2005-09-03,1,Penn State,,South Florida,W,9,15,60.0,90,0,1,97.1,michael-robinson-1
+Jerad Romo,2005-09-03,1,Southern Methodist,,Baylor,L,3,8,37.5,42,0,0,81.6,jerad-romo-1
+Mike Schneider,2005-09-03,1,Duke,@,East Carolina,L,15,28,53.6,139,0,3,73.8,mike-schneider-1
+D.J. Shockley,2005-09-03,1,Georgia,,Boise State,W,16,24,66.7,289,5,0,236.6,dj-shockley-1
+Brad Smith,2005-09-03,1,Missouri,,Arkansas State,W,29,37,78.4,317,4,0,186.0,brad-smith-1
+Isaiah Stanback,2005-09-03,1,Washington,,Air Force,L,19,27,70.4,242,1,0,157.9,isaiah-stanback-1
+Drew Stanton,2005-09-03,1,Michigan State,,Kent State,W,22,29,75.9,297,2,1,177.8,drew-stanton-1
+Cole Stinson,2005-09-03,1,Ball State,@,Iowa,L,0,1,0.0,0,0,0,0.0,cole-stinson-1
+John Stocco,2005-09-03,1,Wisconsin,,Bowling Green State,W,8,10,80.0,116,1,1,190.4,john-stocco-1
+Warren Suess,2005-09-03,1,Ball State,@,Iowa,L,5,12,41.7,56,0,0,80.9,warren-suess-1
+Adam Tafralis,2005-09-03,1,San Jose State,,Eastern Washington,W,21,34,61.8,290,2,1,146.9,adam-tafralis-1
+Drew Tate,2005-09-03,1,Iowa,,Ball State,W,9,10,90.0,99,2,0,239.2,drew-tate-1
+Zac Taylor,2005-09-03,1,Nebraska,,Maine,W,15,36,41.7,192,0,2,75.4,zac-taylor-1
+Joe Tereshinski,2005-09-03,1,Georgia,,Boise State,W,5,8,62.5,99,0,0,166.5,joe-tereshinski-1
+Taylor Tharp,2005-09-03,1,Boise State,@,Georgia,L,5,7,71.4,53,0,0,135.0,taylor-tharp-1
+Paul Thompson,2005-09-03,1,Oklahoma,,Texas Christian,L,11,26,42.3,109,0,1,69.8,paul-thompson-1
+Matt Trannon,2005-09-03,1,Michigan State,,Kent State,W,1,1,100.0,6,0,0,150.4,matt-trannon-1
+Joey Vincent,2005-09-03,1,New Mexico State,,Texas-El Paso,L,1,4,25.0,4,0,1,-16.6,joey-vincent-1
+Allen Webb,2005-09-03,1,Kansas State,,Florida International,W,19,31,61.3,161,2,1,119.8,allen-webb-1
+Charlie Whitehurst,2005-09-03,1,Clemson,,Texas A&M,W,14,19,73.7,185,0,0,155.5,charlie-whitehurst-1
+Donovan Woods,2005-09-03,1,Oklahoma State,,Montana State,W,10,20,50.0,117,1,0,115.6,donovan-woods-1
+Vince Young,2005-09-03,1,Texas,,Louisiana,W,13,17,76.5,173,3,1,208.4,vince-young-1
+Jared Zabransky,2005-09-03,1,Boise State,@,Georgia,L,8,17,47.1,70,0,4,34.6,jared-zabransky-1
+Justin Zwick,2005-09-03,1,Ohio State,,Miami (OH),W,17,23,73.9,155,1,1,136.2,justin-zwick-1
+Adam Bednarik,2005-09-04,1,West Virginia,@,Syracuse,W,14,21,66.7,104,0,1,98.7,adam-bednarik-1
+Brian Brohm,2005-09-04,1,Louisville,@,Kentucky,W,19,27,70.4,179,0,0,126.1,brian-brohm-1
+Jay Davis,2005-09-04,1,North Carolina State,,Virginia Tech,L,27,43,62.8,311,0,2,114.2,jay-davis-1
+Perry Patterson,2005-09-04,1,Syracuse,,West Virginia,L,15,31,48.4,85,0,2,58.5,perry-patterson-1
+Marcus Vick,2005-09-04,1,Virginia Tech,@,North Carolina State,W,10,21,47.6,108,1,0,106.5,marcus-vick-1
+Pat White,2005-09-04,1,West Virginia,@,Syracuse,W,3,6,50.0,63,0,0,138.2,pat-white-1
+Andre Woodson,2005-09-04,1,Kentucky,,Louisville,L,17,27,63.0,278,2,0,173.9,andre-woodson-1
+Patrick Byrne,2005-09-05,1,Memphis,,Mississippi,L,1,1,100.0,4,0,0,133.6,patrick-byrne-1
+Will Hudgens,2005-09-05,1,Memphis,,Mississippi,L,15,28,53.6,145,0,2,82.8,will-hudgens-1
+Tremayne Kirkland,2005-09-05,1,Nevada-Las Vegas,@,New Mexico,L,1,1,100.0,28,0,0,335.2,tremayne-kirkland-1
+Robert Lane,2005-09-05,1,Mississippi,@,Memphis,W,1,4,25.0,23,0,1,23.3,robert-lane-1
+Xavier Lee,2005-09-05,1,Florida State,,Miami (FL),W,1,2,50.0,7,0,0,79.4,xavier-lee-1
+Kole McKamey,2005-09-05,1,New Mexico,,Nevada-Las Vegas,W,20,29,69.0,288,2,0,175.1,kole-mckamey-1
+Micheal Spurlock,2005-09-05,1,Mississippi,@,Memphis,W,14,27,51.9,184,0,1,101.7,micheal-spurlock-1
+Shane Steichen,2005-09-05,1,Nevada-Las Vegas,@,New Mexico,L,18,30,60.0,227,2,1,138.9,shane-steichen-1
+Drew Weatherford,2005-09-05,1,Florida State,,Miami (FL),W,7,24,29.2,67,0,1,44.3,drew-weatherford-1
+Kyle Wright,2005-09-05,1,Miami (FL),@,Florida State,L,16,28,57.1,232,1,2,124.2,kyle-wright-1
+Danny Embick,2005-09-08,2,Florida Atlantic,,Oklahoma State,L,7,16,43.8,91,0,0,91.5,danny-embick-1
+Bobby Reid,2005-09-08,2,Oklahoma State,@,Florida Atlantic,W,4,10,40.0,52,0,0,83.7,bobby-reid-1
+Donovan Woods,2005-09-08,2,Oklahoma State,@,Florida Atlantic,W,7,12,58.3,46,0,0,90.5,donovan-woods-1
+Alex Brink,2005-09-09,2,Washington State,@,Nevada,W,15,23,65.2,202,3,0,182.0,alex-brink-1
+Austen Everson,2005-09-09,2,Ohio,,Pittsburgh,W,13,23,56.5,112,0,0,97.4,austen-everson-1
+Theo Jefferson,2005-09-09,2,Ohio,,Pittsburgh,W,1,1,100.0,2,0,0,116.8,theo-jefferson-1
+Travis Moore,2005-09-09,1,Nevada,,Washington State,L,4,10,40.0,38,0,0,71.9,travis-moore-1
+Tyler Palko,2005-09-09,2,Pittsburgh,@,Ohio,L,13,25,52.0,120,0,3,68.3,tyler-palko-1
+Jeff Rowe,2005-09-09,1,Nevada,,Washington State,L,19,32,59.4,219,1,1,120.9,jeff-rowe-1
+Josh Swogger,2005-09-09,2,Washington State,@,Nevada,W,4,9,44.4,85,1,0,160.4,josh-swogger-1
+Donald Allen,2005-09-10,1,Louisiana Tech,@,Florida,L,7,14,50.0,61,0,1,72.3,donald-allen-1
+Dustin Almond,2005-09-10,1,Southern Mississippi,@,Alabama,L,15,30,50.0,190,2,1,118.5,dustin-almond-1
+Joel Armstrong,2005-09-10,1,Rice,@,UCLA,L,5,9,55.6,32,0,0,85.4,joel-armstrong-1
+Joe Ayoob,2005-09-10,2,California,@,Washington,W,17,27,63.0,271,4,1,188.8,joe-ayoob-1
+Jerry Babb,2005-09-10,2,Louisiana,@,Eastern Michigan,L,21,29,72.4,228,0,0,138.5,jerry-babb-1
+Matt Baker,2005-09-10,1,North Carolina,@,Georgia Tech,L,18,39,46.2,280,2,3,108.0,matt-baker-1
+Reggie Ball,2005-09-10,2,Georgia Tech,,North Carolina,W,24,47,51.1,320,2,0,122.3,reggie-ball-1
+Adam Barmann,2005-09-10,2,Kansas,,Appalachian State,W,0,1,0.0,0,0,0,0.0,adam-barmann-1
+Brett Basanez,2005-09-10,2,Northwestern,,Northern Illinois,W,21,32,65.6,220,0,0,123.4,brett-basanez-1
+John Beck,2005-09-10,2,Brigham Young,,Eastern Illinois,W,26,40,65.0,255,3,2,133.3,john-beck-1
+Adam Bednarik,2005-09-10,2,West Virginia,,Wofford,W,6,6,100.0,90,1,0,281.0,adam-bednarik-1
+Shawn Bell,2005-09-10,2,Baylor,,Samford,W,16,26,61.5,166,2,0,140.6,shawn-bell-1
+Matt Berry,2005-09-10,2,Brigham Young,,Eastern Illinois,W,0,1,0.0,0,0,0,0.0,matt-berry-1
+Josh Betts,2005-09-10,2,Miami (OH),,Central Michigan,L,27,46,58.7,395,3,0,152.3,josh-betts-1
+Brett Biggs,2005-09-10,1,Akron,@,Purdue,L,1,1,100.0,79,1,0,1093.6,brett-biggs-1
+Damarius Bilbo,2005-09-10,2,Georgia Tech,,North Carolina,W,1,1,100.0,33,0,0,377.2,damarius-bilbo-1
+Matt Bohnet,2005-09-10,2,Eastern Michigan,,Louisiana,W,26,36,72.2,263,2,0,151.9,matt-bohnet-1
+Rhett Bomar,2005-09-10,2,Oklahoma,,Tulsa,W,5,13,38.5,42,0,2,34.8,rhett-bomar-1
+Matt Bonislawski,2005-09-10,2,Connecticut,,Liberty,W,18,25,72.0,217,2,0,171.3,matt-bonislawski-1
+Jovon Bouknight,2005-09-10,2,Wyoming,,Louisiana-Monroe,W,0,1,0.0,0,0,0,0.0,jovon-bouknight-1
+Chad Bozzo,2005-09-10,2,San Jose State,@,Illinois,L,6,10,60.0,111,0,0,153.2,chad-bozzo-1
+Corey Bramlet,2005-09-10,2,Wyoming,,Louisiana-Monroe,W,13,23,56.5,223,1,2,134.9,corey-bramlet-1
+Tom Brandstater,2005-09-10,1,Fresno State,,Weber State,W,2,4,50.0,11,1,0,155.6,tom-brandstater-1
+Tim Brasic,2005-09-10,2,Illinois,,San Jose State,W,17,22,77.3,199,0,1,144.2,tim-brasic-1
+Colt Brennan,2005-09-10,2,Hawaii,@,Michigan State,L,23,31,74.2,219,2,0,154.8,colt-brennan-1
+Jon Brown,2005-09-10,2,Kent State,,Southeast Missouri State,W,1,1,100.0,6,0,0,150.4,jon-brown-1
+Derrick Bush,2005-09-10,2,Kent State,,Southeast Missouri State,W,1,1,100.0,29,1,0,673.6,derrick-bush-1
+Shaun Carney,2005-09-10,2,Air Force,,San Diego State,W,10,12,83.3,231,1,0,272.5,shaun-carney-1
+Kellen Clemens,2005-09-10,2,Oregon,,Montana,W,24,40,60.0,275,2,0,134.3,kellen-clemens-1
+Chase Clement,2005-09-10,1,Rice,@,UCLA,L,3,8,37.5,31,0,0,70.1,chase-clement-2
+Clint Cochran,2005-09-10,2,Toledo,,Western Michigan,W,4,4,100.0,20,0,0,142.0,clint-cochran-1
+Omarr Conner,2005-09-10,2,Mississippi State,@,Auburn,L,10,19,52.6,116,0,1,93.4,omarr-conner-1
+Brandon Cox,2005-09-10,2,Auburn,,Mississippi State,W,12,18,66.7,202,2,0,197.6,brandon-cox-1
+James Cox,2005-09-10,2,Colorado,,New Mexico State,W,4,8,50.0,47,0,0,99.4,james-cox-1
+Brodie Croyle,2005-09-10,2,Alabama,,Southern Mississippi,W,21,37,56.8,330,2,1,144.1,brodie-croyle-1
+Ryan Cubit,2005-09-10,2,Western Michigan,@,Toledo,L,20,33,60.6,215,1,0,125.3,ryan-cubit-1
+Bryan Cupito,2005-09-10,2,Minnesota,,Colorado State,W,9,21,42.9,159,2,1,128.4,bryan-cupito-1
+Jay Cutler,2005-09-10,2,Vanderbilt,@,Arkansas,W,23,45,51.1,278,2,1,113.2,jay-cutler-1
+Zac Dahman,2005-09-10,1,Army,@,Boston College,L,17,32,53.1,154,1,2,91.4,zac-dahman-1
+Nick Davila,2005-09-10,2,Cincinnati,@,Penn State,L,2,2,100.0,43,1,0,445.6,nick-davila-1
+Courtney Denson,2005-09-10,2,South Florida,,Florida A&M,W,2,7,28.6,42,1,0,126.1,courtney-denson-1
+Dennis Dixon,2005-09-10,2,Oregon,,Montana,W,1,1,100.0,39,1,0,757.6,dennis-dixon-1
+Paul Dombrowski,2005-09-10,2,New Mexico State,@,Colorado,L,0,1,0.0,0,0,1,-200.0,paul-dombrowski-1
+Tyler Donovan,2005-09-10,2,Wisconsin,,Temple,W,3,6,50.0,49,1,0,173.6,tyler-donovan-1
+Jacob Doss,2005-09-10,2,Wyoming,,Louisiana-Monroe,W,5,7,71.4,31,1,1,127.2,jacob-doss-1
+Matt Dragich,2005-09-10,2,Oregon,,Montana,W,0,1,0.0,0,0,0,0.0,matt-dragich-1
+Curt Dukes,2005-09-10,2,Duke,,Virginia Tech,L,1,3,33.3,8,0,1,-10.9,curt-dukes-1
+Trent Edwards,2005-09-10,1,Stanford,@,Navy,W,21,33,63.6,235,1,0,133.5,trent-edwards-1
+Luke Getsy,2005-09-10,1,Akron,@,Purdue,L,25,44,56.8,283,2,0,125.8,luke-getsy-1
+Royal Gill,2005-09-10,2,New Mexico State,@,Colorado,L,17,30,56.7,176,0,1,99.3,royal-gill-1
+Bruce Gradkowski,2005-09-10,2,Toledo,,Western Michigan,W,25,35,71.4,338,3,1,175.1,bruce-gradkowski-1
+Tyler Graunke,2005-09-10,2,Hawaii,@,Michigan State,L,2,11,18.2,17,0,0,31.2,tyler-graunke-1
+J.P. Greco,2005-09-10,2,San Jose State,@,Illinois,L,4,4,100.0,35,0,0,173.5,jp-greco-1
+Dustin Grutza,2005-09-10,2,Cincinnati,@,Penn State,L,27,47,57.4,286,1,2,107.1,dustin-grutza-1
+Tye Gunn,2005-09-10,2,Texas Christian,@,Southern Methodist,L,16,36,44.4,134,0,3,59.0,tye-gunn-1
+Robbie Haas,2005-09-10,2,Western Michigan,@,Toledo,L,0,2,0.0,0,0,0,0.0,robbie-haas-1
+Darrell Hackney,2005-09-10,2,Alabama-Birmingham,@,Troy,W,25,38,65.8,296,2,0,148.6,darrell-hackney-1
+Brian Hampton,2005-09-10,2,Navy,,Stanford,L,3,10,30.0,55,0,0,76.2,brian-hampton-1
+Caleb Hanie,2005-09-10,2,Colorado State,@,Minnesota,L,9,19,47.4,151,2,0,148.9,caleb-hanie-1
+Graham Harrell,2005-09-10,1,Texas Tech,,Florida International,W,7,8,87.5,64,0,0,154.7,graham-harrell-1
+Michael Harrington,2005-09-10,2,Idaho,@,Nevada-Las Vegas,L,0,1,0.0,0,0,0,0.0,michael-harrington-1
+A.J. Harris,2005-09-10,2,Northern Illinois,@,Northwestern,L,0,1,0.0,0,0,0,0.0,aj-harris-2
+Ryan Hart,2005-09-10,2,Rutgers,,Villanova,W,16,22,72.7,234,1,0,177.1,ryan-hart-1
+Michael Henig,2005-09-10,2,Mississippi State,@,Auburn,L,2,2,100.0,10,0,0,142.0,michael-henig-1
+Chad Henne,2005-09-10,2,Michigan,,Notre Dame,L,19,44,43.2,223,1,1,88.7,chad-henne-1
+Marcus Herford,2005-09-10,2,Kansas,,Appalachian State,W,2,2,100.0,16,0,0,167.2,marcus-herford-1
+D.J. Hernandez,2005-09-10,2,Connecticut,,Liberty,W,1,2,50.0,7,0,0,79.4,dj-hernandez-1
+Travis Hewitt,2005-09-10,2,Arkansas State,,Tennessee-Martin,W,2,3,66.7,32,1,0,266.3,travis-hewitt-1
+Carlton Hill,2005-09-10,2,South Florida,,Florida A&M,W,0,1,0.0,0,0,0,0.0,carlton-hill-1
+Peyton Hillis,2005-09-10,2,Arkansas,,Vanderbilt,L,0,1,0.0,0,0,0,0.0,peyton-hillis-1
+Cody Hodges,2005-09-10,1,Texas Tech,,Florida International,W,29,37,78.4,454,4,0,217.1,cody-hodges-1
+Justin Holland,2005-09-10,2,Colorado State,@,Minnesota,L,12,23,52.2,211,1,1,134.9,justin-holland-1
+Sam Hollenbach,2005-09-10,2,Maryland,,Clemson,L,18,28,64.3,288,2,1,167.1,sam-hollenbach-1
+Cory Holt,2005-09-10,2,Virginia Tech,@,Duke,W,1,3,33.3,10,0,0,61.3,cory-holt-1
+Phil Horvath,2005-09-10,2,Northern Illinois,@,Northwestern,L,24,36,66.7,283,1,1,136.3,phil-horvath-1
+J.R. House,2005-09-10,2,West Virginia,,Wofford,W,0,2,0.0,0,0,0,0.0,jr-house-1
+Leon Jackson III,2005-09-10,1,Utah State,@,Utah,L,12,25,48.0,95,0,1,71.9,leon-jackson-iii-1
+Chris Jackson,2005-09-10,1,Louisiana State,@,Arizona State,W,1,1,100.0,12,0,0,200.8,chris-jackson-1
+Omar Jacobs,2005-09-10,2,Bowling Green State,@,Ball State,W,27,43,62.8,427,5,1,179.9,omar-jacobs-1
+Brian Johnson,2005-09-10,2,Utah,,Utah State,W,18,21,85.7,268,2,0,224.3,brian-johnson-2
+Robert Johnson,2005-09-10,2,Arkansas,,Vanderbilt,L,17,28,60.7,204,2,1,138.3,robert-johnson-1
+Tyler Jones,2005-09-10,2,Eastern Michigan,,Louisiana,W,1,2,50.0,5,0,0,71.0,tyler-jones-1
+Pat Julmiste,2005-09-10,2,South Florida,,Florida A&M,W,6,10,60.0,71,0,0,119.6,pat-julmiste-1
+Steven Jyles,2005-09-10,2,Louisiana-Monroe,@,Wyoming,L,13,32,40.6,106,0,2,56.0,steven-jyles-1
+Kaipo-Noa Kaheaku-Enhada,2005-09-10,2,Navy,,Stanford,L,0,1,0.0,0,0,0,0.0,kaipo-noa-kaheaku-enhada-1
+Sam Keller,2005-09-10,2,Arizona State,,Louisiana State,L,35,56,62.5,461,4,0,155.2,sam-keller-1
+Shane Kelly,2005-09-10,2,Temple,@,Wisconsin,L,2,6,33.3,18,0,0,58.5,shane-kelly-1
+Tavares Kendrick,2005-09-10,2,Florida International,@,Texas Tech,L,5,10,50.0,42,0,0,85.3,tavares-kendrick-1
+Brandon Kirsch,2005-09-10,1,Purdue,,Akron,W,22,34,64.7,252,2,0,146.4,brandon-kirsch-1
+Joel Klatt,2005-09-10,2,Colorado,,New Mexico State,W,18,25,72.0,186,2,0,160.9,joel-klatt-1
+Mike Kokal,2005-09-10,2,Miami (OH),,Central Michigan,L,1,1,100.0,2,0,0,116.8,mike-kokal-1
+Kevin Kolb,2005-09-10,2,Houston,,Sam Houston State,W,19,31,61.3,206,2,1,131.9,kevin-kolb-1
+David Koral,2005-09-10,2,UCLA,,Rice,W,1,2,50.0,29,0,0,171.8,david-koral-1
+Richard Kovalcheck,2005-09-10,2,Arizona,,Northern Arizona,W,19,31,61.3,255,2,1,145.2,richard-kovalcheck-1
+Matt Kubik,2005-09-10,1,Louisiana Tech,@,Florida,L,4,18,22.2,56,0,2,26.1,matt-kubik-1
+Kinsmon Lancaster,2005-09-10,2,Louisiana-Monroe,@,Wyoming,L,3,7,42.9,20,0,0,66.9,kinsmon-lancaster-1
+Brady Leaf,2005-09-10,2,Oregon,,Montana,W,2,5,40.0,25,0,0,82.0,brady-leaf-1
+Chris Leak,2005-09-10,2,Florida,,Louisiana Tech,W,13,22,59.1,219,2,0,172.7,chris-leak-1
+Xavier Lee,2005-09-10,2,Florida State,,Citadel,W,5,8,62.5,143,1,1,228.9,xavier-lee-1
+Dante Love,2005-09-10,2,Ball State,,Bowling Green State,L,1,1,100.0,22,0,0,284.8,dante-love-1
+Brian Luke,2005-09-10,2,Kansas,,Appalachian State,W,17,26,65.4,212,0,1,126.2,brian-luke-1
+Joey Lynch,2005-09-10,2,Ball State,,Bowling Green State,L,24,33,72.7,284,4,2,172.9,joey-lynch-1
+Michael Machen,2005-09-10,2,Kent State,,Southeast Missouri State,W,17,42,40.5,136,2,1,78.6,michael-machen-1
+Jason Manson,2005-09-10,2,Iowa,@,Iowa State,L,10,31,32.3,117,0,1,57.5,jason-manson-1
+Clint Marks,2005-09-10,2,Middle Tennessee State,,North Texas,L,21,27,77.8,195,0,3,116.2,clint-marks-1
+Ben Mauk,2005-09-10,2,Wake Forest,@,Nebraska,L,12,27,44.4,117,0,3,58.6,ben-mauk-1
+Mike McGann,2005-09-10,2,Temple,@,Wisconsin,L,4,20,20.0,38,0,1,26.0,mike-mcgann-1
+Kole McKamey,2005-09-10,2,New Mexico,@,Missouri,W,14,25,56.0,188,3,0,158.8,kole-mckamey-1
+Carl Meadows,2005-09-10,2,Troy,,Alabama-Birmingham,L,12,26,46.2,164,0,4,68.4,carl-meadows-1
+Daniel Meager,2005-09-10,1,North Texas,@,Middle Tennessee State,W,10,15,66.7,122,0,0,135.0,daniel-meager-1
+Bret Meyer,2005-09-10,2,Iowa State,,Iowa,W,14,24,58.3,154,1,1,117.7,bret-meyer-1
+Kurt Milne,2005-09-10,2,Hawaii,@,Michigan State,L,0,1,0.0,0,0,1,-200.0,kurt-milne-1
+Blake Mitchell,2005-09-10,2,South Carolina,@,Georgia,L,22,34,64.7,236,1,2,121.0,blake-mitchell-1
+Marcus Monk,2005-09-10,2,Arkansas,,Vanderbilt,L,0,1,0.0,0,0,0,0.0,marcus-monk-1
+Dontrell Moore,2005-09-10,2,New Mexico,@,Missouri,W,1,1,100.0,41,1,0,774.4,dontrell-moore-1
+Matt Moore,2005-09-10,2,Oregon State,,Boise State,W,27,38,71.1,279,1,0,141.4,matt-moore-1
+Anthony Morelli,2005-09-10,2,Penn State,,Cincinnati,W,4,5,80.0,25,0,0,122.0,anthony-morelli-1
+Bernard Morris,2005-09-10,2,Marshall,,Kansas State,L,7,12,58.3,73,0,0,109.4,bernard-morris-1
+Tony Mortensen,2005-09-10,2,Minnesota,,Colorado State,W,2,3,66.7,31,0,0,153.5,tony-mortensen-1
+Nate Morton,2005-09-10,2,Wake Forest,@,Nebraska,L,0,1,0.0,0,0,0,0.0,nate-morton-1
+Darren Mougey,2005-09-10,2,San Diego State,@,Air Force,L,3,5,60.0,26,0,0,103.7,darren-mougey-1
+Chris Nelson,2005-09-10,2,New Mexico,@,Missouri,W,0,1,0.0,0,0,0,0.0,chris-nelson-1
+Nick Noce,2005-09-10,2,Arkansas State,,Tennessee-Martin,W,8,13,61.5,113,2,0,185.3,nick-noce-1
+Kevin O'Connell,2005-09-10,2,San Diego State,@,Air Force,L,24,39,61.5,227,1,1,113.8,kevin-oconnell-2
+Drew Olson,2005-09-10,2,UCLA,,Rice,W,18,25,72.0,296,3,0,211.1,drew-olson-1
+Lamar Owens,2005-09-10,2,Navy,,Stanford,L,12,18,66.7,193,1,2,152.8,lamar-owens-2
+Josh Padrick,2005-09-10,2,Florida International,@,Texas Tech,L,21,32,65.6,172,0,0,110.8,josh-padrick-1
+Curtis Painter,2005-09-10,1,Purdue,,Akron,W,1,2,50.0,15,0,0,113.0,curtis-painter-1
+Terrance Parks,2005-09-10,2,Baylor,,Samford,W,3,4,75.0,72,1,0,308.7,terrance-parks-1
+Perry Patterson,2005-09-10,2,Syracuse,,Buffalo,W,10,20,50.0,139,0,0,108.4,perry-patterson-1
+Chris Pazan,2005-09-10,2,Illinois,,San Jose State,W,3,7,42.9,50,0,0,102.9,chris-pazan-1
+Paul Pinegar,2005-09-10,1,Fresno State,,Weber State,W,14,18,77.8,189,2,0,202.6,paul-pinegar-1
+Quinton Porter,2005-09-10,2,Boston College,,Army,W,15,20,75.0,206,2,0,194.5,quinton-porter-1
+Josh Portis,2005-09-10,2,Florida,,Louisiana Tech,W,1,2,50.0,5,0,0,71.0,josh-portis-1
+Blake Powers,2005-09-10,2,Indiana,,Nicholls State,W,19,36,52.8,307,4,2,150.0,blake-powers-1
+Brady Quinn,2005-09-10,2,Notre Dame,@,Michigan,W,19,30,63.3,140,2,0,124.5,brady-quinn-1
+Brett Ratliff,2005-09-10,2,Utah,,Utah State,W,0,1,0.0,0,0,0,0.0,brett-ratliff-1
+Michael Robinson,2005-09-10,2,Penn State,,Cincinnati,W,11,17,64.7,220,3,1,219.9,michael-robinson-1
+Jerad Romo,2005-09-10,2,Southern Methodist,,Texas Christian,W,11,21,52.4,101,1,0,108.5,jerad-romo-1
+JaMarcus Russell,2005-09-10,1,Louisiana State,@,Arizona State,W,16,29,55.2,232,1,0,133.8,jamarcus-russell-1
+Matt Ryan,2005-09-10,2,Boston College,,Army,W,7,8,87.5,83,0,0,174.7,matt-ryan-1
+Stewart Sampsel,2005-09-10,2,Buffalo,@,Syracuse,L,4,18,22.2,19,0,2,8.9,stewart-sampsel-1
+Mike Schneider,2005-09-10,2,Duke,,Virginia Tech,L,4,14,28.6,14,0,0,37.0,mike-schneider-1
+D.J. Shockley,2005-09-10,2,Georgia,,South Carolina,W,8,17,47.1,112,0,2,78.9,dj-shockley-1
+Jimmy Skinner,2005-09-10,2,Marshall,,Kansas State,L,15,25,60.0,189,0,2,107.5,jimmy-skinner-1
+Brad Smith,2005-09-10,2,Missouri,,New Mexico,L,32,55,58.2,248,1,2,94.8,brad-smith-1
+Kent Smith,2005-09-10,2,Central Michigan,@,Miami (OH),W,26,36,72.2,356,2,1,168.1,kent-smith-1
+Paul Smith,2005-09-10,2,Tulsa,@,Oklahoma,L,24,36,66.7,246,0,1,118.5,paul-smith-2
+Troy Smith,2005-09-10,2,Ohio State,,Texas,L,5,11,45.5,78,1,0,135.0,troy-smith-1
+Chris Sprague,2005-09-10,2,Duke,,Virginia Tech,L,0,1,0.0,0,0,0,0.0,chris-sprague-1
+Isaiah Stanback,2005-09-10,2,Washington,,California,L,22,39,56.4,301,2,1,133.0,isaiah-stanback-1
+Drew Stanton,2005-09-10,2,Michigan State,,Hawaii,W,21,26,80.8,301,3,0,216.1,drew-stanton-1
+Shane Steichen,2005-09-10,2,Nevada-Las Vegas,,Idaho,W,22,34,64.7,250,2,1,140.0,shane-steichen-1
+John Stocco,2005-09-10,2,Wisconsin,,Temple,W,12,19,63.2,180,3,0,194.8,john-stocco-1
+Adam Tafralis,2005-09-10,2,San Jose State,@,Illinois,L,9,15,60.0,70,0,1,85.9,adam-tafralis-1
+Drew Tate,2005-09-10,2,Iowa,@,Iowa State,L,5,11,45.5,57,0,1,70.8,drew-tate-1
+Zac Taylor,2005-09-10,2,Nebraska,,Wake Forest,W,14,33,42.4,114,1,1,75.4,zac-taylor-1
+Mike Teel,2005-09-10,2,Rutgers,,Villanova,W,3,6,50.0,42,0,0,108.8,mike-teel-1
+Marcus Vick,2005-09-10,2,Virginia Tech,@,Duke,W,12,19,63.2,172,3,1,180.8,marcus-vick-1
+Drew Weatherford,2005-09-10,2,Florida State,,Citadel,W,26,37,70.3,342,2,1,160.3,drew-weatherford-1
+Allen Webb,2005-09-10,2,Kansas State,@,Marshall,W,10,19,52.6,126,2,1,132.5,allen-webb-1
+Pat White,2005-09-10,2,West Virginia,,Wofford,W,6,10,60.0,82,0,0,128.9,pat-white-1
+Charlie Whitehurst,2005-09-10,2,Clemson,@,Maryland,W,18,22,81.8,178,2,0,179.8,charlie-whitehurst-1
+Steven Wichman,2005-09-10,2,Idaho,@,Nevada-Las Vegas,L,19,30,63.3,390,3,1,198.9,steven-wichman-1
+Drew Willy,2005-09-10,2,Buffalo,@,Syracuse,L,5,9,55.6,54,0,0,106.0,drew-willy-1
+Andre Woodson,2005-09-10,2,Kentucky,,Idaho State,W,15,20,75.0,167,2,0,178.1,andre-woodson-1
+Vince Young,2005-09-10,2,Texas,@,Ohio State,W,18,29,62.1,270,2,2,149.2,vince-young-1
+Jared Zabransky,2005-09-10,2,Boise State,@,Oregon State,L,19,36,52.8,233,3,0,134.6,jared-zabransky-1
+Justin Zwick,2005-09-10,2,Ohio State,,Texas,L,9,15,60.0,66,0,0,97.0,justin-zwick-1
+Quinton Ganther,2005-09-15,3,Utah,@,Texas Christian,L,0,1,0.0,0,0,0,0.0,quinton-ganther-1
+Tye Gunn,2005-09-15,3,Texas Christian,,Utah,W,8,17,47.1,88,1,0,110.0,tye-gunn-1
+Brian Johnson,2005-09-15,3,Utah,@,Texas Christian,L,15,30,50.0,208,0,1,101.6,brian-johnson-2
+Kevin Kolb,2005-09-16,3,Houston,@,Texas-El Paso,L,32,50,64.0,331,5,5,132.6,kevin-kolb-1
+Jordan Palmer,2005-09-16,2,Texas-El Paso,,Houston,W,26,51,51.0,379,3,2,125.0,jordan-palmer-1
+Erik Ainge,2005-09-17,2,Tennessee,@,Florida,L,14,29,48.3,147,1,0,102.2,erik-ainge-1
+Donald Allen,2005-09-17,2,Louisiana Tech,@,Kansas,L,8,14,57.1,71,0,2,71.2,donald-allen-1
+Dustin Almond,2005-09-17,2,Southern Mississippi,,McNeese State,W,14,22,63.6,182,2,2,144.9,dustin-almond-1
+Joel Armstrong,2005-09-17,2,Rice,@,Texas,L,2,7,28.6,42,0,0,79.0,joel-armstrong-1
+Zack Asack,2005-09-17,3,Duke,,Virginia Military Institute,W,4,4,100.0,38,1,0,262.3,zack-asack-1
+Joe Ayoob,2005-09-17,3,California,,Illinois,W,8,17,47.1,121,1,0,126.3,joe-ayoob-1
+Jerry Babb,2005-09-17,3,Louisiana,,Northwestern State,W,18,28,64.3,222,3,2,152.0,jerry-babb-1
+C.J. Bacher,2005-09-17,3,Northwestern,@,Arizona State,L,1,1,100.0,12,1,0,530.8,cj-bacher-1
+Matt Baker,2005-09-17,2,North Carolina,,Wisconsin,L,16,37,43.2,281,0,1,101.6,matt-baker-1
+Billy Barefield,2005-09-17,2,Memphis,,Chattanooga,W,7,8,87.5,55,1,0,186.5,billy-barefield-1
+Brett Basanez,2005-09-17,3,Northwestern,@,Arizona State,L,24,37,64.9,224,2,0,133.6,brett-basanez-1
+Chris Beckman,2005-09-17,1,Tulane,N,Mississippi State,L,1,1,100.0,27,0,0,326.8,chris-beckman-1
+Adam Bednarik,2005-09-17,3,West Virginia,@,Maryland,W,5,6,83.3,57,0,0,163.1,adam-bednarik-1
+Shawn Bell,2005-09-17,3,Baylor,@,Army,W,20,30,66.7,205,1,2,121.7,shawn-bell-1
+Taylor Bennett,2005-09-17,3,Georgia Tech,,Connecticut,W,11,30,36.7,142,1,0,87.4,taylor-bennett-1
+Josh Betts,2005-09-17,3,Miami (OH),@,Kent State,W,22,37,59.5,251,2,1,128.9,josh-betts-1
+Matt Bohnet,2005-09-17,3,Eastern Michigan,@,Michigan,L,13,25,52.0,118,0,1,83.6,matt-bohnet-1
+Rhett Bomar,2005-09-17,3,Oklahoma,@,UCLA,L,20,29,69.0,241,0,0,138.8,rhett-bomar-1
+Matt Bonislawski,2005-09-17,3,Connecticut,@,Georgia Tech,L,7,25,28.0,67,0,3,26.5,matt-bonislawski-1
+John David Booty,2005-09-17,2,Southern California,,Arkansas,W,4,9,44.4,60,1,0,137.1,john-david-booty-1
+Corey Bramlet,2005-09-17,3,Wyoming,@,Air Force,W,19,29,65.5,267,1,0,154.2,corey-bramlet-1
+Tim Brasic,2005-09-17,3,Illinois,@,California,L,21,37,56.8,228,0,0,108.5,tim-brasic-1
+Alex Brink,2005-09-17,3,Washington State,,Grambling State,W,19,29,65.5,262,3,0,175.5,alex-brink-1
+Brian Brohm,2005-09-17,2,Louisville,,Oregon State,W,18,22,81.8,368,5,1,288.2,brian-brohm-1
+Brian Brunner,2005-09-17,3,Central Michigan,@,Penn State,L,2,2,100.0,15,0,0,163.0,brian-brunner-1
+Derrick Bush,2005-09-17,3,Kent State,,Miami (OH),L,0,1,0.0,0,0,0,0.0,derrick-bush-1
+Hunter Cantwell,2005-09-17,2,Louisville,,Oregon State,W,3,3,100.0,60,1,0,378.0,hunter-cantwell-1
+Shaun Carney,2005-09-17,3,Air Force,,Wyoming,L,4,12,33.3,53,1,2,64.6,shaun-carney-1
+Rudy Carpenter,2005-09-17,3,Arizona State,,Northwestern,W,7,8,87.5,74,1,0,206.5,rudy-carpenter-1
+Colin Clancy,2005-09-17,3,Temple,,Toledo,L,6,9,66.7,85,1,0,182.7,colin-clancy-1
+Travis Clark,2005-09-17,2,Southern Mississippi,,McNeese State,W,2,3,66.7,16,0,1,44.8,travis-clark-1
+Rick Clausen,2005-09-17,2,Tennessee,@,Florida,L,2,5,40.0,0,0,0,40.0,rick-clausen-1
+Sean Clayton,2005-09-17,3,Florida Atlantic,@,Minnesota,L,1,3,33.3,17,0,0,80.9,sean-clayton-1
+Kellen Clemens,2005-09-17,3,Oregon,,Fresno State,W,28,38,73.7,332,4,0,181.8,kellen-clemens-1
+Chase Clement,2005-09-17,2,Rice,@,Texas,L,2,8,25.0,57,0,0,84.9,chase-clement-2
+Clint Cochran,2005-09-17,3,Toledo,@,Temple,W,3,3,100.0,15,0,0,142.0,clint-cochran-1
+Britton Colquitt,2005-09-17,2,Tennessee,@,Florida,L,0,1,0.0,0,0,0,0.0,britton-colquitt-1
+Omarr Conner,2005-09-17,3,Mississippi State,N,Tulane,W,13,26,50.0,108,2,1,102.6,omarr-conner-1
+Brandon Cox,2005-09-17,3,Auburn,,Ball State,W,16,19,84.2,171,1,0,177.2,brandon-cox-1
+Brodie Croyle,2005-09-17,3,Alabama,@,South Carolina,W,12,21,57.1,115,1,0,118.9,brodie-croyle-1
+Ryan Cubit,2005-09-17,3,Western Michigan,,Southern Illinois,W,27,46,58.7,268,3,2,120.5,ryan-cubit-1
+Bryan Cupito,2005-09-17,3,Minnesota,,Florida Atlantic,W,10,17,58.8,230,2,0,211.3,bryan-cupito-1
+Jay Cutler,2005-09-17,3,Vanderbilt,,Mississippi,W,24,41,58.5,314,0,0,122.9,jay-cutler-1
+Zac Dahman,2005-09-17,2,Army,,Baylor,L,19,37,51.4,228,1,2,101.2,zac-dahman-1
+Chase Daniel,2005-09-17,3,Missouri,,Troy,W,3,4,75.0,28,0,0,133.8,chase-daniel-1
+Britt Davis,2005-09-17,3,Northern Illinois,,Tennessee Tech,W,2,3,66.7,17,0,0,114.3,britt-davis-1
+Jay Davis,2005-09-17,2,North Carolina State,,Eastern Kentucky,W,12,17,70.6,234,3,1,232.7,jay-davis-1
+Courtney Denson,2005-09-17,3,South Florida,,Central Florida,W,1,1,100.0,5,0,0,142.0,courtney-denson-1
+Larry Dockery,2005-09-17,3,Troy,@,Missouri,L,6,14,42.9,61,1,0,103.0,larry-dockery-1
+Paul Dombrowski,2005-09-17,3,New Mexico State,@,New Mexico,L,1,1,100.0,32,0,0,368.8,paul-dombrowski-1
+Tony Eckert,2005-09-17,3,Southern Methodist,@,Texas A&M,L,5,14,35.7,66,0,1,61.0,tony-eckert-1
+Trent Edwards,2005-09-17,2,Stanford,,California-Davis,L,1,4,25.0,10,0,0,46.0,trent-edwards-1
+Danny Embick,2005-09-17,3,Florida Atlantic,@,Minnesota,L,11,24,45.8,131,0,1,83.4,danny-embick-1
+Austen Everson,2005-09-17,3,Ohio,@,Virginia Tech,L,9,18,50.0,96,0,2,72.6,austen-everson-1
+Blake Field,2005-09-17,3,Auburn,,Ball State,W,1,3,33.3,11,0,0,64.1,blake-field-1
+Luke Getsy,2005-09-17,2,Akron,@,Middle Tennessee State,W,23,43,53.5,319,2,3,117.2,luke-getsy-1
+Royal Gill,2005-09-17,3,New Mexico State,@,New Mexico,L,7,16,43.8,116,1,2,100.3,royal-gill-1
+Bruce Gradkowski,2005-09-17,3,Toledo,@,Temple,W,20,29,69.0,182,4,1,160.3,bruce-gradkowski-1
+Dustin Grutza,2005-09-17,3,Cincinnati,,Western Carolina,W,10,24,41.7,88,0,1,64.1,dustin-grutza-1
+Ryan Gunderson,2005-09-17,3,Oregon State,@,Louisville,L,7,10,70.0,55,0,0,116.2,ryan-gunderson-1
+Matt Gutierrez,2005-09-17,3,Michigan,,Eastern Michigan,W,7,9,77.8,86,0,0,158.0,matt-gutierrez-1
+Darrell Hackney,2005-09-17,3,Alabama-Birmingham,,Jacksonville State,W,16,24,66.7,231,2,0,175.0,darrell-hackney-1
+Marques Hagans,2005-09-17,2,Virginia,@,Syracuse,W,16,26,61.5,145,1,3,98.0,marques-hagans-1
+Graham Harrell,2005-09-17,2,Texas Tech,,Sam Houston State,W,14,17,82.4,208,1,0,204.5,graham-harrell-1
+Michael Harrington,2005-09-17,3,Idaho,@,Washington,L,1,2,50.0,3,0,0,62.6,michael-harrington-1
+Josh Harris,2005-09-17,3,Middle Tennessee State,,Akron,L,4,7,57.1,18,0,0,78.7,josh-harris-1
+Ryan Hart,2005-09-17,3,Rutgers,@,Buffalo,W,13,27,48.1,143,2,0,117.1,ryan-hart-1
+Antonio Heffner,2005-09-17,3,South Carolina,,Alabama,L,1,1,100.0,12,0,0,200.8,antonio-heffner-1
+Chad Henne,2005-09-17,3,Michigan,,Eastern Michigan,W,13,19,68.4,147,3,0,185.5,chad-henne-1
+Cody Hodges,2005-09-17,2,Texas Tech,,Sam Houston State,W,26,37,70.3,436,5,0,213.8,cody-hodges-1
+Sam Hollenbach,2005-09-17,3,Maryland,,West Virginia,L,20,31,64.5,291,2,0,164.7,sam-hollenbach-1
+Cory Holt,2005-09-17,3,Virginia Tech,,Ohio,W,2,3,66.7,57,1,0,336.3,cory-holt-1
+Phil Horvath,2005-09-17,3,Northern Illinois,,Tennessee Tech,W,11,17,64.7,218,4,1,238.3,phil-horvath-1
+Will Hudgens,2005-09-17,2,Memphis,,Chattanooga,W,10,15,66.7,139,2,0,188.5,will-hudgens-1
+Desean Jackson,2005-09-17,3,California,,Illinois,W,0,1,0.0,0,0,0,0.0,desean-jackson-1
+David Johnson,2005-09-17,3,Tulsa,@,North Texas,W,1,1,100.0,4,0,0,133.6,david-johnson-3
+Robert Johnson,2005-09-17,3,Arkansas,@,Southern California,L,8,16,50.0,91,1,1,105.9,robert-johnson-1
+Brandon Jones,2005-09-17,2,Purdue,@,Arizona,W,0,1,0.0,0,0,0,0.0,brandon-jones-4
+Marcus Jones,2005-09-17,3,Duke,,Virginia Military Institute,W,1,2,50.0,9,0,0,87.8,marcus-jones-1
+Tyler Jones,2005-09-17,3,Eastern Michigan,@,Michigan,L,2,5,40.0,1,0,0,41.7,tyler-jones-1
+Pat Julmiste,2005-09-17,3,South Florida,,Central Florida,W,10,16,62.5,95,1,0,133.0,pat-julmiste-1
+Steven Jyles,2005-09-17,3,Louisiana-Monroe,@,Georgia,L,17,32,53.1,119,0,1,78.1,steven-jyles-1
+Sam Keller,2005-09-17,3,Arizona State,,Northwestern,W,20,31,64.5,409,4,0,217.9,sam-keller-1
+Brandon Kirsch,2005-09-17,2,Purdue,@,Arizona,W,7,16,43.8,140,0,1,104.8,brandon-kirsch-1
+Richard Kovalcheck,2005-09-17,3,Arizona,,Purdue,L,23,40,57.5,283,3,1,136.7,richard-kovalcheck-1
+Matt Kubik,2005-09-17,2,Louisiana Tech,@,Kansas,L,18,32,56.3,186,2,2,113.2,matt-kubik-1
+Kinsmon Lancaster,2005-09-17,3,Louisiana-Monroe,@,Georgia,L,1,2,50.0,4,0,0,66.8,kinsmon-lancaster-1
+Robert Lane,2005-09-17,2,Mississippi,@,Vanderbilt,L,1,2,50.0,19,0,0,129.8,robert-lane-1
+Chris Leak,2005-09-17,3,Florida,,Tennessee,W,17,26,65.4,179,0,0,123.2,chris-leak-1
+Matt Leinart,2005-09-17,2,Southern California,,Arkansas,W,18,24,75.0,381,4,0,263.4,matt-leinart-1
+Brian Luke,2005-09-17,3,Kansas,,Louisiana Tech,W,19,31,61.3,236,3,1,150.7,brian-luke-1
+Joey Lynch,2005-09-17,3,Ball State,@,Auburn,L,14,24,58.3,127,0,0,102.8,joey-lynch-1
+Michael Machen,2005-09-17,3,Kent State,,Miami (OH),L,31,56,55.4,338,1,2,104.8,michael-machen-1
+Jason Manson,2005-09-17,3,Iowa,,Northern Iowa,W,3,5,60.0,18,0,0,90.2,jason-manson-1
+Clint Marks,2005-09-17,3,Middle Tennessee State,,Akron,L,19,33,57.6,139,1,0,103.0,clint-marks-1
+Ben Mauk,2005-09-17,3,Wake Forest,,East Carolina,W,10,17,58.8,69,1,1,100.6,ben-mauk-1
+Michael McDonald,2005-09-17,2,Southern California,,Arkansas,W,1,1,100.0,4,1,0,463.6,michael-mcdonald-1
+Mike McGann,2005-09-17,3,Temple,,Toledo,L,12,29,41.4,160,0,2,73.9,mike-mcgann-1
+Stephen McGee,2005-09-17,2,Texas A&M,,Southern Methodist,W,3,3,100.0,56,0,0,256.8,stephen-mcgee-1
+Kole McKamey,2005-09-17,3,New Mexico,,New Mexico State,W,12,19,63.2,172,2,1,163.4,kole-mckamey-1
+Reggie McNeal,2005-09-17,2,Texas A&M,,Southern Methodist,W,15,24,62.5,349,5,0,253.4,reggie-mcneal-1
+Carl Meadows,2005-09-17,3,Troy,@,Missouri,L,16,28,57.1,199,1,0,128.6,carl-meadows-1
+Daniel Meager,2005-09-17,2,North Texas,,Tulsa,L,9,21,42.9,63,0,2,49.0,daniel-meager-1
+Blake Mitchell,2005-09-17,3,South Carolina,,Alabama,L,20,38,52.6,173,1,1,94.3,blake-mitchell-1
+Steven Moffett,2005-09-17,2,Central Florida,@,South Florida,L,19,40,47.5,208,1,0,99.4,steven-moffett-1
+Matt Moore,2005-09-17,3,Oregon State,@,Louisville,L,25,48,52.1,317,1,1,110.3,matt-moore-1
+Anthony Morelli,2005-09-17,3,Penn State,,Central Michigan,W,8,13,61.5,107,1,0,156.1,anthony-morelli-1
+Alex Mortensen,2005-09-17,3,Arkansas,@,Southern California,L,4,10,40.0,38,1,1,84.9,alex-mortensen-1
+Tony Mortensen,2005-09-17,3,Minnesota,,Florida Atlantic,W,0,4,0.0,0,0,0,0.0,tony-mortensen-1
+Darren Mougey,2005-09-17,3,San Diego State,@,Ohio State,L,2,5,40.0,7,0,0,51.8,darren-mougey-1
+Chris Nelson,2005-09-17,3,New Mexico,,New Mexico State,W,2,3,66.7,-2,0,0,61.1,chris-nelson-1
+Dan Nicholson,2005-09-17,3,Northern Illinois,,Tennessee Tech,W,2,4,50.0,30,0,0,113.0,dan-nicholson-1
+Nick Noce,2005-09-17,3,Arkansas State,@,Oklahoma State,L,11,24,45.8,122,0,1,80.2,nick-noce-1
+Matt Nordgren,2005-09-17,3,Texas,,Rice,W,3,4,75.0,21,0,0,119.1,matt-nordgren-1
+Kevin O'Connell,2005-09-17,3,San Diego State,@,Ohio State,L,12,17,70.6,159,1,0,168.6,kevin-oconnell-2
+Drew Olson,2005-09-17,3,UCLA,,Oklahoma,W,28,38,73.7,314,3,0,169.1,drew-olson-1
+T.C. Ostrander,2005-09-17,2,Stanford,,California-Davis,L,7,17,41.2,108,0,1,82.8,tc-ostrander-1
+Curtis Painter,2005-09-17,2,Purdue,@,Arizona,W,0,1,0.0,0,0,0,0.0,curtis-painter-1
+Tyler Palko,2005-09-17,3,Pittsburgh,@,Nebraska,L,11,26,42.3,190,0,0,103.7,tyler-palko-1
+Perry Patterson,2005-09-17,3,Syracuse,,Virginia,L,17,26,65.4,172,1,0,133.6,perry-patterson-1
+Sam Paulescu,2005-09-17,3,Oregon State,@,Louisville,L,1,1,100.0,5,0,0,142.0,sam-paulescu-1
+Casey Paus,2005-09-17,3,Washington,,Idaho,W,1,2,50.0,3,0,0,62.6,casey-paus-1
+Mark Petruziello,2005-09-17,3,Ohio,@,Virginia Tech,L,1,5,20.0,6,0,0,30.1,mark-petruziello-1
+Paul Pinegar,2005-09-17,2,Fresno State,@,Oregon,L,33,43,76.7,418,3,1,176.8,paul-pinegar-1
+James Pinkney,2005-09-17,2,East Carolina,@,Wake Forest,L,20,45,44.4,292,3,0,121.0,james-pinkney-1
+Quinton Porter,2005-09-17,3,Boston College,,Florida State,L,20,31,64.5,151,1,2,103.2,quinton-porter-1
+Blake Powers,2005-09-17,3,Indiana,,Kentucky,W,17,22,77.3,135,4,0,188.8,blake-powers-1
+Curtis Pulley,2005-09-17,3,Kentucky,@,Indiana,L,1,2,50.0,7,0,0,79.4,curtis-pulley-1
+Brady Quinn,2005-09-17,3,Notre Dame,,Michigan State,L,33,60,55.0,487,5,1,147.3,brady-quinn-1
+Bobby Reid,2005-09-17,3,Oklahoma State,,Arkansas State,W,8,21,38.1,148,1,0,113.0,bobby-reid-1
+Lester Ricard,2005-09-17,1,Tulane,N,Mississippi State,L,26,47,55.3,179,1,0,94.3,lester-ricard-1
+Michael Robinson,2005-09-17,3,Penn State,,Central Michigan,W,14,23,60.9,274,3,1,195.3,michael-robinson-1
+Jerad Romo,2005-09-17,3,Southern Methodist,@,Texas A&M,L,18,31,58.1,243,1,1,128.1,jerad-romo-1
+Jeff Rowe,2005-09-17,2,Nevada,,Nevada-Las Vegas,W,21,32,65.6,265,0,0,135.2,jeff-rowe-1
+Ryan Rowland,2005-09-17,2,Texas Tech,,Sam Houston State,W,1,1,100.0,6,0,0,150.4,ryan-rowland-1
+Matt Ryan,2005-09-17,3,Boston College,,Florida State,L,7,11,63.6,89,0,0,131.6,matt-ryan-1
+Stewart Sampsel,2005-09-17,3,Buffalo,,Rutgers,L,15,26,57.7,140,0,0,102.9,stewart-sampsel-1
+Mike Schneider,2005-09-17,3,Duke,,Virginia Military Institute,W,8,17,47.1,69,0,0,81.2,mike-schneider-1
+D.J. Shockley,2005-09-17,3,Georgia,,Louisiana-Monroe,W,13,20,65.0,246,1,0,184.8,dj-shockley-1
+Brad Smith,2005-09-17,3,Missouri,,Troy,W,23,33,69.7,183,1,0,126.3,brad-smith-1
+Kent Smith,2005-09-17,3,Central Michigan,@,Penn State,L,23,36,63.9,143,0,0,97.3,kent-smith-1
+Paul Smith,2005-09-17,3,Tulsa,@,North Texas,W,12,21,57.1,189,2,0,164.2,paul-smith-2
+Troy Smith,2005-09-17,3,Ohio State,,San Diego State,W,14,26,53.8,149,0,1,94.3,troy-smith-1
+McKinson Souverain,2005-09-17,3,Florida Atlantic,@,Minnesota,L,1,3,33.3,6,0,0,50.1,mckinson-souverain-1
+Micheal Spurlock,2005-09-17,2,Mississippi,@,Vanderbilt,L,16,32,50.0,257,1,0,127.8,micheal-spurlock-1
+Isaiah Stanback,2005-09-17,3,Washington,,Idaho,W,9,16,56.3,145,1,1,140.5,isaiah-stanback-1
+Drew Stanton,2005-09-17,3,Michigan State,@,Notre Dame,W,16,27,59.3,327,3,1,190.3,drew-stanton-1
+Shane Steichen,2005-09-17,3,Nevada-Las Vegas,@,Nevada,L,7,25,28.0,58,1,1,52.7,shane-steichen-1
+Cole Stinson,2005-09-17,3,Ball State,@,Auburn,L,0,1,0.0,0,0,1,-200.0,cole-stinson-1
+John Stocco,2005-09-17,3,Wisconsin,@,North Carolina,W,14,23,60.9,138,0,0,111.3,john-stocco-1
+Marcus Stone,2005-09-17,2,North Carolina State,,Eastern Kentucky,W,6,11,54.5,52,1,0,124.3,marcus-stone-1
+Garren Strong,2005-09-17,3,Oregon,,Fresno State,W,0,1,0.0,0,0,0,0.0,garren-strong-1
+Josh Swogger,2005-09-17,3,Washington State,,Grambling State,W,3,6,50.0,49,0,0,118.6,josh-swogger-1
+Drew Tate,2005-09-17,3,Iowa,,Northern Iowa,W,15,18,83.3,247,2,0,235.3,drew-tate-1
+Zac Taylor,2005-09-17,3,Nebraska,,Pittsburgh,W,10,20,50.0,93,0,0,89.1,zac-taylor-1
+Mike Teel,2005-09-17,3,Rutgers,@,Buffalo,W,1,2,50.0,7,0,1,-20.6,mike-teel-1
+Joe Tereshinski,2005-09-17,3,Georgia,,Louisiana-Monroe,W,3,4,75.0,17,0,0,110.7,joe-tereshinski-1
+Marcus Vick,2005-09-17,3,Virginia Tech,,Ohio,W,12,16,75.0,200,2,0,221.3,marcus-vick-1
+Joey Vincent,2005-09-17,3,New Mexico State,@,New Mexico,L,6,15,40.0,115,0,1,91.1,joey-vincent-1
+Drew Weatherford,2005-09-17,3,Florida State,@,Boston College,W,20,38,52.6,231,2,1,115.8,drew-weatherford-1
+Pat White,2005-09-17,3,West Virginia,@,Maryland,W,3,5,60.0,29,0,0,108.7,pat-white-1
+Charlie Whitehurst,2005-09-17,3,Clemson,,Miami (FL),L,31,55,56.4,288,2,1,108.7,charlie-whitehurst-1
+Steven Wichman,2005-09-17,3,Idaho,@,Washington,L,19,28,67.9,187,0,2,109.7,steven-wichman-1
+Drew Willy,2005-09-17,3,Buffalo,,Rutgers,L,10,15,66.7,88,0,0,115.9,drew-willy-1
+John Parker Wilson,2005-09-17,3,Alabama,@,South Carolina,W,1,1,100.0,36,1,0,732.4,john-parker-wilson-1
+Andre Woodson,2005-09-17,3,Kentucky,@,Indiana,L,10,18,55.6,133,1,0,136.0,andre-woodson-1
+Kyle Wright,2005-09-17,2,Miami (FL),@,Clemson,W,16,26,61.5,152,1,0,123.3,kyle-wright-1
+Charles Wynn,2005-09-17,3,Ball State,@,Auburn,L,0,1,0.0,0,0,0,0.0,charles-wynn-1
+Jeremy Young,2005-09-17,2,Southern Mississippi,,McNeese State,W,4,7,57.1,61,0,0,130.3,jeremy-young-1
+Vince Young,2005-09-17,3,Texas,,Rice,W,8,14,57.1,101,0,1,103.5,vince-young-1
+Justin Zwick,2005-09-17,3,Ohio State,,San Diego State,W,9,10,90.0,47,0,0,129.5,justin-zwick-1
+Omar Jacobs,2005-09-21,3,Bowling Green State,@,Boise State,L,18,36,50.0,220,3,0,128.8,omar-jacobs-1
+Taylor Tharp,2005-09-21,3,Boise State,,Bowling Green State,W,1,3,33.3,7,0,0,52.9,taylor-tharp-1
+Jared Zabransky,2005-09-21,3,Boise State,,Bowling Green State,W,16,23,69.6,202,1,0,157.7,jared-zabransky-1
+Shaun Carney,2005-09-22,4,Air Force,@,Utah,L,9,16,56.3,145,0,1,119.9,shaun-carney-1
+Danny Embick,2005-09-22,4,Florida Atlantic,,Louisiana-Monroe,L,14,29,48.3,168,2,3,99.0,danny-embick-1
+Adam Fitch,2005-09-22,4,Air Force,@,Utah,L,4,9,44.4,89,1,0,164.2,adam-fitch-1
+Chad Hall,2005-09-22,4,Air Force,@,Utah,L,0,2,0.0,0,0,1,-100.0,chad-hall-1
+Brian Johnson,2005-09-22,4,Utah,,Air Force,W,21,29,72.4,305,2,1,176.6,brian-johnson-2
+Steven Jyles,2005-09-22,4,Louisiana-Monroe,@,Florida Atlantic,W,19,31,61.3,214,2,3,121.2,steven-jyles-1
+Reggie McNeal,2005-09-22,3,Texas A&M,,Texas State,W,13,24,54.2,317,2,0,192.6,reggie-mcneal-1
+McKinson Souverain,2005-09-22,4,Florida Atlantic,,Louisiana-Monroe,L,0,2,0.0,0,0,1,-100.0,mckinson-souverain-1
+Joe Ayoob,2005-09-23,4,California,@,New Mexico State,W,17,26,65.4,284,1,0,169.8,joe-ayoob-1
+Zac Dahman,2005-09-23,3,Army,,Iowa State,L,19,33,57.6,233,2,2,124.8,zac-dahman-1
+Carlton Jones,2005-09-23,3,Army,,Iowa State,L,0,1,0.0,0,0,1,-200.0,carlton-jones-2
+Bret Meyer,2005-09-23,3,Iowa State,@,Army,W,18,26,69.2,158,2,3,122.6,bret-meyer-1
+Joey Vincent,2005-09-23,4,New Mexico State,,California,L,18,39,46.2,164,0,2,71.2,joey-vincent-1
+Zack Asack,2005-09-24,4,Duke,@,Virginia,L,7,13,53.8,87,1,2,104.7,zack-asack-1
+Matt Baker,2005-09-24,3,North Carolina,@,North Carolina State,W,13,23,56.5,177,2,1,141.2,matt-baker-1
+Reggie Ball,2005-09-24,4,Georgia Tech,@,Virginia Tech,L,11,27,40.7,143,1,2,82.6,reggie-ball-1
+Jeff Ballard,2005-09-24,4,Texas Christian,@,Brigham Young,W,8,12,66.7,150,2,0,226.7,jeff-ballard-1
+Billy Barefield,2005-09-24,3,Memphis,@,Tulsa,L,1,4,25.0,18,0,0,62.8,billy-barefield-1
+Brett Basanez,2005-09-24,4,Northwestern,,Penn State,L,20,38,52.6,229,0,1,98.0,brett-basanez-1
+John Beck,2005-09-24,3,Brigham Young,,Texas Christian,L,30,51,58.8,517,5,2,168.5,john-beck-1
+Adam Bednarik,2005-09-24,4,West Virginia,,East Carolina,W,10,12,83.3,116,1,1,175.4,adam-bednarik-1
+Taylor Bennett,2005-09-24,4,Georgia Tech,@,Virginia Tech,L,2,5,40.0,0,0,0,40.0,taylor-bennett-1
+Matt Bohnet,2005-09-24,4,Eastern Michigan,@,Central Michigan,W,36,56,64.3,380,2,0,133.1,matt-bohnet-1
+Chad Bozzo,2005-09-24,3,San Jose State,@,San Diego State,L,7,22,31.8,44,1,1,54.5,chad-bozzo-1
+Corey Bramlet,2005-09-24,4,Wyoming,@,Mississippi,W,17,33,51.5,220,2,1,121.5,corey-bramlet-1
+Tim Brasic,2005-09-24,4,Illinois,,Michigan State,L,16,30,53.3,148,2,1,110.1,tim-brasic-1
+Colt Brennan,2005-09-24,3,Hawaii,@,Idaho,W,34,44,77.3,347,3,0,166.0,colt-brennan-1
+Brian Brohm,2005-09-24,3,Louisville,@,South Florida,L,29,47,61.7,389,0,1,127.0,brian-brohm-1
+Jon Brown,2005-09-24,4,Kent State,@,Ohio,L,15,19,78.9,106,1,1,132.7,jon-brown-1
+Rudy Carpenter,2005-09-24,4,Arizona State,@,Oregon State,W,2,2,100.0,15,0,0,163.0,rudy-carpenter-1
+Kellen Clemens,2005-09-24,4,Oregon,,Southern California,L,15,30,50.0,168,1,0,108.0,kellen-clemens-1
+Omarr Conner,2005-09-24,4,Mississippi State,,Georgia,L,19,32,59.4,205,1,1,117.3,omarr-conner-1
+Brodie Croyle,2005-09-24,4,Alabama,,Arkansas,W,13,27,48.1,173,2,0,126.4,brodie-croyle-1
+Ryan Cubit,2005-09-24,4,Western Michigan,@,Temple,W,18,29,62.1,191,2,1,133.3,ryan-cubit-1
+Bryan Cupito,2005-09-24,4,Minnesota,,Purdue,W,22,35,62.9,271,3,3,139.0,bryan-cupito-1
+Jay Cutler,2005-09-24,4,Vanderbilt,,Richmond,W,28,40,70.0,263,3,0,150.0,jay-cutler-1
+Jay Davis,2005-09-24,3,North Carolina State,,North Carolina,L,21,35,60.0,257,1,0,131.1,jay-davis-1
+Dennis Dixon,2005-09-24,4,Oregon,,Southern California,L,6,7,85.7,29,0,1,91.9,dennis-dixon-1
+Jacob Doss,2005-09-24,4,Wyoming,@,Mississippi,W,0,1,0.0,0,0,0,0.0,jacob-doss-1
+Johnny Durocher,2005-09-24,4,Washington,,Notre Dame,L,2,5,40.0,55,1,0,198.4,johnny-durocher-1
+Tony Eckert,2005-09-24,4,Southern Methodist,,Tulane,L,4,7,57.1,39,0,0,103.9,tony-eckert-1
+Karim El Nokali,2005-09-24,4,Boston College,@,Clemson,W,0,1,0.0,0,0,0,0.0,karim-el-nokali-1
+Austen Everson,2005-09-24,4,Ohio,,Kent State,W,13,19,68.4,145,1,2,128.8,austen-everson-1
+Allan Evridge,2005-09-24,3,Kansas State,,North Texas,W,5,10,50.0,97,0,0,131.5,allan-evridge-1
+Blake Field,2005-09-24,4,Auburn,,Western Kentucky,W,13,22,59.1,200,3,0,180.5,blake-field-1
+Kirby Freeman,2005-09-24,3,Miami (FL),,Colorado,W,1,1,100.0,7,0,0,158.8,kirby-freeman-1
+Luke Getsy,2005-09-24,3,Akron,,Northern Illinois,W,20,39,51.3,406,5,0,181.0,luke-getsy-1
+Tyler Graunke,2005-09-24,3,Hawaii,@,Idaho,W,2,3,66.7,17,0,0,114.3,tyler-graunke-1
+Ryan Gunderson,2005-09-24,4,Oregon State,,Arizona State,L,5,6,83.3,70,1,0,236.3,ryan-gunderson-1
+Tye Gunn,2005-09-24,4,Texas Christian,@,Brigham Young,W,16,38,42.1,198,0,0,85.9,tye-gunn-1
+Robbie Haas,2005-09-24,4,Western Michigan,@,Temple,W,4,7,57.1,36,0,1,71.8,robbie-haas-1
+Marques Hagans,2005-09-24,3,Virginia,,Duke,W,13,21,61.9,174,4,0,194.4,marques-hagans-1
+Graham Harrell,2005-09-24,3,Texas Tech,,Indiana State,W,9,15,60.0,69,1,0,120.6,graham-harrell-1
+Antonio Heffner,2005-09-24,4,South Carolina,,Troy,W,6,9,66.7,91,1,0,188.3,antonio-heffner-1
+Chad Henne,2005-09-24,4,Michigan,@,Wisconsin,L,16,34,47.1,258,2,1,124.3,chad-henne-1
+Cody Hodges,2005-09-24,3,Texas Tech,,Indiana State,W,25,32,78.1,227,3,1,162.4,cody-hodges-1
+Justin Holland,2005-09-24,3,Colorado State,,Nevada,W,15,27,55.6,223,3,0,161.6,justin-holland-1
+Sam Hollenbach,2005-09-24,4,Maryland,@,Wake Forest,W,12,22,54.5,169,0,1,110.0,sam-hollenbach-1
+Cory Holt,2005-09-24,4,Virginia Tech,,Georgia Tech,W,0,4,0.0,0,0,0,0.0,cory-holt-1
+Phil Horvath,2005-09-24,4,Northern Illinois,@,Akron,L,39,52,75.0,486,6,1,187.7,phil-horvath-1
+Brian Hoyer,2005-09-24,4,Michigan State,@,Illinois,W,6,8,75.0,70,2,0,231.0,brian-hoyer-1
+Will Hudgens,2005-09-24,3,Memphis,@,Tulsa,L,8,19,42.1,129,1,0,116.5,will-hudgens-1
+Leon Jackson III,2005-09-24,2,Utah State,,Nevada-Las Vegas,W,19,25,76.0,212,2,0,173.6,leon-jackson-iii-1
+Amarri Jackson,2005-09-24,4,South Florida,,Louisville,W,1,1,100.0,11,1,0,522.4,amarri-jackson-1
+Robert Johnson,2005-09-24,4,Arkansas,@,Alabama,L,11,26,42.3,81,0,1,60.8,robert-johnson-1
+Pat Julmiste,2005-09-24,4,South Florida,,Louisville,W,4,9,44.4,93,0,1,109.0,pat-julmiste-1
+Sam Keller,2005-09-24,4,Arizona State,@,Oregon State,W,19,36,52.8,365,4,0,174.6,sam-keller-1
+Tavares Kendrick,2005-09-24,3,Florida International,@,Arkansas State,L,6,8,75.0,92,1,1,187.9,tavares-kendrick-1
+Brandon Kirsch,2005-09-24,3,Purdue,@,Minnesota,L,15,34,44.1,246,2,2,112.5,brandon-kirsch-1
+Joel Klatt,2005-09-24,3,Colorado,@,Miami (FL),L,25,43,58.1,228,0,2,93.4,joel-klatt-1
+Robert Lane,2005-09-24,3,Mississippi,,Wyoming,L,7,15,46.7,37,0,2,40.7,robert-lane-1
+Chris Leak,2005-09-24,4,Florida,@,Kentucky,W,25,32,78.1,319,4,0,203.1,chris-leak-1
+Matt Leinart,2005-09-24,3,Southern California,@,Oregon,W,23,39,59.0,315,3,1,147.1,matt-leinart-1
+Michael Machen,2005-09-24,4,Kent State,@,Ohio,L,15,32,46.9,282,1,5,100.0,michael-machen-1
+Laurence Maroney,2005-09-24,4,Minnesota,,Purdue,W,0,1,0.0,0,0,0,0.0,laurence-maroney-1
+Ben Mauk,2005-09-24,4,Wake Forest,,Maryland,L,18,35,51.4,133,0,0,83.3,ben-mauk-1
+Antonio McCoy,2005-09-24,3,Memphis,@,Tulsa,L,0,1,0.0,0,0,0,0.0,antonio-mccoy-1
+Mike McGann,2005-09-24,4,Temple,,Western Michigan,L,10,23,43.5,158,0,1,92.5,mike-mcgann-1
+Kole McKamey,2005-09-24,4,New Mexico,@,Texas-El Paso,L,15,24,62.5,136,0,1,101.8,kole-mckamey-1
+Kalvin McRae,2005-09-24,4,Ohio,,Kent State,W,0,1,0.0,0,0,0,0.0,kalvin-mcrae-1
+Carl Meadows,2005-09-24,4,Troy,@,South Carolina,L,12,30,40.0,99,1,1,72.1,carl-meadows-1
+Daniel Meager,2005-09-24,3,North Texas,@,Kansas State,L,8,18,44.4,49,0,0,67.3,daniel-meager-1
+Blake Mitchell,2005-09-24,4,South Carolina,,Troy,W,11,14,78.6,177,2,0,231.9,blake-mitchell-1
+Steven Moffett,2005-09-24,3,Central Florida,,Marshall,W,19,26,73.1,260,1,1,162.1,steven-moffett-1
+Dontrell Moore,2005-09-24,4,New Mexico,@,Texas-El Paso,L,0,1,0.0,0,0,0,0.0,dontrell-moore-1
+Matt Moore,2005-09-24,4,Oregon State,,Arizona State,L,24,43,55.8,311,0,3,102.6,matt-moore-1
+Bernard Morris,2005-09-24,3,Marshall,@,Central Florida,L,8,13,61.5,72,0,0,108.1,bernard-morris-1
+Idris Moss,2005-09-24,4,Tulsa,,Memphis,W,0,1,0.0,0,0,1,-200.0,idris-moss-1
+Darren Mougey,2005-09-24,4,San Diego State,,San Jose State,W,2,4,50.0,32,1,0,199.7,darren-mougey-1
+Chris Nickson,2005-09-24,4,Vanderbilt,,Richmond,W,1,2,50.0,13,0,0,104.6,chris-nickson-1
+Nick Noce,2005-09-24,4,Arkansas State,,Florida International,W,11,13,84.6,194,2,0,260.7,nick-noce-1
+Kevin O'Connell,2005-09-24,4,San Diego State,,San Jose State,W,23,29,79.3,271,4,0,203.3,kevin-oconnell-2
+Christian Olsen,2005-09-24,3,Virginia,,Duke,W,2,4,50.0,40,0,0,134.0,christian-olsen-1
+Josh Padrick,2005-09-24,3,Florida International,@,Arkansas State,L,24,37,64.9,270,1,4,113.5,josh-padrick-1
+Tyler Palko,2005-09-24,4,Pittsburgh,,Youngstown State,W,14,22,63.6,290,3,1,210.3,tyler-palko-1
+Jordan Palmer,2005-09-24,3,Texas-El Paso,,New Mexico,W,16,31,51.6,178,1,1,104.0,jordan-palmer-1
+Tony Pennyman,2005-09-24,2,Utah State,,Nevada-Las Vegas,W,0,1,0.0,0,0,0,0.0,tony-pennyman-1
+Matt Phillips,2005-09-24,3,North Texas,@,Kansas State,L,1,2,50.0,25,1,0,320.0,matt-phillips-1
+James Pinkney,2005-09-24,3,East Carolina,@,West Virginia,L,20,33,60.6,204,1,1,116.5,james-pinkney-1
+Josh Portis,2005-09-24,4,Florida,@,Kentucky,W,2,4,50.0,31,0,0,115.1,josh-portis-1
+Curtis Pulley,2005-09-24,4,Kentucky,,Florida,L,4,6,66.7,38,0,0,119.9,curtis-pulley-1
+Brady Quinn,2005-09-24,4,Notre Dame,@,Washington,W,25,37,67.6,327,1,0,150.7,brady-quinn-1
+Lester Ricard,2005-09-24,2,Tulane,@,Southern Methodist,W,22,34,64.7,213,2,1,130.9,lester-ricard-1
+Michael Robinson,2005-09-24,4,Penn State,@,Northwestern,W,17,36,47.2,271,3,3,121.3,michael-robinson-1
+Jerad Romo,2005-09-24,4,Southern Methodist,,Tulane,L,4,11,36.4,25,0,0,55.5,jerad-romo-1
+Jeff Rowe,2005-09-24,3,Nevada,@,Colorado State,L,23,34,67.6,324,3,2,165.0,jeff-rowe-1
+Matt Ryan,2005-09-24,4,Boston College,@,Clemson,W,24,42,57.1,221,0,2,91.8,matt-ryan-1
+Mike Schneider,2005-09-24,4,Duke,@,Virginia,L,2,5,40.0,21,0,1,35.3,mike-schneider-1
+Sonny Shackelford,2005-09-24,4,Washington,,Notre Dame,L,0,1,0.0,0,0,0,0.0,sonny-shackelford-1
+Kort Shankweiler,2005-09-24,3,East Carolina,@,West Virginia,L,1,1,100.0,2,0,0,116.8,kort-shankweiler-1
+D.J. Shockley,2005-09-24,4,Georgia,@,Mississippi State,W,21,36,58.3,312,2,0,149.5,dj-shockley-1
+Jimmy Skinner,2005-09-24,3,Marshall,@,Central Florida,L,25,45,55.6,296,2,2,116.6,jimmy-skinner-1
+Kent Smith,2005-09-24,4,Central Michigan,,Eastern Michigan,L,18,31,58.1,182,0,0,107.4,kent-smith-1
+Paul Smith,2005-09-24,4,Tulsa,,Memphis,W,15,22,68.2,234,3,0,202.5,paul-smith-2
+Troy Smith,2005-09-24,4,Ohio State,,Iowa,W,13,19,68.4,191,2,0,187.6,troy-smith-1
+Micheal Spurlock,2005-09-24,3,Mississippi,,Wyoming,L,5,14,35.7,83,1,1,94.8,micheal-spurlock-1
+Isaiah Stanback,2005-09-24,4,Washington,,Notre Dame,L,17,34,50.0,353,0,1,131.3,isaiah-stanback-1
+Drew Stanton,2005-09-24,4,Michigan State,@,Illinois,W,20,26,76.9,259,5,0,224.1,drew-stanton-1
+Shane Steichen,2005-09-24,4,Nevada-Las Vegas,@,Utah State,L,25,43,58.1,265,2,1,120.6,shane-steichen-1
+John Stocco,2005-09-24,4,Wisconsin,,Michigan,W,15,32,46.9,147,0,1,79.2,john-stocco-1
+Bill Stull,2005-09-24,4,Pittsburgh,,Youngstown State,W,1,2,50.0,17,0,0,121.4,bill-stull-1
+Adam Tafralis,2005-09-24,3,San Jose State,@,San Diego State,L,5,18,27.8,57,0,1,43.3,adam-tafralis-1
+Drew Tate,2005-09-24,4,Iowa,@,Ohio State,L,22,39,56.4,146,0,1,82.7,drew-tate-1
+Marcus Vick,2005-09-24,4,Virginia Tech,,Georgia Tech,W,13,18,72.2,223,1,0,194.6,marcus-vick-1
+Jerod Walker,2005-09-24,2,Utah State,,Nevada-Las Vegas,W,2,3,66.7,10,0,0,94.7,jerod-walker-1
+Allen Webb,2005-09-24,3,Kansas State,,North Texas,W,10,12,83.3,256,2,1,300.9,allen-webb-1
+Pat White,2005-09-24,4,West Virginia,,East Carolina,W,5,8,62.5,64,1,2,121.0,pat-white-1
+Charlie Whitehurst,2005-09-24,4,Clemson,,Boston College,L,19,28,67.9,149,0,0,112.6,charlie-whitehurst-1
+Steven Wichman,2005-09-24,4,Idaho,,Hawaii,L,8,25,32.0,112,0,1,61.6,steven-wichman-1
+Andre Woodson,2005-09-24,4,Kentucky,,Florida,L,11,27,40.7,124,0,3,57.1,andre-woodson-1
+Kyle Wright,2005-09-24,3,Miami (FL),,Colorado,W,20,39,51.3,264,1,0,116.6,kyle-wright-1
+Justin Zwick,2005-09-24,4,Ohio State,,Iowa,W,1,2,50.0,25,0,0,155.0,justin-zwick-1
+Erik Ainge,2005-09-26,3,Tennessee,@,Louisiana State,W,7,19,36.8,54,0,1,50.2,erik-ainge-1
+Rick Clausen,2005-09-26,3,Tennessee,@,Louisiana State,W,21,32,65.6,196,1,1,121.1,rick-clausen-1
+JaMarcus Russell,2005-09-26,2,Louisiana State,,Tennessee,L,14,28,50.0,158,0,1,90.3,jamarcus-russell-1
+Tom Brandstater,2005-09-27,3,Fresno State,,Toledo,W,0,1,0.0,0,0,0,0.0,tom-brandstater-1
+Clint Cochran,2005-09-27,4,Toledo,@,Fresno State,L,16,24,66.7,163,1,1,129.1,clint-cochran-1
+Paul Pinegar,2005-09-27,3,Fresno State,,Toledo,W,9,16,56.3,69,2,0,133.7,paul-pinegar-1
+Josh Betts,2005-09-28,4,Miami (OH),,Cincinnati,W,22,35,62.9,359,3,1,171.6,josh-betts-1
+Nick Davila,2005-09-28,4,Cincinnati,@,Miami (OH),L,5,7,71.4,49,1,0,177.4,nick-davila-1
+Dustin Grutza,2005-09-28,4,Cincinnati,@,Miami (OH),L,22,39,56.4,199,0,5,73.6,dustin-grutza-1
+Mike Kokal,2005-09-28,4,Miami (OH),,Cincinnati,W,1,2,50.0,6,0,0,75.2,mike-kokal-1
+Shaun Carney,2005-09-29,5,Air Force,@,Colorado State,L,9,18,50.0,130,1,0,129.0,shaun-carney-1
+Adam Fitch,2005-09-29,5,Air Force,@,Colorado State,L,0,2,0.0,0,0,0,0.0,adam-fitch-1
+Caleb Hanie,2005-09-29,4,Colorado State,,Air Force,W,1,1,100.0,20,0,0,268.0,caleb-hanie-1
+Justin Holland,2005-09-29,4,Colorado State,,Air Force,W,17,26,65.4,318,3,1,198.5,justin-holland-1
+Adam Graessle,2005-09-30,5,Pittsburgh,@,Rutgers,L,0,1,0.0,0,0,0,0.0,adam-graessle-1
+Ryan Hart,2005-09-30,4,Rutgers,,Pittsburgh,W,12,25,48.0,207,3,2,141.2,ryan-hart-1
+Tyler Palko,2005-09-30,5,Pittsburgh,@,Rutgers,L,35,58,60.3,371,4,1,133.4,tyler-palko-1
+Mike Teel,2005-09-30,4,Rutgers,,Pittsburgh,W,2,3,66.7,43,0,0,187.1,mike-teel-1
+Donald Allen,2005-10-01,3,Louisiana Tech,,New Mexico State,W,3,9,33.3,60,0,0,89.3,donald-allen-1
+Dustin Almond,2005-10-01,3,Southern Mississippi,@,East Carolina,W,23,34,67.6,324,2,0,167.1,dustin-almond-1
+Joel Armstrong,2005-10-01,3,Rice,@,Alabama-Birmingham,L,4,11,36.4,45,0,2,34.4,joel-armstrong-1
+Zack Asack,2005-10-01,5,Duke,,Navy,L,12,16,75.0,111,0,1,120.8,zack-asack-1
+Maurice Avery,2005-10-01,4,Memphis,,Texas-El Paso,W,1,2,50.0,43,1,0,395.6,maurice-avery-1
+Joe Ayoob,2005-10-01,5,California,,Arizona,W,14,20,70.0,137,2,1,150.5,joe-ayoob-1
+Jerry Babb,2005-10-01,4,Louisiana,,Central Florida,L,1,3,33.3,9,0,0,58.5,jerry-babb-1
+Matt Baker,2005-10-01,4,North Carolina,,Utah,W,16,31,51.6,267,2,2,132.3,matt-baker-1
+Jeff Ballard,2005-10-01,5,Texas Christian,,New Mexico,W,16,28,57.1,192,2,0,138.3,jeff-ballard-1
+Billy Barefield,2005-10-01,4,Memphis,,Texas-El Paso,W,12,19,63.2,79,0,0,98.1,billy-barefield-1
+Josh Barge,2005-10-01,5,Wyoming,,Nevada-Las Vegas,W,1,1,100.0,28,0,0,335.2,josh-barge-1
+Adam Barmann,2005-10-01,4,Kansas,@,Texas Tech,L,8,10,80.0,45,0,0,117.8,adam-barmann-1
+John Beck,2005-10-01,4,Brigham Young,@,San Diego State,L,25,49,51.0,261,0,2,87.6,john-beck-1
+Adam Bednarik,2005-10-01,5,West Virginia,,Virginia Tech,L,2,3,66.7,18,0,0,117.1,adam-bednarik-1
+Shawn Bell,2005-10-01,4,Baylor,@,Texas A&M,L,25,45,55.6,222,1,0,104.3,shawn-bell-1
+Matt Bohnet,2005-10-01,5,Eastern Michigan,,Kent State,W,23,40,57.5,218,2,1,114.8,matt-bohnet-1
+Rhett Bomar,2005-10-01,4,Oklahoma,,Kansas State,W,12,22,54.5,139,1,0,122.6,rhett-bomar-1
+Matt Bonislawski,2005-10-01,4,Connecticut,@,Army,W,18,26,69.2,180,2,0,152.8,matt-bonislawski-1
+Corey Bramlet,2005-10-01,5,Wyoming,,Nevada-Las Vegas,W,21,27,77.8,315,3,0,212.4,corey-bramlet-1
+Tim Brasic,2005-10-01,5,Illinois,@,Iowa,L,32,44,72.7,233,1,1,120.2,tim-brasic-1
+Colt Brennan,2005-10-01,4,Hawaii,,Boise State,L,29,51,56.9,426,4,2,145.1,colt-brennan-1
+Alex Brink,2005-10-01,4,Washington State,@,Oregon State,L,31,59,52.5,531,1,4,120.2,alex-brink-1
+Brian Brohm,2005-10-01,4,Louisville,,Florida Atlantic,W,15,23,65.2,282,1,0,182.6,brian-brohm-1
+Jon Brown,2005-10-01,5,Kent State,@,Eastern Michigan,L,29,45,64.4,243,1,2,108.2,jon-brown-1
+Josh Brown,2005-10-01,5,South Carolina,@,Auburn,L,1,1,100.0,-4,0,0,66.4,josh-brown-3
+Zac Champion,2005-10-01,3,Louisiana Tech,,New Mexico State,W,2,2,100.0,16,0,0,167.2,zac-champion-1
+Colin Clancy,2005-10-01,5,Temple,@,Bowling Green State,L,4,8,50.0,36,0,0,87.8,colin-clancy-1
+Rick Clausen,2005-10-01,4,Tennessee,,Mississippi,W,18,35,51.4,206,0,0,100.9,rick-clausen-1
+Sean Clayton,2005-10-01,5,Florida Atlantic,@,Louisville,L,3,3,100.0,26,0,0,172.8,sean-clayton-1
+Kellen Clemens,2005-10-01,5,Oregon,@,Stanford,W,22,29,75.9,393,3,1,216.9,kellen-clemens-1
+Chase Clement,2005-10-01,3,Rice,@,Alabama-Birmingham,L,5,7,71.4,53,1,1,153.6,chase-clement-2
+Omarr Conner,2005-10-01,5,Mississippi State,,Louisiana State,L,9,22,40.9,141,1,1,100.7,omarr-conner-1
+Brandon Cox,2005-10-01,5,Auburn,,South Carolina,W,19,29,65.5,245,1,0,147.9,brandon-cox-1
+James Cox,2005-10-01,4,Colorado,@,Oklahoma State,W,2,2,100.0,17,0,0,171.4,james-cox-1
+Chris Crane,2005-10-01,5,Boston College,,Ball State,W,3,4,75.0,42,0,0,163.2,chris-crane-1
+Brodie Croyle,2005-10-01,5,Alabama,,Florida,W,14,17,82.4,283,3,0,280.4,brodie-croyle-1
+Bryan Cupito,2005-10-01,5,Minnesota,@,Penn State,L,16,28,57.1,174,1,1,114.0,bryan-cupito-1
+Jay Cutler,2005-10-01,5,Vanderbilt,,Middle Tennessee State,L,26,44,59.1,245,1,1,108.8,jay-cutler-1
+Zac Dahman,2005-10-01,4,Army,,Connecticut,L,13,30,43.3,122,0,3,57.5,zac-dahman-1
+Chase Daniel,2005-10-01,4,Missouri,,Texas,L,2,2,100.0,10,0,0,142.0,chase-daniel-1
+Courtney Denson,2005-10-01,5,South Florida,@,Miami (FL),L,3,6,50.0,22,0,1,47.5,courtney-denson-1
+Michael Desormeaux,2005-10-01,4,Louisiana,,Central Florida,L,14,26,53.8,119,0,2,76.9,michael-desormeaux-1
+Dennis Dixon,2005-10-01,5,Oregon,@,Stanford,W,7,8,87.5,63,0,0,153.7,dennis-dixon-1
+Jacob Doss,2005-10-01,5,Wyoming,,Nevada-Las Vegas,W,1,3,33.3,3,0,0,41.7,jacob-doss-1
+Harry Douglas,2005-10-01,4,Louisville,,Florida Atlantic,W,0,1,0.0,0,0,1,-200.0,harry-douglas-1
+Tony Eckert,2005-10-01,5,Southern Methodist,@,Marshall,L,0,3,0.0,0,0,0,0.0,tony-eckert-1
+Trent Edwards,2005-10-01,3,Stanford,,Oregon,L,16,28,57.1,156,1,2,101.4,trent-edwards-1
+Danny Embick,2005-10-01,5,Florida Atlantic,@,Louisville,L,12,20,60.0,161,1,0,144.1,danny-embick-1
+Allan Evridge,2005-10-01,4,Kansas State,@,Oklahoma,L,3,6,50.0,49,0,0,118.6,allan-evridge-1
+Blake Field,2005-10-01,5,Auburn,,South Carolina,W,2,5,40.0,20,0,0,73.6,blake-field-1
+Matt Flynn,2005-10-01,3,Louisiana State,@,Mississippi State,W,2,4,50.0,25,0,0,102.5,matt-flynn-1
+Luke Getsy,2005-10-01,4,Akron,,Central Michigan,L,30,57,52.6,270,2,3,93.5,luke-getsy-1
+Royal Gill,2005-10-01,5,New Mexico State,@,Louisiana Tech,L,15,25,60.0,192,1,2,121.7,royal-gill-1
+Tyler Graunke,2005-10-01,4,Hawaii,,Boise State,L,1,3,33.3,16,0,0,78.1,tyler-graunke-1
+Robbie Haas,2005-10-01,5,Western Michigan,,Buffalo,W,10,16,62.5,134,1,0,153.5,robbie-haas-1
+Darrell Hackney,2005-10-01,4,Alabama-Birmingham,,Rice,W,24,33,72.7,339,2,0,179.0,darrell-hackney-1
+Marques Hagans,2005-10-01,4,Virginia,@,Maryland,L,17,35,48.6,270,0,0,113.4,marques-hagans-1
+Antonio Heffner,2005-10-01,5,South Carolina,@,Auburn,L,15,23,65.2,133,1,0,128.1,antonio-heffner-1
+Michael Henig,2005-10-01,5,Mississippi State,,Louisiana State,L,2,4,50.0,32,0,0,117.2,michael-henig-1
+Chad Henne,2005-10-01,5,Michigan,@,Michigan State,W,26,35,74.3,256,3,1,158.3,chad-henne-1
+Marcus Herford,2005-10-01,4,Kansas,@,Texas Tech,L,0,1,0.0,0,0,0,0.0,marcus-herford-1
+Tim Hiller,2005-10-01,5,Western Michigan,,Buffalo,W,3,7,42.9,28,2,0,170.7,tim-hiller-1
+Cody Hodges,2005-10-01,4,Texas Tech,,Kansas,W,34,52,65.4,333,1,1,121.7,cody-hodges-1
+Sam Hollenbach,2005-10-01,5,Maryland,,Virginia,W,25,33,75.8,320,2,2,165.1,sam-hollenbach-1
+Leon Jackson III,2005-10-01,3,Utah State,@,Idaho,L,14,26,53.8,157,1,3,94.2,leon-jackson-iii-1
+Jarrod Jackson,2005-10-01,5,Nevada-Las Vegas,@,Wyoming,L,26,48,54.2,239,2,2,101.4,jarrod-jackson-1
+Omar Jacobs,2005-10-01,4,Bowling Green State,,Temple,W,26,30,86.7,326,4,0,221.9,omar-jacobs-1
+Greg Jennings,2005-10-01,5,Western Michigan,,Buffalo,W,1,1,100.0,22,1,0,614.8,greg-jennings-1
+Brian Johnson,2005-10-01,5,Utah,@,North Carolina,L,22,34,64.7,211,1,1,120.7,brian-johnson-2
+Robert Johnson,2005-10-01,4,Texas Tech,,Kansas,W,0,1,0.0,0,0,0,0.0,robert-johnson-3
+Pat Julmiste,2005-10-01,5,South Florida,@,Miami (FL),L,8,25,32.0,47,1,3,37.0,pat-julmiste-1
+Steven Jyles,2005-10-01,5,Louisiana-Monroe,,Arkansas State,W,16,31,51.6,261,2,0,143.6,steven-jyles-1
+Sam Keller,2005-10-01,5,Arizona State,,Southern California,L,26,45,57.8,347,2,5,115.0,sam-keller-1
+Brandon Kirsch,2005-10-01,4,Purdue,,Notre Dame,L,29,44,65.9,274,2,1,128.7,brandon-kirsch-1
+Joel Klatt,2005-10-01,4,Colorado,@,Oklahoma State,W,14,26,53.8,151,1,0,115.3,joel-klatt-1
+Kevin Kolb,2005-10-01,4,Houston,@,Tulsa,W,19,31,61.3,276,1,1,140.3,kevin-kolb-1
+Richard Kovalcheck,2005-10-01,4,Arizona,@,California,L,19,36,52.8,169,0,3,75.5,richard-kovalcheck-1
+Matt Kubik,2005-10-01,3,Louisiana Tech,,New Mexico State,W,17,28,60.7,173,2,0,136.2,matt-kubik-1
+Brady Leaf,2005-10-01,5,Oregon,@,Stanford,W,1,2,50.0,7,0,0,79.4,brady-leaf-1
+Chris Leak,2005-10-01,5,Florida,@,Alabama,L,16,37,43.2,187,0,2,74.9,chris-leak-1
+Xavier Lee,2005-10-01,4,Florida State,,Syracuse,W,5,10,50.0,162,0,0,186.1,xavier-lee-1
+Matt Leinart,2005-10-01,4,Southern California,@,Arizona State,W,23,39,59.0,258,0,0,114.5,matt-leinart-1
+Dante Love,2005-10-01,4,Ball State,@,Boston College,L,1,2,50.0,7,0,0,79.4,dante-love-1
+Brian Luke,2005-10-01,4,Kansas,@,Texas Tech,L,13,27,48.1,109,1,2,79.5,brian-luke-1
+Joey Lynch,2005-10-01,4,Ball State,@,Boston College,L,17,22,77.3,106,0,0,117.7,joey-lynch-1
+Marshawn Lynch,2005-10-01,5,California,,Arizona,W,0,1,0.0,0,0,0,0.0,marshawn-lynch-1
+Jason Manson,2005-10-01,5,Iowa,,Illinois,W,0,1,0.0,0,0,0,0.0,jason-manson-1
+Clint Marks,2005-10-01,4,Middle Tennessee State,@,Vanderbilt,W,14,22,63.6,147,0,0,119.8,clint-marks-1
+Mike McGann,2005-10-01,5,Temple,@,Bowling Green State,L,8,16,50.0,66,0,3,47.2,mike-mcgann-1
+Kole McKamey,2005-10-01,5,New Mexico,@,Texas Christian,L,25,43,58.1,245,2,4,102.7,kole-mckamey-1
+Reggie McNeal,2005-10-01,4,Texas A&M,,Baylor,W,12,31,38.7,132,0,2,61.6,reggie-mcneal-1
+Bret Meyer,2005-10-01,4,Iowa State,@,Nebraska,L,23,41,56.1,317,1,1,124.2,bret-meyer-1
+Steven Moffett,2005-10-01,4,Central Florida,@,Louisiana,W,15,25,60.0,232,3,1,169.6,steven-moffett-1
+Matt Moore,2005-10-01,5,Oregon State,,Washington State,W,20,45,44.4,296,1,2,98.1,matt-moore-1
+Bernard Morris,2005-10-01,4,Marshall,,Southern Methodist,W,34,60,56.7,314,0,1,97.3,bernard-morris-1
+Nick Noce,2005-10-01,5,Arkansas State,@,Louisiana-Monroe,L,22,32,68.8,275,1,1,145.0,nick-noce-1
+Kevin O'Connell,2005-10-01,5,San Diego State,,Brigham Young,W,21,31,67.7,243,0,0,133.6,kevin-oconnell-2
+Drew Olson,2005-10-01,4,UCLA,,Washington,W,29,44,65.9,287,2,2,126.6,drew-olson-1
+Lamar Owens,2005-10-01,3,Navy,@,Duke,W,4,9,44.4,87,1,1,140.1,lamar-owens-2
+Josh Padrick,2005-10-01,4,Florida International,,Florida A&M,W,15,23,65.2,226,2,0,176.5,josh-padrick-1
+Curtis Painter,2005-10-01,4,Purdue,,Notre Dame,L,4,14,28.6,76,0,0,74.2,curtis-painter-1
+Jordan Palmer,2005-10-01,4,Texas-El Paso,@,Memphis,L,23,53,43.4,431,1,3,106.6,jordan-palmer-1
+Perry Patterson,2005-10-01,4,Syracuse,@,Florida State,L,14,25,56.0,189,1,1,124.7,perry-patterson-1
+David Pevoto,2005-10-01,4,Army,,Connecticut,L,6,12,50.0,68,0,1,80.9,david-pevoto-1
+James Pinkney,2005-10-01,4,East Carolina,,Southern Mississippi,L,20,28,71.4,202,0,1,124.9,james-pinkney-1
+Blake Powers,2005-10-01,4,Indiana,@,Wisconsin,L,20,41,48.8,244,3,2,113.2,blake-powers-1
+Brady Quinn,2005-10-01,5,Notre Dame,@,Purdue,W,29,36,80.6,440,3,1,205.2,brady-quinn-1
+Cory Randolph,2005-10-01,5,Wake Forest,,Clemson,W,20,25,80.0,222,3,1,186.2,cory-randolph-1
+Bobby Reid,2005-10-01,4,Oklahoma State,,Colorado,L,14,29,48.3,116,0,2,68.1,bobby-reid-1
+Lester Ricard,2005-10-01,3,Tulane,N,Southeastern Louisiana,W,24,50,48.0,324,2,2,107.6,lester-ricard-1
+Michael Robinson,2005-10-01,5,Penn State,,Minnesota,W,13,32,40.6,175,0,0,86.6,michael-robinson-1
+Jerad Romo,2005-10-01,5,Southern Methodist,@,Marshall,L,10,22,45.5,151,1,0,118.1,jerad-romo-1
+Jeff Rowe,2005-10-01,4,Nevada,@,San Jose State,W,20,35,57.1,226,2,0,130.2,jeff-rowe-1
+JaMarcus Russell,2005-10-01,3,Louisiana State,@,Mississippi State,W,21,24,87.5,205,2,0,186.8,jamarcus-russell-1
+Matt Ryan,2005-10-01,5,Boston College,,Ball State,W,21,29,72.4,206,1,0,143.5,matt-ryan-1
+Mike Schneider,2005-10-01,5,Duke,,Navy,L,4,8,50.0,41,0,0,93.1,mike-schneider-1
+Jerramy Scott,2005-10-01,5,Michigan State,,Michigan,L,0,1,0.0,0,0,1,-200.0,jerramy-scott-1
+Tom Sitko,2005-10-01,5,Kent State,@,Eastern Michigan,L,0,1,0.0,0,0,0,0.0,tom-sitko-1
+Brad Smith,2005-10-01,4,Missouri,,Texas,L,19,37,51.4,181,0,1,87.0,brad-smith-1
+Kent Smith,2005-10-01,5,Central Michigan,@,Akron,W,18,33,54.5,224,2,1,125.5,kent-smith-1
+Paul Smith,2005-10-01,5,Tulsa,,Houston,L,26,49,53.1,283,2,1,111.0,paul-smith-2
+McKinson Souverain,2005-10-01,5,Florida Atlantic,@,Louisville,L,0,2,0.0,0,0,1,-100.0,mckinson-souverain-1
+Micheal Spurlock,2005-10-01,4,Mississippi,@,Tennessee,L,18,37,48.6,200,0,2,83.2,micheal-spurlock-1
+Isaiah Stanback,2005-10-01,5,Washington,@,UCLA,L,14,27,51.9,188,0,0,110.3,isaiah-stanback-1
+Drew Stanton,2005-10-01,5,Michigan State,,Michigan,L,20,30,66.7,282,1,1,150.0,drew-stanton-1
+John Stocco,2005-10-01,5,Wisconsin,,Indiana,W,13,24,54.2,274,3,2,174.7,john-stocco-1
+Adam Tafralis,2005-10-01,4,San Jose State,,Nevada,L,20,39,51.3,328,2,2,128.6,adam-tafralis-1
+Drew Tate,2005-10-01,5,Iowa,,Illinois,W,17,22,77.3,175,2,1,165.0,drew-tate-1
+Zac Taylor,2005-10-01,4,Nebraska,,Iowa State,W,36,55,65.5,431,2,0,143.3,zac-taylor-1
+Anthony Turner,2005-10-01,4,Bowling Green State,,Temple,W,0,1,0.0,0,0,1,-200.0,anthony-turner-1
+Marcus Vick,2005-10-01,5,Virginia Tech,@,West Virginia,W,15,17,88.2,177,2,0,214.5,marcus-vick-1
+Joey Vincent,2005-10-01,5,New Mexico State,@,Louisiana Tech,L,10,18,55.6,69,0,2,65.5,joey-vincent-1
+Jerod Walker,2005-10-01,3,Utah State,@,Idaho,L,0,1,0.0,0,0,0,0.0,jerod-walker-1
+Drew Weatherford,2005-10-01,4,Florida State,,Syracuse,W,17,26,65.4,234,3,1,171.4,drew-weatherford-1
+Allen Webb,2005-10-01,4,Kansas State,@,Oklahoma,L,11,23,47.8,177,2,1,132.5,allen-webb-1
+Pat White,2005-10-01,5,West Virginia,,Virginia Tech,L,9,11,81.8,85,2,0,206.7,pat-white-1
+Charlie Whitehurst,2005-10-01,5,Clemson,@,Wake Forest,L,28,42,66.7,304,0,2,117.9,charlie-whitehurst-1
+Steven Wichman,2005-10-01,5,Idaho,,Utah State,W,20,25,80.0,238,1,1,165.2,steven-wichman-1
+Chris Williams,2005-10-01,4,Alabama-Birmingham,,Rice,W,3,3,100.0,33,1,0,302.4,chris-williams-6
+Drew Willy,2005-10-01,4,Buffalo,@,Western Michigan,L,30,38,78.9,288,2,0,160.0,drew-willy-1
+John Parker Wilson,2005-10-01,5,Alabama,,Florida,W,1,1,100.0,3,0,0,125.2,john-parker-wilson-1
+David Wolke,2005-10-01,5,Notre Dame,@,Purdue,W,1,3,33.3,28,0,1,45.1,david-wolke-1
+Kyle Wright,2005-10-01,4,Miami (FL),,South Florida,W,13,26,50.0,173,0,1,98.2,kyle-wright-1
+Vince Young,2005-10-01,4,Texas,@,Missouri,W,15,22,68.2,236,2,1,179.2,vince-young-1
+Jared Zabransky,2005-10-01,4,Boise State,@,Hawaii,W,18,33,54.5,207,3,1,131.2,jared-zabransky-1
+Carl Meadows,2005-10-04,5,Troy,@,North Texas,W,5,11,45.5,40,1,1,87.8,carl-meadows-1
+Daniel Meager,2005-10-04,4,North Texas,,Troy,L,9,26,34.6,129,0,2,60.9,daniel-meager-1
+Johnny Quinn,2005-10-04,4,North Texas,,Troy,L,0,1,0.0,0,0,0,0.0,johnny-quinn-1
+Josh Betts,2005-10-05,5,Miami (OH),@,Northern Illinois,L,17,32,53.1,133,2,1,102.4,josh-betts-1
+Phil Horvath,2005-10-05,5,Northern Illinois,,Miami (OH),W,19,22,86.4,296,2,1,220.3,phil-horvath-1
+Reggie Ball,2005-10-06,5,Georgia Tech,,North Carolina State,L,21,53,39.6,279,1,2,82.5,reggie-ball-1
+Jay Davis,2005-10-06,4,North Carolina State,@,Georgia Tech,W,18,25,72.0,230,2,2,159.7,jay-davis-1
+Michael Desormeaux,2005-10-06,5,Louisiana,,Florida Atlantic,L,6,18,33.3,47,0,2,33.0,michael-desormeaux-1
+Danny Embick,2005-10-06,6,Florida Atlantic,@,Louisiana,W,17,27,63.0,276,3,0,185.5,danny-embick-1
+Matt Bonislawski,2005-10-07,5,Connecticut,,Syracuse,W,2,7,28.6,14,0,0,45.4,matt-bonislawski-1
+Joe Fields,2005-10-07,5,Syracuse,@,Connecticut,L,0,3,0.0,0,0,1,-66.7,joe-fields-1
+D.J. Hernandez,2005-10-07,5,Connecticut,,Syracuse,W,4,8,50.0,31,0,0,82.6,dj-hernandez-1
+Perry Patterson,2005-10-07,5,Syracuse,@,Connecticut,L,10,28,35.7,125,1,1,77.9,perry-patterson-1
+Aundrae Allison,2005-10-08,5,East Carolina,,Rice,W,0,1,0.0,0,0,0,0.0,aundrae-allison-1
+Dustin Almond,2005-10-08,4,Southern Mississippi,,Tulsa,L,12,29,41.4,132,0,4,52.0,dustin-almond-1
+Joel Armstrong,2005-10-08,4,Rice,@,East Carolina,L,4,7,57.1,34,0,0,97.9,joel-armstrong-1
+Jabari Arthur,2005-10-08,5,Akron,@,Buffalo,W,0,1,0.0,0,0,0,0.0,jabari-arthur-1
+Zack Asack,2005-10-08,6,Duke,@,Miami (FL),L,4,15,26.7,8,0,0,31.1,zack-asack-1
+Maurice Avery,2005-10-08,5,Memphis,@,Central Florida,L,1,1,100.0,9,0,0,175.6,maurice-avery-1
+Joe Ayoob,2005-10-08,6,California,@,UCLA,L,18,35,51.4,215,2,1,116.2,joe-ayoob-1
+Matt Baker,2005-10-08,5,North Carolina,@,Louisville,L,19,27,70.4,224,0,1,132.7,matt-baker-1
+Jeff Ballard,2005-10-08,6,Texas Christian,@,Wyoming,W,9,23,39.1,112,1,2,77.0,jeff-ballard-1
+Billy Barefield,2005-10-08,5,Memphis,@,Central Florida,L,13,22,59.1,71,0,1,77.1,billy-barefield-1
+Adam Barmann,2005-10-08,5,Kansas,@,Kansas State,L,3,8,37.5,17,0,0,55.4,adam-barmann-1
+Brett Basanez,2005-10-08,5,Northwestern,,Wisconsin,W,26,36,72.2,361,3,0,184.0,brett-basanez-1
+Arliss Beach,2005-10-08,5,Kentucky,@,South Carolina,L,1,1,100.0,5,0,0,142.0,arliss-beach-1
+John Beck,2005-10-08,5,Brigham Young,@,New Mexico,W,34,44,77.3,371,3,1,166.1,john-beck-1
+Adam Bednarik,2005-10-08,6,West Virginia,@,Rutgers,W,9,10,90.0,78,1,0,188.5,adam-bednarik-1
+Shawn Bell,2005-10-08,5,Baylor,@,Iowa State,W,18,26,69.2,160,1,0,133.6,shawn-bell-1
+Jesse Blair,2005-10-08,6,Louisiana-Monroe,@,Arkansas,L,1,1,100.0,23,1,0,623.2,jesse-blair-1
+Matt Bohnet,2005-10-08,6,Eastern Michigan,@,Toledo,L,14,28,50.0,128,0,0,88.4,matt-bohnet-1
+Rhett Bomar,2005-10-08,5,Oklahoma,N,Texas,L,12,33,36.4,94,1,1,64.2,rhett-bomar-1
+John David Booty,2005-10-08,5,Southern California,,Arizona,W,3,3,100.0,27,0,0,175.6,john-david-booty-1
+Jovon Bouknight,2005-10-08,6,Wyoming,,Texas Christian,L,0,1,0.0,0,0,0,0.0,jovon-bouknight-1
+Joey Bozich,2005-10-08,5,North Carolina,@,Louisville,L,0,3,0.0,0,0,0,0.0,joey-bozich-1
+Corey Bramlet,2005-10-08,6,Wyoming,,Texas Christian,L,15,33,45.5,205,2,4,93.4,corey-bramlet-1
+Tim Brasic,2005-10-08,6,Illinois,@,Indiana,L,22,39,56.4,230,1,2,104.2,tim-brasic-1
+Colt Brennan,2005-10-08,5,Hawaii,@,Louisiana Tech,L,23,33,69.7,236,1,1,133.7,colt-brennan-1
+Alex Brink,2005-10-08,5,Washington State,,Stanford,L,13,26,50.0,161,1,2,99.3,alex-brink-1
+Brian Brohm,2005-10-08,5,Louisville,,North Carolina,W,17,22,77.3,304,4,0,253.3,brian-brohm-1
+Michael Bush,2005-10-08,5,Louisville,,North Carolina,W,0,1,0.0,0,0,0,0.0,michael-bush-1
+Hunter Cantwell,2005-10-08,5,Louisville,,North Carolina,W,1,1,100.0,3,0,0,125.2,hunter-cantwell-1
+Shaun Carney,2005-10-08,6,Air Force,@,Navy,L,6,9,66.7,111,2,1,221.4,shaun-carney-1
+Colin Clancy,2005-10-08,6,Temple,,Maryland,L,0,1,0.0,0,0,0,0.0,colin-clancy-1
+Rick Clausen,2005-10-08,5,Tennessee,,Georgia,L,21,36,58.3,310,1,1,134.3,rick-clausen-1
+Kellen Clemens,2005-10-08,6,Oregon,@,Arizona State,W,20,39,51.3,278,2,2,117.8,kellen-clemens-1
+Chase Clement,2005-10-08,4,Rice,@,East Carolina,L,5,11,45.5,53,0,0,85.9,chase-clement-2
+Clint Cochran,2005-10-08,5,Toledo,,Eastern Michigan,W,1,1,100.0,1,0,0,108.4,clint-cochran-1
+Omarr Conner,2005-10-08,6,Mississippi State,@,Florida,L,2,5,40.0,15,0,1,25.2,omarr-conner-1
+James Cox,2005-10-08,5,Colorado,,Texas A&M,W,1,2,50.0,3,0,0,62.6,james-cox-1
+Bryan Cupito,2005-10-08,6,Minnesota,@,Michigan,W,11,23,47.8,139,1,0,112.9,bryan-cupito-1
+Jay Cutler,2005-10-08,6,Vanderbilt,,Louisiana State,L,11,32,34.4,113,0,2,51.5,jay-cutler-1
+Zac Dahman,2005-10-08,5,Army,,Central Michigan,L,7,13,53.8,66,0,0,96.5,zac-dahman-1
+Chase Daniel,2005-10-08,5,Missouri,@,Oklahoma State,W,0,1,0.0,0,0,0,0.0,chase-daniel-1
+Nick Davila,2005-10-08,5,Cincinnati,@,Pittsburgh,L,4,13,30.8,19,0,1,27.7,nick-davila-1
+Jacob Doss,2005-10-08,6,Wyoming,,Texas Christian,L,1,2,50.0,15,0,0,113.0,jacob-doss-1
+Trent Edwards,2005-10-08,4,Stanford,@,Washington State,W,19,28,67.9,257,3,0,180.3,trent-edwards-1
+Brad Ekwerekwu,2005-10-08,5,Missouri,@,Oklahoma State,W,1,1,100.0,30,1,0,682.0,brad-ekwerekwu-1
+Scott Elliott,2005-10-08,4,Tulane,N,Houston,L,1,1,100.0,3,0,0,125.2,scott-elliott-1
+Austen Everson,2005-10-08,5,Ohio,@,Bowling Green State,L,13,27,48.1,171,0,2,86.5,austen-everson-1
+Allan Evridge,2005-10-08,5,Kansas State,,Kansas,W,14,21,66.7,136,1,0,136.8,allan-evridge-1
+Kirby Freeman,2005-10-08,5,Miami (FL),,Duke,W,4,9,44.4,47,2,0,161.6,kirby-freeman-1
+Luke Getsy,2005-10-08,5,Akron,@,Buffalo,W,12,32,37.5,145,0,0,75.6,luke-getsy-1
+Royal Gill,2005-10-08,6,New Mexico State,,Fresno State,L,17,31,54.8,105,1,0,93.9,royal-gill-1
+Charles Gordon,2005-10-08,5,Kansas,@,Kansas State,L,1,1,100.0,24,0,0,301.6,charles-gordon-1
+Bruce Gradkowski,2005-10-08,5,Toledo,,Eastern Michigan,W,15,26,57.7,160,0,0,109.4,bruce-gradkowski-1
+Tyler Graunke,2005-10-08,5,Hawaii,@,Louisiana Tech,L,3,4,75.0,33,0,0,144.3,tyler-graunke-1
+Dustin Grutza,2005-10-08,5,Cincinnati,@,Pittsburgh,L,9,19,47.4,180,2,0,161.7,dustin-grutza-1
+Robbie Haas,2005-10-08,6,Western Michigan,,Ball State,L,6,8,75.0,65,1,0,184.5,robbie-haas-1
+Darrell Hackney,2005-10-08,5,Alabama-Birmingham,,Southern Methodist,L,22,35,62.9,344,2,2,152.8,darrell-hackney-1
+Marques Hagans,2005-10-08,5,Virginia,@,Boston College,L,21,35,60.0,195,2,1,119.9,marques-hagans-1
+Ryan Hart,2005-10-08,5,Rutgers,,West Virginia,L,9,16,56.3,66,0,1,78.4,ryan-hart-1
+Michael Henig,2005-10-08,6,Mississippi State,@,Florida,L,9,20,45.0,119,0,0,95.0,michael-henig-1
+Chad Henne,2005-10-08,6,Michigan,,Minnesota,L,14,29,48.3,155,0,0,93.2,chad-henne-1
+B.J. Hill,2005-10-08,5,Ball State,@,Western Michigan,W,0,1,0.0,0,0,0,0.0,bj-hill-2
+Tim Hiller,2005-10-08,6,Western Michigan,,Ball State,L,20,27,74.1,308,5,1,223.6,tim-hiller-1
+Cody Hodges,2005-10-08,5,Texas Tech,@,Nebraska,W,34,45,75.6,368,4,1,169.1,cody-hodges-1
+Justin Holland,2005-10-08,5,Colorado State,,Utah,W,18,25,72.0,226,2,1,166.3,justin-holland-1
+Sam Hollenbach,2005-10-08,6,Maryland,@,Temple,W,19,29,65.5,228,0,1,124.7,sam-hollenbach-1
+Cory Holt,2005-10-08,6,Virginia Tech,,Marshall,W,1,2,50.0,13,0,0,104.6,cory-holt-1
+Leon Jackson III,2005-10-08,4,Utah State,,San Jose State,W,17,26,65.4,200,2,0,155.4,leon-jackson-iii-1
+Jarrod Jackson,2005-10-08,6,Nevada-Las Vegas,,San Diego State,W,8,18,44.4,88,0,2,63.3,jarrod-jackson-1
+Omar Jacobs,2005-10-08,5,Bowling Green State,,Ohio,W,24,41,58.5,381,2,1,147.8,omar-jacobs-1
+Dwayne Jarrett,2005-10-08,5,Southern California,,Arizona,W,0,1,0.0,0,0,0,0.0,dwayne-jarrett-1
+Greg Jennings,2005-10-08,6,Western Michigan,,Ball State,L,0,1,0.0,0,0,1,-200.0,greg-jennings-1
+Brian Johnson,2005-10-08,6,Utah,@,Colorado State,L,15,27,55.6,255,1,2,132.3,brian-johnson-2
+Luke Johnson,2005-10-08,4,Southern Mississippi,,Tulsa,L,0,1,0.0,0,0,0,0.0,luke-johnson-1
+Robert Johnson,2005-10-08,5,Arkansas,,Louisiana-Monroe,W,12,17,70.6,119,1,0,148.8,robert-johnson-1
+Marcus Jones,2005-10-08,6,Duke,@,Miami (FL),L,0,2,0.0,0,0,0,0.0,marcus-jones-1
+Tyler Jones,2005-10-08,6,Eastern Michigan,@,Toledo,L,10,13,76.9,38,0,1,86.1,tyler-jones-1
+Steven Jyles,2005-10-08,6,Louisiana-Monroe,@,Arkansas,L,11,25,44.0,97,0,0,76.6,steven-jyles-1
+Sam Keller,2005-10-08,6,Arizona State,,Oregon,L,31,56,55.4,277,2,2,101.6,sam-keller-1
+Brandon Kirsch,2005-10-08,5,Purdue,,Iowa,L,31,50,62.0,353,1,1,123.9,brandon-kirsch-1
+Joel Klatt,2005-10-08,5,Colorado,,Texas A&M,W,28,36,77.8,398,3,0,198.1,joel-klatt-1
+Kevin Kolb,2005-10-08,5,Houston,N,Tulane,W,11,22,50.0,192,1,0,138.3,kevin-kolb-1
+Richard Kovalcheck,2005-10-08,5,Arizona,@,Southern California,L,16,25,64.0,181,3,1,156.4,richard-kovalcheck-1
+Matt Kubik,2005-10-08,4,Louisiana Tech,,Hawaii,W,14,20,70.0,149,2,0,165.6,matt-kubik-1
+Kinsmon Lancaster,2005-10-08,6,Louisiana-Monroe,@,Arkansas,L,3,10,30.0,30,0,1,35.2,kinsmon-lancaster-1
+Robert Lane,2005-10-08,5,Mississippi,,Citadel,W,0,1,0.0,0,0,1,-200.0,robert-lane-1
+Chris Leak,2005-10-08,6,Florida,,Mississippi State,W,18,33,54.5,244,1,2,114.5,chris-leak-1
+Xavier Lee,2005-10-08,5,Florida State,,Wake Forest,W,4,6,66.7,44,0,0,128.3,xavier-lee-1
+Matt Leinart,2005-10-08,5,Southern California,,Arizona,W,26,40,65.0,360,2,1,152.1,matt-leinart-1
+Michael Loveland,2005-10-08,6,Temple,,Maryland,L,0,1,0.0,0,0,1,-200.0,michael-loveland-1
+Brian Luke,2005-10-08,5,Kansas,@,Kansas State,L,4,13,30.8,86,0,0,86.3,brian-luke-1
+Joey Lynch,2005-10-08,5,Ball State,@,Western Michigan,W,23,40,57.5,306,4,1,149.8,joey-lynch-1
+Mike McGann,2005-10-08,6,Temple,,Maryland,L,8,14,57.1,116,0,0,126.7,mike-mcgann-1
+Stephen McGee,2005-10-08,5,Texas A&M,@,Colorado,L,9,15,60.0,112,1,0,144.7,stephen-mcgee-1
+Kole McKamey,2005-10-08,6,New Mexico,,Brigham Young,L,18,28,64.3,218,0,0,129.7,kole-mckamey-1
+Reggie McNeal,2005-10-08,5,Texas A&M,@,Colorado,L,10,21,47.6,146,0,0,106.0,reggie-mcneal-1
+Bret Meyer,2005-10-08,5,Iowa State,,Baylor,L,19,31,61.3,210,0,1,111.7,bret-meyer-1
+Blake Mitchell,2005-10-08,6,South Carolina,,Kentucky,W,23,34,67.6,277,2,1,149.6,blake-mitchell-1
+Steven Moffett,2005-10-08,5,Central Florida,,Memphis,W,14,21,66.7,290,3,0,229.8,steven-moffett-1
+Travis Moore,2005-10-08,5,Nevada,,Idaho,W,2,2,100.0,21,0,0,188.2,travis-moore-1
+Bernard Morris,2005-10-08,5,Marshall,@,Virginia Tech,L,14,28,50.0,117,1,1,89.7,bernard-morris-1
+Alex Mortensen,2005-10-08,5,Arkansas,,Louisiana-Monroe,W,0,3,0.0,0,0,1,-66.7,alex-mortensen-1
+Nate Morton,2005-10-08,6,Wake Forest,@,Florida State,L,1,1,100.0,37,0,0,410.8,nate-morton-1
+Syvelle Newton,2005-10-08,6,South Carolina,,Kentucky,W,1,1,100.0,1,0,0,108.4,syvelle-newton-1
+Chris Nickson,2005-10-08,6,Vanderbilt,,Louisiana State,L,0,1,0.0,0,0,0,0.0,chris-nickson-1
+Kevin O'Connell,2005-10-08,6,San Diego State,@,Nevada-Las Vegas,L,14,28,50.0,106,0,3,60.4,kevin-oconnell-2
+Drew Olson,2005-10-08,5,UCLA,,California,W,17,33,51.5,225,2,0,128.8,drew-olson-1
+Lamar Owens,2005-10-08,4,Navy,,Air Force,W,8,12,66.7,171,1,1,197.2,lamar-owens-2
+Tyler Palko,2005-10-08,6,Pittsburgh,,Cincinnati,W,14,32,43.8,175,1,0,100.0,tyler-palko-1
+Al Pena,2005-10-08,5,Oklahoma State,,Missouri,L,4,7,57.1,64,1,1,152.5,al-pena-1
+Paul Pinegar,2005-10-08,4,Fresno State,@,New Mexico State,W,10,19,52.6,112,2,0,136.9,paul-pinegar-1
+James Pinkney,2005-10-08,5,East Carolina,,Rice,W,22,34,64.7,355,3,0,181.5,james-pinkney-1
+Quinton Porter,2005-10-08,6,Boston College,,Virginia,W,25,37,67.6,301,1,1,139.4,quinton-porter-1
+Josh Portis,2005-10-08,6,Florida,,Mississippi State,W,3,5,60.0,45,0,1,95.6,josh-portis-1
+Blake Powers,2005-10-08,5,Indiana,,Illinois,W,22,35,62.9,198,4,1,142.4,blake-powers-1
+Cory Randolph,2005-10-08,6,Wake Forest,@,Florida State,L,17,24,70.8,131,0,0,116.7,cory-randolph-1
+Bobby Reid,2005-10-08,5,Oklahoma State,,Missouri,L,11,20,55.0,155,0,0,120.1,bobby-reid-1
+Lester Ricard,2005-10-08,4,Tulane,N,Houston,L,12,32,37.5,117,2,0,88.8,lester-ricard-1
+Michael Robinson,2005-10-08,6,Penn State,,Ohio State,W,11,20,55.0,78,0,0,87.8,michael-robinson-1
+Jerad Romo,2005-10-08,6,Southern Methodist,@,Alabama-Birmingham,W,30,43,69.8,333,2,0,150.2,jerad-romo-1
+Jeff Rowe,2005-10-08,5,Nevada,,Idaho,W,21,30,70.0,251,3,0,173.3,jeff-rowe-1
+JaMarcus Russell,2005-10-08,4,Louisiana State,@,Vanderbilt,W,21,32,65.6,285,2,1,154.8,jamarcus-russell-1
+D.J. Shockley,2005-10-08,5,Georgia,@,Tennessee,W,16,27,59.3,207,0,1,116.3,dj-shockley-1
+Brad Smith,2005-10-08,5,Missouri,@,Oklahoma State,W,21,27,77.8,193,1,0,150.0,brad-smith-1
+Kent Smith,2005-10-08,6,Central Michigan,@,Army,W,15,25,60.0,92,0,0,90.9,kent-smith-1
+Paul Smith,2005-10-08,6,Tulsa,@,Southern Mississippi,W,21,35,60.0,232,1,2,113.7,paul-smith-2
+Troy Smith,2005-10-08,5,Ohio State,@,Penn State,L,13,25,52.0,139,0,1,90.7,troy-smith-1
+Micheal Spurlock,2005-10-08,5,Mississippi,,Citadel,W,20,29,69.0,254,1,0,153.9,micheal-spurlock-1
+Joel Statham,2005-10-08,6,Maryland,@,Temple,W,3,6,50.0,24,0,0,83.6,joel-statham-1
+John Stocco,2005-10-08,6,Wisconsin,@,Northwestern,L,24,31,77.4,326,4,2,195.4,john-stocco-1
+Adam Tafralis,2005-10-08,5,San Jose State,@,Utah State,L,16,42,38.1,227,1,0,91.4,adam-tafralis-1
+Drew Tate,2005-10-08,6,Iowa,@,Purdue,W,19,33,57.6,357,3,0,178.4,drew-tate-1
+Zac Taylor,2005-10-08,5,Nebraska,,Texas Tech,L,21,35,60.0,229,2,2,122.4,zac-taylor-1
+Mike Teel,2005-10-08,5,Rutgers,,West Virginia,L,9,15,60.0,105,0,2,92.1,mike-teel-1
+Marcus Vick,2005-10-08,6,Virginia Tech,,Marshall,W,11,16,68.8,163,1,1,162.5,marcus-vick-1
+Drew Weatherford,2005-10-08,5,Florida State,,Wake Forest,W,20,31,64.5,351,3,0,191.6,drew-weatherford-1
+Allen Webb,2005-10-08,5,Kansas State,,Kansas,W,1,3,33.3,11,0,1,-2.5,allen-webb-1
+Andrew Wellock,2005-10-08,6,Eastern Michigan,@,Toledo,L,1,1,100.0,24,0,0,301.6,andrew-wellock-1
+Pat White,2005-10-08,6,West Virginia,@,Rutgers,W,0,1,0.0,0,0,0,0.0,pat-white-1
+Terrence Whitehead,2005-10-08,6,Oregon,@,Arizona State,W,0,1,0.0,0,0,0,0.0,terrence-whitehead-1
+Steven Wichman,2005-10-08,6,Idaho,@,Nevada,L,25,49,51.0,275,2,1,107.6,steven-wichman-1
+Brandon Williams,2005-10-08,6,Wisconsin,@,Northwestern,L,0,1,0.0,0,0,0,0.0,brandon-williams-6
+Drew Willy,2005-10-08,5,Buffalo,,Akron,L,12,25,48.0,71,0,1,63.9,drew-willy-1
+Andre Woodson,2005-10-08,5,Kentucky,@,South Carolina,L,11,17,64.7,90,0,1,97.4,andre-woodson-1
+Kyle Wright,2005-10-08,5,Miami (FL),,Duke,W,18,31,58.1,255,3,2,146.2,kyle-wright-1
+Vince Young,2005-10-08,5,Texas,N,Oklahoma,W,14,27,51.9,241,3,0,163.5,vince-young-1
+Jared Zabransky,2005-10-08,5,Boise State,,Portland State,W,21,29,72.4,256,0,2,132.8,jared-zabransky-1
+Jay Davis,2005-10-13,5,North Carolina State,,Clemson,L,15,31,48.4,133,0,1,78.0,jay-davis-1
+Michael Desormeaux,2005-10-13,6,Louisiana,@,Arkansas State,L,10,16,62.5,97,0,0,113.4,michael-desormeaux-1
+Nick Noce,2005-10-13,6,Arkansas State,,Louisiana,W,10,20,50.0,194,3,0,181.0,nick-noce-1
+Derrick Smith,2005-10-13,6,Louisiana,@,Arkansas State,L,0,1,0.0,0,0,1,-200.0,derrick-smith-1
+Marcus Stone,2005-10-13,5,North Carolina State,,Clemson,L,4,5,80.0,42,0,0,150.6,marcus-stone-1
+Charlie Whitehurst,2005-10-13,6,Clemson,@,North Carolina State,W,22,31,71.0,246,2,1,152.5,charlie-whitehurst-1
+Scott Elliott,2005-10-14,5,Tulane,,Texas-El Paso,L,1,4,25.0,5,0,0,35.5,scott-elliott-1
+Jordan Palmer,2005-10-14,5,Texas-El Paso,@,Tulane,W,22,32,68.8,278,3,0,172.7,jordan-palmer-1
+Lester Ricard,2005-10-14,5,Tulane,,Texas-El Paso,L,29,52,55.8,376,3,0,135.5,lester-ricard-1
+Dustin Almond,2005-10-15,5,Southern Mississippi,,Central Florida,W,23,37,62.2,277,5,1,164.2,dustin-almond-1
+Joel Armstrong,2005-10-15,5,Rice,,Tulsa,L,3,7,42.9,46,0,1,69.5,joel-armstrong-1
+Zack Asack,2005-10-15,7,Duke,,Georgia Tech,L,9,28,32.1,90,1,2,56.6,zack-asack-1
+Maurice Avery,2005-10-15,6,Memphis,@,Houston,W,7,12,58.3,112,2,1,175.1,maurice-avery-1
+Joe Ayoob,2005-10-15,7,California,,Oregon State,L,13,39,33.3,219,1,2,78.7,joe-ayoob-1
+C.J. Bacher,2005-10-15,6,Northwestern,@,Purdue,W,1,2,50.0,12,0,0,100.4,cj-bacher-1
+Reggie Ball,2005-10-15,6,Georgia Tech,@,Duke,W,16,25,64.0,144,1,1,117.6,reggie-ball-1
+Jeff Ballard,2005-10-15,7,Texas Christian,,Army,W,22,29,75.9,219,2,1,155.2,jeff-ballard-1
+Brett Basanez,2005-10-15,6,Northwestern,@,Purdue,W,37,55,67.3,463,3,0,156.0,brett-basanez-1
+John Beck,2005-10-15,6,Brigham Young,,Colorado State,W,13,18,72.2,168,1,1,157.8,john-beck-1
+Adam Bednarik,2005-10-15,7,West Virginia,,Louisville,W,8,16,50.0,60,1,0,102.1,adam-bednarik-1
+Shawn Bell,2005-10-15,6,Baylor,,Nebraska,L,15,24,62.5,180,1,0,139.3,shawn-bell-1
+Taylor Bennett,2005-10-15,6,Georgia Tech,@,Duke,W,1,2,50.0,3,0,0,62.6,taylor-bennett-1
+Josh Betts,2005-10-15,6,Miami (OH),,Akron,W,23,38,60.5,332,3,1,154.7,josh-betts-1
+Matt Bohnet,2005-10-15,7,Eastern Michigan,@,Northern Illinois,L,14,26,53.8,99,0,1,78.1,matt-bohnet-1
+Rhett Bomar,2005-10-15,6,Oklahoma,@,Kansas,W,16,31,51.6,206,1,2,105.2,rhett-bomar-1
+Corey Bramlet,2005-10-15,7,Wyoming,,New Mexico,L,19,35,54.3,214,1,2,103.6,corey-bramlet-1
+Tom Brandstater,2005-10-15,5,Fresno State,,Utah State,W,3,6,50.0,36,0,1,67.1,tom-brandstater-1
+Colt Brennan,2005-10-15,6,Hawaii,,New Mexico State,W,38,53,71.7,515,7,1,193.1,colt-brennan-1
+Kendal Briles,2005-10-15,6,Houston,,Memphis,L,1,1,100.0,10,0,0,184.0,kendal-briles-1
+Alex Brink,2005-10-15,6,Washington State,,UCLA,L,19,33,57.6,169,2,0,120.6,alex-brink-1
+Brian Brohm,2005-10-15,6,Louisville,@,West Virginia,L,31,49,63.3,277,2,1,120.1,brian-brohm-1
+Brian Brunner,2005-10-15,7,Central Michigan,,Ohio,W,1,1,100.0,6,0,0,150.4,brian-brunner-1
+Reggie Bush,2005-10-15,6,Southern California,@,Notre Dame,W,0,1,0.0,0,0,0,0.0,reggie-bush-1
+Emmanuel Byers,2005-10-15,6,Virginia,,Florida State,W,0,2,0.0,0,0,0,0.0,emmanuel-byers-1
+Shaun Carney,2005-10-15,7,Air Force,,Nevada-Las Vegas,W,6,7,85.7,74,0,0,174.5,shaun-carney-1
+Sean Clayton,2005-10-15,7,Florida Atlantic,,Middle Tennessee State,L,1,4,25.0,14,0,0,54.4,sean-clayton-1
+Kellen Clemens,2005-10-15,7,Oregon,,Washington,W,36,48,75.0,425,4,0,176.9,kellen-clemens-1
+Chase Clement,2005-10-15,5,Rice,,Tulsa,L,5,14,35.7,39,0,1,44.8,chase-clement-2
+Brandon Cox,2005-10-15,6,Auburn,@,Arkansas,W,17,26,65.4,203,3,2,153.7,brandon-cox-1
+James Cox,2005-10-15,6,Colorado,@,Texas,L,2,5,40.0,3,0,0,45.0,james-cox-1
+Brodie Croyle,2005-10-15,6,Alabama,@,Mississippi,W,22,37,59.5,234,0,0,112.6,brodie-croyle-1
+Jay Cutler,2005-10-15,7,Vanderbilt,,Georgia,L,15,28,53.6,174,1,1,110.4,jay-cutler-1
+Zac Dahman,2005-10-15,6,Army,@,Texas Christian,L,22,40,55.0,252,0,3,92.9,zac-dahman-1
+Chase Daniel,2005-10-15,6,Missouri,,Iowa State,W,16,23,69.6,185,1,0,151.5,chase-daniel-1
+Courtney Denson,2005-10-15,6,South Florida,@,Pittsburgh,L,0,2,0.0,0,0,1,-100.0,courtney-denson-1
+Joe Desanzo,2005-10-15,7,Temple,,Miami (FL),L,10,20,50.0,96,0,0,90.3,joe-desanzo-1
+Dennis Dixon,2005-10-15,7,Oregon,,Washington,W,1,2,50.0,-1,0,0,45.8,dennis-dixon-1
+Johnny Durocher,2005-10-15,6,Washington,@,Oregon,L,2,2,100.0,6,0,0,125.2,johnny-durocher-1
+Trent Edwards,2005-10-15,5,Stanford,@,Arizona,W,16,26,61.5,137,2,0,131.2,trent-edwards-1
+Danny Embick,2005-10-15,7,Florida Atlantic,,Middle Tennessee State,L,10,24,41.7,151,0,3,69.5,danny-embick-1
+Austen Everson,2005-10-15,6,Ohio,@,Central Michigan,L,9,20,45.0,78,1,1,84.3,austen-everson-1
+Allan Evridge,2005-10-15,6,Kansas State,@,Texas Tech,L,14,25,56.0,192,1,1,125.7,allan-evridge-1
+John Ferguson,2005-10-15,6,Akron,@,Miami (OH),L,3,9,33.3,48,0,0,78.1,john-ferguson-1
+Joe Fields,2005-10-15,6,Syracuse,,Rutgers,L,1,4,25.0,6,0,0,37.6,joe-fields-1
+Adam Fitch,2005-10-15,7,Air Force,,Nevada-Las Vegas,W,4,5,80.0,22,0,0,117.0,adam-fitch-1
+Julian Foster,2005-10-15,6,Troy,@,Louisiana-Monroe,L,15,24,62.5,174,0,1,115.1,julian-foster-1
+Cody Freeby,2005-10-15,6,Oklahoma,@,Kansas,W,1,1,100.0,4,0,0,133.6,cody-freeby-1
+Kirby Freeman,2005-10-15,6,Miami (FL),@,Temple,W,7,11,63.6,121,0,0,156.0,kirby-freeman-1
+Luke Getsy,2005-10-15,6,Akron,@,Miami (OH),L,19,35,54.3,169,1,2,92.8,luke-getsy-1
+Royal Gill,2005-10-15,7,New Mexico State,@,Hawaii,L,34,57,59.6,356,2,1,120.2,royal-gill-1
+Bruce Gradkowski,2005-10-15,6,Toledo,@,Ball State,W,17,28,60.7,207,3,2,143.9,bruce-gradkowski-1
+Tyler Graunke,2005-10-15,6,Hawaii,,New Mexico State,W,2,6,33.3,16,0,0,55.7,tyler-graunke-1
+J.P. Greco,2005-10-15,6,San Jose State,@,Boise State,L,8,18,44.4,122,1,0,119.7,jp-greco-1
+Dustin Grutza,2005-10-15,6,Cincinnati,,Connecticut,W,9,21,42.9,125,1,0,108.6,dustin-grutza-1
+Darrell Hackney,2005-10-15,6,Alabama-Birmingham,@,Marshall,L,20,35,57.1,245,1,1,119.7,darrell-hackney-1
+Marques Hagans,2005-10-15,6,Virginia,,Florida State,W,27,36,75.0,306,2,0,164.7,marques-hagans-1
+Brian Hampton,2005-10-15,5,Navy,,Kent State,W,2,3,66.7,27,0,0,142.3,brian-hampton-1
+Justin Harper,2005-10-15,7,Central Michigan,,Ohio,W,1,1,100.0,41,0,0,444.4,justin-harper-1
+Graham Harrell,2005-10-15,6,Texas Tech,,Kansas State,W,3,7,42.9,26,0,0,74.1,graham-harrell-1
+Josh Harris,2005-10-15,5,Middle Tennessee State,@,Florida Atlantic,W,1,1,100.0,-1,0,0,91.6,josh-harris-1
+Chad Henne,2005-10-15,7,Michigan,,Penn State,W,21,36,58.3,212,2,0,126.1,chad-henne-1
+D.J. Hernandez,2005-10-15,6,Connecticut,@,Cincinnati,L,19,43,44.2,191,2,1,92.2,dj-hernandez-1
+Cody Hodges,2005-10-15,6,Texas Tech,,Kansas State,W,44,65,67.7,643,5,2,170.0,cody-hodges-1
+Justin Holland,2005-10-15,6,Colorado State,@,Brigham Young,L,22,30,73.3,281,2,0,174.0,justin-holland-1
+Phil Horvath,2005-10-15,6,Northern Illinois,,Eastern Michigan,W,15,23,65.2,119,1,2,105.6,phil-horvath-1
+Chad Huffman,2005-10-15,7,Texas Christian,,Army,W,0,1,0.0,0,0,0,0.0,chad-huffman-1
+Kyle Israel,2005-10-15,6,Central Florida,@,Southern Mississippi,L,9,17,52.9,108,1,0,125.7,kyle-israel-1
+Leon Jackson III,2005-10-15,5,Utah State,@,Fresno State,L,12,19,63.2,128,0,1,109.2,leon-jackson-iii-1
+Jarrod Jackson,2005-10-15,7,Nevada-Las Vegas,@,Air Force,L,18,25,72.0,157,0,2,108.8,jarrod-jackson-1
+Omar Jacobs,2005-10-15,6,Bowling Green State,@,Buffalo,W,18,34,52.9,187,1,2,97.1,omar-jacobs-1
+Brian Johnson,2005-10-15,7,Utah,,San Diego State,L,31,47,66.0,417,0,1,136.2,brian-johnson-2
+David Johnson,2005-10-15,7,Tulsa,@,Rice,W,2,3,66.7,6,0,0,83.5,david-johnson-3
+Robert Johnson,2005-10-15,6,Arkansas,,Auburn,L,17,28,60.7,174,0,1,105.8,robert-johnson-1
+Brandon Jones,2005-10-15,6,Ohio,@,Central Michigan,L,3,16,18.8,23,0,0,30.8,brandon-jones-2
+Tyler Jones,2005-10-15,7,Eastern Michigan,@,Northern Illinois,L,1,4,25.0,2,0,0,29.2,tyler-jones-1
+Pat Julmiste,2005-10-15,6,South Florida,@,Pittsburgh,L,18,35,51.4,222,1,0,114.1,pat-julmiste-1
+Steven Jyles,2005-10-15,7,Louisiana-Monroe,,Troy,W,15,29,51.7,190,1,0,118.1,steven-jyles-1
+Brett Kern,2005-10-15,6,Toledo,@,Ball State,W,1,2,50.0,34,0,0,192.8,brett-kern-1
+Tremayne Kirkland,2005-10-15,7,Nevada-Las Vegas,@,Air Force,L,1,1,100.0,58,1,0,917.2,tremayne-kirkland-1
+Brandon Kirsch,2005-10-15,6,Purdue,,Northwestern,L,37,58,63.8,360,0,2,109.0,brandon-kirsch-1
+Joel Klatt,2005-10-15,6,Colorado,@,Texas,L,19,39,48.7,189,2,1,101.2,joel-klatt-1
+Kevin Kolb,2005-10-15,6,Houston,,Memphis,L,25,44,56.8,386,1,0,138.0,kevin-kolb-1
+Richard Kovalcheck,2005-10-15,6,Arizona,,Stanford,L,21,39,53.8,161,0,2,78.3,richard-kovalcheck-1
+Matt Kubik,2005-10-15,5,Louisiana Tech,@,Nevada,L,13,39,33.3,161,1,1,71.3,matt-kubik-1
+Chris Leak,2005-10-15,7,Florida,@,Louisiana State,L,11,30,36.7,107,0,0,66.6,chris-leak-1
+Matt Leinart,2005-10-15,6,Southern California,@,Notre Dame,W,17,32,53.1,301,0,2,119.6,matt-leinart-1
+Brian Luke,2005-10-15,6,Kansas,,Oklahoma,L,11,30,36.7,86,0,3,40.7,brian-luke-1
+Wali Lundy,2005-10-15,6,Virginia,,Florida State,W,0,1,0.0,0,0,0,0.0,wali-lundy-1
+Joey Lynch,2005-10-15,6,Ball State,,Toledo,L,10,18,55.6,65,1,2,82.0,joey-lynch-1
+Marshawn Lynch,2005-10-15,7,California,,Oregon State,L,1,1,100.0,21,1,0,606.4,marshawn-lynch-1
+Michael Machen,2005-10-15,6,Kent State,@,Navy,L,25,41,61.0,292,2,2,127.1,michael-machen-1
+Clint Marks,2005-10-15,5,Middle Tennessee State,@,Florida Atlantic,W,11,18,61.1,116,0,1,104.1,clint-marks-1
+Mike McGann,2005-10-15,7,Temple,,Miami (FL),L,0,3,0.0,0,0,0,0.0,mike-mcgann-1
+Stephen McGee,2005-10-15,6,Texas A&M,,Oklahoma State,W,3,3,100.0,32,1,0,299.6,stephen-mcgee-1
+Kole McKamey,2005-10-15,7,New Mexico,@,Wyoming,W,5,8,62.5,27,0,0,90.9,kole-mckamey-1
+Reggie McNeal,2005-10-15,6,Texas A&M,,Oklahoma State,W,18,26,69.2,263,3,1,184.6,reggie-mcneal-1
+Carl Meadows,2005-10-15,6,Troy,@,Louisiana-Monroe,L,0,5,0.0,0,0,1,-40.0,carl-meadows-1
+Daniel Meager,2005-10-15,5,North Texas,@,Florida International,W,10,15,66.7,79,1,0,132.9,daniel-meager-1
+Bret Meyer,2005-10-15,6,Iowa State,@,Missouri,L,16,25,64.0,169,0,1,112.8,bret-meyer-1
+Steven Moffett,2005-10-15,6,Central Florida,@,Southern Mississippi,L,15,24,62.5,152,2,1,134.9,steven-moffett-1
+Matt Moore,2005-10-15,6,Oregon State,@,California,W,21,34,61.8,196,0,3,92.5,matt-moore-1
+Bernard Morris,2005-10-15,6,Marshall,,Alabama-Birmingham,W,14,28,50.0,99,1,1,84.3,bernard-morris-1
+Tony Mortensen,2005-10-15,7,Minnesota,,Wisconsin,L,7,17,41.2,99,1,1,97.7,tony-mortensen-1
+Chris Nelson,2005-10-15,7,New Mexico,@,Wyoming,W,8,14,57.1,91,0,0,111.7,chris-nelson-1
+Seth Newton,2005-10-15,6,Oklahoma State,@,Texas A&M,L,1,1,100.0,13,0,0,209.2,seth-newton-1
+Matt Nordgren,2005-10-15,6,Texas,,Colorado,W,1,3,33.3,1,0,0,36.1,matt-nordgren-1
+Kevin O'Connell,2005-10-15,7,San Diego State,@,Utah,W,17,23,73.9,219,3,0,196.9,kevin-oconnell-2
+Drew Olson,2005-10-15,6,UCLA,@,Washington State,W,31,43,72.1,338,5,1,171.8,drew-olson-1
+Lamar Owens,2005-10-15,5,Navy,,Kent State,W,6,10,60.0,169,0,2,162.0,lamar-owens-2
+Josh Padrick,2005-10-15,5,Florida International,,North Texas,L,20,32,62.5,243,1,2,124.1,josh-padrick-1
+Curtis Painter,2005-10-15,6,Purdue,,Northwestern,L,3,7,42.9,18,0,0,64.5,curtis-painter-1
+Tyler Palko,2005-10-15,7,Pittsburgh,,South Florida,W,15,21,71.4,203,3,0,199.8,tyler-palko-1
+Terrance Parks,2005-10-15,6,Baylor,,Nebraska,L,2,6,33.3,22,0,2,-2.5,terrance-parks-1
+Perry Patterson,2005-10-15,6,Syracuse,,Rutgers,L,13,24,54.2,167,0,0,112.6,perry-patterson-1
+Al Pena,2005-10-15,6,Oklahoma State,@,Texas A&M,L,13,32,40.6,194,1,4,76.9,al-pena-1
+Aaron Perez,2005-10-15,6,UCLA,@,Washington State,W,0,1,0.0,0,0,0,0.0,aaron-perez-1
+Paul Pinegar,2005-10-15,5,Fresno State,,Utah State,W,10,17,58.8,138,2,1,154.1,paul-pinegar-1
+James Pinkney,2005-10-15,6,East Carolina,@,Southern Methodist,W,15,22,68.2,225,0,1,145.0,james-pinkney-1
+Quinton Porter,2005-10-15,7,Boston College,,Wake Forest,W,20,41,48.8,184,2,3,87.9,quinton-porter-1
+Blake Powers,2005-10-15,6,Indiana,@,Iowa,L,37,57,64.9,360,2,1,126.0,blake-powers-1
+Brady Quinn,2005-10-15,6,Notre Dame,,Southern California,L,19,35,54.3,264,1,1,121.4,brady-quinn-1
+Cory Randolph,2005-10-15,7,Wake Forest,@,Boston College,L,21,33,63.6,193,1,0,122.8,cory-randolph-1
+Michael Robinson,2005-10-15,7,Penn State,@,Michigan,L,19,34,55.9,239,0,1,109.0,michael-robinson-1
+Jerad Romo,2005-10-15,7,Southern Methodist,,East Carolina,L,19,37,51.4,211,0,4,77.6,jerad-romo-1
+Jeff Rowe,2005-10-15,6,Nevada,,Louisiana Tech,W,25,45,55.6,269,2,1,116.0,jeff-rowe-1
+JaMarcus Russell,2005-10-15,5,Louisiana State,,Florida,W,14,22,63.6,236,2,2,165.6,jamarcus-russell-1
+Matt Ryan,2005-10-15,7,Boston College,,Wake Forest,W,7,9,77.8,134,2,0,276.2,matt-ryan-1
+Mike Schneider,2005-10-15,7,Duke,,Georgia Tech,L,0,2,0.0,0,0,0,0.0,mike-schneider-1
+D.J. Shockley,2005-10-15,6,Georgia,@,Vanderbilt,W,15,30,50.0,298,3,1,159.8,dj-shockley-1
+Brad Smith,2005-10-15,6,Missouri,,Iowa State,W,8,12,66.7,45,0,1,81.5,brad-smith-1
+Kent Smith,2005-10-15,7,Central Michigan,,Ohio,W,15,24,62.5,228,2,0,169.8,kent-smith-1
+Paul Smith,2005-10-15,7,Tulsa,@,Rice,W,16,21,76.2,199,1,1,162.0,paul-smith-2
+Troy Smith,2005-10-15,6,Ohio State,,Michigan State,W,10,15,66.7,249,3,0,272.1,troy-smith-1
+Micheal Spurlock,2005-10-15,6,Mississippi,,Alabama,L,19,32,59.4,210,1,1,118.6,micheal-spurlock-1
+Isaiah Stanback,2005-10-15,6,Washington,@,Oregon,L,13,26,50.0,111,2,1,103.6,isaiah-stanback-1
+Drew Stanton,2005-10-15,6,Michigan State,@,Ohio State,L,26,36,72.2,340,1,0,160.7,drew-stanton-1
+John Stocco,2005-10-15,7,Wisconsin,@,Minnesota,W,15,26,57.7,235,1,0,146.3,john-stocco-1
+Warren Suess,2005-10-15,6,Ball State,,Toledo,L,1,1,100.0,11,0,0,192.4,warren-suess-1
+Adam Tafralis,2005-10-15,6,San Jose State,@,Boise State,L,9,16,56.3,95,2,0,147.4,adam-tafralis-1
+Drew Tate,2005-10-15,7,Iowa,,Indiana,W,12,24,50.0,265,2,0,170.3,drew-tate-1
+Zac Taylor,2005-10-15,6,Nebraska,@,Baylor,W,18,32,56.3,168,2,0,121.0,zac-taylor-1
+Mike Teel,2005-10-15,6,Rutgers,@,Syracuse,W,13,27,48.1,203,2,2,120.9,mike-teel-1
+Joe Tereshinski,2005-10-15,6,Georgia,@,Vanderbilt,W,0,2,0.0,0,0,0,0.0,joe-tereshinski-1
+Taylor Tharp,2005-10-15,6,Boise State,,San Jose State,W,0,2,0.0,0,0,1,-100.0,taylor-tharp-1
+Tiquan Underwood,2005-10-15,6,Rutgers,@,Syracuse,W,0,1,0.0,0,0,1,-200.0,tiquan-underwood-1
+Joey Vincent,2005-10-15,7,New Mexico State,@,Hawaii,L,2,3,66.7,35,0,0,164.7,joey-vincent-1
+Jerod Walker,2005-10-15,5,Utah State,@,Fresno State,L,2,5,40.0,30,1,0,156.4,jerod-walker-1
+Drew Weatherford,2005-10-15,6,Florida State,@,Virginia,L,35,59,59.3,377,1,3,108.4,drew-weatherford-1
+Andrew Wellock,2005-10-15,7,Eastern Michigan,@,Northern Illinois,L,0,1,0.0,0,0,0,0.0,andrew-wellock-1
+Pat White,2005-10-15,7,West Virginia,,Louisville,W,5,11,45.5,49,0,0,82.9,pat-white-1
+Drew Willy,2005-10-15,6,Buffalo,,Bowling Green State,L,10,22,45.5,113,0,2,70.4,drew-willy-1
+Kyle Wright,2005-10-15,6,Miami (FL),@,Temple,W,9,10,90.0,196,4,0,386.6,kyle-wright-1
+Jeremy Young,2005-10-15,5,Southern Mississippi,,Central Florida,W,1,2,50.0,1,0,0,54.2,jeremy-young-1
+Vince Young,2005-10-15,6,Texas,,Colorado,W,25,29,86.2,336,2,0,206.3,vince-young-1
+Jared Zabransky,2005-10-15,6,Boise State,,San Jose State,W,20,27,74.1,249,1,1,156.4,jared-zabransky-1
+Julian Foster,2005-10-20,7,Troy,,Florida International,W,12,19,63.2,150,1,1,136.3,julian-foster-1
+Sam Hollenbach,2005-10-20,7,Maryland,,Virginia Tech,L,14,30,46.7,158,1,2,88.6,sam-hollenbach-1
+Josh Padrick,2005-10-20,6,Florida International,@,Troy,L,31,51,60.8,247,1,1,104.0,josh-padrick-1
+Marcus Vick,2005-10-20,7,Virginia Tech,@,Maryland,W,14,23,60.9,211,0,3,111.8,marcus-vick-1
+Dustin Almond,2005-10-21,6,Southern Mississippi,@,Alabama-Birmingham,W,18,33,54.5,247,3,0,147.4,dustin-almond-1
+Darrell Hackney,2005-10-21,7,Alabama-Birmingham,,Southern Mississippi,L,29,42,69.0,407,3,1,169.3,darrell-hackney-1
+Steven Moffett,2005-10-21,7,Central Florida,,Tulane,W,17,29,58.6,190,1,0,125.0,steven-moffett-1
+Lester Ricard,2005-10-21,6,Tulane,@,Central Florida,L,27,47,57.4,360,3,4,125.8,lester-ricard-1
+Kevin Smith,2005-10-21,7,Central Florida,,Tulane,W,1,1,100.0,12,1,0,530.8,kevin-smith-1
+Erik Ainge,2005-10-22,6,Tennessee,@,Alabama,L,0,2,0.0,0,0,1,-100.0,erik-ainge-1
+Donald Allen,2005-10-22,6,Louisiana Tech,,North Texas,W,1,5,20.0,0,0,0,20.0,donald-allen-1
+Joel Armstrong,2005-10-22,6,Rice,,Navy,L,0,1,0.0,0,0,0,0.0,joel-armstrong-1
+Zack Asack,2005-10-22,8,Duke,,Florida State,L,9,18,50.0,52,0,0,74.3,zack-asack-1
+Maurice Avery,2005-10-22,7,Memphis,,East Carolina,W,10,14,71.4,117,0,0,141.6,maurice-avery-1
+Joe Ayoob,2005-10-22,8,California,,Washington State,W,19,35,54.3,274,4,2,146.3,joe-ayoob-1
+Matt Baker,2005-10-22,6,North Carolina,,Virginia,W,13,24,54.2,98,1,1,93.9,matt-baker-1
+Jeff Ballard,2005-10-22,8,Texas Christian,@,Air Force,W,20,28,71.4,302,2,0,185.6,jeff-ballard-1
+Brett Basanez,2005-10-22,7,Northwestern,@,Michigan State,W,24,30,80.0,331,2,0,194.7,brett-basanez-1
+Antonio Bass,2005-10-22,8,Michigan,@,Iowa,W,1,1,100.0,13,0,0,209.2,antonio-bass-1
+John Beck,2005-10-22,7,Brigham Young,@,Notre Dame,L,26,45,57.8,317,2,2,122.7,john-beck-1
+Shawn Bell,2005-10-22,7,Baylor,@,Oklahoma,L,20,44,45.5,228,3,0,111.5,shawn-bell-1
+Josh Betts,2005-10-22,7,Miami (OH),@,Eastern Michigan,W,23,43,53.5,252,2,2,108.8,josh-betts-1
+Rhett Bomar,2005-10-22,7,Oklahoma,,Baylor,W,24,42,57.1,269,1,2,109.3,rhett-bomar-1
+John David Booty,2005-10-22,7,Southern California,@,Washington,W,5,6,83.3,71,1,1,204.4,john-david-booty-1
+Jovon Bouknight,2005-10-22,8,Wyoming,@,Colorado State,L,1,1,100.0,16,1,0,564.4,jovon-bouknight-1
+Corey Bramlet,2005-10-22,8,Wyoming,@,Colorado State,L,24,38,63.2,296,3,2,144.1,corey-bramlet-1
+Tom Brandstater,2005-10-22,6,Fresno State,@,Idaho,W,0,1,0.0,0,0,0,0.0,tom-brandstater-1
+Tim Brasic,2005-10-22,7,Illinois,,Penn State,L,8,16,50.0,49,0,0,75.7,tim-brasic-1
+Colt Brennan,2005-10-22,7,Hawaii,@,San Jose State,W,36,48,75.0,457,3,2,167.3,colt-brennan-1
+Alex Brink,2005-10-22,7,Washington State,@,California,L,18,39,46.2,423,5,2,169.3,alex-brink-1
+Brian Brohm,2005-10-22,7,Louisville,@,Cincinnati,W,21,26,80.8,303,2,0,204.0,brian-brohm-1
+Dennis Brown,2005-10-22,7,Connecticut,,Rutgers,L,18,35,51.4,196,2,1,111.6,dennis-brown-1
+Jon Brown,2005-10-22,7,Kent State,,Northern Illinois,L,5,10,50.0,59,0,1,79.6,jon-brown-1
+Brian Calhoun,2005-10-22,8,Wisconsin,,Purdue,W,0,1,0.0,0,0,0,0.0,brian-calhoun-1
+Hunter Cantwell,2005-10-22,7,Louisville,@,Cincinnati,W,0,1,0.0,0,0,0,0.0,hunter-cantwell-1
+Shaun Carney,2005-10-22,8,Air Force,,Texas Christian,L,11,18,61.1,148,0,2,108.0,shaun-carney-1
+Rudy Carpenter,2005-10-22,7,Arizona State,@,Stanford,L,19,25,76.0,304,3,1,209.7,rudy-carpenter-1
+Rick Clausen,2005-10-22,6,Tennessee,@,Alabama,L,11,17,64.7,144,0,0,135.9,rick-clausen-1
+Kellen Clemens,2005-10-22,8,Oregon,@,Arizona,W,10,18,55.6,187,1,1,150.0,kellen-clemens-1
+Chase Clement,2005-10-22,6,Rice,,Navy,L,11,23,47.8,94,1,0,96.5,chase-clement-2
+Patrick Cobbs,2005-10-22,6,North Texas,@,Louisiana Tech,L,1,1,100.0,33,1,0,707.2,patrick-cobbs-1
+Omarr Conner,2005-10-22,7,Mississippi State,,Houston,L,14,31,45.2,84,0,0,67.9,omarr-conner-1
+Brandon Cox,2005-10-22,7,Auburn,@,Louisiana State,L,16,40,40.0,221,1,0,94.7,brandon-cox-1
+James Cox,2005-10-22,7,Colorado,,Kansas,W,2,3,66.7,7,0,0,86.3,james-cox-1
+Brodie Croyle,2005-10-22,7,Alabama,,Tennessee,W,17,27,63.0,190,0,0,122.1,brodie-croyle-1
+Jay Cutler,2005-10-22,8,Vanderbilt,@,South Carolina,L,27,49,55.1,339,1,1,115.9,jay-cutler-1
+Zac Dahman,2005-10-22,7,Army,@,Akron,W,8,19,42.1,110,1,0,108.1,zac-dahman-1
+Chase Daniel,2005-10-22,7,Missouri,,Nebraska,W,1,2,50.0,12,0,0,100.4,chase-daniel-1
+Nick Davila,2005-10-22,7,Cincinnati,,Louisville,L,9,15,60.0,136,2,0,180.2,nick-davila-1
+Jay Davis,2005-10-22,6,North Carolina State,@,Wake Forest,L,15,29,51.7,102,0,2,67.5,jay-davis-1
+Joe Desanzo,2005-10-22,8,Temple,@,Clemson,L,3,6,50.0,21,0,0,79.4,joe-desanzo-1
+Eric Deslauriers,2005-10-22,8,Eastern Michigan,,Miami (OH),L,0,1,0.0,0,0,0,0.0,eric-deslauriers-1
+Michael Desormeaux,2005-10-22,7,Louisiana,@,Middle Tennessee State,W,14,25,56.0,138,0,0,102.4,michael-desormeaux-1
+Curt Dukes,2005-10-22,8,Duke,,Florida State,L,0,1,0.0,0,0,1,-200.0,curt-dukes-1
+Johnny Durocher,2005-10-22,7,Washington,,Southern California,L,7,11,63.6,69,0,0,116.3,johnny-durocher-1
+Tyler Ebell,2005-10-22,6,Texas-El Paso,,Marshall,W,0,1,0.0,0,0,0,0.0,tyler-ebell-1
+Trent Edwards,2005-10-22,6,Stanford,,Arizona State,W,19,27,70.4,303,3,0,201.3,trent-edwards-1
+Danny Embick,2005-10-22,8,Florida Atlantic,@,Arkansas State,L,11,25,44.0,77,0,2,53.9,danny-embick-1
+Chet Ervin,2005-10-22,7,Cincinnati,,Louisville,L,1,1,100.0,9,0,0,175.6,chet-ervin-1
+Austen Everson,2005-10-22,7,Ohio,,Ball State,W,5,18,27.8,40,0,0,46.4,austen-everson-1
+Allan Evridge,2005-10-22,7,Kansas State,,Texas A&M,L,23,44,52.3,357,3,2,133.8,allan-evridge-1
+Joe Fields,2005-10-22,7,Syracuse,@,Pittsburgh,L,0,1,0.0,0,0,1,-200.0,joe-fields-1
+Adam Fitch,2005-10-22,8,Air Force,,Texas Christian,L,0,4,0.0,0,0,0,0.0,adam-fitch-1
+Luke Getsy,2005-10-22,7,Akron,,Army,L,21,45,46.7,188,0,1,77.3,luke-getsy-1
+Bruce Gradkowski,2005-10-22,7,Toledo,,Buffalo,W,16,21,76.2,186,3,2,178.7,bruce-gradkowski-1
+Dustin Grutza,2005-10-22,7,Cincinnati,,Louisville,L,9,24,37.5,75,1,1,69.2,dustin-grutza-1
+Ryan Gunderson,2005-10-22,7,Oregon State,@,UCLA,L,7,9,77.8,51,0,0,125.4,ryan-gunderson-1
+Marques Hagans,2005-10-22,7,Virginia,@,North Carolina,L,14,28,50.0,109,0,1,75.6,marques-hagans-1
+Brian Hampton,2005-10-22,6,Navy,@,Rice,W,0,2,0.0,0,0,0,0.0,brian-hampton-1
+Michael Harrington,2005-10-22,7,Idaho,,Fresno State,L,5,8,62.5,37,0,1,76.4,michael-harrington-1
+Josh Harris,2005-10-22,6,Middle Tennessee State,,Louisiana,L,0,1,0.0,0,0,0,0.0,josh-harris-1
+Ryan Hart,2005-10-22,7,Rutgers,@,Connecticut,W,5,11,45.5,94,3,0,207.2,ryan-hart-1
+Chad Henne,2005-10-22,8,Michigan,@,Iowa,W,14,21,66.7,207,2,1,171.4,chad-henne-1
+Tim Hiller,2005-10-22,7,Western Michigan,@,Bowling Green State,W,16,25,64.0,258,3,0,190.3,tim-hiller-1
+Cody Hodges,2005-10-22,7,Texas Tech,@,Texas,L,42,64,65.6,369,2,1,121.2,cody-hodges-1
+Justin Holland,2005-10-22,7,Colorado State,,Wyoming,W,20,37,54.1,419,4,1,179.4,justin-holland-1
+Phil Horvath,2005-10-22,7,Northern Illinois,@,Kent State,W,10,16,62.5,121,2,0,167.3,phil-horvath-1
+Brian Hoyer,2005-10-22,7,Michigan State,,Northwestern,L,4,8,50.0,57,0,0,109.9,brian-hoyer-1
+Chad Huffman,2005-10-22,8,Texas Christian,@,Air Force,W,2,4,50.0,24,0,0,100.4,chad-huffman-1
+Leon Jackson III,2005-10-22,6,Utah State,,Boise State,L,16,29,55.2,206,3,0,149.0,leon-jackson-iii-1
+Earnest Jackson,2005-10-22,7,Cincinnati,,Louisville,L,1,1,100.0,15,0,0,226.0,earnest-jackson-1
+Jarrod Jackson,2005-10-22,8,Nevada-Las Vegas,,Utah,L,29,54,53.7,356,3,2,120.0,jarrod-jackson-1
+Omar Jacobs,2005-10-22,7,Bowling Green State,,Western Michigan,L,6,9,66.7,98,0,0,158.1,omar-jacobs-1
+Brian Johnson,2005-10-22,8,Utah,@,Nevada-Las Vegas,W,20,29,69.0,264,3,0,179.6,brian-johnson-2
+Robert Johnson,2005-10-22,7,Arkansas,@,Georgia,L,11,19,57.9,116,0,1,98.7,robert-johnson-1
+Brandon Jones,2005-10-22,7,Ohio,,Ball State,W,1,5,20.0,11,0,0,38.5,brandon-jones-2
+Tyler Jones,2005-10-22,8,Eastern Michigan,,Miami (OH),L,19,26,73.1,135,2,0,142.1,tyler-jones-1
+Sam Keller,2005-10-22,7,Arizona State,@,Stanford,L,10,16,62.5,98,0,0,114.0,sam-keller-1
+Tremayne Kirkland,2005-10-22,8,Nevada-Las Vegas,,Utah,L,1,2,50.0,15,0,0,113.0,tremayne-kirkland-1
+Joel Klatt,2005-10-22,7,Colorado,,Kansas,W,16,27,59.3,193,4,0,168.2,joel-klatt-1
+Kevin Kolb,2005-10-22,7,Houston,@,Mississippi State,W,20,29,69.0,218,1,0,143.5,kevin-kolb-1
+Richard Kovalcheck,2005-10-22,7,Arizona,,Oregon,L,4,7,57.1,17,0,1,49.0,richard-kovalcheck-1
+Matt Kubik,2005-10-22,6,Louisiana Tech,,North Texas,W,23,30,76.7,283,1,0,166.9,matt-kubik-1
+Brady Leaf,2005-10-22,8,Oregon,@,Arizona,W,5,10,50.0,53,0,1,74.5,brady-leaf-1
+Xavier Lee,2005-10-22,7,Florida State,@,Duke,W,10,17,58.8,100,2,0,147.1,xavier-lee-1
+Matt Leinart,2005-10-22,7,Southern California,@,Washington,W,20,26,76.9,201,4,0,192.6,matt-leinart-1
+Dante Love,2005-10-22,7,Ball State,@,Ohio,L,1,3,33.3,1,0,0,36.1,dante-love-1
+Brian Luke,2005-10-22,7,Kansas,@,Colorado,L,1,5,20.0,2,0,0,23.4,brian-luke-1
+Joey Lynch,2005-10-22,7,Ball State,@,Ohio,L,23,34,67.6,241,1,0,136.9,joey-lynch-1
+Michael Machen,2005-10-22,7,Kent State,,Northern Illinois,L,10,21,47.6,43,0,1,55.3,michael-machen-1
+Clint Marks,2005-10-22,6,Middle Tennessee State,,Louisiana,L,19,24,79.2,218,0,0,155.5,clint-marks-1
+Ben Mauk,2005-10-22,8,Wake Forest,,North Carolina State,W,13,17,76.5,140,0,0,145.6,ben-mauk-1
+Darren McFadden,2005-10-22,7,Arkansas,@,Georgia,L,0,1,0.0,0,0,0,0.0,darren-mcfadden-1
+Graeme McFarland,2005-10-22,7,Indiana,,Ohio State,L,1,3,33.3,3,0,0,41.7,graeme-mcfarland-1
+Mike McGann,2005-10-22,8,Temple,@,Clemson,L,23,38,60.5,298,1,1,129.8,mike-mcgann-1
+Kole McKamey,2005-10-22,8,New Mexico,@,San Diego State,W,21,32,65.6,248,3,1,155.4,kole-mckamey-1
+Reggie McNeal,2005-10-22,7,Texas A&M,@,Kansas State,W,15,31,48.4,136,1,1,89.4,reggie-mcneal-1
+Daniel Meager,2005-10-22,6,North Texas,@,Louisiana Tech,L,8,18,44.4,60,1,0,90.8,daniel-meager-1
+Bret Meyer,2005-10-22,7,Iowa State,,Oklahoma State,W,13,20,65.0,227,1,0,176.8,bret-meyer-1
+Blake Mitchell,2005-10-22,7,South Carolina,,Vanderbilt,W,15,27,55.6,221,2,1,141.3,blake-mitchell-1
+Matt Moore,2005-10-22,7,Oregon State,@,UCLA,L,14,25,56.0,279,2,2,160.1,matt-moore-1
+Anthony Morelli,2005-10-22,8,Penn State,@,Illinois,W,1,2,50.0,23,0,0,146.6,anthony-morelli-1
+Bernard Morris,2005-10-22,7,Marshall,@,Texas-El Paso,L,13,30,43.3,125,0,1,71.7,bernard-morris-1
+Darren Mougey,2005-10-22,8,San Diego State,,New Mexico,L,0,1,0.0,0,0,1,-200.0,darren-mougey-1
+Syvelle Newton,2005-10-22,7,South Carolina,,Vanderbilt,W,3,4,75.0,46,2,0,336.6,syvelle-newton-1
+Dan Nicholson,2005-10-22,7,Northern Illinois,@,Kent State,W,2,4,50.0,35,0,0,123.5,dan-nicholson-1
+Nick Noce,2005-10-22,7,Arkansas State,,Florida Atlantic,W,14,28,50.0,208,0,3,91.0,nick-noce-1
+Kevin O'Connell,2005-10-22,8,San Diego State,,New Mexico,L,15,34,44.1,197,2,2,100.4,kevin-oconnell-2
+Ben Olson,2005-10-22,7,UCLA,,Oregon State,W,0,1,0.0,0,0,0,0.0,ben-olson-1
+Drew Olson,2005-10-22,7,UCLA,,Oregon State,W,16,24,66.7,262,6,0,240.9,drew-olson-1
+Lamar Owens,2005-10-22,6,Navy,@,Rice,W,3,7,42.9,66,0,0,122.1,lamar-owens-2
+Curtis Painter,2005-10-22,7,Purdue,@,Wisconsin,L,23,44,52.3,212,1,3,86.6,curtis-painter-1
+Tyler Palko,2005-10-22,8,Pittsburgh,,Syracuse,W,18,28,64.3,201,1,1,129.2,tyler-palko-1
+Jordan Palmer,2005-10-22,6,Texas-El Paso,,Marshall,W,17,25,68.0,215,3,1,171.8,jordan-palmer-1
+Perry Patterson,2005-10-22,7,Syracuse,@,Pittsburgh,L,9,25,36.0,89,1,3,55.1,perry-patterson-1
+Chris Pazan,2005-10-22,7,Illinois,,Penn State,L,10,15,66.7,84,1,2,109.0,chris-pazan-1
+Al Pena,2005-10-22,7,Oklahoma State,@,Iowa State,L,24,40,60.0,203,0,4,82.6,al-pena-1
+Matt Phillips,2005-10-22,6,North Texas,@,Louisiana Tech,L,1,4,25.0,6,0,2,-62.4,matt-phillips-1
+Paul Pinegar,2005-10-22,6,Fresno State,@,Idaho,W,21,33,63.6,228,1,0,131.7,paul-pinegar-1
+James Pinkney,2005-10-22,7,East Carolina,@,Memphis,L,26,46,56.5,297,3,0,132.3,james-pinkney-1
+Blake Powers,2005-10-22,7,Indiana,,Ohio State,L,13,29,44.8,72,0,1,58.8,blake-powers-1
+Will Proctor,2005-10-22,7,Clemson,,Temple,W,3,6,50.0,52,1,0,177.8,will-proctor-1
+Curtis Pulley,2005-10-22,6,Kentucky,@,Mississippi,L,0,2,0.0,0,0,0,0.0,curtis-pulley-1
+Brady Quinn,2005-10-22,7,Notre Dame,,Brigham Young,W,32,41,78.0,467,6,0,222.0,brady-quinn-1
+Michael Robinson,2005-10-22,8,Penn State,@,Illinois,W,11,18,61.1,194,4,0,225.0,michael-robinson-1
+Jerad Romo,2005-10-22,8,Southern Methodist,@,Tulsa,L,20,32,62.5,223,0,1,114.8,jerad-romo-1
+JaMarcus Russell,2005-10-22,6,Louisiana State,,Auburn,W,16,33,48.5,190,1,0,106.8,jamarcus-russell-1
+D.J. Shockley,2005-10-22,7,Georgia,,Arkansas,W,6,10,60.0,74,1,0,155.2,dj-shockley-1
+Brad Smith,2005-10-22,7,Missouri,,Nebraska,W,21,36,58.3,234,1,1,116.5,brad-smith-1
+Paul Smith,2005-10-22,8,Tulsa,,Southern Methodist,W,20,33,60.6,220,2,0,136.6,paul-smith-2
+Troy Smith,2005-10-22,7,Ohio State,@,Indiana,W,14,23,60.9,226,1,1,149.1,troy-smith-1
+Micheal Spurlock,2005-10-22,7,Mississippi,,Kentucky,W,19,38,50.0,198,1,0,102.5,micheal-spurlock-1
+Isaiah Stanback,2005-10-22,7,Washington,,Southern California,L,14,18,77.8,201,1,0,189.9,isaiah-stanback-1
+Drew Stanton,2005-10-22,7,Michigan State,,Northwestern,L,20,38,52.6,234,1,3,97.3,drew-stanton-1
+John Stocco,2005-10-22,8,Wisconsin,,Purdue,W,15,26,57.7,217,2,1,145.5,john-stocco-1
+Marcus Stone,2005-10-22,6,North Carolina State,@,Wake Forest,L,6,16,37.5,136,2,1,137.7,marcus-stone-1
+Jason Swanson,2005-10-22,7,Kansas,@,Colorado,L,26,50,52.0,291,1,3,95.5,jason-swanson-1
+Adam Tafralis,2005-10-22,7,San Jose State,,Hawaii,L,22,35,62.9,262,2,2,133.2,adam-tafralis-1
+Drew Tate,2005-10-22,8,Iowa,,Michigan,L,27,39,69.2,288,2,1,143.1,drew-tate-1
+Zac Taylor,2005-10-22,7,Nebraska,@,Missouri,L,22,43,51.2,281,2,2,112.1,zac-taylor-1
+Mike Teel,2005-10-22,7,Rutgers,@,Connecticut,W,10,22,45.5,176,0,2,94.5,mike-teel-1
+Joe Tereshinski,2005-10-22,7,Georgia,,Arkansas,W,5,9,55.6,91,0,1,118.3,joe-tereshinski-1
+Taylor Tharp,2005-10-22,7,Boise State,@,Utah State,W,1,1,100.0,23,0,0,293.2,taylor-tharp-1
+Marcus Thigpen,2005-10-22,7,Indiana,,Ohio State,L,1,1,100.0,20,0,0,268.0,marcus-thigpen-1
+Willie Tuitama,2005-10-22,7,Arizona,,Oregon,L,18,34,52.9,182,2,1,111.4,willie-tuitama-1
+Anthony Turner,2005-10-22,7,Bowling Green State,,Western Michigan,L,20,38,52.6,242,0,2,95.6,anthony-turner-1
+Jerod Walker,2005-10-22,6,Utah State,,Boise State,L,1,2,50.0,5,0,0,71.0,jerod-walker-1
+Drew Weatherford,2005-10-22,7,Florida State,@,Duke,W,24,32,75.0,276,2,1,161.8,drew-weatherford-1
+Charlie Whitehurst,2005-10-22,7,Clemson,,Temple,W,19,27,70.4,307,2,1,182.9,charlie-whitehurst-1
+Steven Wichman,2005-10-22,7,Idaho,,Fresno State,L,13,22,59.1,84,0,0,91.2,steven-wichman-1
+Drew Willy,2005-10-22,7,Buffalo,@,Toledo,L,18,33,54.5,241,1,1,119.8,drew-willy-1
+Andre Woodson,2005-10-22,6,Kentucky,@,Mississippi,L,12,20,60.0,107,0,0,104.9,andre-woodson-1
+Vince Young,2005-10-22,7,Texas,,Texas Tech,W,12,22,54.5,239,2,2,157.6,vince-young-1
+Jared Zabransky,2005-10-22,7,Boise State,@,Utah State,W,26,39,66.7,328,4,0,171.2,jared-zabransky-1
+Justin Zwick,2005-10-22,7,Ohio State,@,Indiana,W,1,1,100.0,12,0,0,200.8,justin-zwick-1
+Quinton Porter,2005-10-27,8,Boston College,@,Virginia Tech,L,13,24,54.2,139,1,1,108.2,quinton-porter-1
+Matt Ryan,2005-10-27,8,Boston College,@,Virginia Tech,L,2,6,33.3,17,0,1,23.8,matt-ryan-1
+Marcus Vick,2005-10-27,8,Virginia Tech,,Boston College,W,22,28,78.6,280,1,0,174.4,marcus-vick-1
+Justin Holland,2005-10-28,8,Colorado State,@,New Mexico,W,20,26,76.9,312,2,0,203.1,justin-holland-1
+Kole McKamey,2005-10-28,9,New Mexico,,Colorado State,L,14,23,60.9,160,1,2,116.3,kole-mckamey-1
+Erik Ainge,2005-10-29,7,Tennessee,,South Carolina,L,9,21,42.9,65,0,0,68.9,erik-ainge-1
+Brandon Allen,2005-10-29,8,New Mexico State,,Idaho,L,0,1,0.0,0,0,0,0.0,brandon-allen-1
+Dustin Almond,2005-10-29,7,Southern Mississippi,@,North Carolina State,L,15,35,42.9,177,1,0,94.8,dustin-almond-1
+Joel Armstrong,2005-10-29,7,Rice,,Texas-El Paso,L,3,9,33.3,25,0,0,56.7,joel-armstrong-1
+Zack Asack,2005-10-29,9,Duke,,Wake Forest,L,9,17,52.9,97,1,1,108.5,zack-asack-1
+Jerry Babb,2005-10-29,8,Louisiana,,Troy,W,3,10,30.0,48,0,0,70.3,jerry-babb-1
+Matt Baker,2005-10-29,7,North Carolina,@,Miami (FL),L,10,18,55.6,74,0,0,90.1,matt-baker-1
+Reggie Ball,2005-10-29,7,Georgia Tech,,Clemson,W,14,23,60.9,126,0,1,98.2,reggie-ball-1
+Jeff Ballard,2005-10-29,9,Texas Christian,@,San Diego State,W,13,23,56.5,112,0,2,80.0,jeff-ballard-1
+Brett Basanez,2005-10-29,8,Northwestern,,Michigan,L,26,49,53.1,326,2,2,114.3,brett-basanez-1
+John Beck,2005-10-29,8,Brigham Young,,Air Force,W,31,43,72.1,383,3,1,165.3,john-beck-1
+Shawn Bell,2005-10-29,8,Baylor,,Texas Tech,L,13,21,61.9,127,0,2,93.7,shawn-bell-1
+Josh Betts,2005-10-29,8,Miami (OH),@,Temple,W,28,40,70.0,379,3,0,174.3,josh-betts-1
+Rhett Bomar,2005-10-29,8,Oklahoma,@,Nebraska,W,14,28,50.0,157,0,0,97.1,rhett-bomar-1
+John David Booty,2005-10-29,8,Southern California,,Washington State,W,5,6,83.3,69,0,0,179.9,john-david-booty-1
+Joey Bozich,2005-10-29,7,North Carolina,@,Miami (FL),L,3,6,50.0,12,0,1,33.5,joey-bozich-1
+Tim Brasic,2005-10-29,8,Illinois,,Wisconsin,L,20,39,51.3,277,2,1,122.7,tim-brasic-1
+Colt Brennan,2005-10-29,8,Hawaii,,Fresno State,L,35,54,64.8,327,1,2,114.4,colt-brennan-1
+Alex Brink,2005-10-29,8,Washington State,@,Southern California,L,9,17,52.9,64,0,0,84.6,alex-brink-1
+Jon Brown,2005-10-29,8,Kent State,@,Western Michigan,L,1,4,25.0,6,0,0,37.6,jon-brown-1
+Thomas Brown,2005-10-29,8,Georgia,N,Florida,L,1,1,100.0,9,1,0,505.6,thomas-brown-1
+Derrick Bush,2005-10-29,8,Kent State,@,Western Michigan,L,1,1,100.0,31,1,0,690.4,derrick-bush-1
+Reggie Bush,2005-10-29,8,Southern California,,Washington State,W,0,1,0.0,0,0,0,0.0,reggie-bush-1
+Nick Cannon,2005-10-29,7,Tulane,,Marshall,L,2,5,40.0,49,0,0,122.3,nick-cannon-1
+Shaun Carney,2005-10-29,9,Air Force,@,Brigham Young,L,4,7,57.1,14,0,1,45.4,shaun-carney-1
+Rudy Carpenter,2005-10-29,8,Arizona State,,Washington,W,27,34,79.4,401,3,0,207.6,rudy-carpenter-1
+Rick Clausen,2005-10-29,7,Tennessee,,South Carolina,L,5,11,45.5,34,0,1,53.2,rick-clausen-1
+Chase Clement,2005-10-29,7,Rice,,Texas-El Paso,L,6,10,60.0,83,1,0,162.7,chase-clement-2
+Omarr Conner,2005-10-29,8,Mississippi State,@,Kentucky,L,1,6,16.7,2,0,0,19.5,omarr-conner-1
+Brandon Cox,2005-10-29,8,Auburn,,Mississippi,W,17,27,63.0,205,1,0,139.0,brandon-cox-1
+Brodie Croyle,2005-10-29,8,Alabama,,Utah State,W,22,31,71.0,279,3,0,178.5,brodie-croyle-1
+Bryan Cupito,2005-10-29,8,Minnesota,,Ohio State,L,26,35,74.3,396,1,0,178.8,bryan-cupito-1
+Chase Daniel,2005-10-29,8,Missouri,@,Kansas,L,1,2,50.0,6,0,0,75.2,chase-daniel-1
+Kenneth Debauche,2005-10-29,9,Wisconsin,@,Illinois,W,0,1,0.0,0,0,0,0.0,kenneth-debauche-1
+Joe Desanzo,2005-10-29,9,Temple,,Miami (OH),L,4,12,33.3,26,0,0,51.5,joe-desanzo-1
+Michael Desormeaux,2005-10-29,8,Louisiana,,Troy,W,6,10,60.0,86,0,0,132.2,michael-desormeaux-1
+Johnny Durocher,2005-10-29,8,Washington,@,Arizona State,L,2,6,33.3,14,0,1,19.6,johnny-durocher-1
+Trent Edwards,2005-10-29,7,Stanford,,UCLA,L,18,25,72.0,169,2,0,155.2,trent-edwards-1
+Austen Everson,2005-10-29,8,Ohio,@,Buffalo,W,8,14,57.1,105,2,0,167.3,austen-everson-1
+Allan Evridge,2005-10-29,8,Kansas State,,Colorado,L,19,40,47.5,211,0,0,91.8,allan-evridge-1
+Blake Field,2005-10-29,8,Auburn,,Mississippi,W,1,1,100.0,6,0,0,150.4,blake-field-1
+Joe Fields,2005-10-29,8,Syracuse,,Cincinnati,L,5,9,55.6,131,0,0,177.8,joe-fields-1
+Adam Fitch,2005-10-29,9,Air Force,@,Brigham Young,L,13,24,54.2,265,5,2,199.0,adam-fitch-1
+Ethan Flatt,2005-10-29,8,Mississippi,@,Auburn,L,11,17,64.7,81,0,0,104.7,ethan-flatt-1
+Matt Flynn,2005-10-29,7,Louisiana State,,North Texas,W,7,7,100.0,139,3,0,408.2,matt-flynn-1
+Julian Foster,2005-10-29,8,Troy,@,Louisiana,L,7,19,36.8,104,1,1,89.7,julian-foster-1
+Kirby Freeman,2005-10-29,7,Miami (FL),,North Carolina,W,0,1,0.0,0,0,0,0.0,kirby-freeman-1
+Luke Getsy,2005-10-29,8,Akron,@,Bowling Green State,W,15,29,51.7,205,1,0,122.5,luke-getsy-1
+Royal Gill,2005-10-29,8,New Mexico State,,Idaho,L,1,7,14.3,1,0,0,15.5,royal-gill-1
+Bruce Gradkowski,2005-10-29,8,Toledo,@,Central Michigan,L,28,45,62.2,262,2,0,125.8,bruce-gradkowski-1
+Dustin Grutza,2005-10-29,8,Cincinnati,@,Syracuse,W,16,25,64.0,150,1,0,127.6,dustin-grutza-1
+Robbie Haas,2005-10-29,8,Western Michigan,,Kent State,W,1,2,50.0,3,0,0,62.6,robbie-haas-1
+Bush Hamdan,2005-10-29,8,Boise State,,Nevada,W,0,3,0.0,0,0,1,-66.7,bush-hamdan-1
+Justin Harper,2005-10-29,8,Central Michigan,,Toledo,W,0,1,0.0,0,0,0,0.0,justin-harper-1
+Ryan Hart,2005-10-29,8,Rutgers,,Navy,W,18,21,85.7,221,0,0,174.1,ryan-hart-1
+Michael Henig,2005-10-29,8,Mississippi State,@,Kentucky,L,16,31,51.6,200,0,0,105.8,michael-henig-1
+Chad Henne,2005-10-29,9,Michigan,@,Northwestern,W,17,30,56.7,174,1,3,96.4,chad-henne-1
+Tim Hiller,2005-10-29,8,Western Michigan,,Kent State,W,19,29,65.5,246,2,2,145.7,tim-hiller-1
+Cody Hodges,2005-10-29,8,Texas Tech,@,Baylor,W,22,44,50.0,264,1,2,98.8,cody-hodges-1
+Allan Holland,2005-10-29,9,Wake Forest,@,Duke,W,0,1,0.0,0,0,0,0.0,allan-holland-1
+Sam Hollenbach,2005-10-29,8,Maryland,@,Florida State,L,1,1,100.0,29,0,0,343.6,sam-hollenbach-1
+Phil Horvath,2005-10-29,8,Northern Illinois,,Ball State,L,21,31,67.7,163,1,1,116.1,phil-horvath-1
+Brian Hoyer,2005-10-29,8,Michigan State,,Indiana,W,1,2,50.0,12,0,0,100.4,brian-hoyer-1
+Leon Jackson III,2005-10-29,7,Utah State,@,Alabama,L,11,28,39.3,147,0,1,76.2,leon-jackson-iii-1
+Brandon Jones,2005-10-29,8,Ohio,@,Buffalo,W,4,5,80.0,62,1,0,250.2,brandon-jones-2
+Marcus Jones,2005-10-29,9,Duke,,Wake Forest,L,1,2,50.0,-3,0,0,37.4,marcus-jones-1
+Brandon Kirsch,2005-10-29,8,Purdue,@,Penn State,L,11,21,52.4,102,0,1,83.7,brandon-kirsch-1
+Joel Klatt,2005-10-29,8,Colorado,@,Kansas State,W,17,34,50.0,272,1,0,126.9,joel-klatt-1
+Mike Kokal,2005-10-29,8,Miami (OH),@,Temple,W,1,1,100.0,0,0,0,100.0,mike-kokal-1
+Matt Kubik,2005-10-29,7,Louisiana Tech,,San Jose State,W,18,33,54.5,329,2,1,152.2,matt-kubik-1
+Chris Leak,2005-10-29,8,Florida,N,Georgia,W,15,20,75.0,108,1,0,136.9,chris-leak-1
+Matt Leinart,2005-10-29,8,Southern California,,Washington State,W,24,34,70.6,364,3,1,183.8,matt-leinart-1
+Dante Love,2005-10-29,8,Ball State,@,Northern Illinois,W,0,1,0.0,0,0,0,0.0,dante-love-1
+Joey Lynch,2005-10-29,8,Ball State,@,Northern Illinois,W,23,33,69.7,186,3,1,141.0,joey-lynch-1
+Michael Machen,2005-10-29,8,Kent State,@,Western Michigan,L,25,45,55.6,336,1,2,116.7,michael-machen-1
+Ben Mauk,2005-10-29,9,Wake Forest,@,Duke,W,11,22,50.0,138,0,1,93.6,ben-mauk-1
+Graeme McFarland,2005-10-29,8,Indiana,@,Michigan State,L,5,8,62.5,34,1,0,139.5,graeme-mcfarland-1
+Mike McGann,2005-10-29,9,Temple,,Miami (OH),L,6,12,50.0,94,0,2,82.5,mike-mcgann-1
+Stephen McGee,2005-10-29,8,Texas A&M,,Iowa State,L,0,2,0.0,0,0,0,0.0,stephen-mcgee-1
+Kenny McKinley,2005-10-29,8,South Carolina,@,Tennessee,W,0,1,0.0,0,0,0,0.0,kenny-mckinley-1
+Reggie McNeal,2005-10-29,8,Texas A&M,,Iowa State,L,23,39,59.0,221,1,2,104.8,reggie-mcneal-1
+Carl Meadows,2005-10-29,8,Troy,@,Louisiana,L,4,7,57.1,33,1,0,143.9,carl-meadows-1
+Daniel Meager,2005-10-29,7,North Texas,@,Louisiana State,L,13,28,46.4,101,0,1,69.6,daniel-meager-1
+Bret Meyer,2005-10-29,8,Iowa State,@,Texas A&M,W,20,32,62.5,371,4,0,201.1,bret-meyer-1
+Kurt Milne,2005-10-29,8,Hawaii,,Fresno State,L,0,1,0.0,0,0,0,0.0,kurt-milne-1
+Blake Mitchell,2005-10-29,8,South Carolina,@,Tennessee,W,22,36,61.1,242,2,1,130.4,blake-mitchell-1
+Steven Moffett,2005-10-29,8,Central Florida,@,East Carolina,W,10,25,40.0,181,2,0,127.2,steven-moffett-1
+Matt Moore,2005-10-29,8,Oregon State,,Arizona,L,32,43,74.4,436,1,6,139.4,matt-moore-1
+Travis Moore,2005-10-29,7,Nevada,@,Boise State,L,2,4,50.0,14,0,1,29.4,travis-moore-1
+Bernard Morris,2005-10-29,8,Marshall,@,Tulane,W,2,3,66.7,35,0,0,164.7,bernard-morris-1
+Matt Nordgren,2005-10-29,8,Texas,@,Oklahoma State,W,0,1,0.0,0,0,0,0.0,matt-nordgren-1
+Kevin O'Connell,2005-10-29,9,San Diego State,,Texas Christian,L,25,46,54.3,235,1,2,95.7,kevin-oconnell-2
+Drew Olson,2005-10-29,8,UCLA,@,Stanford,W,24,35,68.6,293,2,0,157.7,drew-olson-1
+Lamar Owens,2005-10-29,7,Navy,@,Rutgers,L,9,20,45.0,124,1,2,93.6,lamar-owens-2
+Curtis Painter,2005-10-29,8,Purdue,@,Penn State,L,6,17,35.3,60,0,0,64.9,curtis-painter-1
+Jordan Palmer,2005-10-29,7,Texas-El Paso,@,Rice,W,24,30,80.0,387,3,2,208.0,jordan-palmer-1
+Terrance Parks,2005-10-29,8,Baylor,,Texas Tech,L,8,17,47.1,77,0,1,73.3,terrance-parks-1
+Perry Patterson,2005-10-29,8,Syracuse,,Cincinnati,L,9,17,52.9,154,0,0,129.0,perry-patterson-1
+Chris Pazan,2005-10-29,8,Illinois,,Wisconsin,L,0,1,0.0,0,0,0,0.0,chris-pazan-1
+Al Pena,2005-10-29,8,Oklahoma State,,Texas,L,12,27,44.4,152,2,0,116.2,al-pena-1
+Matt Phillips,2005-10-29,7,North Texas,@,Louisiana State,L,0,1,0.0,0,0,0,0.0,matt-phillips-1
+Paul Pinegar,2005-10-29,7,Fresno State,@,Hawaii,W,15,25,60.0,213,1,2,128.8,paul-pinegar-1
+James Pinkney,2005-10-29,8,East Carolina,,Central Florida,L,24,46,52.2,270,0,3,88.4,james-pinkney-1
+Blake Powers,2005-10-29,8,Indiana,@,Michigan State,L,20,35,57.1,198,1,3,96.9,blake-powers-1
+Lester Ricard,2005-10-29,7,Tulane,,Marshall,L,7,17,41.2,97,1,1,96.8,lester-ricard-1
+Michael Robinson,2005-10-29,9,Penn State,,Purdue,W,13,29,44.8,213,0,0,106.5,michael-robinson-1
+Gary Rogers,2005-10-29,8,Washington State,@,Southern California,L,2,5,40.0,12,0,0,60.2,gary-rogers-1
+Cory Ross,2005-10-29,8,Nebraska,,Oklahoma,L,1,1,100.0,18,1,0,581.2,cory-ross-1
+Jeff Rowe,2005-10-29,7,Nevada,@,Boise State,L,21,38,55.3,307,1,4,110.8,jeff-rowe-1
+Gary Russell,2005-10-29,8,Minnesota,,Ohio State,L,0,1,0.0,0,0,0,0.0,gary-russell-1
+JaMarcus Russell,2005-10-29,7,Louisiana State,,North Texas,W,17,21,81.0,244,1,1,184.7,jamarcus-russell-1
+Mike Schneider,2005-10-29,9,Duke,,Wake Forest,L,7,10,70.0,59,0,1,99.6,mike-schneider-1
+Josiah Sears,2005-10-29,8,Indiana,@,Michigan State,L,0,1,0.0,0,0,0,0.0,josiah-sears-1
+Jimmy Skinner,2005-10-29,8,Marshall,@,Tulane,W,15,29,51.7,117,1,3,76.3,jimmy-skinner-1
+Brad Smith,2005-10-29,8,Missouri,@,Kansas,L,14,37,37.8,141,0,1,64.4,brad-smith-1
+Kent Smith,2005-10-29,8,Central Michigan,,Toledo,W,20,36,55.6,189,2,1,112.4,kent-smith-1
+Troy Smith,2005-10-29,8,Ohio State,@,Minnesota,W,14,20,70.0,233,3,0,217.4,troy-smith-1
+Micheal Spurlock,2005-10-29,8,Mississippi,@,Auburn,L,10,18,55.6,105,0,1,93.4,micheal-spurlock-1
+Isaiah Stanback,2005-10-29,8,Washington,@,Arizona State,L,8,20,40.0,171,0,1,101.8,isaiah-stanback-1
+Drew Stanton,2005-10-29,8,Michigan State,,Indiana,W,17,31,54.8,244,2,1,135.8,drew-stanton-1
+Joel Statham,2005-10-29,8,Maryland,@,Florida State,L,15,29,51.7,177,2,1,118.9,joel-statham-1
+John Stocco,2005-10-29,9,Wisconsin,@,Illinois,W,14,22,63.6,225,1,0,164.5,john-stocco-1
+Marcus Stone,2005-10-29,7,North Carolina State,,Southern Mississippi,W,10,26,38.5,128,1,2,77.1,marcus-stone-1
+Chansi Stuckey,2005-10-29,8,Clemson,@,Georgia Tech,L,0,1,0.0,0,0,0,0.0,chansi-stuckey-1
+Jason Swanson,2005-10-29,8,Kansas,,Missouri,W,12,19,63.2,90,0,2,81.9,jason-swanson-1
+Josh Swogger,2005-10-29,8,Washington State,@,Southern California,L,2,3,66.7,13,0,0,103.1,josh-swogger-1
+Adam Tafralis,2005-10-29,8,San Jose State,@,Louisiana Tech,L,11,29,37.9,161,1,1,89.0,adam-tafralis-1
+Courtney Taylor,2005-10-29,8,Auburn,,Mississippi,W,1,1,100.0,28,1,0,665.2,courtney-taylor-1
+Zac Taylor,2005-10-29,8,Nebraska,,Oklahoma,L,25,45,55.6,249,2,2,107.8,zac-taylor-1
+Joe Tereshinski,2005-10-29,8,Georgia,N,Florida,L,8,21,38.1,100,0,1,68.6,joe-tereshinski-1
+Taylor Tharp,2005-10-29,8,Boise State,,Nevada,W,3,5,60.0,16,0,0,86.9,taylor-tharp-1
+Willie Tuitama,2005-10-29,8,Arizona,@,Oregon State,W,13,22,59.1,335,2,0,217.0,willie-tuitama-1
+Anthony Turner,2005-10-29,8,Bowling Green State,,Akron,L,22,30,73.3,173,1,1,126.1,anthony-turner-1
+Joey Vincent,2005-10-29,8,New Mexico State,,Idaho,L,27,43,62.8,340,3,1,147.6,joey-vincent-1
+Jerod Walker,2005-10-29,7,Utah State,@,Alabama,L,2,2,100.0,12,0,0,150.4,jerod-walker-1
+Drew Weatherford,2005-10-29,8,Florida State,,Maryland,W,27,37,73.0,264,1,2,131.0,drew-weatherford-1
+Charlie Whitehurst,2005-10-29,8,Clemson,@,Georgia Tech,L,19,29,65.5,180,0,1,110.8,charlie-whitehurst-1
+Steven Wichman,2005-10-29,8,Idaho,@,New Mexico State,W,35,54,64.8,489,4,2,157.9,steven-wichman-1
+Drew Willy,2005-10-29,8,Buffalo,,Ohio,L,24,36,66.7,293,1,1,138.6,drew-willy-1
+John Parker Wilson,2005-10-29,8,Alabama,,Utah State,W,1,5,20.0,9,1,0,101.1,john-parker-wilson-1
+Andre Woodson,2005-10-29,7,Kentucky,,Mississippi State,W,13,27,48.1,141,0,0,92.0,andre-woodson-1
+Kyle Wright,2005-10-29,7,Miami (FL),,North Carolina,W,11,16,68.8,111,0,3,89.5,kyle-wright-1
+Vince Young,2005-10-29,8,Texas,@,Oklahoma State,W,15,30,50.0,239,2,1,132.3,vince-young-1
+Jared Zabransky,2005-10-29,8,Boise State,,Nevada,W,12,16,75.0,180,2,1,198.3,jared-zabransky-1
+Maurice Avery,2005-11-01,8,Memphis,,Alabama-Birmingham,L,15,20,75.0,161,1,2,139.1,maurice-avery-1
+Darrell Hackney,2005-11-01,8,Alabama-Birmingham,@,Memphis,W,25,42,59.5,334,4,1,153.0,darrell-hackney-1
+Ryan Scott,2005-11-01,8,Memphis,,Alabama-Birmingham,L,1,1,100.0,26,0,0,318.4,ryan-scott-1
+DeAngelo Williams,2005-11-01,8,Memphis,,Alabama-Birmingham,L,0,1,0.0,0,0,0,0.0,deangelo-williams-1
+Dennis Brown,2005-11-02,8,Connecticut,@,West Virginia,L,10,19,52.6,97,0,1,85.0,dennis-brown-1
+D.J. Hernandez,2005-11-02,8,Connecticut,@,West Virginia,L,1,2,50.0,20,0,0,134.0,dj-hernandez-1
+J.R. House,2005-11-02,8,West Virginia,,Connecticut,W,2,2,100.0,38,0,0,259.6,jr-house-1
+Pat White,2005-11-02,8,West Virginia,,Connecticut,W,7,16,43.8,106,1,1,107.5,pat-white-1
+Brian Brohm,2005-11-03,8,Louisville,,Pittsburgh,W,21,31,67.7,247,0,0,134.7,brian-brohm-1
+Tyler Palko,2005-11-03,9,Pittsburgh,@,Louisville,L,17,30,56.7,198,1,0,123.1,tyler-palko-1
+Austen Everson,2005-11-04,9,Ohio,,Toledo,L,13,22,59.1,148,0,2,97.4,austen-everson-1
+Bruce Gradkowski,2005-11-04,9,Toledo,@,Ohio,W,22,31,71.0,236,2,1,149.8,bruce-gradkowski-1
+Brandon Jones,2005-11-04,9,Ohio,,Toledo,L,0,1,0.0,0,0,0,0.0,brandon-jones-2
+Erik Ainge,2005-11-05,8,Tennessee,@,Notre Dame,L,13,32,40.6,187,1,2,87.5,erik-ainge-1
+David Anderson,2005-11-05,9,Colorado State,@,Texas Christian,L,0,1,0.0,0,0,0,0.0,david-anderson-1
+Joel Armstrong,2005-11-05,8,Rice,@,Southern Methodist,L,2,4,50.0,16,0,0,83.6,joel-armstrong-1
+Zack Asack,2005-11-05,10,Duke,@,Clemson,L,26,43,60.5,328,1,1,127.6,zack-asack-1
+Joe Ayoob,2005-11-05,9,California,@,Oregon,L,10,26,38.5,88,0,3,43.8,joe-ayoob-1
+Jerry Babb,2005-11-05,9,Louisiana,@,North Texas,W,8,11,72.7,109,0,1,137.8,jerry-babb-1
+Matt Baker,2005-11-05,8,North Carolina,,Boston College,W,20,32,62.5,211,0,1,111.6,matt-baker-1
+Reggie Ball,2005-11-05,8,Georgia Tech,,Wake Forest,W,12,27,44.4,200,2,0,131.1,reggie-ball-1
+Jeff Ballard,2005-11-05,10,Texas Christian,,Colorado State,W,13,25,52.0,160,1,0,119.0,jeff-ballard-1
+Brett Basanez,2005-11-05,9,Northwestern,,Iowa,W,31,51,60.8,338,2,2,121.6,brett-basanez-1
+John Beck,2005-11-05,9,Brigham Young,@,Nevada-Las Vegas,W,23,34,67.6,267,3,0,162.7,john-beck-1
+Matt Berry,2005-11-05,9,Brigham Young,@,Nevada-Las Vegas,W,1,1,100.0,12,0,0,200.8,matt-berry-1
+Josh Betts,2005-11-05,9,Miami (OH),,Buffalo,W,23,38,60.5,276,4,0,156.3,josh-betts-1
+Matt Bohnet,2005-11-05,9,Eastern Michigan,,Western Michigan,L,40,58,69.0,399,4,1,146.1,matt-bohnet-1
+John David Booty,2005-11-05,9,Southern California,,Stanford,W,7,10,70.0,86,0,0,142.2,john-david-booty-1
+Corey Bramlet,2005-11-05,9,Wyoming,@,Utah,L,15,30,50.0,133,1,1,91.6,corey-bramlet-1
+Tom Brandstater,2005-11-05,8,Fresno State,,San Jose State,W,1,1,100.0,2,0,0,116.8,tom-brandstater-1
+Tim Brasic,2005-11-05,9,Illinois,@,Ohio State,L,18,24,75.0,92,0,0,107.2,tim-brasic-1
+Colt Brennan,2005-11-05,9,Hawaii,@,Nevada,L,29,43,67.4,409,3,1,165.7,colt-brennan-1
+Alex Brink,2005-11-05,9,Washington State,,Arizona State,L,21,35,60.0,283,1,1,131.6,alex-brink-1
+Kevin Brown,2005-11-05,9,San Jose State,@,Fresno State,L,3,7,42.9,35,0,0,84.9,kevin-brown-4
+Rudy Burgess,2005-11-05,9,Arizona State,@,Washington State,W,1,1,100.0,43,1,0,791.2,rudy-burgess-1
+Shaun Carney,2005-11-05,10,Air Force,,Army,L,16,21,76.2,194,1,0,169.5,shaun-carney-1
+Rudy Carpenter,2005-11-05,9,Arizona State,@,Washington State,W,28,43,65.1,381,2,1,150.2,rudy-carpenter-1
+Cole Chason,2005-11-05,9,Clemson,,Duke,W,0,1,0.0,0,0,0,0.0,cole-chason-1
+Colin Clancy,2005-11-05,10,Temple,@,Virginia,L,0,1,0.0,0,0,0,0.0,colin-clancy-1
+Sean Clayton,2005-11-05,9,Florida Atlantic,@,Troy,L,3,5,60.0,39,0,0,125.5,sean-clayton-1
+Chase Clement,2005-11-05,8,Rice,@,Southern Methodist,L,8,27,29.6,48,1,1,49.4,chase-clement-2
+Omarr Conner,2005-11-05,9,Mississippi State,,Alabama,L,1,2,50.0,-1,0,0,45.8,omarr-conner-1
+Brandon Cox,2005-11-05,9,Auburn,@,Kentucky,W,13,21,61.9,201,1,0,158.0,brandon-cox-1
+James Cox,2005-11-05,9,Colorado,,Missouri,W,1,1,100.0,7,0,0,158.8,james-cox-1
+Brodie Croyle,2005-11-05,9,Alabama,@,Mississippi State,W,14,22,63.6,116,0,2,89.7,brodie-croyle-1
+Bryan Cupito,2005-11-05,9,Minnesota,@,Indiana,W,16,26,61.5,225,1,0,146.9,bryan-cupito-1
+Jay Cutler,2005-11-05,9,Vanderbilt,@,Florida,L,28,42,66.7,361,4,2,160.8,jay-cutler-1
+Zac Dahman,2005-11-05,8,Army,@,Air Force,W,13,23,56.5,143,0,0,108.7,zac-dahman-1
+Chase Daniel,2005-11-05,9,Missouri,@,Colorado,L,8,15,53.3,57,0,1,71.9,chase-daniel-1
+Joe Desanzo,2005-11-05,10,Temple,@,Virginia,L,7,16,43.8,69,0,0,80.0,joe-desanzo-1
+Casey Dick,2005-11-05,8,Arkansas,,South Carolina,L,12,24,50.0,137,1,1,103.4,casey-dick-1
+Dennis Dixon,2005-11-05,9,Oregon,,California,W,15,26,57.7,139,1,1,107.6,dennis-dixon-1
+Johnny Durocher,2005-11-05,9,Washington,,Oregon State,L,11,30,36.7,103,1,1,69.8,johnny-durocher-1
+Trent Edwards,2005-11-05,8,Stanford,@,Southern California,L,21,35,60.0,245,1,3,111.1,trent-edwards-1
+Scott Elliott,2005-11-05,8,Tulane,@,Navy,L,13,26,50.0,109,1,1,90.2,scott-elliott-1
+Danny Embick,2005-11-05,9,Florida Atlantic,@,Troy,L,18,32,56.3,177,2,1,117.1,danny-embick-1
+Allan Evridge,2005-11-05,9,Kansas State,@,Iowa State,L,17,30,56.7,221,1,2,116.2,allan-evridge-1
+Adam Fitch,2005-11-05,10,Air Force,,Army,L,1,2,50.0,9,0,0,87.8,adam-fitch-1
+Julian Foster,2005-11-05,9,Troy,,Florida Atlantic,W,17,27,63.0,271,3,0,183.9,julian-foster-1
+Kirby Freeman,2005-11-05,8,Miami (FL),@,Virginia Tech,W,2,3,66.7,6,0,0,83.5,kirby-freeman-1
+Luke Getsy,2005-11-05,9,Akron,@,Ball State,L,22,44,50.0,285,2,1,114.9,luke-getsy-1
+Tyler Graunke,2005-11-05,9,Hawaii,@,Nevada,L,1,3,33.3,6,0,0,50.1,tyler-graunke-1
+J.P. Greco,2005-11-05,9,San Jose State,@,Fresno State,L,0,8,0.0,0,0,0,0.0,jp-greco-1
+Eugene Gross,2005-11-05,7,Middle Tennessee State,,Arkansas State,W,1,1,100.0,8,0,0,167.2,eugene-gross-1
+Marques Hagans,2005-11-05,8,Virginia,,Temple,W,10,18,55.6,132,0,1,106.0,marques-hagans-1
+Bush Hamdan,2005-11-05,9,Boise State,,New Mexico State,W,2,2,100.0,24,1,0,365.8,bush-hamdan-1
+Brian Hampton,2005-11-05,8,Navy,,Tulane,W,0,1,0.0,0,0,1,-200.0,brian-hampton-1
+Cullen Harper,2005-11-05,9,Clemson,,Duke,W,1,2,50.0,15,0,0,113.0,cullen-harper-1
+Graham Harrell,2005-11-05,9,Texas Tech,,Texas A&M,W,3,4,75.0,25,1,0,210.0,graham-harrell-1
+Josh Harris,2005-11-05,7,Middle Tennessee State,,Arkansas State,W,3,4,75.0,50,0,0,180.0,josh-harris-1
+Ryan Hart,2005-11-05,9,Rutgers,,South Florida,L,15,25,60.0,217,3,3,148.5,ryan-hart-1
+Michael Henig,2005-11-05,9,Mississippi State,,Alabama,L,9,28,32.1,78,0,3,34.1,michael-henig-1
+Tim Hiller,2005-11-05,9,Western Michigan,@,Eastern Michigan,W,23,31,74.2,243,4,0,182.6,tim-hiller-1
+Cody Hodges,2005-11-05,9,Texas Tech,,Texas A&M,W,29,44,65.9,408,2,1,154.3,cody-hodges-1
+Justin Holland,2005-11-05,9,Colorado State,@,Texas Christian,L,22,38,57.9,194,0,4,79.7,justin-holland-1
+Devin Hollins,2005-11-05,8,Arkansas State,@,Middle Tennessee State,L,1,4,25.0,12,0,0,50.2,devin-hollins-1
+Phil Horvath,2005-11-05,9,Northern Illinois,@,Central Michigan,W,12,16,75.0,115,1,0,156.0,phil-horvath-1
+Leon Jackson III,2005-11-05,8,Utah State,,Louisiana Tech,L,27,44,61.4,372,0,0,132.4,leon-jackson-iii-1
+Jarrod Jackson,2005-11-05,9,Nevada-Las Vegas,,Brigham Young,L,31,52,59.6,329,1,3,107.6,jarrod-jackson-1
+Brian Johnson,2005-11-05,9,Utah,,Wyoming,W,32,45,71.1,384,4,0,172.1,brian-johnson-2
+Van Johnson,2005-11-05,9,Bowling Green State,@,Kent State,W,0,1,0.0,0,0,0,0.0,van-johnson-1
+Pat Julmiste,2005-11-05,7,South Florida,@,Rutgers,W,13,21,61.9,135,0,0,115.9,pat-julmiste-1
+Steven Jyles,2005-11-05,8,Louisiana-Monroe,,Florida International,L,32,49,65.3,384,1,1,133.8,steven-jyles-1
+Tremayne Kirkland,2005-11-05,9,Nevada-Las Vegas,,Brigham Young,L,0,1,0.0,0,0,0,0.0,tremayne-kirkland-1
+Joel Klatt,2005-11-05,9,Colorado,,Missouri,W,23,31,74.2,253,1,0,153.4,joel-klatt-1
+Mike Kokal,2005-11-05,9,Miami (OH),,Buffalo,W,3,7,42.9,22,0,1,40.7,mike-kokal-1
+Kevin Kolb,2005-11-05,8,Houston,@,Central Florida,L,19,30,63.3,313,2,1,166.3,kevin-kolb-1
+Matt Kubik,2005-11-05,8,Louisiana Tech,@,Utah State,W,16,26,61.5,150,1,0,122.7,matt-kubik-1
+Brady Leaf,2005-11-05,9,Oregon,,California,W,9,13,69.2,93,1,0,154.7,brady-leaf-1
+Chris Leak,2005-11-05,9,Florida,,Vanderbilt,W,32,41,78.0,257,3,0,154.8,chris-leak-1
+Xavier Lee,2005-11-05,9,Florida State,,North Carolina State,L,1,7,14.3,3,0,0,17.9,xavier-lee-1
+Matt Leinart,2005-11-05,9,Southern California,,Stanford,W,22,28,78.6,259,4,0,203.4,matt-leinart-1
+Joey Lynch,2005-11-05,9,Ball State,,Akron,W,18,29,62.1,145,1,0,115.4,joey-lynch-1
+Michael Machen,2005-11-05,9,Kent State,,Bowling Green State,L,27,39,69.2,222,2,1,128.8,michael-machen-1
+Jason Manson,2005-11-05,9,Iowa,@,Northwestern,L,2,2,100.0,3,0,0,112.6,jason-manson-1
+Clint Marks,2005-11-05,7,Middle Tennessee State,,Arkansas State,W,14,23,60.9,208,3,1,171.2,clint-marks-1
+Kevin McCabe,2005-11-05,8,Virginia,,Temple,W,3,5,60.0,31,0,0,112.1,kevin-mccabe-1
+Mike McGann,2005-11-05,10,Temple,@,Virginia,L,9,20,45.0,91,0,1,73.2,mike-mcgann-1
+Stephen McGee,2005-11-05,9,Texas A&M,@,Texas Tech,L,0,1,0.0,0,0,0,0.0,stephen-mcgee-1
+Reggie McNeal,2005-11-05,9,Texas A&M,@,Texas Tech,L,15,24,62.5,131,1,1,113.8,reggie-mcneal-1
+Daniel Meager,2005-11-05,8,North Texas,,Louisiana,L,8,14,57.1,112,1,1,133.6,daniel-meager-1
+Bret Meyer,2005-11-05,9,Iowa State,,Kansas State,W,16,23,69.6,194,3,0,183.5,bret-meyer-1
+Blake Mitchell,2005-11-05,9,South Carolina,@,Arkansas,W,12,25,48.0,142,2,0,122.1,blake-mitchell-1
+Steven Moffett,2005-11-05,9,Central Florida,,Houston,W,21,30,70.0,275,2,1,162.3,steven-moffett-1
+Matt Moore,2005-11-05,9,Oregon State,@,Washington,W,17,27,63.0,136,0,0,105.3,matt-moore-1
+Dan Nicholson,2005-11-05,9,Northern Illinois,@,Central Michigan,W,19,27,70.4,320,2,1,187.0,dan-nicholson-1
+Nick Noce,2005-11-05,8,Arkansas State,@,Middle Tennessee State,L,15,24,62.5,107,1,1,105.4,nick-noce-1
+Christian Olsen,2005-11-05,8,Virginia,,Temple,W,4,6,66.7,24,0,1,66.9,christian-olsen-1
+Ben Olson,2005-11-05,9,UCLA,@,Arizona,L,2,3,66.7,11,0,0,97.5,ben-olson-1
+Drew Olson,2005-11-05,9,UCLA,@,Arizona,L,23,38,60.5,232,2,0,129.2,drew-olson-1
+T.C. Ostrander,2005-11-05,8,Stanford,@,Southern California,L,4,6,66.7,34,0,0,114.3,tc-ostrander-1
+Lamar Owens,2005-11-05,8,Navy,,Tulane,W,1,2,50.0,29,0,0,171.8,lamar-owens-2
+Josh Padrick,2005-11-05,7,Florida International,@,Louisiana-Monroe,W,21,35,60.0,235,3,0,144.7,josh-padrick-1
+Curtis Painter,2005-11-05,9,Purdue,,Michigan State,W,20,32,62.5,226,1,0,132.1,curtis-painter-1
+Jordan Palmer,2005-11-05,8,Texas-El Paso,,Tulsa,W,25,34,73.5,340,2,2,165.2,jordan-palmer-1
+Tony Paoli,2005-11-05,9,Buffalo,@,Miami (OH),L,6,8,75.0,93,1,0,213.9,tony-paoli-1
+Terrance Parks,2005-11-05,9,Baylor,,Texas,L,10,23,43.5,89,0,2,58.6,terrance-parks-1
+Corey Partridge,2005-11-05,9,Bowling Green State,@,Kent State,W,1,1,100.0,36,0,0,402.4,corey-partridge-1
+Paul Pinegar,2005-11-05,8,Fresno State,,San Jose State,W,22,35,62.9,368,3,0,179.5,paul-pinegar-1
+Quinton Porter,2005-11-05,9,Boston College,@,North Carolina,L,16,26,61.5,144,0,0,108.1,quinton-porter-1
+Blake Powers,2005-11-05,9,Indiana,,Minnesota,L,26,43,60.5,253,0,1,105.2,blake-powers-1
+Will Proctor,2005-11-05,9,Clemson,,Duke,W,13,21,61.9,201,2,0,173.7,will-proctor-1
+Brady Quinn,2005-11-05,8,Notre Dame,,Tennessee,W,20,33,60.6,295,3,0,165.7,brady-quinn-1
+Cory Randolph,2005-11-05,10,Wake Forest,@,Georgia Tech,L,19,33,57.6,160,1,1,102.2,cory-randolph-1
+Lester Ricard,2005-11-05,8,Tulane,@,Navy,L,2,7,28.6,27,0,2,3.8,lester-ricard-1
+Michael Robinson,2005-11-05,10,Penn State,,Wisconsin,W,13,28,46.4,238,2,2,127.1,michael-robinson-1
+Jerad Romo,2005-11-05,9,Southern Methodist,,Rice,W,9,17,52.9,111,0,0,107.8,jerad-romo-1
+Cory Ross,2005-11-05,9,Nebraska,@,Kansas,L,0,1,0.0,0,0,0,0.0,cory-ross-1
+Jeff Rowe,2005-11-05,8,Nevada,,Hawaii,W,20,36,55.6,204,2,0,121.5,jeff-rowe-1
+JaMarcus Russell,2005-11-05,8,Louisiana State,,Appalachian State,W,16,22,72.7,208,2,0,182.1,jamarcus-russell-1
+Matt Ryan,2005-11-05,9,Boston College,@,North Carolina,L,10,14,71.4,93,1,0,150.8,matt-ryan-1
+Brad Smith,2005-11-05,9,Missouri,@,Colorado,L,19,29,65.5,160,1,0,123.2,brad-smith-1
+Kent Smith,2005-11-05,9,Central Michigan,,Northern Illinois,L,33,51,64.7,382,4,0,153.5,kent-smith-1
+Paul Smith,2005-11-05,9,Tulsa,@,Texas-El Paso,L,23,40,57.5,263,1,1,116.0,paul-smith-2
+Troy Smith,2005-11-05,9,Ohio State,,Illinois,W,13,21,61.9,298,3,0,228.2,troy-smith-1
+Isaiah Stanback,2005-11-05,9,Washington,,Oregon State,L,5,12,41.7,104,0,0,114.5,isaiah-stanback-1
+Drew Stanton,2005-11-05,9,Michigan State,@,Purdue,L,22,30,73.3,248,1,1,147.1,drew-stanton-1
+John Stocco,2005-11-05,10,Wisconsin,@,Penn State,L,19,34,55.9,313,1,2,131.2,john-stocco-1
+Marcus Stone,2005-11-05,8,North Carolina State,@,Florida State,W,9,17,52.9,85,1,0,114.4,marcus-stone-1
+Jason Swanson,2005-11-05,9,Kansas,,Nebraska,W,16,27,59.3,215,2,1,143.2,jason-swanson-1
+Adam Tafralis,2005-11-05,9,San Jose State,@,Fresno State,L,2,8,25.0,13,0,1,13.7,adam-tafralis-1
+Drew Tate,2005-11-05,9,Iowa,@,Northwestern,L,21,35,60.0,273,0,0,125.5,drew-tate-1
+Zac Taylor,2005-11-05,9,Nebraska,@,Kansas,L,14,26,53.8,117,1,1,96.6,zac-taylor-1
+Mike Teel,2005-11-05,9,Rutgers,,South Florida,L,1,2,50.0,16,0,1,17.2,mike-teel-1
+Taylor Tharp,2005-11-05,9,Boise State,,New Mexico State,W,4,6,66.7,59,0,0,149.3,taylor-tharp-1
+Willie Tuitama,2005-11-05,9,Arizona,,UCLA,W,14,24,58.3,204,2,0,157.2,willie-tuitama-1
+Anthony Turner,2005-11-05,9,Bowling Green State,@,Kent State,W,10,16,62.5,77,1,0,123.6,anthony-turner-1
+Marcus Vick,2005-11-05,9,Virginia Tech,,Miami (FL),L,8,22,36.4,90,0,2,52.5,marcus-vick-1
+Joey Vincent,2005-11-05,9,New Mexico State,@,Boise State,L,14,38,36.8,115,1,3,55.2,joey-vincent-1
+Drew Weatherford,2005-11-05,9,Florida State,,North Carolina State,L,19,38,50.0,181,1,3,82.9,drew-weatherford-1
+Drew Willy,2005-11-05,9,Buffalo,@,Miami (OH),L,6,16,37.5,50,0,3,26.3,drew-willy-1
+Andre Woodson,2005-11-05,8,Kentucky,,Auburn,L,26,43,60.5,335,1,1,128.9,andre-woodson-1
+Kyle Wright,2005-11-05,8,Miami (FL),@,Virginia Tech,W,13,22,59.1,146,1,1,120.7,kyle-wright-1
+Vince Young,2005-11-05,9,Texas,@,Baylor,W,16,27,59.3,298,2,0,176.4,vince-young-1
+Jared Zabransky,2005-11-05,9,Boise State,,New Mexico State,W,13,23,56.5,138,1,1,112.6,jared-zabransky-1
+Justin Zwick,2005-11-05,9,Ohio State,,Illinois,W,3,4,75.0,26,0,0,129.6,justin-zwick-1
+Dustin Almond,2005-11-08,8,Southern Mississippi,@,Marshall,W,17,28,60.7,224,1,1,132.6,dustin-almond-1
+Bernard Morris,2005-11-08,9,Marshall,,Southern Mississippi,L,7,19,36.8,71,1,1,75.1,bernard-morris-1
+Jimmy Skinner,2005-11-08,9,Marshall,,Southern Mississippi,L,11,16,68.8,147,1,0,166.6,jimmy-skinner-1
+Adam Bednarik,2005-11-09,9,West Virginia,@,Cincinnati,W,1,1,100.0,9,0,0,175.6,adam-bednarik-1
+Nick Davila,2005-11-09,9,Cincinnati,,West Virginia,L,6,8,75.0,97,0,1,151.9,nick-davila-1
+Dustin Grutza,2005-11-09,9,Cincinnati,,West Virginia,L,15,21,71.4,110,0,1,105.9,dustin-grutza-1
+Pat White,2005-11-09,9,West Virginia,@,Cincinnati,W,7,12,58.3,100,1,0,155.8,pat-white-1
+Paul Pinegar,2005-11-10,9,Fresno State,,Boise State,W,22,36,61.1,307,2,1,145.5,paul-pinegar-1
+Jared Zabransky,2005-11-10,10,Boise State,@,Fresno State,L,15,32,46.9,190,0,2,84.3,jared-zabransky-1
+Brian Brohm,2005-11-11,9,Louisville,,Rutgers,W,22,30,73.3,315,3,0,194.5,brian-brohm-1
+Hunter Cantwell,2005-11-11,9,Louisville,,Rutgers,W,1,1,100.0,24,0,0,301.6,hunter-cantwell-1
+Mike Teel,2005-11-11,10,Rutgers,@,Louisville,L,12,24,50.0,91,0,2,65.2,mike-teel-1
+Erik Ainge,2005-11-12,9,Tennessee,,Memphis,W,1,3,33.3,6,0,1,-16.5,erik-ainge-1
+Aundrae Allison,2005-11-12,9,East Carolina,@,Tulsa,L,1,1,100.0,41,0,0,444.4,aundrae-allison-1
+Joel Armstrong,2005-11-12,9,Rice,,Tulane,W,4,9,44.4,103,1,0,177.2,joel-armstrong-1
+Maurice Avery,2005-11-12,9,Memphis,@,Tennessee,L,13,29,44.8,128,0,0,81.9,maurice-avery-1
+Joe Ayoob,2005-11-12,10,California,,Southern California,L,9,19,47.4,98,0,4,48.6,joe-ayoob-1
+Jerry Babb,2005-11-12,10,Louisiana,,Florida International,W,6,6,100.0,52,0,0,172.8,jerry-babb-1
+C.J. Bacher,2005-11-12,10,Northwestern,@,Ohio State,L,3,9,33.3,32,0,0,63.2,cj-bacher-1
+Matt Baker,2005-11-12,9,North Carolina,,Maryland,L,25,40,62.5,335,1,0,141.1,matt-baker-1
+Reggie Ball,2005-11-12,9,Georgia Tech,@,Virginia,L,20,38,52.6,207,1,1,101.8,reggie-ball-1
+Jeff Ballard,2005-11-12,11,Texas Christian,,Nevada-Las Vegas,W,17,31,54.8,279,2,1,145.3,jeff-ballard-1
+Brett Basanez,2005-11-12,10,Northwestern,@,Ohio State,L,15,31,48.4,121,1,1,85.4,brett-basanez-1
+Harrison Beck,2005-11-12,10,Nebraska,,Kansas State,W,1,6,16.7,21,0,1,12.7,harrison-beck-1
+John Beck,2005-11-12,10,Brigham Young,@,Wyoming,W,20,29,69.0,179,2,0,143.6,john-beck-1
+Chris Beckman,2005-11-12,9,Tulane,@,Rice,L,0,1,0.0,0,0,0,0.0,chris-beckman-1
+Shawn Bell,2005-11-12,10,Baylor,@,Missouri,L,18,29,62.1,206,2,0,144.5,shawn-bell-1
+Matt Bohnet,2005-11-12,10,Eastern Michigan,,Ball State,L,22,32,68.8,310,1,1,154.2,matt-bohnet-1
+Rhett Bomar,2005-11-12,9,Oklahoma,,Texas A&M,W,20,28,71.4,298,1,1,165.5,rhett-bomar-1
+Matt Bonislawski,2005-11-12,9,Connecticut,@,Pittsburgh,L,18,35,51.4,156,0,3,71.7,matt-bonislawski-1
+Corey Bramlet,2005-11-12,10,Wyoming,,Brigham Young,L,20,25,80.0,241,1,2,158.2,corey-bramlet-1
+Tim Brasic,2005-11-12,10,Illinois,@,Purdue,L,8,17,47.1,49,0,2,47.7,tim-brasic-1
+Steve Breaston,2005-11-12,10,Michigan,,Indiana,W,0,1,0.0,0,0,0,0.0,steve-breaston-1
+Colt Brennan,2005-11-12,10,Hawaii,,Utah State,W,24,36,66.7,386,2,1,169.5,colt-brennan-1
+Alex Brink,2005-11-12,10,Washington State,,Oregon,L,22,33,66.7,283,3,2,156.6,alex-brink-1
+Jon Brown,2005-11-12,10,Kent State,,Buffalo,L,8,15,53.3,46,0,0,79.1,jon-brown-1
+Quinton Brown,2005-11-12,9,Syracuse,,South Florida,L,0,1,0.0,0,0,1,-200.0,quinton-brown-1
+Rudy Carpenter,2005-11-12,10,Arizona State,@,UCLA,L,27,37,73.0,334,3,0,175.6,rudy-carpenter-1
+Rick Clausen,2005-11-12,9,Tennessee,,Memphis,W,14,24,58.3,209,2,0,159.0,rick-clausen-1
+Sean Clayton,2005-11-12,10,Florida Atlantic,,North Texas,W,13,22,59.1,151,1,0,131.7,sean-clayton-1
+Chase Clement,2005-11-12,9,Rice,,Tulane,W,1,4,25.0,11,0,1,-1.9,chase-clement-2
+Brandon Cox,2005-11-12,10,Auburn,@,Georgia,W,16,28,57.1,279,0,1,133.7,brandon-cox-1
+Brodie Croyle,2005-11-12,10,Alabama,,Louisiana State,L,19,40,47.5,187,1,0,95.0,brodie-croyle-1
+Orlando Cruz,2005-11-12,9,Texas-El Paso,,Texas Southern,W,5,6,83.3,58,0,0,164.5,orlando-cruz-1
+Bryan Cupito,2005-11-12,10,Minnesota,,Michigan State,W,8,13,61.5,123,2,0,191.8,bryan-cupito-1
+Jay Cutler,2005-11-12,10,Vanderbilt,,Kentucky,L,39,66,59.1,395,5,0,134.4,jay-cutler-1
+Zac Dahman,2005-11-12,9,Army,,Massachusetts,W,22,27,81.5,224,2,1,168.2,zac-dahman-1
+P.J. Daniels,2005-11-12,9,Georgia Tech,@,Virginia,L,0,1,0.0,0,0,0,0.0,pj-daniels-1
+Michael Desormeaux,2005-11-12,10,Louisiana,,Florida International,W,5,7,71.4,53,0,0,135.0,michael-desormeaux-1
+Casey Dick,2005-11-12,9,Arkansas,@,Mississippi,W,17,24,70.8,175,3,0,173.3,casey-dick-1
+Dennis Dixon,2005-11-12,10,Oregon,@,Washington State,W,16,22,72.7,197,1,0,162.9,dennis-dixon-1
+Trent Edwards,2005-11-12,9,Stanford,@,Oregon State,W,16,28,57.1,196,2,2,125.2,trent-edwards-1
+Scott Elliott,2005-11-12,9,Tulane,@,Rice,L,22,37,59.5,298,3,1,148.5,scott-elliott-1
+Allan Evridge,2005-11-12,10,Kansas State,@,Nebraska,L,5,27,18.5,77,0,1,35.1,allan-evridge-1
+Joe Fields,2005-11-12,9,Syracuse,,South Florida,L,3,9,33.3,18,0,1,27.9,joe-fields-1
+Ethan Flatt,2005-11-12,9,Mississippi,,Arkansas,L,20,37,54.1,309,1,2,122.3,ethan-flatt-1
+Julian Foster,2005-11-12,10,Troy,@,Arkansas State,L,12,23,52.2,98,0,1,79.3,julian-foster-1
+Kirby Freeman,2005-11-12,9,Miami (FL),@,Wake Forest,W,1,4,25.0,2,0,1,-20.8,kirby-freeman-1
+Royal Gill,2005-11-12,10,New Mexico State,,Nevada,L,33,47,70.2,357,3,0,155.1,royal-gill-1
+Tyler Graunke,2005-11-12,10,Hawaii,,Utah State,W,5,8,62.5,74,1,1,156.5,tyler-graunke-1
+Eugene Gross,2005-11-12,8,Middle Tennessee State,,Louisiana-Monroe,L,0,1,0.0,0,0,0,0.0,eugene-gross-1
+Ryan Gunderson,2005-11-12,10,Oregon State,,Stanford,L,11,26,42.3,156,0,0,92.7,ryan-gunderson-1
+Matt Gutierrez,2005-11-12,10,Michigan,,Indiana,W,6,11,54.5,35,0,0,81.3,matt-gutierrez-1
+Darrell Hackney,2005-11-12,9,Alabama-Birmingham,,Central Florida,L,20,39,51.3,240,1,2,101.2,darrell-hackney-1
+Marques Hagans,2005-11-12,9,Virginia,,Georgia Tech,W,21,29,72.4,205,1,1,136.3,marques-hagans-1
+Andre Hall,2005-11-12,8,South Florida,@,Syracuse,W,0,2,0.0,0,0,0,0.0,andre-hall-1
+Mike Hamilton,2005-11-12,9,Oklahoma State,,Texas Tech,W,0,1,0.0,0,0,0,0.0,mike-hamilton-1
+Brian Hampton,2005-11-12,9,Navy,@,Notre Dame,L,1,2,50.0,17,1,0,286.4,brian-hampton-1
+Chad Henne,2005-11-12,10,Michigan,,Indiana,W,17,24,70.8,174,3,0,173.0,chad-henne-1
+Tim Hiller,2005-11-12,10,Western Michigan,,Central Michigan,W,16,29,55.2,239,4,0,169.9,tim-hiller-1
+Cody Hodges,2005-11-12,10,Texas Tech,@,Oklahoma State,L,29,42,69.0,308,1,1,133.7,cody-hodges-1
+Justin Holland,2005-11-12,10,Colorado State,,San Diego State,L,19,37,51.4,165,0,3,72.6,justin-holland-1
+Sam Hollenbach,2005-11-12,9,Maryland,@,North Carolina,W,19,31,61.3,374,3,2,181.7,sam-hollenbach-1
+Devin Hollins,2005-11-12,9,Arkansas State,,Troy,W,0,1,0.0,0,0,0,0.0,devin-hollins-1
+Lendy Holmes,2005-11-12,9,Oklahoma,,Texas A&M,W,0,1,0.0,0,0,0,0.0,lendy-holmes-1
+Chad Huffman,2005-11-12,11,Texas Christian,,Nevada-Las Vegas,W,4,4,100.0,22,0,0,146.2,chad-huffman-1
+Leon Jackson III,2005-11-12,9,Utah State,@,Hawaii,L,4,7,57.1,30,0,0,93.1,leon-jackson-iii-1
+Jarrod Jackson,2005-11-12,10,Nevada-Las Vegas,@,Texas Christian,L,12,31,38.7,152,0,1,73.4,jarrod-jackson-1
+Brian Johnson,2005-11-12,10,Utah,,New Mexico,L,17,38,44.7,360,4,1,153.8,brian-johnson-2
+David Johnson,2005-11-12,10,Tulsa,,East Carolina,W,2,3,66.7,27,0,0,142.3,david-johnson-3
+Tyler Jones,2005-11-12,10,Eastern Michigan,,Ball State,L,3,4,75.0,16,0,0,108.6,tyler-jones-1
+Pat Julmiste,2005-11-12,8,South Florida,@,Syracuse,W,5,12,41.7,89,0,1,87.3,pat-julmiste-1
+Steven Jyles,2005-11-12,9,Louisiana-Monroe,@,Middle Tennessee State,W,28,44,63.6,227,2,0,122.0,steven-jyles-1
+Jeff Kastl,2005-11-12,10,Michigan,,Indiana,W,0,1,0.0,0,0,0,0.0,jeff-kastl-1
+Joel Klatt,2005-11-12,10,Colorado,@,Iowa State,L,25,42,59.5,284,0,2,106.8,joel-klatt-1
+Matt Kubik,2005-11-12,9,Louisiana Tech,@,Idaho,W,18,32,56.3,284,3,1,155.5,matt-kubik-1
+Brady Leaf,2005-11-12,10,Oregon,@,Washington State,W,12,17,70.6,99,1,1,127.2,brady-leaf-1
+Chris Leak,2005-11-12,10,Florida,@,South Carolina,L,18,31,58.1,210,2,1,129.8,chris-leak-1
+Xavier Lee,2005-11-12,10,Florida State,@,Clemson,L,1,7,14.3,7,0,0,22.7,xavier-lee-1
+Matt Leinart,2005-11-12,10,Southern California,@,California,W,20,32,62.5,246,0,1,120.8,matt-leinart-1
+Steve Levy,2005-11-12,10,California,,Southern California,L,4,4,100.0,34,0,0,171.4,steve-levy-1
+Joey Lynch,2005-11-12,10,Ball State,@,Eastern Michigan,W,17,33,51.5,204,3,0,133.4,joey-lynch-1
+Michael Machen,2005-11-12,10,Kent State,,Buffalo,L,15,25,60.0,129,0,2,87.3,michael-machen-1
+Clint Marks,2005-11-12,8,Middle Tennessee State,,Louisiana-Monroe,L,20,32,62.5,272,1,1,138.0,clint-marks-1
+Eddie Martin,2005-11-12,9,Navy,@,Notre Dame,L,0,1,0.0,0,0,1,-200.0,eddie-martin-1
+Ben Mauk,2005-11-12,11,Wake Forest,,Miami (FL),L,6,14,42.9,50,0,1,58.6,ben-mauk-1
+Graeme McFarland,2005-11-12,10,Indiana,@,Michigan,L,3,11,27.3,35,1,0,84.0,graeme-mcfarland-1
+Stephen McGee,2005-11-12,10,Texas A&M,@,Oklahoma,L,0,6,0.0,0,0,0,0.0,stephen-mcgee-1
+Reggie McNeal,2005-11-12,10,Texas A&M,@,Oklahoma,L,12,29,41.4,158,2,1,103.0,reggie-mcneal-1
+Daniel Meager,2005-11-12,9,North Texas,@,Florida Atlantic,L,7,18,38.9,49,0,1,50.6,daniel-meager-1
+Bret Meyer,2005-11-12,10,Iowa State,,Colorado,W,20,38,52.6,251,1,0,116.8,bret-meyer-1
+Blake Mitchell,2005-11-12,10,South Carolina,,Florida,W,7,17,41.2,126,0,0,103.4,blake-mitchell-1
+Steven Moffett,2005-11-12,10,Central Florida,@,Alabama-Birmingham,W,15,24,62.5,183,0,0,126.6,steven-moffett-1
+Matt Moore,2005-11-12,10,Oregon State,,Stanford,L,5,14,35.7,94,1,1,101.4,matt-moore-1
+Nate Morton,2005-11-12,11,Wake Forest,,Miami (FL),L,1,1,100.0,71,1,0,1026.4,nate-morton-1
+Chris Nelson,2005-11-12,10,New Mexico,@,Utah,W,16,30,53.3,197,1,2,106.2,chris-nelson-1
+Nick Noce,2005-11-12,9,Arkansas State,,Troy,W,9,19,47.4,117,0,0,99.1,nick-noce-1
+Matt Nordgren,2005-11-12,10,Texas,,Kansas,W,0,1,0.0,0,0,1,-200.0,matt-nordgren-1
+Kevin O'Connell,2005-11-12,10,San Diego State,@,Colorado State,W,14,24,58.3,179,2,0,148.5,kevin-oconnell-2
+Drew Olson,2005-11-12,10,UCLA,,Arizona State,W,22,27,81.5,510,5,0,301.3,drew-olson-1
+T.C. Ostrander,2005-11-12,9,Stanford,@,Oregon State,W,2,5,40.0,38,0,0,103.8,tc-ostrander-1
+Lamar Owens,2005-11-12,9,Navy,@,Notre Dame,L,3,7,42.9,58,0,0,112.5,lamar-owens-2
+Josh Padrick,2005-11-12,8,Florida International,@,Louisiana,L,18,34,52.9,162,1,0,102.7,josh-padrick-1
+Curtis Painter,2005-11-12,10,Purdue,,Illinois,W,18,26,69.2,201,1,1,139.2,curtis-painter-1
+Tyler Palko,2005-11-12,10,Pittsburgh,,Connecticut,W,12,21,57.1,116,1,0,119.3,tyler-palko-1
+Jordan Palmer,2005-11-12,9,Texas-El Paso,,Texas Southern,W,16,23,69.6,248,4,0,217.5,jordan-palmer-1
+Terrance Parks,2005-11-12,10,Baylor,@,Missouri,L,9,21,42.9,64,0,1,58.9,terrance-parks-1
+Perry Patterson,2005-11-12,9,Syracuse,,South Florida,L,5,16,31.3,47,0,1,43.4,perry-patterson-1
+Chris Pazan,2005-11-12,10,Illinois,@,Purdue,L,3,11,27.3,48,0,1,45.7,chris-pazan-1
+Al Pena,2005-11-12,9,Oklahoma State,,Texas Tech,W,1,4,25.0,12,0,1,0.2,al-pena-1
+Todd Peterson,2005-11-12,10,Nebraska,,Kansas State,W,0,1,0.0,0,0,0,0.0,todd-peterson-1
+Matt Phillips,2005-11-12,9,North Texas,@,Florida Atlantic,L,8,16,50.0,138,1,0,143.1,matt-phillips-1
+James Pinkney,2005-11-12,9,East Carolina,@,Tulsa,L,20,33,60.6,188,1,1,112.4,james-pinkney-1
+Blake Powers,2005-11-12,10,Indiana,@,Michigan,L,10,19,52.6,112,1,1,109.0,blake-powers-1
+Brady Quinn,2005-11-12,9,Notre Dame,,Navy,W,22,31,71.0,284,4,1,184.1,brady-quinn-1
+Cory Randolph,2005-11-12,11,Wake Forest,,Miami (FL),L,8,16,50.0,115,0,2,85.4,cory-randolph-1
+Brett Ratliff,2005-11-12,10,Utah,,New Mexico,L,1,3,33.3,21,0,1,25.5,brett-ratliff-1
+Bobby Reid,2005-11-12,9,Oklahoma State,,Texas Tech,W,10,18,55.6,82,1,0,112.2,bobby-reid-1
+Jeffrey Rhode,2005-11-12,10,Hawaii,,Utah State,W,1,1,100.0,4,0,0,133.6,jeffrey-rhode-1
+Jeff Rowe,2005-11-12,9,Nevada,@,New Mexico State,W,22,34,64.7,271,3,1,154.9,jeff-rowe-1
+JaMarcus Russell,2005-11-12,9,Louisiana State,@,Alabama,W,16,30,53.3,229,1,0,128.5,jamarcus-russell-1
+Matt Ryan,2005-11-12,10,Boston College,,North Carolina State,W,8,16,50.0,185,1,0,167.8,matt-ryan-1
+D.J. Shockley,2005-11-12,9,Georgia,,Auburn,L,20,36,55.6,304,2,0,144.8,dj-shockley-1
+Brad Smith,2005-11-12,10,Missouri,,Baylor,W,9,23,39.1,72,0,1,56.7,brad-smith-1
+Kent Smith,2005-11-12,10,Central Michigan,@,Western Michigan,L,46,70,65.7,460,1,3,117.1,kent-smith-1
+Paul Smith,2005-11-12,10,Tulsa,,East Carolina,W,19,28,67.9,230,2,0,160.4,paul-smith-2
+Troy Smith,2005-11-12,10,Ohio State,,Northwestern,W,7,12,58.3,77,0,1,95.6,troy-smith-1
+Micheal Spurlock,2005-11-12,9,Mississippi,,Arkansas,L,1,3,33.3,7,0,0,52.9,micheal-spurlock-1
+Isaiah Stanback,2005-11-12,10,Washington,@,Arizona,W,10,19,52.6,157,1,1,128.9,isaiah-stanback-1
+Drew Stanton,2005-11-12,10,Michigan State,@,Minnesota,L,29,45,64.4,312,2,0,137.4,drew-stanton-1
+John Stocco,2005-11-12,11,Wisconsin,,Iowa,L,21,38,55.3,257,1,0,120.8,john-stocco-1
+Marcus Stone,2005-11-12,9,North Carolina State,@,Boston College,L,13,30,43.3,247,1,1,116.8,marcus-stone-1
+Chansi Stuckey,2005-11-12,10,Clemson,,Florida State,W,0,1,0.0,0,0,0,0.0,chansi-stuckey-1
+Jason Swanson,2005-11-12,10,Kansas,@,Texas,L,17,35,48.6,148,0,1,78.4,jason-swanson-1
+Drew Tate,2005-11-12,10,Iowa,@,Wisconsin,W,21,34,61.8,224,2,1,130.6,drew-tate-1
+Zac Taylor,2005-11-12,10,Nebraska,,Kansas State,W,21,31,67.7,220,2,0,148.6,zac-taylor-1
+Willie Tuitama,2005-11-12,10,Arizona,,Washington,L,22,41,53.7,235,2,3,103.3,willie-tuitama-1
+Jerod Walker,2005-11-12,9,Utah State,@,Hawaii,L,13,17,76.5,188,1,0,188.8,jerod-walker-1
+Drew Weatherford,2005-11-12,10,Florida State,@,Clemson,L,12,27,44.4,117,0,2,66.0,drew-weatherford-1
+Allen Webb,2005-11-12,10,Kansas State,@,Nebraska,L,1,3,33.3,26,0,0,106.1,allen-webb-1
+Charlie Whitehurst,2005-11-12,10,Clemson,,Florida State,W,21,32,65.6,269,3,1,160.9,charlie-whitehurst-1
+Steven Wichman,2005-11-12,9,Idaho,,Louisiana Tech,L,27,50,54.0,343,2,3,112.8,steven-wichman-1
+Drew Willy,2005-11-12,10,Buffalo,@,Kent State,W,16,22,72.7,97,0,0,109.8,drew-willy-1
+Andre Woodson,2005-11-12,9,Kentucky,@,Vanderbilt,W,12,20,60.0,155,0,1,115.1,andre-woodson-1
+Kyle Wright,2005-11-12,9,Miami (FL),@,Wake Forest,W,17,27,63.0,319,5,0,223.3,kyle-wright-1
+Vince Young,2005-11-12,10,Texas,,Kansas,W,19,27,70.4,281,4,0,206.7,vince-young-1
+Justin Zwick,2005-11-12,10,Ohio State,,Northwestern,W,2,3,66.7,28,0,0,145.1,justin-zwick-1
+Dustin Almond,2005-11-13,9,Southern Mississippi,@,Houston,L,23,45,51.1,295,2,1,116.4,dustin-almond-1
+Kevin Kolb,2005-11-13,9,Houston,,Southern Mississippi,W,24,35,68.6,315,2,0,163.0,kevin-kolb-1
+Josh Betts,2005-11-15,10,Miami (OH),,Bowling Green State,L,17,37,45.9,254,2,5,94.4,josh-betts-1
+Austen Everson,2005-11-15,10,Ohio,@,Akron,L,8,17,47.1,81,0,1,75.3,austen-everson-1
+Luke Getsy,2005-11-15,10,Akron,,Ohio,W,22,32,68.8,270,1,1,143.7,luke-getsy-1
+Omar Jacobs,2005-11-15,10,Bowling Green State,@,Miami (OH),W,21,34,61.8,178,3,2,123.1,omar-jacobs-1
+Brandon Jones,2005-11-15,10,Ohio,@,Akron,L,2,2,100.0,18,0,0,175.6,brandon-jones-2
+Corey Partridge,2005-11-15,10,Bowling Green State,@,Miami (OH),W,1,1,100.0,5,1,0,472.0,corey-partridge-1
+Bruce Gradkowski,2005-11-16,10,Toledo,,Northern Illinois,L,14,34,41.2,168,1,3,74.7,bruce-gradkowski-1
+Dan Nicholson,2005-11-16,10,Northern Illinois,@,Toledo,W,21,30,70.0,176,2,1,134.6,dan-nicholson-1
+Dustin Almond,2005-11-19,10,Southern Mississippi,,Memphis,L,21,39,53.8,283,2,2,121.5,dustin-almond-1
+Joel Armstrong,2005-11-19,10,Rice,,Central Florida,L,6,12,50.0,185,3,1,245.3,joel-armstrong-1
+Zack Asack,2005-11-19,11,Duke,@,North Carolina,L,10,26,38.5,155,0,1,80.8,zack-asack-1
+Maurice Avery,2005-11-19,10,Memphis,@,Southern Mississippi,W,12,19,63.2,157,1,1,139.4,maurice-avery-1
+Matt Baker,2005-11-19,10,North Carolina,,Duke,W,15,34,44.1,238,1,0,112.6,matt-baker-1
+Reggie Ball,2005-11-19,10,Georgia Tech,@,Miami (FL),W,11,30,36.7,159,0,0,81.2,reggie-ball-1
+Blake Barnes,2005-11-19,10,Georgia,,Kentucky,W,1,2,50.0,3,0,0,62.6,blake-barnes-1
+Brett Basanez,2005-11-19,11,Northwestern,@,Illinois,W,25,31,80.6,240,2,0,167.0,brett-basanez-1
+John Beck,2005-11-19,11,Brigham Young,,Utah,L,27,47,57.4,309,2,0,126.7,john-beck-1
+Shawn Bell,2005-11-19,11,Baylor,,Oklahoma State,W,22,35,62.9,272,1,0,137.6,shawn-bell-1
+Kyle Bennett,2005-11-19,11,Oregon,,Oregon State,W,1,2,50.0,4,0,0,66.8,kyle-bennett-1
+Ryan Bohm,2005-11-19,10,Utah State,,Nevada,L,0,1,0.0,0,0,0,0.0,ryan-bohm-1
+Matt Bohnet,2005-11-19,11,Eastern Michigan,@,Buffalo,W,10,17,58.8,99,2,0,146.6,matt-bohnet-1
+Rhett Bomar,2005-11-19,10,Oklahoma,@,Texas Tech,L,12,26,46.2,118,1,0,97.0,rhett-bomar-1
+Jovon Bouknight,2005-11-19,11,Wyoming,@,San Diego State,L,0,1,0.0,0,0,0,0.0,jovon-bouknight-1
+Corey Bramlet,2005-11-19,11,Wyoming,@,San Diego State,L,37,54,68.5,346,0,3,111.2,corey-bramlet-1
+Tim Brasic,2005-11-19,11,Illinois,,Northwestern,L,20,35,57.1,241,2,1,128.1,tim-brasic-1
+Alex Brink,2005-11-19,11,Washington State,@,Washington,W,21,35,60.0,283,2,0,146.8,alex-brink-1
+Shaun Carney,2005-11-19,11,Air Force,@,New Mexico,W,11,14,78.6,186,1,0,213.7,shaun-carney-1
+Colt Charles,2005-11-19,11,Oregon State,@,Oregon,L,1,1,100.0,3,0,0,125.2,colt-charles-1
+Bryan Clampitt,2005-11-19,11,New Mexico,,Air Force,L,11,17,64.7,129,1,1,136.1,bryan-clampitt-1
+Rick Clausen,2005-11-19,10,Tennessee,,Vanderbilt,L,11,25,44.0,125,1,2,83.2,rick-clausen-1
+Chase Clement,2005-11-19,10,Rice,,Central Florida,L,2,4,50.0,29,0,1,60.9,chase-clement-2
+Patrick Cobbs,2005-11-19,10,North Texas,,Louisiana-Monroe,L,0,1,0.0,0,0,0,0.0,patrick-cobbs-1
+Brandon Cox,2005-11-19,11,Auburn,,Alabama,W,14,21,66.7,118,2,0,145.3,brandon-cox-1
+Brodie Croyle,2005-11-19,11,Alabama,@,Auburn,L,13,25,52.0,107,0,0,88.0,brodie-croyle-1
+Bryan Cupito,2005-11-19,11,Minnesota,@,Iowa,L,26,46,56.5,315,1,2,112.5,bryan-cupito-1
+Jay Cutler,2005-11-19,11,Vanderbilt,@,Tennessee,W,27,39,69.2,315,3,0,162.5,jay-cutler-1
+Zac Dahman,2005-11-19,10,Army,,Arkansas State,W,5,10,50.0,77,1,0,147.7,zac-dahman-1
+Chase Daniel,2005-11-19,11,Missouri,@,Kansas State,L,2,2,100.0,20,0,0,184.0,chase-daniel-1
+Derek Devine,2005-11-19,10,Marshall,,East Carolina,L,0,1,0.0,0,0,0,0.0,derek-devine-1
+Casey Dick,2005-11-19,10,Arkansas,,Mississippi State,W,12,23,52.2,124,2,2,108.8,casey-dick-1
+Dennis Dixon,2005-11-19,11,Oregon,,Oregon State,W,12,17,70.6,204,3,0,229.6,dennis-dixon-1
+Trent Edwards,2005-11-19,10,Stanford,,California,L,9,14,64.3,76,0,0,109.9,trent-edwards-1
+Scott Elliott,2005-11-19,10,Tulane,,Tulsa,L,8,18,44.4,82,0,2,60.5,scott-elliott-1
+Allan Evridge,2005-11-19,11,Kansas State,,Missouri,W,2,10,20.0,25,0,1,21.0,allan-evridge-1
+Ethan Flatt,2005-11-19,10,Mississippi,,Louisiana State,L,9,15,60.0,49,0,1,74.1,ethan-flatt-1
+Matt Flynn,2005-11-19,10,Louisiana State,@,Mississippi,W,2,4,50.0,61,1,0,260.6,matt-flynn-1
+Royal Gill,2005-11-19,11,New Mexico State,@,San Jose State,L,25,41,61.0,203,0,0,102.6,royal-gill-1
+Dominick Goodman,2005-11-19,10,Cincinnati,@,South Florida,L,1,1,100.0,32,0,0,368.8,dominick-goodman-1
+Dustin Grutza,2005-11-19,10,Cincinnati,@,South Florida,L,19,30,63.3,241,2,1,146.1,dustin-grutza-1
+Ryan Gunderson,2005-11-19,11,Oregon State,@,Oregon,L,22,43,51.2,175,1,4,74.4,ryan-gunderson-1
+Darrell Hackney,2005-11-19,10,Alabama-Birmingham,@,Texas-El Paso,W,11,17,64.7,184,4,1,221.5,darrell-hackney-1
+Marques Hagans,2005-11-19,10,Virginia,,Virginia Tech,L,17,30,56.7,140,0,2,82.5,marques-hagans-1
+Chad Hall,2005-11-19,11,Air Force,@,New Mexico,W,0,1,0.0,0,0,0,0.0,chad-hall-1
+Bush Hamdan,2005-11-19,11,Boise State,,Idaho,W,1,2,50.0,35,0,0,197.0,bush-hamdan-1
+Caleb Hanie,2005-11-19,11,Colorado State,@,Nevada-Las Vegas,W,1,3,33.3,30,0,0,117.3,caleb-hanie-1
+Clifford Harris,2005-11-19,11,Duke,@,North Carolina,L,0,1,0.0,0,0,0,0.0,clifford-harris-1
+Michael Henig,2005-11-19,10,Mississippi State,@,Arkansas,L,11,27,40.7,77,0,1,57.3,michael-henig-1
+Chad Henne,2005-11-19,11,Michigan,,Ohio State,L,25,36,69.4,223,1,0,130.6,chad-henne-1
+Cody Hodges,2005-11-19,11,Texas Tech,,Oklahoma,W,24,37,64.9,232,2,2,124.6,cody-hodges-1
+Justin Holland,2005-11-19,11,Colorado State,@,Nevada-Las Vegas,W,16,24,66.7,164,0,0,124.1,justin-holland-1
+Sam Hollenbach,2005-11-19,10,Maryland,,Boston College,L,25,45,55.6,230,1,2,96.9,sam-hollenbach-1
+Devin Hollins,2005-11-19,10,Arkansas State,@,Army,L,2,4,50.0,9,0,0,68.9,devin-hollins-1
+Erick Jackson,2005-11-19,11,Nevada-Las Vegas,,Colorado State,L,0,1,0.0,0,0,0,0.0,erick-jackson-1
+Kenny James,2005-11-19,11,Washington,,Washington State,L,1,1,100.0,65,1,0,976.0,kenny-james-1
+David Johnson,2005-11-19,11,Tulsa,@,Tulane,W,3,4,75.0,27,0,0,131.7,david-johnson-3
+Luke Johnson,2005-11-19,10,Southern Mississippi,,Memphis,L,1,1,100.0,14,0,0,217.6,luke-johnson-1
+Robert Johnson,2005-11-19,10,Arkansas,,Mississippi State,W,1,2,50.0,3,0,0,62.6,robert-johnson-1
+Marcus Jones,2005-11-19,11,Duke,@,North Carolina,L,0,1,0.0,0,0,1,-200.0,marcus-jones-1
+Tyler Jones,2005-11-19,11,Eastern Michigan,@,Buffalo,W,5,11,45.5,48,0,0,82.1,tyler-jones-1
+Pat Julmiste,2005-11-19,9,South Florida,,Cincinnati,W,12,21,57.1,155,0,0,119.1,pat-julmiste-1
+Steven Jyles,2005-11-19,10,Louisiana-Monroe,@,North Texas,W,16,33,48.5,218,2,1,117.9,steven-jyles-1
+Kevin Kolb,2005-11-19,10,Houston,,Southern Methodist,L,25,36,69.4,273,1,2,131.2,kevin-kolb-1
+Brady Leaf,2005-11-19,11,Oregon,,Oregon State,W,5,11,45.5,54,0,0,86.7,brady-leaf-1
+Matt Leinart,2005-11-19,11,Southern California,,Fresno State,W,22,33,66.7,200,1,0,127.6,matt-leinart-1
+Steve Levy,2005-11-19,11,California,@,Stanford,W,10,18,55.6,125,1,1,121.1,steve-levy-1
+Rolly Lumbala,2005-11-19,10,Idaho,@,Boise State,L,1,1,100.0,7,1,0,488.8,rolly-lumbala-1
+Joey Lynch,2005-11-19,11,Ball State,,Central Michigan,L,23,38,60.5,281,1,1,126.1,joey-lynch-1
+Clint Marks,2005-11-19,9,Middle Tennessee State,@,North Carolina State,L,23,37,62.2,228,0,1,108.5,clint-marks-1
+Graeme McFarland,2005-11-19,11,Indiana,,Purdue,L,1,3,33.3,19,0,0,86.5,graeme-mcfarland-1
+Mike McGann,2005-11-19,11,Temple,@,Navy,L,24,38,63.2,245,1,0,126.0,mike-mcgann-1
+Daniel Meager,2005-11-19,10,North Texas,,Louisiana-Monroe,L,3,5,60.0,25,0,0,102.0,daniel-meager-1
+Blake Mitchell,2005-11-19,11,South Carolina,,Clemson,L,16,29,55.2,180,0,3,86.6,blake-mitchell-1
+Steven Moffett,2005-11-19,11,Central Florida,@,Rice,W,19,29,65.5,205,2,1,140.8,steven-moffett-1
+Marty Mooney,2005-11-19,10,Notre Dame,,Syracuse,W,1,1,100.0,16,0,0,234.4,marty-mooney-1
+Alex Mortensen,2005-11-19,10,Arkansas,,Mississippi State,W,1,1,100.0,5,0,0,142.0,alex-mortensen-1
+Darren Mougey,2005-11-19,11,San Diego State,,Wyoming,W,1,2,50.0,9,0,1,-12.2,darren-mougey-1
+Chris Nelson,2005-11-19,11,New Mexico,,Air Force,L,5,12,41.7,33,0,1,48.1,chris-nelson-1
+Nick Noce,2005-11-19,10,Arkansas State,@,Army,L,15,26,57.7,116,0,2,79.8,nick-noce-1
+Kevin O'Connell,2005-11-19,11,San Diego State,,Wyoming,W,16,27,59.3,202,1,1,126.9,kevin-oconnell-2
+T.C. Ostrander,2005-11-19,10,Stanford,,California,L,15,23,65.2,152,0,0,120.7,tc-ostrander-1
+Lamar Owens,2005-11-19,10,Navy,,Temple,W,4,11,36.4,120,0,0,128.0,lamar-owens-2
+Josh Padrick,2005-11-19,9,Florida International,,Western Kentucky,W,22,36,61.1,324,1,0,145.9,josh-padrick-1
+Curtis Painter,2005-11-19,11,Purdue,@,Indiana,W,14,27,51.9,124,0,1,83.0,curtis-painter-1
+Jordan Palmer,2005-11-19,10,Texas-El Paso,,Alabama-Birmingham,L,33,52,63.5,337,2,3,119.1,jordan-palmer-1
+Tony Paoli,2005-11-19,11,Buffalo,,Eastern Michigan,L,7,11,63.6,83,0,1,108.8,tony-paoli-1
+Perry Patterson,2005-11-19,10,Syracuse,@,Notre Dame,L,9,22,40.9,78,1,1,76.6,perry-patterson-1
+Casey Paus,2005-11-19,11,Washington,,Washington State,L,1,1,100.0,0,0,0,100.0,casey-paus-1
+Al Pena,2005-11-19,10,Oklahoma State,@,Baylor,L,25,42,59.5,351,4,2,151.6,al-pena-1
+Cy Phillips,2005-11-19,11,Iowa,,Minnesota,W,0,1,0.0,0,0,0,0.0,cy-phillips-1
+Matt Phillips,2005-11-19,10,North Texas,,Louisiana-Monroe,L,16,32,50.0,217,1,2,104.8,matt-phillips-1
+Paul Pinegar,2005-11-19,10,Fresno State,@,Southern California,L,27,45,60.0,317,4,4,130.7,paul-pinegar-1
+James Pinkney,2005-11-19,10,East Carolina,@,Marshall,W,17,25,68.0,219,0,1,133.6,james-pinkney-1
+Blake Powers,2005-11-19,11,Indiana,,Purdue,L,11,24,45.8,150,0,3,73.3,blake-powers-1
+Curtis Pulley,2005-11-19,10,Kentucky,@,Georgia,L,3,7,42.9,8,0,0,52.5,curtis-pulley-1
+Brady Quinn,2005-11-19,10,Notre Dame,,Syracuse,W,21,37,56.8,270,2,0,135.9,brady-quinn-1
+Brett Ratliff,2005-11-19,11,Utah,@,Brigham Young,W,17,32,53.1,240,4,0,157.4,brett-ratliff-1
+Bobby Reid,2005-11-19,10,Oklahoma State,@,Baylor,L,4,8,50.0,32,0,2,33.6,bobby-reid-1
+Lester Ricard,2005-11-19,10,Tulane,,Tulsa,L,10,17,58.8,130,1,0,142.5,lester-ricard-1
+Michael Robinson,2005-11-19,11,Penn State,@,Michigan State,W,10,20,50.0,105,1,0,110.6,michael-robinson-1
+Jerad Romo,2005-11-19,10,Southern Methodist,@,Houston,W,12,27,44.4,117,1,1,85.7,jerad-romo-1
+Jeff Rowe,2005-11-19,10,Nevada,@,Utah State,W,12,19,63.2,146,2,0,162.4,jeff-rowe-1
+JaMarcus Russell,2005-11-19,10,Louisiana State,@,Mississippi,W,13,22,59.1,142,2,1,134.2,jamarcus-russell-1
+Matt Ryan,2005-11-19,11,Boston College,@,Maryland,W,16,24,66.7,230,0,1,138.8,matt-ryan-1
+Mike Schneider,2005-11-19,11,Duke,@,North Carolina,L,1,2,50.0,8,0,1,-16.4,mike-schneider-1
+D.J. Shockley,2005-11-19,10,Georgia,,Kentucky,W,17,31,54.8,159,4,0,140.5,dj-shockley-1
+Jimmy Skinner,2005-11-19,10,Marshall,,East Carolina,L,26,33,78.8,191,2,1,141.3,jimmy-skinner-1
+Brad Smith,2005-11-19,11,Missouri,@,Kansas State,L,21,36,58.3,248,3,1,138.1,brad-smith-1
+Kent Smith,2005-11-19,11,Central Michigan,@,Ball State,W,23,42,54.8,327,3,0,143.7,kent-smith-1
+Paul Smith,2005-11-19,11,Tulsa,@,Tulane,W,13,21,61.9,254,3,0,210.6,paul-smith-2
+Troy Smith,2005-11-19,11,Ohio State,@,Michigan,W,27,37,73.0,300,1,0,150.0,troy-smith-1
+Clinton Solomon,2005-11-19,11,Iowa,,Minnesota,W,1,1,100.0,26,1,0,648.4,clinton-solomon-1
+Micheal Spurlock,2005-11-19,10,Mississippi,,Louisiana State,L,11,23,47.8,119,1,1,96.9,micheal-spurlock-1
+Isaiah Stanback,2005-11-19,11,Washington,,Washington State,L,12,26,46.2,163,1,0,111.5,isaiah-stanback-1
+Drew Stanton,2005-11-19,11,Michigan State,,Penn State,L,23,36,63.9,233,1,4,105.2,drew-stanton-1
+Joel Statham,2005-11-19,10,Maryland,,Boston College,L,0,1,0.0,0,0,1,-200.0,joel-statham-1
+Shane Steichen,2005-11-19,11,Nevada-Las Vegas,,Colorado State,L,16,27,59.3,167,1,1,116.0,shane-steichen-1
+Marcus Stone,2005-11-19,10,North Carolina State,,Middle Tennessee State,W,6,11,54.5,85,1,1,131.3,marcus-stone-1
+Adam Tafralis,2005-11-19,10,San Jose State,,New Mexico State,W,20,34,58.8,222,0,0,113.7,adam-tafralis-1
+Drew Tate,2005-11-19,11,Iowa,,Minnesota,W,19,32,59.4,351,4,1,186.5,drew-tate-1
+Joe Tereshinski,2005-11-19,10,Georgia,,Kentucky,W,4,5,80.0,64,1,0,253.5,joe-tereshinski-1
+Taylor Tharp,2005-11-19,11,Boise State,,Idaho,W,4,8,50.0,75,1,1,145.0,taylor-tharp-1
+Marcus Vick,2005-11-19,10,Virginia Tech,@,Virginia,W,15,21,71.4,170,2,1,161.3,marcus-vick-1
+Joey Vincent,2005-11-19,11,New Mexico State,@,San Jose State,L,15,23,65.2,163,1,2,121.7,joey-vincent-1
+Jerod Walker,2005-11-19,10,Utah State,,Nevada,L,19,26,73.1,226,2,1,163.8,jerod-walker-1
+Allen Webb,2005-11-19,11,Kansas State,,Missouri,W,10,14,71.4,93,1,0,150.8,allen-webb-1
+Eric Weddle,2005-11-19,11,Utah,@,Brigham Young,W,0,1,0.0,0,0,0,0.0,eric-weddle-1
+Charlie Whitehurst,2005-11-19,11,Clemson,@,South Carolina,W,17,26,65.4,172,0,2,105.6,charlie-whitehurst-1
+Steven Wichman,2005-11-19,10,Idaho,@,Boise State,L,33,61,54.1,350,2,3,103.3,steven-wichman-1
+Terrell Williams,2005-11-19,11,California,@,Stanford,W,1,1,100.0,14,1,0,547.6,terrell-williams-1
+Drew Willy,2005-11-19,11,Buffalo,,Eastern Michigan,L,18,30,60.0,186,2,4,107.4,drew-willy-1
+John Parker Wilson,2005-11-19,11,Alabama,@,Auburn,L,3,4,75.0,48,0,0,175.8,john-parker-wilson-1
+Andre Woodson,2005-11-19,10,Kentucky,@,Georgia,L,15,26,57.7,92,0,0,87.4,andre-woodson-1
+Kyle Wright,2005-11-19,10,Miami (FL),,Georgia Tech,L,14,31,45.2,207,1,1,105.4,kyle-wright-1
+Jared Zabransky,2005-11-19,11,Boise State,,Idaho,W,4,15,26.7,93,0,2,52.1,jared-zabransky-1
+Josh Betts,2005-11-21,11,Miami (OH),@,Ohio,W,22,44,50.0,297,2,1,117.2,josh-betts-1
+Austen Everson,2005-11-21,11,Ohio,,Miami (OH),L,4,16,25.0,18,0,0,34.5,austen-everson-1
+Brandon Jones,2005-11-21,11,Ohio,,Miami (OH),L,1,6,16.7,10,0,1,-2.7,brandon-jones-2
+Bruce Gradkowski,2005-11-22,11,Toledo,@,Bowling Green State,W,23,36,63.9,298,4,0,170.1,bruce-gradkowski-1
+Omar Jacobs,2005-11-22,11,Bowling Green State,,Toledo,L,25,43,58.1,315,3,0,142.7,omar-jacobs-1
+Robbie Haas,2005-11-23,11,Western Michigan,@,Northern Illinois,L,25,40,62.5,173,1,2,97.1,robbie-haas-1
+Tim Hiller,2005-11-23,11,Western Michigan,@,Northern Illinois,L,1,2,50.0,12,0,0,100.4,tim-hiller-1
+Dan Nicholson,2005-11-23,11,Northern Illinois,,Western Michigan,W,8,13,61.5,160,1,0,190.3,dan-nicholson-1
+Brett Biggs,2005-11-24,11,Akron,,Kent State,W,1,1,100.0,27,0,0,326.8,brett-biggs-1
+Luke Getsy,2005-11-24,11,Akron,,Kent State,W,5,16,31.3,47,2,0,97.2,luke-getsy-1
+Michael Machen,2005-11-24,11,Kent State,@,Akron,L,4,12,33.3,7,0,1,21.6,michael-machen-1
+Tyler Palko,2005-11-24,11,Pittsburgh,@,West Virginia,L,24,43,55.8,308,2,2,122.0,tyler-palko-1
+Pat White,2005-11-24,10,West Virginia,,Pittsburgh,W,4,10,40.0,41,1,1,87.4,pat-white-1
+Harrison Beck,2005-11-25,11,Nebraska,@,Colorado,W,0,4,0.0,0,0,0,0.0,harrison-beck-1
+Colt Brennan,2005-11-25,11,Hawaii,,Wisconsin,L,33,53,62.3,403,3,1,141.0,colt-brennan-1
+Rudy Carpenter,2005-11-25,11,Arizona State,,Arizona,W,18,37,48.6,246,0,0,104.5,rudy-carpenter-1
+Casey Dick,2005-11-25,11,Arkansas,@,Louisiana State,L,12,28,42.9,148,1,1,91.9,casey-dick-1
+Anthony Johnson,2005-11-25,11,Arizona,@,Arizona State,L,1,1,100.0,34,0,0,385.6,anthony-johnson-1
+Joel Klatt,2005-11-25,11,Colorado,,Nebraska,L,20,40,50.0,159,0,1,78.4,joel-klatt-1
+Richard Kovalcheck,2005-11-25,11,Arizona,@,Arizona State,L,2,5,40.0,30,0,0,90.4,richard-kovalcheck-1
+Jorvorskie Lane,2005-11-25,11,Texas A&M,,Texas,L,1,1,100.0,35,1,0,724.0,jorvorskie-lane-1
+Darren McFadden,2005-11-25,11,Arkansas,@,Louisiana State,L,1,1,100.0,13,0,0,209.2,darren-mcfadden-1
+Stephen McGee,2005-11-25,11,Texas A&M,,Texas,L,9,23,39.1,83,0,1,60.7,stephen-mcgee-1
+Terrence Nunn,2005-11-25,11,Nebraska,@,Colorado,W,0,1,0.0,0,0,0,0.0,terrence-nunn-1
+JaMarcus Russell,2005-11-25,11,Louisiana State,,Arkansas,W,13,29,44.8,194,1,2,98.6,jamarcus-russell-1
+John Stocco,2005-11-25,12,Wisconsin,@,Hawaii,W,12,16,75.0,191,2,0,216.5,john-stocco-1
+Zac Taylor,2005-11-25,11,Nebraska,@,Colorado,W,27,43,62.8,392,2,0,154.7,zac-taylor-1
+Willie Tuitama,2005-11-25,11,Arizona,@,Arizona State,L,15,21,71.4,149,1,1,137.2,willie-tuitama-1
+Cedric Washington,2005-11-25,11,Arkansas,@,Louisiana State,L,1,1,100.0,45,0,0,478.0,cedric-washington-1
+Vince Young,2005-11-25,11,Texas,@,Texas A&M,W,13,24,54.2,162,1,1,116.3,vince-young-1
+Erik Ainge,2005-11-26,11,Tennessee,@,Kentucky,W,17,25,68.0,221,2,0,168.7,erik-ainge-1
+Dustin Almond,2005-11-26,11,Southern Mississippi,,Tulane,W,18,30,60.0,276,1,0,148.3,dustin-almond-1
+Joel Armstrong,2005-11-26,11,Rice,@,Houston,L,3,9,33.3,26,0,2,13.2,joel-armstrong-1
+Maurice Avery,2005-11-26,11,Memphis,,Marshall,W,1,8,12.5,-3,0,0,9.4,maurice-avery-1
+Jerry Babb,2005-11-26,11,Louisiana,@,Louisiana-Monroe,W,8,14,57.1,82,0,0,106.3,jerry-babb-1
+Matt Baker,2005-11-26,11,North Carolina,@,Virginia Tech,L,15,41,36.6,160,0,1,64.5,matt-baker-1
+Reggie Ball,2005-11-26,11,Georgia Tech,,Georgia,L,18,35,51.4,155,1,2,86.6,reggie-ball-1
+Gary Banks,2005-11-26,11,Troy,,Middle Tennessee State,L,1,1,100.0,4,0,0,133.6,gary-banks-1
+Rhett Bomar,2005-11-26,11,Oklahoma,,Oklahoma State,W,13,21,61.9,206,3,1,181.9,rhett-bomar-1
+Matt Bonislawski,2005-11-26,10,Connecticut,,South Florida,W,8,26,30.8,81,0,0,56.9,matt-bonislawski-1
+Brian Brohm,2005-11-26,10,Louisville,,Syracuse,W,14,24,58.3,219,2,2,145.8,brian-brohm-1
+Emmanuel Byers,2005-11-26,11,Virginia,@,Miami (FL),L,1,1,100.0,90,1,0,1186.0,emmanuel-byers-1
+Hunter Cantwell,2005-11-26,10,Louisville,,Syracuse,W,3,5,60.0,66,0,0,170.9,hunter-cantwell-1
+Sean Clayton,2005-11-26,11,Florida Atlantic,@,Florida International,L,10,20,50.0,82,0,3,54.4,sean-clayton-1
+Chase Clement,2005-11-26,11,Rice,@,Houston,L,5,8,62.5,84,1,1,167.0,chase-clement-2
+Derek Devine,2005-11-26,11,Marshall,@,Memphis,L,0,4,0.0,0,0,0,0.0,derek-devine-1
+Trent Edwards,2005-11-26,11,Stanford,,Notre Dame,L,12,20,60.0,150,2,0,156.0,trent-edwards-1
+Scott Elliott,2005-11-26,11,Tulane,@,Southern Mississippi,L,3,6,50.0,18,0,0,75.2,scott-elliott-1
+Joe Fields,2005-11-26,11,Syracuse,@,Louisville,L,0,2,0.0,0,0,0,0.0,joe-fields-1
+Ethan Flatt,2005-11-26,11,Mississippi,@,Mississippi State,L,6,10,60.0,72,1,2,113.5,ethan-flatt-1
+Royal Gill,2005-11-26,12,New Mexico State,,Utah State,L,10,17,58.8,92,1,1,111.9,royal-gill-1
+Clark Green,2005-11-26,11,Kansas,,Iowa State,W,0,1,0.0,0,0,0,0.0,clark-green-1
+Dustin Grutza,2005-11-26,11,Cincinnati,@,Rutgers,L,15,24,62.5,169,1,0,135.4,dustin-grutza-1
+Darrell Hackney,2005-11-26,11,Alabama-Birmingham,@,East Carolina,L,23,43,53.5,278,0,3,93.8,darrell-hackney-1
+Marques Hagans,2005-11-26,11,Virginia,@,Miami (FL),L,15,28,53.6,206,1,0,127.2,marques-hagans-1
+Ryan Hart,2005-11-26,11,Rutgers,,Cincinnati,W,16,26,61.5,237,1,1,143.1,ryan-hart-1
+Michael Henig,2005-11-26,11,Mississippi State,,Mississippi,W,11,20,55.0,105,2,1,122.1,michael-henig-1
+Sam Hollenbach,2005-11-26,11,Maryland,@,North Carolina State,L,20,35,57.1,235,1,2,111.5,sam-hollenbach-1
+Pat Julmiste,2005-11-26,10,South Florida,@,Connecticut,L,10,26,38.5,168,1,3,82.4,pat-julmiste-1
+Steven Jyles,2005-11-26,11,Louisiana-Monroe,,Louisiana,L,17,32,53.1,136,1,1,92.9,steven-jyles-1
+Kevin Kolb,2005-11-26,11,Houston,,Rice,W,16,25,64.0,222,1,0,151.8,kevin-kolb-1
+Matt Kubik,2005-11-26,10,Louisiana Tech,,Boise State,L,17,32,53.1,180,1,0,110.7,matt-kubik-1
+Kinsmon Lancaster,2005-11-26,11,Louisiana-Monroe,,Louisiana,L,0,5,0.0,0,0,0,0.0,kinsmon-lancaster-1
+Chris Leak,2005-11-26,11,Florida,,Florida State,W,19,28,67.9,211,2,1,147.6,chris-leak-1
+Brian Luke,2005-11-26,11,Kansas,,Iowa State,W,9,12,75.0,82,1,0,159.9,brian-luke-1
+Clint Marks,2005-11-26,10,Middle Tennessee State,@,Troy,W,18,27,66.7,146,0,0,112.1,clint-marks-1
+Carl Meadows,2005-11-26,11,Troy,,Middle Tennessee State,L,17,31,54.8,226,1,2,113.8,carl-meadows-1
+Daniel Meager,2005-11-26,11,North Texas,,Arkansas State,L,16,24,66.7,152,1,1,125.3,daniel-meager-1
+Bret Meyer,2005-11-26,11,Iowa State,@,Kansas,L,18,34,52.9,257,2,1,130.0,bret-meyer-1
+Nick Noce,2005-11-26,11,Arkansas State,@,North Texas,W,13,31,41.9,205,1,0,108.1,nick-noce-1
+T.C. Ostrander,2005-11-26,11,Stanford,,Notre Dame,L,11,15,73.3,197,1,0,205.7,tc-ostrander-1
+Josh Padrick,2005-11-26,10,Florida International,,Florida Atlantic,W,10,20,50.0,114,0,1,87.9,josh-padrick-1
+Jordan Palmer,2005-11-26,11,Texas-El Paso,@,Southern Methodist,L,27,44,61.4,360,3,4,134.4,jordan-palmer-1
+Perry Patterson,2005-11-26,11,Syracuse,@,Louisville,L,19,39,48.7,259,1,2,102.7,perry-patterson-1
+Al Pena,2005-11-26,11,Oklahoma State,@,Oklahoma,L,10,27,37.0,126,0,1,68.8,al-pena-1
+Barrett Pepper,2005-11-26,11,Tulane,@,Southern Mississippi,L,1,1,100.0,28,0,0,335.2,barrett-pepper-1
+Matt Phillips,2005-11-26,11,North Texas,,Arkansas State,L,6,13,46.2,66,1,1,98.8,matt-phillips-1
+Paul Pinegar,2005-11-26,11,Fresno State,@,Nevada,L,30,45,66.7,405,4,1,167.2,paul-pinegar-1
+James Pinkney,2005-11-26,11,East Carolina,,Alabama-Birmingham,W,21,33,63.6,286,2,0,156.4,james-pinkney-1
+Curtis Pulley,2005-11-26,11,Kentucky,,Tennessee,L,23,33,69.7,155,0,3,91.0,curtis-pulley-1
+Brady Quinn,2005-11-26,11,Notre Dame,@,Stanford,W,25,38,65.8,432,3,2,176.8,brady-quinn-1
+Lester Ricard,2005-11-26,11,Tulane,@,Southern Mississippi,L,7,20,35.0,109,1,2,77.3,lester-ricard-1
+Jerad Romo,2005-11-26,11,Southern Methodist,,Texas-El Paso,W,18,32,56.3,211,3,0,142.6,jerad-romo-1
+Jeff Rowe,2005-11-26,11,Nevada,,Fresno State,W,15,22,68.2,189,1,0,155.3,jeff-rowe-1
+D.J. Shockley,2005-11-26,11,Georgia,@,Georgia Tech,W,15,34,44.1,198,1,1,96.9,dj-shockley-1
+Rufus Skillern,2005-11-26,11,San Jose State,,Idaho,W,1,1,100.0,53,1,0,875.2,rufus-skillern-1
+Jimmy Skinner,2005-11-26,11,Marshall,@,Memphis,L,11,19,57.9,97,0,0,100.8,jimmy-skinner-1
+McKinson Souverain,2005-11-26,11,Florida Atlantic,@,Florida International,L,4,8,50.0,90,1,2,135.8,mckinson-souverain-1
+Micheal Spurlock,2005-11-26,11,Mississippi,@,Mississippi State,L,9,14,64.3,86,1,2,110.9,micheal-spurlock-1
+Marcus Stone,2005-11-26,11,North Carolina State,,Maryland,W,12,19,63.2,113,0,1,102.6,marcus-stone-1
+Jason Swanson,2005-11-26,11,Kansas,,Iowa State,W,15,30,50.0,172,0,3,78.2,jason-swanson-1
+Adam Tafralis,2005-11-26,11,San Jose State,,Idaho,W,7,16,43.8,85,1,1,96.5,adam-tafralis-1
+Marcus Vick,2005-11-26,11,Virginia Tech,,North Carolina,W,8,15,53.3,61,1,1,96.2,marcus-vick-1
+Joey Vincent,2005-11-26,12,New Mexico State,,Utah State,L,20,32,62.5,214,1,0,129.0,joey-vincent-1
+Jerod Walker,2005-11-26,11,Utah State,@,New Mexico State,W,14,20,70.0,182,2,1,169.4,jerod-walker-1
+Drew Weatherford,2005-11-26,11,Florida State,@,Florida,L,24,42,57.1,285,1,2,112.5,drew-weatherford-1
+Steven Wichman,2005-11-26,11,Idaho,@,San Jose State,L,14,34,41.2,135,0,4,51.0,steven-wichman-1
+Andre Woodson,2005-11-26,11,Kentucky,,Tennessee,L,4,8,50.0,22,0,0,73.1,andre-woodson-1
+Kyle Wright,2005-11-26,11,Miami (FL),,Virginia,W,23,30,76.7,248,1,0,157.1,kyle-wright-1
+Jared Zabransky,2005-11-26,12,Boise State,@,Louisiana Tech,W,10,17,58.8,137,2,0,165.3,jared-zabransky-1
+Brett Biggs,2005-12-01,12,Akron,N,Northern Illinois,W,0,1,0.0,0,0,0,0.0,brett-biggs-1
+Luke Getsy,2005-12-01,12,Akron,N,Northern Illinois,W,30,50,60.0,413,1,1,132.0,luke-getsy-1
+Dan Nicholson,2005-12-01,12,Northern Illinois,N,Akron,L,7,17,41.2,110,1,0,114.9,dan-nicholson-1
+Matt Kubik,2005-12-02,11,Louisiana Tech,@,Fresno State,W,13,22,59.1,251,3,0,199.9,matt-kubik-1
+Paul Pinegar,2005-12-02,12,Fresno State,,Louisiana Tech,L,33,54,61.1,358,3,3,124.0,paul-pinegar-1
+John David Booty,2005-12-03,12,Southern California,,UCLA,W,1,3,33.3,5,0,1,-19.3,john-david-booty-1
+Colt Brennan,2005-12-03,12,Hawaii,,San Diego State,W,25,37,67.6,326,5,1,180.8,colt-brennan-1
+Hunter Cantwell,2005-12-03,11,Louisville,@,Connecticut,W,16,25,64.0,271,1,1,160.3,hunter-cantwell-1
+James Cox,2005-12-03,12,Colorado,N,Texas,L,1,8,12.5,9,0,0,22.0,james-cox-1
+Zac Dahman,2005-12-03,11,Army,N,Navy,L,23,35,65.7,255,3,0,155.2,zac-dahman-1
+Matt Flynn,2005-12-03,12,Louisiana State,N,Georgia,L,3,11,27.3,36,1,1,66.6,matt-flynn-1
+Tyler Graunke,2005-12-03,12,Hawaii,,San Diego State,W,0,1,0.0,0,0,0,0.0,tyler-graunke-1
+Eugene Gross,2005-12-03,11,Middle Tennessee State,@,Florida International,L,1,1,100.0,19,1,0,589.6,eugene-gross-1
+D.J. Hernandez,2005-12-03,11,Connecticut,,Louisville,L,18,32,56.3,255,3,0,154.1,dj-hernandez-1
+Carlton Hill,2005-12-03,11,South Florida,,West Virginia,L,10,21,47.6,98,0,2,67.8,carlton-hill-1
+Dwayne Jarrett,2005-12-03,12,Southern California,,UCLA,W,1,1,100.0,11,0,0,192.4,dwayne-jarrett-1
+Pat Julmiste,2005-12-03,11,South Florida,,West Virginia,L,9,17,52.9,123,0,1,102.0,pat-julmiste-1
+Joel Klatt,2005-12-03,12,Colorado,N,Texas,L,14,24,58.3,100,0,1,85.0,joel-klatt-1
+Matt Leinart,2005-12-03,12,Southern California,,UCLA,W,21,40,52.5,233,3,0,126.2,matt-leinart-1
+Clint Marks,2005-12-03,11,Middle Tennessee State,@,Florida International,L,26,37,70.3,297,2,0,155.5,clint-marks-1
+Steven Moffett,2005-12-03,12,Central Florida,,Tulsa,L,13,27,48.1,190,1,2,104.7,steven-moffett-1
+Matt Nordgren,2005-12-03,12,Texas,N,Colorado,W,2,2,100.0,25,0,0,205.0,matt-nordgren-1
+Kevin O'Connell,2005-12-03,12,San Diego State,@,Hawaii,L,33,51,64.7,421,3,1,149.5,kevin-oconnell-2
+Drew Olson,2005-12-03,11,UCLA,@,Southern California,L,14,32,43.8,146,1,0,92.4,drew-olson-1
+Lamar Owens,2005-12-03,11,Navy,N,Army,W,3,5,60.0,41,0,0,128.9,lamar-owens-2
+Josh Padrick,2005-12-03,11,Florida International,,Middle Tennessee State,W,22,32,68.8,314,2,2,159.3,josh-padrick-1
+JaMarcus Russell,2005-12-03,12,Louisiana State,N,Georgia,L,11,19,57.9,120,0,1,100.4,jamarcus-russell-1
+D.J. Shockley,2005-12-03,12,Georgia,N,Louisiana State,W,6,12,50.0,112,2,0,183.4,dj-shockley-1
+Paul Smith,2005-12-03,12,Tulsa,@,Central Florida,W,13,20,65.0,205,2,0,184.1,paul-smith-2
+Marcus Vick,2005-12-03,12,Virginia Tech,N,Florida State,L,26,52,50.0,335,1,1,106.6,marcus-vick-1
+Drew Weatherford,2005-12-03,12,Florida State,N,Virginia Tech,W,21,35,60.0,225,1,0,123.4,drew-weatherford-1
+Pat White,2005-12-03,11,West Virginia,@,South Florida,W,5,10,50.0,89,1,1,137.8,pat-white-1
+Vince Young,2005-12-03,12,Texas,N,Colorado,W,14,17,82.4,193,3,1,224.2,vince-young-1
+Dustin Almond,2005-12-20,12,Southern Mississippi,N,Arkansas State,W,17,32,53.1,253,2,0,140.2,dustin-almond-1
+Nick Noce,2005-12-20,12,Arkansas State,N,Southern Mississippi,L,10,19,52.6,213,1,1,153.6,nick-noce-1
+Clint Cochran,2005-12-21,12,Toledo,N,Texas-El Paso,W,1,2,50.0,6,0,0,75.2,clint-cochran-1
+Orlando Cruz,2005-12-21,12,Texas-El Paso,N,Toledo,L,3,7,42.9,29,0,1,49.1,orlando-cruz-1
+Bruce Gradkowski,2005-12-21,12,Toledo,N,Texas-El Paso,W,18,30,60.0,298,5,2,185.1,bruce-gradkowski-1
+Jordan Palmer,2005-12-21,12,Texas-El Paso,N,Toledo,L,14,33,42.4,163,1,1,87.9,jordan-palmer-1
+John Beck,2005-12-22,12,Brigham Young,N,California,L,35,53,66.0,352,3,2,133.0,john-beck-1
+Jarrod Bryant,2005-12-22,12,Navy,N,Colorado State,W,0,1,0.0,0,0,1,-200.0,jarrod-bryant-1
+Caleb Hanie,2005-12-22,12,Colorado State,N,Navy,L,2,6,33.3,50,0,0,103.3,caleb-hanie-1
+Justin Holland,2005-12-22,12,Colorado State,N,Navy,L,26,33,78.8,381,3,0,205.8,justin-holland-1
+Steve Levy,2005-12-22,12,California,N,Brigham Young,W,16,23,69.6,228,2,0,181.5,steve-levy-1
+Lamar Owens,2005-12-22,12,Navy,N,Colorado State,W,5,10,50.0,144,2,0,237.0,lamar-owens-2
+Kevin Kolb,2005-12-23,12,Houston,N,Kansas,L,20,44,45.5,214,0,3,72.7,kevin-kolb-1
+Brian Luke,2005-12-23,12,Kansas,N,Houston,W,2,3,66.7,33,0,0,159.1,brian-luke-1
+Jason Swanson,2005-12-23,12,Kansas,N,Houston,W,19,29,65.5,307,4,0,200.0,jason-swanson-1
+Steven Moffett,2005-12-24,13,Central Florida,N,Nevada,L,19,36,52.8,301,3,1,145.0,steven-moffett-1
+Jeff Rowe,2005-12-24,12,Nevada,N,Central Florida,W,22,32,68.8,254,1,1,139.5,jeff-rowe-1
+Maurice Avery,2005-12-26,12,Memphis,N,Akron,W,7,13,53.8,170,0,0,163.7,maurice-avery-1
+Luke Getsy,2005-12-26,13,Akron,N,Memphis,L,34,59,57.6,455,4,0,144.8,luke-getsy-1
+Ryan Scott,2005-12-26,12,Memphis,N,Akron,W,0,1,0.0,0,0,0,0.0,ryan-scott-1
+Rudy Carpenter,2005-12-27,12,Arizona State,,Rutgers,W,23,35,65.7,467,4,0,215.5,rudy-carpenter-1
+James Cox,2005-12-27,13,Colorado,N,Clemson,L,4,12,33.3,26,0,0,51.5,james-cox-1
+Ryan Hart,2005-12-27,12,Rutgers,@,Arizona State,L,24,38,63.2,374,3,1,166.6,ryan-hart-1
+Brian White,2005-12-27,13,Colorado,N,Clemson,L,7,12,58.3,81,1,0,142.5,brian-white-2
+Charlie Whitehurst,2005-12-27,12,Clemson,N,Colorado,W,21,29,72.4,205,0,1,124.9,charlie-whitehurst-1
+Chad Henne,2005-12-28,12,Michigan,N,Nebraska,L,21,43,48.8,270,3,1,120.0,chad-henne-1
+Matt Ryan,2005-12-28,12,Boston College,@,Boise State,W,19,36,52.8,256,3,1,134.5,matt-ryan-1
+Zac Taylor,2005-12-28,12,Nebraska,N,Michigan,W,14,31,45.2,167,3,2,109.4,zac-taylor-1
+Taylor Tharp,2005-12-28,13,Boise State,,Boston College,L,3,5,60.0,38,0,0,123.8,taylor-tharp-1
+Jared Zabransky,2005-12-28,13,Boise State,,Boston College,L,20,35,57.1,279,1,2,122.1,jared-zabransky-1
+Reggie Ball,2005-12-29,12,Georgia Tech,N,Utah,L,18,38,47.4,258,1,2,102.6,reggie-ball-1
+Rhett Bomar,2005-12-29,12,Oklahoma,N,Oregon,W,17,30,56.7,229,1,1,125.1,rhett-bomar-1
+Dennis Dixon,2005-12-29,12,Oregon,N,Oklahoma,L,11,19,57.9,107,0,0,105.2,dennis-dixon-1
+Brady Leaf,2005-12-29,12,Oregon,N,Oklahoma,L,14,24,58.3,136,1,1,111.4,brady-leaf-1
+Brett Ratliff,2005-12-29,12,Utah,N,Georgia Tech,W,30,41,73.2,381,4,1,178.5,brett-ratliff-1
+Garren Strong,2005-12-29,12,Oregon,N,Oklahoma,L,0,1,0.0,0,0,0,0.0,garren-strong-1
+Eric Weddle,2005-12-29,12,Utah,N,Georgia Tech,W,0,1,0.0,0,0,1,-200.0,eric-weddle-1
+Brett Basanez,2005-12-30,12,Northwestern,N,UCLA,L,38,70,54.3,416,2,2,107.9,brett-basanez-1
+Bryan Cupito,2005-12-30,12,Minnesota,N,Virginia,L,18,28,64.3,263,4,1,183.2,bryan-cupito-1
+Chase Daniel,2005-12-30,12,Missouri,N,South Carolina,W,1,4,25.0,6,0,0,37.6,chase-daniel-1
+Brad Ekwerekwu,2005-12-30,12,Missouri,N,South Carolina,W,1,2,50.0,13,0,0,104.6,brad-ekwerekwu-1
+Matt Flynn,2005-12-30,13,Louisiana State,N,Miami (FL),W,13,22,59.1,196,2,0,163.9,matt-flynn-1
+Kirby Freeman,2005-12-30,12,Miami (FL),N,Louisiana State,L,0,2,0.0,0,0,1,-100.0,kirby-freeman-1
+Marques Hagans,2005-12-30,12,Virginia,N,Minnesota,W,25,32,78.1,358,2,1,186.5,marques-hagans-1
+Blake Mitchell,2005-12-30,12,South Carolina,N,Missouri,L,20,38,52.6,266,2,3,113.0,blake-mitchell-1
+Christian Olsen,2005-12-30,12,Virginia,N,Minnesota,W,1,1,100.0,7,0,0,158.8,christian-olsen-1
+Drew Olson,2005-12-30,12,UCLA,N,Northwestern,W,10,24,41.7,143,3,3,108.0,drew-olson-1
+Brad Smith,2005-12-30,12,Missouri,N,South Carolina,W,21,37,56.8,282,1,1,124.3,brad-smith-1
+Kyle Wright,2005-12-30,12,Miami (FL),N,Louisiana State,L,10,21,47.6,100,0,0,87.6,kyle-wright-1
+Brandon Baker,2005-12-31,12,South Florida,N,North Carolina State,L,1,1,100.0,31,0,0,360.4,brandon-baker-1
+Jeff Ballard,2005-12-31,12,Texas Christian,N,Iowa State,W,21,33,63.6,275,1,1,137.6,jeff-ballard-1
+Carlton Hill,2005-12-31,12,South Florida,N,North Carolina State,L,1,2,50.0,37,0,0,205.4,carlton-hill-1
+Pat Julmiste,2005-12-31,12,South Florida,N,North Carolina State,L,8,25,32.0,91,0,1,54.6,pat-julmiste-1
+Bret Meyer,2005-12-31,12,Iowa State,N,Texas Christian,L,20,33,60.6,254,3,2,143.1,bret-meyer-1
+Paul Pinegar,2005-12-31,13,Fresno State,N,Tulsa,L,19,30,63.3,213,1,2,120.6,paul-pinegar-1
+Paul Smith,2005-12-31,13,Tulsa,N,Fresno State,W,18,27,66.7,234,1,0,151.7,paul-smith-2
+Marcus Stone,2005-12-31,12,North Carolina State,N,South Florida,W,9,19,47.4,127,1,0,120.9,marcus-stone-1
+Hunter Cantwell,2006-01-02,12,Louisville,N,Virginia Tech,L,15,37,40.5,216,3,3,100.1,hunter-cantwell-1
+Brandon Cox,2006-01-02,12,Auburn,N,Wisconsin,L,15,33,45.5,137,1,1,84.3,brandon-cox-1
+Brodie Croyle,2006-01-02,12,Alabama,N,Texas Tech,W,19,31,61.3,275,1,0,146.5,brodie-croyle-1
+Graham Harrell,2006-01-02,12,Texas Tech,N,Alabama,L,1,4,25.0,30,0,0,88.0,graham-harrell-1
+Cody Hodges,2006-01-02,12,Texas Tech,N,Alabama,L,15,32,46.9,196,1,0,108.6,cody-hodges-1
+Chris Leak,2006-01-02,12,Florida,N,Iowa,W,25,40,62.5,278,2,0,137.4,chris-leak-1
+Brady Quinn,2006-01-02,12,Notre Dame,N,Ohio State,L,29,45,64.4,286,0,0,117.8,brady-quinn-1
+D.J. Shockley,2006-01-02,13,Georgia,N,West Virginia,L,20,33,60.6,277,3,0,161.1,dj-shockley-1
+Troy Smith,2006-01-02,12,Ohio State,N,Notre Dame,W,19,28,67.9,342,2,0,194.0,troy-smith-1
+John Stocco,2006-01-02,13,Wisconsin,N,Auburn,W,15,27,55.6,301,2,0,173.6,john-stocco-1
+Drew Tate,2006-01-02,12,Iowa,N,Florida,L,32,55,58.2,346,3,1,125.4,drew-tate-1
+Marcus Vick,2006-01-02,13,Virginia Tech,N,Louisville,W,11,21,52.4,203,2,0,165.0,marcus-vick-1
+Pat White,2006-01-02,12,West Virginia,N,Georgia,W,11,14,78.6,120,1,0,174.1,pat-white-1
+Michael Robinson,2006-01-03,12,Penn State,N,Florida State,W,21,39,53.8,253,1,1,111.7,michael-robinson-1
+Drew Weatherford,2006-01-03,13,Florida State,N,Penn State,L,24,43,55.8,258,1,1,109.2,drew-weatherford-1
+Dwayne Jarrett,2006-01-04,13,Southern California,,Texas,L,0,1,0.0,0,0,0,0.0,dwayne-jarrett-1
+Matt Leinart,2006-01-04,13,Southern California,,Texas,L,29,40,72.5,365,1,1,152.4,matt-leinart-1
+Vince Young,2006-01-04,13,Texas,@,Southern California,W,30,40,75.0,267,0,0,131.1,vince-young-1

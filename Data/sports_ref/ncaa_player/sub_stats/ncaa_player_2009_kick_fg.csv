@@ -1,0 +1,1247 @@
+Player,Date,G,School,Loc,Opponent,WL,XP Made,XP Att,XP %,FG Made,FG Att,FG %,Pts,unique_id
+Kyle Brotzman,2009-09-03,1,Boise State,,Oregon,W,0,0,,1,3,33.3,3,kyle-brotzman-1
+Jake Brownell,2009-09-03,1,Temple,,Villanova,L,0,0,,0,1,0.0,0,jake-brownell-1
+Freddy Cortez,2009-09-03,1,Kent State,,Coastal Carolina,W,2,2,100.0,0,1,0.0,2,freddy-cortez-1
+Josh Czajkowski,2009-09-03,1,North Carolina State,,South Carolina,L,0,0,,1,1,100.0,3,josh-czajkowski-1
+Nick Freeland,2009-09-03,1,Indiana,,Eastern Kentucky,W,2,2,100.0,1,1,100.0,5,nick-freeland-1
+Sam Glusman,2009-09-03,1,Troy,@,Bowling Green State,L,2,2,100.0,0,1,0.0,2,sam-glusman-1
+Jeremy Knott,2009-09-03,1,North Texas,@,Ball State,W,2,2,100.0,2,4,50.0,8,jeremy-knott-1
+Spencer Lanning,2009-09-03,1,South Carolina,@,North Carolina State,W,1,1,100.0,0,1,0.0,1,spencer-lanning-1
+Grant Mahoney,2009-09-03,1,Iowa State,,North Dakota State,W,4,4,100.0,2,3,66.7,10,grant-mahoney-1
+Ian McGarvey,2009-09-03,1,Ball State,,North Texas,L,1,1,100.0,1,2,50.0,4,ian-mcgarvey-1
+Brandon McManus,2009-09-03,1,Temple,,Villanova,L,3,3,100.0,1,1,100.0,6,brandon-mcmanus-1
+Jerry Phillips,2009-09-03,1,Bowling Green State,,Troy,W,4,4,100.0,1,1,100.0,7,jerry-phillips-1
+Chris Ulinski,2009-09-03,1,Utah State,@,Utah,L,2,2,100.0,1,2,50.0,5,chris-ulinski-1
+Ben Vroman,2009-09-03,1,Utah,,Utah State,W,4,4,100.0,1,1,100.0,7,ben-vroman-1
+Scott Enos,2009-09-04,1,Hawaii,,Central Arkansas,W,2,2,100.0,1,1,100.0,5,scott-enos-1
+Kevin Fitzpatrick,2009-09-04,1,Tulsa,@,Tulane,W,4,4,100.0,3,3,100.0,13,kevin-fitzpatrick-1
+Ross Thevenot,2009-09-04,1,Tulane,,Tulsa,L,1,1,100.0,2,3,66.7,7,ross-thevenot-1
+Andrew Aguila,2009-09-05,1,Central Michigan,@,Arizona,L,0,0,,0,1,0.0,0,andrew-aguila-1
+James Aho,2009-09-05,1,New Mexico,@,Texas A&M,L,0,0,,2,2,100.0,6,james-aho-1
+Delbert Alvarado,2009-09-05,1,South Florida,,Wofford,W,5,5,100.0,1,1,100.0,8,delbert-alvarado-1
+Steve Aponavicius,2009-09-05,1,Boston College,,Northeastern,W,6,6,100.0,1,1,100.0,9,steve-aponavicius-1
+Dan Bailey,2009-09-05,1,Oklahoma State,,Georgia,W,3,3,100.0,1,1,100.0,6,dan-bailey-1
+Logan Barrett,2009-09-05,1,Texas-El Paso,,Buffalo,L,2,2,100.0,1,2,50.0,5,logan-barrett-1
+Casey Barth,2009-09-05,1,North Carolina,,Citadel,W,4,5,80.0,2,2,100.0,10,casey-barth-1
+Tyler Bitancurt,2009-09-05,1,West Virginia,,Liberty,W,3,3,100.0,4,4,100.0,15,tyler-bitancurt-1
+Scott Blair,2009-09-05,1,Georgia Tech,,Jacksonville State,W,4,5,80.0,1,2,50.0,7,scott-blair-1
+Jamie Boyle,2009-09-05,1,Central Florida,,Samford,W,1,2,50.0,0,2,0.0,1,jamie-boyle-1
+Sean Brauchle,2009-09-05,1,Mississippi State,,Jackson State,W,6,6,100.0,1,3,33.3,9,sean-brauchle-1
+Randy Bullock,2009-09-05,1,Texas A&M,,New Mexico,W,5,5,100.0,2,2,100.0,11,randy-bullock-1
+Wes Byrum,2009-09-05,1,Auburn,,Louisiana Tech,W,4,4,100.0,3,3,100.0,13,wes-byrum-1
+Joe Carithers,2009-09-05,1,Eastern Michigan,,Army,L,2,2,100.0,0,1,0.0,2,joe-carithers-1
+Josh Cherry,2009-09-05,1,Kansas State,,Massachusetts,W,3,3,100.0,0,1,0.0,3,josh-cherry-1
+Dan Conroy,2009-09-05,1,Michigan State,,Montana State,W,0,0,,1,1,100.0,3,dan-conroy-1
+Trevor Cook,2009-09-05,1,Miami (OH),N,Kentucky,L,0,0,,0,1,0.0,0,trevor-cook-1
+Tyler Cope,2009-09-05,1,San Jose State,@,Southern California,L,0,0,,1,1,100.0,3,tyler-cope-1
+Vince D'Amato,2009-09-05,1,California,,Maryland,W,7,7,100.0,1,1,100.0,10,vince-damato-1
+Jordan Davenport,2009-09-05,1,New Mexico State,,Idaho,L,0,1,0.0,0,1,0.0,0,jordan-davenport-1
+Stefan Demos,2009-09-05,1,Northwestern,,Towson,W,5,5,100.0,1,1,100.0,8,stefan-demos-1
+Ricky Drake,2009-09-05,1,Nevada,@,Notre Dame,L,0,0,,0,1,0.0,0,ricky-drake-1
+Matt Eller,2009-09-05,1,Illinois,N,Missouri,L,0,1,0.0,1,1,100.0,3,matt-eller-1
+Eric Ellestad,2009-09-05,1,Minnesota,@,Syracuse,W,2,2,100.0,3,4,75.0,11,eric-ellestad-1
+Justin Estes,2009-09-05,1,Southern Mississippi,,Alcorn State,W,7,7,100.0,1,2,50.0,10,justin-estes-1
+Clark Fangmeier,2009-09-05,1,Rice,@,Alabama-Birmingham,L,3,3,100.0,1,2,50.0,6,clark-fangmeier-1
+Nick Ferrara,2009-09-05,1,Maryland,@,California,L,1,1,100.0,2,2,100.0,7,nick-ferrara-1
+Erik Folk,2009-09-05,1,Washington,,Louisiana State,L,2,2,100.0,3,4,75.0,11,erik-folk-1
+Kai Forbath,2009-09-05,1,UCLA,,San Diego State,W,3,4,75.0,2,2,100.0,9,kai-forbath-1
+Ryan Fowler,2009-09-05,1,Vanderbilt,,Western Carolina,W,6,6,100.0,1,3,33.3,9,ryan-fowler-2
+Ross Gornall,2009-09-05,1,Florida Atlantic,@,Nebraska,L,0,0,,1,2,50.0,3,ross-gornall-1
+Nico Grasu,2009-09-05,1,Washington State,,Stanford,L,1,1,100.0,2,3,66.7,7,nico-grasu-1
+Ben Hartman,2009-09-05,1,East Carolina,,Appalachian State,W,1,1,100.0,2,2,100.0,7,ben-hartman-1
+Dan Hutchins,2009-09-05,1,Pittsburgh,,Youngstown State,W,5,5,100.0,1,1,100.0,8,dan-hutchins-1
+Radi Jabour,2009-09-05,1,Louisiana-Monroe,@,Texas,L,2,2,100.0,2,2,100.0,8,radi-jabour-1
+Richard Jackson,2009-09-05,1,Clemson,,Middle Tennessee State,W,4,4,100.0,3,5,60.0,13,richard-jackson-2
+Josh Jasper,2009-09-05,1,Louisiana State,@,Washington,W,4,4,100.0,1,1,100.0,7,josh-jasper-1
+Justin Kahut,2009-09-05,1,Oregon State,,Portland State,W,4,4,100.0,2,2,100.0,10,justin-kahut-1
+Hunter Lawrence,2009-09-05,1,Texas,,Louisiana-Monroe,W,6,6,100.0,1,1,100.0,9,hunter-lawrence-1
+Ryan Lichtenstein,2009-09-05,1,Syracuse,,Minnesota,L,2,2,100.0,2,2,100.0,8,ryan-lichtenstein-1
+Nick Maggio,2009-09-05,1,Duke,,Richmond,L,1,1,100.0,0,2,0.0,1,nick-maggio-1
+Austin McCoy,2009-09-05,1,Wyoming,,Weber State,W,2,3,66.7,3,3,100.0,11,austin-mccoy-1
+Daniel Murray,2009-09-05,1,Iowa,,Northern Iowa,W,2,2,100.0,1,2,50.0,5,daniel-murray-1
+Matt Nelson,2009-09-05,1,Louisiana Tech,@,Auburn,L,1,1,100.0,2,2,100.0,7,matt-nelson-1
+Jason Olesnavage,2009-09-05,1,Michigan,,Western Michigan,W,4,4,100.0,1,1,100.0,7,jason-olesnavage-1
+Ben Parks,2009-09-05,1,Baylor,@,Wake Forest,W,3,3,100.0,1,3,33.3,6,ben-parks-1
+Mitch Payne,2009-09-05,1,Brigham Young,N,Oklahoma,W,2,2,100.0,0,1,0.0,2,mitch-payne-1
+Ryan Payne,2009-09-05,1,Louisville,,Indiana State,W,3,3,100.0,3,4,75.0,12,ryan-payne-1
+Aaron Pettrey,2009-09-05,1,Ohio State,,Navy,W,2,3,66.7,3,3,100.0,11,aaron-pettrey-1
+John Potter,2009-09-05,1,Western Michigan,@,Michigan,L,1,1,100.0,0,1,0.0,1,john-potter-1
+A.J. Principe,2009-09-05,1,Buffalo,@,Texas-El Paso,W,3,3,100.0,0,1,0.0,3,aj-principe-1
+Craig Ratanamorn,2009-09-05,1,Marshall,,Southern Illinois,W,4,4,100.0,1,1,100.0,7,craig-ratanamorn-1
+Grant Ressel,2009-09-05,1,Missouri,N,Illinois,W,4,4,100.0,3,3,100.0,13,grant-ressel-1
+Mike Salerno,2009-09-05,1,Northern Illinois,@,Wisconsin,L,0,0,,2,2,100.0,6,mike-salerno-1
+Lones Seiber,2009-09-05,1,Kentucky,N,Miami (OH),W,6,6,100.0,0,1,0.0,6,lones-seiber-1
+Erik Soderberg,2009-09-05,1,Air Force,,Nicholls State,W,7,7,100.0,1,1,100.0,10,erik-soderberg-1
+Alex Steigerwald,2009-09-05,1,Toledo,@,Purdue,L,4,4,100.0,1,1,100.0,7,alex-steigerwald-1
+Jimmy Stevens,2009-09-05,1,Oklahoma,N,Brigham Young,L,1,1,100.0,2,2,100.0,7,jimmy-stevens-1
+Brett Swenson,2009-09-05,1,Michigan State,,Montana State,W,5,5,100.0,2,2,100.0,11,brett-swenson-1
+Matt Szymanski,2009-09-05,1,Southern Methodist,,Stephen F. Austin,W,4,4,100.0,1,1,100.0,7,matt-szymanski-1
+Dave Teggart,2009-09-05,1,Connecticut,@,Ohio,W,3,3,100.0,0,1,0.0,3,dave-teggart-1
+Alex Tejada,2009-09-05,1,Arkansas,,Missouri State,W,6,6,100.0,2,2,100.0,12,alex-tejada-1
+Leigh Tiffin,2009-09-05,1,Alabama,N,Virginia Tech,W,2,2,100.0,4,5,80.0,14,leigh-tiffin-1
+Collin Wagner,2009-09-05,1,Penn State,,Akron,W,4,4,100.0,1,3,33.3,7,collin-wagner-1
+Matt Waldron,2009-09-05,1,Virginia Tech,N,Alabama,L,3,3,100.0,1,1,100.0,6,matt-waldron-1
+Blair Walsh,2009-09-05,1,Georgia,@,Oklahoma State,L,1,1,100.0,1,1,100.0,4,blair-walsh-1
+Kyle Watson,2009-09-05,1,Nevada-Las Vegas,,Sacramento State,W,5,5,100.0,1,1,100.0,8,kyle-watson-1
+Tress Way,2009-09-05,1,Oklahoma,N,Brigham Young,L,0,0,,0,1,0.0,0,tress-way-1
+Thomas Weber,2009-09-05,1,Arizona State,,Idaho State,W,5,5,100.0,5,6,83.3,20,thomas-weber-1
+Philip Welch,2009-09-05,1,Wisconsin,,Northern Illinois,W,4,4,100.0,0,2,0.0,4,philip-welch-1
+Matt Weller,2009-09-05,1,Ohio,,Connecticut,L,1,1,100.0,1,1,100.0,4,matt-weller-1
+Nate Whitaker,2009-09-05,1,Stanford,@,Washington State,W,4,4,100.0,1,1,100.0,7,nate-whitaker-1
+Carson Wiggs,2009-09-05,1,Purdue,,Toledo,W,7,7,100.0,1,1,100.0,10,carson-wiggs-1
+Matt Williams,2009-09-05,1,Texas Tech,,North Dakota,W,5,5,100.0,1,1,100.0,8,matt-williams-1
+Lane Yoshida,2009-09-05,1,San Diego State,@,UCLA,L,2,2,100.0,0,1,0.0,2,lane-yoshida-1
+Josh Zahn,2009-09-05,1,Alabama-Birmingham,,Rice,W,5,6,83.3,1,1,100.0,8,josh-zahn-1
+Alex Zendejas,2009-09-05,1,Arizona,,Central Michigan,W,1,1,100.0,4,5,80.0,13,alex-zendejas-1
+Ben Deline,2009-09-06,1,Colorado State,@,Colorado,W,2,2,100.0,3,3,100.0,11,ben-deline-1
+Aric Goodman,2009-09-06,1,Colorado,,Colorado State,L,2,2,100.0,1,1,100.0,5,aric-goodman-1
+Matt Reagan,2009-09-06,1,Memphis,,Mississippi,L,2,2,100.0,0,1,0.0,2,matt-reagan-1
+Joshua Shene,2009-09-06,1,Mississippi,@,Memphis,W,6,6,100.0,1,1,100.0,9,joshua-shene-1
+Matt Bosher,2009-09-07,1,Miami (FL),@,Florida State,W,5,5,100.0,1,1,100.0,8,matt-bosher-1
+Dustin Hopkins,2009-09-07,1,Florida State,,Miami (FL),L,2,3,66.7,2,2,100.0,8,dustin-hopkins-1
+Jacob Rogers,2009-09-07,1,Cincinnati,@,Rutgers,W,6,6,100.0,1,1,100.0,9,jacob-rogers-1
+Scott Blair,2009-09-10,2,Georgia Tech,,Clemson,W,3,3,100.0,3,3,100.0,12,scott-blair-1
+Richard Jackson,2009-09-10,2,Clemson,@,Georgia Tech,L,3,3,100.0,2,2,100.0,9,richard-jackson-2
+Aric Goodman,2009-09-11,2,Colorado,@,Toledo,L,5,5,100.0,1,2,50.0,8,aric-goodman-1
+Alex Steigerwald,2009-09-11,2,Toledo,,Colorado,W,6,6,100.0,2,3,66.7,12,alex-steigerwald-1
+Andrew Aguila,2009-09-12,2,Central Michigan,@,Michigan State,W,2,2,100.0,3,4,75.0,11,andrew-aguila-1
+James Aho,2009-09-12,2,New Mexico,,Tulsa,L,1,1,100.0,1,1,100.0,4,james-aho-1
+Tyler Albrecht,2009-09-12,2,Louisiana,,Kansas State,W,2,2,100.0,1,1,100.0,5,tyler-albrecht-1
+Delbert Alvarado,2009-09-12,2,South Florida,@,Western Kentucky,W,5,5,100.0,0,2,0.0,5,delbert-alvarado-1
+Steve Aponavicius,2009-09-12,2,Boston College,,Kent State,W,4,4,100.0,2,2,100.0,10,steve-aponavicius-1
+Josh Arauco,2009-09-12,2,Arkansas State,@,Nebraska,L,0,1,0.0,1,1,100.0,3,josh-arauco-1
+Dan Bailey,2009-09-12,2,Oklahoma State,,Houston,L,5,5,100.0,0,1,0.0,5,dan-bailey-1
+Casey Barth,2009-09-12,2,North Carolina,@,Connecticut,W,1,1,100.0,1,2,50.0,4,casey-barth-1
+Jacob Branstetter,2009-09-12,2,Kansas,@,Texas-El Paso,W,4,4,100.0,2,4,50.0,10,jacob-branstetter-1
+Sean Brauchle,2009-09-12,2,Mississippi State,@,Auburn,L,3,3,100.0,1,1,100.0,6,sean-brauchle-1
+Joe Buckley,2009-09-12,2,Navy,,Louisiana Tech,W,3,3,100.0,1,2,50.0,6,joe-buckley-1
+Joe Carithers,2009-09-12,2,Eastern Michigan,@,Northwestern,L,3,3,100.0,1,2,50.0,6,joe-carithers-1
+Alex Carlton,2009-09-12,2,Army,,Duke,L,1,1,100.0,2,3,66.7,7,alex-carlton-1
+Nick Cattoi,2009-09-12,2,Central Florida,@,Southern Mississippi,L,1,2,50.0,2,2,100.0,7,nick-cattoi-1
+Josh Cherry,2009-09-12,2,Kansas State,@,Louisiana,L,1,2,50.0,0,2,0.0,1,josh-cherry-1
+Jordan Congdon,2009-09-12,2,Southern California,@,Ohio State,W,1,1,100.0,1,2,50.0,4,jordan-congdon-1
+Josh Czajkowski,2009-09-12,2,North Carolina State,,Murray State,W,6,6,100.0,1,1,100.0,9,josh-czajkowski-1
+Vince D'Amato,2009-09-12,2,California,,Eastern Washington,W,8,8,100.0,1,2,50.0,11,vince-damato-1
+Ben Deline,2009-09-12,2,Colorado State,,Weber State,W,3,3,100.0,1,2,50.0,6,ben-deline-1
+Stefan Demos,2009-09-12,2,Northwestern,,Eastern Michigan,W,3,3,100.0,2,2,100.0,9,stefan-demos-1
+Matt Eller,2009-09-12,2,Illinois,,Illinois State,W,6,6,100.0,1,2,50.0,9,matt-eller-1
+Eric Ellestad,2009-09-12,2,Minnesota,,Air Force,W,2,2,100.0,2,2,100.0,8,eric-ellestad-1
+Scott Enos,2009-09-12,2,Hawaii,@,Washington State,W,5,5,100.0,1,1,100.0,8,scott-enos-1
+Justin Estes,2009-09-12,2,Southern Mississippi,,Central Florida,W,2,2,100.0,2,3,66.7,8,justin-estes-1
+Ross Evans,2009-09-12,1,Texas Christian,@,Virginia,W,3,3,100.0,3,3,100.0,12,ross-evans-1
+Clark Fangmeier,2009-09-12,2,Rice,@,Texas Tech,L,1,1,100.0,1,1,100.0,4,clark-fangmeier-1
+Trey Farquhar,2009-09-12,2,Idaho,@,Washington,L,2,2,100.0,3,3,100.0,11,trey-farquhar-1
+Nick Ferrara,2009-09-12,2,Maryland,,James Madison,W,5,5,100.0,1,1,100.0,8,nick-ferrara-1
+Kevin Fitzpatrick,2009-09-12,2,Tulsa,@,New Mexico,W,5,6,83.3,1,1,100.0,8,kevin-fitzpatrick-1
+Morgan Flint,2009-09-12,2,Oregon,,Purdue,W,5,5,100.0,1,2,50.0,8,morgan-flint-1
+Kai Forbath,2009-09-12,2,UCLA,@,Tennessee,W,1,1,100.0,4,5,80.0,13,kai-forbath-1
+Nick Freeland,2009-09-12,2,Indiana,,Western Michigan,W,2,2,100.0,3,4,75.0,11,nick-freeland-1
+Alan Gendreau,2009-09-12,2,Middle Tennessee State,,Memphis,W,4,4,100.0,1,1,100.0,7,alan-gendreau-1
+Sam Glusman,2009-09-12,2,Troy,@,Florida,L,0,0,,2,2,100.0,6,sam-glusman-1
+Kevin Goessling,2009-09-12,2,Fresno State,@,Wisconsin,L,4,4,100.0,1,2,50.0,7,kevin-goessling-1
+Nico Grasu,2009-09-12,2,Washington State,,Hawaii,L,2,2,100.0,2,2,100.0,8,nico-grasu-1
+Ben Hartman,2009-09-12,2,East Carolina,@,West Virginia,L,2,2,100.0,2,3,66.7,8,ben-hartman-1
+Alex Henery,2009-09-12,2,Nebraska,,Arkansas State,W,5,5,100.0,1,2,50.0,8,alex-henery-1
+Dustin Hopkins,2009-09-12,2,Florida State,,Jacksonville State,W,1,3,33.3,0,1,0.0,1,dustin-hopkins-1
+Kyle Hughes,2009-09-12,2,New Mexico State,,Prairie View A&M,W,3,3,100.0,0,1,0.0,3,kyle-hughes-1
+Radi Jabour,2009-09-12,2,Louisiana-Monroe,,Texas Southern,W,8,8,100.0,0,1,0.0,8,radi-jabour-1
+Josh Jasper,2009-09-12,2,Louisiana State,,Vanderbilt,W,2,2,100.0,3,3,100.0,11,josh-jasper-1
+Justin Kahut,2009-09-12,2,Oregon State,@,Nevada-Las Vegas,W,2,3,66.7,1,2,50.0,5,justin-kahut-1
+Jeremy Knott,2009-09-12,2,North Texas,,Ohio,L,3,3,100.0,3,3,100.0,12,jeremy-knott-1
+Spencer Lanning,2009-09-12,2,South Carolina,@,Georgia,L,2,3,66.7,5,5,100.0,17,spencer-lanning-1
+Hunter Lawrence,2009-09-12,2,Texas,@,Wyoming,W,5,5,100.0,2,2,100.0,11,hunter-lawrence-1
+Daniel Lincoln,2009-09-12,2,Tennessee,,UCLA,L,1,1,100.0,2,2,100.0,7,daniel-lincoln-1
+Grant Mahoney,2009-09-12,2,Iowa State,,Iowa,L,0,0,,1,1,100.0,3,grant-mahoney-1
+Jordan Mannisto,2009-09-12,2,Houston,@,Oklahoma State,W,6,6,100.0,1,1,100.0,9,jordan-mannisto-1
+Austin McCoy,2009-09-12,2,Wyoming,,Texas,L,1,1,100.0,1,1,100.0,4,austin-mccoy-1
+Ian McGarvey,2009-09-12,2,Ball State,,New Hampshire,L,1,1,100.0,3,3,100.0,10,ian-mcgarvey-1
+Jason Olesnavage,2009-09-12,2,Michigan,,Notre Dame,W,5,5,100.0,1,2,50.0,8,jason-olesnavage-1
+Mitch Payne,2009-09-12,2,Brigham Young,@,Tulane,W,6,7,85.7,2,2,100.0,12,mitch-payne-1
+Aaron Pettrey,2009-09-12,2,Ohio State,,Southern California,L,1,1,100.0,2,2,100.0,7,aaron-pettrey-1
+Jerry Phillips,2009-09-12,2,Bowling Green State,@,Missouri,L,2,2,100.0,2,2,100.0,8,jerry-phillips-1
+Joe Phillips,2009-09-12,2,Utah,@,San Jose State,W,2,2,100.0,1,1,100.0,5,joe-phillips-1
+Jonathan Phillips,2009-09-12,2,Florida,,Troy,W,6,6,100.0,0,1,0.0,6,jonathan-phillips-1
+Shane Popham,2009-09-12,2,Wake Forest,,Stanford,W,3,3,100.0,1,2,50.0,6,shane-popham-1
+John Potter,2009-09-12,2,Western Michigan,@,Indiana,L,2,2,100.0,1,1,100.0,5,john-potter-1
+Craig Ratanamorn,2009-09-12,2,Marshall,@,Virginia Tech,L,1,1,100.0,1,1,100.0,4,craig-ratanamorn-1
+Grant Ressel,2009-09-12,2,Missouri,,Bowling Green State,W,3,3,100.0,2,2,100.0,9,grant-ressel-1
+Branko Rogovic,2009-09-12,2,Akron,,South Dakota,W,5,5,100.0,2,4,50.0,11,branko-rogovic-1
+Mike Salerno,2009-09-12,2,Northern Illinois,,Western Illinois,W,5,5,100.0,2,2,100.0,11,mike-salerno-1
+Jake Smith,2009-09-12,2,Syracuse,@,Penn State,L,0,0,,0,1,0.0,0,jake-smith-1
+Will Snyderwine,2009-09-12,2,Duke,@,Army,W,5,5,100.0,0,1,0.0,5,will-snyderwine-1
+Erik Soderberg,2009-09-12,2,Air Force,@,Minnesota,L,1,1,100.0,2,2,100.0,7,erik-soderberg-1
+Brett Swenson,2009-09-12,2,Michigan State,,Central Michigan,L,3,3,100.0,2,2,100.0,9,brett-swenson-1
+Nick Tausch,2009-09-12,2,Notre Dame,@,Michigan,L,2,2,100.0,2,3,66.7,8,nick-tausch-1
+San San Te,2009-09-12,2,Rutgers,,Howard,W,4,4,100.0,3,4,75.0,13,san-san-te-1
+Dave Teggart,2009-09-12,2,Connecticut,,North Carolina,L,1,1,100.0,1,1,100.0,4,dave-teggart-1
+Ross Thevenot,2009-09-12,2,Tulane,,Brigham Young,L,0,0,,1,1,100.0,3,ross-thevenot-1
+Leigh Tiffin,2009-09-12,2,Alabama,,Florida International,W,4,4,100.0,2,3,66.7,10,leigh-tiffin-1
+Casey Tinius,2009-09-12,2,Western Kentucky,,South Florida,L,1,1,100.0,2,2,100.0,7,casey-tinius-1
+Ben Vroman,2009-09-12,2,Utah,@,San Jose State,W,1,1,100.0,0,3,0.0,1,ben-vroman-1
+Matt Waldron,2009-09-12,2,Virginia Tech,,Marshall,W,7,7,100.0,1,1,100.0,10,matt-waldron-1
+Blair Walsh,2009-09-12,2,Georgia,,South Carolina,W,5,5,100.0,2,2,100.0,11,blair-walsh-1
+Philip Welch,2009-09-12,2,Wisconsin,,Fresno State,W,4,4,100.0,2,3,66.7,10,philip-welch-1
+Matt Weller,2009-09-12,2,Ohio,@,North Texas,W,2,2,100.0,3,3,100.0,11,matt-weller-1
+Nate Whitaker,2009-09-12,2,Stanford,@,Wake Forest,L,2,2,100.0,1,2,50.0,5,nate-whitaker-1
+Carson Wiggs,2009-09-12,2,Purdue,@,Oregon,L,3,4,75.0,1,1,100.0,6,carson-wiggs-1
+Matt Williams,2009-09-12,2,Texas Tech,,Rice,W,7,8,87.5,0,1,0.0,7,matt-williams-1
+Lane Yoshida,2009-09-12,2,San Diego State,,Southern Utah,W,4,4,100.0,1,2,50.0,7,lane-yoshida-1
+Alex Zendejas,2009-09-12,2,Arizona,,Northern Arizona,W,4,5,80.0,0,1,0.0,4,alex-zendejas-1
+Scott Blair,2009-09-17,3,Georgia Tech,@,Miami (FL),L,2,2,100.0,1,2,50.0,5,scott-blair-1
+Matt Bosher,2009-09-17,2,Miami (FL),,Georgia Tech,W,4,4,100.0,1,3,33.3,7,matt-bosher-1
+Kyle Brotzman,2009-09-18,3,Boise State,@,Fresno State,W,4,4,100.0,2,2,100.0,10,kyle-brotzman-1
+Kevin Goessling,2009-09-18,3,Fresno State,,Boise State,L,4,4,100.0,2,2,100.0,10,kevin-goessling-1
+Jimmy Pavel,2009-09-18,3,Boise State,@,Fresno State,W,2,2,100.0,1,1,100.0,5,jimmy-pavel-1
+Andrew Aguila,2009-09-19,3,Central Michigan,,Alcorn State,W,5,5,100.0,2,2,100.0,11,andrew-aguila-1
+James Aho,2009-09-19,3,New Mexico,,Air Force,L,1,1,100.0,0,1,0.0,1,james-aho-1
+Tyler Albrecht,2009-09-19,3,Louisiana,@,Louisiana State,L,0,0,,1,1,100.0,3,tyler-albrecht-1
+Delbert Alvarado,2009-09-19,3,South Florida,,Charleston Southern,W,4,4,100.0,0,1,0.0,4,delbert-alvarado-1
+Dan Bailey,2009-09-19,3,Oklahoma State,,Rice,W,5,5,100.0,2,3,66.7,11,dan-bailey-1
+Logan Barrett,2009-09-19,3,Texas-El Paso,@,New Mexico State,W,5,5,100.0,1,1,100.0,8,logan-barrett-1
+Casey Barth,2009-09-19,3,North Carolina,,East Carolina,W,4,4,100.0,1,2,50.0,7,casey-barth-1
+Tyler Bitancurt,2009-09-19,3,West Virginia,@,Auburn,L,3,4,75.0,1,1,100.0,6,tyler-bitancurt-1
+Jacob Branstetter,2009-09-19,3,Kansas,,Duke,W,5,6,83.3,1,1,100.0,8,jacob-branstetter-1
+Sean Brauchle,2009-09-19,3,Mississippi State,@,Vanderbilt,W,0,0,,3,3,100.0,9,sean-brauchle-1
+Joe Buckley,2009-09-19,3,Navy,@,Pittsburgh,L,2,2,100.0,0,1,0.0,2,joe-buckley-1
+Randy Bullock,2009-09-19,2,Texas A&M,,Utah State,W,5,5,100.0,1,2,50.0,8,randy-bullock-1
+Wes Byrum,2009-09-19,3,Auburn,,West Virginia,W,5,5,100.0,2,2,100.0,11,wes-byrum-1
+Joe Carithers,2009-09-19,3,Eastern Michigan,@,Michigan,L,2,2,100.0,1,1,100.0,5,joe-carithers-1
+Alex Carlton,2009-09-19,3,Army,,Ball State,W,3,3,100.0,1,1,100.0,6,alex-carlton-1
+Nick Cattoi,2009-09-19,3,Central Florida,,Buffalo,W,2,2,100.0,3,3,100.0,11,nick-cattoi-1
+Josh Cherry,2009-09-19,3,Kansas State,@,UCLA,L,0,0,,1,2,50.0,3,josh-cherry-1
+Jordan Congdon,2009-09-19,3,Southern California,@,Washington,L,1,1,100.0,2,2,100.0,7,jordan-congdon-1
+Tyler Cope,2009-09-19,3,San Jose State,@,Stanford,L,2,2,100.0,1,1,100.0,5,tyler-cope-1
+Freddy Cortez,2009-09-19,3,Kent State,,Iowa State,L,2,2,100.0,0,1,0.0,2,freddy-cortez-1
+Josh Czajkowski,2009-09-19,3,North Carolina State,,Gardner-Webb,W,6,6,100.0,1,1,100.0,9,josh-czajkowski-1
+Vince D'Amato,2009-09-19,3,California,@,Minnesota,W,5,5,100.0,0,1,0.0,5,vince-damato-1
+Scott Enos,2009-09-19,3,Hawaii,@,Nevada-Las Vegas,L,3,3,100.0,2,3,66.7,9,scott-enos-1
+Justin Estes,2009-09-19,3,Southern Mississippi,,Virginia,W,4,5,80.0,1,1,100.0,7,justin-estes-1
+Clark Fangmeier,2009-09-19,3,Rice,@,Oklahoma State,L,3,3,100.0,1,1,100.0,6,clark-fangmeier-1
+Trey Farquhar,2009-09-19,3,Idaho,,San Diego State,W,4,4,100.0,2,4,50.0,10,trey-farquhar-1
+Nick Ferrara,2009-09-19,3,Maryland,,Middle Tennessee State,L,4,4,100.0,1,3,33.3,7,nick-ferrara-1
+Kevin Fitzpatrick,2009-09-19,3,Tulsa,@,Oklahoma,L,0,0,,0,1,0.0,0,kevin-fitzpatrick-1
+Morgan Flint,2009-09-19,3,Oregon,,Utah,W,4,4,100.0,1,1,100.0,7,morgan-flint-1
+Erik Folk,2009-09-19,3,Washington,,Southern California,W,1,1,100.0,3,3,100.0,10,erik-folk-1
+Kai Forbath,2009-09-19,3,UCLA,,Kansas State,W,2,2,100.0,3,3,100.0,11,kai-forbath-1
+Ryan Fowler,2009-09-19,3,Vanderbilt,,Mississippi State,L,0,0,,1,1,100.0,3,ryan-fowler-2
+Nick Freeland,2009-09-19,3,Indiana,@,Akron,W,5,5,100.0,1,2,50.0,8,nick-freeland-1
+Alan Gendreau,2009-09-19,3,Middle Tennessee State,@,Maryland,W,2,3,66.7,2,2,100.0,8,alan-gendreau-1
+Sam Glusman,2009-09-19,3,Troy,,Alabama-Birmingham,W,3,3,100.0,2,2,100.0,9,sam-glusman-1
+Aric Goodman,2009-09-19,3,Colorado,,Wyoming,W,3,3,100.0,1,1,100.0,6,aric-goodman-1
+Ross Gornall,2009-09-19,2,Florida Atlantic,@,South Carolina,L,1,2,50.0,1,1,100.0,4,ross-gornall-1
+Nico Grasu,2009-09-19,3,Washington State,,Southern Methodist,W,3,3,100.0,1,2,50.0,6,nico-grasu-1
+Ben Hartman,2009-09-19,3,East Carolina,@,North Carolina,L,2,2,100.0,1,2,50.0,5,ben-hartman-1
+Alex Henery,2009-09-19,3,Nebraska,@,Virginia Tech,L,0,0,,5,5,100.0,15,alex-henery-1
+Dustin Hopkins,2009-09-19,3,Florida State,@,Brigham Young,W,6,7,85.7,2,3,66.7,12,dustin-hopkins-1
+Kyle Hughes,2009-09-19,3,New Mexico State,,Texas-El Paso,L,0,0,,0,1,0.0,0,kyle-hughes-1
+Dan Hutchins,2009-09-19,3,Pittsburgh,,Navy,W,3,3,100.0,2,2,100.0,9,dan-hutchins-1
+Richard Jackson,2009-09-19,3,Clemson,,Boston College,W,1,1,100.0,6,6,100.0,19,richard-jackson-2
+Josh Jasper,2009-09-19,3,Louisiana State,,Louisiana,W,4,4,100.0,1,1,100.0,7,josh-jasper-1
+Justin Kahut,2009-09-19,3,Oregon State,,Cincinnati,L,1,1,100.0,3,3,100.0,10,justin-kahut-1
+Spencer Lanning,2009-09-19,3,South Carolina,,Florida Atlantic,W,5,5,100.0,1,1,100.0,8,spencer-lanning-1
+Hunter Lawrence,2009-09-19,3,Texas,,Texas Tech,W,4,4,100.0,2,2,100.0,10,hunter-lawrence-1
+Ryan Lichtenstein,2009-09-19,3,Syracuse,,Northwestern,W,4,4,100.0,3,4,75.0,13,ryan-lichtenstein-1
+Daniel Lincoln,2009-09-19,3,Tennessee,@,Florida,L,1,1,100.0,2,2,100.0,7,daniel-lincoln-1
+Grant Mahoney,2009-09-19,3,Iowa State,@,Kent State,W,4,4,100.0,2,2,100.0,10,grant-mahoney-1
+Austin McCoy,2009-09-19,3,Wyoming,@,Colorado,L,0,0,,0,2,0.0,0,austin-mccoy-1
+Ian McGarvey,2009-09-19,3,Ball State,@,Army,L,2,2,100.0,1,2,50.0,5,ian-mcgarvey-1
+Brandon McManus,2009-09-19,2,Temple,@,Penn State,L,0,0,,2,2,100.0,6,brandon-mcmanus-1
+Daniel Murray,2009-09-19,3,Iowa,,Arizona,W,3,3,100.0,2,2,100.0,9,daniel-murray-1
+Matt Nelson,2009-09-19,3,Louisiana Tech,,Nicholls State,W,6,6,100.0,2,2,100.0,12,matt-nelson-1
+Jason Olesnavage,2009-09-19,3,Michigan,,Eastern Michigan,W,6,6,100.0,1,1,100.0,9,jason-olesnavage-1
+Ryan Payne,2009-09-19,2,Louisville,@,Kentucky,L,3,3,100.0,2,3,66.7,9,ryan-payne-1
+Aaron Pettrey,2009-09-19,3,Ohio State,N,Toledo,W,5,5,100.0,1,2,50.0,8,aaron-pettrey-1
+Jerry Phillips,2009-09-19,3,Bowling Green State,@,Marshall,L,1,1,100.0,1,3,33.3,4,jerry-phillips-1
+Joe Phillips,2009-09-19,3,Utah,@,Oregon,L,3,3,100.0,1,1,100.0,6,joe-phillips-1
+John Potter,2009-09-19,3,Western Michigan,,Miami (OH),W,6,7,85.7,0,1,0.0,6,john-potter-1
+A.J. Principe,2009-09-19,3,Buffalo,@,Central Florida,L,2,2,100.0,1,1,100.0,5,aj-principe-1
+Robert Randolph,2009-09-19,3,Virginia,@,Southern Mississippi,L,4,4,100.0,2,2,100.0,10,robert-randolph-1
+Craig Ratanamorn,2009-09-19,3,Marshall,,Bowling Green State,W,2,2,100.0,1,1,100.0,5,craig-ratanamorn-1
+Matt Reagan,2009-09-19,3,Memphis,,Tennessee-Martin,W,5,5,100.0,2,2,100.0,11,matt-reagan-1
+Grant Ressel,2009-09-19,3,Missouri,,Furman,W,7,7,100.0,1,1,100.0,10,grant-ressel-1
+Jacob Rogers,2009-09-19,3,Cincinnati,@,Oregon State,W,4,4,100.0,0,1,0.0,4,jacob-rogers-1
+Mike Salerno,2009-09-19,3,Northern Illinois,@,Purdue,W,4,4,100.0,0,1,0.0,4,mike-salerno-1
+Eric Schwartz,2009-09-19,3,South Florida,,Charleston Southern,W,4,4,100.0,1,1,100.0,7,eric-schwartz-1
+Lones Seiber,2009-09-19,2,Kentucky,,Louisville,W,4,4,100.0,1,1,100.0,7,lones-seiber-1
+Joshua Shene,2009-09-19,2,Mississippi,,Southeastern Louisiana,W,5,5,100.0,1,1,100.0,8,joshua-shene-1
+Will Snyderwine,2009-09-19,3,Duke,@,Kansas,L,0,0,,1,1,100.0,3,will-snyderwine-1
+Erik Soderberg,2009-09-19,3,Air Force,@,New Mexico,W,4,4,100.0,3,5,60.0,13,erik-soderberg-1
+Jimmy Stevens,2009-09-19,3,Oklahoma,,Tulsa,W,6,6,100.0,1,2,50.0,9,jimmy-stevens-1
+Caleb Sturgis,2009-09-19,3,Florida,,Tennessee,W,2,2,100.0,3,3,100.0,11,caleb-sturgis-1
+Brett Swenson,2009-09-19,3,Michigan State,@,Notre Dame,L,3,4,75.0,1,2,50.0,6,brett-swenson-1
+Matt Szymanski,2009-09-19,3,Southern Methodist,@,Washington State,L,3,3,100.0,2,2,100.0,9,matt-szymanski-1
+Nick Tausch,2009-09-19,3,Notre Dame,,Michigan State,W,3,4,75.0,2,2,100.0,9,nick-tausch-1
+San San Te,2009-09-19,3,Rutgers,,Florida International,W,2,2,100.0,3,5,60.0,11,san-san-te-1
+Dave Teggart,2009-09-19,3,Connecticut,@,Baylor,W,3,3,100.0,3,4,75.0,12,dave-teggart-1
+Alex Tejada,2009-09-19,2,Arkansas,,Georgia,L,5,5,100.0,2,2,100.0,11,alex-tejada-1
+Leigh Tiffin,2009-09-19,3,Alabama,,North Texas,W,5,7,71.4,2,2,100.0,11,leigh-tiffin-1
+Chris Ulinski,2009-09-19,2,Utah State,@,Texas A&M,L,3,3,100.0,1,1,100.0,6,chris-ulinski-1
+Collin Wagner,2009-09-19,3,Penn State,,Temple,W,4,4,100.0,1,1,100.0,7,collin-wagner-1
+Matt Waldron,2009-09-19,3,Virginia Tech,,Nebraska,W,1,1,100.0,1,1,100.0,4,matt-waldron-1
+Blair Walsh,2009-09-19,3,Georgia,@,Arkansas,W,5,5,100.0,3,3,100.0,14,blair-walsh-1
+Kyle Watson,2009-09-19,3,Nevada-Las Vegas,,Hawaii,W,4,4,100.0,0,1,0.0,4,kyle-watson-1
+Philip Welch,2009-09-19,3,Wisconsin,,Wofford,W,5,6,83.3,1,1,100.0,8,philip-welch-1
+Matt Weller,2009-09-19,3,Ohio,,Cal Poly,W,4,4,100.0,0,3,0.0,4,matt-weller-1
+Bobby Wenzig,2009-09-19,2,Arizona State,,Louisiana-Monroe,W,5,5,100.0,1,1,100.0,8,bobby-wenzig-1
+Nate Whitaker,2009-09-19,3,Stanford,,San Jose State,W,6,6,100.0,0,1,0.0,6,nate-whitaker-1
+Carson Wiggs,2009-09-19,3,Purdue,,Northern Illinois,L,3,3,100.0,0,1,0.0,3,carson-wiggs-1
+Matt Williams,2009-09-19,3,Texas Tech,@,Texas,L,3,3,100.0,1,1,100.0,6,matt-williams-1
+Lane Yoshida,2009-09-19,3,San Diego State,@,Idaho,L,2,2,100.0,2,2,100.0,8,lane-yoshida-1
+Josh Zahn,2009-09-19,3,Alabama-Birmingham,@,Troy,L,0,0,,2,2,100.0,6,josh-zahn-1
+Alex Zendejas,2009-09-19,3,Arizona,@,Iowa,L,2,2,100.0,1,1,100.0,5,alex-zendejas-1
+Spencer Lanning,2009-09-24,4,South Carolina,,Mississippi,W,1,1,100.0,3,3,100.0,10,spencer-lanning-1
+Joshua Shene,2009-09-24,3,Mississippi,@,South Carolina,L,1,1,100.0,1,1,100.0,4,joshua-shene-1
+Grant Ressel,2009-09-25,4,Missouri,@,Nevada,W,1,1,100.0,4,4,100.0,13,grant-ressel-1
+Andrew Aguila,2009-09-26,4,Central Michigan,,Akron,W,6,7,85.7,0,1,0.0,6,andrew-aguila-1
+James Aho,2009-09-26,4,New Mexico,,New Mexico State,L,2,2,100.0,1,3,33.3,5,james-aho-1
+Tyler Albrecht,2009-09-26,4,Louisiana,@,Nebraska,L,0,0,,0,1,0.0,0,tyler-albrecht-1
+Steve Aponavicius,2009-09-26,4,Boston College,,Wake Forest,W,3,3,100.0,2,2,100.0,9,steve-aponavicius-1
+Josh Arauco,2009-09-26,3,Arkansas State,,Troy,L,3,3,100.0,2,2,100.0,9,josh-arauco-1
+Dan Bailey,2009-09-26,4,Oklahoma State,,Grambling State,W,8,8,100.0,0,1,0.0,8,dan-bailey-1
+Logan Barrett,2009-09-26,4,Texas-El Paso,@,Texas,L,1,1,100.0,0,1,0.0,1,logan-barrett-1
+Casey Barth,2009-09-26,4,North Carolina,@,Georgia Tech,L,1,1,100.0,0,1,0.0,1,casey-barth-1
+Scott Blair,2009-09-26,4,Georgia Tech,,North Carolina,W,2,2,100.0,1,3,33.3,5,scott-blair-1
+Sean Brauchle,2009-09-26,4,Mississippi State,,Louisiana State,L,3,3,100.0,1,1,100.0,6,sean-brauchle-1
+Kyle Brotzman,2009-09-26,4,Boise State,@,Bowling Green State,W,5,5,100.0,0,1,0.0,5,kyle-brotzman-1
+Wes Byrum,2009-09-26,4,Auburn,,Ball State,W,7,7,100.0,1,1,100.0,10,wes-byrum-1
+Alex Carlton,2009-09-26,4,Army,@,Iowa State,L,1,1,100.0,1,2,50.0,4,alex-carlton-1
+Nick Cattoi,2009-09-26,4,Central Florida,@,East Carolina,L,1,1,100.0,0,2,0.0,1,nick-cattoi-1
+Josh Cherry,2009-09-26,4,Kansas State,,Tennessee Tech,W,5,5,100.0,0,1,0.0,5,josh-cherry-1
+Jordan Congdon,2009-09-26,4,Southern California,,Washington State,W,3,3,100.0,0,1,0.0,3,jordan-congdon-1
+Trevor Cook,2009-09-26,4,Miami (OH),@,Kent State,L,1,1,100.0,2,2,100.0,7,trevor-cook-1
+Tyler Cope,2009-09-26,4,San Jose State,,Cal Poly,W,1,3,33.3,0,1,0.0,1,tyler-cope-1
+Freddy Cortez,2009-09-26,4,Kent State,,Miami (OH),W,2,3,66.7,3,3,100.0,11,freddy-cortez-1
+Josh Czajkowski,2009-09-26,4,North Carolina State,,Pittsburgh,W,5,5,100.0,1,3,33.3,8,josh-czajkowski-1
+Vince D'Amato,2009-09-26,4,California,@,Oregon,L,0,0,,1,2,50.0,3,vince-damato-1
+Ben Deline,2009-09-26,4,Colorado State,@,Brigham Young,L,2,2,100.0,1,2,50.0,5,ben-deline-1
+Stefan Demos,2009-09-26,4,Northwestern,,Minnesota,L,3,3,100.0,1,1,100.0,6,stefan-demos-1
+Ross Evans,2009-09-26,3,Texas Christian,@,Clemson,W,2,2,100.0,0,1,0.0,2,ross-evans-1
+Clark Fangmeier,2009-09-26,4,Rice,,Vanderbilt,L,2,2,100.0,1,1,100.0,5,clark-fangmeier-1
+Trey Farquhar,2009-09-26,4,Idaho,@,Northern Illinois,W,4,4,100.0,2,3,66.7,10,trey-farquhar-1
+Nick Ferrara,2009-09-26,4,Maryland,,Rutgers,L,1,1,100.0,2,2,100.0,7,nick-ferrara-1
+Morgan Flint,2009-09-26,4,Oregon,,California,W,4,4,100.0,2,2,100.0,10,morgan-flint-1
+Ryan Fowler,2009-09-26,4,Vanderbilt,@,Rice,W,3,3,100.0,3,3,100.0,12,ryan-fowler-2
+Nick Freeland,2009-09-26,4,Indiana,@,Michigan,L,3,3,100.0,4,5,80.0,15,nick-freeland-1
+Alan Gendreau,2009-09-26,4,Middle Tennessee State,@,North Texas,W,4,4,100.0,3,3,100.0,13,alan-gendreau-1
+Sam Glusman,2009-09-26,4,Troy,@,Arkansas State,W,3,3,100.0,3,4,75.0,12,sam-glusman-1
+Kevin Goessling,2009-09-26,4,Fresno State,@,Cincinnati,L,2,2,100.0,2,2,100.0,8,kevin-goessling-1
+Ross Gornall,2009-09-26,3,Florida Atlantic,,Louisiana-Monroe,L,2,3,66.7,1,1,100.0,5,ross-gornall-1
+Nico Grasu,2009-09-26,4,Washington State,@,Southern California,L,0,1,0.0,0,1,0.0,0,nico-grasu-1
+Ben Hartman,2009-09-26,4,East Carolina,,Central Florida,W,1,1,100.0,2,3,66.7,7,ben-hartman-1
+Alex Henery,2009-09-26,4,Nebraska,,Louisiana,W,7,7,100.0,2,2,100.0,13,alex-henery-1
+Dustin Hopkins,2009-09-26,4,Florida State,,South Florida,L,1,1,100.0,0,1,0.0,1,dustin-hopkins-1
+Kyle Hughes,2009-09-26,4,New Mexico State,@,New Mexico,W,2,2,100.0,2,3,66.7,8,kyle-hughes-1
+Dan Hutchins,2009-09-26,4,Pittsburgh,@,North Carolina State,L,4,4,100.0,1,1,100.0,7,dan-hutchins-1
+Igor Iveljic,2009-09-26,4,Akron,@,Central Michigan,L,3,3,100.0,0,1,0.0,3,igor-iveljic-1
+Radi Jabour,2009-09-26,4,Louisiana-Monroe,@,Florida Atlantic,W,3,3,100.0,2,2,100.0,9,radi-jabour-1
+Richard Jackson,2009-09-26,4,Clemson,,Texas Christian,L,1,1,100.0,1,2,50.0,4,richard-jackson-2
+Josh Jasper,2009-09-26,4,Louisiana State,@,Mississippi State,W,3,3,100.0,1,2,50.0,6,josh-jasper-1
+Justin Kahut,2009-09-26,4,Oregon State,,Arizona,L,3,3,100.0,1,1,100.0,6,justin-kahut-1
+Jeremy Knott,2009-09-26,4,North Texas,,Middle Tennessee State,L,3,3,100.0,0,1,0.0,3,jeremy-knott-1
+Hunter Lawrence,2009-09-26,4,Texas,,Texas-El Paso,W,5,6,83.3,3,4,75.0,14,hunter-lawrence-1
+Ryan Lichtenstein,2009-09-26,4,Syracuse,,Maine,W,5,5,100.0,2,2,100.0,11,ryan-lichtenstein-1
+Daniel Lincoln,2009-09-26,4,Tennessee,,Ohio,W,4,4,100.0,2,3,66.7,10,daniel-lincoln-1
+Grant Mahoney,2009-09-26,4,Iowa State,,Army,W,4,4,100.0,1,2,50.0,7,grant-mahoney-1
+Jordan Mannisto,2009-09-26,3,Houston,,Texas Tech,W,2,2,100.0,3,5,60.0,11,jordan-mannisto-1
+Ian McGarvey,2009-09-26,4,Ball State,@,Auburn,L,3,3,100.0,3,3,100.0,12,ian-mcgarvey-1
+Brandon McManus,2009-09-26,3,Temple,,Buffalo,W,4,4,100.0,3,5,60.0,13,brandon-mcmanus-1
+Daniel Murray,2009-09-26,4,Iowa,@,Penn State,W,1,1,100.0,2,3,66.7,7,daniel-murray-1
+Jimmy Newman,2009-09-26,4,Wake Forest,@,Boston College,L,3,3,100.0,1,2,50.0,6,jimmy-newman-1
+Ryan Payne,2009-09-26,3,Louisville,@,Utah,L,2,2,100.0,0,1,0.0,2,ryan-payne-1
+Aaron Pettrey,2009-09-26,4,Ohio State,,Illinois,W,3,3,100.0,3,3,100.0,12,aaron-pettrey-1
+Jerry Phillips,2009-09-26,4,Bowling Green State,,Boise State,L,2,2,100.0,0,1,0.0,2,jerry-phillips-1
+Joe Phillips,2009-09-26,4,Utah,,Louisville,W,3,3,100.0,3,3,100.0,12,joe-phillips-1
+John Potter,2009-09-26,4,Western Michigan,,Hofstra,W,3,3,100.0,1,1,100.0,6,john-potter-1
+A.J. Principe,2009-09-26,4,Buffalo,@,Temple,L,1,1,100.0,2,2,100.0,7,aj-principe-1
+Craig Ratanamorn,2009-09-26,4,Marshall,@,Memphis,W,3,3,100.0,2,2,100.0,9,craig-ratanamorn-1
+Matt Reagan,2009-09-26,4,Memphis,,Marshall,L,1,1,100.0,3,3,100.0,10,matt-reagan-1
+Dustin Rivest,2009-09-26,3,Florida International,,Toledo,L,4,4,100.0,1,2,50.0,7,dustin-rivest-1
+Mike Salerno,2009-09-26,4,Northern Illinois,,Idaho,L,2,2,100.0,3,4,75.0,11,mike-salerno-1
+Eric Schwartz,2009-09-26,4,South Florida,@,Florida State,W,2,2,100.0,1,3,33.3,5,eric-schwartz-1
+Erik Soderberg,2009-09-26,4,Air Force,,San Diego State,W,2,2,100.0,4,6,66.7,14,erik-soderberg-1
+Alex Steigerwald,2009-09-26,4,Toledo,@,Florida International,W,5,5,100.0,2,2,100.0,11,alex-steigerwald-1
+Caleb Sturgis,2009-09-26,4,Florida,@,Kentucky,W,5,5,100.0,2,2,100.0,11,caleb-sturgis-1
+Brett Swenson,2009-09-26,4,Michigan State,@,Wisconsin,L,3,3,100.0,1,1,100.0,6,brett-swenson-1
+Nick Tausch,2009-09-26,4,Notre Dame,@,Purdue,W,3,3,100.0,1,1,100.0,6,nick-tausch-1
+San San Te,2009-09-26,4,Rutgers,@,Maryland,W,4,4,100.0,2,2,100.0,10,san-san-te-1
+Jon Teague,2009-09-26,4,Navy,,Western Kentucky,W,5,5,100.0,1,2,50.0,8,jon-teague-1
+Dave Teggart,2009-09-26,4,Connecticut,,Rhode Island,W,7,7,100.0,1,1,100.0,10,dave-teggart-1
+Casey Tinius,2009-09-26,4,Western Kentucky,@,Navy,L,2,2,100.0,0,1,0.0,2,casey-tinius-1
+Chris Ulinski,2009-09-26,3,Utah State,,Southern Utah,W,6,7,85.7,1,1,100.0,9,chris-ulinski-1
+Collin Wagner,2009-09-26,4,Penn State,,Iowa,L,1,1,100.0,1,2,50.0,4,collin-wagner-1
+Matt Waldron,2009-09-26,4,Virginia Tech,,Miami (FL),W,4,4,100.0,1,2,50.0,7,matt-waldron-1
+Blair Walsh,2009-09-26,4,Georgia,,Arizona State,W,2,2,100.0,2,2,100.0,8,blair-walsh-1
+Kyle Watson,2009-09-26,4,Nevada-Las Vegas,@,Wyoming,L,3,3,100.0,2,2,100.0,9,kyle-watson-1
+Ian Watts,2009-09-26,4,Wyoming,,Nevada-Las Vegas,W,3,3,100.0,3,3,100.0,12,ian-watts-1
+Philip Welch,2009-09-26,4,Wisconsin,,Michigan State,W,5,5,100.0,1,1,100.0,8,philip-welch-1
+Matt Weller,2009-09-26,4,Ohio,@,Tennessee,L,2,2,100.0,3,4,75.0,11,matt-weller-1
+Bobby Wenzig,2009-09-26,3,Arizona State,@,Georgia,L,2,2,100.0,1,2,50.0,5,bobby-wenzig-1
+Nate Whitaker,2009-09-26,4,Stanford,,Washington,W,4,4,100.0,2,2,100.0,10,nate-whitaker-1
+Lane Yoshida,2009-09-26,4,San Diego State,@,Air Force,L,0,1,0.0,0,1,0.0,0,lane-yoshida-1
+Josh Zahn,2009-09-26,4,Alabama-Birmingham,@,Texas A&M,L,1,1,100.0,2,3,66.7,7,josh-zahn-1
+Scott Enos,2009-09-30,4,Hawaii,@,Louisiana Tech,L,0,0,,2,2,100.0,6,scott-enos-1
+Matt Nelson,2009-09-30,4,Louisiana Tech,,Hawaii,W,3,3,100.0,2,3,66.7,9,matt-nelson-1
+Justin Estes,2009-10-01,5,Southern Mississippi,@,Alabama-Birmingham,L,2,2,100.0,1,1,100.0,5,justin-estes-1
+Aric Goodman,2009-10-01,4,Colorado,@,West Virginia,L,3,3,100.0,1,4,25.0,6,aric-goodman-1
+Josh Zahn,2009-10-01,5,Alabama-Birmingham,,Southern Mississippi,W,3,3,100.0,3,3,100.0,12,josh-zahn-1
+Ryan Payne,2009-10-02,4,Louisville,,Pittsburgh,L,1,1,100.0,1,1,100.0,4,ryan-payne-1
+Chris Ulinski,2009-10-02,4,Utah State,@,Brigham Young,L,2,2,100.0,1,1,100.0,5,chris-ulinski-1
+James Aho,2009-10-03,5,New Mexico,@,Texas Tech,L,4,4,100.0,0,1,0.0,4,james-aho-1
+Josh Arauco,2009-10-03,4,Arkansas State,@,Iowa,L,3,3,100.0,0,1,0.0,3,josh-arauco-1
+Logan Barrett,2009-10-03,5,Texas-El Paso,,Houston,W,7,8,87.5,1,1,100.0,10,logan-barrett-1
+Casey Barth,2009-10-03,5,North Carolina,,Virginia,L,0,0,,1,1,100.0,3,casey-barth-1
+Sean Brauchle,2009-10-03,5,Mississippi State,,Georgia Tech,L,1,1,100.0,0,1,0.0,1,sean-brauchle-1
+Kyle Brotzman,2009-10-03,5,Boise State,,California-Davis,W,4,4,100.0,2,2,100.0,10,kyle-brotzman-1
+Joe Buckley,2009-10-03,5,Navy,,Air Force,W,1,1,100.0,3,3,100.0,10,joe-buckley-1
+Randy Bullock,2009-10-03,4,Texas A&M,N,Arkansas,L,1,1,100.0,2,2,100.0,7,randy-bullock-1
+Wes Byrum,2009-10-03,5,Auburn,@,Tennessee,W,2,2,100.0,4,5,80.0,14,wes-byrum-1
+Joe Carithers,2009-10-03,4,Eastern Michigan,,Temple,L,0,0,,2,3,66.7,6,joe-carithers-1
+Alex Carlton,2009-10-03,5,Army,,Tulane,L,1,1,100.0,3,4,75.0,10,alex-carlton-1
+Nick Cattoi,2009-10-03,5,Central Florida,,Memphis,W,2,2,100.0,4,4,100.0,14,nick-cattoi-1
+Josh Cherry,2009-10-03,5,Kansas State,,Iowa State,W,3,3,100.0,1,1,100.0,6,josh-cherry-1
+Jordan Congdon,2009-10-03,5,Southern California,@,California,W,3,3,100.0,3,3,100.0,12,jordan-congdon-1
+Freddy Cortez,2009-10-03,5,Kent State,@,Baylor,L,1,2,50.0,0,2,0.0,1,freddy-cortez-1
+Josh Czajkowski,2009-10-03,5,North Carolina State,@,Wake Forest,L,3,3,100.0,1,1,100.0,6,josh-czajkowski-1
+Vince D'Amato,2009-10-03,5,California,,Southern California,L,0,0,,1,2,50.0,3,vince-damato-1
+Ben Deline,2009-10-03,5,Colorado State,@,Idaho,L,2,3,66.7,1,2,50.0,5,ben-deline-1
+Stefan Demos,2009-10-03,5,Northwestern,@,Purdue,W,1,1,100.0,4,4,100.0,13,stefan-demos-1
+Derek Depasquale,2009-10-03,5,Mississippi State,,Georgia Tech,L,3,3,100.0,1,1,100.0,6,derek-depasquale-1
+Matt Eller,2009-10-03,4,Illinois,,Penn State,L,2,2,100.0,1,1,100.0,5,matt-eller-1
+Eric Ellestad,2009-10-03,5,Minnesota,,Wisconsin,L,2,2,100.0,2,2,100.0,8,eric-ellestad-1
+Clark Fangmeier,2009-10-03,5,Rice,,Tulsa,L,1,1,100.0,1,1,100.0,4,clark-fangmeier-1
+Trey Farquhar,2009-10-03,5,Idaho,,Colorado State,W,4,4,100.0,1,1,100.0,7,trey-farquhar-1
+Nick Ferrara,2009-10-03,5,Maryland,,Clemson,W,3,3,100.0,1,1,100.0,6,nick-ferrara-1
+Kevin Fitzpatrick,2009-10-03,5,Tulsa,@,Rice,W,3,3,100.0,2,2,100.0,9,kevin-fitzpatrick-1
+Morgan Flint,2009-10-03,5,Oregon,,Washington State,W,6,6,100.0,1,2,50.0,9,morgan-flint-1
+Erik Folk,2009-10-03,5,Washington,@,Notre Dame,L,3,3,100.0,3,3,100.0,12,erik-folk-1
+Kai Forbath,2009-10-03,4,UCLA,@,Stanford,L,1,1,100.0,3,3,100.0,10,kai-forbath-1
+Ryan Fowler,2009-10-03,5,Vanderbilt,,Mississippi,L,1,1,100.0,0,2,0.0,1,ryan-fowler-2
+Dustin Hopkins,2009-10-03,5,Florida State,@,Boston College,L,1,1,100.0,2,3,66.7,7,dustin-hopkins-1
+Kyle Hughes,2009-10-03,5,New Mexico State,@,San Diego State,L,2,2,100.0,1,1,100.0,5,kyle-hughes-1
+Radi Jabour,2009-10-03,5,Louisiana-Monroe,,Florida International,W,6,6,100.0,2,2,100.0,12,radi-jabour-1
+Richard Jackson,2009-10-03,5,Clemson,@,Maryland,L,1,1,100.0,2,4,50.0,7,richard-jackson-2
+Josh Jasper,2009-10-03,5,Louisiana State,@,Georgia,W,0,0,,2,2,100.0,6,josh-jasper-1
+Justin Kahut,2009-10-03,5,Oregon State,@,Arizona State,W,4,4,100.0,0,1,0.0,4,justin-kahut-1
+Spencer Lanning,2009-10-03,5,South Carolina,,South Carolina State,W,4,4,100.0,1,1,100.0,7,spencer-lanning-1
+Ryan Lichtenstein,2009-10-03,5,Syracuse,,South Florida,L,2,2,100.0,2,2,100.0,8,ryan-lichtenstein-1
+Daniel Lincoln,2009-10-03,5,Tennessee,,Auburn,L,1,2,50.0,1,2,50.0,4,daniel-lincoln-1
+Grant Mahoney,2009-10-03,5,Iowa State,@,Kansas State,L,2,3,66.7,1,1,100.0,5,grant-mahoney-1
+Jordan Mannisto,2009-10-03,4,Houston,@,Texas-El Paso,L,5,5,100.0,2,3,66.7,11,jordan-mannisto-1
+Ian McGarvey,2009-10-03,5,Ball State,,Toledo,L,1,2,50.0,3,3,100.0,10,ian-mcgarvey-1
+Brandon McManus,2009-10-03,4,Temple,@,Eastern Michigan,W,3,3,100.0,1,2,50.0,6,brandon-mcmanus-1
+Daniel Murray,2009-10-03,5,Iowa,,Arkansas State,W,3,3,100.0,1,2,50.0,6,daniel-murray-1
+Jimmy Newman,2009-10-03,5,Wake Forest,,North Carolina State,W,3,3,100.0,3,4,75.0,12,jimmy-newman-1
+Jason Olesnavage,2009-10-03,5,Michigan,@,Michigan State,L,2,2,100.0,2,2,100.0,8,jason-olesnavage-1
+Ben Parks,2009-10-03,4,Baylor,,Kent State,W,4,4,100.0,1,1,100.0,7,ben-parks-1
+Aaron Pettrey,2009-10-03,5,Ohio State,@,Indiana,W,4,4,100.0,1,3,33.3,7,aaron-pettrey-1
+Jerry Phillips,2009-10-03,5,Bowling Green State,,Ohio,L,4,4,100.0,3,3,100.0,13,jerry-phillips-1
+John Potter,2009-10-03,5,Western Michigan,@,Northern Illinois,L,0,0,,1,1,100.0,3,john-potter-1
+A.J. Principe,2009-10-03,5,Buffalo,,Central Michigan,L,1,1,100.0,2,3,66.7,7,aj-principe-1
+Robert Randolph,2009-10-03,4,Virginia,@,North Carolina,W,0,0,,3,3,100.0,9,robert-randolph-1
+Craig Ratanamorn,2009-10-03,5,Marshall,,East Carolina,L,2,2,100.0,1,1,100.0,5,craig-ratanamorn-1
+Matt Reagan,2009-10-03,5,Memphis,@,Central Florida,L,2,2,100.0,0,2,0.0,2,matt-reagan-1
+Dustin Rivest,2009-10-03,4,Florida International,@,Louisiana-Monroe,L,5,5,100.0,0,1,0.0,5,dustin-rivest-1
+Jacob Rogers,2009-10-03,5,Cincinnati,@,Miami (OH),W,4,5,80.0,1,1,100.0,7,jacob-rogers-1
+Mike Salerno,2009-10-03,5,Northern Illinois,,Western Michigan,W,5,5,100.0,1,2,50.0,8,mike-salerno-1
+Eric Schwartz,2009-10-03,5,South Florida,@,Syracuse,W,4,5,80.0,0,1,0.0,4,eric-schwartz-1
+Lones Seiber,2009-10-03,4,Kentucky,,Alabama,L,2,2,100.0,2,2,100.0,8,lones-seiber-1
+Joshua Shene,2009-10-03,4,Mississippi,@,Vanderbilt,W,2,3,66.7,1,1,100.0,5,joshua-shene-1
+Will Snyderwine,2009-10-03,5,Duke,,Virginia Tech,L,2,2,100.0,4,4,100.0,14,will-snyderwine-1
+Erik Soderberg,2009-10-03,5,Air Force,@,Navy,L,1,1,100.0,2,3,66.7,7,erik-soderberg-1
+Jimmy Stevens,2009-10-03,4,Oklahoma,@,Miami (FL),L,2,2,100.0,2,2,100.0,8,jimmy-stevens-1
+Brett Swenson,2009-10-03,5,Michigan State,,Michigan,W,2,2,100.0,2,2,100.0,8,brett-swenson-1
+Matt Szymanski,2009-10-03,4,Southern Methodist,@,Texas Christian,L,2,2,100.0,0,1,0.0,2,matt-szymanski-1
+Nick Tausch,2009-10-03,5,Notre Dame,,Washington,W,2,2,100.0,5,5,100.0,17,nick-tausch-1
+Alex Tejada,2009-10-03,4,Arkansas,N,Texas A&M,W,5,6,83.3,2,2,100.0,11,alex-tejada-1
+Ross Thevenot,2009-10-03,4,Tulane,@,Army,W,2,2,100.0,1,2,50.0,5,ross-thevenot-1
+Leigh Tiffin,2009-10-03,5,Alabama,@,Kentucky,W,5,5,100.0,1,1,100.0,8,leigh-tiffin-1
+Matt Waldron,2009-10-03,5,Virginia Tech,@,Duke,W,4,4,100.0,2,2,100.0,10,matt-waldron-1
+Blair Walsh,2009-10-03,5,Georgia,,Louisiana State,L,1,1,100.0,0,1,0.0,1,blair-walsh-1
+Ian Watts,2009-10-03,5,Wyoming,@,Florida Atlantic,W,3,4,75.0,1,1,100.0,6,ian-watts-1
+Philip Welch,2009-10-03,5,Wisconsin,@,Minnesota,W,4,4,100.0,1,1,100.0,7,philip-welch-1
+Matt Weller,2009-10-03,5,Ohio,@,Bowling Green State,W,5,6,83.3,1,1,100.0,8,matt-weller-1
+Bobby Wenzig,2009-10-03,4,Arizona State,,Oregon State,L,2,2,100.0,1,1,100.0,5,bobby-wenzig-1
+Nate Whitaker,2009-10-03,5,Stanford,,UCLA,W,3,3,100.0,1,1,100.0,6,nate-whitaker-1
+Lane Yoshida,2009-10-03,5,San Diego State,,New Mexico State,W,4,4,100.0,2,3,66.7,10,lane-yoshida-1
+Michael Taylor,2009-10-06,5,Troy,,Middle Tennessee State,W,4,4,100.0,1,1,100.0,7,michael-taylor-1
+Grant Ressel,2009-10-08,5,Missouri,,Nebraska,L,1,1,100.0,1,2,50.0,4,grant-ressel-1
+Ricky Drake,2009-10-09,5,Nevada,,Louisiana Tech,W,4,5,80.0,1,2,50.0,7,ricky-drake-1
+Matt Nelson,2009-10-09,5,Louisiana Tech,@,Nevada,L,2,2,100.0,0,1,0.0,2,matt-nelson-1
+James Aho,2009-10-10,6,New Mexico,@,Wyoming,L,1,1,100.0,2,2,100.0,7,james-aho-1
+Tyler Albrecht,2009-10-10,5,Louisiana,,North Texas,W,5,5,100.0,1,1,100.0,8,tyler-albrecht-1
+Logan Barrett,2009-10-10,6,Texas-El Paso,@,Memphis,L,2,2,100.0,2,3,66.7,8,logan-barrett-1
+Rob Beard,2009-10-10,6,Oregon,@,UCLA,W,0,0,,0,1,0.0,0,rob-beard-1
+Ben Bell,2009-10-10,5,Houston,@,Mississippi State,W,2,2,100.0,1,1,100.0,5,ben-bell-1
+Matt Bosher,2009-10-10,5,Miami (FL),,Florida A&M,W,6,6,100.0,2,2,100.0,12,matt-bosher-1
+Randy Bullock,2009-10-10,5,Texas A&M,,Oklahoma State,L,2,2,100.0,1,2,50.0,5,randy-bullock-1
+Wes Byrum,2009-10-10,6,Auburn,@,Arkansas,L,2,2,100.0,1,1,100.0,5,wes-byrum-1
+Joe Carithers,2009-10-10,5,Eastern Michigan,@,Central Michigan,L,0,0,,0,1,0.0,0,joe-carithers-1
+Alex Carlton,2009-10-10,6,Army,,Vanderbilt,W,1,1,100.0,3,3,100.0,10,alex-carlton-1
+Tyler Cope,2009-10-10,5,San Jose State,,Idaho,L,2,2,100.0,1,1,100.0,5,tyler-cope-1
+Freddy Cortez,2009-10-10,6,Kent State,,Bowling Green State,L,5,5,100.0,0,1,0.0,5,freddy-cortez-1
+Ben Deline,2009-10-10,6,Colorado State,,Utah,L,2,2,100.0,1,1,100.0,5,ben-deline-1
+Stefan Demos,2009-10-10,6,Northwestern,,Miami (OH),W,1,1,100.0,1,2,50.0,4,stefan-demos-1
+Derek Depasquale,2009-10-10,6,Mississippi State,,Houston,L,3,3,100.0,1,2,50.0,6,derek-depasquale-1
+Matt Eller,2009-10-10,5,Illinois,,Michigan State,L,2,2,100.0,0,1,0.0,2,matt-eller-1
+Scott Enos,2009-10-10,5,Hawaii,,Fresno State,L,2,2,100.0,1,2,50.0,5,scott-enos-1
+Justin Estes,2009-10-10,6,Southern Mississippi,@,Louisville,L,2,2,100.0,3,3,100.0,11,justin-estes-1
+Ross Evans,2009-10-10,5,Texas Christian,@,Air Force,W,2,2,100.0,2,2,100.0,8,ross-evans-1
+Clark Fangmeier,2009-10-10,6,Rice,,Navy,L,2,2,100.0,0,1,0.0,2,clark-fangmeier-1
+Trey Farquhar,2009-10-10,6,Idaho,@,San Jose State,W,2,3,66.7,3,3,100.0,11,trey-farquhar-1
+Nick Ferrara,2009-10-10,6,Maryland,@,Wake Forest,L,3,3,100.0,1,1,100.0,6,nick-ferrara-1
+Morgan Flint,2009-10-10,6,Oregon,@,UCLA,W,3,3,100.0,1,1,100.0,6,morgan-flint-1
+Kai Forbath,2009-10-10,5,UCLA,,Oregon,L,1,1,100.0,1,1,100.0,4,kai-forbath-1
+Ryan Fowler,2009-10-10,6,Vanderbilt,@,Army,L,1,1,100.0,2,2,100.0,7,ryan-fowler-2
+Nick Freeland,2009-10-10,6,Indiana,@,Virginia,L,1,1,100.0,0,1,0.0,1,nick-freeland-1
+Ben Hartman,2009-10-10,6,East Carolina,@,Southern Methodist,L,2,2,100.0,0,1,0.0,2,ben-hartman-1
+Dustin Hopkins,2009-10-10,6,Florida State,,Georgia Tech,L,5,5,100.0,1,2,50.0,8,dustin-hopkins-1
+Kyle Hughes,2009-10-10,6,New Mexico State,,Utah State,W,2,2,100.0,2,2,100.0,8,kyle-hughes-1
+Dan Hutchins,2009-10-10,6,Pittsburgh,,Connecticut,W,1,1,100.0,3,3,100.0,10,dan-hutchins-1
+Igor Iveljic,2009-10-10,5,Akron,,Ohio,L,0,0,,0,1,0.0,0,igor-iveljic-1
+Josh Jasper,2009-10-10,6,Louisiana State,,Florida,L,0,0,,1,1,100.0,3,josh-jasper-1
+Justin Kahut,2009-10-10,6,Oregon State,,Stanford,W,5,5,100.0,1,1,100.0,8,justin-kahut-1
+Jeremy Knott,2009-10-10,5,North Texas,@,Louisiana,L,4,4,100.0,2,2,100.0,10,jeremy-knott-1
+Hunter Lawrence,2009-10-10,5,Texas,,Colorado,W,5,5,100.0,1,2,50.0,8,hunter-lawrence-1
+Daniel Lincoln,2009-10-10,6,Tennessee,,Georgia,W,6,6,100.0,1,1,100.0,9,daniel-lincoln-1
+Grant Mahoney,2009-10-10,6,Iowa State,@,Kansas,L,1,3,33.3,1,1,100.0,4,grant-mahoney-1
+Jordan Mannisto,2009-10-10,5,Houston,@,Mississippi State,W,2,2,100.0,0,1,0.0,2,jordan-mannisto-1
+Brandon McManus,2009-10-10,5,Temple,,Ball State,W,3,3,100.0,1,3,33.3,6,brandon-mcmanus-1
+Daniel Murray,2009-10-10,6,Iowa,,Michigan,W,3,3,100.0,3,4,75.0,12,daniel-murray-1
+Matthew Norsic,2009-10-10,6,Bowling Green State,@,Kent State,W,3,3,100.0,1,1,100.0,6,matthew-norsic-1
+Mitch Payne,2009-10-10,6,Brigham Young,@,Nevada-Las Vegas,W,8,8,100.0,1,1,100.0,11,mitch-payne-1
+Ryan Payne,2009-10-10,5,Louisville,,Southern Mississippi,W,2,2,100.0,1,1,100.0,5,ryan-payne-1
+Aaron Pettrey,2009-10-10,6,Ohio State,,Wisconsin,W,4,4,100.0,1,1,100.0,7,aaron-pettrey-1
+Jerry Phillips,2009-10-10,6,Bowling Green State,@,Kent State,W,0,0,,0,1,0.0,0,jerry-phillips-1
+Joe Phillips,2009-10-10,5,Utah,@,Colorado State,W,3,3,100.0,1,1,100.0,6,joe-phillips-1
+John Potter,2009-10-10,6,Western Michigan,@,Toledo,W,7,8,87.5,1,1,100.0,10,john-potter-1
+Robert Randolph,2009-10-10,5,Virginia,,Indiana,W,0,0,,2,2,100.0,6,robert-randolph-1
+Craig Ratanamorn,2009-10-10,6,Marshall,@,Tulane,W,4,4,100.0,1,1,100.0,7,craig-ratanamorn-1
+Matt Reagan,2009-10-10,6,Memphis,,Texas-El Paso,W,5,5,100.0,0,1,0.0,5,matt-reagan-1
+Dustin Rivest,2009-10-10,5,Florida International,@,Western Kentucky,W,4,4,100.0,3,3,100.0,13,dustin-rivest-1
+Branko Rogovic,2009-10-10,5,Akron,,Ohio,L,1,1,100.0,0,1,0.0,1,branko-rogovic-1
+Ben Ryan,2009-10-10,6,East Carolina,@,Southern Methodist,L,1,1,100.0,0,1,0.0,1,ben-ryan-1
+Lones Seiber,2009-10-10,5,Kentucky,@,South Carolina,L,2,2,100.0,2,2,100.0,8,lones-seiber-1
+Joshua Shene,2009-10-10,5,Mississippi,,Alabama,L,0,0,,1,1,100.0,3,joshua-shene-1
+Erik Soderberg,2009-10-10,6,Air Force,,Texas Christian,L,2,2,100.0,1,1,100.0,5,erik-soderberg-1
+Alex Steigerwald,2009-10-10,6,Toledo,,Western Michigan,L,2,2,100.0,2,3,66.7,8,alex-steigerwald-1
+Jimmy Stevens,2009-10-10,5,Oklahoma,,Baylor,W,3,3,100.0,4,4,100.0,15,jimmy-stevens-1
+Caleb Sturgis,2009-10-10,5,Florida,@,Louisiana State,W,1,1,100.0,2,3,66.7,7,caleb-sturgis-1
+Brett Swenson,2009-10-10,6,Michigan State,@,Illinois,W,3,3,100.0,1,1,100.0,6,brett-swenson-1
+Matt Szymanski,2009-10-10,5,Southern Methodist,,East Carolina,W,4,4,100.0,0,1,0.0,4,matt-szymanski-1
+San San Te,2009-10-10,5,Rutgers,,Texas Southern,W,6,6,100.0,0,1,0.0,6,san-san-te-1
+Alex Tejada,2009-10-10,5,Arkansas,,Auburn,W,5,5,100.0,1,1,100.0,8,alex-tejada-1
+Ross Thevenot,2009-10-10,5,Tulane,,Marshall,L,1,1,100.0,1,1,100.0,4,ross-thevenot-1
+Leigh Tiffin,2009-10-10,6,Alabama,@,Mississippi,W,1,1,100.0,5,5,100.0,16,leigh-tiffin-1
+Chris Ulinski,2009-10-10,5,Utah State,@,New Mexico State,L,2,2,100.0,1,2,50.0,5,chris-ulinski-1
+Collin Wagner,2009-10-10,6,Penn State,,Eastern Illinois,W,7,7,100.0,1,1,100.0,10,collin-wagner-1
+Matt Waldron,2009-10-10,6,Virginia Tech,,Boston College,W,6,6,100.0,2,3,66.7,12,matt-waldron-1
+Blair Walsh,2009-10-10,6,Georgia,@,Tennessee,L,2,2,100.0,1,1,100.0,5,blair-walsh-1
+Philip Welch,2009-10-10,6,Wisconsin,@,Ohio State,L,1,1,100.0,2,4,50.0,7,philip-welch-1
+Matt Weller,2009-10-10,6,Ohio,@,Akron,W,1,1,100.0,2,2,100.0,7,matt-weller-1
+Carson Wiggs,2009-10-10,6,Purdue,@,Minnesota,L,2,2,100.0,2,3,66.7,8,carson-wiggs-1
+Matt Williams,2009-10-10,6,Texas Tech,,Kansas State,W,9,9,100.0,1,1,100.0,12,matt-williams-1
+Alex Zendejas,2009-10-10,5,Arizona,@,Washington,L,3,3,100.0,4,4,100.0,15,alex-zendejas-1
+Radi Jabour,2009-10-13,6,Louisiana-Monroe,,Arkansas State,W,1,2,50.0,1,2,50.0,4,radi-jabour-1
+Ryan Wilbourn,2009-10-13,5,Arkansas State,@,Louisiana-Monroe,L,0,0,,1,1,100.0,3,ryan-wilbourn-1
+Kyle Brotzman,2009-10-14,6,Boise State,@,Tulsa,W,2,2,100.0,2,2,100.0,8,kyle-brotzman-1
+Delbert Alvarado,2009-10-15,6,South Florida,,Cincinnati,L,0,0,,0,1,0.0,0,delbert-alvarado-1
+Jacob Rogers,2009-10-15,6,Cincinnati,@,South Florida,W,4,4,100.0,2,3,66.7,10,jacob-rogers-1
+Eric Schwartz,2009-10-15,6,South Florida,,Cincinnati,L,2,2,100.0,1,1,100.0,5,eric-schwartz-1
+Dan Hutchins,2009-10-16,7,Pittsburgh,@,Rutgers,W,3,3,100.0,1,3,33.3,6,dan-hutchins-1
+San San Te,2009-10-16,6,Rutgers,,Pittsburgh,L,2,2,100.0,1,2,50.0,5,san-san-te-1
+Andrew Aguila,2009-10-17,7,Central Michigan,@,Western Michigan,W,4,4,100.0,2,3,66.7,10,andrew-aguila-1
+Tyler Albrecht,2009-10-17,6,Louisiana,@,Western Kentucky,W,3,3,100.0,3,3,100.0,12,tyler-albrecht-1
+Steve Aponavicius,2009-10-17,7,Boston College,,North Carolina State,W,7,7,100.0,1,1,100.0,10,steve-aponavicius-1
+Dan Bailey,2009-10-17,6,Oklahoma State,,Missouri,W,3,3,100.0,4,4,100.0,15,dan-bailey-1
+Ben Bell,2009-10-17,6,Houston,@,Tulane,W,0,1,0.0,1,2,50.0,3,ben-bell-1
+Tyler Bitancurt,2009-10-17,6,West Virginia,,Marshall,W,3,3,100.0,1,1,100.0,6,tyler-bitancurt-1
+Matt Bosher,2009-10-17,6,Miami (FL),@,Central Florida,W,3,3,100.0,2,2,100.0,9,matt-bosher-1
+Jacob Branstetter,2009-10-17,6,Kansas,@,Colorado,L,3,3,100.0,3,3,100.0,12,jacob-branstetter-1
+Joe Buckley,2009-10-17,7,Navy,@,Southern Methodist,W,5,5,100.0,1,1,100.0,8,joe-buckley-1
+Joe Carithers,2009-10-17,6,Eastern Michigan,,Kent State,L,0,0,,2,3,66.7,6,joe-carithers-1
+Alex Carlton,2009-10-17,7,Army,@,Temple,L,1,1,100.0,2,3,66.7,7,alex-carlton-1
+Nick Cattoi,2009-10-17,6,Central Florida,,Miami (FL),L,1,1,100.0,0,1,0.0,1,nick-cattoi-1
+Josh Cherry,2009-10-17,7,Kansas State,,Texas A&M,W,8,8,100.0,1,1,100.0,11,josh-cherry-1
+Jordan Congdon,2009-10-17,6,Southern California,@,Notre Dame,W,4,4,100.0,2,2,100.0,10,jordan-congdon-1
+Tyler Cope,2009-10-17,6,San Jose State,@,Fresno State,L,3,3,100.0,0,1,0.0,3,tyler-cope-1
+Josh Czajkowski,2009-10-17,7,North Carolina State,@,Boston College,L,2,2,100.0,2,2,100.0,8,josh-czajkowski-1
+Ben Deline,2009-10-17,7,Colorado State,@,Texas Christian,L,0,0,,2,2,100.0,6,ben-deline-1
+Derek Depasquale,2009-10-17,7,Mississippi State,@,Middle Tennessee State,W,3,3,100.0,2,2,100.0,9,derek-depasquale-1
+Matt Eller,2009-10-17,6,Illinois,@,Indiana,L,2,2,100.0,0,1,0.0,2,matt-eller-1
+Scott Enos,2009-10-17,6,Hawaii,@,Idaho,L,2,2,100.0,1,1,100.0,5,scott-enos-1
+Justin Estes,2009-10-17,7,Southern Mississippi,,Memphis,W,3,4,75.0,1,1,100.0,6,justin-estes-1
+Ross Evans,2009-10-17,6,Texas Christian,,Colorado State,W,5,6,83.3,1,1,100.0,8,ross-evans-1
+Clark Fangmeier,2009-10-17,7,Rice,@,East Carolina,L,1,1,100.0,2,3,66.7,7,clark-fangmeier-1
+Nick Ferrara,2009-10-17,7,Maryland,,Virginia,L,0,0,,3,5,60.0,9,nick-ferrara-1
+Erik Folk,2009-10-17,7,Washington,@,Arizona State,L,2,2,100.0,1,2,50.0,5,erik-folk-1
+Kai Forbath,2009-10-17,6,UCLA,,California,L,2,2,100.0,4,4,100.0,14,kai-forbath-1
+Ryan Fowler,2009-10-17,7,Vanderbilt,,Georgia,L,1,1,100.0,1,1,100.0,4,ryan-fowler-2
+Nick Freeland,2009-10-17,7,Indiana,,Illinois,W,3,3,100.0,2,4,50.0,9,nick-freeland-1
+Alan Gendreau,2009-10-17,6,Middle Tennessee State,,Mississippi State,L,0,0,,2,2,100.0,6,alan-gendreau-1
+Kevin Goessling,2009-10-17,6,Fresno State,,San Jose State,W,5,5,100.0,2,2,100.0,11,kevin-goessling-1
+Aric Goodman,2009-10-17,6,Colorado,,Kansas,W,4,4,100.0,2,2,100.0,10,aric-goodman-1
+Ross Gornall,2009-10-17,5,Florida Atlantic,@,North Texas,W,5,6,83.3,1,1,100.0,8,ross-gornall-1
+Alex Henery,2009-10-17,6,Nebraska,,Texas Tech,L,1,1,100.0,1,2,50.0,4,alex-henery-1
+Richard Jackson,2009-10-17,6,Clemson,,Wake Forest,W,5,5,100.0,1,1,100.0,8,richard-jackson-2
+Brandon Klimek,2009-10-17,7,Kansas State,,Texas A&M,W,0,0,,1,1,100.0,3,brandon-klimek-1
+Spencer Lanning,2009-10-17,7,South Carolina,@,Alabama,L,0,0,,2,3,66.7,6,spencer-lanning-1
+Hunter Lawrence,2009-10-17,6,Texas,N,Oklahoma,W,1,1,100.0,3,3,100.0,10,hunter-lawrence-1
+Grant Mahoney,2009-10-17,7,Iowa State,,Baylor,W,3,3,100.0,1,4,25.0,6,grant-mahoney-1
+Ian McGarvey,2009-10-17,7,Ball State,,Bowling Green State,L,0,0,,0,1,0.0,0,ian-mcgarvey-1
+Daniel Murray,2009-10-17,7,Iowa,@,Wisconsin,W,2,2,100.0,2,2,100.0,8,daniel-murray-1
+Matt Nelson,2009-10-17,6,Louisiana Tech,,New Mexico State,W,6,6,100.0,1,1,100.0,9,matt-nelson-1
+Jimmy Newman,2009-10-17,7,Wake Forest,@,Clemson,L,0,0,,1,2,50.0,3,jimmy-newman-1
+Ben Parks,2009-10-17,6,Baylor,@,Iowa State,L,1,1,100.0,1,1,100.0,4,ben-parks-1
+Mitch Payne,2009-10-17,7,Brigham Young,@,San Diego State,W,5,5,100.0,1,1,100.0,8,mitch-payne-1
+Aaron Pettrey,2009-10-17,7,Ohio State,@,Purdue,L,1,1,100.0,1,1,100.0,4,aaron-pettrey-1
+Jerry Phillips,2009-10-17,7,Bowling Green State,@,Ball State,W,4,4,100.0,1,2,50.0,7,jerry-phillips-1
+John Potter,2009-10-17,7,Western Michigan,,Central Michigan,L,2,2,100.0,3,4,75.0,11,john-potter-1
+Robert Randolph,2009-10-17,6,Virginia,@,Maryland,W,0,0,,2,2,100.0,6,robert-randolph-1
+Matt Reagan,2009-10-17,7,Memphis,@,Southern Mississippi,L,1,1,100.0,3,4,75.0,10,matt-reagan-1
+Grant Ressel,2009-10-17,6,Missouri,@,Oklahoma State,L,2,2,100.0,1,1,100.0,5,grant-ressel-1
+Dustin Rivest,2009-10-17,6,Florida International,,Troy,L,3,3,100.0,2,2,100.0,9,dustin-rivest-1
+Branko Rogovic,2009-10-17,6,Akron,@,Buffalo,L,2,2,100.0,1,2,50.0,5,branko-rogovic-1
+Ben Ryan,2009-10-17,7,East Carolina,,Rice,W,7,7,100.0,0,1,0.0,7,ben-ryan-1
+Mike Salerno,2009-10-17,6,Northern Illinois,@,Toledo,L,1,2,50.0,0,1,0.0,1,mike-salerno-1
+Steven Schott,2009-10-17,7,Ball State,,Bowling Green State,L,2,2,100.0,1,1,100.0,5,steven-schott-1
+Lones Seiber,2009-10-17,6,Kentucky,@,Auburn,W,3,3,100.0,0,2,0.0,3,lones-seiber-1
+Erik Soderberg,2009-10-17,7,Air Force,,Wyoming,W,1,1,100.0,1,1,100.0,4,erik-soderberg-1
+Alex Steigerwald,2009-10-17,7,Toledo,,Northern Illinois,W,2,2,100.0,0,1,0.0,2,alex-steigerwald-1
+Jimmy Stevens,2009-10-17,6,Oklahoma,N,Texas,L,1,1,100.0,2,3,66.7,7,jimmy-stevens-1
+Caleb Sturgis,2009-10-17,6,Florida,,Arkansas,W,2,2,100.0,3,4,75.0,11,caleb-sturgis-1
+Brett Swenson,2009-10-17,7,Michigan State,,Northwestern,W,3,3,100.0,1,1,100.0,6,brett-swenson-1
+Matt Szymanski,2009-10-17,6,Southern Methodist,,Navy,L,5,5,100.0,0,1,0.0,5,matt-szymanski-1
+Giorgio Tavecchio,2009-10-17,6,California,@,UCLA,W,3,3,100.0,1,1,100.0,6,giorgio-tavecchio-1
+Dave Teggart,2009-10-17,6,Connecticut,,Louisville,W,5,5,100.0,1,2,50.0,8,dave-teggart-1
+Alex Tejada,2009-10-17,6,Arkansas,@,Florida,L,2,2,100.0,2,4,50.0,8,alex-tejada-1
+Ross Thevenot,2009-10-17,6,Tulane,,Houston,L,1,1,100.0,3,3,100.0,10,ross-thevenot-1
+Leigh Tiffin,2009-10-17,7,Alabama,,South Carolina,W,2,2,100.0,2,3,66.7,8,leigh-tiffin-1
+Chris Ulinski,2009-10-17,6,Utah State,,Nevada,L,3,3,100.0,1,1,100.0,6,chris-ulinski-1
+Collin Wagner,2009-10-17,7,Penn State,,Minnesota,W,2,2,100.0,2,3,66.7,8,collin-wagner-1
+Matt Waldron,2009-10-17,7,Virginia Tech,@,Georgia Tech,L,2,2,100.0,1,1,100.0,5,matt-waldron-1
+Blair Walsh,2009-10-17,7,Georgia,@,Vanderbilt,W,4,4,100.0,2,2,100.0,10,blair-walsh-1
+Kyle Watson,2009-10-17,7,Nevada-Las Vegas,,Utah,L,0,0,,3,3,100.0,9,kyle-watson-1
+Ian Watts,2009-10-17,7,Wyoming,@,Air Force,L,0,0,,0,1,0.0,0,ian-watts-1
+Thomas Weber,2009-10-17,6,Arizona State,,Washington,W,3,3,100.0,1,3,33.3,6,thomas-weber-1
+Philip Welch,2009-10-17,7,Wisconsin,,Iowa,L,1,1,100.0,1,2,50.0,4,philip-welch-1
+Nate Whitaker,2009-10-17,7,Stanford,@,Arizona,L,5,5,100.0,1,2,50.0,8,nate-whitaker-1
+Carson Wiggs,2009-10-17,7,Purdue,,Ohio State,W,2,2,100.0,4,5,80.0,14,carson-wiggs-1
+Matt Williams,2009-10-17,7,Texas Tech,@,Nebraska,W,4,4,100.0,1,1,100.0,7,matt-williams-1
+Josh Zahn,2009-10-17,6,Alabama-Birmingham,@,Mississippi,L,1,1,100.0,2,3,66.7,7,josh-zahn-1
+Alex Zendejas,2009-10-17,6,Arizona,,Stanford,W,4,5,80.0,1,1,100.0,7,alex-zendejas-1
+Logan Barrett,2009-10-21,7,Texas-El Paso,,Tulsa,W,2,2,100.0,2,2,100.0,8,logan-barrett-1
+Kevin Fitzpatrick,2009-10-21,7,Tulsa,@,Texas-El Paso,L,3,3,100.0,1,1,100.0,6,kevin-fitzpatrick-1
+Casey Barth,2009-10-22,7,North Carolina,,Florida State,L,3,3,100.0,2,2,100.0,9,casey-barth-1
+Dustin Hopkins,2009-10-22,7,Florida State,@,North Carolina,W,3,3,100.0,3,3,100.0,12,dustin-hopkins-1
+Alex Carlton,2009-10-23,8,Army,,Rutgers,L,1,1,100.0,1,1,100.0,4,alex-carlton-1
+San San Te,2009-10-23,7,Rutgers,@,Army,W,3,3,100.0,2,2,100.0,9,san-san-te-1
+Andrew Aguila,2009-10-24,8,Central Michigan,@,Bowling Green State,W,3,3,100.0,1,1,100.0,6,andrew-aguila-1
+James Aho,2009-10-24,7,New Mexico,,Nevada-Las Vegas,L,2,2,100.0,1,1,100.0,5,james-aho-1
+Josh Arauco,2009-10-24,6,Arkansas State,,Florida International,W,3,3,100.0,2,3,66.7,9,josh-arauco-1
+Dan Bailey,2009-10-24,7,Oklahoma State,@,Baylor,W,4,4,100.0,2,2,100.0,10,dan-bailey-1
+Tyler Bitancurt,2009-10-24,7,West Virginia,,Connecticut,W,4,4,100.0,0,1,0.0,4,tyler-bitancurt-1
+Scott Blair,2009-10-24,8,Georgia Tech,@,Virginia,W,4,4,100.0,2,2,100.0,10,scott-blair-1
+Matt Bosher,2009-10-24,7,Miami (FL),,Clemson,L,4,4,100.0,3,3,100.0,13,matt-bosher-1
+Jacob Branstetter,2009-10-24,7,Kansas,,Oklahoma,L,1,1,100.0,2,2,100.0,7,jacob-branstetter-1
+Kyle Brotzman,2009-10-24,7,Boise State,@,Hawaii,W,6,6,100.0,4,5,80.0,18,kyle-brotzman-1
+Joe Buckley,2009-10-24,8,Navy,,Wake Forest,W,1,1,100.0,2,2,100.0,7,joe-buckley-1
+Randy Bullock,2009-10-24,7,Texas A&M,@,Texas Tech,W,7,7,100.0,1,1,100.0,10,randy-bullock-1
+Wes Byrum,2009-10-24,8,Auburn,@,Louisiana State,L,1,1,100.0,1,1,100.0,4,wes-byrum-1
+Joe Carithers,2009-10-24,7,Eastern Michigan,,Ball State,L,3,3,100.0,2,2,100.0,9,joe-carithers-1
+Nick Cattoi,2009-10-24,7,Central Florida,@,Rice,W,5,5,100.0,0,1,0.0,5,nick-cattoi-1
+Josh Cherry,2009-10-24,8,Kansas State,,Colorado,W,2,2,100.0,2,2,100.0,8,josh-cherry-1
+Trevor Cook,2009-10-24,8,Miami (OH),,Northern Illinois,L,1,2,50.0,1,3,33.3,4,trevor-cook-1
+Freddy Cortez,2009-10-24,8,Kent State,@,Ohio,W,2,2,100.0,2,2,100.0,8,freddy-cortez-1
+Stefan Demos,2009-10-24,8,Northwestern,,Indiana,W,3,3,100.0,2,2,100.0,9,stefan-demos-1
+Derek Depasquale,2009-10-24,8,Mississippi State,,Florida,L,1,1,100.0,2,2,100.0,7,derek-depasquale-1
+Matt Eller,2009-10-24,7,Illinois,@,Purdue,L,1,1,100.0,0,1,0.0,1,matt-eller-1
+Justin Estes,2009-10-24,8,Southern Mississippi,,Tulane,W,4,6,66.7,1,2,50.0,7,justin-estes-1
+Ross Evans,2009-10-24,7,Texas Christian,@,Brigham Young,W,5,5,100.0,1,1,100.0,8,ross-evans-1
+Trey Farquhar,2009-10-24,8,Idaho,@,Nevada,L,6,6,100.0,1,1,100.0,9,trey-farquhar-1
+Nick Ferrara,2009-10-24,8,Maryland,@,Duke,L,1,1,100.0,2,2,100.0,7,nick-ferrara-1
+Erik Folk,2009-10-24,8,Washington,,Oregon,L,1,1,100.0,2,2,100.0,7,erik-folk-1
+Kai Forbath,2009-10-24,7,UCLA,@,Arizona,L,1,1,100.0,2,3,66.7,7,kai-forbath-1
+Ryan Fowler,2009-10-24,8,Vanderbilt,@,South Carolina,L,1,1,100.0,1,2,50.0,4,ryan-fowler-2
+Nick Freeland,2009-10-24,8,Indiana,@,Northwestern,L,4,4,100.0,0,1,0.0,4,nick-freeland-1
+Alan Gendreau,2009-10-24,7,Middle Tennessee State,,Western Kentucky,W,8,8,100.0,2,2,100.0,14,alan-gendreau-1
+Kevin Goessling,2009-10-24,7,Fresno State,@,New Mexico State,W,4,4,100.0,2,2,100.0,10,kevin-goessling-1
+Ross Gornall,2009-10-24,6,Florida Atlantic,@,Louisiana,W,6,7,85.7,1,2,50.0,9,ross-gornall-1
+Nico Grasu,2009-10-24,7,Washington State,@,California,L,2,2,100.0,1,2,50.0,5,nico-grasu-1
+Matt Hogan,2009-10-24,7,Houston,,Southern Methodist,W,5,5,100.0,1,1,100.0,8,matt-hogan-1
+Kyle Hughes,2009-10-24,8,New Mexico State,,Fresno State,L,0,0,,1,3,33.3,3,kyle-hughes-1
+Dan Hutchins,2009-10-24,8,Pittsburgh,,South Florida,W,5,5,100.0,2,2,100.0,11,dan-hutchins-1
+Radi Jabour,2009-10-24,7,Louisiana-Monroe,@,Kentucky,L,1,2,50.0,0,1,0.0,1,radi-jabour-1
+Richard Jackson,2009-10-24,7,Clemson,@,Miami (FL),W,4,4,100.0,2,3,66.7,10,richard-jackson-2
+Josh Jasper,2009-10-24,7,Louisiana State,,Auburn,W,4,4,100.0,1,3,33.3,7,josh-jasper-1
+Justin Kahut,2009-10-24,7,Oregon State,@,Southern California,L,3,3,100.0,3,4,75.0,12,justin-kahut-1
+Hunter Lawrence,2009-10-24,7,Texas,@,Missouri,W,5,5,100.0,2,2,100.0,11,hunter-lawrence-1
+Ryan Lichtenstein,2009-10-24,7,Syracuse,,Akron,W,2,2,100.0,0,1,0.0,2,ryan-lichtenstein-1
+Daniel Lincoln,2009-10-24,7,Tennessee,@,Alabama,L,1,1,100.0,1,4,25.0,4,daniel-lincoln-1
+Grant Mahoney,2009-10-24,8,Iowa State,@,Nebraska,W,0,1,0.0,1,2,50.0,3,grant-mahoney-1
+Brandon McManus,2009-10-24,7,Temple,@,Toledo,W,4,5,80.0,2,2,100.0,10,brandon-mcmanus-1
+Daniel Murray,2009-10-24,8,Iowa,@,Michigan State,W,0,0,,3,3,100.0,9,daniel-murray-1
+Jimmy Newman,2009-10-24,8,Wake Forest,@,Navy,L,1,1,100.0,1,1,100.0,4,jimmy-newman-1
+Matthew Norsic,2009-10-24,8,Bowling Green State,,Central Michigan,L,1,1,100.0,1,2,50.0,4,matthew-norsic-1
+Jason Olesnavage,2009-10-24,8,Michigan,,Penn State,L,1,1,100.0,1,1,100.0,4,jason-olesnavage-1
+Ben Parks,2009-10-24,7,Baylor,,Oklahoma State,L,1,1,100.0,0,1,0.0,1,ben-parks-1
+Mitch Payne,2009-10-24,8,Brigham Young,,Texas Christian,L,1,1,100.0,0,1,0.0,1,mitch-payne-1
+Ryan Payne,2009-10-24,7,Louisville,@,Cincinnati,L,1,1,100.0,1,1,100.0,4,ryan-payne-1
+Aaron Pettrey,2009-10-24,8,Ohio State,,Minnesota,W,5,5,100.0,1,2,50.0,8,aaron-pettrey-1
+Joe Phillips,2009-10-24,7,Utah,,Air Force,W,2,3,66.7,1,1,100.0,5,joe-phillips-1
+John Potter,2009-10-24,8,Western Michigan,,Buffalo,W,4,4,100.0,2,3,66.7,10,john-potter-1
+A.J. Principe,2009-10-24,8,Buffalo,@,Western Michigan,L,4,4,100.0,1,2,50.0,7,aj-principe-1
+John Rachuna,2009-10-24,8,Buffalo,@,Western Michigan,L,0,0,,0,1,0.0,0,john-rachuna-1
+Robert Randolph,2009-10-24,7,Virginia,,Georgia Tech,L,0,0,,3,4,75.0,9,robert-randolph-1
+Craig Ratanamorn,2009-10-24,8,Marshall,,Alabama-Birmingham,W,3,3,100.0,2,2,100.0,9,craig-ratanamorn-1
+Dustin Rivest,2009-10-24,7,Florida International,@,Arkansas State,L,1,1,100.0,1,1,100.0,4,dustin-rivest-1
+Jacob Rogers,2009-10-24,7,Cincinnati,,Louisville,W,5,5,100.0,2,3,66.7,11,jacob-rogers-1
+Branko Rogovic,2009-10-24,7,Akron,@,Syracuse,L,2,2,100.0,0,2,0.0,2,branko-rogovic-1
+Mike Salerno,2009-10-24,7,Northern Illinois,@,Miami (OH),W,3,3,100.0,2,2,100.0,9,mike-salerno-1
+Steven Schott,2009-10-24,8,Ball State,@,Eastern Michigan,W,3,4,75.0,0,1,0.0,3,steven-schott-1
+Joshua Shene,2009-10-24,7,Mississippi,,Arkansas,W,3,3,100.0,3,3,100.0,12,joshua-shene-1
+Will Snyderwine,2009-10-24,7,Duke,,Maryland,W,2,2,100.0,1,1,100.0,5,will-snyderwine-1
+Erik Soderberg,2009-10-24,8,Air Force,@,Utah,L,1,1,100.0,3,3,100.0,10,erik-soderberg-1
+Alex Steigerwald,2009-10-24,8,Toledo,,Temple,L,3,3,100.0,1,1,100.0,6,alex-steigerwald-1
+Caleb Sturgis,2009-10-24,7,Florida,@,Mississippi State,W,2,3,66.7,3,4,75.0,11,caleb-sturgis-1
+Brett Swenson,2009-10-24,8,Michigan State,,Iowa,L,1,1,100.0,2,2,100.0,7,brett-swenson-1
+Matt Szymanski,2009-10-24,7,Southern Methodist,@,Houston,L,0,1,0.0,1,1,100.0,3,matt-szymanski-1
+Nick Tausch,2009-10-24,7,Notre Dame,,Boston College,W,2,2,100.0,2,2,100.0,8,nick-tausch-1
+Giorgio Tavecchio,2009-10-24,7,California,,Washington State,W,7,7,100.0,0,1,0.0,7,giorgio-tavecchio-1
+Michael Taylor,2009-10-24,7,Troy,,North Texas,W,6,6,100.0,2,2,100.0,12,michael-taylor-1
+Dave Teggart,2009-10-24,7,Connecticut,@,West Virginia,L,3,3,100.0,1,3,33.3,6,dave-teggart-1
+Alex Tejada,2009-10-24,7,Arkansas,@,Mississippi,L,2,2,100.0,1,1,100.0,5,alex-tejada-1
+Ross Thevenot,2009-10-24,7,Tulane,@,Southern Mississippi,L,0,1,0.0,0,1,0.0,0,ross-thevenot-1
+Leigh Tiffin,2009-10-24,8,Alabama,,Tennessee,W,0,0,,4,4,100.0,12,leigh-tiffin-1
+Casey Tinius,2009-10-24,7,Western Kentucky,@,Middle Tennessee State,L,3,3,100.0,1,1,100.0,6,casey-tinius-1
+Chris Ulinski,2009-10-24,7,Utah State,,Louisiana Tech,W,2,2,100.0,3,3,100.0,11,chris-ulinski-1
+Collin Wagner,2009-10-24,8,Penn State,@,Michigan,W,3,3,100.0,2,2,100.0,9,collin-wagner-1
+Kyle Watson,2009-10-24,8,Nevada-Las Vegas,@,New Mexico,W,4,4,100.0,2,4,50.0,10,kyle-watson-1
+Matt Weller,2009-10-24,8,Ohio,,Kent State,L,0,0,,1,1,100.0,3,matt-weller-1
+Nate Whitaker,2009-10-24,8,Stanford,,Arizona State,W,3,3,100.0,2,3,66.7,9,nate-whitaker-1
+Carson Wiggs,2009-10-24,8,Purdue,,Illinois,W,3,3,100.0,1,2,50.0,6,carson-wiggs-1
+Lane Yoshida,2009-10-24,7,San Diego State,@,Colorado State,W,4,5,80.0,0,1,0.0,4,lane-yoshida-1
+Josh Zahn,2009-10-24,7,Alabama-Birmingham,@,Marshall,L,1,1,100.0,0,1,0.0,1,josh-zahn-1
+Alex Zendejas,2009-10-24,7,Arizona,,UCLA,W,3,4,75.0,0,1,0.0,3,alex-zendejas-1
+Ben Hartman,2009-10-27,8,East Carolina,@,Memphis,W,5,5,100.0,1,1,100.0,8,ben-hartman-1
+Matt Reagan,2009-10-27,8,Memphis,,East Carolina,L,1,2,50.0,2,2,100.0,7,matt-reagan-1
+Casey Barth,2009-10-29,8,North Carolina,@,Virginia Tech,W,2,2,100.0,2,2,100.0,8,casey-barth-1
+Matt Waldron,2009-10-29,8,Virginia Tech,,North Carolina,L,2,2,100.0,1,1,100.0,5,matt-waldron-1
+Tyler Bitancurt,2009-10-30,8,West Virginia,@,South Florida,L,2,2,100.0,1,1,100.0,5,tyler-bitancurt-1
+Eric Schwartz,2009-10-30,8,South Florida,,West Virginia,W,3,3,100.0,3,3,100.0,12,eric-schwartz-1
+Andrew Aguila,2009-10-31,9,Central Michigan,@,Boston College,L,1,1,100.0,1,1,100.0,4,andrew-aguila-1
+James Aho,2009-10-31,8,New Mexico,@,San Diego State,L,2,2,100.0,2,3,66.7,8,james-aho-1
+Tyler Albrecht,2009-10-31,8,Louisiana,@,Florida International,L,2,2,100.0,1,2,50.0,5,tyler-albrecht-1
+Steve Aponavicius,2009-10-31,9,Boston College,,Central Michigan,W,4,4,100.0,1,1,100.0,7,steve-aponavicius-1
+Josh Arauco,2009-10-31,7,Arkansas State,@,Louisville,L,1,1,100.0,2,2,100.0,7,josh-arauco-1
+Dan Bailey,2009-10-31,8,Oklahoma State,,Texas,L,2,2,100.0,0,1,0.0,2,dan-bailey-1
+Devin Barclay,2009-10-31,9,Ohio State,,New Mexico State,W,3,3,100.0,1,3,33.3,6,devin-barclay-1
+Logan Barrett,2009-10-31,8,Texas-El Paso,,Alabama-Birmingham,L,3,3,100.0,2,3,66.7,9,logan-barrett-1
+Jacob Branstetter,2009-10-31,8,Kansas,@,Texas Tech,L,3,3,100.0,0,1,0.0,3,jacob-branstetter-1
+Kyle Brotzman,2009-10-31,8,Boise State,,San Jose State,W,6,6,100.0,1,1,100.0,9,kyle-brotzman-1
+Joe Buckley,2009-10-31,9,Navy,,Temple,L,3,3,100.0,1,1,100.0,6,joe-buckley-1
+Wes Byrum,2009-10-31,9,Auburn,,Mississippi,W,4,4,100.0,1,1,100.0,7,wes-byrum-1
+Josh Cherry,2009-10-31,9,Kansas State,@,Oklahoma,L,1,3,33.3,1,1,100.0,4,josh-cherry-1
+Jordan Congdon,2009-10-31,8,Southern California,@,Oregon,L,2,2,100.0,2,2,100.0,8,jordan-congdon-1
+Trevor Cook,2009-10-31,9,Miami (OH),,Toledo,W,4,4,100.0,1,2,50.0,7,trevor-cook-1
+Freddy Cortez,2009-10-31,9,Kent State,,Western Michigan,W,2,2,100.0,2,2,100.0,8,freddy-cortez-1
+Chad Cunningham,2009-10-31,8,Tennessee,,South Carolina,W,4,4,100.0,1,2,50.0,7,chad-cunningham-1
+Ben Deline,2009-10-31,9,Colorado State,,Air Force,L,1,1,100.0,1,1,100.0,4,ben-deline-1
+Stefan Demos,2009-10-31,9,Northwestern,,Penn State,L,1,1,100.0,2,3,66.7,7,stefan-demos-1
+Derek Depasquale,2009-10-31,9,Mississippi State,@,Kentucky,W,4,4,100.0,1,1,100.0,7,derek-depasquale-1
+Ricky Drake,2009-10-31,8,Nevada,,Hawaii,W,4,4,100.0,1,1,100.0,7,ricky-drake-1
+Matt Eller,2009-10-31,8,Illinois,,Michigan,W,5,5,100.0,1,2,50.0,8,matt-eller-1
+Eric Ellestad,2009-10-31,9,Minnesota,,Michigan State,W,6,6,100.0,0,1,0.0,6,eric-ellestad-1
+Scott Enos,2009-10-31,8,Hawaii,@,Nevada,L,3,3,100.0,0,1,0.0,3,scott-enos-1
+Ross Evans,2009-10-31,8,Texas Christian,,Nevada-Las Vegas,W,5,5,100.0,2,2,100.0,11,ross-evans-1
+Trey Farquhar,2009-10-31,9,Idaho,,Louisiana Tech,W,5,5,100.0,0,1,0.0,5,trey-farquhar-1
+Morgan Flint,2009-10-31,8,Oregon,,Southern California,W,5,5,100.0,4,4,100.0,17,morgan-flint-1
+Kai Forbath,2009-10-31,8,UCLA,@,Oregon State,L,0,0,,1,1,100.0,3,kai-forbath-1
+Ryan Fowler,2009-10-31,9,Vanderbilt,,Georgia Tech,L,4,4,100.0,1,1,100.0,7,ryan-fowler-2
+Nick Freeland,2009-10-31,9,Indiana,@,Iowa,L,3,3,100.0,1,2,50.0,6,nick-freeland-1
+Alan Gendreau,2009-10-31,8,Middle Tennessee State,@,Florida Atlantic,W,3,3,100.0,2,3,66.7,9,alan-gendreau-1
+Kevin Goessling,2009-10-31,8,Fresno State,,Utah State,W,4,4,100.0,1,1,100.0,7,kevin-goessling-1
+Aric Goodman,2009-10-31,8,Colorado,,Missouri,L,2,2,100.0,1,1,100.0,5,aric-goodman-1
+Ross Gornall,2009-10-31,7,Florida Atlantic,,Middle Tennessee State,L,2,2,100.0,2,3,66.7,8,ross-gornall-1
+Alex Henery,2009-10-31,8,Nebraska,@,Baylor,W,2,2,100.0,2,2,100.0,8,alex-henery-1
+Matt Hogan,2009-10-31,8,Houston,,Southern Mississippi,W,6,6,100.0,2,2,100.0,12,matt-hogan-1
+Dustin Hopkins,2009-10-31,8,Florida State,,North Carolina State,W,6,6,100.0,1,1,100.0,9,dustin-hopkins-1
+Daniel Hrapmann,2009-10-31,9,Southern Mississippi,@,Houston,L,4,5,80.0,1,2,50.0,7,daniel-hrapmann-1
+Radi Jabour,2009-10-31,8,Louisiana-Monroe,@,Troy,L,3,3,100.0,0,1,0.0,3,radi-jabour-1
+Justin Kahut,2009-10-31,8,Oregon State,,UCLA,W,2,2,100.0,4,5,80.0,14,justin-kahut-1
+Jeremy Knott,2009-10-31,8,North Texas,,Western Kentucky,W,9,9,100.0,1,1,100.0,12,jeremy-knott-1
+Spencer Lanning,2009-10-31,9,South Carolina,@,Tennessee,L,1,1,100.0,2,2,100.0,7,spencer-lanning-1
+Hunter Lawrence,2009-10-31,8,Texas,@,Oklahoma State,W,5,5,100.0,2,2,100.0,11,hunter-lawrence-1
+Grant Mahoney,2009-10-31,9,Iowa State,@,Texas A&M,L,1,1,100.0,1,2,50.0,4,grant-mahoney-1
+Ian McGarvey,2009-10-31,9,Ball State,,Ohio,L,2,2,100.0,1,1,100.0,5,ian-mcgarvey-1
+Brandon McManus,2009-10-31,8,Temple,@,Navy,W,3,3,100.0,2,2,100.0,9,brandon-mcmanus-1
+Daniel Murray,2009-10-31,9,Iowa,,Indiana,W,6,6,100.0,0,1,0.0,6,daniel-murray-1
+Matt Nelson,2009-10-31,8,Louisiana Tech,@,Idaho,L,4,5,80.0,0,1,0.0,4,matt-nelson-1
+Jimmy Newman,2009-10-31,9,Wake Forest,,Miami (FL),L,3,3,100.0,2,4,50.0,9,jimmy-newman-1
+Jason Olesnavage,2009-10-31,9,Michigan,@,Illinois,L,1,1,100.0,2,2,100.0,7,jason-olesnavage-1
+Ben Parks,2009-10-31,8,Baylor,,Nebraska,L,1,1,100.0,1,2,50.0,4,ben-parks-1
+Ryan Payne,2009-10-31,8,Louisville,,Arkansas State,W,3,3,100.0,0,2,0.0,3,ryan-payne-1
+Aaron Pettrey,2009-10-31,9,Ohio State,,New Mexico State,W,3,3,100.0,0,2,0.0,3,aaron-pettrey-1
+Joe Phillips,2009-10-31,8,Utah,,Wyoming,W,1,1,100.0,3,4,75.0,10,joe-phillips-1
+John Potter,2009-10-31,9,Western Michigan,@,Kent State,L,2,2,100.0,0,1,0.0,2,john-potter-1
+Robert Randolph,2009-10-31,8,Virginia,,Duke,L,0,0,,1,1,100.0,3,robert-randolph-1
+Grant Ressel,2009-10-31,8,Missouri,@,Colorado,W,4,4,100.0,2,2,100.0,10,grant-ressel-1
+Dustin Rivest,2009-10-31,8,Florida International,,Louisiana,W,2,2,100.0,2,2,100.0,8,dustin-rivest-1
+Jacob Rogers,2009-10-31,8,Cincinnati,@,Syracuse,W,4,4,100.0,0,1,0.0,4,jacob-rogers-1
+Branko Rogovic,2009-10-31,8,Akron,@,Northern Illinois,L,1,1,100.0,1,2,50.0,4,branko-rogovic-1
+Mike Salerno,2009-10-31,8,Northern Illinois,,Akron,W,3,3,100.0,2,3,66.7,9,mike-salerno-1
+Lones Seiber,2009-10-31,8,Kentucky,,Mississippi State,L,3,3,100.0,1,1,100.0,6,lones-seiber-1
+Joshua Shene,2009-10-31,8,Mississippi,@,Auburn,L,2,3,66.7,0,1,0.0,2,joshua-shene-1
+Will Snyderwine,2009-10-31,8,Duke,@,Virginia,W,1,1,100.0,5,5,100.0,16,will-snyderwine-1
+Erik Soderberg,2009-10-31,9,Air Force,@,Colorado State,W,2,3,66.7,2,2,100.0,8,erik-soderberg-1
+Alex Steigerwald,2009-10-31,9,Toledo,@,Miami (OH),L,3,3,100.0,1,1,100.0,6,alex-steigerwald-1
+Caleb Sturgis,2009-10-31,8,Florida,N,Georgia,W,5,5,100.0,2,2,100.0,11,caleb-sturgis-1
+Brett Swenson,2009-10-31,9,Michigan State,@,Minnesota,L,4,4,100.0,2,2,100.0,10,brett-swenson-1
+Matt Szymanski,2009-10-31,8,Southern Methodist,@,Tulsa,W,3,3,100.0,2,2,100.0,9,matt-szymanski-1
+Nick Tausch,2009-10-31,8,Notre Dame,N,Washington State,W,4,5,80.0,2,2,100.0,10,nick-tausch-1
+Giorgio Tavecchio,2009-10-31,8,California,@,Arizona State,W,2,2,100.0,3,5,60.0,11,giorgio-tavecchio-1
+San San Te,2009-10-31,8,Rutgers,@,Connecticut,W,4,4,100.0,0,1,0.0,4,san-san-te-1
+Dave Teggart,2009-10-31,8,Connecticut,,Rutgers,L,3,3,100.0,1,3,33.3,6,dave-teggart-1
+Alex Tejada,2009-10-31,8,Arkansas,,Eastern Michigan,W,9,9,100.0,0,1,0.0,9,alex-tejada-1
+Ross Thevenot,2009-10-31,8,Tulane,@,Louisiana State,L,0,0,,0,1,0.0,0,ross-thevenot-1
+Chris Ulinski,2009-10-31,8,Utah State,@,Fresno State,L,3,3,100.0,2,4,50.0,9,chris-ulinski-1
+Collin Wagner,2009-10-31,9,Penn State,@,Northwestern,W,4,4,100.0,2,2,100.0,10,collin-wagner-1
+Blair Walsh,2009-10-31,8,Georgia,N,Florida,L,2,2,100.0,1,1,100.0,5,blair-walsh-1
+Ian Watts,2009-10-31,8,Wyoming,@,Utah,L,1,1,100.0,1,1,100.0,4,ian-watts-1
+Philip Welch,2009-10-31,8,Wisconsin,,Purdue,W,4,4,100.0,3,3,100.0,13,philip-welch-1
+Matt Weller,2009-10-31,9,Ohio,@,Ball State,W,0,0,,4,5,80.0,12,matt-weller-1
+Josh Zahn,2009-10-31,8,Alabama-Birmingham,@,Texas-El Paso,W,5,5,100.0,1,2,50.0,8,josh-zahn-1
+Nick Cattoi,2009-11-01,8,Central Florida,,Marshall,W,3,3,100.0,0,1,0.0,3,nick-cattoi-1
+Craig Ratanamorn,2009-11-01,9,Marshall,@,Central Florida,L,2,2,100.0,2,2,100.0,8,craig-ratanamorn-1
+Matthew Norsic,2009-11-03,9,Bowling Green State,@,Buffalo,W,3,4,75.0,1,1,100.0,6,matthew-norsic-1
+Joe Carithers,2009-11-05,9,Eastern Michigan,@,Northern Illinois,L,0,0,,2,3,66.7,6,joe-carithers-1
+Trevor Cook,2009-11-05,10,Miami (OH),@,Temple,L,2,2,100.0,2,2,100.0,8,trevor-cook-1
+Ben Hartman,2009-11-05,9,East Carolina,,Virginia Tech,L,0,0,,1,1,100.0,3,ben-hartman-1
+Brandon McManus,2009-11-05,9,Temple,,Miami (OH),W,4,4,100.0,2,2,100.0,10,brandon-mcmanus-1
+Mike Salerno,2009-11-05,9,Northern Illinois,,Eastern Michigan,W,5,6,83.3,3,3,100.0,14,mike-salerno-1
+Matt Waldron,2009-11-05,9,Virginia Tech,@,East Carolina,W,1,1,100.0,3,3,100.0,10,matt-waldron-1
+Kyle Brotzman,2009-11-06,9,Boise State,@,Louisiana Tech,W,4,4,100.0,3,5,60.0,13,kyle-brotzman-1
+Josh Arauco,2009-11-07,8,Arkansas State,,Louisiana,L,1,1,100.0,1,1,100.0,4,josh-arauco-1
+Dan Bailey,2009-11-07,9,Oklahoma State,@,Iowa State,W,4,4,100.0,2,2,100.0,10,dan-bailey-1
+Devin Barclay,2009-11-07,10,Ohio State,@,Penn State,W,3,3,100.0,1,1,100.0,6,devin-barclay-1
+Logan Barrett,2009-11-07,9,Texas-El Paso,@,Tulane,L,5,5,100.0,1,1,100.0,8,logan-barrett-1
+Casey Barth,2009-11-07,9,North Carolina,,Duke,W,1,1,100.0,4,4,100.0,13,casey-barth-1
+Tyler Bitancurt,2009-11-07,9,West Virginia,,Louisville,W,2,2,100.0,1,1,100.0,5,tyler-bitancurt-1
+Scott Blair,2009-11-07,10,Georgia Tech,,Wake Forest,W,3,3,100.0,1,1,100.0,6,scott-blair-1
+Matt Bosher,2009-11-07,9,Miami (FL),,Virginia,W,7,7,100.0,1,1,100.0,10,matt-bosher-1
+Jacob Branstetter,2009-11-07,9,Kansas,@,Kansas State,L,1,1,100.0,1,3,33.3,4,jacob-branstetter-1
+Joe Buckley,2009-11-07,10,Navy,@,Notre Dame,W,3,3,100.0,0,1,0.0,3,joe-buckley-1
+Randy Bullock,2009-11-07,9,Texas A&M,@,Colorado,L,4,4,100.0,2,3,66.7,10,randy-bullock-1
+Nick Cattoi,2009-11-07,9,Central Florida,@,Texas,L,0,0,,1,1,100.0,3,nick-cattoi-1
+Josh Cherry,2009-11-07,10,Kansas State,,Kansas,W,2,2,100.0,1,2,50.0,5,josh-cherry-1
+Jordan Congdon,2009-11-07,9,Southern California,@,Arizona State,W,2,2,100.0,0,1,0.0,2,jordan-congdon-1
+Freddy Cortez,2009-11-07,10,Kent State,@,Akron,L,2,2,100.0,2,2,100.0,8,freddy-cortez-1
+Josh Czajkowski,2009-11-07,9,North Carolina State,,Maryland,W,5,5,100.0,1,1,100.0,8,josh-czajkowski-1
+Ben Deline,2009-11-07,10,Colorado State,@,Nevada-Las Vegas,L,1,1,100.0,1,2,50.0,4,ben-deline-1
+Stefan Demos,2009-11-07,10,Northwestern,@,Iowa,W,2,2,100.0,1,1,100.0,5,stefan-demos-1
+Matt Eller,2009-11-07,9,Illinois,@,Minnesota,W,5,5,100.0,0,1,0.0,5,matt-eller-1
+Eric Ellestad,2009-11-07,10,Minnesota,,Illinois,L,3,3,100.0,1,1,100.0,6,eric-ellestad-1
+Scott Enos,2009-11-07,9,Hawaii,,Utah State,W,7,7,100.0,0,2,0.0,7,scott-enos-1
+Ross Evans,2009-11-07,9,Texas Christian,@,San Diego State,W,7,7,100.0,2,2,100.0,13,ross-evans-1
+Clark Fangmeier,2009-11-07,9,Rice,@,Southern Methodist,L,2,3,66.7,0,2,0.0,2,clark-fangmeier-1
+Trey Farquhar,2009-11-07,10,Idaho,,Fresno State,L,1,1,100.0,0,1,0.0,1,trey-farquhar-1
+Nick Ferrara,2009-11-07,9,Maryland,@,North Carolina State,L,4,4,100.0,1,3,33.3,7,nick-ferrara-1
+Kevin Fitzpatrick,2009-11-07,9,Tulsa,,Houston,L,6,6,100.0,1,1,100.0,9,kevin-fitzpatrick-1
+Erik Folk,2009-11-07,9,Washington,@,UCLA,L,2,2,100.0,3,4,75.0,11,erik-folk-1
+Kai Forbath,2009-11-07,9,UCLA,,Washington,W,3,3,100.0,1,1,100.0,6,kai-forbath-1
+Ryan Fowler,2009-11-07,10,Vanderbilt,@,Florida,L,0,0,,1,1,100.0,3,ryan-fowler-2
+Alan Gendreau,2009-11-07,9,Middle Tennessee State,,Florida International,W,6,6,100.0,2,2,100.0,12,alan-gendreau-1
+Kevin Goessling,2009-11-07,9,Fresno State,@,Idaho,W,4,4,100.0,1,1,100.0,7,kevin-goessling-1
+Aric Goodman,2009-11-07,9,Colorado,,Texas A&M,W,3,3,100.0,2,2,100.0,9,aric-goodman-1
+Kevin Harper,2009-11-07,9,Pittsburgh,,Syracuse,W,0,0,,0,1,0.0,0,kevin-harper-1
+Alex Henery,2009-11-07,9,Nebraska,,Oklahoma,W,1,1,100.0,1,2,50.0,4,alex-henery-1
+Matt Hogan,2009-11-07,9,Houston,@,Tulsa,W,4,4,100.0,4,4,100.0,16,matt-hogan-1
+Dustin Hopkins,2009-11-07,9,Florida State,@,Clemson,L,3,3,100.0,1,2,50.0,6,dustin-hopkins-1
+Dan Hutchins,2009-11-07,9,Pittsburgh,,Syracuse,W,4,4,100.0,3,4,75.0,13,dan-hutchins-1
+Radi Jabour,2009-11-07,9,Louisiana-Monroe,@,North Texas,W,3,4,75.0,2,3,66.7,9,radi-jabour-1
+Richard Jackson,2009-11-07,9,Clemson,,Florida State,W,2,4,50.0,0,2,0.0,2,richard-jackson-2
+Justin Kahut,2009-11-07,9,Oregon State,@,California,W,4,4,100.0,1,2,50.0,7,justin-kahut-1
+Jeremy Knott,2009-11-07,9,North Texas,,Louisiana-Monroe,L,0,0,,2,2,100.0,6,jeremy-knott-1
+Spencer Lanning,2009-11-07,10,South Carolina,@,Arkansas,L,1,1,100.0,1,1,100.0,4,spencer-lanning-1
+Hunter Lawrence,2009-11-07,9,Texas,,Central Florida,W,5,5,100.0,0,1,0.0,5,hunter-lawrence-1
+Ryan Lichtenstein,2009-11-07,9,Syracuse,@,Pittsburgh,L,1,1,100.0,1,1,100.0,4,ryan-lichtenstein-1
+Nick Maggio,2009-11-07,9,Duke,@,North Carolina,L,0,0,,2,2,100.0,6,nick-maggio-1
+Daniel Murray,2009-11-07,10,Iowa,,Northwestern,L,1,1,100.0,1,2,50.0,4,daniel-murray-1
+Jimmy Newman,2009-11-07,10,Wake Forest,@,Georgia Tech,L,3,3,100.0,2,2,100.0,9,jimmy-newman-1
+Jason Olesnavage,2009-11-07,10,Michigan,,Purdue,L,3,4,75.0,1,2,50.0,6,jason-olesnavage-1
+Mitch Payne,2009-11-07,9,Brigham Young,@,Wyoming,W,7,7,100.0,1,2,50.0,10,mitch-payne-1
+Joe Phillips,2009-11-07,9,Utah,,New Mexico,W,6,6,100.0,1,2,50.0,9,joe-phillips-1
+Chris Philpott,2009-11-07,9,Louisville,@,West Virginia,L,0,0,,3,3,100.0,9,chris-philpott-1
+Robert Randolph,2009-11-07,9,Virginia,@,Miami (FL),L,0,0,,1,1,100.0,3,robert-randolph-1
+Grant Ressel,2009-11-07,9,Missouri,,Baylor,L,3,3,100.0,3,3,100.0,12,grant-ressel-1
+Dustin Rivest,2009-11-07,9,Florida International,@,Middle Tennessee State,L,3,3,100.0,0,1,0.0,3,dustin-rivest-1
+Jacob Rogers,2009-11-07,9,Cincinnati,,Connecticut,W,5,5,100.0,4,4,100.0,17,jacob-rogers-1
+Branko Rogovic,2009-11-07,9,Akron,,Kent State,W,4,4,100.0,0,1,0.0,4,branko-rogovic-1
+Lones Seiber,2009-11-07,9,Kentucky,,Eastern Kentucky,W,4,5,80.0,1,2,50.0,7,lones-seiber-1
+Joshua Shene,2009-11-07,9,Mississippi,,Northern Arizona,W,5,5,100.0,1,1,100.0,8,joshua-shene-1
+Erik Soderberg,2009-11-07,10,Air Force,,Army,W,5,5,100.0,0,1,0.0,5,erik-soderberg-1
+Dary Stone,2009-11-07,9,Baylor,@,Missouri,W,4,5,80.0,2,2,100.0,10,dary-stone-1
+Caleb Sturgis,2009-11-07,9,Florida,,Vanderbilt,W,3,3,100.0,2,2,100.0,9,caleb-sturgis-1
+Brett Swenson,2009-11-07,10,Michigan State,,Western Michigan,W,7,7,100.0,0,1,0.0,7,brett-swenson-1
+Matt Szymanski,2009-11-07,9,Southern Methodist,,Rice,W,4,4,100.0,1,1,100.0,7,matt-szymanski-1
+Nick Tausch,2009-11-07,9,Notre Dame,,Navy,L,3,3,100.0,0,2,0.0,3,nick-tausch-1
+Dave Teggart,2009-11-07,9,Connecticut,@,Cincinnati,L,4,4,100.0,1,1,100.0,7,dave-teggart-1
+Alex Tejada,2009-11-07,9,Arkansas,,South Carolina,W,4,4,100.0,1,1,100.0,7,alex-tejada-1
+Ross Thevenot,2009-11-07,9,Tulane,,Texas-El Paso,W,6,6,100.0,1,1,100.0,9,ross-thevenot-1
+Leigh Tiffin,2009-11-07,9,Alabama,,Louisiana State,W,1,1,100.0,3,3,100.0,10,leigh-tiffin-1
+Casey Tinius,2009-11-07,9,Western Kentucky,,Troy,L,2,2,100.0,2,4,50.0,8,casey-tinius-1
+Chris Ulinski,2009-11-07,9,Utah State,@,Hawaii,L,4,4,100.0,0,1,0.0,4,chris-ulinski-1
+Blair Walsh,2009-11-07,9,Georgia,,Tennessee Tech,W,5,5,100.0,1,1,100.0,8,blair-walsh-1
+Tress Way,2009-11-07,9,Oklahoma,@,Nebraska,L,0,0,,1,4,25.0,3,tress-way-1
+Thomas Weber,2009-11-07,9,Arizona State,,Southern California,L,0,1,0.0,1,1,100.0,3,thomas-weber-1
+Philip Welch,2009-11-07,9,Wisconsin,@,Indiana,W,4,4,100.0,1,1,100.0,7,philip-welch-1
+Nate Whitaker,2009-11-07,9,Stanford,,Oregon,W,6,6,100.0,3,4,75.0,15,nate-whitaker-1
+Carson Wiggs,2009-11-07,10,Purdue,@,Michigan,W,5,5,100.0,1,1,100.0,8,carson-wiggs-1
+Lane Yoshida,2009-11-07,9,San Diego State,,Texas Christian,L,0,1,0.0,2,2,100.0,6,lane-yoshida-1
+Alex Zendejas,2009-11-07,8,Arizona,,Washington State,W,5,5,100.0,2,2,100.0,11,alex-zendejas-1
+Tyler Cope,2009-11-08,8,San Jose State,,Nevada,L,1,1,100.0,0,1,0.0,1,tyler-cope-1
+Ricky Drake,2009-11-08,9,Nevada,@,San Jose State,W,8,9,88.9,0,1,0.0,8,ricky-drake-1
+A.J. Principe,2009-11-10,10,Buffalo,,Ohio,L,3,3,100.0,1,1,100.0,6,aj-principe-1
+Matt Weller,2009-11-10,10,Ohio,@,Buffalo,W,3,3,100.0,2,2,100.0,9,matt-weller-1
+Ian McGarvey,2009-11-12,10,Ball State,@,Northern Illinois,L,2,2,100.0,2,2,100.0,8,ian-mcgarvey-1
+Matthew Norsic,2009-11-12,10,Bowling Green State,@,Miami (OH),W,5,5,100.0,0,2,0.0,5,matthew-norsic-1
+Mike Salerno,2009-11-12,10,Northern Illinois,,Ball State,W,3,3,100.0,1,1,100.0,6,mike-salerno-1
+San San Te,2009-11-12,9,Rutgers,,South Florida,W,2,2,100.0,3,4,75.0,11,san-san-te-1
+Brandon McManus,2009-11-13,10,Temple,@,Akron,W,8,8,100.0,0,1,0.0,8,brandon-mcmanus-1
+Jacob Rogers,2009-11-13,10,Cincinnati,,West Virginia,W,3,3,100.0,1,2,50.0,6,jacob-rogers-1
+Branko Rogovic,2009-11-13,10,Akron,,Temple,L,2,2,100.0,1,1,100.0,5,branko-rogovic-1
+James Aho,2009-11-14,10,New Mexico,,Brigham Young,L,1,2,50.0,0,3,0.0,1,james-aho-1
+Tyler Albrecht,2009-11-14,10,Louisiana,@,Middle Tennessee State,L,2,2,100.0,1,1,100.0,5,tyler-albrecht-1
+Josh Arauco,2009-11-14,9,Arkansas State,@,Florida Atlantic,L,0,0,,4,4,100.0,12,josh-arauco-1
+Dan Bailey,2009-11-14,10,Oklahoma State,,Texas Tech,W,3,3,100.0,1,1,100.0,6,dan-bailey-1
+Devin Barclay,2009-11-14,11,Ohio State,,Iowa,W,3,3,100.0,2,3,66.7,9,devin-barclay-1
+Logan Barrett,2009-11-14,10,Texas-El Paso,@,Southern Methodist,L,4,4,100.0,1,2,50.0,7,logan-barrett-1
+Casey Barth,2009-11-14,10,North Carolina,,Miami (FL),W,3,3,100.0,4,4,100.0,15,casey-barth-1
+Spencer Benton,2009-11-14,10,Clemson,@,North Carolina State,W,3,5,60.0,1,1,100.0,6,spencer-benton-1
+Matt Bosher,2009-11-14,10,Miami (FL),@,North Carolina,L,3,3,100.0,1,1,100.0,6,matt-bosher-1
+Jacob Branstetter,2009-11-14,10,Kansas,,Nebraska,L,2,2,100.0,1,1,100.0,5,jacob-branstetter-1
+Randy Bullock,2009-11-14,10,Texas A&M,@,Oklahoma,L,1,1,100.0,1,2,50.0,4,randy-bullock-1
+Wes Byrum,2009-11-14,11,Auburn,@,Georgia,L,3,3,100.0,1,1,100.0,6,wes-byrum-1
+Alex Carlton,2009-11-14,10,Army,,Virginia Military Institute,W,1,1,100.0,3,3,100.0,10,alex-carlton-1
+Nick Cattoi,2009-11-14,10,Central Florida,,Houston,W,4,5,80.0,1,1,100.0,7,nick-cattoi-1
+Josh Cherry,2009-11-14,11,Kansas State,,Missouri,L,0,0,,4,4,100.0,12,josh-cherry-1
+Tyler Cope,2009-11-14,9,San Jose State,@,Utah State,L,0,0,,1,1,100.0,3,tyler-cope-1
+Josh Czajkowski,2009-11-14,10,North Carolina State,,Clemson,L,2,2,100.0,1,1,100.0,5,josh-czajkowski-1
+Stefan Demos,2009-11-14,11,Northwestern,@,Illinois,W,3,3,100.0,0,3,0.0,3,stefan-demos-1
+Derek Depasquale,2009-11-14,10,Mississippi State,,Alabama,L,0,0,,1,2,50.0,3,derek-depasquale-1
+Derek Dimke,2009-11-14,10,Illinois,,Northwestern,L,1,1,100.0,1,1,100.0,4,derek-dimke-1
+Ricky Drake,2009-11-14,10,Nevada,,Fresno State,W,7,7,100.0,1,1,100.0,10,ricky-drake-1
+Matt Eller,2009-11-14,10,Illinois,,Northwestern,L,0,0,,0,1,0.0,0,matt-eller-1
+Eric Ellestad,2009-11-14,11,Minnesota,,South Dakota State,W,1,1,100.0,3,4,75.0,10,eric-ellestad-1
+Scott Enos,2009-11-14,10,Hawaii,,New Mexico State,W,3,3,100.0,1,2,50.0,6,scott-enos-1
+Ross Evans,2009-11-14,10,Texas Christian,,Utah,W,7,7,100.0,2,3,66.7,13,ross-evans-1
+Clark Fangmeier,2009-11-14,10,Rice,,Tulane,W,4,4,100.0,0,1,0.0,4,clark-fangmeier-1
+Trey Farquhar,2009-11-14,11,Idaho,@,Boise State,L,2,2,100.0,1,2,50.0,5,trey-farquhar-1
+Nick Ferrara,2009-11-14,10,Maryland,,Virginia Tech,L,0,0,,1,2,50.0,3,nick-ferrara-1
+Morgan Flint,2009-11-14,10,Oregon,,Arizona State,W,5,5,100.0,3,3,100.0,14,morgan-flint-1
+Kai Forbath,2009-11-14,10,UCLA,@,Washington State,W,5,5,100.0,2,2,100.0,11,kai-forbath-1
+Ryan Fowler,2009-11-14,11,Vanderbilt,,Kentucky,L,1,1,100.0,2,2,100.0,7,ryan-fowler-2
+Nick Freeland,2009-11-14,11,Indiana,@,Penn State,L,2,2,100.0,2,3,66.7,8,nick-freeland-1
+Alan Gendreau,2009-11-14,10,Middle Tennessee State,,Louisiana,W,4,4,100.0,2,3,66.7,10,alan-gendreau-1
+Aric Goodman,2009-11-14,10,Colorado,@,Iowa State,L,1,1,100.0,1,2,50.0,4,aric-goodman-1
+Alex Henery,2009-11-14,10,Nebraska,@,Kansas,W,2,2,100.0,3,3,100.0,11,alex-henery-1
+Matt Hogan,2009-11-14,10,Houston,@,Central Florida,L,2,3,66.7,2,2,100.0,8,matt-hogan-1
+Dustin Hopkins,2009-11-14,10,Florida State,@,Wake Forest,W,5,5,100.0,2,2,100.0,11,dustin-hopkins-1
+Daniel Hrapmann,2009-11-14,10,Southern Mississippi,@,Marshall,W,3,4,75.0,0,1,0.0,3,daniel-hrapmann-1
+Dan Hutchins,2009-11-14,10,Pittsburgh,,Notre Dame,W,3,3,100.0,2,2,100.0,9,dan-hutchins-1
+Radi Jabour,2009-11-14,10,Louisiana-Monroe,,Western Kentucky,W,3,3,100.0,0,1,0.0,3,radi-jabour-1
+Josh Jasper,2009-11-14,10,Louisiana State,,Louisiana Tech,W,3,3,100.0,1,1,100.0,6,josh-jasper-1
+Justin Kahut,2009-11-14,10,Oregon State,,Washington,W,6,6,100.0,2,2,100.0,12,justin-kahut-1
+Hunter Lawrence,2009-11-14,10,Texas,@,Baylor,W,5,5,100.0,1,1,100.0,8,hunter-lawrence-1
+Ryan Lichtenstein,2009-11-14,10,Syracuse,@,Louisville,L,0,0,,1,1,100.0,3,ryan-lichtenstein-1
+Daniel Lincoln,2009-11-14,10,Tennessee,@,Mississippi,L,2,2,100.0,1,2,50.0,5,daniel-lincoln-1
+Grant Mahoney,2009-11-14,11,Iowa State,,Colorado,W,2,2,100.0,1,1,100.0,5,grant-mahoney-1
+Daniel Murray,2009-11-14,11,Iowa,@,Ohio State,L,3,3,100.0,1,2,50.0,6,daniel-murray-1
+Matt Nelson,2009-11-14,10,Louisiana Tech,@,Louisiana State,L,1,1,100.0,3,3,100.0,10,matt-nelson-1
+Patrick O'Hara,2009-11-14,10,Oklahoma,,Texas A&M,W,2,2,100.0,1,1,100.0,5,patrick-ohara-1
+Jason Olesnavage,2009-11-14,11,Michigan,@,Wisconsin,L,3,3,100.0,1,2,50.0,6,jason-olesnavage-1
+Mitch Payne,2009-11-14,10,Brigham Young,@,New Mexico,W,3,3,100.0,1,1,100.0,6,mitch-payne-1
+Chris Philpott,2009-11-14,10,Louisville,,Syracuse,W,1,1,100.0,1,1,100.0,4,chris-philpott-1
+Robert Randolph,2009-11-14,10,Virginia,,Boston College,L,0,0,,1,2,50.0,3,robert-randolph-1
+Craig Ratanamorn,2009-11-14,10,Marshall,,Southern Mississippi,L,2,2,100.0,2,2,100.0,8,craig-ratanamorn-1
+Grant Ressel,2009-11-14,10,Missouri,@,Kansas State,W,5,5,100.0,1,1,100.0,8,grant-ressel-1
+David Ruffer,2009-11-14,10,Notre Dame,@,Pittsburgh,L,1,2,50.0,1,1,100.0,4,david-ruffer-1
+Lones Seiber,2009-11-14,10,Kentucky,@,Vanderbilt,W,3,3,100.0,1,1,100.0,6,lones-seiber-1
+Joshua Shene,2009-11-14,10,Mississippi,,Tennessee,W,6,6,100.0,0,1,0.0,6,joshua-shene-1
+Will Snyderwine,2009-11-14,10,Duke,,Georgia Tech,L,1,1,100.0,1,2,50.0,4,will-snyderwine-1
+Erik Soderberg,2009-11-14,11,Air Force,,Nevada-Las Vegas,W,6,6,100.0,1,1,100.0,9,erik-soderberg-1
+Caleb Sturgis,2009-11-14,10,Florida,@,South Carolina,W,3,3,100.0,1,4,25.0,6,caleb-sturgis-1
+Brett Swenson,2009-11-14,11,Michigan State,@,Purdue,W,4,4,100.0,4,4,100.0,16,brett-swenson-1
+Giorgio Tavecchio,2009-11-14,10,California,,Arizona,W,0,1,0.0,4,5,80.0,12,giorgio-tavecchio-1
+Michael Taylor,2009-11-14,10,Troy,@,Arkansas,L,2,2,100.0,2,3,66.7,8,michael-taylor-1
+Leigh Tiffin,2009-11-14,10,Alabama,@,Mississippi State,W,4,4,100.0,1,1,100.0,7,leigh-tiffin-1
+Casey Tinius,2009-11-14,10,Western Kentucky,@,Louisiana-Monroe,L,0,0,,4,6,66.7,12,casey-tinius-1
+Chris Ulinski,2009-11-14,10,Utah State,,San Jose State,W,3,3,100.0,1,1,100.0,6,chris-ulinski-1
+Collin Wagner,2009-11-14,11,Penn State,,Indiana,W,4,4,100.0,1,2,50.0,7,collin-wagner-1
+Matt Waldron,2009-11-14,10,Virginia Tech,@,Maryland,W,3,3,100.0,3,3,100.0,12,matt-waldron-1
+Blair Walsh,2009-11-14,10,Georgia,,Auburn,W,4,4,100.0,1,1,100.0,7,blair-walsh-1
+Kyle Watson,2009-11-14,11,Nevada-Las Vegas,@,Air Force,L,2,2,100.0,1,1,100.0,5,kyle-watson-1
+Ian Watts,2009-11-14,10,Wyoming,@,San Diego State,W,3,3,100.0,3,3,100.0,12,ian-watts-1
+Tress Way,2009-11-14,10,Oklahoma,,Texas A&M,W,0,0,,0,1,0.0,0,tress-way-1
+Philip Welch,2009-11-14,10,Wisconsin,,Michigan,W,6,6,100.0,1,1,100.0,9,philip-welch-1
+Carson Wiggs,2009-11-14,11,Purdue,,Michigan State,L,4,4,100.0,3,5,60.0,13,carson-wiggs-1
+Matt Williams,2009-11-14,10,Texas Tech,@,Oklahoma State,L,2,2,100.0,1,2,50.0,5,matt-williams-1
+Lane Yoshida,2009-11-14,10,San Diego State,,Wyoming,L,3,3,100.0,2,3,66.7,9,lane-yoshida-1
+Josh Zahn,2009-11-14,10,Alabama-Birmingham,@,Memphis,W,4,4,100.0,1,1,100.0,7,josh-zahn-1
+Alex Zendejas,2009-11-14,9,Arizona,@,California,L,1,1,100.0,1,1,100.0,4,alex-zendejas-1
+Kevin Fitzpatrick,2009-11-15,10,Tulsa,,East Carolina,L,2,2,100.0,1,1,100.0,5,kevin-fitzpatrick-1
+Ben Hartman,2009-11-15,10,East Carolina,@,Tulsa,W,5,5,100.0,3,4,75.0,14,ben-hartman-1
+Trevor Cook,2009-11-18,12,Miami (OH),,Buffalo,L,2,2,100.0,1,2,50.0,5,trevor-cook-1
+Ian McGarvey,2009-11-18,11,Ball State,,Central Michigan,L,0,0,,1,1,100.0,3,ian-mcgarvey-1
+Dan Bailey,2009-11-19,11,Oklahoma State,,Colorado,W,4,4,100.0,1,2,50.0,7,dan-bailey-1
+Aric Goodman,2009-11-19,11,Colorado,@,Oklahoma State,L,4,4,100.0,0,1,0.0,4,aric-goodman-1
+Kyle Brotzman,2009-11-20,11,Boise State,@,Utah State,W,7,7,100.0,1,1,100.0,10,kyle-brotzman-1
+Branko Rogovic,2009-11-20,11,Akron,@,Bowling Green State,L,2,2,100.0,2,2,100.0,8,branko-rogovic-1
+Alex Steigerwald,2009-11-20,11,Toledo,,Eastern Michigan,W,5,6,83.3,2,3,66.7,11,alex-steigerwald-1
+Chris Ulinski,2009-11-20,11,Utah State,,Boise State,L,3,3,100.0,0,1,0.0,3,chris-ulinski-1
+James Aho,2009-11-21,11,New Mexico,,Colorado State,W,2,3,66.7,3,3,100.0,11,james-aho-1
+Tyler Albrecht,2009-11-21,11,Louisiana,,Louisiana-Monroe,W,3,3,100.0,0,1,0.0,3,tyler-albrecht-1
+Steve Aponavicius,2009-11-21,11,Boston College,,North Carolina,L,1,1,100.0,2,2,100.0,7,steve-aponavicius-1
+Josh Arauco,2009-11-21,10,Arkansas State,@,Middle Tennessee State,L,2,2,100.0,0,1,0.0,2,josh-arauco-1
+Logan Barrett,2009-11-21,11,Texas-El Paso,@,Rice,L,2,2,100.0,1,1,100.0,5,logan-barrett-1
+Casey Barth,2009-11-21,11,North Carolina,@,Boston College,W,4,4,100.0,1,1,100.0,7,casey-barth-1
+Matt Bosher,2009-11-21,11,Miami (FL),,Duke,W,4,4,100.0,2,2,100.0,10,matt-bosher-1
+Jacob Branstetter,2009-11-21,11,Kansas,@,Texas,L,2,2,100.0,2,3,66.7,8,jacob-branstetter-1
+Randy Bullock,2009-11-21,11,Texas A&M,,Baylor,W,5,5,100.0,1,2,50.0,8,randy-bullock-1
+Alex Carlton,2009-11-21,11,Army,@,North Texas,W,2,2,100.0,1,1,100.0,5,alex-carlton-1
+Josh Cherry,2009-11-21,12,Kansas State,@,Nebraska,L,0,0,,1,3,33.3,3,josh-cherry-1
+Tyler Cope,2009-11-21,10,San Jose State,,Hawaii,L,1,1,100.0,1,1,100.0,4,tyler-cope-1
+Freddy Cortez,2009-11-21,11,Kent State,@,Temple,L,1,1,100.0,2,3,66.7,7,freddy-cortez-1
+Josh Czajkowski,2009-11-21,11,North Carolina State,@,Virginia Tech,L,1,1,100.0,1,1,100.0,4,josh-czajkowski-1
+Vince D'Amato,2009-11-21,11,California,@,Stanford,W,4,4,100.0,2,2,100.0,10,vince-damato-1
+Stefan Demos,2009-11-21,12,Northwestern,,Wisconsin,W,3,3,100.0,4,4,100.0,15,stefan-demos-1
+Scott Enos,2009-11-21,11,Hawaii,@,San Jose State,W,2,2,100.0,1,2,50.0,5,scott-enos-1
+Ross Evans,2009-11-21,11,Texas Christian,@,Wyoming,W,6,6,100.0,1,1,100.0,9,ross-evans-1
+Clark Fangmeier,2009-11-21,11,Rice,,Texas-El Paso,W,3,3,100.0,1,1,100.0,6,clark-fangmeier-1
+Nick Ferrara,2009-11-21,11,Maryland,@,Florida State,L,2,2,100.0,2,2,100.0,8,nick-ferrara-1
+Morgan Flint,2009-11-21,11,Oregon,@,Arizona,W,5,5,100.0,1,1,100.0,8,morgan-flint-1
+Kai Forbath,2009-11-21,11,UCLA,,Arizona State,W,2,2,100.0,3,4,75.0,11,kai-forbath-1
+Ryan Fowler,2009-11-21,12,Vanderbilt,@,Tennessee,L,1,1,100.0,3,3,100.0,10,ryan-fowler-2
+Nick Freeland,2009-11-21,12,Indiana,,Purdue,L,3,3,100.0,0,2,0.0,3,nick-freeland-1
+Alan Gendreau,2009-11-21,11,Middle Tennessee State,,Arkansas State,W,5,5,100.0,1,1,100.0,8,alan-gendreau-1
+Kevin Goessling,2009-11-21,11,Fresno State,,Louisiana Tech,W,3,3,100.0,3,3,100.0,12,kevin-goessling-1
+Ben Hartman,2009-11-21,11,East Carolina,,Alabama-Birmingham,W,4,4,100.0,3,3,100.0,13,ben-hartman-1
+Alex Henery,2009-11-21,11,Nebraska,,Kansas State,W,2,2,100.0,1,1,100.0,5,alex-henery-1
+Daniel Hrapmann,2009-11-21,11,Southern Mississippi,,Tulsa,W,5,6,83.3,1,1,100.0,8,daniel-hrapmann-1
+Kyle Hughes,2009-11-21,11,New Mexico State,,Nevada,L,2,2,100.0,2,2,100.0,8,kyle-hughes-1
+Radi Jabour,2009-11-21,11,Louisiana-Monroe,@,Louisiana,L,2,2,100.0,1,2,50.0,5,radi-jabour-1
+Richard Jackson,2009-11-21,11,Clemson,,Virginia,W,4,4,100.0,2,3,66.7,10,richard-jackson-2
+Josh Jasper,2009-11-21,11,Louisiana State,@,Mississippi,L,2,2,100.0,1,1,100.0,5,josh-jasper-1
+Jeremy Knott,2009-11-21,11,North Texas,,Army,L,1,2,50.0,0,1,0.0,1,jeremy-knott-1
+Hunter Lawrence,2009-11-21,11,Texas,,Kansas,W,6,6,100.0,3,3,100.0,15,hunter-lawrence-1
+Ryan Lichtenstein,2009-11-21,11,Syracuse,,Rutgers,W,4,4,100.0,1,2,50.0,7,ryan-lichtenstein-1
+Grant Mahoney,2009-11-21,12,Iowa State,@,Missouri,L,3,3,100.0,1,1,100.0,6,grant-mahoney-1
+Devin Mathis,2009-11-21,11,Tennessee,,Vanderbilt,W,4,4,100.0,1,1,100.0,7,devin-mathis-1
+Brandon McManus,2009-11-21,11,Temple,,Kent State,W,5,6,83.3,2,3,66.7,11,brandon-mcmanus-1
+Daniel Murray,2009-11-21,12,Iowa,,Minnesota,W,0,1,0.0,2,2,100.0,6,daniel-murray-1
+Patrick O'Hara,2009-11-21,11,Oklahoma,@,Texas Tech,L,1,1,100.0,2,2,100.0,7,patrick-ohara-1
+Jason Olesnavage,2009-11-21,12,Michigan,,Ohio State,L,1,1,100.0,1,2,50.0,4,jason-olesnavage-1
+Mitch Payne,2009-11-21,11,Brigham Young,,Air Force,W,5,5,100.0,1,2,50.0,8,mitch-payne-1
+Joe Phillips,2009-11-21,11,Utah,,San Diego State,W,5,5,100.0,1,1,100.0,8,joe-phillips-1
+Chris Philpott,2009-11-21,11,Louisville,@,South Florida,L,1,2,50.0,1,1,100.0,4,chris-philpott-1
+Craig Ratanamorn,2009-11-21,11,Marshall,,Southern Methodist,W,4,4,100.0,2,3,66.7,10,craig-ratanamorn-1
+Grant Ressel,2009-11-21,11,Missouri,,Iowa State,W,4,4,100.0,2,2,100.0,10,grant-ressel-1
+Dustin Rivest,2009-11-21,11,Florida International,@,Florida,L,0,0,,1,2,50.0,3,dustin-rivest-1
+Patrick Rooney,2009-11-21,11,Washington State,,Oregon State,L,1,1,100.0,1,1,100.0,4,patrick-rooney-1
+David Ruffer,2009-11-21,11,Notre Dame,,Connecticut,L,3,3,100.0,3,3,100.0,12,david-ruffer-1
+Mike Salerno,2009-11-21,11,Northern Illinois,@,Ohio,L,4,4,100.0,1,1,100.0,7,mike-salerno-1
+Eric Schwartz,2009-11-21,10,South Florida,,Louisville,W,4,4,100.0,2,3,66.7,10,eric-schwartz-1
+Jeremy Shelley,2009-11-21,11,Alabama,,Chattanooga,W,1,1,100.0,0,1,0.0,1,jeremy-shelley-1
+Joshua Shene,2009-11-21,11,Mississippi,,Louisiana State,W,1,1,100.0,4,5,80.0,13,joshua-shene-1
+Will Snyderwine,2009-11-21,11,Duke,@,Miami (FL),L,1,1,100.0,3,4,75.0,10,will-snyderwine-1
+Erik Soderberg,2009-11-21,12,Air Force,@,Brigham Young,L,1,1,100.0,0,1,0.0,1,erik-soderberg-1
+Dary Stone,2009-11-21,11,Baylor,@,Texas A&M,L,0,0,,1,1,100.0,3,dary-stone-1
+Caleb Sturgis,2009-11-21,11,Florida,,Florida International,W,8,8,100.0,0,1,0.0,8,caleb-sturgis-1
+Matt Szymanski,2009-11-21,11,Southern Methodist,@,Marshall,L,4,4,100.0,1,1,100.0,7,matt-szymanski-1
+Michael Taylor,2009-11-21,11,Troy,,Florida Atlantic,W,4,4,100.0,2,2,100.0,10,michael-taylor-1
+San San Te,2009-11-21,10,Rutgers,@,Syracuse,L,0,0,,1,2,50.0,3,san-san-te-1
+Dave Teggart,2009-11-21,10,Connecticut,@,Notre Dame,W,3,3,100.0,2,3,66.7,9,dave-teggart-1
+Alex Tejada,2009-11-21,11,Arkansas,,Mississippi State,W,6,6,100.0,0,1,0.0,6,alex-tejada-1
+Leigh Tiffin,2009-11-21,11,Alabama,,Chattanooga,W,5,5,100.0,1,1,100.0,8,leigh-tiffin-1
+Collin Wagner,2009-11-21,12,Penn State,@,Michigan State,W,6,6,100.0,0,2,0.0,6,collin-wagner-1
+Matt Waldron,2009-11-21,11,Virginia Tech,,North Carolina State,W,5,5,100.0,1,1,100.0,8,matt-waldron-1
+Blair Walsh,2009-11-21,11,Georgia,,Kentucky,L,3,3,100.0,2,2,100.0,9,blair-walsh-1
+Ian Watts,2009-11-21,11,Wyoming,,Texas Christian,L,1,1,100.0,1,1,100.0,4,ian-watts-1
+Thomas Weber,2009-11-21,11,Arizona State,@,UCLA,L,1,1,100.0,0,1,0.0,1,thomas-weber-1
+Philip Welch,2009-11-21,11,Wisconsin,@,Northwestern,L,4,4,100.0,1,1,100.0,7,philip-welch-1
+Matt Weller,2009-11-21,11,Ohio,,Northern Illinois,W,5,5,100.0,1,1,100.0,8,matt-weller-1
+Nate Whitaker,2009-11-21,11,Stanford,,California,L,4,4,100.0,0,1,0.0,4,nate-whitaker-1
+Carson Wiggs,2009-11-21,12,Purdue,@,Indiana,W,5,5,100.0,1,2,50.0,8,carson-wiggs-1
+Matt Williams,2009-11-21,11,Texas Tech,,Oklahoma,W,5,5,100.0,2,2,100.0,11,matt-williams-1
+Josh Zahn,2009-11-21,11,Alabama-Birmingham,@,East Carolina,L,1,1,100.0,2,4,50.0,7,josh-zahn-1
+Alex Zendejas,2009-11-21,10,Arizona,,Oregon,L,5,5,100.0,2,3,66.7,11,alex-zendejas-1
+Ian McGarvey,2009-11-24,12,Ball State,@,Western Michigan,W,1,1,100.0,3,3,100.0,10,ian-mcgarvey-1
+John Potter,2009-11-24,12,Western Michigan,,Ball State,L,2,2,100.0,1,1,100.0,5,john-potter-1
+Randy Bullock,2009-11-26,12,Texas A&M,,Texas,L,4,4,100.0,1,2,50.0,7,randy-bullock-1
+Andrew Aguila,2009-11-27,12,Central Michigan,,Northern Illinois,W,6,6,100.0,1,1,100.0,9,andrew-aguila-1
+Tyler Bitancurt,2009-11-27,11,West Virginia,,Pittsburgh,W,1,1,100.0,4,4,100.0,13,tyler-bitancurt-1
+Kyle Brotzman,2009-11-27,12,Boise State,,Nevada,W,5,5,100.0,1,1,100.0,8,kyle-brotzman-1
+Joe Carithers,2009-11-27,12,Eastern Michigan,@,Akron,L,3,3,100.0,0,1,0.0,3,joe-carithers-1
+Freddy Cortez,2009-11-27,12,Kent State,,Buffalo,L,0,0,,2,2,100.0,6,freddy-cortez-1
+Ben Deline,2009-11-27,12,Colorado State,,Wyoming,L,1,2,50.0,1,1,100.0,4,ben-deline-1
+Derek Dimke,2009-11-27,11,Illinois,@,Cincinnati,L,3,3,100.0,3,3,100.0,12,derek-dimke-1
+Ricky Drake,2009-11-27,12,Nevada,@,Boise State,L,3,4,75.0,2,2,100.0,9,ricky-drake-1
+Kevin Fitzpatrick,2009-11-27,12,Tulsa,,Memphis,W,3,3,100.0,4,4,100.0,15,kevin-fitzpatrick-1
+Aric Goodman,2009-11-27,12,Colorado,,Nebraska,L,2,2,100.0,0,2,0.0,2,aric-goodman-1
+Alex Henery,2009-11-27,12,Nebraska,@,Colorado,W,4,4,100.0,0,1,0.0,4,alex-henery-1
+Dan Hutchins,2009-11-27,11,Pittsburgh,@,West Virginia,L,1,1,100.0,3,5,60.0,10,dan-hutchins-1
+Brandon McManus,2009-11-27,12,Temple,@,Ohio,L,2,2,100.0,1,1,100.0,5,brandon-mcmanus-1
+Matthew Norsic,2009-11-27,12,Bowling Green State,,Toledo,W,5,5,100.0,1,1,100.0,8,matthew-norsic-1
+A.J. Principe,2009-11-27,12,Buffalo,@,Kent State,W,0,0,,3,3,100.0,9,aj-principe-1
+Matt Reagan,2009-11-27,12,Memphis,@,Tulsa,L,3,4,75.0,1,1,100.0,6,matt-reagan-1
+Mike Salerno,2009-11-27,12,Northern Illinois,@,Central Michigan,L,4,4,100.0,1,1,100.0,7,mike-salerno-1
+Alex Steigerwald,2009-11-27,12,Toledo,@,Bowling Green State,L,3,3,100.0,1,1,100.0,6,alex-steigerwald-1
+Leigh Tiffin,2009-11-27,12,Alabama,@,Auburn,W,2,2,100.0,2,3,66.7,8,leigh-tiffin-1
+Ian Watts,2009-11-27,12,Wyoming,@,Colorado State,W,2,2,100.0,1,1,100.0,5,ian-watts-1
+Matt Weller,2009-11-27,12,Ohio,,Temple,W,2,5,40.0,1,2,50.0,5,matt-weller-1
+James Aho,2009-11-28,12,New Mexico,@,Texas Christian,L,1,1,100.0,1,1,100.0,4,james-aho-1
+Steve Aponavicius,2009-11-28,12,Boston College,@,Maryland,W,1,1,100.0,4,5,80.0,13,steve-aponavicius-1
+Josh Arauco,2009-11-28,11,Arkansas State,,North Texas,W,3,4,75.0,1,1,100.0,6,josh-arauco-1
+Logan Barrett,2009-11-28,12,Texas-El Paso,,Marshall,W,5,6,83.3,1,1,100.0,8,logan-barrett-1
+Casey Barth,2009-11-28,12,North Carolina,@,North Carolina State,L,3,3,100.0,2,3,66.7,9,casey-barth-1
+Scott Blair,2009-11-28,12,Georgia Tech,,Georgia,L,3,3,100.0,1,2,50.0,6,scott-blair-1
+Matt Bosher,2009-11-28,12,Miami (FL),@,South Florida,W,4,4,100.0,1,1,100.0,7,matt-bosher-1
+Jacob Branstetter,2009-11-28,12,Kansas,,Missouri,L,4,4,100.0,1,1,100.0,7,jacob-branstetter-1
+Joe Buckley,2009-11-28,12,Navy,@,Hawaii,L,2,2,100.0,1,1,100.0,5,joe-buckley-1
+Nick Cattoi,2009-11-28,12,Central Florida,@,Alabama-Birmingham,W,4,4,100.0,2,3,66.7,10,nick-cattoi-1
+Tyler Cope,2009-11-28,11,San Jose State,,New Mexico State,W,1,1,100.0,2,3,66.7,7,tyler-cope-1
+Chad Cunningham,2009-11-28,12,Tennessee,@,Kentucky,W,0,0,,0,1,0.0,0,chad-cunningham-1
+Derek Depasquale,2009-11-28,12,Mississippi State,,Mississippi,W,5,5,100.0,2,2,100.0,11,derek-depasquale-1
+Scott Enos,2009-11-28,12,Hawaii,,Navy,W,3,3,100.0,1,1,100.0,6,scott-enos-1
+Ross Evans,2009-11-28,12,Texas Christian,,New Mexico,W,7,7,100.0,0,1,0.0,7,ross-evans-1
+Clark Fangmeier,2009-11-28,12,Rice,@,Houston,L,2,2,100.0,0,1,0.0,2,clark-fangmeier-1
+Nick Ferrara,2009-11-28,12,Maryland,,Boston College,L,2,2,100.0,1,1,100.0,5,nick-ferrara-1
+Erik Folk,2009-11-28,11,Washington,,Washington State,W,3,3,100.0,3,3,100.0,12,erik-folk-1
+Alan Gendreau,2009-11-28,12,Middle Tennessee State,@,Louisiana-Monroe,W,5,5,100.0,1,2,50.0,8,alan-gendreau-1
+Ross Gornall,2009-11-28,11,Florida Atlantic,,Western Kentucky,W,2,3,66.7,1,1,100.0,5,ross-gornall-1
+Jacob Harfman,2009-11-28,11,Southern California,,UCLA,W,0,0,,0,1,0.0,0,jacob-harfman-1
+Ben Hartman,2009-11-28,12,East Carolina,,Southern Mississippi,W,2,2,100.0,3,3,100.0,11,ben-hartman-1
+Matt Hogan,2009-11-28,12,Houston,,Rice,W,9,9,100.0,1,1,100.0,12,matt-hogan-1
+Dustin Hopkins,2009-11-28,12,Florida State,@,Florida,L,1,1,100.0,1,2,50.0,4,dustin-hopkins-1
+Daniel Hrapmann,2009-11-28,12,Southern Mississippi,@,East Carolina,L,2,3,66.7,0,1,0.0,2,daniel-hrapmann-1
+Kyle Hughes,2009-11-28,12,New Mexico State,@,San Jose State,L,1,1,100.0,1,1,100.0,4,kyle-hughes-1
+Radi Jabour,2009-11-28,12,Louisiana-Monroe,,Middle Tennessee State,L,1,1,100.0,2,3,66.7,7,radi-jabour-1
+Richard Jackson,2009-11-28,12,Clemson,@,South Carolina,L,2,2,100.0,1,1,100.0,5,richard-jackson-2
+Josh Jasper,2009-11-28,12,Louisiana State,,Arkansas,W,3,3,100.0,4,4,100.0,15,josh-jasper-1
+Jeremy Knott,2009-11-28,12,North Texas,@,Arkansas State,L,2,3,66.7,0,1,0.0,2,jeremy-knott-1
+Spencer Lanning,2009-11-28,12,South Carolina,,Clemson,W,4,4,100.0,2,3,66.7,10,spencer-lanning-1
+Ryan Lichtenstein,2009-11-28,12,Syracuse,@,Connecticut,L,4,4,100.0,1,2,50.0,7,ryan-lichtenstein-1
+Devin Mathis,2009-11-28,12,Tennessee,@,Kentucky,W,3,3,100.0,1,1,100.0,6,devin-mathis-1
+Jimmy Newman,2009-11-28,12,Wake Forest,@,Duke,W,6,6,100.0,1,2,50.0,9,jimmy-newman-1
+Patrick O'Hara,2009-11-28,12,Oklahoma,,Oklahoma State,W,3,3,100.0,2,4,50.0,9,patrick-ohara-1
+Mitch Payne,2009-11-28,12,Brigham Young,,Utah,W,2,2,100.0,2,2,100.0,8,mitch-payne-1
+Joe Phillips,2009-11-28,12,Utah,@,Brigham Young,L,0,0,,5,5,100.0,15,joe-phillips-1
+Robert Randolph,2009-11-28,12,Virginia,,Virginia Tech,L,0,0,,2,2,100.0,6,robert-randolph-1
+Grant Ressel,2009-11-28,12,Missouri,@,Kansas,W,3,3,100.0,4,4,100.0,15,grant-ressel-1
+David Ruffer,2009-11-28,12,Notre Dame,@,Stanford,L,5,5,100.0,1,1,100.0,8,david-ruffer-1
+Eric Schwartz,2009-11-28,11,South Florida,,Miami (FL),L,1,1,100.0,1,1,100.0,4,eric-schwartz-1
+Lones Seiber,2009-11-28,12,Kentucky,,Tennessee,L,3,3,100.0,1,2,50.0,6,lones-seiber-1
+Joshua Shene,2009-11-28,12,Mississippi,@,Mississippi State,L,3,3,100.0,2,2,100.0,9,joshua-shene-1
+Will Snyderwine,2009-11-28,12,Duke,,Wake Forest,L,4,4,100.0,2,2,100.0,10,will-snyderwine-1
+Dary Stone,2009-11-28,12,Baylor,N,Texas Tech,L,1,1,100.0,2,3,66.7,7,dary-stone-1
+Caleb Sturgis,2009-11-28,12,Florida,,Florida State,W,4,5,80.0,1,1,100.0,7,caleb-sturgis-1
+Matt Szymanski,2009-11-28,12,Southern Methodist,,Tulane,W,2,2,100.0,2,4,50.0,8,matt-szymanski-1
+Michael Taylor,2009-11-28,12,Troy,@,Louisiana,W,6,6,100.0,2,2,100.0,12,michael-taylor-1
+Alex Tejada,2009-11-28,12,Arkansas,@,Louisiana State,L,3,3,100.0,3,4,75.0,12,alex-tejada-1
+Casey Tinius,2009-11-28,11,Western Kentucky,@,Florida Atlantic,L,2,2,100.0,3,3,100.0,11,casey-tinius-1
+Chris Ulinski,2009-11-28,12,Utah State,@,Idaho,W,7,7,100.0,1,3,33.3,10,chris-ulinski-1
+Matt Waldron,2009-11-28,12,Virginia Tech,@,Virginia,W,6,6,100.0,0,1,0.0,6,matt-waldron-1
+Blair Walsh,2009-11-28,12,Georgia,@,Georgia Tech,W,3,3,100.0,3,4,75.0,12,blair-walsh-1
+Kyle Watson,2009-11-28,12,Nevada-Las Vegas,,San Diego State,W,4,4,100.0,0,2,0.0,4,kyle-watson-1
+Thomas Weber,2009-11-28,12,Arizona State,,Arizona,L,2,2,100.0,1,2,50.0,5,thomas-weber-1
+Nate Whitaker,2009-11-28,12,Stanford,,Notre Dame,W,4,4,100.0,3,3,100.0,13,nate-whitaker-1
+Matt Williams,2009-11-28,12,Texas Tech,N,Baylor,W,2,2,100.0,2,2,100.0,8,matt-williams-1
+Lane Yoshida,2009-11-28,12,San Diego State,@,Nevada-Las Vegas,L,3,3,100.0,1,2,50.0,6,lane-yoshida-1
+Josh Zahn,2009-11-28,12,Alabama-Birmingham,,Central Florida,L,3,4,75.0,0,1,0.0,3,josh-zahn-1
+Alex Zendejas,2009-11-28,11,Arizona,@,Arizona State,W,2,2,100.0,2,3,66.7,8,alex-zendejas-1
+Josh Arauco,2009-12-03,12,Arkansas State,@,Western Kentucky,W,3,3,100.0,1,1,100.0,6,josh-arauco-1
+Morgan Flint,2009-12-03,12,Oregon,,Oregon State,W,4,4,100.0,1,1,100.0,7,morgan-flint-1
+Justin Kahut,2009-12-03,12,Oregon State,@,Oregon,L,3,3,100.0,4,4,100.0,15,justin-kahut-1
+Casey Tinius,2009-12-03,12,Western Kentucky,,Arkansas State,L,2,2,100.0,2,2,100.0,8,casey-tinius-1
+Ryan Wilbourn,2009-12-03,12,Arkansas State,@,Western Kentucky,W,0,0,,0,1,0.0,0,ryan-wilbourn-1
+Andrew Aguila,2009-12-04,13,Central Michigan,N,Ohio,W,2,2,100.0,2,3,66.7,8,andrew-aguila-1
+Matt Weller,2009-12-04,13,Ohio,N,Central Michigan,L,1,1,100.0,1,2,50.0,4,matt-weller-1
+Tyler Bitancurt,2009-12-05,12,West Virginia,@,Rutgers,W,3,3,100.0,1,1,100.0,6,tyler-bitancurt-1
+Scott Blair,2009-12-05,13,Georgia Tech,N,Clemson,W,3,3,100.0,4,4,100.0,15,scott-blair-1
+Jordan Congdon,2009-12-05,12,Southern California,,Arizona,L,2,2,100.0,1,1,100.0,5,jordan-congdon-1
+Vince D'Amato,2009-12-05,12,California,@,Washington,L,1,1,100.0,1,2,50.0,4,vince-damato-1
+Derek Dimke,2009-12-05,12,Illinois,,Fresno State,L,7,7,100.0,1,1,100.0,10,derek-dimke-1
+Scott Enos,2009-12-05,13,Hawaii,,Wisconsin,L,1,1,100.0,1,1,100.0,4,scott-enos-1
+Kevin Goessling,2009-12-05,12,Fresno State,@,Illinois,W,6,6,100.0,1,1,100.0,9,kevin-goessling-1
+Ross Gornall,2009-12-05,12,Florida Atlantic,@,Florida International,W,4,4,100.0,0,1,0.0,4,ross-gornall-1
+Ben Hartman,2009-12-05,13,East Carolina,,Houston,W,5,5,100.0,1,2,50.0,8,ben-hartman-1
+Alex Henery,2009-12-05,13,Nebraska,N,Texas,L,0,0,,4,4,100.0,12,alex-henery-1
+Kyle Hughes,2009-12-05,13,New Mexico State,@,Boise State,L,1,1,100.0,0,1,0.0,1,kyle-hughes-1
+Dan Hutchins,2009-12-05,12,Pittsburgh,,Cincinnati,L,5,5,100.0,1,1,100.0,8,dan-hutchins-1
+Richard Jackson,2009-12-05,13,Clemson,N,Georgia Tech,L,4,4,100.0,0,1,0.0,4,richard-jackson-2
+Hunter Lawrence,2009-12-05,13,Texas,N,Nebraska,W,1,1,100.0,2,2,100.0,7,hunter-lawrence-1
+Matt Nelson,2009-12-05,12,Louisiana Tech,,San Jose State,W,7,7,100.0,2,3,66.7,13,matt-nelson-1
+Jacob Rogers,2009-12-05,12,Cincinnati,@,Pittsburgh,W,4,5,80.0,1,2,50.0,7,jacob-rogers-1
+Eric Schwartz,2009-12-05,12,South Florida,@,Connecticut,L,3,3,100.0,0,1,0.0,3,eric-schwartz-1
+Caleb Sturgis,2009-12-05,13,Florida,N,Alabama,L,1,1,100.0,2,2,100.0,7,caleb-sturgis-1
+San San Te,2009-12-05,12,Rutgers,,West Virginia,L,1,1,100.0,2,3,66.7,7,san-san-te-1
+Dave Teggart,2009-12-05,12,Connecticut,,South Florida,W,2,2,100.0,1,2,50.0,5,dave-teggart-1
+Leigh Tiffin,2009-12-05,13,Alabama,N,Florida,W,2,3,66.7,2,2,100.0,8,leigh-tiffin-1
+Philip Welch,2009-12-05,12,Wisconsin,@,Hawaii,W,3,4,75.0,1,2,50.0,6,philip-welch-1
+Joe Buckley,2009-12-12,13,Navy,N,Army,W,2,2,100.0,1,1,100.0,5,joe-buckley-1
+Alex Carlton,2009-12-12,12,Army,N,Navy,L,0,0,,1,3,33.3,3,alex-carlton-1
+Nick Cattoi,2009-12-19,13,Central Florida,N,Rutgers,L,3,3,100.0,1,1,100.0,6,nick-cattoi-1
+San San Te,2009-12-19,13,Rutgers,N,Central Florida,W,6,6,100.0,1,2,50.0,9,san-san-te-1
+Ian Watts,2009-12-19,13,Wyoming,N,Fresno State,W,3,3,100.0,2,4,50.0,9,ian-watts-1
+Alan Gendreau,2009-12-20,13,Middle Tennessee State,N,Southern Mississippi,W,6,6,100.0,0,1,0.0,6,alan-gendreau-1
+Daniel Hrapmann,2009-12-20,13,Southern Mississippi,N,Middle Tennessee State,L,0,0,,2,2,100.0,6,daniel-hrapmann-1
+Mitch Payne,2009-12-22,13,Brigham Young,N,Oregon State,W,5,6,83.3,1,1,100.0,8,mitch-payne-1
+Joe Phillips,2009-12-23,13,Utah,N,California,W,4,4,100.0,3,3,100.0,13,joe-phillips-1
+Ricky Drake,2009-12-24,13,Nevada,N,Southern Methodist,L,1,1,100.0,1,1,100.0,4,ricky-drake-1
+Matt Szymanski,2009-12-24,13,Southern Methodist,N,Nevada,W,6,6,100.0,1,1,100.0,9,matt-szymanski-1
+Casey Barth,2009-12-26,13,North Carolina,N,Pittsburgh,L,2,2,100.0,1,1,100.0,5,casey-barth-1
+Jordan Congdon,2009-12-26,13,Southern California,N,Boston College,W,3,3,100.0,1,2,50.0,6,jordan-congdon-1
+Dan Hutchins,2009-12-26,13,Pittsburgh,N,North Carolina,W,1,1,100.0,4,5,80.0,13,dan-hutchins-1
+Craig Ratanamorn,2009-12-26,13,Marshall,N,Ohio,W,3,3,100.0,0,1,0.0,3,craig-ratanamorn-1
+Matt Weller,2009-12-26,14,Ohio,N,Marshall,L,2,2,100.0,1,2,50.0,5,matt-weller-1
+Richard Jackson,2009-12-27,14,Clemson,N,Kentucky,W,3,3,100.0,0,1,0.0,3,richard-jackson-2
+Lones Seiber,2009-12-27,13,Kentucky,N,Clemson,L,1,1,100.0,2,2,100.0,7,lones-seiber-1
+Randy Bullock,2009-12-28,13,Texas A&M,N,Georgia,L,2,2,100.0,0,1,0.0,2,randy-bullock-1
+Blair Walsh,2009-12-28,13,Georgia,N,Texas A&M,W,5,5,100.0,1,1,100.0,8,blair-walsh-1
+Kai Forbath,2009-12-29,13,UCLA,N,Temple,W,2,2,100.0,2,2,100.0,8,kai-forbath-1
+Philip Welch,2009-12-29,13,Wisconsin,N,Miami (FL),W,2,2,100.0,2,2,100.0,8,philip-welch-1
+Alex Henery,2009-12-30,14,Nebraska,N,Arizona,W,3,3,100.0,4,4,100.0,15,alex-henery-1
+Matthew Norsic,2009-12-30,13,Bowling Green State,N,Idaho,L,6,6,100.0,0,1,0.0,6,matthew-norsic-1
+Eric Ellestad,2009-12-31,13,Minnesota,N,Iowa State,L,1,1,100.0,2,3,66.7,7,eric-ellestad-1
+Matt Hogan,2009-12-31,14,Houston,N,Air Force,L,2,2,100.0,2,2,100.0,8,matt-hogan-1
+Patrick O'Hara,2009-12-31,13,Oklahoma,N,Stanford,W,4,4,100.0,1,2,50.0,7,patrick-ohara-1
+Grant Ressel,2009-12-31,13,Missouri,N,Navy,L,1,1,100.0,2,2,100.0,7,grant-ressel-1
+Erik Soderberg,2009-12-31,13,Air Force,N,Houston,W,5,6,83.3,2,3,66.7,11,erik-soderberg-1
+Matt Waldron,2009-12-31,13,Virginia Tech,N,Tennessee,W,4,4,100.0,3,3,100.0,13,matt-waldron-1
+Nate Whitaker,2009-12-31,13,Stanford,N,Oklahoma,L,3,3,100.0,2,2,100.0,9,nate-whitaker-1
+Devin Barclay,2010-01-01,13,Ohio State,N,Oregon,W,0,0,,3,3,100.0,9,devin-barclay-1
+Tyler Bitancurt,2010-01-01,13,West Virginia,N,Florida State,L,3,3,100.0,0,1,0.0,3,tyler-bitancurt-1
+Wes Byrum,2010-01-01,13,Auburn,N,Northwestern,W,5,5,100.0,1,1,100.0,8,wes-byrum-1
+Stefan Demos,2010-01-01,13,Northwestern,N,Auburn,L,3,4,75.0,0,2,0.0,3,stefan-demos-1
+Morgan Flint,2010-01-01,13,Oregon,N,Ohio State,L,2,2,100.0,1,2,50.0,5,morgan-flint-1
+Dustin Hopkins,2010-01-01,13,Florida State,N,West Virginia,W,3,3,100.0,4,5,80.0,15,dustin-hopkins-1
+Josh Jasper,2010-01-01,13,Louisiana State,N,Penn State,L,2,2,100.0,1,1,100.0,5,josh-jasper-1
+Aaron Pettrey,2010-01-01,13,Ohio State,N,Oregon,W,2,2,100.0,1,1,100.0,5,aaron-pettrey-1
+Jacob Rogers,2010-01-01,13,Cincinnati,N,Florida,L,3,3,100.0,1,1,100.0,6,jacob-rogers-1
+Caleb Sturgis,2010-01-01,14,Florida,N,Cincinnati,W,6,7,85.7,1,2,50.0,9,caleb-sturgis-1
+Collin Wagner,2010-01-01,13,Penn State,N,Louisiana State,W,1,1,100.0,4,4,100.0,13,collin-wagner-1
+Ben Hartman,2010-01-02,14,East Carolina,N,Arkansas,L,2,2,100.0,1,5,20.0,5,ben-hartman-1
+Mike Salerno,2010-01-02,13,Northern Illinois,N,South Florida,L,0,0,,1,2,50.0,3,mike-salerno-1
+Eric Schwartz,2010-01-02,13,South Florida,N,Northern Illinois,W,3,3,100.0,2,2,100.0,9,eric-schwartz-1
+Joshua Shene,2010-01-02,13,Mississippi,N,Oklahoma State,W,3,3,100.0,0,2,0.0,3,joshua-shene-1
+Brett Swenson,2010-01-02,13,Michigan State,N,Texas Tech,L,4,4,100.0,1,2,50.0,7,brett-swenson-1
+Dave Teggart,2010-01-02,13,Connecticut,N,South Carolina,W,2,2,100.0,2,2,100.0,8,dave-teggart-1
+Alex Tejada,2010-01-02,13,Arkansas,N,East Carolina,W,2,2,100.0,2,3,66.7,8,alex-tejada-1
+Matt Williams,2010-01-02,13,Texas Tech,N,Michigan State,W,5,5,100.0,2,3,66.7,11,matt-williams-1
+Kyle Brotzman,2010-01-04,14,Boise State,N,Texas Christian,W,2,2,100.0,1,2,50.0,5,kyle-brotzman-1
+Ross Evans,2010-01-04,13,Texas Christian,N,Boise State,L,1,1,100.0,1,1,100.0,4,ross-evans-1
+Scott Blair,2010-01-05,14,Georgia Tech,N,Iowa,L,2,2,100.0,0,1,0.0,2,scott-blair-1
+Daniel Murray,2010-01-05,13,Iowa,N,Georgia Tech,W,3,3,100.0,1,1,100.0,6,daniel-murray-1
+Andrew Aguila,2010-01-06,14,Central Michigan,N,Troy,W,3,3,100.0,5,6,83.3,18,andrew-aguila-1
+Michael Taylor,2010-01-06,13,Troy,N,Central Michigan,L,5,5,100.0,2,4,50.0,11,michael-taylor-1
+Hunter Lawrence,2010-01-07,14,Texas,N,Alabama,L,1,1,100.0,2,2,100.0,7,hunter-lawrence-1
+Leigh Tiffin,2010-01-07,14,Alabama,N,Texas,W,4,5,80.0,1,2,50.0,7,leigh-tiffin-1

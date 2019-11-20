@@ -17,7 +17,7 @@ Created on Wed Oct 30 12:24:04 2019
 #==============================================================================
 # Package Import
 #==============================================================================
-import numpy as np
+import glob
 import os  
 import pandas as pd
 import pathlib
@@ -30,28 +30,49 @@ import tqdm
 #==============================================================================
 # Function Definitions
 #==============================================================================
-def function_name(var1, var2):
+def ingest_data(league):
     '''
-    Purpose: Stuff goes here
+    Read in all team-based data for the desired league
 
     Inputs   
     ------
-        var1 : type
-            description
-        var2 : type
-            description
+        league : string
+            'nfl' or 'ncaa'
             
     Outputs
     -------
-        var1 : type
-            description
-        var2 : type
-            description
+        df_all : Pandas DataFrame
+            contains data for all available years
     '''
+    # find files
+    files = glob.glob(f'data_scraped/{league}_team/*.csv')
+    
+    # read in all data
+    df_all = pd.DataFrame()
+    for file in files:
+        if len(df_all) == 0:
+            df_all = pd.read_csv(file)
+        else:
+            df_all = df_all.append(pd.read_csv(file), sort = False)
+
+    # if ncaa data, add conference and power five columns
+    if league == 'ncaa':
+        # read in team data
+        df_team_meta = pd.read_csv('data_team/teams_ncaa.csv', 
+                                   usecols = ['Team', 'Power5', 'Conference'])
+        df_team_meta = df_team_meta.rename(columns = {'Team':'School'})
+        
+        # add conference and power five columns
+        df_all = pd.merge(df_all, 
+                            df_team_meta, 
+                            how = 'left', 
+                            on = 'School')
+            
+    return df_all
+
 #==============================================================================
 # Working Code
 #==============================================================================
-
 '''
  Consider plotting stats using a parallel coordinates chart:
      https://bl.ocks.org/jasondavies/1341281
@@ -61,24 +82,8 @@ def function_name(var1, var2):
 path_dir = pathlib.Path('/home/ejreidelbach/Projects/CollegeFootball')
 os.chdir(path_dir)
 
-# read in team metadata
-df_info = pd.read_csv('Data/teams_ncaa.csv', usecols = ['Team', 'Power5', 'Conference'])
-df_info = df_info.rename(columns = {'Team':'School'})
-
-# read in team data for all desired years
-df = pd.DataFrame()
-for year in range(2008, 2020):
-    df_year = pd.read_csv(f'Data/sports_ref/ncaa_team/ncaa_team_data_{year}.csv')
-    if len(df) == 0:
-        df = df_year.copy()
-    else:
-        df = df.append(df_year)
-  
-#df_2019 = pd.read_csv(f'Data/sports_ref/ncaa_team/ncaa_team_data_2019.csv')
-#df['yds_per_pt'] = df.apply(
-#        lambda row: row['Total Yards'] / row['Total Points'] if (
-#                row['Total Points']) != 0 else np.nan, axis = 1)
-
+# read in college data
+df = ingest_data('ncaa')
         
 # group all games into aggregated team stats
 df_team = df.groupby(['School'])['Pass Yard', 'Rush Yard', 'Total Plays', 

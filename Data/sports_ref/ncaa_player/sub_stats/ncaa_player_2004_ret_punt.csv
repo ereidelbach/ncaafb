@@ -1,0 +1,1551 @@
+Player,Date,G,School,Loc,Opponent,WL,Punt Ret,Punt Ret Yds,Punt Ret Avg,Punt Ret TD,unique_id
+Reggie Bush,2004-08-28,1,Southern California,N,Virginia Tech,W,4,60,15.0,0,reggie-bush-1
+Richard Johnson,2004-08-28,1,Virginia Tech,N,Southern California,L,1,10,10.0,0,richard-johnson-1
+Ryne Robinson,2004-08-28,1,Miami (OH),,Indiana State,W,7,116,16.6,1,ryne-robinson-1
+Will Blackmon,2004-09-02,1,Boston College,@,Ball State,W,4,37,9.3,0,will-blackmon-1
+Rudy Burgess,2004-09-02,1,Arizona State,,Texas-El Paso,W,4,33,8.3,0,rudy-burgess-1
+Sir James Delgardo,2004-09-02,1,Texas-El Paso,@,Arizona State,L,1,24,24.0,0,sir-james-delgardo-1
+Jahmal Fenner,2004-09-02,1,Texas-El Paso,@,Arizona State,L,3,98,32.7,0,jahmal-fenner-1
+Chris Francies,2004-09-02,1,Texas-El Paso,@,Arizona State,L,1,2,2.0,0,chris-francies-1
+Greg Jennings,2004-09-02,1,Western Michigan,,Tennessee-Martin,W,3,71,23.7,1,greg-jennings-1
+Matt Knueven,2004-09-02,1,Buffalo,@,Eastern Michigan,L,1,12,12.0,0,matt-knueven-1
+Mark Philmore,2004-09-02,1,Northwestern,@,Texas Christian,L,2,19,9.5,0,mark-philmore-1
+Terry Richardson,2004-09-02,1,Arizona State,,Texas-El Paso,W,2,19,9.5,0,terry-richardson-1
+Dante Ridgeway,2004-09-02,1,Ball State,,Boston College,L,1,8,8.0,0,dante-ridgeway-1
+Trumaine Riley,2004-09-02,1,Eastern Michigan,,Buffalo,W,2,11,5.5,0,trumaine-riley-1
+Cory Rodgers,2004-09-02,1,Texas Christian,,Northwestern,W,1,-1,-1.0,0,cory-rodgers-1
+Paris Warren,2004-09-02,1,Utah,,Texas A&M,W,1,3,3.0,0,paris-warren-2
+Omowale Dada,2004-09-03,1,Washington State,@,New Mexico,W,1,10,10.0,0,omowale-dada-1
+Gabriel Fulbright,2004-09-03,1,New Mexico,,Washington State,L,1,4,4.0,0,gabriel-fulbright-1
+Marty Martin,2004-09-03,1,Washington State,@,New Mexico,W,2,9,4.5,0,marty-martin-1
+Dontrell Moore,2004-09-03,1,New Mexico,,Washington State,L,3,14,4.7,0,dontrell-moore-1
+David Anderson,2004-09-04,1,Colorado State,@,Colorado,L,3,17,5.7,0,david-anderson-1
+Willie Andrews,2004-09-04,1,Baylor,@,Alabama-Birmingham,L,2,14,7.0,0,willie-andrews-1
+Marion Barber III,2004-09-04,1,Minnesota,,Toledo,W,3,17,5.7,0,marion-barber-iii-1
+Josh Barge,2004-09-04,1,Wyoming,,Appalachian State,W,3,70,23.3,0,josh-barge-1
+Walner Belleus,2004-09-04,1,Iowa,,Kent State,W,1,19,19.0,0,walner-belleus-1
+Lance Bennett,2004-09-04,1,Indiana,,Central Michigan,W,3,32,10.7,0,lance-bennett-1
+Yvenson Bernard,2004-09-04,1,Oregon State,@,Louisiana State,L,4,26,6.5,0,yvenson-bernard-1
+Decori Birmingham,2004-09-04,1,Arkansas,,New Mexico State,W,1,8,8.0,0,decori-birmingham-1
+Ahmad Bradshaw,2004-09-04,1,Marshall,,Troy,L,1,9,9.0,0,ahmad-bradshaw-1
+Craig Bragg,2004-09-04,1,UCLA,,Oklahoma State,L,3,47,15.7,0,craig-bragg-1
+Steve Breaston,2004-09-04,1,Michigan,,Miami (OH),W,3,40,13.3,0,steve-breaston-1
+Brandon Brooks,2004-09-04,1,Alabama,,Utah State,W,4,21,5.3,0,brandon-brooks-2
+Tyson Browning,2004-09-04,1,Georgia,,Georgia Southern,W,2,89,44.5,1,tyson-browning-1
+Jarrett Bush,2004-09-04,1,Utah State,@,Alabama,L,1,-3,-3.0,0,jarrett-bush-1
+Dion Byrum,2004-09-04,1,Ohio,,Virginia Military Institute,W,4,47,11.8,0,dion-byrum-1
+Greg Camarillo,2004-09-04,1,Stanford,,San Jose State,W,1,0,0.0,0,greg-camarillo-1
+Chris Carr,2004-09-04,1,Boise State,,Idaho,W,5,137,27.4,1,chris-carr-1
+Pat Clark,2004-09-04,1,Georgia Tech,,Samford,W,4,16,4.0,0,pat-clark-1
+Kyle Conerly,2004-09-04,1,San Diego State,,Idaho State,W,1,15,15.0,0,kyle-conerly-1
+Mason Denham,2004-09-04,1,Louisiana-Monroe,@,Auburn,L,1,16,16.0,0,mason-denham-1
+Ryan Eidson,2004-09-04,1,Arizona,,Northern Arizona,W,2,26,13.0,0,ryan-eidson-1
+Prentiss Elliott,2004-09-04,1,Oklahoma State,@,UCLA,W,1,7,7.0,0,prentiss-elliott-1
+Mike Espy,2004-09-04,1,Mississippi,,Memphis,L,1,19,19.0,0,mike-espy-1
+Johnny Faulk,2004-09-04,1,Troy,@,Marshall,W,3,6,2.0,0,johnny-faulk-1
+Willie Foster,2004-09-04,1,Rutgers,,Michigan State,W,1,18,18.0,0,willie-foster-1
+Michael Franklin,2004-09-04,1,San Diego State,,Idaho State,W,3,29,9.7,0,michael-franklin-1
+Nehemiah Glover,2004-09-04,1,Texas Tech,@,Southern Methodist,W,2,20,10.0,0,nehemiah-glover-1
+Charles Gordon,2004-09-04,1,Kansas,,Tulsa,W,3,5,1.7,0,charles-gordon-1
+Troy Graham,2004-09-04,1,North Carolina State,,Richmond,W,1,14,14.0,0,troy-graham-1
+Skyler Green,2004-09-04,1,Louisiana State,,Oregon State,W,1,9,9.0,0,skyler-green-1
+Chad Greenway,2004-09-04,1,Iowa,,Kent State,W,1,9,9.0,0,chad-greenway-1
+Tramain Hall,2004-09-04,1,North Carolina State,,Richmond,W,3,17,5.7,0,tramain-hall-1
+E.B. Halsey,2004-09-04,1,Illinois,,Florida A&M,W,3,18,6.0,0,eb-halsey-1
+Brandon Hampton,2004-09-04,1,California,@,Air Force,W,1,13,13.0,0,brandon-hampton-1
+Stevelan Harper,2004-09-04,1,New Mexico State,@,Arkansas,L,1,6,6.0,0,stevelan-harper-1
+Ed Hinkel,2004-09-04,1,Iowa,,Kent State,W,4,42,10.5,0,ed-hinkel-1
+Willie Idlette,2004-09-04,1,Wake Forest,@,Clemson,L,4,19,4.8,0,willie-idlette-1
+Spencer Jensen,2004-09-04,1,Illinois,,Florida A&M,W,2,24,12.0,0,spencer-jensen-1
+Adam Jones,2004-09-04,1,West Virginia,,East Carolina,W,4,95,23.8,1,adam-jones-1
+Jermaine Landrum,2004-09-04,1,Tulsa,@,Kansas,L,1,7,7.0,0,jermaine-landrum-1
+Michael Larkin,2004-09-04,2,Miami (OH),@,Michigan,L,1,19,19.0,0,michael-larkin-1
+Jim Leonhard,2004-09-04,1,Wisconsin,,Central Florida,W,4,68,17.0,0,jim-leonhard-1
+Antonio Lewis,2004-09-04,1,West Virginia,,East Carolina,W,1,0,0.0,0,antonio-lewis-1
+Reggie Lindsey,2004-09-04,1,Alabama-Birmingham,,Baylor,W,2,14,7.0,0,reggie-lindsey-1
+Jonathan Lowe,2004-09-04,1,Mississippi State,,Tulane,W,1,24,24.0,0,jonathan-lowe-1
+Calvin Lowry,2004-09-04,1,Penn State,,Akron,W,1,6,6.0,0,calvin-lowry-1
+Bryce Mahuika,2004-09-04,1,Brigham Young,,Notre Dame,W,3,26,8.7,0,bryce-mahuika-1
+David Marrero,2004-09-04,1,Stanford,,San Jose State,W,3,29,9.7,0,david-marrero-1
+Hoost Marsh,2004-09-04,1,Wyoming,,Appalachian State,W,2,5,2.5,0,hoost-marsh-1
+Derrick Martin,2004-09-04,1,Wyoming,,Appalachian State,W,1,17,17.0,1,derrick-martin-1
+Grant Mason,2004-09-04,1,Michigan,,Miami (OH),W,1,17,17.0,0,grant-mason-1
+Rhema McKnight,2004-09-04,1,Notre Dame,@,Brigham Young,L,2,11,5.5,0,rhema-mcknight-1
+Justin Miller,2004-09-04,1,Clemson,,Wake Forest,W,2,72,36.0,1,justin-miller-1
+Todd Miller,2004-09-04,1,Iowa State,,Northern Iowa,W,6,61,10.2,0,todd-miller-1
+Casey Miranda,2004-09-04,1,San Jose State,@,Stanford,L,1,1,1.0,0,casey-miranda-1
+Shridonya Mitchell,2004-09-04,1,Missouri,,Arkansas State,W,1,13,13.0,0,shridonya-mitchell-1
+Tim Mixon,2004-09-04,1,California,@,Air Force,W,3,59,19.7,0,tim-mixon-1
+Jermaine Moreira,2004-09-04,1,Kansas State,,Western Kentucky,W,1,-1,-1.0,0,jermaine-moreira-1
+Tres Moses,2004-09-04,1,Rutgers,,Michigan State,W,2,17,8.5,0,tres-moses-1
+Thomson Omboga,2004-09-04,1,Missouri,,Arkansas State,W,1,4,4.0,0,thomson-omboga-1
+Carlos Ousley,2004-09-04,1,Arkansas,,New Mexico State,W,2,4,2.0,0,carlos-ousley-1
+Chad Owens,2004-09-04,1,Hawaii,,Florida Atlantic,L,2,21,10.5,0,chad-owens-1
+Logan Payne,2004-09-04,1,Minnesota,,Toledo,W,1,32,32.0,0,logan-payne-1
+Alvin Pearman,2004-09-04,1,Virginia,@,Temple,W,3,88,29.3,1,alvin-pearman-1
+Antonio Perkins,2004-09-04,1,Oklahoma,,Bowling Green State,W,4,59,14.8,0,antonio-perkins-1
+Kade Pittman,2004-09-04,1,Nebraska,,Western Illinois,W,4,46,11.5,0,kade-pittman-1
+Jarwarski Pollock,2004-09-04,1,North Carolina,,William & Mary,W,5,47,9.4,0,jarwarski-pollock-1
+Brandon Rideau,2004-09-04,1,Kansas,,Tulsa,W,1,19,19.0,0,brandon-rideau-1
+Del Roberts,2004-09-04,1,North Carolina,,William & Mary,W,1,7,7.0,0,del-roberts-1
+Ryne Robinson,2004-09-04,2,Miami (OH),@,Michigan,L,4,139,34.8,0,ryne-robinson-1
+Stephone Robinson,2004-09-04,1,Colorado,,Colorado State,W,4,30,7.5,0,stephone-robinson-1
+Geremy Rodamer,2004-09-04,1,Marshall,,Troy,L,1,0,0.0,0,geremy-rodamer-1
+Aaron Ross,2004-09-04,1,Texas,,North Texas,W,1,15,15.0,0,aaron-ross-1
+Cory Ross,2004-09-04,1,Nebraska,,Western Illinois,W,1,12,12.0,0,cory-ross-1
+Israel Route,2004-09-04,1,Tulane,@,Mississippi State,L,1,0,0.0,0,israel-route-1
+Agim Shabaj,2004-09-04,1,Michigan State,@,Rutgers,L,3,23,7.7,0,agim-shabaj-1
+Charles Sharon,2004-09-04,1,Bowling Green State,@,Oklahoma,L,1,5,5.0,0,charles-sharon-1
+Dan Sheldon,2004-09-04,1,Northern Illinois,@,Maryland,L,1,-4,-4.0,0,dan-sheldon-1
+Austin Smith,2004-09-04,1,Boise State,,Idaho,W,1,16,16.0,0,austin-smith-1
+Fred Smith,2004-09-04,1,Tulane,@,Mississippi State,L,2,19,9.5,0,fred-smith-2
+Steve Suter,2004-09-04,1,Maryland,,Northern Illinois,W,2,22,11.0,0,steve-suter-1
+Chris Sutton,2004-09-04,1,Air Force,,California,L,1,16,16.0,0,chris-sutton-1
+Larry Taylor,2004-09-04,1,Connecticut,,Murray State,W,5,74,14.8,0,larry-taylor-1
+Brittney Tellis,2004-09-04,1,Florida Atlantic,@,Hawaii,W,3,38,12.7,0,brittney-tellis-1
+Jason Tomlinson,2004-09-04,1,Navy,,Duke,W,4,30,7.5,0,jason-tomlinson-1
+Blake Warren,2004-09-04,1,Southern Methodist,,Texas Tech,L,2,25,12.5,0,blake-warren-1
+Darron White,2004-09-04,1,Memphis,@,Mississippi,W,5,62,12.4,0,darron-white-1
+Noah Whiteside,2004-09-04,1,South Carolina,@,Vanderbilt,W,4,63,15.8,0,noah-whiteside-1
+Carnell Williams,2004-09-04,1,Auburn,,Louisiana-Monroe,W,1,2,2.0,0,carnell-williams-1
+Kevin Woods,2004-09-04,1,Arkansas,,New Mexico State,W,1,17,17.0,0,kevin-woods-1
+Selvin Young,2004-09-04,1,Texas,,North Texas,W,2,13,6.5,0,selvin-young-1
+Donnie Avery,2004-09-05,1,Houston,N,Rice,L,2,10,5.0,0,donnie-avery-1
+Lance Byrd,2004-09-05,1,Rice,N,Houston,W,3,11,3.7,0,lance-byrd-1
+Draak Davis,2004-09-05,1,Kentucky,@,Louisville,L,2,-3,-1.5,0,draak-davis-1
+Jonathan Hefney,2004-09-05,1,Tennessee,,Nevada-Las Vegas,W,1,27,27.0,0,jonathan-hefney-1
+Adam Jennings,2004-09-05,1,Fresno State,@,Washington,W,3,3,1.0,0,adam-jennings-1
+Montrell Jones,2004-09-05,1,Louisville,,Kentucky,W,3,27,9.0,0,montrell-jones-1
+Taylor Stubblefield,2004-09-05,1,Purdue,,Syracuse,W,1,1,1.0,0,taylor-stubblefield-1
+Donell Wheaton,2004-09-05,1,Nevada-Las Vegas,@,Tennessee,L,3,-12,-4.0,0,donell-wheaton-1
+Corey Brazil,2004-09-06,1,Louisiana Tech,,Nevada,W,4,29,7.3,0,corey-brazil-1
+Alex Rosenblum,2004-09-06,1,Nevada,@,Louisiana Tech,L,2,12,6.0,0,alex-rosenblum-1
+Bernard Davis,2004-09-09,2,Troy,,Missouri,W,1,13,13.0,0,bernard-davis-1
+Johnny Faulk,2004-09-09,2,Troy,,Missouri,W,4,26,6.5,0,johnny-faulk-1
+Shridonya Mitchell,2004-09-09,2,Missouri,@,Troy,L,2,10,5.0,0,shridonya-mitchell-1
+Yvenson Bernard,2004-09-10,2,Oregon State,@,Boise State,L,3,13,4.3,0,yvenson-bernard-1
+Chris Carr,2004-09-10,2,Boise State,,Oregon State,W,2,17,8.5,0,chris-carr-1
+Roscoe Parrish,2004-09-10,1,Miami (FL),,Florida State,W,5,35,7.0,0,roscoe-parrish-1
+Willie Reid,2004-09-10,1,Florida State,@,Miami (FL),L,2,9,4.5,0,willie-reid-1
+Danny Amendola,2004-09-11,2,Texas Tech,@,New Mexico,L,1,12,12.0,0,danny-amendola-1
+David Anderson,2004-09-11,2,Colorado State,@,Southern California,L,1,1,1.0,0,david-anderson-1
+Willie Andrews,2004-09-11,2,Baylor,,Texas State,W,6,63,10.5,0,willie-andrews-1
+Donnie Avery,2004-09-11,2,Houston,@,Oklahoma,L,1,18,18.0,0,donnie-avery-1
+Marion Barber III,2004-09-11,2,Minnesota,,Illinois State,W,3,29,9.7,0,marion-barber-iii-1
+Josh Barge,2004-09-11,2,Wyoming,@,Texas A&M,L,2,0,0.0,0,josh-barge-1
+Landel Bembo,2004-09-11,2,Syracuse,@,Buffalo,W,5,48,9.6,0,landel-bembo-1
+Lance Bennett,2004-09-11,2,Indiana,@,Oregon,W,3,1,0.3,0,lance-bennett-1
+Decori Birmingham,2004-09-11,2,Arkansas,,Texas,L,5,24,4.8,0,decori-birmingham-1
+Craig Bragg,2004-09-11,2,UCLA,@,Illinois,W,1,0,0.0,0,craig-bragg-1
+Corey Brazil,2004-09-11,2,Louisiana Tech,,Louisiana,W,2,8,4.0,0,corey-brazil-1
+Steve Breaston,2004-09-11,2,Michigan,@,Notre Dame,L,1,7,7.0,0,steve-breaston-1
+Marcus Brock,2004-09-11,2,Texas Christian,,Southern Methodist,W,1,7,7.0,0,marcus-brock-1
+Brandon Brooks,2004-09-11,2,Alabama,,Mississippi,W,2,5,2.5,0,brandon-brooks-2
+Kyle Brown,2004-09-11,2,Michigan State,,Central Michigan,W,4,31,7.8,0,kyle-brown-2
+Vernell Brown,2004-09-11,1,Florida,,Eastern Michigan,W,3,32,10.7,0,vernell-brown-1
+Tyson Browning,2004-09-11,2,Georgia,@,South Carolina,W,3,15,5.0,0,tyson-browning-1
+Michael Bumpus,2004-09-11,2,Washington State,,Colorado,L,6,61,10.2,0,michael-bumpus-1
+Rudy Burgess,2004-09-11,2,Arizona State,@,Northwestern,W,4,67,16.8,0,rudy-burgess-1
+Jarrett Bush,2004-09-11,2,Utah State,,Idaho,W,2,19,9.5,0,jarrett-bush-1
+Reggie Bush,2004-09-11,2,Southern California,,Colorado State,W,3,17,5.7,0,reggie-bush-1
+Dion Byrum,2004-09-11,2,Ohio,@,Pittsburgh,L,2,42,21.0,0,dion-byrum-1
+Tavaris Capers,2004-09-11,2,Central Florida,,West Virginia,L,2,21,10.5,0,tavaris-capers-1
+Greig Carlson,2004-09-11,2,Southern California,,Colorado State,W,2,2,1.0,0,greig-carlson-1
+Dennis Chukwuemeka,2004-09-11,2,Ohio,@,Pittsburgh,L,1,7,7.0,0,dennis-chukwuemeka-1
+Mark Clayton,2004-09-11,2,Oklahoma,,Houston,W,1,3,3.0,0,mark-clayton-1
+Jerome Collins,2004-09-11,2,Notre Dame,,Michigan,W,1,28,28.0,0,jerome-collins-1
+Sir James Delgardo,2004-09-11,2,Texas-El Paso,,Weber State,W,3,15,5.0,0,sir-james-delgardo-1
+Early Doucet,2004-09-11,2,Louisiana State,,Arkansas State,W,1,16,16.0,0,early-doucet-1
+Darrell Dowery,2004-09-11,2,Kent State,,Liberty,W,2,27,13.5,0,darrell-dowery-1
+Mike Duren,2004-09-11,2,Colorado,@,Washington State,W,1,-3,-3.0,0,mike-duren-1
+Ryan Eidson,2004-09-11,2,Arizona,,Utah,L,2,11,5.5,0,ryan-eidson-1
+Mike Espy,2004-09-11,2,Mississippi,@,Alabama,L,3,31,10.3,0,mike-espy-1
+Jahmal Fenner,2004-09-11,2,Texas-El Paso,,Weber State,W,3,6,2.0,0,jahmal-fenner-1
+Willie Foster,2004-09-11,2,Rutgers,,New Hampshire,L,2,11,5.5,0,willie-foster-1
+Aaron Gipson,2004-09-11,1,Oregon,,Indiana,L,2,7,3.5,0,aaron-gipson-1
+Bruce Gipson,2004-09-11,1,South Florida,,Tennessee Tech,W,4,40,10.0,0,bruce-gipson-1
+Nehemiah Glover,2004-09-11,2,Texas Tech,@,New Mexico,L,3,15,5.0,0,nehemiah-glover-1
+Charles Gordon,2004-09-11,2,Kansas,,Toledo,W,1,31,31.0,0,charles-gordon-1
+Ramon Guzman,2004-09-11,2,Buffalo,,Syracuse,L,1,2,2.0,0,ramon-guzman-1
+E.B. Halsey,2004-09-11,2,Illinois,,UCLA,L,3,15,5.0,0,eb-halsey-1
+Tyrone Henderson,2004-09-11,2,Colorado,@,Washington State,W,1,32,32.0,0,tyrone-henderson-1
+Ed Hinkel,2004-09-11,2,Iowa,,Iowa State,W,2,25,12.5,0,ed-hinkel-1
+Domenik Hixon,2004-09-11,2,Akron,,Middle Tennessee State,L,1,0,0.0,0,domenik-hixon-1
+Carlyle Holiday,2004-09-11,2,Notre Dame,,Michigan,W,7,70,10.0,0,carlyle-holiday-1
+Santonio Holmes,2004-09-11,2,Ohio State,,Marshall,W,3,21,7.0,0,santonio-holmes-1
+Lagarian Houston,2004-09-11,2,Eastern Michigan,@,Florida,L,1,5,5.0,0,lagarian-houston-1
+Reuben Houston,2004-09-11,2,Georgia Tech,@,Clemson,W,4,43,10.8,0,reuben-houston-1
+Willie Idlette,2004-09-11,2,Wake Forest,@,East Carolina,W,1,9,9.0,0,willie-idlette-1
+Mike Jenkins,2004-09-11,1,South Florida,,Tennessee Tech,W,1,4,4.0,0,mike-jenkins-1
+Adam Jennings,2004-09-11,2,Fresno State,@,Kansas State,W,5,46,9.2,0,adam-jennings-1
+Greg Jennings,2004-09-11,2,Western Michigan,@,Virginia Tech,L,1,13,13.0,0,greg-jennings-1
+Adam Jones,2004-09-11,2,West Virginia,@,Central Florida,W,2,75,37.5,0,adam-jones-1
+Carl Jones,2004-09-11,2,Cincinnati,,Miami (OH),W,2,9,4.5,0,carl-jones-1
+Montrell Jones,2004-09-11,2,Louisville,@,Army,W,5,31,6.2,0,montrell-jones-1
+Matt Knueven,2004-09-11,2,Buffalo,,Syracuse,L,1,-2,-2.0,0,matt-knueven-1
+Jimmy Labita,2004-09-11,2,Idaho,@,Utah State,L,2,1,0.5,0,jimmy-labita-1
+Jermaine Landrum,2004-09-11,2,Tulsa,@,Oklahoma State,L,4,23,5.8,0,jermaine-landrum-1
+Jim Leonhard,2004-09-11,2,Wisconsin,,Nevada-Las Vegas,W,3,58,19.3,0,jim-leonhard-1
+Damien Linson,2004-09-11,2,Central Michigan,@,Michigan State,L,2,29,14.5,0,damien-linson-1
+Travis Lipp,2004-09-11,1,South Florida,,Tennessee Tech,W,1,8,8.0,0,travis-lipp-1
+Jonathan Lowe,2004-09-11,2,Mississippi State,,Auburn,L,3,17,5.7,0,jonathan-lowe-1
+Calvin Lowry,2004-09-11,2,Penn State,@,Boston College,L,1,2,2.0,0,calvin-lowry-1
+Bryce Mahuika,2004-09-11,2,Brigham Young,@,Stanford,L,1,16,16.0,0,bryce-mahuika-1
+Keith Malley,2004-09-11,1,Pittsburgh,,Ohio,W,1,6,6.0,0,keith-malley-1
+David Marrero,2004-09-11,2,Stanford,,Brigham Young,W,1,9,9.0,0,david-marrero-1
+Erik Mayes,2004-09-11,2,Texas A&M,,Wyoming,W,1,-1,-1.0,0,erik-mayes-1
+Byron McCoy,2004-09-11,2,Navy,,Northeastern,W,1,0,0.0,0,byron-mccoy-1
+Rod McNeal,2004-09-11,2,Utah State,,Idaho,W,1,4,4.0,0,rod-mcneal-1
+Justin Miller,2004-09-11,2,Clemson,,Georgia Tech,L,4,4,1.0,0,justin-miller-1
+Todd Miller,2004-09-11,2,Iowa State,@,Iowa,L,4,27,6.8,0,todd-miller-1
+Tim Mixon,2004-09-11,2,California,,New Mexico State,W,2,8,4.0,0,tim-mixon-1
+Dontrell Moore,2004-09-11,2,New Mexico,,Texas Tech,W,1,1,1.0,0,dontrell-moore-1
+Lance Moore,2004-09-11,2,Toledo,@,Kansas,L,2,-5,-2.5,0,lance-moore-1
+Terrence Murphy,2004-09-11,2,Texas A&M,,Wyoming,W,1,13,13.0,0,terrence-murphy-1
+Santino Panico,2004-09-11,2,Nebraska,,Southern Mississippi,L,2,10,5.0,0,santino-panico-1
+Jamin Pastore,2004-09-11,2,Duke,@,Connecticut,L,1,5,5.0,0,jamin-pastore-1
+Alvin Pearman,2004-09-11,2,Virginia,,North Carolina,W,3,21,7.0,0,alvin-pearman-1
+Antonio Perkins,2004-09-11,2,Oklahoma,,Houston,W,2,39,19.5,1,antonio-perkins-1
+Mark Philmore,2004-09-11,2,Northwestern,,Arizona State,L,2,6,3.0,0,mark-philmore-1
+Bernard Pollard,2004-09-11,2,Purdue,,Ball State,W,1,17,17.0,0,bernard-pollard-1
+Johnny Quinn,2004-09-11,2,North Texas,,Florida Atlantic,L,2,7,3.5,0,johnny-quinn-1
+Marcus Randle El,2004-09-11,2,Wisconsin,,Nevada-Las Vegas,W,1,10,10.0,0,marcus-randle-el-1
+Kerry Rhodes,2004-09-11,2,Louisville,@,Army,W,1,11,11.0,0,kerry-rhodes-1
+Allen Richardson,2004-09-11,1,Pittsburgh,,Ohio,W,4,11,2.8,0,allen-richardson-1
+Trumaine Riley,2004-09-11,2,Eastern Michigan,@,Florida,L,1,22,22.0,0,trumaine-riley-1
+Kevin Robinson,2004-09-11,2,Utah State,,Idaho,W,1,11,11.0,0,kevin-robinson-1
+Stephone Robinson,2004-09-11,2,Colorado,@,Washington State,W,3,28,9.3,0,stephone-robinson-1
+Cory Rodgers,2004-09-11,2,Texas Christian,,Southern Methodist,W,2,17,8.5,0,cory-rodgers-1
+Alex Rosenblum,2004-09-11,2,Nevada,,Sacramento State,W,2,-2,-1.0,0,alex-rosenblum-1
+Aaron Ross,2004-09-11,2,Texas,@,Arkansas,W,2,3,1.5,0,aaron-ross-1
+Eddie Royal,2004-09-11,2,Virginia Tech,,Western Michigan,W,3,16,5.3,0,eddie-royal-1
+Steve Savoy,2004-09-11,2,Utah,@,Arizona,W,2,13,6.5,0,steve-savoy-1
+Agim Shabaj,2004-09-11,2,Michigan State,,Central Michigan,W,1,1,1.0,0,agim-shabaj-1
+Charles Sharon,2004-09-11,2,Bowling Green State,,Southeast Missouri State,W,3,95,31.7,1,charles-sharon-1
+Dan Sheldon,2004-09-11,2,Northern Illinois,,Southern Illinois,W,4,47,11.8,0,dan-sheldon-1
+Anthony Smith,2004-09-11,2,Syracuse,@,Buffalo,W,2,23,11.5,1,anthony-smith-1
+Fred Smith,2004-09-11,2,Tulane,,Florida A&M,W,3,9,3.0,0,fred-smith-2
+Tre Smith,2004-09-11,2,Auburn,@,Mississippi State,W,3,18,6.0,0,tre-smith-1
+Emmanuel Spann,2004-09-11,2,Marshall,@,Ohio State,L,2,48,24.0,0,emmanuel-spann-1
+Darren Sproles,2004-09-11,2,Kansas State,,Fresno State,L,1,5,5.0,0,darren-sproles-1
+Roderick Stallings,2004-09-11,2,Nevada,,Sacramento State,W,1,4,4.0,0,roderick-stallings-1
+Steve Suter,2004-09-11,2,Maryland,,Temple,W,4,26,6.5,0,steve-suter-1
+Chris Sutton,2004-09-11,2,Air Force,,Eastern Washington,W,2,-3,-1.5,0,chris-sutton-1
+Larry Taylor,2004-09-11,2,Connecticut,,Duke,W,3,13,4.3,0,larry-taylor-1
+Brittney Tellis,2004-09-11,2,Florida Atlantic,@,North Texas,W,5,-1,-0.2,0,brittney-tellis-1
+Jason Tomlinson,2004-09-11,2,Navy,,Northeastern,W,1,1,1.0,0,jason-tomlinson-1
+Jerod Void,2004-09-11,2,Purdue,,Ball State,W,1,20,20.0,0,jerod-void-1
+Blake Warren,2004-09-11,2,Southern Methodist,@,Texas Christian,L,1,44,44.0,0,blake-warren-1
+Corey Webster,2004-09-11,2,Louisiana State,,Arkansas State,W,1,7,7.0,0,corey-webster-1
+Darron White,2004-09-11,2,Memphis,,Chattanooga,W,7,78,11.1,0,darron-white-1
+Terrence Whitehead,2004-09-11,1,Oregon,,Indiana,L,4,15,3.8,0,terrence-whitehead-1
+Darrent Williams,2004-09-11,2,Oklahoma State,,Tulsa,W,4,87,21.8,1,darrent-williams-1
+Troy Williamson,2004-09-11,2,South Carolina,,Georgia,L,1,6,6.0,0,troy-williamson-1
+Jason Wood,2004-09-11,2,Arkansas State,@,Louisiana State,L,2,3,1.5,0,jason-wood-1
+Kerry Wright,2004-09-11,1,Middle Tennessee State,@,Akron,W,2,83,41.5,1,kerry-wright-1
+Chris Bellamy,2004-09-17,3,Connecticut,@,Boston College,L,1,18,18.0,0,chris-bellamy-1
+Will Blackmon,2004-09-17,3,Boston College,,Connecticut,W,3,8,2.7,0,will-blackmon-1
+Larry Taylor,2004-09-17,3,Connecticut,@,Boston College,L,1,8,8.0,0,larry-taylor-1
+Danny Amendola,2004-09-18,3,Texas Tech,,Texas Christian,W,4,104,26.0,0,danny-amendola-1
+David Anderson,2004-09-18,3,Colorado State,,Minnesota,L,1,0,0.0,0,david-anderson-1
+Walner Belleus,2004-09-18,3,Iowa,@,Arizona State,L,1,83,83.0,1,walner-belleus-1
+Landel Bembo,2004-09-18,3,Syracuse,,Cincinnati,W,1,0,0.0,0,landel-bembo-1
+Lance Bennett,2004-09-18,3,Indiana,@,Kentucky,L,1,-1,-1.0,0,lance-bennett-1
+Yvenson Bernard,2004-09-18,3,Oregon State,,New Mexico,W,2,12,6.0,0,yvenson-bernard-1
+Decori Birmingham,2004-09-18,3,Arkansas,,Louisiana-Monroe,W,2,16,8.0,0,decori-birmingham-1
+Brian Bishop,2004-09-18,3,Texas Tech,,Texas Christian,W,2,18,9.0,0,brian-bishop-1
+Craig Bragg,2004-09-18,3,UCLA,@,Washington,W,4,26,6.5,0,craig-bragg-1
+Corey Brazil,2004-09-18,3,Louisiana Tech,@,Miami (FL),L,3,-1,-0.3,0,corey-brazil-1
+Steve Breaston,2004-09-18,3,Michigan,,San Diego State,W,3,35,11.7,0,steve-breaston-1
+Brandon Brooks,2004-09-18,3,Alabama,,Western Carolina,W,3,1,0.3,0,brandon-brooks-2
+Kyle Brown,2004-09-18,3,Michigan State,,Notre Dame,L,2,14,7.0,0,kyle-brown-2
+Vernell Brown,2004-09-18,2,Florida,@,Tennessee,L,2,4,2.0,0,vernell-brown-1
+Tyson Browning,2004-09-18,3,Georgia,,Marshall,W,3,23,7.7,0,tyson-browning-1
+Michael Bumpus,2004-09-18,3,Washington State,,Idaho,W,3,20,6.7,0,michael-bumpus-1
+Rudy Burgess,2004-09-18,3,Arizona State,,Iowa,W,4,24,6.0,0,rudy-burgess-1
+Gerett Burl,2004-09-18,3,Colorado,,North Texas,W,1,9,9.0,0,gerett-burl-1
+Reggie Bush,2004-09-18,3,Southern California,@,Brigham Young,W,2,7,3.5,0,reggie-bush-1
+Lance Byrd,2004-09-18,2,Rice,,Hawaii,W,4,54,13.5,0,lance-byrd-1
+Dion Byrum,2004-09-18,3,Ohio,@,Miami (OH),L,2,0,0.0,0,dion-byrum-1
+Tavaris Capers,2004-09-18,3,Central Florida,@,Penn State,L,2,54,27.0,1,tavaris-capers-1
+Chris Carr,2004-09-18,3,Boise State,@,Texas-El Paso,W,6,122,20.3,0,chris-carr-1
+Kyle Conerly,2004-09-18,2,San Diego State,@,Michigan,L,2,-1,-0.5,0,kyle-conerly-1
+Mason Denham,2004-09-18,2,Louisiana-Monroe,@,Arkansas,L,2,7,3.5,0,mason-denham-1
+Darrell Dowery,2004-09-18,3,Kent State,@,Rutgers,L,2,0,0.0,0,darrell-dowery-1
+Mike Espy,2004-09-18,3,Mississippi,,Vanderbilt,W,2,0,0.0,0,mike-espy-1
+Johnny Faulk,2004-09-18,3,Troy,@,New Mexico State,L,4,29,7.3,0,johnny-faulk-1
+Jahmal Fenner,2004-09-18,3,Texas-El Paso,,Boise State,L,1,21,21.0,0,jahmal-fenner-1
+Michael Franklin,2004-09-18,2,San Diego State,@,Michigan,L,1,4,4.0,0,michael-franklin-1
+Aaron Gipson,2004-09-18,2,Oregon,@,Oklahoma,L,1,5,5.0,0,aaron-gipson-1
+Bruce Gipson,2004-09-18,2,South Florida,@,South Carolina,L,1,7,7.0,0,bruce-gipson-1
+Phil Goodman,2004-09-18,3,Temple,,Florida A&M,W,5,71,14.2,0,phil-goodman-1
+Charles Gordon,2004-09-18,3,Kansas,@,Northwestern,L,3,21,7.0,0,charles-gordon-1
+Skyler Green,2004-09-18,3,Louisiana State,@,Auburn,L,1,-4,-4.0,0,skyler-green-1
+Payne Hall,2004-09-18,3,Arkansas,,Louisiana-Monroe,W,1,1,1.0,0,payne-hall-1
+Tramain Hall,2004-09-18,2,North Carolina State,,Ohio State,L,1,-3,-3.0,0,tramain-hall-1
+E.B. Halsey,2004-09-18,3,Illinois,,Western Michigan,W,2,47,23.5,0,eb-halsey-1
+Stevelan Harper,2004-09-18,3,New Mexico State,,Troy,W,3,35,11.7,0,stevelan-harper-1
+Jonathan Hefney,2004-09-18,2,Tennessee,,Florida,W,2,11,5.5,0,jonathan-hefney-1
+Devin Hester,2004-09-18,2,Miami (FL),,Louisiana Tech,W,2,143,71.5,2,devin-hester-1
+Ed Hinkel,2004-09-18,3,Iowa,@,Arizona State,L,2,60,30.0,0,ed-hinkel-1
+Domenik Hixon,2004-09-18,3,Akron,@,Virginia,L,1,21,21.0,0,domenik-hixon-1
+Ellis Hobbs III,2004-09-18,3,Iowa State,,Northern Illinois,W,1,11,11.0,0,ellis-hobbs-iii-1
+Carlyle Holiday,2004-09-18,3,Notre Dame,@,Michigan State,W,3,50,16.7,0,carlyle-holiday-1
+Santonio Holmes,2004-09-18,3,Ohio State,@,North Carolina State,W,4,30,7.5,0,santonio-holmes-1
+Reuben Houston,2004-09-18,3,Georgia Tech,@,North Carolina,L,3,4,1.3,0,reuben-houston-1
+Willie Idlette,2004-09-18,3,Wake Forest,,North Carolina A&T,W,2,16,8.0,0,willie-idlette-1
+Bernard Jackson,2004-09-18,3,Colorado,,North Texas,W,1,-1,-1.0,0,bernard-jackson-1
+Adam Jennings,2004-09-18,3,Fresno State,,Portland State,W,2,2,1.0,0,adam-jennings-1
+Richard Johnson,2004-09-18,3,Virginia Tech,,Duke,W,1,10,10.0,0,richard-johnson-1
+Adam Jones,2004-09-18,3,West Virginia,,Maryland,W,1,0,0.0,0,adam-jones-1
+Carl Jones,2004-09-18,3,Cincinnati,@,Syracuse,L,1,6,6.0,0,carl-jones-1
+James Jones,2004-09-18,2,San Jose State,,Morgan State,W,3,49,16.3,0,james-jones-3
+Matt Knueven,2004-09-18,3,Buffalo,@,Nevada,L,1,1,1.0,0,matt-knueven-1
+Jimmy Labita,2004-09-18,3,Idaho,@,Washington State,L,1,4,4.0,0,jimmy-labita-1
+Jim Leonhard,2004-09-18,3,Wisconsin,@,Arizona,W,3,46,15.3,0,jim-leonhard-1
+Reggie Lindsey,2004-09-18,2,Alabama-Birmingham,@,Florida State,L,1,5,5.0,0,reggie-lindsey-1
+Damien Linson,2004-09-18,3,Central Michigan,,Southeast Missouri State,W,2,91,45.5,1,damien-linson-1
+Travis Lipp,2004-09-18,2,South Florida,@,South Carolina,L,2,28,14.0,0,travis-lipp-1
+Jonathan Lowe,2004-09-18,3,Mississippi State,,Maine,L,2,27,13.5,0,jonathan-lowe-1
+Calvin Lowry,2004-09-18,3,Penn State,,Central Florida,W,5,55,11.0,0,calvin-lowry-1
+Dicky Lyons,2004-09-18,2,Kentucky,,Indiana,W,5,8,1.6,0,dicky-lyons-1
+Bryce Mahuika,2004-09-18,3,Brigham Young,,Southern California,L,1,0,0.0,0,bryce-mahuika-1
+Erik Mayes,2004-09-18,3,Texas A&M,,Clemson,W,2,58,29.0,0,erik-mayes-1
+Todd Miller,2004-09-18,3,Iowa State,,Northern Illinois,W,4,38,9.5,0,todd-miller-1
+Dontrell Moore,2004-09-18,3,New Mexico,@,Oregon State,L,2,7,3.5,0,dontrell-moore-1
+Dominique Morris,2004-09-18,2,Vanderbilt,@,Mississippi,L,2,11,5.5,0,dominique-morris-1
+Tres Moses,2004-09-18,3,Rutgers,,Kent State,W,1,8,8.0,0,tres-moses-1
+Thomson Omboga,2004-09-18,3,Missouri,,Ball State,W,6,127,21.2,0,thomson-omboga-1
+Stafford Owens,2004-09-18,3,Ohio,@,Miami (OH),L,1,1,1.0,0,stafford-owens-1
+Santino Panico,2004-09-18,3,Nebraska,@,Pittsburgh,W,1,8,8.0,0,santino-panico-1
+Roscoe Parrish,2004-09-18,2,Miami (FL),,Louisiana Tech,W,2,49,24.5,0,roscoe-parrish-1
+Alvin Pearman,2004-09-18,3,Virginia,,Akron,W,4,21,5.3,0,alvin-pearman-1
+Antonio Perkins,2004-09-18,3,Oklahoma,,Oregon,W,2,22,11.0,0,antonio-perkins-1
+Mark Philmore,2004-09-18,3,Northwestern,,Kansas,W,2,28,14.0,0,mark-philmore-1
+Jarwarski Pollock,2004-09-18,3,North Carolina,,Georgia Tech,W,4,22,5.5,0,jarwarski-pollock-1
+Willie Reid,2004-09-18,2,Florida State,,Alabama-Birmingham,W,4,55,13.8,0,willie-reid-1
+Allen Richardson,2004-09-18,2,Pittsburgh,,Nebraska,L,6,20,3.3,0,allen-richardson-1
+Dante Ridgeway,2004-09-18,3,Ball State,@,Missouri,L,1,0,0.0,0,dante-ridgeway-1
+Kevin Robinson,2004-09-18,3,Utah State,,Utah,L,1,21,21.0,0,kevin-robinson-1
+Ryne Robinson,2004-09-18,4,Miami (OH),,Ohio,W,4,90,22.5,1,ryne-robinson-1
+Stephone Robinson,2004-09-18,3,Colorado,,North Texas,W,1,13,13.0,0,stephone-robinson-1
+Cory Rodgers,2004-09-18,3,Texas Christian,@,Texas Tech,L,1,8,8.0,0,cory-rodgers-1
+Alex Rosenblum,2004-09-18,3,Nevada,,Buffalo,W,4,34,8.5,0,alex-rosenblum-1
+Eddie Royal,2004-09-18,3,Virginia Tech,,Duke,W,6,47,7.8,0,eddie-royal-1
+Steve Savoy,2004-09-18,3,Utah,@,Utah State,W,1,4,4.0,0,steve-savoy-1
+Jerramy Scott,2004-09-18,3,Michigan State,,Notre Dame,L,1,14,14.0,1,jerramy-scott-1
+Agim Shabaj,2004-09-18,3,Michigan State,,Notre Dame,L,1,11,11.0,0,agim-shabaj-1
+Dan Sheldon,2004-09-18,3,Northern Illinois,@,Iowa State,L,5,90,18.0,0,dan-sheldon-1
+Anthony Smith,2004-09-18,3,Syracuse,,Cincinnati,W,1,24,24.0,0,anthony-smith-1
+Tre Smith,2004-09-18,3,Auburn,,Louisiana State,W,1,12,12.0,0,tre-smith-1
+Emmanuel Spann,2004-09-18,3,Marshall,@,Georgia,L,1,5,5.0,0,emmanuel-spann-1
+Darren Sproles,2004-09-18,3,Kansas State,,Louisiana,W,1,25,25.0,0,darren-sproles-1
+Marcel Stamps,2004-09-18,3,Alabama,,Western Carolina,W,1,29,29.0,1,marcel-stamps-1
+Ray Stith,2004-09-18,2,Army,@,Houston,L,2,9,4.5,0,ray-stith-1
+Chansi Stuckey,2004-09-18,3,Clemson,@,Texas A&M,L,2,5,2.5,0,chansi-stuckey-1
+Steve Suter,2004-09-18,3,Maryland,@,West Virginia,L,1,-1,-1.0,0,steve-suter-1
+Kenyada Tatum,2004-09-18,3,Houston,,Army,W,2,2,1.0,0,kenyada-tatum-1
+Brittney Tellis,2004-09-18,3,Florida Atlantic,@,Middle Tennessee State,W,4,17,4.3,0,brittney-tellis-1
+Joe Thaxton,2004-09-18,2,Florida State,,Alabama-Birmingham,W,1,18,18.0,0,joe-thaxton-1
+Ricky Thomas,2004-09-18,3,Louisiana,@,Kansas State,L,1,3,3.0,0,ricky-thomas-1
+Jason Tomlinson,2004-09-18,3,Navy,@,Tulsa,W,3,13,4.3,0,jason-tomlinson-1
+Darren Toney,2004-09-18,3,Arkansas State,,Memphis,L,2,37,18.5,0,darren-toney-1
+Blake Warren,2004-09-18,3,Southern Methodist,@,Oklahoma State,L,1,3,3.0,0,blake-warren-1
+Paris Warren,2004-09-18,3,Utah,@,Utah State,W,1,0,0.0,0,paris-warren-2
+Corey Webster,2004-09-18,3,Louisiana State,@,Auburn,L,1,0,0.0,0,corey-webster-1
+Darron White,2004-09-18,3,Memphis,@,Arkansas State,W,2,15,7.5,0,darron-white-1
+Terrence Whitehead,2004-09-18,2,Oregon,@,Oklahoma,L,1,2,2.0,0,terrence-whitehead-1
+Noah Whiteside,2004-09-18,3,South Carolina,,South Florida,W,4,42,10.5,0,noah-whiteside-1
+Mark Wigal,2004-09-18,3,Duke,@,Virginia Tech,L,2,17,8.5,0,mark-wigal-1
+Carnell Williams,2004-09-18,3,Auburn,,Louisiana State,W,1,0,0.0,0,carnell-williams-1
+Darrent Williams,2004-09-18,3,Oklahoma State,,Southern Methodist,W,5,162,32.4,0,darrent-williams-1
+Jason Wood,2004-09-18,3,Arkansas State,,Memphis,L,1,12,12.0,0,jason-wood-1
+Kerry Wright,2004-09-18,2,Middle Tennessee State,,Florida Atlantic,L,2,-6,-3.0,0,kerry-wright-1
+Darrell Dowery,2004-09-23,4,Kent State,,Akron,L,3,81,27.0,1,darrell-dowery-1
+Devin Hester,2004-09-23,3,Miami (FL),@,Houston,W,2,47,23.5,0,devin-hester-1
+Domenik Hixon,2004-09-23,4,Akron,@,Kent State,W,1,13,13.0,0,domenik-hixon-1
+Roscoe Parrish,2004-09-23,3,Miami (FL),@,Houston,W,1,6,6.0,0,roscoe-parrish-1
+Anthony Reddick,2004-09-23,3,Miami (FL),@,Houston,W,1,15,15.0,0,anthony-reddick-1
+Jack Williams,2004-09-23,4,Kent State,,Akron,L,1,-1,-1.0,0,jack-williams-1
+Chris Carr,2004-09-24,4,Boise State,,Brigham Young,W,6,57,9.5,0,chris-carr-1
+Bryce Mahuika,2004-09-24,4,Brigham Young,@,Boise State,L,1,0,0.0,0,bryce-mahuika-1
+Charles Sharon,2004-09-24,3,Bowling Green State,@,Northern Illinois,L,1,3,3.0,0,charles-sharon-1
+Dan Sheldon,2004-09-24,4,Northern Illinois,,Bowling Green State,W,1,0,0.0,0,dan-sheldon-1
+Danny Amendola,2004-09-25,4,Texas Tech,@,Kansas,W,5,18,3.6,0,danny-amendola-1
+David Anderson,2004-09-25,4,Colorado State,,Montana State,W,2,9,4.5,0,david-anderson-1
+Willie Andrews,2004-09-25,3,Baylor,,North Texas,W,6,49,8.2,0,willie-andrews-1
+Marion Barber III,2004-09-25,4,Minnesota,,Northwestern,W,1,10,10.0,0,marion-barber-iii-1
+Josh Barge,2004-09-25,3,Wyoming,,Mississippi,W,1,87,87.0,1,josh-barge-1
+Jackie Bates,2004-09-25,3,Oregon,,Idaho,W,2,5,2.5,0,jackie-bates-1
+Walner Belleus,2004-09-25,4,Iowa,@,Michigan,L,2,24,12.0,0,walner-belleus-1
+Lance Bennett,2004-09-25,4,Indiana,,Michigan State,L,2,89,44.5,1,lance-bennett-1
+Yvenson Bernard,2004-09-25,4,Oregon State,@,Arizona State,L,3,19,6.3,0,yvenson-bernard-1
+Will Blackmon,2004-09-25,4,Boston College,@,Wake Forest,L,4,72,18.0,0,will-blackmon-1
+Corey Brazil,2004-09-25,4,Louisiana Tech,@,Tennessee,L,4,1,0.3,0,corey-brazil-1
+Steve Breaston,2004-09-25,4,Michigan,,Iowa,W,1,0,0.0,0,steve-breaston-1
+Eric Brock,2004-09-25,4,Auburn,,Citadel,W,1,27,27.0,0,eric-brock-1
+Marcus Brock,2004-09-25,4,Texas Christian,,South Florida,L,1,11,11.0,0,marcus-brock-1
+Brandon Brooks,2004-09-25,4,Alabama,@,Arkansas,L,4,12,3.0,0,brandon-brooks-2
+Kyle Brown,2004-09-25,4,Michigan State,@,Indiana,W,5,43,8.6,0,kyle-brown-2
+Vernell Brown,2004-09-25,3,Florida,,Kentucky,W,3,57,19.0,0,vernell-brown-1
+Michael Bumpus,2004-09-25,4,Washington State,@,Arizona,W,7,58,8.3,0,michael-bumpus-1
+Rudy Burgess,2004-09-25,4,Arizona State,,Oregon State,W,5,41,8.2,0,rudy-burgess-1
+Reggie Bush,2004-09-25,4,Southern California,@,Stanford,W,2,35,17.5,0,reggie-bush-1
+Dion Byrum,2004-09-25,4,Ohio,,Buffalo,W,4,22,5.5,0,dion-byrum-1
+Shyrone Carey,2004-09-25,4,Louisiana State,,Mississippi State,W,5,19,3.8,0,shyrone-carey-1
+Greig Carlson,2004-09-25,4,Southern California,@,Stanford,W,1,5,5.0,0,greig-carlson-1
+Kyle Conerly,2004-09-25,3,San Diego State,,Nevada,W,2,22,11.0,0,kyle-conerly-1
+Silas Daniels,2004-09-25,4,Auburn,,Citadel,W,2,44,22.0,0,silas-daniels-1
+Ashlan Davis,2004-09-25,4,Tulsa,,Missouri State,W,1,24,24.0,1,ashlan-davis-1
+Braelon Davis,2004-09-25,3,Baylor,,North Texas,W,1,11,11.0,1,braelon-davis-1
+Chris Davis,2004-09-25,3,Florida State,,Clemson,W,2,29,14.5,0,chris-davis-2
+Dave Dawson,2004-09-25,4,Buffalo,@,Ohio,L,3,6,2.0,0,dave-dawson-1
+Mason Denham,2004-09-25,3,Louisiana-Monroe,,Arkansas State,L,3,20,6.7,0,mason-denham-1
+Dominique Dorsey,2004-09-25,4,Nevada-Las Vegas,,Utah State,L,2,11,5.5,0,dominique-dorsey-1
+Ryan Eidson,2004-09-25,4,Arizona,,Washington State,L,3,25,8.3,0,ryan-eidson-1
+Mike Espy,2004-09-25,4,Mississippi,@,Wyoming,L,2,39,19.5,0,mike-espy-1
+Charles Estes,2004-09-25,3,Louisiana-Monroe,,Arkansas State,L,1,7,7.0,0,charles-estes-1
+Johnny Faulk,2004-09-25,4,Troy,@,South Carolina,L,2,1,0.5,0,johnny-faulk-1
+C.J. Fayton,2004-09-25,3,Tennessee,,Louisiana Tech,W,1,5,5.0,0,cj-fayton-1
+Michael Franklin,2004-09-25,3,San Diego State,,Nevada,W,1,29,29.0,0,michael-franklin-1
+C.J. Gaddis,2004-09-25,4,Clemson,@,Florida State,L,1,5,5.0,0,cj-gaddis-1
+Trestin George,2004-09-25,3,San Jose State,@,Southern Methodist,L,1,10,10.0,0,trestin-george-1
+Phil Goodman,2004-09-25,4,Temple,@,Toledo,L,2,9,4.5,0,phil-goodman-1
+Charles Gordon,2004-09-25,4,Kansas,,Texas Tech,L,1,2,2.0,0,charles-gordon-1
+Tramain Hall,2004-09-25,3,North Carolina State,@,Virginia Tech,W,3,23,7.7,0,tramain-hall-1
+E.B. Halsey,2004-09-25,4,Illinois,,Purdue,L,1,9,9.0,0,eb-halsey-1
+Kelvin Hayden,2004-09-25,4,Illinois,,Purdue,L,1,2,2.0,0,kelvin-hayden-1
+Jonathan Hefney,2004-09-25,3,Tennessee,,Louisiana Tech,W,3,0,0.0,0,jonathan-hefney-1
+Jerime Henderson,2004-09-25,4,Arkansas State,@,Louisiana-Monroe,W,1,-2,-2.0,0,jerime-henderson-1
+Demetrius Hodges,2004-09-25,3,East Carolina,,Cincinnati,L,5,60,12.0,0,demetrius-hodges-1
+Carlyle Holiday,2004-09-25,4,Notre Dame,,Washington,W,2,20,10.0,0,carlyle-holiday-1
+Willie Idlette,2004-09-25,4,Wake Forest,,Boston College,W,2,25,12.5,0,willie-idlette-1
+Greg Jennings,2004-09-25,4,Western Michigan,@,Ball State,L,1,12,12.0,0,greg-jennings-1
+James Johnson,2004-09-25,4,Arkansas State,@,Louisiana-Monroe,W,2,55,27.5,0,james-johnson-2
+Adam Jones,2004-09-25,4,West Virginia,,James Madison,W,2,8,4.0,0,adam-jones-1
+Carl Jones,2004-09-25,4,Cincinnati,@,East Carolina,W,3,10,3.3,0,carl-jones-1
+James Jones,2004-09-25,3,San Jose State,@,Southern Methodist,L,1,3,3.0,0,james-jones-3
+Montrell Jones,2004-09-25,3,Louisville,@,North Carolina,W,1,12,12.0,0,montrell-jones-1
+Jimmy Labita,2004-09-25,4,Idaho,@,Oregon,L,2,25,12.5,0,jimmy-labita-1
+Jermaine Landrum,2004-09-25,4,Tulsa,,Missouri State,W,2,19,9.5,0,jermaine-landrum-1
+Corey Larkins,2004-09-25,3,Tennessee,,Louisiana Tech,W,1,1,1.0,0,corey-larkins-1
+Justin Lemay,2004-09-25,4,Western Michigan,@,Ball State,L,1,7,7.0,0,justin-lemay-1
+Jim Leonhard,2004-09-25,4,Wisconsin,,Penn State,W,4,49,12.3,0,jim-leonhard-1
+Travis Lipp,2004-09-25,3,South Florida,@,Texas Christian,W,2,7,3.5,0,travis-lipp-1
+Calvin Lowry,2004-09-25,4,Penn State,@,Wisconsin,L,1,0,0.0,0,calvin-lowry-1
+Dicky Lyons,2004-09-25,3,Kentucky,@,Florida,L,1,4,4.0,0,dicky-lyons-1
+David Marrero,2004-09-25,3,Stanford,,Southern California,L,3,22,7.3,0,david-marrero-1
+Norval McKenzie,2004-09-25,3,Vanderbilt,@,Navy,L,1,21,21.0,0,norval-mckenzie-1
+Dontrell Moore,2004-09-25,4,New Mexico,@,New Mexico State,W,3,13,4.3,0,dontrell-moore-1
+Dominique Morris,2004-09-25,3,Vanderbilt,@,Navy,L,1,7,7.0,0,dominique-morris-1
+Damon Morton,2004-09-25,4,Colorado State,,Montana State,W,3,35,11.7,0,damon-morton-1
+Steve Odom,2004-09-25,4,Toledo,,Temple,W,1,9,9.0,0,steve-odom-1
+Ryan Patrick,2004-09-25,4,Ball State,,Western Michigan,W,2,16,8.0,0,ryan-patrick-1
+Alvin Pearman,2004-09-25,4,Virginia,,Syracuse,W,5,71,14.2,0,alvin-pearman-1
+Roy Polite,2004-09-25,3,Middle Tennessee State,@,Louisiana,L,1,-2,-2.0,0,roy-polite-1
+Jarwarski Pollock,2004-09-25,4,North Carolina,,Louisville,L,1,9,9.0,0,jarwarski-pollock-1
+Johnny Quinn,2004-09-25,4,North Texas,@,Baylor,L,2,13,6.5,0,johnny-quinn-1
+Willie Reid,2004-09-25,3,Florida State,,Clemson,W,3,41,13.7,0,willie-reid-1
+Allen Richardson,2004-09-25,3,Pittsburgh,,Furman,W,2,-2,-1.0,0,allen-richardson-1
+Trumaine Riley,2004-09-25,4,Eastern Michigan,,Eastern Illinois,L,5,47,9.4,0,trumaine-riley-1
+Kevin Robinson,2004-09-25,4,Utah State,@,Nevada-Las Vegas,W,1,46,46.0,0,kevin-robinson-1
+Cory Rodgers,2004-09-25,4,Texas Christian,,South Florida,L,1,17,17.0,0,cory-rodgers-1
+Alex Rosenblum,2004-09-25,4,Nevada,@,San Diego State,L,2,6,3.0,0,alex-rosenblum-1
+Aaron Ross,2004-09-25,3,Texas,,Rice,W,3,45,15.0,0,aaron-ross-1
+Eddie Royal,2004-09-25,4,Virginia Tech,,North Carolina State,L,3,107,35.7,0,eddie-royal-1
+Anthony Russo,2004-09-25,3,Washington,@,Notre Dame,L,4,10,2.5,0,anthony-russo-1
+Fred Smith,2004-09-25,3,Tulane,,Southern Mississippi,L,4,47,11.8,0,fred-smith-2
+Sammie Stroughter,2004-09-25,4,Oregon State,@,Arizona State,L,1,24,24.0,0,sammie-stroughter-1
+Taylor Stubblefield,2004-09-25,3,Purdue,@,Illinois,W,2,6,3.0,0,taylor-stubblefield-1
+Steve Suter,2004-09-25,4,Maryland,@,Duke,W,2,33,16.5,0,steve-suter-1
+Larry Taylor,2004-09-25,4,Connecticut,,Army,W,3,34,11.3,0,larry-taylor-1
+Ricky Thomas,2004-09-25,4,Louisiana,,Middle Tennessee State,W,3,16,5.3,0,ricky-thomas-1
+Jason Tomlinson,2004-09-25,4,Navy,,Vanderbilt,W,2,18,9.0,0,jason-tomlinson-1
+Marvin Vaughan,2004-09-25,4,Mississippi,@,Wyoming,L,1,21,21.0,0,marvin-vaughan-1
+Jo Jo Walker,2004-09-25,4,Maryland,@,Duke,W,1,-2,-2.0,0,jo-jo-walker-1
+Blake Warren,2004-09-25,4,Southern Methodist,,San Jose State,W,4,37,9.3,0,blake-warren-1
+Kenny Washington,2004-09-25,3,Oregon,,Idaho,W,1,14,14.0,0,kenny-washington-1
+Eric Weddle,2004-09-25,4,Utah,,Air Force,W,4,65,16.3,0,eric-weddle-1
+Terrence Whitehead,2004-09-25,3,Oregon,,Idaho,W,3,36,12.0,0,terrence-whitehead-1
+Noah Whiteside,2004-09-25,4,South Carolina,,Troy,W,2,1,0.5,0,noah-whiteside-1
+Jason Wood,2004-09-25,4,Arkansas State,@,Louisiana-Monroe,W,1,15,15.0,0,jason-wood-1
+Marvin Young,2004-09-25,2,Southern Mississippi,@,Tulane,W,1,7,7.0,0,marvin-young-1
+Derek Rehage,2004-09-29,5,Miami (OH),@,Marshall,L,1,27,27.0,0,derek-rehage-1
+Ryne Robinson,2004-09-29,5,Miami (OH),@,Marshall,L,5,18,3.6,0,ryne-robinson-1
+Emmanuel Spann,2004-09-29,4,Marshall,,Miami (OH),W,3,38,12.7,0,emmanuel-spann-1
+Allen Richardson,2004-09-30,4,Pittsburgh,@,Connecticut,L,3,11,3.7,0,allen-richardson-1
+Chris Sutton,2004-09-30,5,Air Force,,Navy,L,4,37,9.3,0,chris-sutton-1
+Larry Taylor,2004-09-30,5,Connecticut,,Pittsburgh,W,5,74,14.8,0,larry-taylor-1
+Jason Tomlinson,2004-09-30,5,Navy,@,Air Force,W,2,5,2.5,0,jason-tomlinson-1
+Brandon Payne,2004-10-01,5,New Mexico,,Utah,L,2,8,4.0,0,brandon-payne-1
+Paris Warren,2004-10-01,5,Utah,@,New Mexico,W,3,9,3.0,0,paris-warren-2
+Eric Weddle,2004-10-01,5,Utah,@,New Mexico,W,3,22,7.3,0,eric-weddle-1
+Danny Amendola,2004-10-02,5,Texas Tech,@,Oklahoma,L,2,4,2.0,0,danny-amendola-1
+David Anderson,2004-10-02,5,Colorado State,,Brigham Young,L,2,5,2.5,0,david-anderson-1
+Willie Andrews,2004-10-02,4,Baylor,@,Texas,L,6,83,13.8,0,willie-andrews-1
+Marion Barber III,2004-10-02,5,Minnesota,,Penn State,W,1,3,3.0,0,marion-barber-iii-1
+Josh Barge,2004-10-02,4,Wyoming,,Louisiana-Monroe,W,1,2,2.0,0,josh-barge-1
+Landel Bembo,2004-10-02,5,Syracuse,,Rutgers,W,3,8,2.7,0,landel-bembo-1
+Lance Bennett,2004-10-02,5,Indiana,,Michigan,L,1,-4,-4.0,0,lance-bennett-1
+Will Blackmon,2004-10-02,5,Boston College,,Massachusetts,W,4,47,11.8,0,will-blackmon-1
+Corey Brazil,2004-10-02,5,Louisiana Tech,,Fresno State,W,3,4,1.3,0,corey-brazil-1
+Brandon Brooks,2004-10-02,5,Alabama,,South Carolina,L,2,-2,-1.0,0,brandon-brooks-2
+Kyle Brown,2004-10-02,5,Michigan State,@,Iowa,L,1,0,0.0,0,kyle-brown-2
+Tim Brown,2004-10-02,5,Temple,,Bowling Green State,L,2,0,0.0,0,tim-brown-2
+Vernell Brown,2004-10-02,4,Florida,,Arkansas,W,3,12,4.0,0,vernell-brown-1
+Rudy Burgess,2004-10-02,5,Arizona State,@,Oregon,W,3,36,12.0,0,rudy-burgess-1
+Lance Byrd,2004-10-02,4,Rice,@,San Jose State,L,1,11,11.0,0,lance-byrd-1
+Dion Byrum,2004-10-02,5,Ohio,@,Kentucky,W,2,21,10.5,0,dion-byrum-1
+Tavaris Capers,2004-10-02,4,Central Florida,@,Buffalo,L,3,37,12.3,0,tavaris-capers-1
+Chris Carr,2004-10-02,5,Boise State,,Southern Methodist,W,2,85,42.5,1,chris-carr-1
+Daniel Charbonnet,2004-10-02,5,Duke,,Citadel,W,1,25,25.0,0,daniel-charbonnet-1
+Pat Clark,2004-10-02,4,Georgia Tech,,Miami (FL),L,1,3,3.0,0,pat-clark-1
+Kyle Conerly,2004-10-02,4,San Diego State,@,UCLA,L,1,13,13.0,0,kyle-conerly-1
+Chris Dapolito,2004-10-02,5,Duke,,Citadel,W,1,4,4.0,0,chris-dapolito-1
+Chris Davis,2004-10-02,4,Florida State,,North Carolina,W,3,-2,-0.7,0,chris-davis-2
+Mason Denham,2004-10-02,4,Louisiana-Monroe,@,Wyoming,L,2,29,14.5,0,mason-denham-1
+Maurice Drew,2004-10-02,4,UCLA,,San Diego State,W,3,25,8.3,0,maurice-drew-1
+Prentiss Elliott,2004-10-02,4,Oklahoma State,,Iowa State,W,3,45,15.0,0,prentiss-elliott-1
+Mike Espy,2004-10-02,5,Mississippi,,Arkansas State,W,3,2,0.7,0,mike-espy-1
+Mike Falco,2004-10-02,4,Rice,@,San Jose State,L,1,0,0.0,0,mike-falco-1
+Jahmal Fenner,2004-10-02,4,Texas-El Paso,,New Mexico State,W,2,-4,-2.0,0,jahmal-fenner-1
+Jason Ferguson,2004-10-02,3,Hawaii,,Tulsa,W,2,-2,-1.0,0,jason-ferguson-1
+Michael Franklin,2004-10-02,4,San Diego State,@,UCLA,L,2,12,6.0,0,michael-franklin-1
+Ted Ginn Jr.,2004-10-02,4,Ohio State,@,Northwestern,L,1,12,12.0,0,ted-ginn-jr-1
+Charles Gordon,2004-10-02,5,Kansas,@,Nebraska,L,3,22,7.3,0,charles-gordon-1
+Skyler Green,2004-10-02,5,Louisiana State,@,Georgia,L,1,16,16.0,0,skyler-green-1
+Michael Griffin,2004-10-02,4,Texas,,Baylor,W,1,20,20.0,0,michael-griffin-1
+Leon Hall,2004-10-02,5,Michigan,@,Indiana,W,3,78,26.0,1,leon-hall-1
+Tramain Hall,2004-10-02,4,North Carolina State,,Wake Forest,W,4,52,13.0,0,tramain-hall-1
+E.B. Halsey,2004-10-02,5,Illinois,@,Wisconsin,L,5,38,7.6,0,eb-halsey-1
+Stevelan Harper,2004-10-02,5,New Mexico State,@,Texas-El Paso,L,2,3,1.5,0,stevelan-harper-1
+Brandon Harrison,2004-10-02,4,Stanford,,Washington,W,1,35,35.0,0,brandon-harrison-2
+Robert Haskins,2004-10-02,4,Louisville,,East Carolina,W,2,0,0.0,0,robert-haskins-1
+Jonathan Hefney,2004-10-02,4,Tennessee,,Auburn,L,3,11,3.7,0,jonathan-hefney-1
+David Herron Jr.,2004-10-02,5,Michigan State,@,Iowa,L,1,0,0.0,0,david-herron-jr-1
+Devin Hester,2004-10-02,4,Miami (FL),@,Georgia Tech,W,2,12,6.0,0,devin-hester-1
+Ed Hinkel,2004-10-02,5,Iowa,,Michigan State,W,1,11,11.0,0,ed-hinkel-1
+Domenik Hixon,2004-10-02,5,Akron,@,Northern Illinois,L,2,26,13.0,0,domenik-hixon-1
+Demetrius Hodges,2004-10-02,4,East Carolina,@,Louisville,L,2,16,8.0,0,demetrius-hodges-1
+Santonio Holmes,2004-10-02,4,Ohio State,@,Northwestern,L,4,72,18.0,1,santonio-holmes-1
+Willie Idlette,2004-10-02,5,Wake Forest,@,North Carolina State,L,1,4,4.0,0,willie-idlette-1
+Mike Imoh,2004-10-02,5,Virginia Tech,,West Virginia,W,3,15,5.0,0,mike-imoh-1
+Adam Jennings,2004-10-02,4,Fresno State,@,Louisiana Tech,L,4,-3,-0.8,0,adam-jennings-1
+Tim Jennings,2004-10-02,4,Georgia,,Louisiana State,W,2,-2,-1.0,0,tim-jennings-1
+James Johnson,2004-10-02,5,Arkansas State,@,Mississippi,L,5,38,7.6,0,james-johnson-2
+Richard Johnson,2004-10-02,5,Virginia Tech,,West Virginia,W,5,42,8.4,0,richard-johnson-1
+Adam Jones,2004-10-02,5,West Virginia,@,Virginia Tech,L,3,51,17.0,0,adam-jones-1
+Carl Jones,2004-10-02,5,Cincinnati,,Alabama-Birmingham,L,2,12,6.0,0,carl-jones-1
+James Jones,2004-10-02,4,San Jose State,,Rice,W,1,0,0.0,0,james-jones-3
+Montrell Jones,2004-10-02,4,Louisville,,East Carolina,W,3,65,21.7,0,montrell-jones-1
+Jimmy Labita,2004-10-02,5,Idaho,@,Eastern Michigan,W,1,-1,-1.0,0,jimmy-labita-1
+Jermaine Landrum,2004-10-02,5,Tulsa,@,Hawaii,L,3,12,4.0,0,jermaine-landrum-1
+Jim Leonhard,2004-10-02,5,Wisconsin,,Illinois,W,3,42,14.0,0,jim-leonhard-1
+Reggie Lindsey,2004-10-02,4,Alabama-Birmingham,@,Cincinnati,W,5,79,15.8,0,reggie-lindsey-1
+Travis Lipp,2004-10-02,4,South Florida,,Southern Mississippi,L,3,32,10.7,0,travis-lipp-1
+Mark Logan,2004-10-02,4,Georgia Tech,,Miami (FL),L,3,18,6.0,0,mark-logan-1
+Jonathan Lowe,2004-10-02,5,Mississippi State,@,Vanderbilt,L,2,8,4.0,0,jonathan-lowe-1
+Calvin Lowry,2004-10-02,5,Penn State,@,Minnesota,L,4,43,10.8,0,calvin-lowry-1
+Dicky Lyons,2004-10-02,4,Kentucky,,Ohio,L,1,13,13.0,0,dicky-lyons-1
+Bryce Mahuika,2004-10-02,5,Brigham Young,@,Colorado State,W,4,28,7.0,0,bryce-mahuika-1
+David Marrero,2004-10-02,4,Stanford,,Washington,W,6,26,4.3,0,david-marrero-1
+Hoost Marsh,2004-10-02,4,Wyoming,,Louisiana-Monroe,W,3,62,20.7,0,hoost-marsh-1
+Erik Mayes,2004-10-02,4,Texas A&M,,Kansas State,W,2,10,5.0,0,erik-mayes-1
+Leodis McKelvin,2004-10-02,5,Troy,,Utah State,W,1,3,3.0,0,leodis-mckelvin-1
+Rhema McKnight,2004-10-02,5,Notre Dame,,Purdue,L,1,5,5.0,0,rhema-mcknight-1
+Daniel McLemore,2004-10-02,4,Oklahoma State,,Iowa State,W,1,-2,-2.0,0,daniel-mclemore-1
+Todd Miller,2004-10-02,4,Iowa State,@,Oklahoma State,L,2,4,2.0,0,todd-miller-1
+Tim Mixon,2004-10-02,3,California,@,Oregon State,W,3,33,11.0,0,tim-mixon-1
+Chris Moore,2004-10-02,4,East Carolina,@,Louisville,L,1,10,10.0,0,chris-moore-1
+Lance Moore,2004-10-02,5,Toledo,,Ball State,W,2,36,18.0,0,lance-moore-1
+Dominique Morris,2004-10-02,4,Vanderbilt,,Mississippi State,W,3,33,11.0,0,dominique-morris-1
+Tres Moses,2004-10-02,4,Rutgers,@,Syracuse,L,3,13,4.3,0,tres-moses-1
+Zach Muzzy,2004-10-02,5,North Texas,,Middle Tennessee State,W,1,11,11.0,0,zach-muzzy-1
+Steve Odom,2004-10-02,5,Toledo,,Ball State,W,1,-19,-19.0,0,steve-odom-1
+Thomson Omboga,2004-10-02,4,Missouri,,Colorado,W,2,0,0.0,0,thomson-omboga-1
+Carlos Ousley,2004-10-02,5,Arkansas,@,Florida,L,1,-5,-5.0,0,carlos-ousley-1
+Chad Owens,2004-10-02,3,Hawaii,,Tulsa,W,5,71,14.2,1,chad-owens-1
+Santino Panico,2004-10-02,4,Nebraska,,Kansas,W,3,8,2.7,0,santino-panico-1
+Roscoe Parrish,2004-10-02,4,Miami (FL),@,Georgia Tech,W,2,22,11.0,0,roscoe-parrish-1
+Ryan Patrick,2004-10-02,5,Ball State,@,Toledo,L,2,-3,-1.5,0,ryan-patrick-1
+Antonio Perkins,2004-10-02,4,Oklahoma,,Texas Tech,W,1,3,3.0,0,antonio-perkins-1
+Mark Philmore,2004-10-02,5,Northwestern,,Ohio State,W,2,23,11.5,0,mark-philmore-1
+Jarwarski Pollock,2004-10-02,5,North Carolina,@,Florida State,L,3,32,10.7,0,jarwarski-pollock-1
+Johnny Quinn,2004-10-02,5,North Texas,,Middle Tennessee State,W,1,2,2.0,0,johnny-quinn-1
+Trumaine Riley,2004-10-02,5,Eastern Michigan,,Idaho,L,3,28,9.3,0,trumaine-riley-1
+Kevin Robinson,2004-10-02,5,Utah State,@,Troy,L,4,132,33.0,1,kevin-robinson-1
+Stephone Robinson,2004-10-02,4,Colorado,@,Missouri,L,3,12,4.0,0,stephone-robinson-1
+Cory Rodgers,2004-10-02,5,Texas Christian,@,Army,W,4,32,8.0,0,cory-rodgers-1
+Alex Rosenblum,2004-10-02,5,Nevada,@,Nevada-Las Vegas,L,2,30,15.0,0,alex-rosenblum-1
+Aaron Ross,2004-10-02,4,Texas,,Baylor,W,1,11,11.0,0,aaron-ross-1
+Charles Sharon,2004-10-02,4,Bowling Green State,@,Temple,W,4,36,9.0,0,charles-sharon-1
+Dan Sheldon,2004-10-02,5,Northern Illinois,,Akron,W,2,81,40.5,1,dan-sheldon-1
+Steve Simonton,2004-10-02,4,Bowling Green State,@,Temple,W,1,33,33.0,0,steve-simonton-1
+Austin Smith,2004-10-02,5,Boise State,,Southern Methodist,W,3,29,9.7,0,austin-smith-1
+Jason Smith,2004-10-02,4,Central Michigan,,Kent State,W,1,5,5.0,0,jason-smith-1
+Darren Sproles,2004-10-02,4,Kansas State,@,Texas A&M,L,1,-1,-1.0,0,darren-sproles-1
+Ray Stith,2004-10-02,4,Army,,Texas Christian,L,1,4,4.0,0,ray-stith-1
+Sammie Stroughter,2004-10-02,5,Oregon State,,California,L,2,4,2.0,0,sammie-stroughter-1
+Joe Thaxton,2004-10-02,4,Florida State,,North Carolina,W,1,12,12.0,0,joe-thaxton-1
+Ricky Thomas,2004-10-02,5,Louisiana,@,Florida International,W,1,3,3.0,0,ricky-thomas-1
+Leon Washington,2004-10-02,4,Florida State,,North Carolina,W,1,3,3.0,0,leon-washington-1
+Darron White,2004-10-02,5,Memphis,,Houston,W,3,51,17.0,0,darron-white-1
+Noah Whiteside,2004-10-02,5,South Carolina,@,Alabama,W,1,0,0.0,0,noah-whiteside-1
+Marvin Young,2004-10-02,3,Southern Mississippi,@,South Florida,W,2,6,3.0,0,marvin-young-1
+Mialon Collins,2004-10-07,6,Houston,@,Southern Mississippi,L,2,16,8.0,0,mialon-collins-1
+Alvin Pearman,2004-10-07,5,Virginia,,Clemson,W,2,15,7.5,0,alvin-pearman-1
+Rocky Schwartz,2004-10-07,6,Houston,@,Southern Mississippi,L,1,2,2.0,0,rocky-schwartz-1
+Chansi Stuckey,2004-10-07,5,Clemson,@,Virginia,L,1,22,22.0,0,chansi-stuckey-1
+Marvin Young,2004-10-07,4,Southern Mississippi,,Houston,W,3,20,6.7,0,marvin-young-1
+Bryce Mahuika,2004-10-08,6,Brigham Young,,Nevada-Las Vegas,L,2,30,15.0,0,bryce-mahuika-1
+Donell Wheaton,2004-10-08,6,Nevada-Las Vegas,@,Brigham Young,W,2,13,6.5,0,donell-wheaton-1
+Danny Amendola,2004-10-09,6,Texas Tech,,Nebraska,W,4,24,6.0,0,danny-amendola-1
+Willie Andrews,2004-10-09,5,Baylor,,Missouri,L,2,19,9.5,0,willie-andrews-1
+Marion Barber III,2004-10-09,6,Minnesota,@,Michigan,L,2,11,5.5,0,marion-barber-iii-1
+Landel Bembo,2004-10-09,6,Syracuse,,Florida State,L,2,-4,-2.0,0,landel-bembo-1
+Lance Bennett,2004-10-09,6,Indiana,@,Northwestern,L,2,5,2.5,0,lance-bennett-1
+Ahmad Bradshaw,2004-10-09,5,Marshall,@,Ohio,W,3,21,7.0,0,ahmad-bradshaw-1
+Corey Brazil,2004-10-09,6,Louisiana Tech,@,Auburn,L,2,9,4.5,0,corey-brazil-1
+Steve Breaston,2004-10-09,6,Michigan,,Minnesota,W,2,1,0.5,0,steve-breaston-1
+Kyle Brown,2004-10-09,6,Michigan State,,Illinois,W,3,61,20.3,0,kyle-brown-2
+Michael Bumpus,2004-10-09,5,Washington State,,Oregon,L,2,54,27.0,1,michael-bumpus-1
+Jarrett Bush,2004-10-09,6,Utah State,,North Texas,L,3,38,12.7,0,jarrett-bush-1
+Dion Byrum,2004-10-09,6,Ohio,,Marshall,L,3,17,5.7,0,dion-byrum-1
+Tavaris Capers,2004-10-09,5,Central Florida,,Northern Illinois,L,2,14,7.0,0,tavaris-capers-1
+Patrick Carter,2004-10-09,5,Georgia Tech,@,Maryland,W,4,44,11.0,0,patrick-carter-1
+Kyle Conerly,2004-10-09,5,San Diego State,@,Wyoming,L,4,52,13.0,0,kyle-conerly-1
+Mike Daniels,2004-10-09,6,Cincinnati,@,Army,L,1,7,7.0,0,mike-daniels-1
+Silas Daniels,2004-10-09,6,Auburn,,Louisiana Tech,W,1,8,8.0,0,silas-daniels-1
+Chris Davis,2004-10-09,5,Florida State,@,Syracuse,W,3,-1,-0.3,0,chris-davis-2
+Dave Dawson,2004-10-09,6,Buffalo,@,Akron,L,3,-3,-1.0,0,dave-dawson-1
+Mason Denham,2004-10-09,5,Louisiana-Monroe,@,Idaho,W,5,33,6.6,0,mason-denham-1
+Ryan Eidson,2004-10-09,5,Arizona,@,UCLA,L,2,9,4.5,0,ryan-eidson-1
+Abram Elam,2004-10-09,6,Kent State,@,Miami (OH),L,4,37,9.3,0,abram-elam-1
+Prentiss Elliott,2004-10-09,5,Oklahoma State,@,Colorado,W,4,17,4.3,0,prentiss-elliott-1
+Martelius Epps,2004-10-09,6,New Mexico,@,Air Force,L,1,12,12.0,0,martelius-epps-1
+Mike Espy,2004-10-09,6,Mississippi,@,South Carolina,W,4,14,3.5,0,mike-espy-1
+Mike Falco,2004-10-09,5,Rice,,Southern Methodist,W,2,16,8.0,0,mike-falco-1
+Willie Foster,2004-10-09,5,Rutgers,@,Vanderbilt,W,1,36,36.0,0,willie-foster-1
+Ted Ginn Jr.,2004-10-09,5,Ohio State,,Wisconsin,L,2,72,36.0,1,ted-ginn-jr-1
+Phil Goodman,2004-10-09,6,Temple,,Pittsburgh,L,2,18,9.0,0,phil-goodman-1
+Charles Gordon,2004-10-09,6,Kansas,,Kansas State,W,3,54,18.0,0,charles-gordon-1
+Skyler Green,2004-10-09,6,Louisiana State,@,Florida,W,2,12,6.0,0,skyler-green-1
+Lee Guess,2004-10-09,6,Auburn,,Louisiana Tech,W,1,46,46.0,0,lee-guess-1
+Leon Hall,2004-10-09,6,Michigan,,Minnesota,W,3,26,8.7,0,leon-hall-1
+E.B. Halsey,2004-10-09,6,Illinois,@,Michigan State,L,1,3,3.0,0,eb-halsey-1
+Stevelan Harper,2004-10-09,6,New Mexico State,,Louisiana,W,1,1,1.0,0,stevelan-harper-1
+Jonathan Hefney,2004-10-09,5,Tennessee,@,Georgia,W,5,41,8.2,0,jonathan-hefney-1
+Chris Henry,2004-10-09,5,Middle Tennessee State,,Arkansas State,W,1,3,3.0,0,chris-henry-2
+Domenik Hixon,2004-10-09,6,Akron,,Buffalo,W,6,77,12.8,0,domenik-hixon-1
+Carlyle Holiday,2004-10-09,6,Notre Dame,,Stanford,W,2,2,1.0,0,carlyle-holiday-1
+Santonio Holmes,2004-10-09,5,Ohio State,,Wisconsin,L,2,4,2.0,0,santonio-holmes-1
+Chris Horton,2004-10-09,5,UCLA,,Arizona,W,1,13,13.0,0,chris-horton-1
+Willie Idlette,2004-10-09,6,Wake Forest,,Virginia Tech,L,2,13,6.5,0,willie-idlette-1
+Jemmy Jasmin,2004-10-09,5,Central Michigan,,Bowling Green State,L,1,4,4.0,0,jemmy-jasmin-1
+Adam Jennings,2004-10-09,5,Fresno State,,Texas-El Paso,L,8,21,2.6,0,adam-jennings-1
+Greg Jennings,2004-10-09,5,Western Michigan,,Toledo,L,1,6,6.0,0,greg-jennings-1
+Tim Jennings,2004-10-09,5,Georgia,,Tennessee,L,2,18,9.0,0,tim-jennings-1
+James Jones,2004-10-09,5,San Jose State,@,Washington,L,1,1,1.0,0,james-jones-3
+Cody Kase,2004-10-09,6,New Mexico,@,Air Force,L,1,12,12.0,0,cody-kase-1
+Jimmy Labita,2004-10-09,6,Idaho,,Louisiana-Monroe,L,6,44,7.3,0,jimmy-labita-1
+Jim Leonhard,2004-10-09,6,Wisconsin,@,Ohio State,W,3,18,6.0,0,jim-leonhard-1
+Reggie Lindsey,2004-10-09,5,Alabama-Birmingham,@,Mississippi State,W,2,75,37.5,1,reggie-lindsey-1
+Damien Linson,2004-10-09,5,Central Michigan,,Bowling Green State,L,1,0,0.0,0,damien-linson-1
+Jonathan Lowe,2004-10-09,6,Mississippi State,,Alabama-Birmingham,L,3,8,2.7,0,jonathan-lowe-1
+Calvin Lowry,2004-10-09,6,Penn State,,Purdue,L,1,6,6.0,0,calvin-lowry-1
+Dicky Lyons,2004-10-09,5,Kentucky,,Alabama,L,1,8,8.0,0,dicky-lyons-1
+Anthony Madison,2004-10-09,6,Alabama,@,Kentucky,W,1,15,15.0,0,anthony-madison-1
+David Marrero,2004-10-09,5,Stanford,@,Notre Dame,L,4,22,5.5,0,david-marrero-1
+Hoost Marsh,2004-10-09,5,Wyoming,,San Diego State,W,3,-4,-1.3,0,hoost-marsh-1
+Erik Mayes,2004-10-09,5,Texas A&M,@,Iowa State,W,2,2,1.0,0,erik-mayes-1
+Todd Miller,2004-10-09,5,Iowa State,,Texas A&M,L,1,1,1.0,0,todd-miller-1
+Kevin Mitchell,2004-10-09,6,Illinois,@,Michigan State,L,1,32,32.0,0,kevin-mitchell-1
+Tim Mixon,2004-10-09,4,California,@,Southern California,L,2,6,3.0,0,tim-mixon-1
+Lance Moore,2004-10-09,6,Toledo,@,Western Michigan,W,1,20,20.0,0,lance-moore-1
+Dominique Morris,2004-10-09,5,Vanderbilt,,Rutgers,L,1,7,7.0,0,dominique-morris-1
+Thomson Omboga,2004-10-09,5,Missouri,@,Baylor,W,3,15,5.0,0,thomson-omboga-1
+Chad Owens,2004-10-09,4,Hawaii,,Nevada,W,3,80,26.7,1,chad-owens-1
+Jarrad Page,2004-10-09,5,UCLA,,Arizona,W,1,15,15.0,0,jarrad-page-1
+Santino Panico,2004-10-09,5,Nebraska,@,Texas Tech,L,3,12,4.0,0,santino-panico-1
+Brandon Payne,2004-10-09,6,New Mexico,@,Air Force,L,3,9,3.0,0,brandon-payne-1
+Antonio Perkins,2004-10-09,5,Oklahoma,N,Texas,W,3,19,6.3,0,antonio-perkins-1
+Mark Philmore,2004-10-09,6,Northwestern,,Indiana,W,3,48,16.0,0,mark-philmore-1
+Justin Phinisee,2004-10-09,5,Oregon,@,Washington State,W,4,30,7.5,0,justin-phinisee-1
+Troy Pindell,2004-10-09,4,Florida Atlantic,@,Texas State,W,1,29,29.0,0,troy-pindell-1
+Jarwarski Pollock,2004-10-09,6,North Carolina,,North Carolina State,W,1,9,9.0,0,jarwarski-pollock-1
+Chad Price,2004-10-09,5,Rice,,Southern Methodist,W,1,2,2.0,0,chad-price-1
+Allen Richardson,2004-10-09,5,Pittsburgh,@,Temple,W,5,28,5.6,0,allen-richardson-1
+Trumaine Riley,2004-10-09,6,Eastern Michigan,@,Ball State,W,2,8,4.0,0,trumaine-riley-1
+Dominic Robinson,2004-10-09,5,Florida State,@,Syracuse,W,1,6,6.0,0,dominic-robinson-1
+Kevin Robinson,2004-10-09,6,Utah State,,North Texas,L,2,114,57.0,1,kevin-robinson-1
+Ryne Robinson,2004-10-09,6,Miami (OH),,Kent State,W,2,30,15.0,0,ryne-robinson-1
+Stephone Robinson,2004-10-09,5,Colorado,,Oklahoma State,L,4,23,5.8,0,stephone-robinson-1
+Alex Rosenblum,2004-10-09,6,Nevada,@,Hawaii,L,2,39,19.5,0,alex-rosenblum-1
+Eddie Royal,2004-10-09,6,Virginia Tech,@,Wake Forest,W,3,37,12.3,0,eddie-royal-1
+Charles Sharon,2004-10-09,5,Bowling Green State,@,Central Michigan,W,3,17,5.7,0,charles-sharon-1
+Dan Sheldon,2004-10-09,6,Northern Illinois,@,Central Florida,W,1,34,34.0,0,dan-sheldon-1
+Fred Smith,2004-10-09,4,Tulane,@,East Carolina,L,5,67,13.4,0,fred-smith-2
+Emmanuel Spann,2004-10-09,5,Marshall,@,Ohio,W,2,26,13.0,0,emmanuel-spann-1
+Darren Sproles,2004-10-09,5,Kansas State,@,Kansas,L,3,5,1.7,0,darren-sproles-1
+Ray Stith,2004-10-09,5,Army,,Cincinnati,W,1,4,4.0,0,ray-stith-1
+Taylor Stubblefield,2004-10-09,5,Purdue,@,Penn State,W,3,22,7.3,0,taylor-stubblefield-1
+Steve Suter,2004-10-09,5,Maryland,,Georgia Tech,L,3,24,8.0,0,steve-suter-1
+Chris Sutton,2004-10-09,6,Air Force,,New Mexico,W,1,8,8.0,0,chris-sutton-1
+Brittney Tellis,2004-10-09,4,Florida Atlantic,@,Texas State,W,1,8,8.0,0,brittney-tellis-1
+Bubba Terranova,2004-10-09,4,Tulane,@,East Carolina,L,1,4,4.0,0,bubba-terranova-1
+Blake Warren,2004-10-09,6,Southern Methodist,@,Rice,L,1,3,3.0,0,blake-warren-1
+Noah Whiteside,2004-10-09,6,South Carolina,,Mississippi,L,1,3,3.0,0,noah-whiteside-1
+Carnell Williams,2004-10-09,6,Auburn,,Louisiana Tech,W,2,62,31.0,0,carnell-williams-1
+Travis Williams,2004-10-09,5,East Carolina,,Tulane,W,5,98,19.6,0,travis-williams-1
+Jason Wood,2004-10-09,6,Arkansas State,@,Middle Tennessee State,L,2,17,8.5,0,jason-wood-1
+Kerry Wright,2004-10-09,5,Middle Tennessee State,,Arkansas State,W,1,0,0.0,0,kerry-wright-1
+Adam Jones,2004-10-13,6,West Virginia,@,Connecticut,W,3,20,6.7,0,adam-jones-1
+Larry Taylor,2004-10-13,6,Connecticut,,West Virginia,L,1,9,9.0,0,larry-taylor-1
+Devin Hester,2004-10-14,5,Miami (FL),,Louisville,W,3,89,29.7,1,devin-hester-1
+Montrell Jones,2004-10-14,5,Louisville,@,Miami (FL),L,3,4,1.3,0,montrell-jones-1
+Roscoe Parrish,2004-10-14,5,Miami (FL),,Louisville,W,1,5,5.0,0,roscoe-parrish-1
+Reggie Lindsey,2004-10-15,6,Alabama-Birmingham,,Texas Christian,W,1,9,9.0,0,reggie-lindsey-1
+Gaines Adams,2004-10-16,6,Clemson,,Utah State,W,1,14,14.0,0,gaines-adams-1
+Grant Adams,2004-10-16,6,Boston College,@,Pittsburgh,L,1,3,3.0,0,grant-adams-1
+Corey Anderson,2004-10-16,6,Army,@,South Florida,W,1,5,5.0,0,corey-anderson-2
+David Anderson,2004-10-16,6,Colorado State,@,San Diego State,W,1,-2,-2.0,0,david-anderson-1
+Willie Andrews,2004-10-16,6,Baylor,@,Nebraska,L,3,4,1.3,0,willie-andrews-1
+Walner Belleus,2004-10-16,6,Iowa,,Ohio State,W,6,62,10.3,0,walner-belleus-1
+Decori Birmingham,2004-10-16,6,Arkansas,@,Auburn,L,1,2,2.0,0,decori-birmingham-1
+Will Blackmon,2004-10-16,6,Boston College,@,Pittsburgh,L,1,5,5.0,0,will-blackmon-1
+Ahmad Bradshaw,2004-10-16,6,Marshall,@,Kent State,W,1,15,15.0,0,ahmad-bradshaw-1
+Corey Brazil,2004-10-16,7,Louisiana Tech,@,Southern Methodist,W,1,0,0.0,0,corey-brazil-1
+Steve Breaston,2004-10-16,7,Michigan,@,Illinois,W,2,14,7.0,0,steve-breaston-1
+Brandon Brooks,2004-10-16,7,Alabama,,Southern Mississippi,W,6,66,11.0,0,brandon-brooks-2
+Kyle Brown,2004-10-16,7,Michigan State,,Minnesota,W,3,-6,-2.0,0,kyle-brown-2
+Tim Brown,2004-10-16,7,Temple,@,Rutgers,L,1,-1,-1.0,0,tim-brown-2
+Vernell Brown,2004-10-16,6,Florida,,Middle Tennessee State,W,1,9,9.0,0,vernell-brown-1
+Michael Bumpus,2004-10-16,6,Washington State,,Stanford,L,5,77,15.4,0,michael-bumpus-1
+Rudy Burgess,2004-10-16,6,Arizona State,@,Southern California,L,1,8,8.0,0,rudy-burgess-1
+Reggie Bush,2004-10-16,6,Southern California,,Arizona State,W,2,49,24.5,0,reggie-bush-1
+Dion Byrum,2004-10-16,7,Ohio,@,Toledo,L,1,-9,-9.0,0,dion-byrum-1
+Deshan Cabaong,2004-10-16,6,Boise State,@,Tulsa,W,1,33,33.0,0,deshan-cabaong-1
+Tavaris Capers,2004-10-16,6,Central Florida,,Akron,L,3,18,6.0,0,tavaris-capers-1
+Jerrell Carter,2004-10-16,7,Louisiana,@,Idaho,L,2,33,16.5,0,jerrell-carter-1
+Patrick Carter,2004-10-16,6,Georgia Tech,,Duke,W,2,32,16.0,0,patrick-carter-1
+Donte Cloud,2004-10-16,7,Akron,@,Central Florida,W,1,0,0.0,0,donte-cloud-1
+Kyle Conerly,2004-10-16,6,San Diego State,,Colorado State,L,5,37,7.4,0,kyle-conerly-1
+Jake Cunningham,2004-10-16,6,Purdue,,Wisconsin,L,3,15,5.0,0,jake-cunningham-1
+Dave Dawson,2004-10-16,7,Buffalo,,Miami (OH),L,1,0,0.0,0,dave-dawson-1
+Mason Denham,2004-10-16,6,Louisiana-Monroe,,Florida International,W,4,14,3.5,0,mason-denham-1
+Maurice Drew,2004-10-16,6,UCLA,@,California,L,2,10,5.0,0,maurice-drew-1
+D.J. Dykes,2004-10-16,7,Idaho,,Louisiana,W,1,10,10.0,0,dj-dykes-1
+Dovonte Edwards,2004-10-16,6,North Carolina State,@,Maryland,W,1,4,4.0,0,dovonte-edwards-1
+Abram Elam,2004-10-16,7,Kent State,,Marshall,L,1,7,7.0,0,abram-elam-1
+Prentiss Elliott,2004-10-16,6,Oklahoma State,,Texas A&M,L,2,-1,-0.5,0,prentiss-elliott-1
+Mike Espy,2004-10-16,7,Mississippi,,Tennessee,L,3,22,7.3,0,mike-espy-1
+John Eubanks,2004-10-16,5,Southern Mississippi,@,Alabama,L,1,3,3.0,0,john-eubanks-1
+Mike Falco,2004-10-16,6,Rice,@,Nevada,L,1,10,10.0,0,mike-falco-1
+Jahmal Fenner,2004-10-16,6,Texas-El Paso,,Hawaii,W,3,49,16.3,0,jahmal-fenner-1
+Yamon Figurs,2004-10-16,6,Kansas State,,Oklahoma,L,3,7,2.3,0,yamon-figurs-1
+Thomas Flowers,2004-10-16,6,Georgia,,Vanderbilt,W,1,18,18.0,0,thomas-flowers-1
+Wilrey Fontenot,2004-10-16,6,Arizona,@,Oregon,L,1,3,3.0,0,wilrey-fontenot-1
+Willie Foster,2004-10-16,6,Rutgers,,Temple,W,1,7,7.0,0,willie-foster-1
+Charles Frederick,2004-10-16,6,Washington,,Oregon State,L,2,11,5.5,0,charles-frederick-1
+Tim Galloway,2004-10-16,6,Washington,,Oregon State,L,1,12,12.0,0,tim-galloway-1
+Ted Ginn Jr.,2004-10-16,6,Ohio State,@,Iowa,L,1,8,8.0,0,ted-ginn-jr-1
+Phil Goodman,2004-10-16,7,Temple,@,Rutgers,L,1,5,5.0,0,phil-goodman-1
+Tramain Hall,2004-10-16,6,North Carolina State,@,Maryland,W,2,18,9.0,0,tramain-hall-1
+Jonathan Hefney,2004-10-16,6,Tennessee,@,Mississippi,W,1,0,0.0,0,jonathan-hefney-1
+Terrance Highsmith,2004-10-16,6,Iowa State,@,Colorado,L,5,57,11.4,0,terrance-highsmith-1
+Carlyle Holiday,2004-10-16,7,Notre Dame,N,Navy,W,3,1,0.3,0,carlyle-holiday-1
+Mike Imoh,2004-10-16,7,Virginia Tech,,Florida A&M,W,3,40,13.3,0,mike-imoh-1
+Chad Jackson,2004-10-16,6,Florida,,Middle Tennessee State,W,2,11,5.5,0,chad-jackson-1
+Erick Jackson,2004-10-16,7,Nevada-Las Vegas,,New Mexico,L,1,6,6.0,0,erick-jackson-1
+Greg Jennings,2004-10-16,6,Western Michigan,,Eastern Michigan,L,3,9,3.0,0,greg-jennings-1
+Jimmy Labita,2004-10-16,7,Idaho,,Louisiana,W,1,0,0.0,0,jimmy-labita-1
+Jermaine Landrum,2004-10-16,6,Tulsa,,Boise State,L,1,10,10.0,0,jermaine-landrum-1
+Jim Leonhard,2004-10-16,7,Wisconsin,@,Purdue,W,1,4,4.0,0,jim-leonhard-1
+Travis Lipp,2004-10-16,5,South Florida,,Army,L,3,14,4.7,0,travis-lipp-1
+Bryce Mahuika,2004-10-16,7,Brigham Young,,Wyoming,W,2,4,2.0,0,bryce-mahuika-1
+David Marrero,2004-10-16,6,Stanford,@,Washington State,W,2,4,2.0,0,david-marrero-1
+Hoost Marsh,2004-10-16,6,Wyoming,@,Brigham Young,L,4,67,16.8,0,hoost-marsh-1
+Grady Marshall,2004-10-16,6,Utah,,North Carolina,W,1,20,20.0,0,grady-marshall-1
+Erik Mayes,2004-10-16,6,Texas A&M,@,Oklahoma State,W,1,5,5.0,0,erik-mayes-1
+Leodis McKelvin,2004-10-16,6,Troy,@,Arkansas State,L,3,11,3.7,0,leodis-mckelvin-1
+Daniel McLemore,2004-10-16,6,Oklahoma State,,Texas A&M,L,1,1,1.0,0,daniel-mclemore-1
+Justin Miller,2004-10-16,6,Clemson,,Utah State,W,4,86,21.5,0,justin-miller-1
+Todd Miller,2004-10-16,6,Iowa State,@,Colorado,L,1,1,1.0,0,todd-miller-1
+Tim Mixon,2004-10-16,5,California,,UCLA,W,1,5,5.0,0,tim-mixon-1
+Lance Moore,2004-10-16,7,Toledo,,Ohio,W,2,13,6.5,0,lance-moore-1
+Damon Morton,2004-10-16,6,Colorado State,@,San Diego State,W,1,6,6.0,0,damon-morton-1
+Keon Newson,2004-10-16,6,Bowling Green State,,Ball State,W,1,0,0.0,0,keon-newson-1
+Thomson Omboga,2004-10-16,6,Missouri,@,Texas,L,1,6,6.0,0,thomson-omboga-1
+Chad Owens,2004-10-16,5,Hawaii,@,Texas-El Paso,L,2,-14,-7.0,0,chad-owens-1
+Jarrad Page,2004-10-16,6,UCLA,@,California,L,1,34,34.0,0,jarrad-page-1
+Brandon Payne,2004-10-16,7,New Mexico,@,Nevada-Las Vegas,W,3,10,3.3,0,brandon-payne-1
+Alvin Pearman,2004-10-16,6,Virginia,@,Florida State,L,2,28,14.0,0,alvin-pearman-1
+Justin Phinisee,2004-10-16,6,Oregon,,Arizona,W,4,90,22.5,0,justin-phinisee-1
+Jejuan Rankins,2004-10-16,6,Oklahoma,@,Kansas State,W,3,30,10.0,0,jejuan-rankins-1
+Jay Reid,2004-10-16,6,Georgia Tech,,Duke,W,1,1,1.0,0,jay-reid-1
+Willie Reid,2004-10-16,6,Florida State,,Virginia,W,4,53,13.3,0,willie-reid-1
+Allen Richardson,2004-10-16,6,Pittsburgh,,Boston College,W,4,20,5.0,0,allen-richardson-1
+Trumaine Riley,2004-10-16,7,Eastern Michigan,@,Western Michigan,W,1,4,4.0,0,trumaine-riley-1
+Dominic Robinson,2004-10-16,6,Florida State,,Virginia,W,1,-2,-2.0,0,dominic-robinson-1
+Kevin Robinson,2004-10-16,7,Utah State,@,Clemson,L,2,1,0.5,0,kevin-robinson-1
+Ryne Robinson,2004-10-16,7,Miami (OH),@,Buffalo,W,1,2,2.0,0,ryne-robinson-1
+Stephone Robinson,2004-10-16,6,Colorado,,Iowa State,W,4,43,10.8,0,stephone-robinson-1
+Alex Rosenblum,2004-10-16,7,Nevada,,Rice,W,1,13,13.0,0,alex-rosenblum-1
+Aaron Ross,2004-10-16,6,Texas,,Missouri,W,2,6,3.0,0,aaron-ross-1
+Cory Ross,2004-10-16,6,Nebraska,,Baylor,W,2,17,8.5,0,cory-ross-1
+Agim Shabaj,2004-10-16,7,Michigan State,,Minnesota,W,1,8,8.0,0,agim-shabaj-1
+Charles Sharon,2004-10-16,6,Bowling Green State,,Ball State,W,1,5,5.0,0,charles-sharon-1
+Dan Sheldon,2004-10-16,7,Northern Illinois,,Central Michigan,W,1,16,16.0,0,dan-sheldon-1
+Steve Simonton,2004-10-16,6,Bowling Green State,,Ball State,W,1,6,6.0,0,steve-simonton-1
+Ernie Sims,2004-10-16,6,Florida State,,Virginia,W,1,17,17.0,0,ernie-sims-1
+Austin Smith,2004-10-16,6,Boise State,@,Tulsa,W,2,13,6.5,0,austin-smith-1
+Fred Smith,2004-10-16,5,Tulane,@,Memphis,L,1,11,11.0,0,fred-smith-2
+Emmanuel Spann,2004-10-16,6,Marshall,@,Kent State,W,1,28,28.0,0,emmanuel-spann-1
+Sammie Stroughter,2004-10-16,6,Oregon State,@,Washington,W,3,0,0.0,0,sammie-stroughter-1
+Demetris Summers,2004-10-16,7,South Carolina,@,Kentucky,W,1,4,4.0,0,demetris-summers-1
+Steve Suter,2004-10-16,6,Maryland,,North Carolina State,L,2,10,5.0,0,steve-suter-1
+Brittney Tellis,2004-10-16,5,Florida Atlantic,@,Northern Colorado,W,2,21,10.5,0,brittney-tellis-1
+Ricky Thomas,2004-10-16,7,Louisiana,@,Idaho,L,2,6,3.0,0,ricky-thomas-1
+Derrick Tinsley,2004-10-16,6,Tennessee,@,Mississippi,W,2,9,4.5,0,derrick-tinsley-1
+Jason Tomlinson,2004-10-16,6,Navy,N,Notre Dame,L,3,28,9.3,0,jason-tomlinson-1
+Blake Warren,2004-10-16,7,Southern Methodist,,Louisiana Tech,L,1,9,9.0,0,blake-warren-1
+Richard Washington,2004-10-16,6,North Carolina State,@,Maryland,W,1,6,6.0,0,richard-washington-1
+Eric Weddle,2004-10-16,6,Utah,,North Carolina,W,1,3,3.0,0,eric-weddle-1
+Donell Wheaton,2004-10-16,7,Nevada-Las Vegas,,New Mexico,L,3,3,1.0,0,donell-wheaton-1
+Darron White,2004-10-16,6,Memphis,,Tulane,W,5,92,18.4,1,darron-white-1
+Noah Whiteside,2004-10-16,7,South Carolina,@,Kentucky,W,1,-1,-1.0,0,noah-whiteside-1
+Carnell Williams,2004-10-16,7,Auburn,,Arkansas,W,2,21,10.5,0,carnell-williams-1
+Jimmy Williams,2004-10-16,7,Virginia Tech,,Florida A&M,W,1,14,14.0,0,jimmy-williams-2
+Jason Wood,2004-10-16,7,Arkansas State,,Troy,W,4,27,6.8,0,jason-wood-1
+Brad Young,2004-10-16,7,Ohio,@,Toledo,L,1,9,9.0,0,brad-young-1
+Landel Bembo,2004-10-21,7,Syracuse,@,West Virginia,L,1,6,6.0,0,landel-bembo-1
+Marcus Clayton,2004-10-21,7,Syracuse,@,West Virginia,L,2,7,3.5,0,marcus-clayton-1
+Adam Jones,2004-10-21,7,West Virginia,,Syracuse,W,1,10,10.0,0,adam-jones-1
+Thandi Smith,2004-10-21,7,West Virginia,,Syracuse,W,1,13,13.0,0,thandi-smith-1
+David Anderson,2004-10-22,7,Colorado State,,Wyoming,W,1,-1,-1.0,0,david-anderson-1
+Jackie Chambers,2004-10-22,6,South Florida,@,Louisville,L,2,19,9.5,0,jackie-chambers-1
+Montrell Jones,2004-10-22,6,Louisville,,South Florida,W,4,35,8.8,0,montrell-jones-1
+Hoost Marsh,2004-10-22,7,Wyoming,@,Colorado State,L,3,32,10.7,0,hoost-marsh-1
+Damon Morton,2004-10-22,7,Colorado State,,Wyoming,W,1,7,7.0,0,damon-morton-1
+Danny Amendola,2004-10-23,7,Texas Tech,,Texas,L,1,0,0.0,0,danny-amendola-1
+Willie Andrews,2004-10-23,7,Baylor,,Iowa State,L,5,38,7.6,0,willie-andrews-1
+Marion Barber III,2004-10-23,8,Minnesota,,Illinois,W,1,6,6.0,0,marion-barber-iii-1
+Walner Belleus,2004-10-23,7,Iowa,@,Penn State,W,1,13,13.0,0,walner-belleus-1
+Lance Bennett,2004-10-23,7,Indiana,@,Ohio State,L,1,0,0.0,0,lance-bennett-1
+Yvenson Bernard,2004-10-23,7,Oregon State,,Washington State,W,1,9,9.0,0,yvenson-bernard-1
+Decori Birmingham,2004-10-23,7,Arkansas,,Georgia,L,2,16,8.0,0,decori-birmingham-1
+Ahmad Bradshaw,2004-10-23,7,Marshall,,Buffalo,W,1,40,40.0,0,ahmad-bradshaw-1
+Corey Brazil,2004-10-23,8,Louisiana Tech,,Texas-El Paso,L,3,2,0.7,0,corey-brazil-1
+Steve Breaston,2004-10-23,8,Michigan,@,Purdue,W,3,54,18.0,0,steve-breaston-1
+Brandon Brooks,2004-10-23,8,Alabama,@,Tennessee,L,1,5,5.0,0,brandon-brooks-2
+Tim Brown,2004-10-23,8,Temple,@,Connecticut,L,1,18,18.0,0,tim-brown-2
+Dorien Bryant,2004-10-23,7,Purdue,,Michigan,L,1,13,13.0,0,dorien-bryant-1
+Jonas Buckles,2004-10-23,7,North Texas,,New Mexico State,W,1,23,23.0,0,jonas-buckles-1
+Michael Bumpus,2004-10-23,7,Washington State,@,Oregon State,L,1,0,0.0,0,michael-bumpus-1
+Rudy Burgess,2004-10-23,7,Arizona State,,UCLA,W,2,-5,-2.5,0,rudy-burgess-1
+Reggie Bush,2004-10-23,7,Southern California,,Washington,W,1,30,30.0,0,reggie-bush-1
+Lance Byrd,2004-10-23,7,Rice,@,Navy,L,1,0,0.0,0,lance-byrd-1
+Dion Byrum,2004-10-23,8,Ohio,,Bowling Green State,L,2,4,2.0,0,dion-byrum-1
+Tavaris Capers,2004-10-23,7,Central Florida,@,Miami (OH),L,1,9,9.0,0,tavaris-capers-1
+Greig Carlson,2004-10-23,7,Southern California,,Washington,W,1,1,1.0,0,greig-carlson-1
+Jerrell Carter,2004-10-23,8,Louisiana,,Arkansas State,W,2,1,0.5,0,jerrell-carter-1
+Bam Childress,2004-10-23,7,Ohio State,,Indiana,W,1,2,2.0,0,bam-childress-1
+Craig Chisholm,2004-10-23,7,Marshall,,Buffalo,W,1,17,17.0,0,craig-chisholm-1
+Ivan Clark,2004-10-23,7,Marshall,,Buffalo,W,1,10,10.0,0,ivan-clark-1
+Mialon Collins,2004-10-23,7,Houston,@,Texas Christian,L,2,17,8.5,0,mialon-collins-1
+Kyle Conerly,2004-10-23,7,San Diego State,@,New Mexico,L,3,27,9.0,0,kyle-conerly-1
+Chip Cox,2004-10-23,8,Ohio,,Bowling Green State,L,1,11,11.0,0,chip-cox-1
+Jake Cunningham,2004-10-23,7,Purdue,,Michigan,L,3,15,5.0,0,jake-cunningham-1
+Mike Daniels,2004-10-23,7,Cincinnati,,Memphis,W,3,66,22.0,0,mike-daniels-1
+Silas Daniels,2004-10-23,8,Auburn,,Kentucky,W,2,6,3.0,0,silas-daniels-1
+Chris Davis,2004-10-23,7,Duke,,Virginia,L,1,3,3.0,0,chris-davis-1
+Tramissian Davis,2004-10-23,8,Louisiana Tech,,Texas-El Paso,L,1,8,8.0,0,tramissian-davis-1
+Dave Dawson,2004-10-23,8,Buffalo,@,Marshall,L,1,5,5.0,0,dave-dawson-1
+Mason Denham,2004-10-23,7,Louisiana-Monroe,@,Florida Atlantic,W,3,22,7.3,0,mason-denham-1
+Dominique Dorsey,2004-10-23,8,Nevada-Las Vegas,@,Utah,L,1,1,1.0,0,dominique-dorsey-1
+Maurice Drew,2004-10-23,7,UCLA,@,Arizona State,L,1,19,19.0,0,maurice-drew-1
+D.J. Dykes,2004-10-23,8,Idaho,@,Middle Tennessee State,L,1,13,13.0,0,dj-dykes-1
+Ryan Eidson,2004-10-23,7,Arizona,,California,L,1,35,35.0,0,ryan-eidson-1
+Marculus Elliott,2004-10-23,7,Alabama-Birmingham,@,Tulane,L,1,12,12.0,0,marculus-elliott-1
+Prentiss Elliott,2004-10-23,7,Oklahoma State,@,Missouri,W,1,1,1.0,0,prentiss-elliott-1
+John Eubanks,2004-10-23,6,Southern Mississippi,,East Carolina,W,3,48,16.0,0,john-eubanks-1
+Jahmal Fenner,2004-10-23,7,Texas-El Paso,@,Louisiana Tech,W,3,70,23.3,0,jahmal-fenner-1
+Yamon Figurs,2004-10-23,7,Kansas State,,Nebraska,W,3,31,10.3,0,yamon-figurs-1
+Thomas Flowers,2004-10-23,7,Georgia,@,Arkansas,W,3,8,2.7,0,thomas-flowers-1
+Wilrey Fontenot,2004-10-23,7,Arizona,,California,L,2,24,12.0,0,wilrey-fontenot-1
+Willie Foster,2004-10-23,7,Rutgers,@,Pittsburgh,L,2,13,6.5,0,willie-foster-1
+Gabriel Fulbright,2004-10-23,8,New Mexico,,San Diego State,W,2,19,9.5,0,gabriel-fulbright-1
+Ted Ginn Jr.,2004-10-23,7,Ohio State,,Indiana,W,1,1,1.0,0,ted-ginn-jr-1
+Charles Gordon,2004-10-23,7,Kansas,@,Oklahoma,L,3,6,2.0,0,charles-gordon-1
+Skyler Green,2004-10-23,7,Louisiana State,,Troy,W,4,6,1.5,0,skyler-green-1
+Lee Guess,2004-10-23,8,Auburn,,Kentucky,W,3,17,5.7,0,lee-guess-1
+Tramain Hall,2004-10-23,7,North Carolina State,,Miami (FL),L,1,5,5.0,0,tramain-hall-1
+E.B. Halsey,2004-10-23,8,Illinois,@,Minnesota,L,1,10,10.0,0,eb-halsey-1
+Trumaine Hardman,2004-10-23,7,Louisiana-Monroe,@,Florida Atlantic,W,1,0,0.0,0,trumaine-hardman-1
+Stevelan Harper,2004-10-23,7,New Mexico State,@,North Texas,L,1,7,7.0,0,stevelan-harper-1
+Jerome Harrison,2004-10-23,7,Washington State,@,Oregon State,L,1,13,13.0,0,jerome-harrison-1
+Devin Hester,2004-10-23,6,Miami (FL),@,North Carolina State,W,2,-3,-1.5,0,devin-hester-1
+Terrance Highsmith,2004-10-23,7,Iowa State,@,Baylor,W,1,2,2.0,0,terrance-highsmith-1
+Ed Hinkel,2004-10-23,7,Iowa,@,Penn State,W,3,31,10.3,0,ed-hinkel-1
+Domenik Hixon,2004-10-23,8,Akron,,Ball State,W,3,117,39.0,1,domenik-hixon-1
+Carlyle Holiday,2004-10-23,8,Notre Dame,,Boston College,L,4,34,8.5,0,carlyle-holiday-1
+David Holloway,2004-10-23,7,Maryland,@,Clemson,L,1,12,12.0,0,david-holloway-1
+Santonio Holmes,2004-10-23,7,Ohio State,,Indiana,W,1,22,22.0,0,santonio-holmes-1
+Willie Idlette,2004-10-23,7,Wake Forest,,Florida State,L,6,3,0.5,0,willie-idlette-1
+Chad Jackson,2004-10-23,7,Florida,@,Mississippi State,L,3,6,2.0,0,chad-jackson-1
+Howard Jackson,2004-10-23,7,Texas-El Paso,@,Louisiana Tech,W,1,9,9.0,0,howard-jackson-1
+Adam Jennings,2004-10-23,6,Fresno State,@,Boise State,L,3,55,18.3,0,adam-jennings-1
+Greg Jennings,2004-10-23,7,Western Michigan,,Northern Illinois,L,3,112,37.3,1,greg-jennings-1
+Donnie Johnson,2004-10-23,7,Penn State,,Iowa,L,1,0,0.0,0,donnie-johnson-1
+Damien Jones,2004-10-23,7,Indiana,@,Ohio State,L,1,11,11.0,0,damien-jones-1
+Orlando Kane,2004-10-23,7,Rutgers,@,Pittsburgh,L,1,7,7.0,0,orlando-kane-1
+Billy Kinsey,2004-10-23,7,Utah,,Nevada-Las Vegas,W,1,29,29.0,0,billy-kinsey-1
+Jermaine Landrum,2004-10-23,7,Tulsa,@,Nevada,L,2,-1,-0.5,0,jermaine-landrum-1
+Jim Leonhard,2004-10-23,8,Wisconsin,,Northwestern,W,3,15,5.0,0,jim-leonhard-1
+Reggie Lindsey,2004-10-23,7,Alabama-Birmingham,@,Tulane,L,3,31,10.3,0,reggie-lindsey-1
+Jonathan Lowe,2004-10-23,7,Mississippi State,,Florida,W,1,73,73.0,1,jonathan-lowe-1
+Calvin Lowry,2004-10-23,7,Penn State,,Iowa,L,3,44,14.7,0,calvin-lowry-1
+Dicky Lyons,2004-10-23,7,Kentucky,@,Auburn,L,2,7,3.5,0,dicky-lyons-1
+Bryce Mahuika,2004-10-23,8,Brigham Young,@,Air Force,W,1,1,1.0,0,bryce-mahuika-1
+Grady Marshall,2004-10-23,7,Utah,,Nevada-Las Vegas,W,1,11,11.0,0,grady-marshall-1
+Erik Mayes,2004-10-23,7,Texas A&M,,Colorado,W,2,18,9.0,0,erik-mayes-1
+Leodis McKelvin,2004-10-23,7,Troy,@,Louisiana State,L,1,9,9.0,0,leodis-mckelvin-1
+Brandon McLean,2004-10-23,7,Connecticut,,Temple,W,1,5,5.0,0,brandon-mclean-1
+Justin Miller,2004-10-23,7,Clemson,,Maryland,W,4,51,12.8,0,justin-miller-1
+Tim Mixon,2004-10-23,6,California,@,Arizona,W,3,61,20.3,0,tim-mixon-1
+Lance Moore,2004-10-23,8,Toledo,,Central Michigan,W,2,82,41.0,1,lance-moore-1
+Tres Moses,2004-10-23,7,Rutgers,@,Pittsburgh,L,1,-1,-1.0,0,tres-moses-1
+Thomson Omboga,2004-10-23,7,Missouri,,Oklahoma State,L,1,8,8.0,0,thomson-omboga-1
+Chad Owens,2004-10-23,6,Hawaii,,San Jose State,W,3,95,31.7,1,chad-owens-1
+Santino Panico,2004-10-23,7,Nebraska,@,Kansas State,L,2,0,0.0,0,santino-panico-1
+Ryan Patrick,2004-10-23,8,Ball State,@,Akron,L,2,1,0.5,0,ryan-patrick-1
+Mark Philmore,2004-10-23,7,Northwestern,@,Wisconsin,L,1,10,10.0,0,mark-philmore-1
+Justin Phinisee,2004-10-23,7,Oregon,@,Stanford,W,3,20,6.7,0,justin-phinisee-1
+Dennis Pitta,2004-10-23,8,Brigham Young,@,Air Force,W,1,18,18.0,0,dennis-pitta-1
+Johnny Quinn,2004-10-23,7,North Texas,,New Mexico State,W,1,1,1.0,0,johnny-quinn-1
+Daniel Ramirez,2004-10-23,8,New Mexico,,San Diego State,W,1,0,0.0,0,daniel-ramirez-1
+Jejuan Rankins,2004-10-23,7,Oklahoma,,Kansas,W,6,27,4.5,0,jejuan-rankins-1
+Willie Reid,2004-10-23,7,Florida State,@,Wake Forest,W,4,73,18.3,0,willie-reid-1
+Allen Richardson,2004-10-23,7,Pittsburgh,,Rutgers,W,1,15,15.0,0,allen-richardson-1
+Ryne Robinson,2004-10-23,8,Miami (OH),,Central Florida,W,6,65,10.8,0,ryne-robinson-1
+Stephone Robinson,2004-10-23,7,Colorado,@,Texas A&M,L,2,33,16.5,0,stephone-robinson-1
+Cory Rodgers,2004-10-23,7,Texas Christian,,Houston,W,2,18,9.0,0,cory-rodgers-1
+Alex Rosenblum,2004-10-23,8,Nevada,,Tulsa,W,2,6,3.0,0,alex-rosenblum-1
+Charles Sharon,2004-10-23,7,Bowling Green State,@,Ohio,W,3,9,3.0,0,charles-sharon-1
+Dan Sheldon,2004-10-23,8,Northern Illinois,@,Western Michigan,W,2,18,9.0,0,dan-sheldon-1
+Austin Smith,2004-10-23,7,Boise State,,Fresno State,W,1,0,0.0,0,austin-smith-1
+Fred Smith,2004-10-23,6,Tulane,,Alabama-Birmingham,W,1,75,75.0,1,fred-smith-2
+Emmanuel Spann,2004-10-23,7,Marshall,,Buffalo,W,2,22,11.0,0,emmanuel-spann-1
+Ben Strickland,2004-10-23,8,Wisconsin,,Northwestern,W,1,13,13.0,0,ben-strickland-1
+Sammie Stroughter,2004-10-23,7,Oregon State,,Washington State,W,5,39,7.8,0,sammie-stroughter-1
+Steve Suter,2004-10-23,7,Maryland,@,Clemson,L,7,47,6.7,0,steve-suter-1
+Fano Tagovailoa,2004-10-23,7,Utah,,Nevada-Las Vegas,W,1,14,14.0,0,fano-tagovailoa-1
+Larry Taylor,2004-10-23,7,Connecticut,,Temple,W,2,36,18.0,0,larry-taylor-1
+Brittney Tellis,2004-10-23,6,Florida Atlantic,,Louisiana-Monroe,L,3,11,3.7,0,brittney-tellis-1
+Jon Thompson,2004-10-23,7,Virginia,@,Duke,W,1,6,6.0,0,jon-thompson-1
+Derrick Tinsley,2004-10-23,7,Tennessee,,Alabama,W,3,51,17.0,0,derrick-tinsley-1
+Jason Tomlinson,2004-10-23,7,Navy,,Rice,W,2,5,2.5,0,jason-tomlinson-1
+Dejuan Tribble,2004-10-23,7,Boston College,@,Notre Dame,W,1,6,6.0,0,dejuan-tribble-1
+Eric Weddle,2004-10-23,7,Utah,,Nevada-Las Vegas,W,1,5,5.0,0,eric-weddle-1
+Darron White,2004-10-23,7,Memphis,@,Cincinnati,L,1,1,1.0,0,darron-white-1
+Jason Wood,2004-10-23,8,Arkansas State,@,Louisiana,L,4,23,5.8,0,jason-wood-1
+Kerry Wright,2004-10-23,7,Middle Tennessee State,,Idaho,W,1,7,7.0,0,kerry-wright-1
+Marvin Young,2004-10-23,6,Southern Mississippi,,East Carolina,W,1,3,3.0,0,marvin-young-1
+Patrick Carter,2004-10-28,7,Georgia Tech,,Virginia Tech,L,3,32,10.7,0,patrick-carter-1
+Richard Johnson,2004-10-28,8,Virginia Tech,@,Georgia Tech,W,1,3,3.0,0,richard-johnson-1
+Mark Logan,2004-10-28,7,Georgia Tech,,Virginia Tech,L,1,-5,-5.0,0,mark-logan-1
+Eddie Royal,2004-10-28,8,Virginia Tech,@,Georgia Tech,W,1,9,9.0,0,eddie-royal-1
+Chad Owens,2004-10-29,7,Hawaii,@,Boise State,L,2,2,1.0,0,chad-owens-1
+Austin Smith,2004-10-29,8,Boise State,,Hawaii,W,4,77,19.3,0,austin-smith-1
+Danny Amendola,2004-10-30,8,Texas Tech,@,Kansas State,W,2,103,51.5,1,danny-amendola-1
+Corey Anderson,2004-10-30,7,Army,@,East Carolina,L,3,18,6.0,0,corey-anderson-2
+David Anderson,2004-10-30,8,Colorado State,,New Mexico,L,2,3,1.5,0,david-anderson-1
+Willie Andrews,2004-10-30,8,Baylor,,Texas A&M,W,3,58,19.3,0,willie-andrews-1
+Marion Barber III,2004-10-30,9,Minnesota,@,Indiana,L,1,0,0.0,0,marion-barber-iii-1
+Lance Bennett,2004-10-30,8,Indiana,,Minnesota,W,1,3,3.0,0,lance-bennett-1
+Todd Blythe,2004-10-30,8,Iowa State,,Kansas,W,1,24,24.0,0,todd-blythe-1
+Ahmad Bradshaw,2004-10-30,8,Marshall,,Central Florida,W,2,22,11.0,0,ahmad-bradshaw-1
+Steve Breaston,2004-10-30,9,Michigan,,Michigan State,W,3,22,7.3,0,steve-breaston-1
+Vernell Brown,2004-10-30,8,Florida,N,Georgia,L,3,28,9.3,0,vernell-brown-1
+Michael Bumpus,2004-10-30,8,Washington State,,Southern California,L,3,19,6.3,0,michael-bumpus-1
+Blake Burdette,2004-10-30,8,Utah,@,San Diego State,W,1,33,33.0,0,blake-burdette-1
+Rudy Burgess,2004-10-30,8,Arizona State,@,California,L,1,1,1.0,0,rudy-burgess-1
+Reggie Bush,2004-10-30,8,Southern California,@,Washington State,W,3,78,26.0,1,reggie-bush-1
+Lance Byrd,2004-10-30,8,Rice,@,Tulsa,L,1,0,0.0,0,lance-byrd-1
+Tavaris Capers,2004-10-30,8,Central Florida,@,Marshall,L,1,6,6.0,0,tavaris-capers-1
+Mark Clayton,2004-10-30,8,Oklahoma,@,Oklahoma State,W,3,64,21.3,1,mark-clayton-1
+Mialon Collins,2004-10-30,8,Houston,,Tulane,W,1,12,12.0,0,mialon-collins-1
+Marcus Daniels,2004-10-30,8,Rutgers,,West Virginia,L,1,0,0.0,0,marcus-daniels-1
+Mike Daniels,2004-10-30,8,Cincinnati,,Texas Christian,W,2,6,3.0,0,mike-daniels-1
+Chris Davis,2004-10-30,8,Duke,@,Wake Forest,L,3,20,6.7,0,chris-davis-1
+Mason Denham,2004-10-30,8,Louisiana-Monroe,@,North Texas,L,1,1,1.0,0,mason-denham-1
+Maurice Drew,2004-10-30,8,UCLA,,Stanford,W,3,93,31.0,1,maurice-drew-1
+D.J. Dykes,2004-10-30,9,Idaho,@,Troy,L,2,14,7.0,0,dj-dykes-1
+Abram Elam,2004-10-30,8,Kent State,,Ohio,W,3,28,9.3,0,abram-elam-1
+Prentiss Elliott,2004-10-30,8,Oklahoma State,,Oklahoma,L,1,5,5.0,0,prentiss-elliott-1
+Mike Espy,2004-10-30,8,Mississippi,,Auburn,L,3,-7,-2.3,0,mike-espy-1
+Thomas Flowers,2004-10-30,8,Georgia,N,Florida,W,2,46,23.0,0,thomas-flowers-1
+Wilrey Fontenot,2004-10-30,8,Arizona,,Oregon State,L,1,-1,-1.0,0,wilrey-fontenot-1
+Ted Ginn Jr.,2004-10-30,8,Ohio State,,Penn State,W,1,67,67.0,1,ted-ginn-jr-1
+Charles Gordon,2004-10-30,8,Kansas,@,Iowa State,L,2,8,4.0,0,charles-gordon-1
+Skyler Green,2004-10-30,8,Louisiana State,,Vanderbilt,W,4,90,22.5,1,skyler-green-1
+Tramain Hall,2004-10-30,8,North Carolina State,@,Clemson,L,2,2,1.0,0,tramain-hall-1
+E.B. Halsey,2004-10-30,9,Illinois,,Iowa,L,3,32,10.7,0,eb-halsey-1
+Ed Hinkel,2004-10-30,8,Iowa,@,Illinois,W,3,16,5.3,0,ed-hinkel-1
+Santonio Holmes,2004-10-30,8,Ohio State,,Penn State,W,2,29,14.5,0,santonio-holmes-1
+Greg Jennings,2004-10-30,8,Western Michigan,@,Central Michigan,L,4,55,13.8,0,greg-jennings-1
+James Jones,2004-10-30,7,San Jose State,,Texas-El Paso,L,1,4,4.0,0,james-jones-3
+Eric King,2004-10-30,8,Wake Forest,,Duke,W,3,-3,-1.0,0,eric-king-1
+Khari Long,2004-10-30,8,Baylor,,Texas A&M,W,1,25,25.0,0,khari-long-1
+Jonathan Lowe,2004-10-30,8,Mississippi State,,Kentucky,W,1,3,3.0,0,jonathan-lowe-1
+Calvin Lowry,2004-10-30,8,Penn State,@,Ohio State,L,1,-16,-16.0,0,calvin-lowry-1
+Dicky Lyons,2004-10-30,8,Kentucky,@,Mississippi State,L,2,15,7.5,0,dicky-lyons-1
+Hoost Marsh,2004-10-30,8,Wyoming,,Air Force,W,1,36,36.0,0,hoost-marsh-1
+Erik Mayes,2004-10-30,8,Texas A&M,@,Baylor,L,3,7,2.3,0,erik-mayes-1
+Leodis McKelvin,2004-10-30,8,Troy,,Idaho,W,5,107,21.4,1,leodis-mckelvin-1
+Brandon McLean,2004-10-30,8,Connecticut,@,Syracuse,L,1,21,21.0,0,brandon-mclean-1
+Miguel Merrick,2004-10-30,8,Iowa,@,Illinois,W,1,20,20.0,0,miguel-merrick-1
+Justin Miller,2004-10-30,8,Clemson,,North Carolina State,W,3,37,12.3,0,justin-miller-1
+Todd Miller,2004-10-30,8,Iowa State,,Kansas,W,2,21,10.5,0,todd-miller-1
+Tim Mixon,2004-10-30,7,California,,Arizona State,W,3,14,4.7,0,tim-mixon-1
+Dominique Morris,2004-10-30,8,Vanderbilt,@,Louisiana State,L,1,7,7.0,0,dominique-morris-1
+Damon Morton,2004-10-30,8,Colorado State,,New Mexico,L,1,9,9.0,0,damon-morton-1
+Thomson Omboga,2004-10-30,8,Missouri,@,Nebraska,L,1,15,15.0,0,thomson-omboga-1
+Jarrad Page,2004-10-30,8,UCLA,,Stanford,W,1,6,6.0,0,jarrad-page-1
+Santino Panico,2004-10-30,8,Nebraska,,Missouri,W,5,26,5.2,0,santino-panico-1
+Rich Parson,2004-10-30,8,Maryland,,Florida State,W,3,21,7.0,0,rich-parson-1
+Ryan Patrick,2004-10-30,9,Ball State,,Northern Illinois,L,2,11,5.5,0,ryan-patrick-1
+Mark Philmore,2004-10-30,8,Northwestern,,Purdue,W,2,11,5.5,0,mark-philmore-1
+Justin Phinisee,2004-10-30,8,Oregon,,Washington,W,3,27,9.0,0,justin-phinisee-1
+Jarwarski Pollock,2004-10-30,8,North Carolina,,Miami (FL),W,1,3,3.0,0,jarwarski-pollock-1
+Johnny Quinn,2004-10-30,8,North Texas,,Louisiana-Monroe,W,1,85,85.0,1,johnny-quinn-1
+Daniel Ramirez,2004-10-30,9,New Mexico,@,Colorado State,W,2,49,24.5,0,daniel-ramirez-1
+Desmond Reed,2004-10-30,8,Southern California,@,Washington State,W,1,16,16.0,0,desmond-reed-1
+Willie Reid,2004-10-30,8,Florida State,@,Maryland,L,4,64,16.0,0,willie-reid-1
+Trumaine Riley,2004-10-30,8,Eastern Michigan,@,Bowling Green State,L,2,4,2.0,0,trumaine-riley-1
+Vaughn Rivers,2004-10-30,8,West Virginia,@,Rutgers,W,1,17,17.0,0,vaughn-rivers-1
+Kevin Robinson,2004-10-30,8,Utah State,@,Middle Tennessee State,L,1,21,21.0,0,kevin-robinson-1
+Stephone Robinson,2004-10-30,8,Colorado,,Texas,L,3,4,1.3,0,stephone-robinson-1
+Cory Rodgers,2004-10-30,8,Texas Christian,@,Cincinnati,L,1,26,26.0,0,cory-rodgers-1
+Aaron Ross,2004-10-30,8,Texas,@,Colorado,W,3,29,9.7,0,aaron-ross-1
+Anthony Russo,2004-10-30,8,Washington,@,Oregon,L,3,18,6.0,0,anthony-russo-1
+Agim Shabaj,2004-10-30,8,Michigan State,@,Michigan,L,4,35,8.8,0,agim-shabaj-1
+Andrew Shanle,2004-10-30,8,Nebraska,,Missouri,W,1,15,15.0,0,andrew-shanle-1
+Charles Sharon,2004-10-30,8,Bowling Green State,,Eastern Michigan,W,1,9,9.0,0,charles-sharon-1
+Dan Sheldon,2004-10-30,9,Northern Illinois,@,Ball State,W,4,55,13.8,0,dan-sheldon-1
+Mark Simmons,2004-10-30,8,Kansas,@,Iowa State,L,2,32,16.0,0,mark-simmons-1
+Emmanuel Spann,2004-10-30,8,Marshall,,Central Florida,W,2,9,4.5,0,emmanuel-spann-1
+Sammie Stroughter,2004-10-30,8,Oregon State,@,Arizona,W,2,0,0.0,0,sammie-stroughter-1
+Taylor Stubblefield,2004-10-30,8,Purdue,@,Northwestern,L,2,5,2.5,0,taylor-stubblefield-1
+Fano Tagovailoa,2004-10-30,8,Utah,@,San Diego State,W,1,10,10.0,0,fano-tagovailoa-1
+Brittney Tellis,2004-10-30,7,Florida Atlantic,@,Florida A&M,W,3,64,21.3,0,brittney-tellis-1
+Derrick Tinsley,2004-10-30,8,Tennessee,@,South Carolina,W,1,0,0.0,0,derrick-tinsley-1
+Jason Tomlinson,2004-10-30,8,Navy,,Delaware,W,1,19,19.0,0,jason-tomlinson-1
+J.P. Waller,2004-10-30,8,Air Force,@,Wyoming,L,2,4,2.0,0,jp-waller-1
+Blake Warren,2004-10-30,8,Southern Methodist,@,Fresno State,L,2,8,4.0,0,blake-warren-1
+Eric Weddle,2004-10-30,8,Utah,@,San Diego State,W,2,11,5.5,0,eric-weddle-1
+Noah Whiteside,2004-10-30,8,South Carolina,,Tennessee,L,2,20,10.0,0,noah-whiteside-1
+Carnell Williams,2004-10-30,9,Auburn,@,Mississippi,W,6,71,11.8,0,carnell-williams-1
+Travis Williams,2004-10-30,7,East Carolina,,Army,W,4,79,19.8,0,travis-williams-1
+Kerry Wright,2004-10-30,8,Middle Tennessee State,,Utah State,W,5,53,10.6,0,kerry-wright-1
+Lance Moore,2004-11-02,9,Toledo,@,Miami (OH),L,1,8,8.0,0,lance-moore-1
+Jackie Chambers,2004-11-03,7,South Florida,@,Alabama-Birmingham,W,3,20,6.7,0,jackie-chambers-1
+Montrell Jones,2004-11-04,7,Louisville,@,Memphis,W,1,5,5.0,0,montrell-jones-1
+Darron White,2004-11-04,8,Memphis,,Louisville,L,1,6,6.0,0,darron-white-1
+Ahmad Bradshaw,2004-11-05,9,Marshall,@,Akron,L,1,1,1.0,0,ahmad-bradshaw-1
+Johnny Quinn,2004-11-05,9,North Texas,@,Louisiana,W,2,10,5.0,0,johnny-quinn-1
+Emmanuel Spann,2004-11-05,9,Marshall,@,Akron,L,2,8,4.0,0,emmanuel-spann-1
+Ricky Thomas,2004-11-05,9,Louisiana,,North Texas,L,3,9,3.0,0,ricky-thomas-1
+Danny Amendola,2004-11-06,9,Texas Tech,,Baylor,W,2,23,11.5,0,danny-amendola-1
+Corey Anderson,2004-11-06,8,Army,,Air Force,L,2,5,2.5,0,corey-anderson-2
+David Anderson,2004-11-06,9,Colorado State,@,Utah,L,2,-1,-0.5,0,david-anderson-1
+Willie Andrews,2004-11-06,9,Baylor,@,Texas Tech,L,3,53,17.7,0,willie-andrews-1
+Jeff Backes,2004-11-06,9,Northwestern,@,Penn State,W,2,9,4.5,0,jeff-backes-1
+Walner Belleus,2004-11-06,9,Iowa,,Purdue,W,1,3,3.0,0,walner-belleus-1
+Lance Bennett,2004-11-06,9,Indiana,@,Illinois,L,2,44,22.0,0,lance-bennett-1
+Decori Birmingham,2004-11-06,8,Arkansas,@,South Carolina,L,1,3,3.0,0,decori-birmingham-1
+Darrell Blackman,2004-11-06,9,North Carolina State,,Georgia Tech,L,3,26,8.7,0,darrell-blackman-1
+Will Blackmon,2004-11-06,8,Boston College,,Rutgers,W,1,9,9.0,0,will-blackmon-1
+Craig Bragg,2004-11-06,9,UCLA,,Washington State,L,4,50,12.5,0,craig-bragg-1
+Corey Brazil,2004-11-06,9,Louisiana Tech,@,Hawaii,L,3,17,5.7,0,corey-brazil-1
+Brandon Brooks,2004-11-06,9,Alabama,,Mississippi State,W,3,20,6.7,0,brandon-brooks-2
+Kyle Brown,2004-11-06,9,Michigan State,,Ohio State,L,1,0,0.0,0,kyle-brown-2
+Vernell Brown,2004-11-06,9,Florida,@,Vanderbilt,W,1,3,3.0,0,vernell-brown-1
+Copeland Bryan,2004-11-06,9,Arizona,@,Washington,W,1,20,20.0,0,copeland-bryan-1
+Dorien Bryant,2004-11-06,9,Purdue,@,Iowa,L,5,19,3.8,0,dorien-bryant-1
+Michael Bumpus,2004-11-06,9,Washington State,@,UCLA,W,2,6,3.0,0,michael-bumpus-1
+Rudy Burgess,2004-11-06,9,Arizona State,,Stanford,W,6,17,2.8,0,rudy-burgess-1
+Robert Burrell,2004-11-06,9,Louisiana Tech,@,Hawaii,L,1,1,1.0,0,robert-burrell-1
+Reggie Bush,2004-11-06,9,Southern California,@,Oregon State,W,3,73,24.3,1,reggie-bush-1
+Dion Byrum,2004-11-06,10,Ohio,@,Central Florida,W,4,31,7.8,0,dion-byrum-1
+Tavaris Capers,2004-11-06,9,Central Florida,,Ohio,L,3,27,9.0,0,tavaris-capers-1
+Patrick Carter,2004-11-06,8,Georgia Tech,@,North Carolina State,W,5,47,9.4,0,patrick-carter-1
+Marcus Clayton,2004-11-06,9,Syracuse,,Pittsburgh,W,4,46,11.5,0,marcus-clayton-1
+Mark Clayton,2004-11-06,9,Oklahoma,@,Texas A&M,W,3,34,11.3,0,mark-clayton-1
+Mialon Collins,2004-11-06,9,Houston,,East Carolina,W,1,1,1.0,0,mialon-collins-1
+Kyle Conerly,2004-11-06,9,San Diego State,@,Brigham Young,L,2,12,6.0,0,kyle-conerly-1
+Mitchell Crossley,2004-11-06,9,Bowling Green State,,Western Michigan,W,1,23,23.0,0,mitchell-crossley-1
+Mike Daniels,2004-11-06,9,Cincinnati,@,Southern Mississippi,W,3,14,4.7,0,mike-daniels-1
+Chris Davis,2004-11-06,9,Duke,@,Florida State,L,1,0,0.0,0,chris-davis-1
+Mason Denham,2004-11-06,9,Louisiana-Monroe,,Utah State,W,1,0,0.0,0,mason-denham-1
+Maurice Drew,2004-11-06,9,UCLA,,Washington State,L,1,5,5.0,0,maurice-drew-1
+D.J. Dykes,2004-11-06,10,Idaho,,Arkansas State,W,2,12,6.0,0,dj-dykes-1
+Abram Elam,2004-11-06,9,Kent State,@,Buffalo,W,6,61,10.2,0,abram-elam-1
+Prentiss Elliott,2004-11-06,9,Oklahoma State,@,Texas,L,1,-1,-1.0,0,prentiss-elliott-1
+John Eubanks,2004-11-06,7,Southern Mississippi,,Cincinnati,L,4,0,0.0,0,john-eubanks-1
+Mike Falco,2004-11-06,9,Rice,,Fresno State,L,1,10,10.0,0,mike-falco-1
+Yamon Figurs,2004-11-06,9,Kansas State,@,Missouri,W,4,54,13.5,0,yamon-figurs-1
+Thomas Flowers,2004-11-06,9,Georgia,@,Kentucky,W,3,103,34.3,0,thomas-flowers-1
+Ted Ginn Jr.,2004-11-06,9,Ohio State,@,Michigan State,W,2,71,35.5,1,ted-ginn-jr-1
+Charles Gordon,2004-11-06,9,Kansas,,Colorado,L,2,20,10.0,0,charles-gordon-1
+Tramain Hall,2004-11-06,9,North Carolina State,,Georgia Tech,L,1,-1,-1.0,0,tramain-hall-1
+E.B. Halsey,2004-11-06,10,Illinois,,Indiana,W,3,19,6.3,0,eb-halsey-1
+Justin Harper,2004-11-06,9,Central Michigan,@,Eastern Michigan,L,1,11,11.0,0,justin-harper-1
+Stevelan Harper,2004-11-06,9,New Mexico State,,Middle Tennessee State,W,3,71,23.7,0,stevelan-harper-1
+Elliott Harris,2004-11-06,8,Arkansas,@,South Carolina,L,1,10,10.0,0,elliott-harris-1
+Jonathan Hefney,2004-11-06,9,Tennessee,,Notre Dame,L,1,5,5.0,0,jonathan-hefney-1
+Shaun Herbert,2004-11-06,9,Northwestern,@,Penn State,W,2,-3,-1.5,0,shaun-herbert-1
+Devin Hester,2004-11-06,8,Miami (FL),,Clemson,L,2,8,4.0,0,devin-hester-1
+Terrance Highsmith,2004-11-06,9,Iowa State,,Nebraska,W,2,17,8.5,0,terrance-highsmith-1
+Ed Hinkel,2004-11-06,9,Iowa,,Purdue,W,3,23,7.7,0,ed-hinkel-1
+Carlyle Holiday,2004-11-06,9,Notre Dame,@,Tennessee,W,2,18,9.0,0,carlyle-holiday-1
+Santonio Holmes,2004-11-06,9,Ohio State,@,Michigan State,W,2,22,11.0,0,santonio-holmes-1
+Andrew Hopewell,2004-11-06,9,Kentucky,,Georgia,L,1,3,3.0,0,andrew-hopewell-1
+Jemmy Jasmin,2004-11-06,9,Central Michigan,@,Eastern Michigan,L,1,-1,-1.0,0,jemmy-jasmin-1
+Greg Jennings,2004-11-06,9,Western Michigan,@,Bowling Green State,L,1,1,1.0,0,greg-jennings-1
+James Jones,2004-11-06,8,San Jose State,@,Nevada,L,1,-1,-1.0,0,james-jones-3
+Jermaine Landrum,2004-11-06,9,Tulsa,@,Southern Methodist,L,4,63,15.8,0,jermaine-landrum-1
+Jim Leonhard,2004-11-06,9,Wisconsin,,Minnesota,W,3,22,7.3,0,jim-leonhard-1
+Damien Linson,2004-11-06,9,Central Michigan,@,Eastern Michigan,L,2,8,4.0,0,damien-linson-1
+Mark Logan,2004-11-06,8,Georgia Tech,@,North Carolina State,W,1,6,6.0,0,mark-logan-1
+Jonathan Lowe,2004-11-06,9,Mississippi State,@,Alabama,L,1,7,7.0,0,jonathan-lowe-1
+Calvin Lowry,2004-11-06,9,Penn State,,Northwestern,L,5,42,8.4,0,calvin-lowry-1
+Bryce Mahuika,2004-11-06,9,Brigham Young,,San Diego State,W,2,12,6.0,0,bryce-mahuika-1
+David Marrero,2004-11-06,9,Stanford,@,Arizona State,L,3,29,9.7,0,david-marrero-1
+Hoost Marsh,2004-11-06,9,Wyoming,@,Nevada-Las Vegas,W,4,59,14.8,0,hoost-marsh-1
+Erik Mayes,2004-11-06,9,Texas A&M,,Oklahoma,L,3,20,6.7,0,erik-mayes-1
+Nick McAfee,2004-11-06,9,Middle Tennessee State,@,New Mexico State,L,1,15,15.0,0,nick-mcafee-1
+Leodis McKelvin,2004-11-06,9,Troy,,Florida Atlantic,W,5,83,16.6,1,leodis-mckelvin-1
+Justin Miller,2004-11-06,9,Clemson,@,Miami (FL),W,5,63,12.6,0,justin-miller-1
+Casey Miranda,2004-11-06,8,San Jose State,@,Nevada,L,2,17,8.5,0,casey-miranda-1
+Tim Mixon,2004-11-06,8,California,,Oregon,W,3,19,6.3,0,tim-mixon-1
+Tom O'Leary,2004-11-06,9,North Carolina,,Virginia Tech,L,1,16,16.0,0,tom-oleary-1
+Thomson Omboga,2004-11-06,9,Missouri,,Kansas State,L,1,4,4.0,0,thomson-omboga-1
+Chad Owens,2004-11-06,8,Hawaii,,Louisiana Tech,W,4,33,8.3,0,chad-owens-1
+Santino Panico,2004-11-06,9,Nebraska,@,Iowa State,L,5,7,1.4,0,santino-panico-1
+Roscoe Parrish,2004-11-06,8,Miami (FL),,Clemson,L,2,9,4.5,0,roscoe-parrish-1
+Rich Parson,2004-11-06,9,Maryland,@,Virginia,L,2,15,7.5,0,rich-parson-1
+Alvin Pearman,2004-11-06,8,Virginia,,Maryland,W,1,27,27.0,0,alvin-pearman-1
+Justin Phinisee,2004-11-06,9,Oregon,@,California,L,1,15,15.0,0,justin-phinisee-1
+Jarwarski Pollock,2004-11-06,9,North Carolina,,Virginia Tech,L,1,28,28.0,0,jarwarski-pollock-1
+Jamil Porter,2004-11-06,9,Temple,@,West Virginia,L,1,1,1.0,0,jamil-porter-1
+Tyrone Prothro,2004-11-06,9,Alabama,,Mississippi State,W,1,19,19.0,0,tyrone-prothro-1
+Willie Reid,2004-11-06,9,Florida State,,Duke,W,4,46,11.5,0,willie-reid-1
+Allen Richardson,2004-11-06,8,Pittsburgh,@,Syracuse,L,3,0,0.0,0,allen-richardson-1
+Trumaine Riley,2004-11-06,9,Eastern Michigan,,Central Michigan,W,3,33,11.0,0,trumaine-riley-1
+Dominic Robinson,2004-11-06,9,Florida State,,Duke,W,1,-5,-5.0,0,dominic-robinson-1
+Kevin Robinson,2004-11-06,9,Utah State,@,Louisiana-Monroe,L,1,-1,-1.0,0,kevin-robinson-1
+Stephone Robinson,2004-11-06,9,Colorado,@,Kansas,W,4,65,16.3,1,stephone-robinson-1
+Alex Rosenblum,2004-11-06,9,Nevada,,San Jose State,W,2,1,0.5,0,alex-rosenblum-1
+Aaron Ross,2004-11-06,9,Texas,,Oklahoma State,W,4,19,4.8,0,aaron-ross-1
+Levonne Rowan,2004-11-06,9,Wisconsin,,Minnesota,W,1,0,0.0,0,levonne-rowan-1
+Eddie Royal,2004-11-06,9,Virginia Tech,@,North Carolina,W,2,9,4.5,0,eddie-royal-1
+Anthony Russo,2004-11-06,9,Washington,,Arizona,L,1,-1,-1.0,0,anthony-russo-1
+Rocky Schwartz,2004-11-06,9,Houston,,East Carolina,W,1,-2,-2.0,0,rocky-schwartz-1
+Agim Shabaj,2004-11-06,9,Michigan State,,Ohio State,L,3,46,15.3,0,agim-shabaj-1
+Sonny Shackelford,2004-11-06,9,Washington,,Arizona,L,1,1,1.0,0,sonny-shackelford-1
+Charles Sharon,2004-11-06,9,Bowling Green State,,Western Michigan,W,3,66,22.0,0,charles-sharon-1
+Steve Simonton,2004-11-06,9,Bowling Green State,,Western Michigan,W,1,45,45.0,0,steve-simonton-1
+Clifton Smith,2004-11-06,8,Fresno State,@,Rice,W,1,67,67.0,1,clifton-smith-2
+Fred Smith,2004-11-06,8,Tulane,,Navy,W,1,3,3.0,0,fred-smith-2
+Syndric Steptoe,2004-11-06,9,Arizona,@,Washington,W,4,23,5.8,0,syndric-steptoe-1
+Sammie Stroughter,2004-11-06,9,Oregon State,,Southern California,L,3,19,6.3,0,sammie-stroughter-1
+Chris Sutton,2004-11-06,9,Air Force,@,Army,W,2,11,5.5,0,chris-sutton-1
+Fano Tagovailoa,2004-11-06,9,Utah,,Colorado State,W,1,26,26.0,0,fano-tagovailoa-1
+Brittney Tellis,2004-11-06,8,Florida Atlantic,@,Troy,L,5,30,6.0,0,brittney-tellis-1
+Derrick Tinsley,2004-11-06,9,Tennessee,,Notre Dame,L,2,19,9.5,0,derrick-tinsley-1
+Jason Tomlinson,2004-11-06,9,Navy,@,Tulane,L,2,16,8.0,0,jason-tomlinson-1
+J.P. Waller,2004-11-06,9,Air Force,@,Army,W,1,2,2.0,0,jp-waller-1
+Blake Warren,2004-11-06,9,Southern Methodist,,Tulsa,W,2,35,17.5,0,blake-warren-1
+Eric Weddle,2004-11-06,9,Utah,,Colorado State,W,2,19,9.5,0,eric-weddle-1
+Donell Wheaton,2004-11-06,9,Nevada-Las Vegas,,Wyoming,L,3,49,16.3,0,donell-wheaton-1
+Noah Whiteside,2004-11-06,9,South Carolina,,Arkansas,W,1,12,12.0,0,noah-whiteside-1
+Paul Williams,2004-11-06,8,Fresno State,@,Rice,W,1,22,22.0,0,paul-williams-2
+Travis Williams,2004-11-06,8,East Carolina,@,Houston,L,2,19,9.5,0,travis-williams-1
+Jason Wood,2004-11-06,9,Arkansas State,@,Idaho,L,2,8,4.0,0,jason-wood-1
+Kerry Wright,2004-11-06,9,Middle Tennessee State,@,New Mexico State,L,1,0,0.0,0,kerry-wright-1
+Steve Odom,2004-11-09,10,Toledo,@,Northern Illinois,W,2,12,6.0,0,steve-odom-1
+Dan Sheldon,2004-11-09,10,Northern Illinois,,Toledo,L,1,31,31.0,0,dan-sheldon-1
+Montrell Jones,2004-11-10,8,Louisville,,Texas Christian,W,8,64,8.0,0,montrell-jones-1
+Cory Rodgers,2004-11-10,9,Texas Christian,@,Louisville,L,3,38,12.7,0,cory-rodgers-1
+Darrell Blackman,2004-11-11,10,North Carolina State,,Florida State,L,3,103,34.3,1,darrell-blackman-1
+Tramain Hall,2004-11-11,10,North Carolina State,,Florida State,L,4,23,5.8,0,tramain-hall-1
+Tyrell Johnson,2004-11-11,10,Arkansas State,,Utah State,W,1,3,3.0,0,tyrell-johnson-1
+Willie Reid,2004-11-11,10,Florida State,@,North Carolina State,W,6,108,18.0,0,willie-reid-1
+Kevin Robinson,2004-11-11,10,Utah State,@,Arkansas State,L,2,11,5.5,0,kevin-robinson-1
+Darren Toney,2004-11-11,10,Arkansas State,,Utah State,W,1,61,61.0,1,darren-toney-1
+John Eubanks,2004-11-12,8,Southern Mississippi,@,Memphis,L,1,16,16.0,0,john-eubanks-1
+Adam Jennings,2004-11-12,9,Fresno State,,Hawaii,W,5,-13,-2.6,0,adam-jennings-1
+Clifton Smith,2004-11-12,9,Fresno State,,Hawaii,W,1,62,62.0,0,clifton-smith-2
+Darron White,2004-11-12,9,Memphis,,Southern Mississippi,W,5,19,3.8,0,darron-white-1
+Danny Amendola,2004-11-13,10,Texas Tech,@,Texas A&M,L,3,25,8.3,0,danny-amendola-1
+Corey Anderson,2004-11-13,9,Army,@,Tulane,L,2,13,6.5,0,corey-anderson-2
+David Anderson,2004-11-13,10,Colorado State,,Nevada-Las Vegas,W,5,38,7.6,0,david-anderson-1
+Willie Andrews,2004-11-13,10,Baylor,@,Oklahoma State,L,2,48,24.0,0,willie-andrews-1
+Donny Baker,2004-11-13,10,San Diego State,@,Air Force,W,1,0,0.0,0,donny-baker-1
+Marion Barber III,2004-11-13,11,Minnesota,,Iowa,L,3,24,8.0,0,marion-barber-iii-1
+Lance Bennett,2004-11-13,10,Indiana,,Penn State,L,3,39,13.0,0,lance-bennett-1
+Decori Birmingham,2004-11-13,9,Arkansas,,Mississippi,W,3,14,4.7,0,decori-birmingham-1
+Will Blackmon,2004-11-13,9,Boston College,@,West Virginia,W,1,71,71.0,1,will-blackmon-1
+Craig Bragg,2004-11-13,10,UCLA,@,Oregon,W,2,35,17.5,0,craig-bragg-1
+Corey Brazil,2004-11-13,10,Louisiana Tech,,Tulsa,W,1,7,7.0,0,corey-brazil-1
+Steve Breaston,2004-11-13,10,Michigan,,Northwestern,W,4,112,28.0,1,steve-breaston-1
+Vernell Brown,2004-11-13,10,Florida,,South Carolina,W,1,0,0.0,0,vernell-brown-1
+Dorien Bryant,2004-11-13,10,Purdue,,Ohio State,W,1,0,0.0,0,dorien-bryant-1
+Michael Bumpus,2004-11-13,10,Washington State,@,Arizona State,L,3,91,30.3,1,michael-bumpus-1
+Robert Burrell,2004-11-13,10,Louisiana Tech,,Tulsa,W,1,22,22.0,0,robert-burrell-1
+Reggie Bush,2004-11-13,10,Southern California,,Arizona,W,1,1,1.0,0,reggie-bush-1
+Lance Byrd,2004-11-13,10,Rice,@,Texas-El Paso,L,2,22,11.0,0,lance-byrd-1
+Marshall Campbell,2004-11-13,10,Michigan State,,Wisconsin,W,1,28,28.0,0,marshall-campbell-1
+Tavaris Capers,2004-11-13,10,Central Florida,@,Ball State,L,1,1,1.0,0,tavaris-capers-1
+Jerrell Carter,2004-11-13,10,Louisiana,,Troy,L,3,13,4.3,0,jerrell-carter-1
+Patrick Carter,2004-11-13,9,Georgia Tech,,Connecticut,W,3,20,6.7,0,patrick-carter-1
+Jackie Chambers,2004-11-13,8,South Florida,,East Carolina,W,2,17,8.5,0,jackie-chambers-1
+Marcus Clayton,2004-11-13,10,Syracuse,@,Temple,L,1,4,4.0,0,marcus-clayton-1
+Mialon Collins,2004-11-13,10,Houston,@,Alabama-Birmingham,L,3,10,3.3,0,mialon-collins-1
+Kyle Conerly,2004-11-13,10,San Diego State,@,Air Force,W,2,18,9.0,0,kyle-conerly-1
+Jemalle Cornelius,2004-11-13,10,Florida,,South Carolina,W,1,16,16.0,0,jemalle-cornelius-1
+D.D. Cox,2004-11-13,10,New Mexico,@,Brigham Young,W,1,1,1.0,0,dd-cox-1
+Bryan Cummings,2004-11-13,10,Buffalo,,Central Michigan,W,1,15,15.0,0,bryan-cummings-1
+Chris Davis,2004-11-13,10,Duke,,Clemson,W,2,2,1.0,0,chris-davis-1
+Mason Denham,2004-11-13,10,Louisiana-Monroe,@,Middle Tennessee State,L,1,37,37.0,0,mason-denham-1
+D.J. Dykes,2004-11-13,11,Idaho,@,North Texas,L,1,-4,-4.0,0,dj-dykes-1
+Ryan Eidson,2004-11-13,10,Arizona,@,Southern California,L,1,0,0.0,0,ryan-eidson-1
+Abram Elam,2004-11-13,10,Kent State,,Eastern Michigan,W,2,14,7.0,0,abram-elam-1
+Prentiss Elliott,2004-11-13,10,Oklahoma State,,Baylor,W,2,85,42.5,1,prentiss-elliott-1
+Mike Espy,2004-11-13,9,Mississippi,@,Arkansas,L,2,5,2.5,0,mike-espy-1
+James Evans,2004-11-13,10,Buffalo,,Central Michigan,W,1,0,0.0,0,james-evans-1
+Ajenavi Eziemefe,2004-11-13,9,Georgia Tech,,Connecticut,W,1,17,17.0,0,ajenavi-eziemefe-1
+Mike Falco,2004-11-13,10,Rice,@,Texas-El Paso,L,1,4,4.0,0,mike-falco-1
+Jahmal Fenner,2004-11-13,9,Texas-El Paso,,Rice,W,2,52,26.0,1,jahmal-fenner-1
+Yamon Figurs,2004-11-13,10,Kansas State,@,Colorado,L,6,26,4.3,0,yamon-figurs-1
+Thomas Flowers,2004-11-13,10,Georgia,@,Auburn,L,2,22,11.0,0,thomas-flowers-1
+Ted Ginn Jr.,2004-11-13,10,Ohio State,@,Purdue,L,2,23,11.5,0,ted-ginn-jr-1
+Bobby Godinez,2004-11-13,9,San Jose State,,Boise State,L,1,13,13.0,0,bobby-godinez-1
+Charles Gordon,2004-11-13,10,Kansas,,Texas,L,1,4,4.0,0,charles-gordon-1
+Skyler Green,2004-11-13,9,Louisiana State,,Alabama,W,3,38,12.7,0,skyler-green-1
+Justin Harper,2004-11-13,10,Central Michigan,@,Buffalo,L,4,28,7.0,0,justin-harper-1
+Stevelan Harper,2004-11-13,10,New Mexico State,@,Florida Atlantic,W,4,24,6.0,0,stevelan-harper-1
+Devin Hester,2004-11-13,9,Miami (FL),@,Virginia,W,1,13,13.0,0,devin-hester-1
+Ed Hinkel,2004-11-13,10,Iowa,@,Minnesota,W,1,35,35.0,0,ed-hinkel-1
+Carlyle Holiday,2004-11-13,10,Notre Dame,,Pittsburgh,L,4,103,25.8,0,carlyle-holiday-1
+Terry Holley,2004-11-13,10,Rice,@,Texas-El Paso,L,1,32,32.0,0,terry-holley-1
+Santonio Holmes,2004-11-13,10,Ohio State,@,Purdue,L,1,6,6.0,0,santonio-holmes-1
+Willie Hughley,2004-11-13,9,Florida Atlantic,,New Mexico State,L,1,10,10.0,0,willie-hughley-1
+Willie Idlette,2004-11-13,9,Wake Forest,,North Carolina,L,4,11,2.8,0,willie-idlette-1
+Howard Jackson,2004-11-13,9,Texas-El Paso,,Rice,W,1,0,0.0,0,howard-jackson-1
+Greg Jennings,2004-11-13,10,Western Michigan,,Miami (OH),L,2,5,2.5,0,greg-jennings-1
+Dennis Johnson,2004-11-13,10,Kentucky,,Vanderbilt,W,1,9,9.0,0,dennis-johnson-2
+Adam Jones,2004-11-13,10,West Virginia,,Boston College,L,3,24,8.0,0,adam-jones-1
+Djay Jones,2004-11-13,9,Georgia Tech,,Connecticut,W,1,7,7.0,1,djay-jones-1
+James Jones,2004-11-13,9,San Jose State,,Boise State,L,1,10,10.0,0,james-jones-3
+Freddy Keiaho,2004-11-13,10,San Diego State,@,Air Force,W,1,11,11.0,0,freddy-keiaho-1
+Matt Knueven,2004-11-13,10,Buffalo,,Central Michigan,W,1,3,3.0,0,matt-knueven-1
+Doug Kress,2004-11-13,10,Central Michigan,@,Buffalo,L,1,22,22.0,0,doug-kress-1
+Jermaine Landrum,2004-11-13,10,Tulsa,@,Louisiana Tech,L,3,38,12.7,0,jermaine-landrum-1
+Jim Leonhard,2004-11-13,10,Wisconsin,@,Michigan State,L,3,46,15.3,0,jim-leonhard-1
+Reggie Lindsey,2004-11-13,9,Alabama-Birmingham,,Houston,W,1,-1,-1.0,0,reggie-lindsey-1
+Rafael Little,2004-11-13,10,Kentucky,,Vanderbilt,W,5,51,10.2,0,rafael-little-1
+Mark Logan,2004-11-13,9,Georgia Tech,,Connecticut,W,1,10,10.0,0,mark-logan-1
+Calvin Lowry,2004-11-13,10,Penn State,@,Indiana,W,4,13,3.3,0,calvin-lowry-1
+Bryce Mahuika,2004-11-13,10,Brigham Young,,New Mexico,L,2,23,11.5,0,bryce-mahuika-1
+David Marrero,2004-11-13,10,Stanford,,Oregon State,L,4,79,19.8,0,david-marrero-1
+Erik Mayes,2004-11-13,10,Texas A&M,,Texas Tech,W,1,-1,-1.0,0,erik-mayes-1
+Leodis McKelvin,2004-11-13,10,Troy,@,Louisiana,W,3,2,0.7,0,leodis-mckelvin-1
+Brandon McLean,2004-11-13,9,Connecticut,@,Georgia Tech,L,3,29,9.7,0,brandon-mclean-1
+Justin Miller,2004-11-13,10,Clemson,@,Duke,L,2,5,2.5,0,justin-miller-1
+Casey Miranda,2004-11-13,9,San Jose State,,Boise State,L,1,9,9.0,0,casey-miranda-1
+Dominique Morris,2004-11-13,10,Vanderbilt,@,Kentucky,L,2,7,3.5,0,dominique-morris-1
+Stafford Owens,2004-11-13,11,Ohio,,Akron,L,4,109,27.3,1,stafford-owens-1
+Corey Parker,2004-11-13,10,Eastern Michigan,@,Kent State,L,1,18,18.0,0,corey-parker-1
+Roscoe Parrish,2004-11-13,9,Miami (FL),@,Virginia,W,3,121,40.3,1,roscoe-parrish-1
+Ryan Patrick,2004-11-13,10,Ball State,,Central Florida,W,2,13,6.5,0,ryan-patrick-1
+Brandon Payne,2004-11-13,10,New Mexico,@,Brigham Young,W,1,0,0.0,0,brandon-payne-1
+Alvin Pearman,2004-11-13,9,Virginia,,Miami (FL),L,1,3,3.0,0,alvin-pearman-1
+Quinton Person,2004-11-13,10,North Carolina,@,Wake Forest,W,2,17,8.5,0,quinton-person-1
+Justin Phinisee,2004-11-13,10,Oregon,,UCLA,L,2,79,39.5,1,justin-phinisee-1
+David Pollack,2004-11-13,10,Georgia,@,Auburn,L,1,14,14.0,0,david-pollack-1
+Jarwarski Pollock,2004-11-13,10,North Carolina,@,Wake Forest,W,3,10,3.3,0,jarwarski-pollock-1
+Tyrone Prothro,2004-11-13,10,Alabama,@,Louisiana State,L,1,4,4.0,0,tyrone-prothro-1
+Johnny Quinn,2004-11-13,10,North Texas,,Idaho,W,1,4,4.0,0,johnny-quinn-1
+Daniel Ramirez,2004-11-13,10,New Mexico,@,Brigham Young,W,1,0,0.0,0,daniel-ramirez-1
+Allen Richardson,2004-11-13,9,Pittsburgh,@,Notre Dame,W,1,0,0.0,0,allen-richardson-1
+Terry Richardson,2004-11-13,10,Arizona State,,Washington State,W,4,70,17.5,0,terry-richardson-1
+Trumaine Riley,2004-11-13,10,Eastern Michigan,@,Kent State,L,1,3,3.0,0,trumaine-riley-1
+Ryne Robinson,2004-11-13,10,Miami (OH),@,Western Michigan,W,4,-4,-1.0,0,ryne-robinson-1
+Stephone Robinson,2004-11-13,10,Colorado,,Kansas State,W,3,4,1.3,0,stephone-robinson-1
+Alex Rosenblum,2004-11-13,10,Nevada,@,Southern Methodist,L,1,26,26.0,0,alex-rosenblum-1
+Agim Shabaj,2004-11-13,10,Michigan State,,Wisconsin,W,2,15,7.5,0,agim-shabaj-1
+Charles Sharon,2004-11-13,10,Bowling Green State,,Marshall,W,1,15,15.0,0,charles-sharon-1
+Austin Smith,2004-11-13,9,Boise State,@,San Jose State,W,3,21,7.0,0,austin-smith-1
+Fred Smith,2004-11-13,9,Tulane,,Army,W,3,11,3.7,0,fred-smith-2
+Kevin Stanley,2004-11-13,10,Nevada,@,Southern Methodist,L,1,38,38.0,0,kevin-stanley-1
+Syndric Steptoe,2004-11-13,10,Arizona,@,Southern California,L,1,4,4.0,0,syndric-steptoe-1
+Sammie Stroughter,2004-11-13,10,Oregon State,@,Stanford,W,5,23,4.6,0,sammie-stroughter-1
+Taylor Stubblefield,2004-11-13,10,Purdue,,Ohio State,W,3,12,4.0,0,taylor-stubblefield-1
+Ramonce Taylor,2004-11-13,10,Texas,@,Kansas,W,2,1,0.5,0,ramonce-taylor-1
+Dejuan Tribble,2004-11-13,9,Boston College,@,West Virginia,W,3,47,15.7,1,dejuan-tribble-1
+Greg Van Hoesen,2004-11-13,9,California,@,Washington,W,1,9,9.0,0,greg-van-hoesen-1
+J.P. Waller,2004-11-13,10,Air Force,,San Diego State,L,1,9,9.0,0,jp-waller-1
+Blake Warren,2004-11-13,10,Southern Methodist,,Nevada,W,2,22,11.0,0,blake-warren-1
+Eric Weddle,2004-11-13,10,Utah,@,Wyoming,W,3,27,9.0,0,eric-weddle-1
+Donell Wheaton,2004-11-13,10,Nevada-Las Vegas,@,Colorado State,L,6,52,8.7,0,donell-wheaton-1
+Noah Whiteside,2004-11-13,10,South Carolina,@,Florida,L,1,9,9.0,0,noah-whiteside-1
+Carnell Williams,2004-11-13,10,Auburn,,Georgia,W,4,77,19.3,0,carnell-williams-1
+Kerry Wright,2004-11-13,10,Middle Tennessee State,,Louisiana-Monroe,W,4,40,10.0,0,kerry-wright-1
+Richard Johnson,2004-11-18,10,Virginia Tech,,Maryland,W,1,17,17.0,0,richard-johnson-1
+Johnny Quinn,2004-11-18,11,North Texas,@,Arkansas State,W,2,5,2.5,0,johnny-quinn-1
+Eddie Royal,2004-11-18,10,Virginia Tech,,Maryland,W,3,24,8.0,0,eddie-royal-1
+Steve Suter,2004-11-18,10,Maryland,@,Virginia Tech,L,3,0,0.0,0,steve-suter-1
+Jason Wood,2004-11-18,11,Arkansas State,,North Texas,L,1,1,1.0,0,jason-wood-1
+Gaines Adams,2004-11-20,11,Clemson,,South Carolina,W,1,0,0.0,0,gaines-adams-1
+Corey Anderson,2004-11-20,10,Army,,Alabama-Birmingham,L,3,10,3.3,0,corey-anderson-2
+Willie Andrews,2004-11-20,11,Baylor,,Oklahoma,L,3,14,4.7,0,willie-andrews-1
+Jeff Backes,2004-11-20,11,Northwestern,,Illinois,W,6,115,19.2,1,jeff-backes-1
+Decori Birmingham,2004-11-20,10,Arkansas,@,Mississippi State,W,2,32,16.0,0,decori-birmingham-1
+Will Blackmon,2004-11-20,10,Boston College,@,Temple,W,2,-5,-2.5,0,will-blackmon-1
+Corey Brazil,2004-11-20,11,Louisiana Tech,@,Boise State,L,2,43,21.5,0,corey-brazil-1
+Steve Breaston,2004-11-20,11,Michigan,@,Ohio State,L,1,5,5.0,0,steve-breaston-1
+Tim Brown,2004-11-20,11,Temple,,Boston College,L,1,-5,-5.0,0,tim-brown-2
+Vernell Brown,2004-11-20,11,Florida,@,Florida State,W,3,12,4.0,0,vernell-brown-1
+Michael Bumpus,2004-11-20,11,Washington State,,Washington,W,2,5,2.5,0,michael-bumpus-1
+Jerrell Carter,2004-11-20,11,Louisiana,@,Louisiana-Monroe,L,1,10,10.0,0,jerrell-carter-1
+Patrick Carter,2004-11-20,10,Georgia Tech,,Virginia,L,4,22,5.5,0,patrick-carter-1
+Mialon Collins,2004-11-20,11,Houston,,Louisville,L,1,20,20.0,0,mialon-collins-1
+Mike Daniels,2004-11-20,10,Cincinnati,,South Florida,W,2,30,15.0,0,mike-daniels-1
+Chris Davis,2004-11-20,11,Duke,,North Carolina,L,2,1,0.5,0,chris-davis-1
+D.J. Dykes,2004-11-20,12,Idaho,@,Hawaii,L,2,20,10.0,0,dj-dykes-1
+Mike Espy,2004-11-20,10,Mississippi,@,Louisiana State,L,2,16,8.0,0,mike-espy-1
+John Eubanks,2004-11-20,9,Southern Mississippi,@,Texas Christian,L,3,6,2.0,0,john-eubanks-1
+Jahmal Fenner,2004-11-20,10,Texas-El Paso,,Southern Methodist,W,2,21,10.5,0,jahmal-fenner-1
+Daunte Fields,2004-11-20,11,North Carolina,@,Duke,W,1,-14,-14.0,0,daunte-fields-1
+Yamon Figurs,2004-11-20,11,Kansas State,,Iowa State,L,3,20,6.7,0,yamon-figurs-1
+Willie Foster,2004-11-20,10,Rutgers,@,Navy,L,1,14,14.0,0,willie-foster-1
+Trestin George,2004-11-20,10,San Jose State,@,Tulsa,L,1,-4,-4.0,0,trestin-george-1
+Ted Ginn Jr.,2004-11-20,11,Ohio State,,Michigan,W,4,123,30.8,1,ted-ginn-jr-1
+Charles Gordon,2004-11-20,11,Kansas,@,Missouri,W,7,87,12.4,0,charles-gordon-1
+Skyler Green,2004-11-20,10,Louisiana State,,Mississippi,W,4,32,8.0,0,skyler-green-1
+E.B. Halsey,2004-11-20,11,Illinois,@,Northwestern,L,5,35,7.0,0,eb-halsey-1
+Stevelan Harper,2004-11-20,11,New Mexico State,@,Utah State,L,2,6,3.0,0,stevelan-harper-1
+Laron Haymore,2004-11-20,11,Buffalo,@,Connecticut,L,1,23,23.0,0,laron-haymore-1
+Devin Hester,2004-11-20,10,Miami (FL),,Wake Forest,W,2,7,3.5,0,devin-hester-1
+Domenik Hixon,2004-11-20,11,Akron,,Miami (OH),L,2,21,10.5,0,domenik-hixon-1
+Adam Jennings,2004-11-20,10,Fresno State,,Nevada,W,3,12,4.0,0,adam-jennings-1
+Greg Jennings,2004-11-20,11,Western Michigan,@,Marshall,L,2,27,13.5,0,greg-jennings-1
+Donnie Johnson,2004-11-20,11,Penn State,,Michigan State,W,1,6,6.0,0,donnie-johnson-1
+Damien Jones,2004-11-20,11,Indiana,@,Purdue,L,2,1,0.5,0,damien-jones-1
+James Jones,2004-11-20,10,San Jose State,@,Tulsa,L,1,10,10.0,0,james-jones-3
+Montrell Jones,2004-11-20,9,Louisville,@,Houston,W,2,21,10.5,0,montrell-jones-1
+Matt Knueven,2004-11-20,11,Buffalo,@,Connecticut,L,2,24,12.0,0,matt-knueven-1
+Jermaine Landrum,2004-11-20,11,Tulsa,,San Jose State,W,3,20,6.7,0,jermaine-landrum-1
+Jim Leonhard,2004-11-20,11,Wisconsin,@,Iowa,L,2,41,20.5,0,jim-leonhard-1
+Reggie Lindsey,2004-11-20,10,Alabama-Birmingham,@,Army,W,2,6,3.0,0,reggie-lindsey-1
+Mark Logan,2004-11-20,10,Georgia Tech,,Virginia,L,1,4,4.0,0,mark-logan-1
+Jonathan Lowe,2004-11-20,10,Mississippi State,,Arkansas,L,1,8,8.0,0,jonathan-lowe-1
+Calvin Lowry,2004-11-20,11,Penn State,,Michigan State,W,2,15,7.5,0,calvin-lowry-1
+David Marrero,2004-11-20,11,Stanford,@,California,L,1,4,4.0,0,david-marrero-1
+Hoost Marsh,2004-11-20,11,Wyoming,@,New Mexico,L,4,79,19.8,0,hoost-marsh-1
+Leodis McKelvin,2004-11-20,11,Troy,,Middle Tennessee State,W,4,63,15.8,0,leodis-mckelvin-1
+Brandon McLean,2004-11-20,10,Connecticut,,Buffalo,W,1,10,10.0,0,brandon-mclean-1
+Justin Miller,2004-11-20,11,Clemson,,South Carolina,W,2,21,10.5,0,justin-miller-1
+Todd Miller,2004-11-20,10,Iowa State,@,Kansas State,W,2,3,1.5,0,todd-miller-1
+Tim Mixon,2004-11-20,10,California,,Stanford,W,3,61,20.3,0,tim-mixon-1
+Dominique Morris,2004-11-20,11,Vanderbilt,,Tennessee,L,1,10,10.0,0,dominique-morris-1
+Sinorice Moss,2004-11-20,10,Miami (FL),,Wake Forest,W,1,19,19.0,0,sinorice-moss-1
+Thomson Omboga,2004-11-20,10,Missouri,,Kansas,L,1,44,44.0,0,thomson-omboga-1
+Chijioke Onyenegecha,2004-11-20,11,Oklahoma,@,Baylor,W,1,-1,-1.0,0,chijioke-onyenegecha-1
+Chad Owens,2004-11-20,10,Hawaii,,Idaho,W,4,31,7.8,0,chad-owens-1
+Alvin Pearman,2004-11-20,10,Virginia,@,Georgia Tech,W,5,24,4.8,0,alvin-pearman-1
+Antonio Perkins,2004-11-20,11,Oklahoma,@,Baylor,W,1,-2,-2.0,0,antonio-perkins-1
+Quinton Person,2004-11-20,11,North Carolina,@,Duke,W,1,0,0.0,0,quinton-person-1
+Troy Pindell,2004-11-20,10,Florida Atlantic,,Illinois State,W,1,12,12.0,0,troy-pindell-1
+Tyrone Prothro,2004-11-20,11,Alabama,,Auburn,L,2,65,32.5,0,tyrone-prothro-1
+Daniel Ramirez,2004-11-20,11,New Mexico,,Wyoming,W,2,14,7.0,0,daniel-ramirez-1
+Willie Reid,2004-11-20,11,Florida State,,Florida,L,6,65,10.8,0,willie-reid-1
+Dante Ridgeway,2004-11-20,11,Ball State,@,Central Michigan,L,1,7,7.0,0,dante-ridgeway-1
+Kevin Robinson,2004-11-20,11,Utah State,,New Mexico State,W,2,26,13.0,0,kevin-robinson-1
+Ryne Robinson,2004-11-20,11,Miami (OH),@,Akron,W,1,6,6.0,0,ryne-robinson-1
+Cory Rodgers,2004-11-20,10,Texas Christian,,Southern Mississippi,W,1,16,16.0,0,cory-rodgers-1
+Chris Royal,2004-11-20,11,Marshall,,Western Michigan,W,1,17,17.0,0,chris-royal-1
+Agim Shabaj,2004-11-20,11,Michigan State,@,Penn State,L,1,1,1.0,0,agim-shabaj-1
+Sonny Shackelford,2004-11-20,11,Washington,@,Washington State,L,6,45,7.5,0,sonny-shackelford-1
+Austin Smith,2004-11-20,10,Boise State,,Louisiana Tech,W,2,14,7.0,0,austin-smith-1
+Clifton Smith,2004-11-20,10,Fresno State,,Nevada,W,1,8,8.0,0,clifton-smith-2
+Emmanuel Spann,2004-11-20,11,Marshall,,Western Michigan,W,1,-1,-1.0,0,emmanuel-spann-1
+Sammie Stroughter,2004-11-20,11,Oregon State,,Oregon,W,3,32,10.7,0,sammie-stroughter-1
+Taylor Stubblefield,2004-11-20,11,Purdue,,Indiana,W,3,-3,-1.0,0,taylor-stubblefield-1
+Chris Sutton,2004-11-20,11,Air Force,,Colorado State,W,1,8,8.0,0,chris-sutton-1
+Larry Taylor,2004-11-20,10,Connecticut,,Buffalo,W,1,3,3.0,0,larry-taylor-1
+Larry Taylor,2004-11-20,10,Florida Atlantic,,Illinois State,W,1,6,6.0,0,larry-taylor-2
+Brittney Tellis,2004-11-20,10,Florida Atlantic,,Illinois State,W,3,27,9.0,0,brittney-tellis-1
+Dejuan Tribble,2004-11-20,10,Boston College,@,Temple,W,2,-2,-1.0,0,dejuan-tribble-1
+Eric Weddle,2004-11-20,11,Utah,,Brigham Young,W,3,48,16.0,0,eric-weddle-1
+Donell Wheaton,2004-11-20,11,Nevada-Las Vegas,@,San Diego State,L,2,8,4.0,0,donell-wheaton-1
+Darron White,2004-11-20,10,Memphis,@,East Carolina,W,1,12,12.0,0,darron-white-1
+Noah Whiteside,2004-11-20,11,South Carolina,@,Clemson,L,1,-5,-5.0,0,noah-whiteside-1
+Carnell Williams,2004-11-20,11,Auburn,@,Alabama,W,2,-3,-1.5,0,carnell-williams-1
+Travis Williams,2004-11-20,10,East Carolina,,Memphis,L,6,148,24.7,1,travis-williams-1
+Kerry Wright,2004-11-20,11,Middle Tennessee State,@,Troy,L,1,6,6.0,0,kerry-wright-1
+Derrick Bush,2004-11-23,11,Kent State,@,Central Florida,W,3,18,6.0,0,derrick-bush-1
+Brandon Marshall,2004-11-23,11,Central Florida,,Kent State,L,3,33,11.0,0,brandon-marshall-1
+Charles Sharon,2004-11-23,11,Bowling Green State,@,Toledo,L,1,22,22.0,0,charles-sharon-1
+Adam Jones,2004-11-25,11,West Virginia,@,Pittsburgh,L,1,12,12.0,0,adam-jones-1
+Antonio Lewis,2004-11-25,11,West Virginia,@,Pittsburgh,L,2,16,8.0,0,antonio-lewis-1
+Darrelle Revis,2004-11-25,10,Pittsburgh,,West Virginia,W,1,19,19.0,0,darrelle-revis-1
+Allen Richardson,2004-11-25,10,Pittsburgh,,West Virginia,W,1,4,4.0,0,allen-richardson-1
+Larry Taylor,2004-11-25,11,Connecticut,@,Rutgers,W,1,14,14.0,0,larry-taylor-1
+Skyler Green,2004-11-26,11,Louisiana State,@,Arkansas,W,1,2,2.0,0,skyler-green-1
+Michael Griffin,2004-11-26,11,Texas,,Texas A&M,W,1,18,18.0,0,michael-griffin-1
+Chevis Jackson,2004-11-26,11,Louisiana State,@,Arkansas,W,1,-16,-16.0,0,chevis-jackson-1
+Erik Mayes,2004-11-26,11,Texas A&M,@,Texas,L,2,10,5.0,0,erik-mayes-1
+Santino Panico,2004-11-26,11,Nebraska,,Colorado,L,1,-3,-3.0,0,santino-panico-1
+Terry Richardson,2004-11-26,11,Arizona State,@,Arizona,L,3,96,32.0,0,terry-richardson-1
+Stephone Robinson,2004-11-26,11,Colorado,@,Nebraska,W,2,12,6.0,0,stephone-robinson-1
+Syndric Steptoe,2004-11-26,11,Arizona,,Arizona State,W,1,12,12.0,0,syndric-steptoe-1
+Ramonce Taylor,2004-11-26,11,Texas,,Texas A&M,W,1,-1,-1.0,0,ramonce-taylor-1
+Kiffin Wigert,2004-11-26,11,Nebraska,,Colorado,L,1,7,7.0,0,kiffin-wigert-1
+Danny Amendola,2004-11-27,11,Texas Tech,,Oklahoma State,W,3,47,15.7,0,danny-amendola-1
+Jeff Backes,2004-11-27,12,Northwestern,@,Hawaii,L,2,4,2.0,0,jeff-backes-1
+Landel Bembo,2004-11-27,11,Syracuse,@,Boston College,W,2,-9,-4.5,0,landel-bembo-1
+Darrell Blackman,2004-11-27,11,North Carolina State,N,East Carolina,W,6,85,14.2,0,darrell-blackman-1
+Will Blackmon,2004-11-27,11,Boston College,,Syracuse,L,1,15,15.0,0,will-blackmon-1
+Javan Camon,2004-11-27,10,South Florida,,Memphis,L,1,0,0.0,0,javan-camon-1
+Patrick Carter,2004-11-27,11,Georgia Tech,@,Georgia,L,5,22,4.4,0,patrick-carter-1
+Prentiss Elliott,2004-11-27,11,Oklahoma State,@,Texas Tech,L,1,19,19.0,0,prentiss-elliott-1
+Mike Espy,2004-11-27,11,Mississippi,,Mississippi State,W,2,9,4.5,0,mike-espy-1
+John Eubanks,2004-11-27,10,Southern Mississippi,,Alabama-Birmingham,W,3,35,11.7,0,john-eubanks-1
+Diamond Ferri,2004-11-27,11,Syracuse,@,Boston College,W,2,8,4.0,0,diamond-ferri-1
+Jonathan Hefney,2004-11-27,11,Tennessee,,Kentucky,W,4,0,0.0,0,jonathan-hefney-1
+Carlyle Holiday,2004-11-27,11,Notre Dame,@,Southern California,L,1,9,9.0,0,carlyle-holiday-1
+Willie Idlette,2004-11-27,11,Wake Forest,@,Maryland,L,4,22,5.5,0,willie-idlette-1
+Adam Jennings,2004-11-27,11,Fresno State,@,San Jose State,W,2,29,14.5,0,adam-jennings-1
+Brandon Johnson,2004-11-27,10,Louisville,,Cincinnati,W,1,24,24.0,1,brandon-johnson-1
+Richard Johnson,2004-11-27,11,Virginia Tech,,Virginia,W,2,9,4.5,0,richard-johnson-1
+James Jones,2004-11-27,11,San Jose State,,Fresno State,L,1,4,4.0,0,james-jones-3
+Montrell Jones,2004-11-27,10,Louisville,,Cincinnati,W,4,112,28.0,1,montrell-jones-1
+T.J. Jones,2004-11-27,12,Northwestern,@,Hawaii,L,1,18,18.0,1,tj-jones-1
+Reggie Lindsey,2004-11-27,11,Alabama-Birmingham,@,Southern Mississippi,L,4,11,2.8,0,reggie-lindsey-1
+Rafael Little,2004-11-27,11,Kentucky,@,Tennessee,L,1,4,4.0,0,rafael-little-1
+Jonathan Lowe,2004-11-27,11,Mississippi State,@,Mississippi,L,2,20,10.0,0,jonathan-lowe-1
+Todd Miller,2004-11-27,11,Iowa State,,Missouri,L,2,9,4.5,0,todd-miller-1
+Thomson Omboga,2004-11-27,11,Missouri,@,Iowa State,W,1,1,1.0,0,thomson-omboga-1
+Chad Owens,2004-11-27,11,Hawaii,,Northwestern,W,4,104,26.0,1,chad-owens-1
+Alvin Pearman,2004-11-27,11,Virginia,@,Virginia Tech,L,2,16,8.0,0,alvin-pearman-1
+Chad Rimpsey,2004-11-27,10,Louisville,,Cincinnati,W,1,18,18.0,0,chad-rimpsey-1
+Cory Rodgers,2004-11-27,11,Texas Christian,,Tulane,L,2,12,6.0,0,cory-rodgers-1
+Alex Rosenblum,2004-11-27,12,Nevada,,Boise State,L,1,0,0.0,0,alex-rosenblum-1
+Eddie Royal,2004-11-27,11,Virginia Tech,,Virginia,W,2,9,4.5,0,eddie-royal-1
+Miguel Scott,2004-11-27,11,North Carolina State,N,East Carolina,W,1,23,23.0,1,miguel-scott-1
+Austin Smith,2004-11-27,11,Boise State,@,Nevada,W,4,75,18.8,0,austin-smith-1
+Fred Smith,2004-11-27,10,Tulane,@,Texas Christian,W,2,13,6.5,0,fred-smith-2
+Steve Suter,2004-11-27,11,Maryland,,Wake Forest,W,3,2,0.7,0,steve-suter-1
+Brittney Tellis,2004-11-27,11,Florida Atlantic,,Edward Waters,W,6,95,15.8,0,brittney-tellis-1
+Brian Toal,2004-11-27,11,Boston College,,Syracuse,L,1,18,18.0,0,brian-toal-1
+Travis Williams,2004-11-27,11,East Carolina,N,North Carolina State,L,3,10,3.3,0,travis-williams-1
+Corey Brazil,2004-11-29,12,Louisiana Tech,@,Rice,W,1,46,46.0,0,corey-brazil-1
+Mike Falco,2004-11-29,11,Rice,,Louisiana Tech,L,2,19,9.5,0,mike-falco-1
+Lance Moore,2004-12-02,12,Toledo,N,Miami (OH),W,3,26,8.7,0,lance-moore-1
+Ryne Robinson,2004-12-02,12,Miami (OH),N,Toledo,L,2,13,6.5,0,ryne-robinson-1
+Craig Bragg,2004-12-04,11,UCLA,,Southern California,L,2,96,48.0,1,craig-bragg-1
+Kyle Brown,2004-12-04,12,Michigan State,@,Hawaii,L,1,20,20.0,0,kyle-brown-2
+Reggie Bush,2004-12-04,12,Southern California,@,UCLA,W,2,19,9.5,0,reggie-bush-1
+Greig Carlson,2004-12-04,12,Southern California,@,UCLA,W,1,6,6.0,0,greig-carlson-1
+Harry Douglas,2004-12-04,11,Louisville,@,Tulane,W,1,3,3.0,0,harry-douglas-1
+John Eubanks,2004-12-04,11,Southern Mississippi,,California,L,3,41,13.7,0,john-eubanks-1
+Devin Hester,2004-12-04,11,Miami (FL),,Virginia Tech,L,2,1,0.5,0,devin-hester-1
+Chris Horton,2004-12-04,11,UCLA,,Southern California,L,1,6,6.0,0,chris-horton-1
+Richard Johnson,2004-12-04,12,Virginia Tech,@,Miami (FL),W,2,0,0.0,0,richard-johnson-1
+Montrell Jones,2004-12-04,11,Louisville,@,Tulane,W,2,6,3.0,0,montrell-jones-1
+Chad Owens,2004-12-04,12,Hawaii,,Michigan State,W,2,18,9.0,0,chad-owens-1
+Roscoe Parrish,2004-12-04,11,Miami (FL),,Virginia Tech,L,1,5,5.0,0,roscoe-parrish-1
+Antonio Perkins,2004-12-04,12,Oklahoma,N,Colorado,W,4,16,4.0,0,antonio-perkins-1
+Anthony Reddick,2004-12-04,11,Miami (FL),,Virginia Tech,L,1,13,13.0,0,anthony-reddick-1
+Darrelle Revis,2004-12-04,11,Pittsburgh,@,South Florida,W,3,22,7.3,0,darrelle-revis-1
+Stephone Robinson,2004-12-04,12,Colorado,N,Oklahoma,L,2,2,1.0,0,stephone-robinson-1
+Eddie Royal,2004-12-04,12,Virginia Tech,@,Miami (FL),W,2,16,8.0,0,eddie-royal-1
+Johnathan Russell,2004-12-04,11,Louisville,@,Tulane,W,1,9,9.0,0,johnathan-russell-1
+Agim Shabaj,2004-12-04,12,Michigan State,@,Hawaii,L,2,7,3.5,0,agim-shabaj-1
+Fred Smith,2004-12-04,11,Tulane,,Louisville,L,1,12,12.0,0,fred-smith-2
+Jason Tomlinson,2004-12-04,11,Navy,N,Army,W,2,27,13.5,0,jason-tomlinson-1
+Scott Wesley,2004-12-04,11,Army,N,Navy,L,3,20,6.7,0,scott-wesley-1
+Carnell Williams,2004-12-04,12,Auburn,N,Tennessee,W,2,4,2.0,0,carnell-williams-1
+John Eubanks,2004-12-14,12,Southern Mississippi,N,North Texas,W,3,12,4.0,0,john-eubanks-1
+Johnny Quinn,2004-12-14,12,North Texas,N,Southern Mississippi,L,2,-8,-4.0,0,johnny-quinn-1
+Tavarres Williams,2004-12-14,12,Southern Mississippi,N,North Texas,W,2,10,5.0,0,tavarres-williams-1
+Diamond Ferri,2004-12-21,12,Syracuse,N,Georgia Tech,L,2,8,4.0,0,diamond-ferri-1
+Reuben Houston,2004-12-21,12,Georgia Tech,N,Syracuse,W,1,3,3.0,0,reuben-houston-1
+Xavier McGuire,2004-12-21,12,Georgia Tech,N,Syracuse,W,1,4,4.0,0,xavier-mcguire-1
+Charles Sharon,2004-12-22,12,Bowling Green State,N,Memphis,W,2,0,0.0,0,charles-sharon-1
+Darron White,2004-12-22,12,Memphis,N,Bowling Green State,L,2,11,5.5,0,darron-white-1
+Craig Bragg,2004-12-23,12,UCLA,N,Wyoming,L,3,31,10.3,0,craig-bragg-1
+Trent Cole,2004-12-23,12,Cincinnati,N,Marshall,W,1,15,15.0,0,trent-cole-1
+Mike Daniels,2004-12-23,12,Cincinnati,N,Marshall,W,1,19,19.0,0,mike-daniels-1
+Tyjuan Hagler,2004-12-23,12,Cincinnati,N,Marshall,W,1,19,19.0,0,tyjuan-hagler-1
+Hoost Marsh,2004-12-23,12,Wyoming,N,UCLA,W,1,1,1.0,0,hoost-marsh-1
+Emmanuel Spann,2004-12-23,12,Marshall,N,Cincinnati,L,1,8,8.0,0,emmanuel-spann-1
+Reggie Lindsey,2004-12-24,12,Alabama-Birmingham,@,Hawaii,L,3,14,4.7,0,reggie-lindsey-1
+Chad Owens,2004-12-24,13,Hawaii,,Alabama-Birmingham,W,5,90,18.0,1,chad-owens-1
+Steve Odom,2004-12-27,13,Toledo,N,Connecticut,L,1,7,7.0,0,steve-odom-1
+Larry Taylor,2004-12-27,12,Connecticut,N,Toledo,W,1,68,68.0,1,larry-taylor-1
+Marvin Taylor,2004-12-27,12,Connecticut,N,Toledo,W,1,1,1.0,0,marvin-taylor-1
+Derrick Doggett,2004-12-28,12,Oregon State,N,Notre Dame,W,1,23,23.0,0,derrick-doggett-1
+Carlyle Holiday,2004-12-28,12,Notre Dame,N,Oregon State,L,1,7,7.0,0,carlyle-holiday-1
+Todd Miller,2004-12-28,12,Iowa State,N,Miami (OH),W,3,34,11.3,0,todd-miller-1
+Ryne Robinson,2004-12-28,13,Miami (OH),N,Iowa State,L,3,72,24.0,0,ryne-robinson-1
+Sammie Stroughter,2004-12-28,12,Oregon State,N,Notre Dame,W,4,54,13.5,0,sammie-stroughter-1
+Prentiss Elliott,2004-12-29,12,Oklahoma State,N,Ohio State,L,2,1,0.5,0,prentiss-elliott-1
+Jahmal Fenner,2004-12-29,12,Texas-El Paso,N,Colorado,L,2,11,5.5,0,jahmal-fenner-1
+Ted Ginn Jr.,2004-12-29,12,Ohio State,N,Oklahoma State,W,1,7,7.0,0,ted-ginn-jr-1
+Santonio Holmes,2004-12-29,12,Ohio State,N,Oklahoma State,W,1,8,8.0,0,santonio-holmes-1
+Stephone Robinson,2004-12-29,13,Colorado,N,Texas-El Paso,W,2,2,1.0,0,stephone-robinson-1
+Ashton Youboty,2004-12-29,12,Ohio State,N,Oklahoma State,W,1,2,2.0,0,ashton-youboty-1
+Danny Amendola,2004-12-30,12,Texas Tech,N,California,W,2,11,5.5,0,danny-amendola-1
+Will Blackmon,2004-12-30,12,Boston College,N,North Carolina,W,2,2,1.0,0,will-blackmon-1
+Lionel Hickenbottom,2004-12-30,12,Northern Illinois,N,Troy,W,1,1,1.0,0,lionel-hickenbottom-1
+Leodis McKelvin,2004-12-30,12,Troy,N,Northern Illinois,L,4,26,6.5,0,leodis-mckelvin-1
+Tim Mixon,2004-12-30,12,California,N,Texas Tech,L,2,11,5.5,0,tim-mixon-1
+Brandon Payne,2004-12-30,12,New Mexico,N,Navy,L,1,2,2.0,0,brandon-payne-1
+Quinton Person,2004-12-30,12,North Carolina,N,Boston College,L,1,10,10.0,0,quinton-person-1
+Dan Sheldon,2004-12-30,12,Northern Illinois,N,Troy,W,2,26,13.0,0,dan-sheldon-1
+Dejuan Tribble,2004-12-30,12,Boston College,N,North Carolina,W,2,30,15.0,0,dejuan-tribble-1
+Dustin Utschig,2004-12-30,12,Northern Illinois,N,Troy,W,1,16,16.0,0,dustin-utschig-1
+Marion Barber III,2004-12-31,12,Minnesota,N,Alabama,W,4,10,2.5,0,marion-barber-iii-1
+Vernell Brown,2004-12-31,12,Florida,N,Miami (FL),L,1,4,4.0,0,vernell-brown-1
+Rudy Burgess,2004-12-31,12,Arizona State,N,Purdue,W,1,11,11.0,0,rudy-burgess-1
+Chris Carr,2004-12-31,12,Boise State,N,Louisville,L,1,14,14.0,0,chris-carr-1
+Devin Hester,2004-12-31,12,Miami (FL),N,Florida,W,1,9,9.0,0,devin-hester-1
+Montrell Jones,2004-12-31,12,Louisville,N,Boise State,W,4,36,9.0,0,montrell-jones-1
+Tremaine McCollum,2004-12-31,12,Florida,N,Miami (FL),L,1,13,13.0,0,tremaine-mccollum-1
+Roscoe Parrish,2004-12-31,12,Miami (FL),N,Florida,W,3,72,24.0,1,roscoe-parrish-1
+Bernard Pollard,2004-12-31,12,Purdue,N,Arizona State,L,1,19,19.0,0,bernard-pollard-1
+Tyrone Prothro,2004-12-31,12,Alabama,N,Minnesota,L,2,10,5.0,0,tyrone-prothro-1
+Terry Richardson,2004-12-31,12,Arizona State,N,Purdue,W,1,0,0.0,0,terry-richardson-1
+Taylor Stubblefield,2004-12-31,12,Purdue,N,Arizona State,L,2,6,3.0,0,taylor-stubblefield-1
+Steve Breaston,2005-01-01,12,Michigan,N,Texas,L,1,2,2.0,0,steve-breaston-1
+Thomas Flowers,2005-01-01,12,Georgia,N,Wisconsin,W,5,45,9.0,0,thomas-flowers-1
+Skyler Green,2005-01-01,12,Louisiana State,N,Iowa,L,4,42,10.5,0,skyler-green-1
+Jonathan Hefney,2005-01-01,13,Tennessee,N,Texas A&M,W,3,20,6.7,0,jonathan-hefney-1
+Ed Hinkel,2005-01-01,12,Iowa,N,Louisiana State,W,3,17,5.7,0,ed-hinkel-1
+Adam Jones,2005-01-01,12,West Virginia,N,Florida State,L,1,11,11.0,0,adam-jones-1
+Jim Leonhard,2005-01-01,12,Wisconsin,N,Georgia,L,3,34,11.3,0,jim-leonhard-1
+Ryan Majerus,2005-01-01,12,Iowa,N,Louisiana State,W,1,0,0.0,0,ryan-majerus-1
+Erik Mayes,2005-01-01,12,Texas A&M,N,Tennessee,L,1,-6,-6.0,0,erik-mayes-1
+Miguel Merrick,2005-01-01,12,Iowa,N,Louisiana State,W,1,21,21.0,0,miguel-merrick-1
+Willie Reid,2005-01-01,12,Florida State,N,West Virginia,W,1,8,8.0,0,willie-reid-1
+Aaron Ross,2005-01-01,12,Texas,N,Michigan,W,2,8,4.0,0,aaron-ross-1
+Ramonce Taylor,2005-01-01,12,Texas,N,Michigan,W,2,1,0.5,0,ramonce-taylor-1
+Eric Weddle,2005-01-01,12,Utah,N,Pittsburgh,W,1,10,10.0,0,eric-weddle-1
+Mike Imoh,2005-01-03,13,Virginia Tech,N,Auburn,L,1,-5,-5.0,0,mike-imoh-1
+Carnell Williams,2005-01-03,13,Auburn,N,Virginia Tech,W,2,17,8.5,0,carnell-williams-1
+Mark Bradley,2005-01-04,13,Oklahoma,N,Southern California,L,1,3,3.0,0,mark-bradley-1
+Reggie Bush,2005-01-04,13,Southern California,N,Oklahoma,W,1,7,7.0,0,reggie-bush-1

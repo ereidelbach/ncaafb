@@ -1,0 +1,1710 @@
+Player,Date,G,School,Loc,Opponent,WL,XP Made,XP Att,XP %,FG Made,FG Att,FG %,Pts,unique_id
+Rigoberto Sanchez,2016-08-26,1,Hawaii,N,California,L,4,4,100.0,1,1,100.0,7,rigoberto-sanchez-1
+Matt Anderson,2016-08-26,1,California,N,Hawaii,W,6,6,100.0,3,3,100.0,15,matt-anderson-3
+Blaton Creque,2016-09-01,1,Louisville,,UNC Charlotte,W,1,1,100.0,0,0,,1,blaton-creque-1
+Connor Haskins,2016-09-01,1,North Carolina State,,William & Mary,W,1,1,100.0,0,0,,1,connor-haskins-1
+Michael Rubino,2016-09-01,1,Appalachian State,@,Tennessee,L,1,2,50.0,0,1,0.0,1,michael-rubino-1
+Mike Weaver,2016-09-01,1,Wake Forest,,Tulane,W,1,1,100.0,0,0,,1,mike-weaver-1
+Stephen Muscarello,2016-09-01,1,UNC Charlotte,@,Louisville,L,2,2,100.0,0,0,,2,stephen-muscarello-1
+Josh Pasley,2016-09-01,1,Cincinnati,,Tennessee-Martin,W,2,3,66.7,0,1,0.0,2,josh-pasley-1
+Hayden Tobola,2016-09-01,1,Rice,@,Western Kentucky,L,2,2,100.0,0,0,,2,hayden-tobola-1
+Garrett Owens,2016-09-01,1,Oregon State,@,Minnesota,L,3,3,100.0,0,0,,3,garrett-owens-1
+Andrew Dirocco,2016-09-01,1,Tulane,@,Wake Forest,L,0,0,,1,2,50.0,3,andrew-dirocco-1
+Tommy Openshaw,2016-09-01,1,Vanderbilt,,South Carolina,L,1,1,100.0,1,2,50.0,4,tommy-openshaw-1
+Kyle Bambard,2016-09-01,1,North Carolina State,,William & Mary,W,5,6,83.3,0,0,,5,kyle-bambard-1
+Emmit Carpenter,2016-09-01,1,Minnesota,,Oregon State,W,3,3,100.0,1,1,100.0,6,emmit-carpenter-1
+Griffin Oakes,2016-09-01,1,Indiana,@,Florida International,W,3,3,100.0,1,2,50.0,6,griffin-oakes-1
+Andy Phillips,2016-09-01,1,Utah,,Southern Utah,W,3,3,100.0,1,2,50.0,6,andy-phillips-2
+Bobby Puyol,2016-09-01,1,Connecticut,,Maine,W,3,3,100.0,1,1,100.0,6,bobby-puyol-1
+Skyler Simcox,2016-09-01,1,Western Kentucky,,Rice,W,3,3,100.0,1,1,100.0,6,skyler-simcox-1
+Brian Eavey,2016-09-01,1,Central Michigan,,Presbyterian,W,7,7,100.0,0,0,,7,brian-eavey-1
+Elliot Fry,2016-09-01,1,South Carolina,@,Vanderbilt,W,1,1,100.0,2,2,100.0,7,elliot-fry-1
+Austin Taylor,2016-09-01,1,Florida International,,Indiana,L,1,1,100.0,2,2,100.0,7,austin-taylor-2
+Aaron Medley,2016-09-01,1,Tennessee,,Appalachian State,W,2,2,100.0,2,2,100.0,8,aaron-medley-1
+Ryan Nuss,2016-09-01,1,Western Kentucky,,Rice,W,2,2,100.0,2,3,66.7,8,ryan-nuss-1
+Austin Rehkow,2016-09-01,1,Idaho,,Montana State,W,2,2,100.0,2,2,100.0,8,austin-rehkow-1
+Evan O'Hara,2016-09-01,1,Louisville,,UNC Charlotte,W,9,9,100.0,0,0,,9,evan-ohara-1
+Evan Pantels,2016-09-01,1,Nevada-Las Vegas,,Jackson State,W,9,9,100.0,0,0,,9,evan-pantels-1
+Brock Warren,2016-09-01,1,Utah State,,Weber State,W,6,6,100.0,1,1,100.0,9,brock-warren-1
+Jason Sanders,2016-09-01,1,New Mexico,,South Dakota,W,6,6,100.0,2,2,100.0,12,jason-sanders-1
+Wyatt Bryan,2016-09-02,1,Colorado State,N,Colorado,L,1,1,100.0,0,0,,1,wyatt-bryan-1
+Rogier Ten Lohuis,2016-09-02,1,Georgia State,,Ball State,L,3,3,100.0,0,0,,3,rogier-ten-lohuis-1
+Michael Geiger,2016-09-02,1,Michigan State,,Furman,W,4,4,100.0,0,1,0.0,4,michael-geiger-1
+JD Houston,2016-09-02,1,Arkansas State,,Toledo,L,1,1,100.0,1,1,100.0,4,jd-houston-1
+Mitchell Howard,2016-09-02,1,Army,@,Temple,W,4,4,100.0,0,2,0.0,4,mitchell-howard-1
+Conrad Ukropina,2016-09-02,1,Stanford,,Kansas State,W,3,3,100.0,1,1,100.0,6,conrad-ukropina-1
+Brent Zuzo,2016-09-02,1,Nevada,,Cal Poly,W,3,3,100.0,1,2,50.0,6,brent-zuzo-1
+Morgan Hagee,2016-09-02,1,Ball State,@,Georgia State,W,4,4,100.0,1,2,50.0,7,morgan-hagee-1
+Austin Jones,2016-09-02,1,Temple,,Army,L,1,1,100.0,2,2,100.0,7,austin-jones-4
+Matthew McCrane,2016-09-02,1,Kansas State,@,Stanford,L,1,1,100.0,2,3,66.7,7,matthew-mccrane-1
+Jameson Vest,2016-09-02,1,Toledo,@,Arkansas State,W,4,4,100.0,1,2,50.0,7,jameson-vest-1
+Adam Mitcheson,2016-09-02,1,Buffalo,,Albany,L,1,1,100.0,3,4,75.0,10,adam-mitcheson-1
+Paul Fricano,2016-09-02,1,Eastern Michigan,,Mississippi Valley State,W,8,8,100.0,1,2,50.0,11,paul-fricano-1
+Chris Callahan,2016-09-02,1,Baylor,,Northwestern State,W,7,7,100.0,2,2,100.0,13,chris-callahan-3
+Diego Gonzalez,2016-09-02,1,Colorado,N,Colorado State,W,5,5,100.0,3,3,100.0,14,diego-gonzalez-2
+Cole Murphy,2016-09-02,1,Syracuse,,Colgate,W,3,3,100.0,4,4,100.0,15,cole-murphy-1
+Matt Ammendola,2016-09-03,1,Oklahoma State,,Southeastern Louisiana,W,0,1,0.0,0,0,,0,matt-ammendola-1
+Daniel Portillo,2016-09-03,1,Texas-San Antonio,,Alabama State,W,0,2,0.0,0,0,,0,daniel-portillo-1
+Samuel Sloman,2016-09-03,1,Miami (OH),@,Iowa,L,0,0,,0,1,0.0,0,samuel-sloman-1
+Mike Caggiano,2016-09-03,1,Massachusetts,@,Florida,L,1,1,100.0,0,0,,1,mike-caggiano-1
+Spencer Lindsay,2016-09-03,1,Nebraska,,Fresno State,W,1,1,100.0,0,0,,1,spencer-lindsay-1
+Bratcher Underwood,2016-09-03,1,Troy,,Austin Peay,W,1,2,50.0,0,0,,1,bratcher-underwood-1
+Chandler Williams,2016-09-03,1,Troy,,Austin Peay,W,1,1,100.0,0,0,,1,chandler-williams-2
+Colby Delahoussaye,2016-09-03,1,Louisiana State,N,Wisconsin,L,2,2,100.0,0,0,,2,colby-delahoussaye-1
+Colton Lichtenberg,2016-09-03,1,Boston College,N,Georgia Tech,L,2,2,100.0,0,2,0.0,2,colton-lichtenberg-1
+Cole Netten,2016-09-03,1,Iowa State,,Northern Iowa,L,2,3,66.7,0,0,,2,cole-netten-1
+Dylan Sims,2016-09-03,1,Virginia,,Richmond,L,2,2,100.0,0,0,,2,dylan-sims-1
+Rhett Almond,2016-09-03,1,Brigham Young,N,Arizona,W,0,1,0.0,1,1,100.0,3,rhett-almond-1
+Nick Dowd,2016-09-03,1,Miami (OH),@,Iowa,L,3,3,100.0,0,0,,3,nick-dowd-1
+Cole Hedlund,2016-09-03,1,Arkansas,,Louisiana Tech,W,3,3,100.0,0,0,,3,cole-hedlund-1
+Jack Mitchell,2016-09-03,1,Northwestern,,Western Michigan,L,3,3,100.0,0,0,,3,jack-mitchell-2
+Trevor Moore,2016-09-03,1,North Texas,,Southern Methodist,L,3,3,100.0,0,0,,3,trevor-moore-1
+Gavin Patterson,2016-09-03,1,South Alabama,@,Mississippi State,W,3,3,100.0,0,2,0.0,3,gavin-patterson-1
+Michael Armstrong,2016-09-03,1,Southern Methodist,@,North Texas,W,0,0,,1,2,50.0,3,michael-armstrong-1
+Tucker McCann,2016-09-03,1,Missouri,@,West Virginia,L,0,0,,1,3,33.3,3,tucker-mccann-1
+Jake Oldroyd,2016-09-03,1,Brigham Young,N,Arizona,W,0,0,,1,1,100.0,3,jake-oldroyd-1
+Rigoberto Sanchez,2016-09-03,2,Hawaii,@,Michigan,L,0,0,,1,1,100.0,3,rigoberto-sanchez-1
+Stevie Artigue,2016-09-03,1,Louisiana,,Boise State,L,1,1,100.0,1,2,50.0,4,stevie-artigue-1
+Chris Blewitt,2016-09-03,1,Pittsburgh,,Villanova,W,4,4,100.0,0,2,0.0,4,chris-blewitt-1
+Drew Brown,2016-09-03,1,Nebraska,,Fresno State,W,4,4,100.0,0,0,,4,drew-brown-1
+Bryce Crawford,2016-09-03,1,San Jose State,@,Tulsa,L,1,1,100.0,1,1,100.0,4,bryce-crawford-1
+Parker Davidson,2016-09-03,1,New Mexico State,@,Texas-El Paso,L,1,2,50.0,1,1,100.0,4,parker-davidson-1
+Christian Hagan,2016-09-03,1,Northern Illinois,@,Wyoming,L,4,5,80.0,0,2,0.0,4,christian-hagan-1
+Kody Kroening,2016-09-03,1,Fresno State,@,Nebraska,L,1,1,100.0,1,2,50.0,4,kody-kroening-1
+Josh Pollack,2016-09-03,1,Arizona,N,Brigham Young,L,1,1,100.0,1,2,50.0,4,josh-pollack-1
+Jake Suder,2016-09-03,1,Bowling Green State,@,Ohio State,L,1,1,100.0,1,1,100.0,4,jake-suder-1
+Ryan Tice,2016-09-03,1,Michigan,,Hawaii,W,4,4,100.0,0,0,,4,ryan-tice-1
+Kenneth Allen,2016-09-03,1,Michigan,,Hawaii,W,5,5,100.0,0,0,,5,kenneth-allen-1
+Harrison Butker,2016-09-03,1,Georgia Tech,N,Boston College,W,2,2,100.0,1,1,100.0,5,harrison-butker-1
+Austin Macginnis,2016-09-03,1,Kentucky,,Southern Mississippi,L,5,5,100.0,0,0,,5,austin-macginnis-1
+Tom O'Leary,2016-09-03,1,Akron,,Virginia Military Institute,W,5,7,71.4,0,0,,5,tom-oleary-2
+Aidan Schneider,2016-09-03,1,Oregon,,California-Davis,W,2,2,100.0,1,1,100.0,5,aidan-schneider-1
+Austin Seibert,2016-09-03,1,Oklahoma,N,Houston,L,2,2,100.0,1,2,50.0,5,austin-seibert-1
+Tyler Bass,2016-09-03,1,Georgia Southern,,Savannah State,W,6,7,85.7,0,0,,6,tyler-bass-3
+Erik Powell,2016-09-03,1,Washington State,,Eastern Washington,L,6,6,100.0,0,1,0.0,6,erik-powell-1
+Nick Weiler,2016-09-03,1,North Carolina,N,Georgia,L,3,3,100.0,1,1,100.0,6,nick-weiler-1
+Matt Boermeester,2016-09-03,1,Southern California,N,Alabama,L,0,0,,2,2,100.0,6,matt-boermeester-1
+John Baron,2016-09-03,1,San Diego State,,New Hampshire,W,4,4,100.0,1,1,100.0,7,john-baron-1
+David Bonagura,2016-09-03,1,Rutgers,@,Washington,L,1,1,100.0,2,2,100.0,7,david-bonagura-1
+Daniel Carlson,2016-09-03,1,Auburn,,Clemson,L,1,1,100.0,2,2,100.0,7,daniel-carlson-1
+William Ham,2016-09-03,1,Georgia,N,North Carolina,W,4,4,100.0,1,2,50.0,7,william-ham-1
+Greg Huegel,2016-09-03,1,Clemson,@,Auburn,W,1,2,50.0,2,2,100.0,7,greg-huegel-1
+Shane Hynes,2016-09-03,1,Kent State,@,Penn State,L,1,1,100.0,2,3,66.7,7,shane-hynes-1
+Ryan Kay,2016-09-03,1,Troy,,Austin Peay,W,4,4,100.0,1,1,100.0,7,ryan-kay-1
+Daniel LaCamera,2016-09-03,1,Texas A&M,,UCLA,W,4,4,100.0,1,2,50.0,7,daniel-lacamera-1
+AJ Reed,2016-09-03,1,Duke,,North Carolina Central,W,7,7,100.0,0,0,,7,aj-reed-1
+Luke Strebel,2016-09-03,1,Air Force,,Abilene Christian,W,4,4,100.0,1,1,100.0,7,luke-strebel-1
+Josh Williams,2016-09-03,1,Southern Methodist,@,North Texas,W,4,4,100.0,1,1,100.0,7,josh-williams-9
+Matthew Wyman,2016-09-03,1,Kansas,,Rhode Island,W,7,7,100.0,0,1,0.0,7,matthew-wyman-1
+Jonathan Barnes,2016-09-03,1,Louisiana Tech,@,Arkansas,L,2,2,100.0,2,4,50.0,8,jonathan-barnes-1
+Craig Ford,2016-09-03,1,Louisiana-Monroe,,Southern,W,5,5,100.0,1,1,100.0,8,craig-ford-1
+Westin Graves,2016-09-03,1,Mississippi State,,South Alabama,L,2,2,100.0,2,4,50.0,8,westin-graves-1
+Greg Joseph,2016-09-03,1,Florida Atlantic,,Southern Illinois,W,5,5,100.0,1,1,100.0,8,greg-joseph-2
+Jay Mattox,2016-09-03,1,Texas-El Paso,,New Mexico State,W,5,5,100.0,1,1,100.0,8,jay-mattox-1
+Emilio Nadelman,2016-09-03,1,South Florida,,Towson,W,8,8,100.0,0,0,,8,emilio-nadelman-1
+Tyler Davis,2016-09-03,1,Penn State,,Kent State,W,3,3,100.0,2,2,100.0,9,tyler-davis-3
+J.D. Dillinger,2016-09-03,1,Purdue,,Eastern Kentucky,W,6,6,100.0,1,2,50.0,9,jd-dillinger-1
+Keith Duncan,2016-09-03,1,Iowa,,Miami (OH),W,6,6,100.0,1,1,100.0,9,keith-duncan-1
+Jake Elliott,2016-09-03,1,Memphis,,Southeast Missouri State,W,3,3,100.0,2,2,100.0,9,jake-elliott-1
+Redford Jones,2016-09-03,1,Tulsa,,San Jose State,W,6,6,100.0,1,1,100.0,9,redford-jones-1
+Tyler Rausa,2016-09-03,1,Boise State,@,Louisiana,W,6,6,100.0,1,2,50.0,9,tyler-rausa-1
+Michael Badgley,2016-09-03,1,Miami (FL),,Florida A&M,W,10,10,100.0,0,1,0.0,10,michael-badgley-1
+Rafael Gaglianone,2016-09-03,1,Wisconsin,N,Louisiana State,W,1,1,100.0,3,3,100.0,10,rafael-gaglianone-1
+Adam Greene,2016-09-03,1,Maryland,,Howard,W,7,7,100.0,1,1,100.0,10,adam-greene-1
+Adam Griffith,2016-09-03,1,Alabama,N,Southern California,W,7,7,100.0,1,1,100.0,10,adam-griffith-1
+Butch Hampton,2016-09-03,1,Western Michigan,@,Northwestern,W,1,1,100.0,3,4,75.0,10,butch-hampton-1
+Chase McLaughlin,2016-09-03,1,Illinois,,Murray State,W,7,7,100.0,1,1,100.0,10,chase-mclaughlin-1
+Bennett Moehring,2016-09-03,1,Navy,,Fordham,W,7,7,100.0,1,1,100.0,10,bennett-moehring-1
+JJ Molson,2016-09-03,1,UCLA,@,Texas A&M,L,1,1,100.0,3,4,75.0,10,jj-molson-1
+Eddy Pineiro,2016-09-03,1,Florida,,Massachusetts,W,1,1,100.0,3,3,100.0,10,eddy-pineiro-1
+Davis Plowman,2016-09-03,1,East Carolina,,Western Carolina,W,7,7,100.0,1,2,50.0,10,davis-plowman-1
+Cooper Rothe,2016-09-03,1,Wyoming,,Northern Illinois,W,4,4,100.0,2,4,50.0,10,cooper-rothe-1
+Joey Slye,2016-09-03,1,Virginia Tech,,Liberty,W,4,4,100.0,2,3,66.7,10,joey-slye-1
+Tyler Durbin,2016-09-03,1,Ohio State,,Bowling Green State,W,11,11,100.0,0,0,,11,tyler-durbin-1
+Ryan Graf,2016-09-03,1,Texas Christian,,South Dakota State,W,8,8,100.0,1,1,100.0,11,ryan-graf-1
+Zane Gonzalez,2016-09-03,1,Arizona State,,Northern Arizona,W,3,4,75.0,3,3,100.0,12,zane-gonzalez-1
+Marcus Ripley,2016-09-03,1,Texas State,@,Ohio,W,6,6,100.0,2,2,100.0,12,marcus-ripley-1
+Cameron Van Winkle,2016-09-03,1,Washington,,Rutgers,W,6,6,100.0,2,3,66.7,12,cameron-van-winkle-1
+Ben Grogan,2016-09-03,1,Oklahoma State,,Southeastern Louisiana,W,7,7,100.0,2,2,100.0,13,ben-grogan-1
+Canon Rooker,2016-09-03,1,Middle Tennessee State,,Alabama A&M,W,7,7,100.0,2,2,100.0,13,canon-rooker-1
+Mike Molina,2016-09-03,1,West Virginia,,Missouri,W,2,2,100.0,4,4,100.0,14,mike-molina-1
+Parker Shaunfield,2016-09-03,1,Southern Mississippi,@,Kentucky,W,5,5,100.0,3,3,100.0,14,parker-shaunfield-1
+Matthew Wright,2016-09-03,1,Central Florida,,South Carolina State,W,2,2,100.0,4,4,100.0,14,matthew-wright-1
+Ty Cummings,2016-09-03,1,Houston,N,Oklahoma,W,3,3,100.0,4,4,100.0,15,ty-cummings-1
+Clayton Hatfield,2016-09-03,1,Texas Tech,,Stephen F. Austin,W,9,9,100.0,2,2,100.0,15,clayton-hatfield-1
+Louie Zervos,2016-09-03,1,Ohio,,Texas State,L,4,4,100.0,4,5,80.0,16,louie-zervos-1
+Joe Tillman,2016-09-04,1,Old Dominion,,Hampton,W,1,1,100.0,0,0,,1,joe-tillman-1
+Brad Davis,2016-09-04,1,Old Dominion,,Hampton,W,2,2,100.0,0,1,0.0,2,brad-davis-3
+Chris Kirtley,2016-09-04,1,Old Dominion,,Hampton,W,4,4,100.0,1,1,100.0,7,chris-kirtley-1
+Trent Domingue,2016-09-04,1,Texas,,Notre Dame,W,5,6,83.3,1,1,100.0,8,trent-domingue-1
+Justin Yoon,2016-09-04,1,Notre Dame,@,Texas,L,6,6,100.0,1,2,50.0,9,justin-yoon-1
+Gary Wunderlich,2016-09-05,1,Mississippi,N,Florida State,L,4,4,100.0,0,0,,4,gary-wunderlich-1
+Ricky Aguayo,2016-09-05,1,Florida State,N,Mississippi,W,3,3,100.0,6,6,100.0,21,ricky-aguayo-1
+Austin Taylor,2016-09-09,2,Florida International,,Maryland,L,2,2,100.0,0,0,,2,austin-taylor-2
+Cole Murphy,2016-09-09,2,Syracuse,,Louisville,L,4,4,100.0,0,1,0.0,4,cole-murphy-1
+Adam Greene,2016-09-09,2,Maryland,@,Florida International,W,5,5,100.0,2,2,100.0,11,adam-greene-1
+Evan O'Hara,2016-09-09,2,Louisville,@,Syracuse,W,8,8,100.0,2,3,66.7,14,evan-ohara-1
+Connor Haskins,2016-09-10,2,North Carolina State,@,East Carolina,L,0,0,,0,2,0.0,0,connor-haskins-1
+Skyler Simcox,2016-09-10,2,Western Kentucky,@,Alabama,L,0,0,,0,1,0.0,0,skyler-simcox-1
+Mike Caggiano,2016-09-10,2,Massachusetts,,Boston College,L,1,1,100.0,0,0,,1,mike-caggiano-1
+Brad Davis,2016-09-10,2,Old Dominion,@,Appalachian State,L,1,1,100.0,0,0,,1,brad-davis-3
+Chris Graham,2016-09-10,2,Colorado,,Idaho State,W,1,1,100.0,0,1,0.0,1,chris-graham-1
+Randy Harvey,2016-09-10,2,Tulane,,Southern,W,1,1,100.0,0,0,,1,randy-harvey-1
+Austin Macginnis,2016-09-10,2,Kentucky,@,Florida,L,1,1,100.0,0,1,0.0,1,austin-macginnis-1
+Jay Mattox,2016-09-10,2,Texas-El Paso,@,Texas,L,1,1,100.0,0,0,,1,jay-mattox-1
+Jack Mitchell,2016-09-10,2,Northwestern,,Illinois State,L,1,1,100.0,0,1,0.0,1,jack-mitchell-2
+Andrew Strauch,2016-09-10,2,UCLA,,Nevada-Las Vegas,W,1,1,100.0,0,0,,1,andrew-strauch-1
+Ryan Tice,2016-09-10,2,Michigan,,Central Florida,W,1,1,100.0,0,0,,1,ryan-tice-1
+Brock Warren,2016-09-10,2,Utah State,@,Southern California,L,1,1,100.0,0,1,0.0,1,brock-warren-1
+Turner Adams,2016-09-10,2,Missouri,,Eastern Michigan,W,2,3,66.7,0,0,,2,turner-adams-1
+J.D. Dillinger,2016-09-10,2,Purdue,,Cincinnati,L,2,2,100.0,0,1,0.0,2,jd-dillinger-1
+Victor Falcon,2016-09-10,2,Texas-San Antonio,@,Colorado State,L,2,2,100.0,0,0,,2,victor-falcon-1
+Elliot Fry,2016-09-10,2,South Carolina,@,Mississippi State,L,2,2,100.0,0,1,0.0,2,elliot-fry-1
+JD Houston,2016-09-10,2,Arkansas State,@,Auburn,L,2,2,100.0,0,1,0.0,2,jd-houston-1
+AJ Reed,2016-09-10,2,Duke,,Wake Forest,L,2,2,100.0,0,2,0.0,2,aj-reed-1
+Austin Rehkow,2016-09-10,2,Idaho,@,Washington,L,2,2,100.0,0,1,0.0,2,austin-rehkow-1
+Dylan Sims,2016-09-10,2,Virginia,@,Oregon,L,2,3,66.7,0,0,,2,dylan-sims-1
+Rogier Ten Lohuis,2016-09-10,2,Georgia State,@,Air Force,L,2,2,100.0,0,1,0.0,2,rogier-ten-lohuis-1
+Hayden Tobola,2016-09-10,2,Rice,@,Army,L,2,2,100.0,0,0,,2,hayden-tobola-1
+Matthew Wright,2016-09-10,2,Central Florida,@,Michigan,L,2,2,100.0,0,2,0.0,2,matthew-wright-1
+Paul Fricano,2016-09-10,2,Eastern Michigan,@,Missouri,L,3,3,100.0,0,1,0.0,3,paul-fricano-1
+Chase McLaughlin,2016-09-10,2,Illinois,,North Carolina,L,3,3,100.0,0,0,,3,chase-mclaughlin-1
+Evan Pantels,2016-09-10,2,Nevada-Las Vegas,@,UCLA,L,3,3,100.0,0,0,,3,evan-pantels-1
+Jake Suder,2016-09-10,2,Bowling Green State,,North Dakota,W,3,4,75.0,0,1,0.0,3,jake-suder-1
+Matthew Wyman,2016-09-10,2,Kansas,,Ohio,L,3,3,100.0,0,0,,3,matthew-wyman-1
+Matt Ammendola,2016-09-10,2,Oklahoma State,,Central Michigan,L,0,0,,1,1,100.0,3,matt-ammendola-1
+Redford Jones,2016-09-10,2,Tulsa,@,Ohio State,L,0,0,,1,1,100.0,3,redford-jones-1
+Cole Netten,2016-09-10,2,Iowa State,@,Iowa,L,0,0,,1,1,100.0,3,cole-netten-1
+Colby Delahoussaye,2016-09-10,2,Louisiana State,,Jacksonville State,W,4,4,100.0,0,0,,4,colby-delahoussaye-1
+Greg Joseph,2016-09-10,2,Florida Atlantic,@,Miami (FL),L,1,1,100.0,1,1,100.0,4,greg-joseph-2
+Bennett Moehring,2016-09-10,2,Navy,,Connecticut,W,4,4,100.0,0,1,0.0,4,bennett-moehring-1
+Ryan Nuss,2016-09-10,2,Western Kentucky,@,Alabama,L,1,1,100.0,1,1,100.0,4,ryan-nuss-1
+Tom O'Leary,2016-09-10,2,Akron,@,Wisconsin,L,1,1,100.0,1,1,100.0,4,tom-oleary-2
+Erik Powell,2016-09-10,2,Washington State,@,Boise State,L,4,4,100.0,0,1,0.0,4,erik-powell-1
+Brent Zuzo,2016-09-10,2,Nevada,@,Notre Dame,L,1,1,100.0,1,1,100.0,4,brent-zuzo-1
+Harrison Butker,2016-09-10,2,Georgia Tech,,Mercer,W,5,5,100.0,0,0,,5,harrison-butker-1
+Craig Ford,2016-09-10,2,Louisiana-Monroe,@,Oklahoma,L,2,2,100.0,1,1,100.0,5,craig-ford-1
+Christian Hagan,2016-09-10,2,Northern Illinois,@,South Florida,L,2,2,100.0,1,1,100.0,5,christian-hagan-1
+Tucker McCann,2016-09-10,2,Missouri,,Eastern Michigan,W,5,6,83.3,0,0,,5,tucker-mccann-1
+JJ Molson,2016-09-10,2,UCLA,,Nevada-Las Vegas,W,5,5,100.0,0,0,,5,jj-molson-1
+Stephen Muscarello,2016-09-10,2,UNC Charlotte,,Elon,W,5,6,83.3,0,0,,5,stephen-muscarello-1
+Cooper Rothe,2016-09-10,2,Wyoming,@,Nebraska,L,2,2,100.0,1,3,33.3,5,cooper-rothe-1
+Rigoberto Sanchez,2016-09-10,3,Hawaii,,Tennessee-Martin,W,5,5,100.0,0,0,,5,rigoberto-sanchez-1
+Samuel Sloman,2016-09-10,2,Miami (OH),,Eastern Illinois,L,2,2,100.0,1,2,50.0,5,samuel-sloman-1
+Stevie Artigue,2016-09-10,2,Louisiana,,McNeese State,W,3,3,100.0,1,1,100.0,6,stevie-artigue-1
+Kyle Bambard,2016-09-10,2,North Carolina State,@,East Carolina,L,3,3,100.0,1,1,100.0,6,kyle-bambard-1
+Chris Blewitt,2016-09-10,2,Pittsburgh,,Penn State,W,6,6,100.0,0,1,0.0,6,chris-blewitt-1
+Ty Cummings,2016-09-10,2,Houston,,Lamar,W,6,6,100.0,0,2,0.0,6,ty-cummings-1
+Keith Duncan,2016-09-10,2,Iowa,,Iowa State,W,6,6,100.0,0,0,,6,keith-duncan-1
+Brian Eavey,2016-09-10,2,Central Michigan,@,Oklahoma State,W,3,4,75.0,1,1,100.0,6,brian-eavey-1
+Ben Grogan,2016-09-10,2,Oklahoma State,,Central Michigan,L,3,3,100.0,1,1,100.0,6,ben-grogan-1
+Ryan Kay,2016-09-10,2,Troy,@,Clemson,L,3,3,100.0,1,2,50.0,6,ryan-kay-1
+Younghoe Koo,2016-09-10,2,Georgia Southern,@,South Alabama,W,3,3,100.0,1,1,100.0,6,younghoe-koo-1
+Bobby Puyol,2016-09-10,2,Connecticut,@,Navy,L,3,3,100.0,1,1,100.0,6,bobby-puyol-1
+Canon Rooker,2016-09-10,2,Middle Tennessee State,@,Vanderbilt,L,3,3,100.0,1,2,50.0,6,canon-rooker-1
+Joey Slye,2016-09-10,2,Virginia Tech,N,Tennessee,L,3,3,100.0,1,2,50.0,6,joey-slye-1
+Mike Weaver,2016-09-10,2,Wake Forest,@,Duke,W,3,3,100.0,1,1,100.0,6,mike-weaver-1
+Tyler Davis,2016-09-10,2,Penn State,@,Pittsburgh,L,4,4,100.0,1,1,100.0,7,tyler-davis-3
+Diego Gonzalez,2016-09-10,2,Colorado,,Idaho State,W,7,7,100.0,0,0,,7,diego-gonzalez-2
+Clayton Hatfield,2016-09-10,2,Texas Tech,@,Arizona State,L,7,8,87.5,0,0,,7,clayton-hatfield-1
+Mitchell Howard,2016-09-10,2,Army,,Rice,W,4,4,100.0,1,1,100.0,7,mitchell-howard-1
+Kody Kroening,2016-09-10,2,Fresno State,,Sacramento State,W,4,4,100.0,1,1,100.0,7,kody-kroening-1
+Jake Oldroyd,2016-09-10,2,Brigham Young,@,Utah,L,1,1,100.0,2,2,100.0,7,jake-oldroyd-1
+Josh Pollack,2016-09-10,2,Arizona,,Grambling State,W,4,4,100.0,1,1,100.0,7,josh-pollack-1
+Tyler Rausa,2016-09-10,2,Boise State,,Washington State,W,4,4,100.0,1,1,100.0,7,tyler-rausa-1
+Michael Rubino,2016-09-10,2,Appalachian State,,Old Dominion,W,4,4,100.0,1,1,100.0,7,michael-rubino-1
+Jason Sanders,2016-09-10,2,New Mexico,@,New Mexico State,L,4,4,100.0,1,1,100.0,7,jason-sanders-1
+Josh Williams,2016-09-10,2,Southern Methodist,@,Baylor,L,1,1,100.0,2,2,100.0,7,josh-williams-9
+Justin Yoon,2016-09-10,2,Notre Dame,,Nevada,W,4,5,80.0,1,1,100.0,7,justin-yoon-1
+Michael Badgley,2016-09-10,2,Miami (FL),,Florida Atlantic,W,5,5,100.0,1,2,50.0,8,michael-badgley-1
+Amoreto Curraj,2016-09-10,1,Marshall,,Morgan State,W,8,9,88.9,0,1,0.0,8,amoreto-curraj-1
+Andrew Gantz,2016-09-10,2,Cincinnati,@,Purdue,W,5,5,100.0,1,1,100.0,8,andrew-gantz-1
+Ryan Graf,2016-09-10,2,Texas Christian,,Arkansas,L,5,5,100.0,1,2,50.0,8,ryan-graf-1
+Adam Griffith,2016-09-10,2,Alabama,,Western Kentucky,W,5,5,100.0,1,2,50.0,8,adam-griffith-1
+Morgan Hagee,2016-09-10,2,Ball State,@,Indiana,L,2,2,100.0,2,2,100.0,8,morgan-hagee-1
+William Ham,2016-09-10,2,Georgia,,Nicholls State,W,2,2,100.0,2,3,66.7,8,william-ham-1
+Austin Jones,2016-09-10,2,Temple,,Stony Brook,W,5,5,100.0,1,1,100.0,8,austin-jones-4
+Mike Knoll,2016-09-10,2,Boston College,@,Massachusetts,W,2,3,66.7,2,2,100.0,8,mike-knoll-2
+Mike Molina,2016-09-10,2,West Virginia,,Youngstown State,W,5,5,100.0,1,2,50.0,8,mike-molina-1
+Andy Phillips,2016-09-10,2,Utah,,Brigham Young,W,2,2,100.0,2,2,100.0,8,andy-phillips-2
+Aidan Schneider,2016-09-10,2,Oregon,,Virginia,W,5,5,100.0,1,1,100.0,8,aidan-schneider-1
+Parker Shaunfield,2016-09-10,2,Southern Mississippi,,Savannah State,W,8,8,100.0,0,0,,8,parker-shaunfield-1
+Gary Wunderlich,2016-09-10,2,Mississippi,,Wofford,W,5,5,100.0,1,1,100.0,8,gary-wunderlich-1
+John Baron,2016-09-10,2,San Diego State,,California,W,6,6,100.0,1,1,100.0,9,john-baron-1
+Matt Boermeester,2016-09-10,2,Southern California,,Utah State,W,6,6,100.0,1,2,50.0,9,matt-boermeester-1
+Westin Graves,2016-09-10,2,Mississippi State,,South Carolina,W,3,3,100.0,2,2,100.0,9,westin-graves-1
+Cole Hedlund,2016-09-10,2,Arkansas,@,Texas Christian,W,3,3,100.0,2,3,66.7,9,cole-hedlund-1
+Aaron Medley,2016-09-10,2,Tennessee,N,Virginia Tech,W,6,6,100.0,1,2,50.0,9,aaron-medley-1
+Tommy Openshaw,2016-09-10,2,Vanderbilt,,Middle Tennessee State,W,6,6,100.0,1,1,100.0,9,tommy-openshaw-1
+Eddy Pineiro,2016-09-10,2,Florida,,Kentucky,W,6,6,100.0,1,3,33.3,9,eddy-pineiro-1
+Davis Plowman,2016-09-10,2,East Carolina,,North Carolina State,W,3,4,75.0,2,3,66.7,9,davis-plowman-1
+Jameson Vest,2016-09-10,2,Toledo,,Maine,W,6,6,100.0,1,2,50.0,9,jameson-vest-1
+Gavin Patterson,2016-09-10,2,South Alabama,,Georgia Southern,L,0,0,,3,3,100.0,9,gavin-patterson-1
+Ricky Aguayo,2016-09-10,2,Florida State,,Charleston Southern,W,7,7,100.0,1,1,100.0,10,ricky-aguayo-1
+Matt Anderson,2016-09-10,2,California,@,San Diego State,L,4,4,100.0,2,2,100.0,10,matt-anderson-3
+David Bonagura,2016-09-10,2,Rutgers,,Howard,W,7,7,100.0,1,2,50.0,10,david-bonagura-1
+Drew Brown,2016-09-10,2,Nebraska,,Wyoming,W,7,7,100.0,1,1,100.0,10,drew-brown-1
+Chris Callahan,2016-09-10,2,Baylor,,Southern Methodist,W,4,5,80.0,2,2,100.0,10,chris-callahan-3
+Rafael Gaglianone,2016-09-10,2,Wisconsin,,Akron,W,7,7,100.0,1,1,100.0,10,rafael-gaglianone-1
+Butch Hampton,2016-09-10,2,Western Michigan,,North Carolina Central,W,10,10,100.0,0,0,,10,butch-hampton-1
+Wyatt Bryan,2016-09-10,2,Colorado State,,Texas-San Antonio,W,2,2,100.0,3,3,100.0,11,wyatt-bryan-1
+Andrew Dirocco,2016-09-10,2,Tulane,,Southern,W,8,8,100.0,1,1,100.0,11,andrew-dirocco-1
+Trent Domingue,2016-09-10,2,Texas,,Texas-El Paso,W,5,5,100.0,2,2,100.0,11,trent-domingue-1
+Trevor Moore,2016-09-10,2,North Texas,,Bethune-Cookman,W,5,5,100.0,2,2,100.0,11,trevor-moore-1
+Austin Seibert,2016-09-10,2,Oklahoma,,Louisiana-Monroe,W,8,8,100.0,1,1,100.0,11,austin-seibert-1
+Cameron Van Winkle,2016-09-10,2,Washington,,Idaho,W,8,8,100.0,1,1,100.0,11,cameron-van-winkle-1
+Bryce Crawford,2016-09-10,2,San Jose State,,Portland State,W,9,9,100.0,1,1,100.0,12,bryce-crawford-1
+Tyler Durbin,2016-09-10,2,Ohio State,,Tulsa,W,6,6,100.0,2,2,100.0,12,tyler-durbin-1
+Zane Gonzalez,2016-09-10,2,Arizona State,,Texas Tech,W,9,9,100.0,1,1,100.0,12,zane-gonzalez-1
+Greg Huegel,2016-09-10,2,Clemson,,Troy,W,3,3,100.0,3,3,100.0,12,greg-huegel-1
+Shane Hynes,2016-09-10,2,Kent State,,North Carolina A&T,L,3,3,100.0,3,3,100.0,12,shane-hynes-1
+Emilio Nadelman,2016-09-10,2,South Florida,,Northern Illinois,W,6,6,100.0,2,2,100.0,12,emilio-nadelman-1
+Griffin Oakes,2016-09-10,2,Indiana,,Ball State,W,3,3,100.0,3,3,100.0,12,griffin-oakes-1
+Luke Strebel,2016-09-10,2,Air Force,,Georgia State,W,6,6,100.0,2,2,100.0,12,luke-strebel-1
+Nick Weiler,2016-09-10,2,North Carolina,@,Illinois,W,6,6,100.0,2,3,66.7,12,nick-weiler-1
+Kenneth Allen,2016-09-10,2,Michigan,,Central Florida,W,5,5,100.0,3,3,100.0,14,kenneth-allen-1
+Parker Davidson,2016-09-10,2,New Mexico State,,New Mexico,W,2,3,66.7,4,4,100.0,14,parker-davidson-1
+Jonathan Barnes,2016-09-10,2,Louisiana Tech,,South Carolina State,W,6,6,100.0,3,3,100.0,15,jonathan-barnes-1
+Daniel Carlson,2016-09-10,2,Auburn,,Arkansas State,W,6,6,100.0,3,3,100.0,15,daniel-carlson-1
+Emmit Carpenter,2016-09-10,2,Minnesota,,Indiana State,W,7,7,100.0,3,3,100.0,16,emmit-carpenter-1
+Daniel LaCamera,2016-09-10,2,Texas A&M,,Prairie View A&M,W,8,8,100.0,3,3,100.0,17,daniel-lacamera-1
+Louie Zervos,2016-09-10,2,Ohio,@,Kansas,W,2,3,66.7,5,5,100.0,17,louie-zervos-1
+Andrew Gantz,2016-09-15,3,Cincinnati,,Houston,L,1,1,100.0,1,1,100.0,4,andrew-gantz-1
+Ty Cummings,2016-09-15,3,Houston,@,Cincinnati,W,5,5,100.0,1,1,100.0,8,ty-cummings-1
+Victor Falcon,2016-09-16,3,Texas-San Antonio,,Arizona State,L,4,4,100.0,0,0,,4,victor-falcon-1
+Hayden Tobola,2016-09-16,3,Rice,,Baylor,L,1,1,100.0,1,1,100.0,4,hayden-tobola-1
+Chris Callahan,2016-09-16,3,Baylor,@,Rice,W,5,5,100.0,1,3,33.3,8,chris-callahan-3
+JD Houston,2016-09-16,3,Arkansas State,@,Utah State,L,2,2,100.0,2,2,100.0,8,jd-houston-1
+Brock Warren,2016-09-16,3,Utah State,,Arkansas State,W,4,4,100.0,2,2,100.0,10,brock-warren-1
+Zane Gonzalez,2016-09-16,3,Arizona State,@,Texas-San Antonio,W,2,2,100.0,4,5,80.0,14,zane-gonzalez-1
+Jake Oldroyd,2016-09-17,3,Brigham Young,,UCLA,L,0,0,,0,1,0.0,0,jake-oldroyd-1
+Greg Joseph,2016-09-17,3,Florida Atlantic,@,Kansas State,L,1,1,100.0,0,0,,1,greg-joseph-2
+Bennett Moehring,2016-09-17,3,Navy,@,Tulane,W,1,2,50.0,0,0,,1,bennett-moehring-1
+Tommy Openshaw,2016-09-17,3,Vanderbilt,@,Georgia Tech,L,1,1,100.0,0,0,,1,tommy-openshaw-1
+AJ Reed,2016-09-17,3,Duke,@,Northwestern,L,1,2,50.0,0,1,0.0,1,aj-reed-1
+Dylan Scheurich,2016-09-17,3,Louisiana,,South Alabama,W,1,1,100.0,0,0,,1,dylan-scheurich-1
+Matthew Wyman,2016-09-17,3,Kansas,@,Memphis,L,1,1,100.0,0,0,,1,matthew-wyman-1
+Rhett Almond,2016-09-17,3,Brigham Young,,UCLA,L,2,2,100.0,0,0,,2,rhett-almond-1
+Andrew Dirocco,2016-09-17,3,Tulane,,Navy,L,2,2,100.0,0,1,0.0,2,andrew-dirocco-1
+Jay Mattox,2016-09-17,3,Texas-El Paso,,Army,L,2,2,100.0,0,0,,2,jay-mattox-1
+Adam Mitcheson,2016-09-17,2,Buffalo,@,Nevada,L,2,2,100.0,0,1,0.0,2,adam-mitcheson-1
+Skyler Simcox,2016-09-17,3,Western Kentucky,@,Miami (OH),W,2,2,100.0,0,0,,2,skyler-simcox-1
+Stevie Artigue,2016-09-17,3,Louisiana,,South Alabama,W,0,2,0.0,1,2,50.0,3,stevie-artigue-1
+Mike Caggiano,2016-09-17,3,Massachusetts,,Florida International,W,3,3,100.0,0,1,0.0,3,mike-caggiano-1
+Keith Duncan,2016-09-17,3,Iowa,,North Dakota State,L,3,3,100.0,0,0,,3,keith-duncan-1
+Craig Ford,2016-09-17,3,Louisiana-Monroe,@,Georgia Southern,L,3,3,100.0,0,1,0.0,3,craig-ford-1
+Evan Pantels,2016-09-17,3,Nevada-Las Vegas,@,Central Michigan,L,3,3,100.0,0,0,,3,evan-pantels-1
+Jake Suder,2016-09-17,3,Bowling Green State,,Middle Tennessee State,L,3,3,100.0,0,0,,3,jake-suder-1
+Blake Wilson,2016-09-17,3,Army,@,Texas-El Paso,W,3,3,100.0,0,0,,3,blake-wilson-1
+Brandon Hatfield,2016-09-17,3,Texas Christian,,Iowa State,W,0,0,,1,1,100.0,3,brandon-hatfield-1
+James Sherman,2016-09-17,2,Texas State,@,Arkansas,L,0,0,,1,1,100.0,3,james-sherman-1
+Matt Boermeester,2016-09-17,3,Southern California,@,Stanford,L,1,1,100.0,1,1,100.0,4,matt-boermeester-1
+Daniel Carlson,2016-09-17,3,Auburn,,Texas A&M,L,1,1,100.0,1,1,100.0,4,daniel-carlson-1
+Bailey Cate,2016-09-17,3,Old Dominion,@,North Carolina State,L,1,2,50.0,1,1,100.0,4,bailey-cate-1
+Alex Furbank,2016-09-17,3,Virginia,@,Connecticut,L,1,1,100.0,1,2,50.0,4,alex-furbank-1
+Michael Geiger,2016-09-17,2,Michigan State,@,Notre Dame,W,4,4,100.0,0,0,,4,michael-geiger-1
+Diego Gonzalez,2016-09-17,3,Colorado,@,Michigan,L,4,4,100.0,0,1,0.0,4,diego-gonzalez-2
+Christian Hagan,2016-09-17,3,Northern Illinois,,San Diego State,L,4,4,100.0,0,0,,4,christian-hagan-1
+William Ham,2016-09-17,3,Georgia,@,Missouri,W,4,4,100.0,0,2,0.0,4,william-ham-1
+Chase McLaughlin,2016-09-17,3,Illinois,,Western Michigan,L,1,1,100.0,1,1,100.0,4,chase-mclaughlin-1
+Aaron Medley,2016-09-17,3,Tennessee,,Ohio,W,4,4,100.0,0,1,0.0,4,aaron-medley-1
+Michael Rubino,2016-09-17,3,Appalachian State,,Miami (FL),L,1,1,100.0,1,2,50.0,4,michael-rubino-1
+Rigoberto Sanchez,2016-09-17,4,Hawaii,@,Arizona,L,4,4,100.0,0,0,,4,rigoberto-sanchez-1
+Jason Sanders,2016-09-17,3,New Mexico,@,Rutgers,L,4,4,100.0,0,1,0.0,4,jason-sanders-1
+Justin Yoon,2016-09-17,3,Notre Dame,,Michigan State,L,4,4,100.0,0,0,,4,justin-yoon-1
+Drew Brown,2016-09-17,3,Nebraska,,Oregon,W,5,5,100.0,0,0,,5,drew-brown-1
+Bryce Crawford,2016-09-17,3,San Jose State,,Utah,L,2,2,100.0,1,1,100.0,5,bryce-crawford-1
+Colby Delahoussaye,2016-09-17,3,Louisiana State,,Mississippi State,W,2,3,66.7,1,1,100.0,5,colby-delahoussaye-1
+Kody Kroening,2016-09-17,3,Fresno State,@,Toledo,L,2,2,100.0,1,1,100.0,5,kody-kroening-1
+JJ Molson,2016-09-17,3,UCLA,@,Brigham Young,W,2,2,100.0,1,2,50.0,5,jj-molson-1
+Ryan Nuss,2016-09-17,3,Western Kentucky,@,Miami (OH),W,2,2,100.0,1,1,100.0,5,ryan-nuss-1
+Gavin Patterson,2016-09-17,3,South Alabama,@,Louisiana,L,2,2,100.0,1,1,100.0,5,gavin-patterson-1
+Canon Rooker,2016-09-17,3,Middle Tennessee State,@,Bowling Green State,W,5,6,83.3,0,1,0.0,5,canon-rooker-1
+Rogier Ten Lohuis,2016-09-17,3,Georgia State,@,Wisconsin,L,2,2,100.0,1,2,50.0,5,rogier-ten-lohuis-1
+Cameron Van Winkle,2016-09-17,3,Washington,,Portland State,W,5,5,100.0,0,0,,5,cameron-van-winkle-1
+Matt Anderson,2016-09-17,3,California,,Texas,W,6,6,100.0,0,0,,6,matt-anderson-3
+John Baron,2016-09-17,3,San Diego State,@,Northern Illinois,W,6,6,100.0,0,1,0.0,6,john-baron-1
+Parker Davidson,2016-09-17,3,New Mexico State,@,Kentucky,L,6,6,100.0,0,0,,6,parker-davidson-1
+Nick Dowd,2016-09-17,3,Miami (OH),,Western Kentucky,L,3,3,100.0,1,2,50.0,6,nick-dowd-1
+Brian Eavey,2016-09-17,3,Central Michigan,,Nevada-Las Vegas,W,6,6,100.0,0,3,0.0,6,brian-eavey-1
+Adam Greene,2016-09-17,3,Maryland,@,Central Florida,W,3,3,100.0,1,3,33.3,6,adam-greene-1
+Cole Hedlund,2016-09-17,3,Arkansas,,Texas State,W,6,6,100.0,0,0,,6,cole-hedlund-1
+Jack Mitchell,2016-09-17,3,Northwestern,,Duke,W,3,3,100.0,1,2,50.0,6,jack-mitchell-2
+Eddy Pineiro,2016-09-17,3,Florida,,North Texas,W,3,3,100.0,1,1,100.0,6,eddy-pineiro-1
+Austin Seibert,2016-09-17,3,Oklahoma,,Ohio State,L,3,3,100.0,1,2,50.0,6,austin-seibert-1
+Matthew Wright,2016-09-17,3,Central Florida,,Maryland,L,3,3,100.0,1,1,100.0,6,matthew-wright-1
+Austin Rehkow,2016-09-17,3,Idaho,@,Washington State,L,0,0,,2,3,66.7,6,austin-rehkow-1
+Kyle Bambard,2016-09-17,3,North Carolina State,,Old Dominion,W,7,7,100.0,0,0,,7,kyle-bambard-1
+Stephen Muscarello,2016-09-17,3,UNC Charlotte,,Eastern Michigan,L,1,2,50.0,2,3,66.7,7,stephen-muscarello-1
+Bobby Puyol,2016-09-17,3,Connecticut,,Virginia,W,1,1,100.0,2,2,100.0,7,bobby-puyol-1
+Parker Shaunfield,2016-09-17,3,Southern Mississippi,,Troy,L,4,4,100.0,1,1,100.0,7,parker-shaunfield-1
+Joey Slye,2016-09-17,3,Virginia Tech,,Boston College,W,7,7,100.0,0,0,,7,joey-slye-1
+Austin Taylor,2016-09-17,3,Florida International,@,Massachusetts,L,1,1,100.0,2,2,100.0,7,austin-taylor-2
+Ricky Aguayo,2016-09-17,3,Florida State,@,Louisville,L,2,2,100.0,2,3,66.7,8,ricky-aguayo-1
+Chris Blewitt,2016-09-17,3,Pittsburgh,@,Oklahoma State,L,5,5,100.0,1,1,100.0,8,chris-blewitt-1
+Harrison Butker,2016-09-17,3,Georgia Tech,,Vanderbilt,W,5,5,100.0,1,1,100.0,8,harrison-butker-1
+Amoreto Curraj,2016-09-17,2,Marshall,,Akron,L,5,5,100.0,1,1,100.0,8,amoreto-curraj-1
+Elliot Fry,2016-09-17,3,South Carolina,,East Carolina,W,2,2,100.0,2,2,100.0,8,elliot-fry-1
+Ryan Graf,2016-09-17,3,Texas Christian,,Iowa State,W,5,5,100.0,1,1,100.0,8,ryan-graf-1
+Westin Graves,2016-09-17,3,Mississippi State,@,Louisiana State,L,2,2,100.0,2,2,100.0,8,westin-graves-1
+Austin Macginnis,2016-09-17,3,Kentucky,,New Mexico State,W,8,9,88.9,0,0,,8,austin-macginnis-1
+Cole Murphy,2016-09-17,3,Syracuse,,South Florida,L,2,2,100.0,2,2,100.0,8,cole-murphy-1
+Cole Netten,2016-09-17,3,Iowa State,@,Texas Christian,L,2,2,100.0,2,2,100.0,8,cole-netten-1
+Erik Powell,2016-09-17,3,Washington State,,Idaho,W,8,8,100.0,0,1,0.0,8,erik-powell-1
+Mike Weaver,2016-09-17,3,Wake Forest,,Delaware,W,5,5,100.0,1,2,50.0,8,mike-weaver-1
+Nick Weiler,2016-09-17,3,North Carolina,,James Madison,W,8,8,100.0,0,0,,8,nick-weiler-1
+Brent Zuzo,2016-09-17,3,Nevada,,Buffalo,W,5,5,100.0,1,1,100.0,8,brent-zuzo-1
+Kenneth Allen,2016-09-17,3,Michigan,,Colorado,W,6,6,100.0,1,3,33.3,9,kenneth-allen-1
+Michael Badgley,2016-09-17,3,Miami (FL),@,Appalachian State,W,6,6,100.0,1,1,100.0,9,michael-badgley-1
+Jonathan Barnes,2016-09-17,3,Louisiana Tech,@,Texas Tech,L,6,6,100.0,1,1,100.0,9,jonathan-barnes-1
+Tyler Durbin,2016-09-17,3,Ohio State,@,Oklahoma,W,6,6,100.0,1,1,100.0,9,tyler-durbin-1
+Ben Grogan,2016-09-17,3,Oklahoma State,,Pittsburgh,W,6,6,100.0,1,2,50.0,9,ben-grogan-1
+Mitchell Howard,2016-09-17,3,Army,@,Texas-El Paso,W,6,6,100.0,1,1,100.0,9,mitchell-howard-1
+Shane Hynes,2016-09-17,3,Kent State,,Monmouth,W,3,3,100.0,2,3,66.7,9,shane-hynes-1
+Austin Jones,2016-09-17,3,Temple,@,Penn State,L,3,3,100.0,2,2,100.0,9,austin-jones-4
+Tucker McCann,2016-09-17,3,Missouri,,Georgia,L,3,3,100.0,2,2,100.0,9,tucker-mccann-1
+Matthew McCrane,2016-09-17,2,Kansas State,,Florida Atlantic,W,9,9,100.0,0,0,,9,matthew-mccrane-1
+Emilio Nadelman,2016-09-17,3,South Florida,@,Syracuse,W,6,6,100.0,1,1,100.0,9,emilio-nadelman-1
+Evan O'Hara,2016-09-17,3,Louisville,,Florida State,W,9,9,100.0,0,1,0.0,9,evan-ohara-1
+Cooper Rothe,2016-09-17,3,Wyoming,,California-Davis,W,6,6,100.0,1,1,100.0,9,cooper-rothe-1
+Conrad Ukropina,2016-09-17,2,Stanford,,Southern California,W,3,3,100.0,2,2,100.0,9,conrad-ukropina-1
+Davis Plowman,2016-09-17,3,East Carolina,@,South Carolina,L,0,0,,3,4,75.0,9,davis-plowman-1
+Tyler Davis,2016-09-17,3,Penn State,,Temple,W,4,4,100.0,2,2,100.0,10,tyler-davis-3
+Butch Hampton,2016-09-17,3,Western Michigan,@,Illinois,W,4,4,100.0,2,3,66.7,10,butch-hampton-1
+Andy Phillips,2016-09-17,3,Utah,@,San Jose State,W,4,4,100.0,2,2,100.0,10,andy-phillips-2
+Jameson Vest,2016-09-17,3,Toledo,,Fresno State,W,7,7,100.0,1,2,50.0,10,jameson-vest-1
+Wyatt Bryan,2016-09-17,3,Colorado State,,Northern Colorado,W,5,6,83.3,2,2,100.0,11,wyatt-bryan-1
+Trent Domingue,2016-09-17,3,Texas,@,California,L,5,5,100.0,2,4,50.0,11,trent-domingue-1
+Rafael Gaglianone,2016-09-17,3,Wisconsin,,Georgia State,W,2,2,100.0,3,4,75.0,11,rafael-gaglianone-1
+Morgan Hagee,2016-09-17,3,Ball State,,Eastern Kentucky,W,5,5,100.0,2,2,100.0,11,morgan-hagee-1
+Clayton Hatfield,2016-09-17,3,Texas Tech,,Louisiana Tech,W,8,8,100.0,1,2,50.0,11,clayton-hatfield-1
+Greg Huegel,2016-09-17,3,Clemson,,South Carolina State,W,8,8,100.0,1,2,50.0,11,greg-huegel-1
+Younghoe Koo,2016-09-17,3,Georgia Southern,,Louisiana-Monroe,W,2,2,100.0,3,3,100.0,11,younghoe-koo-1
+Tom O'Leary,2016-09-17,3,Akron,@,Marshall,W,8,9,88.9,1,1,100.0,11,tom-oleary-2
+Josh Pollack,2016-09-17,3,Arizona,,Hawaii,W,5,5,100.0,2,2,100.0,11,josh-pollack-1
+Josh Williams,2016-09-17,3,Southern Methodist,,Liberty,W,2,3,66.7,3,4,75.0,11,josh-williams-9
+Adam Griffith,2016-09-17,3,Alabama,@,Mississippi,W,6,6,100.0,2,3,66.7,12,adam-griffith-1
+David Bonagura,2016-09-17,3,Rutgers,,New Mexico,W,4,4,100.0,3,3,100.0,13,david-bonagura-1
+Jake Elliott,2016-09-17,2,Memphis,,Kansas,W,4,4,100.0,3,4,75.0,13,jake-elliott-1
+Paul Fricano,2016-09-17,3,Eastern Michigan,@,UNC Charlotte,W,4,4,100.0,3,3,100.0,13,paul-fricano-1
+Ryan Kay,2016-09-17,3,Troy,@,Southern Mississippi,W,4,4,100.0,3,4,75.0,13,ryan-kay-1
+Garrett Owens,2016-09-17,2,Oregon State,,Idaho State,W,4,4,100.0,3,4,75.0,13,garrett-owens-1
+Gary Wunderlich,2016-09-17,3,Mississippi,,Alabama,L,4,4,100.0,3,3,100.0,13,gary-wunderlich-1
+Louie Zervos,2016-09-17,3,Ohio,@,Tennessee,L,1,1,100.0,4,4,100.0,13,louie-zervos-1
+Redford Jones,2016-09-17,3,Tulsa,,North Carolina A&T,W,7,7,100.0,3,4,75.0,16,redford-jones-1
+Daniel LaCamera,2016-09-17,3,Texas A&M,@,Auburn,W,2,2,100.0,5,5,100.0,17,daniel-lacamera-1
+Harrison Butker,2016-09-22,4,Georgia Tech,,Clemson,L,1,1,100.0,0,0,,1,harrison-butker-1
+Greg Huegel,2016-09-22,4,Clemson,@,Georgia Tech,W,3,3,100.0,1,2,50.0,6,greg-huegel-1
+Josh Williams,2016-09-23,4,Southern Methodist,,Texas Christian,L,0,0,,1,2,50.0,3,josh-williams-9
+Cooper Rothe,2016-09-23,4,Wyoming,@,Eastern Michigan,L,3,3,100.0,1,2,50.0,6,cooper-rothe-1
+Brandon Hatfield,2016-09-23,4,Texas Christian,@,Southern Methodist,W,1,1,100.0,2,2,100.0,7,brandon-hatfield-1
+Andy Phillips,2016-09-23,4,Utah,,Southern California,W,4,4,100.0,1,1,100.0,7,andy-phillips-2
+Ryan Graf,2016-09-23,4,Texas Christian,@,Southern Methodist,W,2,2,100.0,2,2,100.0,8,ryan-graf-1
+Matt Boermeester,2016-09-23,4,Southern California,@,Utah,L,3,3,100.0,2,2,100.0,9,matt-boermeester-1
+Paul Fricano,2016-09-23,4,Eastern Michigan,,Wyoming,W,3,3,100.0,2,2,100.0,9,paul-fricano-1
+Parker Davidson,2016-09-24,4,New Mexico State,@,Troy,L,0,0,,0,1,0.0,0,parker-davidson-1
+Shane Hynes,2016-09-24,4,Kent State,@,Alabama,L,0,0,,0,1,0.0,0,shane-hynes-1
+Davis Plowman,2016-09-24,4,East Carolina,@,Virginia Tech,L,0,0,,0,1,0.0,0,davis-plowman-1
+David Bonagura,2016-09-24,4,Rutgers,,Iowa,L,1,1,100.0,0,0,,1,david-bonagura-1
+Bailey Cate,2016-09-24,4,Old Dominion,,Texas-San Antonio,W,1,3,33.3,0,0,,1,bailey-cate-1
+Jay Mattox,2016-09-24,4,Texas-El Paso,,Southern Mississippi,L,1,1,100.0,0,0,,1,jay-mattox-1
+Jack Mitchell,2016-09-24,4,Northwestern,,Nebraska,L,1,2,50.0,0,1,0.0,1,jack-mitchell-2
+Joel Scarborough,2016-09-24,4,Houston,@,Texas State,W,1,1,100.0,0,0,,1,joel-scarborough-1
+Rodrigo Blankenship,2016-09-24,4,Georgia,@,Mississippi,L,2,2,100.0,0,1,0.0,2,rodrigo-blankenship-1
+Keith Duncan,2016-09-24,4,Iowa,@,Rutgers,W,2,2,100.0,0,0,,2,keith-duncan-1
+Stephen Muscarello,2016-09-24,4,UNC Charlotte,@,Temple,L,2,3,66.7,0,0,,2,stephen-muscarello-1
+Andy Pappanastos,2016-09-24,4,Alabama,,Kent State,W,2,2,100.0,0,0,,2,andy-pappanastos-1
+Skyler Simcox,2016-09-24,4,Western Kentucky,,Vanderbilt,L,2,2,100.0,0,0,,2,skyler-simcox-1
+Austin Taylor,2016-09-24,4,Florida International,,Central Florida,L,2,2,100.0,0,0,,2,austin-taylor-2
+Brent Zuzo,2016-09-24,4,Nevada,@,Purdue,L,2,2,100.0,0,1,0.0,2,brent-zuzo-1
+James Sherman,2016-09-24,3,Texas State,,Houston,L,0,0,,1,1,100.0,3,james-sherman-1
+Jake Suder,2016-09-24,4,Bowling Green State,@,Memphis,L,0,0,,1,1,100.0,3,jake-suder-1
+Bryce Crawford,2016-09-24,4,San Jose State,@,Iowa State,L,1,1,100.0,1,1,100.0,4,bryce-crawford-1
+Amoreto Curraj,2016-09-24,3,Marshall,,Louisville,L,4,4,100.0,0,0,,4,amoreto-curraj-1
+Tyler Davis,2016-09-24,4,Penn State,@,Michigan,L,1,1,100.0,1,1,100.0,4,tyler-davis-3
+Elliot Fry,2016-09-24,4,South Carolina,@,Kentucky,L,1,1,100.0,1,1,100.0,4,elliot-fry-1
+Ryan Nuss,2016-09-24,4,Western Kentucky,,Vanderbilt,L,1,1,100.0,1,2,50.0,4,ryan-nuss-1
+Griffin Oakes,2016-09-24,3,Indiana,,Wake Forest,L,4,4,100.0,0,1,0.0,4,griffin-oakes-1
+Eddy Pineiro,2016-09-24,4,Florida,@,Tennessee,L,4,4,100.0,0,0,,4,eddy-pineiro-1
+Josh Pollack,2016-09-24,4,Arizona,,Washington,L,4,4,100.0,0,0,,4,josh-pollack-1
+Mike Caggiano,2016-09-24,4,Massachusetts,,Mississippi State,L,5,5,100.0,0,0,,5,mike-caggiano-1
+Brian Eavey,2016-09-24,4,Central Michigan,@,Virginia,L,5,5,100.0,0,1,0.0,5,brian-eavey-1
+Victor Falcon,2016-09-24,4,Texas-San Antonio,@,Old Dominion,L,2,2,100.0,1,1,100.0,5,victor-falcon-1
+Alex Furbank,2016-09-24,4,Virginia,,Central Michigan,W,5,6,83.3,0,0,,5,alex-furbank-1
+Christian Hagan,2016-09-24,4,Northern Illinois,,Western Illinois,L,2,2,100.0,1,1,100.0,5,christian-hagan-1
+JD Houston,2016-09-24,4,Arkansas State,,Central Arkansas,L,2,3,66.7,1,1,100.0,5,jd-houston-1
+Austin Macginnis,2016-09-24,4,Kentucky,,South Carolina,W,2,2,100.0,1,1,100.0,5,austin-macginnis-1
+Connor Martin,2016-09-24,4,Baylor,,Oklahoma State,W,5,5,100.0,0,0,,5,connor-martin-1
+Matthew McCrane,2016-09-24,3,Kansas State,,Missouri State,W,5,5,100.0,0,1,0.0,5,matthew-mccrane-1
+Adam Mitcheson,2016-09-24,3,Buffalo,,Army,W,2,3,66.7,1,1,100.0,5,adam-mitcheson-1
+Mike Molina,2016-09-24,3,West Virginia,N,Brigham Young,W,5,5,100.0,0,0,,5,mike-molina-1
+Emilio Nadelman,2016-09-24,4,South Florida,,Florida State,L,5,5,100.0,0,0,,5,emilio-nadelman-1
+Cameron Van Winkle,2016-09-24,4,Washington,@,Arizona,W,5,5,100.0,0,2,0.0,5,cameron-van-winkle-1
+Jake Verity,2016-09-24,4,East Carolina,@,Virginia Tech,L,2,2,100.0,1,1,100.0,5,jake-verity-1
+Justin Yoon,2016-09-24,4,Notre Dame,,Duke,L,5,5,100.0,0,1,0.0,5,justin-yoon-1
+Louie Zervos,2016-09-24,4,Ohio,,Gardner-Webb,W,5,5,100.0,0,1,0.0,5,louie-zervos-1
+Drew Brown,2016-09-24,4,Nebraska,@,Northwestern,W,3,3,100.0,1,1,100.0,6,drew-brown-1
+Wyatt Bryan,2016-09-24,4,Colorado State,@,Minnesota,L,3,3,100.0,1,2,50.0,6,wyatt-bryan-1
+J.D. Dillinger,2016-09-24,3,Purdue,,Nevada,W,3,3,100.0,1,1,100.0,6,jd-dillinger-1
+Andrew Endicott,2016-09-24,4,Wisconsin,@,Michigan State,W,3,4,75.0,1,1,100.0,6,andrew-endicott-1
+Ben Grogan,2016-09-24,4,Oklahoma State,@,Baylor,L,3,3,100.0,1,2,50.0,6,ben-grogan-1
+Cole Hedlund,2016-09-24,4,Arkansas,N,Texas A&M,L,3,3,100.0,1,1,100.0,6,cole-hedlund-1
+Mike Knoll,2016-09-24,4,Boston College,,Wagner,W,6,6,100.0,0,0,,6,mike-knoll-2
+Trevor Moore,2016-09-24,4,North Texas,@,Rice,W,6,6,100.0,0,0,,6,trevor-moore-1
+Garrett Owens,2016-09-24,3,Oregon State,,Boise State,L,3,3,100.0,1,2,50.0,6,garrett-owens-1
+Bobby Puyol,2016-09-24,4,Connecticut,,Syracuse,L,3,3,100.0,1,1,100.0,6,bobby-puyol-1
+Michael Geiger,2016-09-24,3,Michigan State,,Wisconsin,L,0,0,,2,2,100.0,6,michael-geiger-1
+Kenneth Allen,2016-09-24,4,Michigan,,Penn State,W,7,7,100.0,0,0,,7,kenneth-allen-1
+Emmit Carpenter,2016-09-24,3,Minnesota,,Colorado State,W,4,4,100.0,1,1,100.0,7,emmit-carpenter-1
+Colby Delahoussaye,2016-09-24,4,Louisiana State,@,Auburn,L,1,1,100.0,2,3,66.7,7,colby-delahoussaye-1
+Morgan Hagee,2016-09-24,4,Ball State,@,Florida Atlantic,W,4,4,100.0,1,2,50.0,7,morgan-hagee-1
+Butch Hampton,2016-09-24,4,Western Michigan,,Georgia Southern,W,7,7,100.0,0,1,0.0,7,butch-hampton-1
+Younghoe Koo,2016-09-24,4,Georgia Southern,@,Western Michigan,L,4,4,100.0,1,1,100.0,7,younghoe-koo-1
+JJ Molson,2016-09-24,4,UCLA,,Stanford,L,1,1,100.0,2,2,100.0,7,jj-molson-1
+Cole Murphy,2016-09-24,4,Syracuse,@,Connecticut,W,4,4,100.0,1,3,33.3,7,cole-murphy-1
+Tommy Openshaw,2016-09-24,4,Vanderbilt,@,Western Kentucky,W,4,4,100.0,1,1,100.0,7,tommy-openshaw-1
+Nick Weiler,2016-09-24,4,North Carolina,,Pittsburgh,W,4,4,100.0,1,2,50.0,7,nick-weiler-1
+Rhett Almond,2016-09-24,4,Brigham Young,N,West Virginia,L,2,2,100.0,2,2,100.0,8,rhett-almond-1
+Nick Dowd,2016-09-24,4,Miami (OH),@,Cincinnati,L,2,2,100.0,2,2,100.0,8,nick-dowd-1
+Aaron Medley,2016-09-24,4,Tennessee,,Florida,W,5,5,100.0,1,1,100.0,8,aaron-medley-1
+Cole Netten,2016-09-24,4,Iowa State,,San Jose State,W,5,5,100.0,1,1,100.0,8,cole-netten-1
+Tom O'Leary,2016-09-24,4,Akron,,Appalachian State,L,5,5,100.0,1,1,100.0,8,tom-oleary-2
+Tyler Rausa,2016-09-24,3,Boise State,@,Oregon State,W,5,5,100.0,1,1,100.0,8,tyler-rausa-1
+AJ Reed,2016-09-24,4,Duke,@,Notre Dame,W,5,5,100.0,1,1,100.0,8,aj-reed-1
+Canon Rooker,2016-09-24,4,Middle Tennessee State,,Louisiana Tech,W,5,5,100.0,1,1,100.0,8,canon-rooker-1
+Aidan Schneider,2016-09-24,4,Oregon,,Colorado,L,5,5,100.0,1,1,100.0,8,aidan-schneider-1
+Brock Warren,2016-09-24,4,Utah State,,Air Force,L,2,2,100.0,2,2,100.0,8,brock-warren-1
+Blake Wilson,2016-09-24,4,Army,@,Buffalo,L,2,2,100.0,2,4,50.0,8,blake-wilson-1
+Ty Cummings,2016-09-24,4,Houston,@,Texas State,W,6,8,75.0,1,1,100.0,9,ty-cummings-1
+Chris Graham,2016-09-24,4,Colorado,@,Oregon,W,3,4,75.0,2,2,100.0,9,chris-graham-1
+Greg Joseph,2016-09-24,4,Florida Atlantic,,Ball State,L,3,3,100.0,2,2,100.0,9,greg-joseph-2
+Daniel LaCamera,2016-09-24,4,Texas A&M,N,Arkansas,W,6,6,100.0,1,2,50.0,9,daniel-lacamera-1
+Josh Pasley,2016-09-24,4,Cincinnati,,Miami (OH),W,3,3,100.0,2,3,66.7,9,josh-pasley-1
+Austin Rehkow,2016-09-24,4,Idaho,@,Nevada-Las Vegas,W,3,3,100.0,2,2,100.0,9,austin-rehkow-1
+Michael Rubino,2016-09-24,4,Appalachian State,@,Akron,W,6,6,100.0,1,1,100.0,9,michael-rubino-1
+Luke Strebel,2016-09-24,3,Air Force,@,Utah State,W,3,3,100.0,2,2,100.0,9,luke-strebel-1
+Hayden Tobola,2016-09-24,4,Rice,,North Texas,L,3,3,100.0,2,2,100.0,9,hayden-tobola-1
+Mike Weaver,2016-09-24,4,Wake Forest,@,Indiana,W,3,3,100.0,2,2,100.0,9,mike-weaver-1
+Matthew Wright,2016-09-24,4,Central Florida,@,Florida International,W,6,6,100.0,1,1,100.0,9,matthew-wright-1
+Gary Wunderlich,2016-09-24,4,Mississippi,,Georgia,W,6,6,100.0,1,2,50.0,9,gary-wunderlich-1
+Jonathan Barnes,2016-09-24,4,Louisiana Tech,@,Middle Tennessee State,L,4,4,100.0,2,2,100.0,10,jonathan-barnes-1
+Chris Blewitt,2016-09-24,4,Pittsburgh,@,North Carolina,L,4,4,100.0,2,2,100.0,10,chris-blewitt-1
+Adam Griffith,2016-09-24,4,Alabama,,Kent State,W,4,4,100.0,2,2,100.0,10,adam-griffith-1
+Ryan Kay,2016-09-24,4,Troy,,New Mexico State,W,7,7,100.0,1,1,100.0,10,ryan-kay-1
+Parker Shaunfield,2016-09-24,4,Southern Mississippi,@,Texas-El Paso,W,4,4,100.0,2,2,100.0,10,parker-shaunfield-1
+Joey Slye,2016-09-24,4,Virginia Tech,,East Carolina,W,7,7,100.0,1,1,100.0,10,joey-slye-1
+Conrad Ukropina,2016-09-24,3,Stanford,@,UCLA,W,1,1,100.0,3,3,100.0,10,conrad-ukropina-1
+Matt Anderson,2016-09-24,4,California,@,Arizona State,L,5,5,100.0,2,3,66.7,11,matt-anderson-3
+Blaton Creque,2016-09-24,4,Louisville,@,Marshall,W,8,8,100.0,1,2,50.0,11,blaton-creque-1
+Jake Elliott,2016-09-24,3,Memphis,,Bowling Green State,W,11,11,100.0,0,0,,11,jake-elliott-1
+Westin Graves,2016-09-24,4,Mississippi State,@,Massachusetts,W,5,5,100.0,2,2,100.0,11,westin-graves-1
+Kody Kroening,2016-09-24,4,Fresno State,,Tulsa,L,5,5,100.0,2,2,100.0,11,kody-kroening-1
+Gavin Patterson,2016-09-24,4,South Alabama,,Nicholls State,W,5,5,100.0,2,3,66.7,11,gavin-patterson-1
+Austin Jones,2016-09-24,4,Temple,,UNC Charlotte,W,6,6,100.0,2,2,100.0,12,austin-jones-4
+Redford Jones,2016-09-24,4,Tulsa,@,Fresno State,W,6,6,100.0,2,3,66.7,12,redford-jones-1
+Evan Pantels,2016-09-24,4,Nevada-Las Vegas,,Idaho,L,3,3,100.0,3,3,100.0,12,evan-pantels-1
+Ricky Aguayo,2016-09-24,4,Florida State,@,South Florida,W,7,7,100.0,2,2,100.0,13,ricky-aguayo-1
+Tucker McCann,2016-09-24,4,Missouri,,Delaware State,W,10,11,90.9,1,1,100.0,13,tucker-mccann-1
+Stevie Artigue,2016-09-24,4,Louisiana,@,Tulane,L,3,3,100.0,4,4,100.0,15,stevie-artigue-1
+Andrew Dirocco,2016-09-24,4,Tulane,,Louisiana,W,3,3,100.0,4,4,100.0,15,andrew-dirocco-1
+Zane Gonzalez,2016-09-24,4,Arizona State,,California,W,6,6,100.0,3,3,100.0,15,zane-gonzalez-1
+Daniel Carlson,2016-09-24,4,Auburn,,Louisiana State,W,0,0,,6,6,100.0,18,daniel-carlson-1
+Bobby Puyol,2016-09-29,5,Connecticut,@,Houston,L,2,2,100.0,0,0,,2,bobby-puyol-1
+Matthew Wyman,2016-09-29,4,Kansas,@,Texas Tech,L,2,2,100.0,1,1,100.0,5,matthew-wyman-1
+Ty Cummings,2016-09-29,5,Houston,,Connecticut,W,6,6,100.0,0,0,,6,ty-cummings-1
+Clayton Hatfield,2016-09-29,4,Texas Tech,,Kansas,W,7,8,87.5,0,0,,7,clayton-hatfield-1
+Cameron Van Winkle,2016-09-30,5,Washington,,Stanford,W,5,6,83.3,1,1,100.0,8,cameron-van-winkle-1
+Jameson Vest,2016-09-30,4,Toledo,@,Brigham Young,L,6,6,100.0,1,2,50.0,9,jameson-vest-1
+Rhett Almond,2016-09-30,5,Brigham Young,,Toledo,W,7,7,100.0,2,2,100.0,13,rhett-almond-1
+Chris Graham,2016-10-01,5,Colorado,,Oregon State,W,0,1,0.0,0,0,,0,chris-graham-1
+Kenneth Allen,2016-10-01,5,Michigan,,Wisconsin,W,1,1,100.0,0,2,0.0,1,kenneth-allen-1
+J.D. Dillinger,2016-10-01,4,Purdue,@,Maryland,L,1,1,100.0,0,1,0.0,1,jd-dillinger-1
+Trent Domingue,2016-10-01,4,Texas,@,Oklahoma State,L,1,4,25.0,0,1,0.0,1,trent-domingue-1
+Nick Dowd,2016-10-01,5,Miami (OH),,Ohio,L,1,1,100.0,0,0,,1,nick-dowd-1
+Andrew Endicott,2016-10-01,5,Wisconsin,@,Michigan,L,1,1,100.0,0,0,,1,andrew-endicott-1
+Craig Ford,2016-10-01,4,Louisiana-Monroe,@,Auburn,L,1,1,100.0,0,1,0.0,1,craig-ford-1
+Jay Mattox,2016-10-01,5,Texas-El Paso,@,Louisiana Tech,L,1,1,100.0,0,0,,1,jay-mattox-1
+Tucker McCann,2016-10-01,5,Missouri,@,Louisiana State,L,1,1,100.0,0,0,,1,tucker-mccann-1
+Trevor Moore,2016-10-01,5,North Texas,,Middle Tennessee State,L,1,1,100.0,0,0,,1,trevor-moore-1
+Ryan Tice,2016-10-01,5,Michigan,,Wisconsin,W,1,1,100.0,0,1,0.0,1,ryan-tice-1
+Bennett Moehring,2016-10-01,4,Navy,@,Air Force,L,2,2,100.0,0,0,,2,bennett-moehring-1
+Mike Molina,2016-10-01,4,West Virginia,,Kansas State,W,2,2,100.0,0,0,,2,mike-molina-1
+Ryan Nuss,2016-10-01,5,Western Kentucky,,,W,2,3,66.7,0,1,0.0,2,ryan-nuss-1
+Josh Pasley,2016-10-01,5,Cincinnati,,South Florida,L,2,3,66.7,0,1,0.0,2,josh-pasley-1
+Josh Williams,2016-10-01,5,Southern Methodist,@,Temple,L,2,2,100.0,0,0,,2,josh-williams-9
+Harrison Butker,2016-10-01,5,Georgia Tech,,Miami (FL),L,3,3,100.0,0,0,,3,harrison-butker-1
+Mike Caggiano,2016-10-01,5,Massachusetts,,Tulane,L,3,3,100.0,0,0,,3,mike-caggiano-1
+Amoreto Curraj,2016-10-01,4,Marshall,@,Pittsburgh,L,3,3,100.0,0,0,,3,amoreto-curraj-1
+Michael Geiger,2016-10-01,4,Michigan State,@,Indiana,L,3,3,100.0,0,2,0.0,3,michael-geiger-1
+Cole Murphy,2016-10-01,5,Syracuse,N,Notre Dame,L,3,4,75.0,0,1,0.0,3,cole-murphy-1
+Tyler Rausa,2016-10-01,4,Boise State,,Utah State,W,3,3,100.0,0,0,,3,tyler-rausa-1
+Aidan Schneider,2016-10-01,5,Oregon,@,Washington State,L,3,3,100.0,0,0,,3,aidan-schneider-1
+Jake Verity,2016-10-01,5,East Carolina,,Central Florida,L,3,3,100.0,0,1,0.0,3,jake-verity-1
+Josh Lambert,2016-10-01,4,West Virginia,,Kansas State,W,0,0,,1,2,50.0,3,josh-lambert-1
+Logan Laurent,2016-10-01,5,Massachusetts,,Tulane,L,0,0,,1,1,100.0,3,logan-laurent-1
+Adam Mitcheson,2016-10-01,4,Buffalo,@,Boston College,L,0,0,,1,1,100.0,3,adam-mitcheson-1
+Rogier Ten Lohuis,2016-10-01,4,Georgia State,@,Appalachian State,L,0,0,,1,2,50.0,3,rogier-ten-lohuis-1
+Matt Anderson,2016-10-01,5,California,,Utah,W,4,4,100.0,0,0,,4,matt-anderson-3
+Jonathan Barnes,2016-10-01,5,Louisiana Tech,,Texas-El Paso,W,4,4,100.0,0,0,,4,jonathan-barnes-1
+John Baron,2016-10-01,4,San Diego State,@,South Alabama,L,1,1,100.0,1,1,100.0,4,john-baron-1
+Brian Eavey,2016-10-01,5,Central Michigan,,Western Michigan,L,1,1,100.0,1,1,100.0,4,brian-eavey-1
+Jake Elliott,2016-10-01,4,Memphis,@,Mississippi,L,4,4,100.0,0,0,,4,jake-elliott-1
+Paul Fricano,2016-10-01,5,Eastern Michigan,@,Bowling Green State,W,4,4,100.0,0,0,,4,paul-fricano-1
+Sam Hayward,2016-10-01,5,Virginia,@,Duke,W,4,4,100.0,0,0,,4,sam-hayward-1
+Greg Huegel,2016-10-01,5,Clemson,,Louisville,W,4,4,100.0,0,0,,4,greg-huegel-1
+Aaron Medley,2016-10-01,5,Tennessee,@,Georgia,W,4,4,100.0,0,0,,4,aaron-medley-1
+Hayden Tobola,2016-10-01,5,Rice,@,Southern Mississippi,L,4,4,100.0,0,0,,4,hayden-tobola-1
+Brock Warren,2016-10-01,5,Utah State,@,Boise State,L,1,1,100.0,1,2,50.0,4,brock-warren-1
+Ricky Aguayo,2016-10-01,5,Florida State,,North Carolina,L,5,5,100.0,0,3,0.0,5,ricky-aguayo-1
+Michael Badgley,2016-10-01,4,Miami (FL),@,Georgia Tech,W,5,5,100.0,0,0,,5,michael-badgley-1
+Wyatt Bryan,2016-10-01,5,Colorado State,,Wyoming,L,2,2,100.0,1,2,50.0,5,wyatt-bryan-1
+Bryce Crawford,2016-10-01,5,San Jose State,@,New Mexico,L,5,6,83.3,0,1,0.0,5,bryce-crawford-1
+Mike Knoll,2016-10-01,5,Boston College,,Buffalo,W,5,5,100.0,0,0,,5,mike-knoll-2
+Stephen Muscarello,2016-10-01,5,UNC Charlotte,,Old Dominion,L,2,2,100.0,1,1,100.0,5,stephen-muscarello-1
+Andy Phillips,2016-10-01,5,Utah,@,California,L,2,2,100.0,1,2,50.0,5,andy-phillips-2
+Michael Rubino,2016-10-01,5,Appalachian State,,Georgia State,W,2,2,100.0,1,3,33.3,5,michael-rubino-1
+Jake Suder,2016-10-01,5,Bowling Green State,,Eastern Michigan,L,2,2,100.0,1,2,50.0,5,jake-suder-1
+Louie Zervos,2016-10-01,5,Ohio,@,Miami (OH),W,2,2,100.0,1,2,50.0,5,louie-zervos-1
+Brent Zuzo,2016-10-01,5,Nevada,@,Hawaii,L,2,2,100.0,1,2,50.0,5,brent-zuzo-1
+Colby Delahoussaye,2016-10-01,5,Louisiana State,,Missouri,W,6,6,100.0,0,1,0.0,6,colby-delahoussaye-1
+Adam Greene,2016-10-01,4,Maryland,,Purdue,W,6,6,100.0,0,0,,6,adam-greene-1
+Morgan Hagee,2016-10-01,5,Ball State,,Northern Illinois,L,3,3,100.0,1,2,50.0,6,morgan-hagee-1
+Daniel LaCamera,2016-10-01,5,Texas A&M,@,South Carolina,W,3,3,100.0,1,2,50.0,6,daniel-lacamera-1
+Cole Netten,2016-10-01,5,Iowa State,,Baylor,L,6,6,100.0,0,0,,6,cole-netten-1
+Griffin Oakes,2016-10-01,4,Indiana,,Michigan State,W,3,3,100.0,1,3,33.3,6,griffin-oakes-1
+Gavin Patterson,2016-10-01,5,South Alabama,,San Diego State,W,6,6,100.0,0,0,,6,gavin-patterson-1
+Josh Pollack,2016-10-01,5,Arizona,@,UCLA,L,3,3,100.0,1,1,100.0,6,josh-pollack-1
+James Sherman,2016-10-01,4,Texas State,,Incarnate Word,W,6,7,85.7,0,1,0.0,6,james-sherman-1
+Skyler Simcox,2016-10-01,5,Western Kentucky,,,W,3,3,100.0,1,1,100.0,6,skyler-simcox-1
+Austin Macginnis,2016-10-01,5,Kentucky,@,Alabama,L,0,0,,2,2,100.0,6,austin-macginnis-1
+Tommy Openshaw,2016-10-01,5,Vanderbilt,,Florida,L,0,0,,2,2,100.0,6,tommy-openshaw-1
+Garrett Owens,2016-10-01,4,Oregon State,@,Colorado,L,0,0,,2,2,100.0,6,garrett-owens-1
+Rodrigo Blankenship,2016-10-01,5,Georgia,,Tennessee,L,4,4,100.0,1,1,100.0,7,rodrigo-blankenship-1
+Chris Blewitt,2016-10-01,5,Pittsburgh,,Marshall,W,4,5,80.0,1,1,100.0,7,chris-blewitt-1
+Drew Brown,2016-10-01,5,Nebraska,,Illinois,W,4,4,100.0,1,2,50.0,7,drew-brown-1
+Parker Davidson,2016-10-01,5,New Mexico State,,Louisiana,W,4,4,100.0,1,3,33.3,7,parker-davidson-1
+Andrew Dirocco,2016-10-01,5,Tulane,@,Massachusetts,W,4,4,100.0,1,1,100.0,7,andrew-dirocco-1
+Keith Duncan,2016-10-01,5,Iowa,,Northwestern,L,4,4,100.0,1,1,100.0,7,keith-duncan-1
+Elliot Fry,2016-10-01,5,South Carolina,,Texas A&M,L,1,1,100.0,2,4,50.0,7,elliot-fry-1
+Christian Hagan,2016-10-01,5,Northern Illinois,@,Ball State,W,4,4,100.0,1,3,33.3,7,christian-hagan-1
+Butch Hampton,2016-10-01,5,Western Michigan,@,Central Michigan,W,7,7,100.0,0,0,,7,butch-hampton-1
+Greg Joseph,2016-10-01,5,Florida Atlantic,@,Florida International,L,4,4,100.0,1,1,100.0,7,greg-joseph-2
+Tom O'Leary,2016-10-01,5,Akron,@,Kent State,W,4,4,100.0,1,1,100.0,7,tom-oleary-2
+Eddy Pineiro,2016-10-01,5,Florida,@,Vanderbilt,W,1,1,100.0,2,2,100.0,7,eddy-pineiro-1
+Erik Powell,2016-10-01,4,Washington State,,Oregon,W,7,7,100.0,0,1,0.0,7,erik-powell-1
+Austin Rehkow,2016-10-01,5,Idaho,,Troy,L,1,1,100.0,2,2,100.0,7,austin-rehkow-1
+Nick Weiler,2016-10-01,5,North Carolina,@,Florida State,W,4,5,80.0,1,2,50.0,7,nick-weiler-1
+Daniel Carlson,2016-10-01,5,Auburn,,Louisiana-Monroe,W,8,8,100.0,0,1,0.0,8,daniel-carlson-1
+Zane Gonzalez,2016-10-01,5,Arizona State,@,Southern California,L,2,2,100.0,2,2,100.0,8,zane-gonzalez-1
+Brandon Hatfield,2016-10-01,5,Texas Christian,,Oklahoma,L,5,5,100.0,1,1,100.0,8,brandon-hatfield-1
+Kody Kroening,2016-10-01,5,Fresno State,@,Nevada-Las Vegas,L,2,2,100.0,2,2,100.0,8,kody-kroening-1
+Jack Mitchell,2016-10-01,5,Northwestern,@,Iowa,W,5,5,100.0,1,1,100.0,8,jack-mitchell-2
+AJ Reed,2016-10-01,5,Duke,,Virginia,L,2,2,100.0,2,2,100.0,8,aj-reed-1
+Cooper Rothe,2016-10-01,5,Wyoming,@,Colorado State,W,5,5,100.0,1,1,100.0,8,cooper-rothe-1
+Rigoberto Sanchez,2016-10-01,5,Hawaii,,Nevada,W,5,5,100.0,1,1,100.0,8,rigoberto-sanchez-1
+Luke Strebel,2016-10-01,4,Air Force,,Navy,W,2,2,100.0,2,2,100.0,8,luke-strebel-1
+Kyle Bambard,2016-10-01,4,North Carolina State,,Wake Forest,W,3,4,75.0,2,2,100.0,9,kyle-bambard-1
+Chris Callahan,2016-10-01,5,Baylor,@,Iowa State,W,6,6,100.0,1,1,100.0,9,chris-callahan-3
+Shane Hynes,2016-10-01,5,Kent State,,Akron,L,3,3,100.0,2,3,66.7,9,shane-hynes-1
+Austin Jones,2016-10-01,5,Temple,,Southern Methodist,W,6,6,100.0,1,1,100.0,9,austin-jones-4
+JJ Molson,2016-10-01,5,UCLA,,Arizona,W,6,6,100.0,1,2,50.0,9,jj-molson-1
+Emilio Nadelman,2016-10-01,5,South Florida,@,Cincinnati,W,6,6,100.0,1,1,100.0,9,emilio-nadelman-1
+Evan Pantels,2016-10-01,5,Nevada-Las Vegas,,Fresno State,W,6,6,100.0,1,1,100.0,9,evan-pantels-1
+Austin Taylor,2016-10-01,5,Florida International,,Florida Atlantic,W,3,4,75.0,2,2,100.0,9,austin-taylor-2
+Matthew Wright,2016-10-01,5,Central Florida,@,East Carolina,W,6,6,100.0,1,1,100.0,9,matthew-wright-1
+Brad Davis,2016-10-01,5,Old Dominion,@,UNC Charlotte,W,7,7,100.0,1,1,100.0,10,brad-davis-3
+Tyler Durbin,2016-10-01,4,Ohio State,,Rutgers,W,7,8,87.5,1,1,100.0,10,tyler-durbin-1
+Adam Griffith,2016-10-01,5,Alabama,,Kentucky,W,4,4,100.0,2,3,66.7,10,adam-griffith-1
+Cole Hedlund,2016-10-01,5,Arkansas,,Alcorn State,W,7,7,100.0,1,2,50.0,10,cole-hedlund-1
+Ryan Kay,2016-10-01,5,Troy,@,Idaho,W,4,4,100.0,2,2,100.0,10,ryan-kay-1
+Matthew McCrane,2016-10-01,4,Kansas State,@,West Virginia,L,1,1,100.0,3,4,75.0,10,matthew-mccrane-1
+Chase McLaughlin,2016-10-01,4,Illinois,@,Nebraska,L,1,1,100.0,3,3,100.0,10,chase-mclaughlin-1
+Austin Seibert,2016-10-01,4,Oklahoma,@,Texas Christian,W,7,7,100.0,1,1,100.0,10,austin-seibert-1
+Mike Weaver,2016-10-01,5,Wake Forest,@,North Carolina State,L,1,1,100.0,3,3,100.0,10,mike-weaver-1
+Stevie Artigue,2016-10-01,5,Louisiana,@,New Mexico State,L,2,2,100.0,3,4,75.0,11,stevie-artigue-1
+Matt Boermeester,2016-10-01,5,Southern California,,Arizona State,W,5,5,100.0,2,4,50.0,11,matt-boermeester-1
+Tyler Davis,2016-10-01,5,Penn State,,Minnesota,W,2,2,100.0,3,3,100.0,11,tyler-davis-3
+Ben Grogan,2016-10-01,5,Oklahoma State,,Texas,W,5,6,83.3,2,2,100.0,11,ben-grogan-1
+Davis Price,2016-10-01,5,Colorado,,Oregon State,W,5,5,100.0,2,2,100.0,11,davis-price-1
+Blaton Creque,2016-10-01,5,Louisville,@,Clemson,L,3,4,75.0,3,3,100.0,12,blaton-creque-1
+Canon Rooker,2016-10-01,5,Middle Tennessee State,@,North Texas,W,3,3,100.0,3,3,100.0,12,canon-rooker-1
+Jason Sanders,2016-10-01,4,New Mexico,,San Jose State,W,6,6,100.0,2,2,100.0,12,jason-sanders-1
+Gary Wunderlich,2016-10-01,5,Mississippi,,Memphis,W,6,6,100.0,2,2,100.0,12,gary-wunderlich-1
+Justin Yoon,2016-10-01,5,Notre Dame,N,Syracuse,W,6,6,100.0,2,3,66.7,12,justin-yoon-1
+Emmit Carpenter,2016-10-01,4,Minnesota,@,Penn State,L,2,2,100.0,4,4,100.0,14,emmit-carpenter-1
+Parker Shaunfield,2016-10-01,5,Southern Mississippi,,Rice,W,5,5,100.0,3,3,100.0,14,parker-shaunfield-1
+JD Houston,2016-10-05,5,Arkansas State,,Georgia Southern,W,3,3,100.0,2,2,100.0,9,jd-houston-1
+Younghoe Koo,2016-10-05,5,Georgia Southern,@,Arkansas State,L,2,2,100.0,4,4,100.0,14,younghoe-koo-1
+Aaron Boumerhi,2016-10-06,6,Temple,@,Memphis,L,1,1,100.0,0,0,,1,aaron-boumerhi-1
+Austin Jones,2016-10-06,6,Temple,@,Memphis,L,2,2,100.0,2,4,50.0,8,austin-jones-4
+Jake Elliott,2016-10-06,5,Memphis,,Temple,W,4,4,100.0,2,3,66.7,10,jake-elliott-1
+Skyler Simcox,2016-10-06,6,Western Kentucky,@,Louisiana Tech,L,7,7,100.0,1,1,100.0,10,skyler-simcox-1
+Jonathan Barnes,2016-10-06,6,Louisiana Tech,,Western Kentucky,W,7,7,100.0,2,2,100.0,13,jonathan-barnes-1
+Mike Caggiano,2016-10-07,6,Massachusetts,@,Old Dominion,L,2,2,100.0,0,0,,2,mike-caggiano-1
+Jason Sanders,2016-10-07,5,New Mexico,,Boise State,L,3,3,100.0,0,0,,3,jason-sanders-1
+Mike Knoll,2016-10-07,6,Boston College,,Clemson,L,1,1,100.0,1,1,100.0,4,mike-knoll-2
+Tyler Rausa,2016-10-07,5,Boise State,@,New Mexico,W,7,7,100.0,0,0,,7,tyler-rausa-1
+Greg Huegel,2016-10-07,6,Clemson,@,Boston College,W,8,8,100.0,0,0,,8,greg-huegel-1
+Brad Davis,2016-10-07,6,Old Dominion,,Massachusetts,W,3,4,75.0,3,3,100.0,12,brad-davis-3
+Redford Jones,2016-10-07,5,Tulsa,,Southern Methodist,W,4,4,100.0,3,5,60.0,13,redford-jones-1
+Josh Williams,2016-10-07,6,Southern Methodist,@,Tulsa,L,4,4,100.0,4,4,100.0,16,josh-williams-9
+Miguel Recinos,2016-10-08,6,Iowa,@,Minnesota,W,0,0,,0,1,0.0,0,miguel-recinos-1
+Emmit Carpenter,2016-10-08,5,Minnesota,,Iowa,L,1,1,100.0,0,0,,1,emmit-carpenter-1
+Cole Murphy,2016-10-08,6,Syracuse,@,Wake Forest,L,1,1,100.0,0,0,,1,cole-murphy-1
+Evan Pantels,2016-10-08,6,Nevada-Las Vegas,@,San Diego State,L,1,1,100.0,0,0,,1,evan-pantels-1
+AJ Reed,2016-10-08,6,Duke,,Army,W,1,1,100.0,0,0,,1,aj-reed-1
+Michael Geiger,2016-10-08,5,Michigan State,,Brigham Young,L,2,2,100.0,0,0,,2,michael-geiger-1
+Westin Graves,2016-10-08,5,Mississippi State,,Auburn,L,2,2,100.0,0,1,0.0,2,westin-graves-1
+Adam Greene,2016-10-08,5,Maryland,@,Penn State,L,2,2,100.0,0,0,,2,adam-greene-1
+Matt Boermeester,2016-10-08,6,Southern California,,Colorado,W,3,3,100.0,0,0,,3,matt-boermeester-1
+Amoreto Curraj,2016-10-08,5,Marshall,@,North Texas,L,3,3,100.0,0,2,0.0,3,amoreto-curraj-1
+Morgan Hagee,2016-10-08,6,Ball State,@,Central Michigan,L,3,3,100.0,0,0,,3,morgan-hagee-1
+Jay Mattox,2016-10-08,6,Texas-El Paso,,Florida International,L,3,3,100.0,0,1,0.0,3,jay-mattox-1
+Aidan Schneider,2016-10-08,6,Oregon,,Washington,L,3,3,100.0,0,0,,3,aidan-schneider-1
+James Sherman,2016-10-08,5,Texas State,@,Georgia State,L,3,3,100.0,0,1,0.0,3,james-sherman-1
+Ryan Tice,2016-10-08,6,Michigan,@,Rutgers,W,3,3,100.0,0,0,,3,ryan-tice-1
+Brent Zuzo,2016-10-08,6,Nevada,,Fresno State,W,3,4,75.0,0,1,0.0,3,brent-zuzo-1
+Nick Weiler,2016-10-08,6,North Carolina,,Virginia Tech,L,0,0,,1,1,100.0,3,nick-weiler-1
+Justin Yoon,2016-10-08,6,Notre Dame,@,North Carolina State,L,0,0,,1,1,100.0,3,justin-yoon-1
+Kyle Bambard,2016-10-08,5,North Carolina State,,Notre Dame,W,1,1,100.0,1,2,50.0,4,kyle-bambard-1
+Conrad Ukropina,2016-10-08,5,Stanford,,Washington State,L,1,1,100.0,1,3,33.3,4,conrad-ukropina-1
+Mike Weaver,2016-10-08,6,Wake Forest,,Syracuse,W,4,4,100.0,0,0,,4,mike-weaver-1
+Bryce Crawford,2016-10-08,6,San Jose State,,Hawaii,L,2,2,100.0,1,2,50.0,5,bryce-crawford-1
+Tom O'Leary,2016-10-08,6,Akron,,Miami (OH),W,5,5,100.0,0,0,,5,tom-oleary-2
+Griffin Oakes,2016-10-08,5,Indiana,@,Ohio State,L,2,2,100.0,1,1,100.0,5,griffin-oakes-1
+Josh Pollack,2016-10-08,6,Arizona,@,Utah,L,2,2,100.0,1,2,50.0,5,josh-pollack-1
+Davis Price,2016-10-08,6,Colorado,@,Southern California,L,2,2,100.0,1,1,100.0,5,davis-price-1
+Cooper Rothe,2016-10-08,6,Wyoming,,Air Force,W,5,5,100.0,0,0,,5,cooper-rothe-1
+Jameson Vest,2016-10-08,5,Toledo,@,Eastern Michigan,W,5,5,100.0,0,0,,5,jameson-vest-1
+Brian Eavey,2016-10-08,6,Central Michigan,,Ball State,W,3,3,100.0,1,1,100.0,6,brian-eavey-1
+Brandon Hatfield,2016-10-08,6,Texas Christian,@,Kansas,W,3,3,100.0,1,2,50.0,6,brandon-hatfield-1
+Adam McFain,2016-10-08,6,Arkansas,,Alabama,L,3,3,100.0,1,1,100.0,6,adam-mcfain-1
+Erik Powell,2016-10-08,5,Washington State,@,Stanford,W,6,6,100.0,0,1,0.0,6,erik-powell-1
+Parker Shaunfield,2016-10-08,6,Southern Mississippi,@,Texas-San Antonio,L,3,3,100.0,1,1,100.0,6,parker-shaunfield-1
+Jake Suder,2016-10-08,6,Bowling Green State,@,Ohio,L,3,3,100.0,1,1,100.0,6,jake-suder-1
+Brock Warren,2016-10-08,6,Utah State,@,Colorado State,L,3,3,100.0,1,1,100.0,6,brock-warren-1
+Louie Zervos,2016-10-08,6,Ohio,,Bowling Green State,W,3,4,75.0,1,2,50.0,6,louie-zervos-1
+Keith Duncan,2016-10-08,6,Iowa,@,Minnesota,W,0,0,,2,2,100.0,6,keith-duncan-1
+Kenneth Allen,2016-10-08,6,Michigan,@,Rutgers,W,7,7,100.0,0,0,,7,kenneth-allen-1
+Rhett Almond,2016-10-08,6,Brigham Young,@,Michigan State,W,4,4,100.0,1,1,100.0,7,rhett-almond-1
+Michael Badgley,2016-10-08,5,Miami (FL),,Florida State,L,1,2,50.0,2,2,100.0,7,michael-badgley-1
+Wyatt Bryan,2016-10-08,6,Colorado State,,Utah State,W,4,4,100.0,1,1,100.0,7,wyatt-bryan-1
+Nick Dowd,2016-10-08,6,Miami (OH),@,Akron,L,1,1,100.0,2,2,100.0,7,nick-dowd-1
+Craig Ford,2016-10-08,5,Louisiana-Monroe,,Idaho,L,4,4,100.0,1,1,100.0,7,craig-ford-1
+Adam Griffith,2016-10-08,6,Alabama,@,Arkansas,W,7,7,100.0,0,0,,7,adam-griffith-1
+Cole Netten,2016-10-08,6,Iowa State,@,Oklahoma State,L,4,4,100.0,1,1,100.0,7,cole-netten-1
+Tommy Openshaw,2016-10-08,6,Vanderbilt,@,Kentucky,L,1,1,100.0,2,3,66.7,7,tommy-openshaw-1
+Ricky Aguayo,2016-10-08,6,Florida State,@,Miami (FL),W,2,2,100.0,2,2,100.0,8,ricky-aguayo-1
+John Baron,2016-10-08,5,San Diego State,,Nevada-Las Vegas,W,2,2,100.0,2,2,100.0,8,john-baron-1
+Daniel Carlson,2016-10-08,6,Auburn,@,Mississippi State,W,5,5,100.0,1,1,100.0,8,daniel-carlson-1
+Tyler Davis,2016-10-08,6,Penn State,,Maryland,W,5,5,100.0,1,1,100.0,8,tyler-davis-3
+Tyler Durbin,2016-10-08,5,Ohio State,,Indiana,W,5,5,100.0,1,1,100.0,8,tyler-durbin-1
+Paul Fricano,2016-10-08,6,Eastern Michigan,,Toledo,L,2,2,100.0,2,2,100.0,8,paul-fricano-1
+Ben Grogan,2016-10-08,6,Oklahoma State,,Iowa State,W,5,5,100.0,1,1,100.0,8,ben-grogan-1
+Clayton Hatfield,2016-10-08,5,Texas Tech,@,Kansas State,L,5,5,100.0,1,1,100.0,8,clayton-hatfield-1
+Austin Macginnis,2016-10-08,6,Kentucky,,Vanderbilt,W,2,2,100.0,2,2,100.0,8,austin-macginnis-1
+Aaron Medley,2016-10-08,6,Tennessee,@,Texas A&M,L,5,5,100.0,1,1,100.0,8,aaron-medley-1
+Adam Mitcheson,2016-10-08,5,Buffalo,,Kent State,L,2,2,100.0,2,3,66.7,8,adam-mitcheson-1
+JJ Molson,2016-10-08,6,UCLA,@,Arizona State,L,2,2,100.0,2,4,50.0,8,jj-molson-1
+Trevor Moore,2016-10-08,6,North Texas,,Marshall,W,5,5,100.0,1,2,50.0,8,trevor-moore-1
+Emilio Nadelman,2016-10-08,6,South Florida,,East Carolina,W,5,5,100.0,1,1,100.0,8,emilio-nadelman-1
+Bobby Puyol,2016-10-08,6,Connecticut,,Cincinnati,W,2,2,100.0,2,3,66.7,8,bobby-puyol-1
+Luke Strebel,2016-10-08,5,Air Force,@,Wyoming,L,2,2,100.0,2,2,100.0,8,luke-strebel-1
+Butch Hampton,2016-10-08,6,Western Michigan,,Northern Illinois,W,6,6,100.0,1,1,100.0,9,butch-hampton-1
+Daniel LaCamera,2016-10-08,6,Texas A&M,,Tennessee,W,6,6,100.0,1,2,50.0,9,daniel-lacamera-1
+Austin Seibert,2016-10-08,5,Oklahoma,N,Texas,W,6,6,100.0,1,2,50.0,9,austin-seibert-1
+Austin Taylor,2016-10-08,6,Florida International,@,Texas-El Paso,W,3,3,100.0,2,3,66.7,9,austin-taylor-2
+Josh Pasley,2016-10-08,6,Cincinnati,@,Connecticut,L,0,0,,3,3,100.0,9,josh-pasley-1
+Harrison Butker,2016-10-08,6,Georgia Tech,@,Pittsburgh,L,4,4,100.0,2,2,100.0,10,harrison-butker-1
+Ty Cummings,2016-10-08,6,Houston,@,Navy,L,4,5,80.0,2,2,100.0,10,ty-cummings-1
+J.D. Dillinger,2016-10-08,5,Purdue,@,Illinois,W,4,4,100.0,2,2,100.0,10,jd-dillinger-1
+Trent Domingue,2016-10-08,5,Texas,N,Oklahoma,L,4,4,100.0,2,2,100.0,10,trent-domingue-1
+Kody Kroening,2016-10-08,6,Fresno State,@,Nevada,L,1,1,100.0,3,3,100.0,10,kody-kroening-1
+Andy Phillips,2016-10-08,6,Utah,,Arizona,W,4,4,100.0,2,2,100.0,10,andy-phillips-2
+Davis Plowman,2016-10-08,6,East Carolina,@,South Florida,L,1,1,100.0,3,4,75.0,10,davis-plowman-1
+Rigoberto Sanchez,2016-10-08,6,Hawaii,@,San Jose State,W,4,4,100.0,2,2,100.0,10,rigoberto-sanchez-1
+Joey Slye,2016-10-08,5,Virginia Tech,@,North Carolina,W,4,4,100.0,2,2,100.0,10,joey-slye-1
+Cameron Van Winkle,2016-10-08,6,Washington,@,Oregon,W,10,10,100.0,0,0,,10,cameron-van-winkle-1
+Zane Gonzalez,2016-10-08,6,Arizona State,,UCLA,W,2,2,100.0,3,3,100.0,11,zane-gonzalez-1
+Chase McLaughlin,2016-10-08,5,Illinois,,Purdue,L,2,2,100.0,3,4,75.0,11,chase-mclaughlin-1
+Garrett Owens,2016-10-08,5,Oregon State,,California,W,5,5,100.0,2,2,100.0,11,garrett-owens-1
+Rogier Ten Lohuis,2016-10-08,5,Georgia State,,Texas State,W,5,5,100.0,2,2,100.0,11,rogier-ten-lohuis-1
+Matthew Wyman,2016-10-08,5,Kansas,,Texas Christian,L,2,2,100.0,3,6,50.0,11,matthew-wyman-1
+Christian Hagan,2016-10-08,6,Northern Illinois,@,Western Michigan,L,3,3,100.0,3,3,100.0,12,christian-hagan-1
+Chris Blewitt,2016-10-08,6,Pittsburgh,,Georgia Tech,W,4,4,100.0,3,3,100.0,13,chris-blewitt-1
+Victor Falcon,2016-10-08,5,Texas-San Antonio,,Southern Mississippi,W,7,7,100.0,2,2,100.0,13,victor-falcon-1
+Matt Anderson,2016-10-08,6,California,@,Oregon State,L,5,5,100.0,3,3,100.0,14,matt-anderson-3
+Shane Hynes,2016-10-08,6,Kent State,@,Buffalo,W,5,5,100.0,3,3,100.0,14,shane-hynes-1
+Matthew McCrane,2016-10-08,5,Kansas State,,Texas Tech,W,5,5,100.0,3,3,100.0,14,matthew-mccrane-1
+Bennett Moehring,2016-10-08,5,Navy,,Houston,W,5,5,100.0,3,3,100.0,14,bennett-moehring-1
+Austin Rehkow,2016-10-08,6,Idaho,@,Louisiana-Monroe,W,2,2,100.0,4,4,100.0,14,austin-rehkow-1
+Elliot Fry,2016-10-09,6,South Carolina,,Georgia,L,2,2,100.0,0,0,,2,elliot-fry-1
+Rodrigo Blankenship,2016-10-09,6,Georgia,@,South Carolina,W,4,4,100.0,0,0,,4,rodrigo-blankenship-1
+Stephen Muscarello,2016-10-09,6,UNC Charlotte,@,Florida Atlantic,W,4,4,100.0,0,0,,4,stephen-muscarello-1
+Greg Joseph,2016-10-09,6,Florida Atlantic,,UNC Charlotte,L,2,2,100.0,1,1,100.0,5,greg-joseph-2
+Stevie Artigue,2016-10-12,6,Louisiana,,Appalachian State,L,0,0,,0,2,0.0,0,stevie-artigue-1
+Michael Rubino,2016-10-12,6,Appalachian State,@,Louisiana,W,3,3,100.0,1,1,100.0,6,michael-rubino-1
+Rhett Almond,2016-10-14,7,Brigham Young,,Mississippi State,W,2,2,100.0,0,1,0.0,2,rhett-almond-1
+Andrew Dirocco,2016-10-14,6,Tulane,,Memphis,L,2,2,100.0,0,1,0.0,2,andrew-dirocco-1
+Andrew Mikkelsen,2016-10-14,7,Brigham Young,,Mississippi State,W,2,2,100.0,0,0,,2,andrew-mikkelsen-1
+AJ Reed,2016-10-14,7,Duke,@,Louisville,L,2,2,100.0,0,1,0.0,2,aj-reed-1
+Westin Graves,2016-10-14,6,Mississippi State,@,Brigham Young,L,3,3,100.0,0,1,0.0,3,westin-graves-1
+Kody Kroening,2016-10-14,7,Fresno State,,San Diego State,L,0,0,,1,1,100.0,3,kody-kroening-1
+John Baron,2016-10-14,6,San Diego State,@,Fresno State,W,2,2,100.0,1,1,100.0,5,john-baron-1
+Evan O'Hara,2016-10-14,6,Louisville,,Duke,W,3,3,100.0,1,2,50.0,6,evan-ohara-1
+Jake Elliott,2016-10-14,6,Memphis,@,Tulane,W,1,1,100.0,3,3,100.0,10,jake-elliott-1
+Blake Brewer,2016-10-15,7,UNC Charlotte,,Florida International,L,0,0,,0,1,0.0,0,blake-brewer-1
+Drew Galitz,2016-10-15,6,Baylor,,Kansas,W,0,0,,0,1,0.0,0,drew-galitz-1
+Logan Laurent,2016-10-15,7,Massachusetts,,Louisiana Tech,L,0,0,,0,1,0.0,0,logan-laurent-1
+David Bonagura,2016-10-15,7,Rutgers,,Illinois,L,1,1,100.0,0,0,,1,david-bonagura-1
+Jack Gonsoulin,2016-10-15,6,Louisiana State,,Southern Mississippi,W,1,1,100.0,0,0,,1,jack-gonsoulin-1
+Gavin Patterson,2016-10-15,6,South Alabama,@,Arkansas State,L,1,1,100.0,0,1,0.0,1,gavin-patterson-1
+Andrew Strauch,2016-10-15,7,UCLA,@,Washington State,L,1,1,100.0,0,0,,1,andrew-strauch-1
+Hayden Tobola,2016-10-15,6,Rice,,Texas-San Antonio,L,1,2,50.0,0,2,0.0,1,hayden-tobola-1
+Conrad Ukropina,2016-10-15,6,Stanford,@,Notre Dame,W,1,1,100.0,0,1,0.0,1,conrad-ukropina-1
+Avery Walas,2016-10-15,6,Army,,Lafayette,W,1,1,100.0,0,0,,1,avery-walas-1
+Matthew Wyman,2016-10-15,6,Kansas,@,Baylor,L,1,1,100.0,0,0,,1,matthew-wyman-1
+Bryce Crawford,2016-10-15,7,San Jose State,,Nevada,W,2,2,100.0,0,0,,2,bryce-crawford-1
+Victor Falcon,2016-10-15,6,Texas-San Antonio,@,Rice,W,2,2,100.0,0,0,,2,victor-falcon-1
+Shane Hynes,2016-10-15,7,Kent State,@,Miami (OH),L,2,2,100.0,0,0,,2,shane-hynes-1
+Tucker McCann,2016-10-15,6,Missouri,@,Florida,L,2,2,100.0,0,0,,2,tucker-mccann-1
+JJ Molson,2016-10-15,7,UCLA,@,Washington State,L,2,2,100.0,0,0,,2,jj-molson-1
+Garrett Owens,2016-10-15,6,Oregon State,,Utah,L,2,2,100.0,0,2,0.0,2,garrett-owens-1
+Josh Pollack,2016-10-15,7,Arizona,,Southern California,L,2,2,100.0,0,0,,2,josh-pollack-1
+Greg Joseph,2016-10-15,7,Florida Atlantic,@,Marshall,L,3,3,100.0,0,0,,3,greg-joseph-2
+Adam Mitcheson,2016-10-15,6,Buffalo,,Ball State,L,3,3,100.0,0,1,0.0,3,adam-mitcheson-1
+Joey Slye,2016-10-15,6,Virginia Tech,@,Syracuse,L,0,1,0.0,1,2,50.0,3,joey-slye-1
+Rogier Ten Lohuis,2016-10-15,6,Georgia State,@,Troy,L,3,3,100.0,0,0,,3,rogier-ten-lohuis-1
+Mike Caggiano,2016-10-15,7,Massachusetts,,Louisiana Tech,L,4,4,100.0,0,1,0.0,4,mike-caggiano-1
+Nick Dowd,2016-10-15,7,Miami (OH),,Kent State,W,1,1,100.0,1,1,100.0,4,nick-dowd-1
+Brian Eavey,2016-10-15,7,Central Michigan,@,Northern Illinois,W,4,4,100.0,0,2,0.0,4,brian-eavey-1
+Chris Graham,2016-10-15,7,Colorado,,Arizona State,W,1,1,100.0,1,1,100.0,4,chris-graham-1
+Adam Greene,2016-10-15,6,Maryland,,Minnesota,L,1,1,100.0,1,1,100.0,4,adam-greene-1
+Christian Hagan,2016-10-15,7,Northern Illinois,,Central Michigan,L,4,4,100.0,0,1,0.0,4,christian-hagan-1
+Aaron Medley,2016-10-15,7,Tennessee,,Alabama,L,1,1,100.0,1,1,100.0,4,aaron-medley-1
+Spence Pettit,2016-10-15,7,Nevada,@,San Jose State,L,1,1,100.0,1,1,100.0,4,spence-pettit-1
+Tyler Rausa,2016-10-15,6,Boise State,,Colorado State,W,4,4,100.0,0,0,,4,tyler-rausa-1
+Marcus Ripley,2016-10-15,6,Texas State,@,Louisiana-Monroe,L,4,5,80.0,0,0,,4,marcus-ripley-1
+Parker Shaunfield,2016-10-15,7,Southern Mississippi,@,Louisiana State,L,1,1,100.0,1,1,100.0,4,parker-shaunfield-1
+Jameson Vest,2016-10-15,6,Toledo,,Bowling Green State,W,4,5,80.0,0,0,,4,jameson-vest-1
+Justin Yoon,2016-10-15,7,Notre Dame,,Stanford,L,1,1,100.0,1,1,100.0,4,justin-yoon-1
+Ricky Aguayo,2016-10-15,7,Florida State,,Wake Forest,W,2,2,100.0,1,2,50.0,5,ricky-aguayo-1
+Kyle Bambard,2016-10-15,6,North Carolina State,@,Clemson,L,2,2,100.0,1,4,25.0,5,kyle-bambard-1
+Wyatt Bryan,2016-10-15,7,Colorado State,@,Boise State,L,2,2,100.0,1,1,100.0,5,wyatt-bryan-1
+Harrison Butker,2016-10-15,7,Georgia Tech,,Georgia Southern,W,5,5,100.0,0,1,0.0,5,harrison-butker-1
+Parker Davidson,2016-10-15,6,New Mexico State,@,Idaho,L,2,3,66.7,1,1,100.0,5,parker-davidson-1
+J.D. Dillinger,2016-10-15,6,Purdue,,Iowa,L,5,5,100.0,0,0,,5,jd-dillinger-1
+Butch Hampton,2016-10-15,7,Western Michigan,@,Akron,W,5,6,83.3,0,1,0.0,5,butch-hampton-1
+Clayton Hatfield,2016-10-15,6,Texas Tech,,West Virginia,L,2,2,100.0,1,1,100.0,5,clayton-hatfield-1
+JD Houston,2016-10-15,6,Arkansas State,,South Alabama,W,2,2,100.0,1,2,50.0,5,jd-houston-1
+Matthew McCrane,2016-10-15,6,Kansas State,@,Oklahoma,L,2,2,100.0,1,1,100.0,5,matthew-mccrane-1
+Tommy Openshaw,2016-10-15,7,Vanderbilt,@,Georgia,W,2,2,100.0,1,1,100.0,5,tommy-openshaw-1
+Andy Phillips,2016-10-15,7,Utah,@,Oregon State,W,2,2,100.0,1,1,100.0,5,andy-phillips-2
+Jake Suder,2016-10-15,7,Bowling Green State,@,Toledo,L,5,5,100.0,0,0,,5,jake-suder-1
+Matthew Wright,2016-10-15,6,Central Florida,,Temple,L,2,2,100.0,1,2,50.0,5,matthew-wright-1
+Matt Boermeester,2016-10-15,7,Southern California,@,Arizona,W,6,6,100.0,0,1,0.0,6,matt-boermeester-1
+Greg Huegel,2016-10-15,7,Clemson,,North Carolina State,W,3,3,100.0,1,1,100.0,6,greg-huegel-1
+Younghoe Koo,2016-10-15,6,Georgia Southern,@,Georgia Tech,L,3,3,100.0,1,1,100.0,6,younghoe-koo-1
+Chase McLaughlin,2016-10-15,6,Illinois,@,Rutgers,W,3,3,100.0,1,3,33.3,6,chase-mclaughlin-1
+Emilio Nadelman,2016-10-15,7,South Florida,,Connecticut,W,6,6,100.0,0,0,,6,emilio-nadelman-1
+Davis Price,2016-10-15,7,Colorado,,Arizona State,W,3,4,75.0,1,2,50.0,6,davis-price-1
+Gary Wunderlich,2016-10-15,6,Mississippi,@,Arkansas,L,3,4,75.0,1,1,100.0,6,gary-wunderlich-1
+Cole Netten,2016-10-15,7,Iowa State,@,Texas,L,0,0,,2,3,66.7,6,cole-netten-1
+Mike Weaver,2016-10-15,7,Wake Forest,@,Florida State,L,0,0,,2,3,66.7,6,mike-weaver-1
+Michael Badgley,2016-10-15,6,Miami (FL),,North Carolina,L,1,1,100.0,2,3,66.7,7,michael-badgley-1
+Chris Callahan,2016-10-15,6,Baylor,,Kansas,W,7,7,100.0,0,2,0.0,7,chris-callahan-3
+Emmit Carpenter,2016-10-15,6,Minnesota,@,Maryland,W,4,4,100.0,1,2,50.0,7,emmit-carpenter-1
+Amoreto Curraj,2016-10-15,6,Marshall,,Florida Atlantic,W,1,2,50.0,2,2,100.0,7,amoreto-curraj-1
+Keith Duncan,2016-10-15,7,Iowa,@,Purdue,W,7,7,100.0,0,0,,7,keith-duncan-1
+Adam Griffith,2016-10-15,7,Alabama,@,Tennessee,W,7,7,100.0,0,1,0.0,7,adam-griffith-1
+Morgan Hagee,2016-10-15,7,Ball State,@,Buffalo,W,4,4,100.0,1,1,100.0,7,morgan-hagee-1
+Sam Hayward,2016-10-15,6,Virginia,,Pittsburgh,L,4,4,100.0,1,1,100.0,7,sam-hayward-1
+Redford Jones,2016-10-15,6,Tulsa,@,Houston,L,4,4,100.0,1,1,100.0,7,redford-jones-1
+Cole Murphy,2016-10-15,7,Syracuse,,Virginia Tech,W,4,4,100.0,1,3,33.3,7,cole-murphy-1
+Blake Wilson,2016-10-15,6,Army,,Lafayette,W,7,8,87.5,0,0,,7,blake-wilson-1
+Jonathan Barnes,2016-10-15,7,Louisiana Tech,@,Massachusetts,W,8,8,100.0,0,0,,8,jonathan-barnes-1
+Aaron Boumerhi,2016-10-15,7,Temple,@,Central Florida,W,2,2,100.0,2,2,100.0,8,aaron-boumerhi-1
+Ty Cummings,2016-10-15,7,Houston,,Tulsa,W,5,5,100.0,1,1,100.0,8,ty-cummings-1
+Colby Delahoussaye,2016-10-15,6,Louisiana State,,Southern Mississippi,W,5,5,100.0,1,1,100.0,8,colby-delahoussaye-1
+Stephen Muscarello,2016-10-15,7,UNC Charlotte,,Florida International,L,2,3,66.7,2,2,100.0,8,stephen-muscarello-1
+Griffin Oakes,2016-10-15,6,Indiana,,Nebraska,L,2,2,100.0,2,2,100.0,8,griffin-oakes-1
+Rigoberto Sanchez,2016-10-15,7,Hawaii,,Nevada-Las Vegas,L,5,5,100.0,1,1,100.0,8,rigoberto-sanchez-1
+Austin Seibert,2016-10-15,6,Oklahoma,,Kansas State,W,5,5,100.0,1,1,100.0,8,austin-seibert-1
+Nick Weiler,2016-10-15,7,North Carolina,@,Miami (FL),W,2,2,100.0,2,3,66.7,8,nick-weiler-1
+Louie Zervos,2016-10-15,7,Ohio,,Eastern Michigan,L,2,2,100.0,2,2,100.0,8,louie-zervos-1
+Chris Blewitt,2016-10-15,7,Pittsburgh,@,Virginia,W,6,6,100.0,1,2,50.0,9,chris-blewitt-1
+Drew Brown,2016-10-15,6,Nebraska,@,Indiana,W,3,3,100.0,2,2,100.0,9,drew-brown-1
+Trent Domingue,2016-10-15,6,Texas,,Iowa State,W,3,3,100.0,2,2,100.0,9,trent-domingue-1
+Paul Fricano,2016-10-15,7,Eastern Michigan,@,Ohio,W,3,3,100.0,2,3,66.7,9,paul-fricano-1
+Erik Powell,2016-10-15,6,Washington State,,UCLA,W,3,3,100.0,2,2,100.0,9,erik-powell-1
+Bobby Puyol,2016-10-15,7,Connecticut,@,South Florida,L,3,3,100.0,2,2,100.0,9,bobby-puyol-1
+Jason Sanders,2016-10-15,6,New Mexico,N,Air Force,W,6,6,100.0,1,1,100.0,9,jason-sanders-1
+Austin Taylor,2016-10-15,7,Florida International,@,UNC Charlotte,W,3,3,100.0,2,3,66.7,9,austin-taylor-2
+Rodrigo Blankenship,2016-10-15,7,Georgia,,Vanderbilt,L,1,1,100.0,3,3,100.0,10,rodrigo-blankenship-1
+Craig Ford,2016-10-15,6,Louisiana-Monroe,,Texas State,W,4,5,80.0,2,2,100.0,10,craig-ford-1
+Michael Geiger,2016-10-15,6,Michigan State,,Northwestern,L,4,4,100.0,2,2,100.0,10,michael-geiger-1
+Zane Gonzalez,2016-10-15,7,Arizona State,@,Colorado,L,1,1,100.0,3,3,100.0,10,zane-gonzalez-1
+Adam McFain,2016-10-15,7,Arkansas,,Mississippi,W,4,4,100.0,2,2,100.0,10,adam-mcfain-1
+Jack Mitchell,2016-10-15,6,Northwestern,@,Michigan State,W,7,7,100.0,1,1,100.0,10,jack-mitchell-2
+Eddy Pineiro,2016-10-15,6,Florida,,Missouri,W,4,4,100.0,2,3,66.7,10,eddy-pineiro-1
+Luke Strebel,2016-10-15,6,Air Force,N,New Mexico,L,4,4,100.0,2,2,100.0,10,luke-strebel-1
+Andrew Endicott,2016-10-15,6,Wisconsin,,Ohio State,L,2,2,100.0,3,3,100.0,11,andrew-endicott-1
+Ryan Kay,2016-10-15,6,Troy,,Georgia State,W,2,2,100.0,3,3,100.0,11,ryan-kay-1
+Evan Pantels,2016-10-15,7,Nevada-Las Vegas,@,Hawaii,W,5,5,100.0,2,2,100.0,11,evan-pantels-1
+Tyler Durbin,2016-10-15,6,Ohio State,@,Wisconsin,W,3,3,100.0,3,3,100.0,12,tyler-durbin-1
+Mike Molina,2016-10-15,5,West Virginia,@,Texas Tech,W,6,6,100.0,2,3,66.7,12,mike-molina-1
+Austin Rehkow,2016-10-15,7,Idaho,,New Mexico State,W,7,7,100.0,2,2,100.0,13,austin-rehkow-1
+Canon Rooker,2016-10-15,6,Middle Tennessee State,,Western Kentucky,L,4,5,80.0,3,3,100.0,13,canon-rooker-1
+Skyler Simcox,2016-10-15,7,Western Kentucky,@,Middle Tennessee State,W,5,5,100.0,3,4,75.0,14,skyler-simcox-1
+Gavin Patterson,2016-10-20,7,South Alabama,,Troy,L,3,3,100.0,0,0,,3,gavin-patterson-1
+Michael Badgley,2016-10-20,7,Miami (FL),@,Virginia Tech,L,1,2,50.0,1,1,100.0,4,michael-badgley-1
+Tyler Rausa,2016-10-20,7,Boise State,,Brigham Young,W,4,4,100.0,0,2,0.0,4,tyler-rausa-1
+Ryan Kay,2016-10-20,7,Troy,@,South Alabama,W,2,2,100.0,2,3,66.7,8,ryan-kay-1
+Rhett Almond,2016-10-20,8,Brigham Young,@,Boise State,L,3,3,100.0,2,3,66.7,9,rhett-almond-1
+Joey Slye,2016-10-20,7,Virginia Tech,,Miami (FL),W,4,4,100.0,3,4,75.0,13,joey-slye-1
+Bryce Crawford,2016-10-21,8,San Jose State,@,San Diego State,L,0,0,,1,1,100.0,3,bryce-crawford-1
+John Baron,2016-10-21,7,San Diego State,,San Jose State,W,6,6,100.0,0,0,,6,john-baron-1
+Emilio Nadelman,2016-10-21,8,South Florida,@,Temple,L,3,4,75.0,1,1,100.0,6,emilio-nadelman-1
+Aidan Schneider,2016-10-21,7,Oregon,@,California,L,7,7,100.0,0,0,,7,aidan-schneider-1
+Matt Anderson,2016-10-21,7,California,,Oregon,W,5,5,100.0,3,4,75.0,14,matt-anderson-3
+Aaron Boumerhi,2016-10-21,8,Temple,,South Florida,W,5,5,100.0,3,3,100.0,14,aaron-boumerhi-1
+Alex Kinney,2016-10-22,8,Colorado,@,Stanford,W,0,0,,0,1,0.0,0,alex-kinney-1
+Logan Laurent,2016-10-22,8,Massachusetts,@,South Carolina,L,0,0,,0,1,0.0,0,logan-laurent-1
+Kyle Bambard,2016-10-22,7,North Carolina State,@,Louisville,L,1,2,50.0,0,0,,1,kyle-bambard-1
+Adam Mitcheson,2016-10-22,7,Buffalo,@,Northern Illinois,L,1,1,100.0,0,0,,1,adam-mitcheson-1
+Stephen Muscarello,2016-10-22,8,UNC Charlotte,@,Marshall,W,1,1,100.0,0,1,0.0,1,stephen-muscarello-1
+Ryan Tice,2016-10-22,7,Michigan,,Illinois,W,1,1,100.0,0,0,,1,ryan-tice-1
+Ty Cummings,2016-10-22,8,Houston,@,Southern Methodist,L,2,2,100.0,0,2,0.0,2,ty-cummings-1
+J.D. Dillinger,2016-10-22,7,Purdue,@,Nebraska,L,2,2,100.0,0,0,,2,jd-dillinger-1
+Adam Greene,2016-10-22,7,Maryland,,Michigan State,W,2,3,66.7,0,0,,2,adam-greene-1
+Sam Hayward,2016-10-22,7,Virginia,,North Carolina,L,2,2,100.0,0,1,0.0,2,sam-hayward-1
+Daniel LaCamera,2016-10-22,7,Texas A&M,@,Alabama,L,2,2,100.0,0,0,,2,daniel-lacamera-1
+Louie Zervos,2016-10-22,8,Ohio,@,Kent State,W,2,2,100.0,0,0,,2,louie-zervos-1
+Andrew Dirocco,2016-10-22,7,Tulane,@,Tulsa,L,3,3,100.0,0,2,0.0,3,andrew-dirocco-1
+Trent Domingue,2016-10-22,7,Texas,@,Kansas State,L,3,3,100.0,0,1,0.0,3,trent-domingue-1
+Adam McFain,2016-10-22,8,Arkansas,@,Auburn,L,0,0,,1,1,100.0,3,adam-mcfain-1
+Miguel Recinos,2016-10-22,8,Iowa,,Wisconsin,L,0,0,,1,1,100.0,3,miguel-recinos-1
+Marcus Ripley,2016-10-22,7,Texas State,,Louisiana,L,0,0,,1,1,100.0,3,marcus-ripley-1
+Conrad Ukropina,2016-10-22,7,Stanford,,Colorado,L,0,0,,1,1,100.0,3,conrad-ukropina-1
+Mike Caggiano,2016-10-22,8,Massachusetts,@,South Carolina,L,4,4,100.0,0,0,,4,mike-caggiano-1
+Jake Elliott,2016-10-22,7,Memphis,@,Navy,L,4,4,100.0,0,1,0.0,4,jake-elliott-1
+Elliot Fry,2016-10-22,7,South Carolina,,Massachusetts,W,4,4,100.0,0,0,,4,elliot-fry-1
+Chris Graham,2016-10-22,8,Colorado,@,Stanford,W,1,1,100.0,1,3,33.3,4,chris-graham-1
+Brandon Hatfield,2016-10-22,7,Texas Christian,@,West Virginia,L,1,1,100.0,1,1,100.0,4,brandon-hatfield-1
+Shane Hynes,2016-10-22,8,Kent State,,Ohio,L,1,1,100.0,1,1,100.0,4,shane-hynes-1
+Cole Murphy,2016-10-22,8,Syracuse,@,Boston College,W,4,4,100.0,0,1,0.0,4,cole-murphy-1
+Blake Wilson,2016-10-22,7,Army,,North Texas,L,1,1,100.0,1,1,100.0,4,blake-wilson-1
+Brian Eavey,2016-10-22,8,Central Michigan,@,Toledo,L,2,2,100.0,1,1,100.0,5,brian-eavey-1
+Andrew Endicott,2016-10-22,7,Wisconsin,@,Iowa,W,2,2,100.0,1,3,33.3,5,andrew-endicott-1
+Craig Ford,2016-10-22,7,Louisiana-Monroe,@,New Mexico,L,2,2,100.0,1,1,100.0,5,craig-ford-1
+Michael Geiger,2016-10-22,7,Michigan State,@,Maryland,L,2,2,100.0,1,1,100.0,5,michael-geiger-1
+Morgan Hagee,2016-10-22,8,Ball State,,Akron,L,2,2,100.0,1,1,100.0,5,morgan-hagee-1
+Trevor Moore,2016-10-22,7,North Texas,@,Army,W,5,5,100.0,0,2,0.0,5,trevor-moore-1
+Tom O'Leary,2016-10-22,8,Akron,@,Ball State,W,5,5,100.0,0,0,,5,tom-oleary-2
+Tommy Openshaw,2016-10-22,8,Vanderbilt,,Tennessee State,W,5,5,100.0,0,1,0.0,5,tommy-openshaw-1
+Garrett Owens,2016-10-22,7,Oregon State,@,Washington,L,2,2,100.0,1,2,50.0,5,garrett-owens-1
+Evan Pantels,2016-10-22,8,Nevada-Las Vegas,,Colorado State,L,2,2,100.0,1,2,50.0,5,evan-pantels-1
+Nick Weiler,2016-10-22,8,North Carolina,@,Virginia,W,5,5,100.0,0,0,,5,nick-weiler-1
+Wyatt Bryan,2016-10-22,8,Colorado State,@,Nevada-Las Vegas,W,6,6,100.0,0,0,,6,wyatt-bryan-1
+Amoreto Curraj,2016-10-22,7,Marshall,,UNC Charlotte,L,3,3,100.0,1,2,50.0,6,amoreto-curraj-1
+Brad Davis,2016-10-22,7,Old Dominion,@,Western Kentucky,L,3,3,100.0,1,1,100.0,6,brad-davis-3
+Tyler Davis,2016-10-22,7,Penn State,,Ohio State,W,3,3,100.0,1,2,50.0,6,tyler-davis-3
+Zane Gonzalez,2016-10-22,8,Arizona State,,Washington State,L,3,3,100.0,1,1,100.0,6,zane-gonzalez-1
+Matthew McCrane,2016-10-22,7,Kansas State,,Texas,W,3,3,100.0,1,1,100.0,6,matthew-mccrane-1
+Jack Mitchell,2016-10-22,7,Northwestern,,Indiana,W,3,3,100.0,1,1,100.0,6,jack-mitchell-2
+Bennett Moehring,2016-10-22,6,Navy,,Memphis,W,6,6,100.0,0,1,0.0,6,bennett-moehring-1
+Cooper Rothe,2016-10-22,7,Wyoming,@,Nevada,W,6,6,100.0,0,1,0.0,6,cooper-rothe-1
+Austin Taylor,2016-10-22,8,Florida International,,Louisiana Tech,L,3,3,100.0,1,1,100.0,6,austin-taylor-2
+Matthew Wright,2016-10-22,7,Central Florida,@,Connecticut,W,3,3,100.0,1,2,50.0,6,matthew-wright-1
+Keith Duncan,2016-10-22,8,Iowa,,Wisconsin,L,0,0,,2,3,66.7,6,keith-duncan-1
+Griffin Oakes,2016-10-22,7,Indiana,@,Northwestern,L,0,0,,2,3,66.7,6,griffin-oakes-1
+Parker Davidson,2016-10-22,7,New Mexico State,,Georgia Southern,L,1,2,50.0,2,3,66.7,7,parker-davidson-1
+Tyler Durbin,2016-10-22,7,Ohio State,@,Penn State,L,1,2,50.0,2,3,66.7,7,tyler-durbin-1
+Paul Fricano,2016-10-22,8,Eastern Michigan,@,Western Michigan,L,4,4,100.0,1,1,100.0,7,paul-fricano-1
+Josh Pasley,2016-10-22,7,Cincinnati,,East Carolina,W,4,4,100.0,1,2,50.0,7,josh-pasley-1
+Davis Plowman,2016-10-22,7,East Carolina,@,Cincinnati,L,1,1,100.0,2,2,100.0,7,davis-plowman-1
+Erik Powell,2016-10-22,7,Washington State,@,Arizona State,W,4,5,80.0,1,1,100.0,7,erik-powell-1
+Rogier Ten Lohuis,2016-10-22,7,Georgia State,,Tennessee-Martin,W,4,4,100.0,1,1,100.0,7,rogier-ten-lohuis-1
+Jameson Vest,2016-10-22,7,Toledo,,Central Michigan,W,4,4,100.0,1,2,50.0,7,jameson-vest-1
+Gary Wunderlich,2016-10-22,7,Mississippi,@,Louisiana State,L,1,1,100.0,2,2,100.0,7,gary-wunderlich-1
+David Bonagura,2016-10-22,8,Rutgers,@,Minnesota,L,2,3,66.7,2,2,100.0,8,david-bonagura-1
+Blake Brewer,2016-10-22,8,UNC Charlotte,@,Marshall,W,2,2,100.0,2,2,100.0,8,blake-brewer-1
+Daniel Carlson,2016-10-22,7,Auburn,,Arkansas,W,8,8,100.0,0,0,,8,daniel-carlson-1
+Colby Delahoussaye,2016-10-22,7,Louisiana State,,Mississippi,W,5,5,100.0,1,1,100.0,8,colby-delahoussaye-1
+Nick Dowd,2016-10-22,8,Miami (OH),@,Bowling Green State,W,5,5,100.0,1,1,100.0,8,nick-dowd-1
+Westin Graves,2016-10-22,7,Mississippi State,@,Kentucky,L,5,5,100.0,1,1,100.0,8,westin-graves-1
+Christian Hagan,2016-10-22,8,Northern Illinois,,Buffalo,W,5,5,100.0,1,1,100.0,8,christian-hagan-1
+Mike Knoll,2016-10-22,7,Boston College,,Syracuse,L,2,2,100.0,2,2,100.0,8,mike-knoll-2
+Kody Kroening,2016-10-22,8,Fresno State,@,Utah State,L,2,2,100.0,2,2,100.0,8,kody-kroening-1
+Jay Mattox,2016-10-22,7,Texas-El Paso,@,Texas-San Antonio,W,5,5,100.0,1,1,100.0,8,jay-mattox-1
+Jake Suder,2016-10-22,8,Bowling Green State,,Miami (OH),L,2,3,66.7,2,2,100.0,8,jake-suder-1
+Brock Warren,2016-10-22,7,Utah State,,Fresno State,W,5,5,100.0,1,1,100.0,8,brock-warren-1
+Josh Williams,2016-10-22,7,Southern Methodist,,Houston,W,5,5,100.0,1,2,50.0,8,josh-williams-9
+Matthew Wyman,2016-10-22,7,Kansas,,Oklahoma State,L,2,2,100.0,2,3,66.7,8,matthew-wyman-1
+Stevie Artigue,2016-10-22,7,Louisiana,@,Texas State,W,3,3,100.0,2,2,100.0,9,stevie-artigue-1
+Drew Brown,2016-10-22,7,Nebraska,,Purdue,W,3,3,100.0,2,3,66.7,9,drew-brown-1
+Adam Griffith,2016-10-22,8,Alabama,,Texas A&M,W,3,3,100.0,2,3,66.7,9,adam-griffith-1
+Butch Hampton,2016-10-22,8,Western Michigan,,Eastern Michigan,W,6,6,100.0,1,1,100.0,9,butch-hampton-1
+Tucker McCann,2016-10-22,7,Missouri,,Middle Tennessee State,L,6,6,100.0,1,1,100.0,9,tucker-mccann-1
+Andrew Strauch,2016-10-22,8,UCLA,,Utah,L,6,6,100.0,1,1,100.0,9,andrew-strauch-1
+Luke Strebel,2016-10-22,7,Air Force,,Hawaii,L,3,3,100.0,2,3,66.7,9,luke-strebel-1
+Kenneth Allen,2016-10-22,7,Michigan,,Illinois,W,4,4,100.0,2,2,100.0,10,kenneth-allen-1
+Emmit Carpenter,2016-10-22,7,Minnesota,,Rutgers,W,4,4,100.0,2,3,66.7,10,emmit-carpenter-1
+Younghoe Koo,2016-10-22,7,Georgia Southern,@,New Mexico State,W,1,2,50.0,3,3,100.0,10,younghoe-koo-1
+Mike Molina,2016-10-22,6,West Virginia,,Texas Christian,W,4,4,100.0,2,3,66.7,10,mike-molina-1
+Spence Pettit,2016-10-22,8,Nevada,,Wyoming,L,4,4,100.0,2,3,66.7,10,spence-pettit-1
+Bobby Puyol,2016-10-22,8,Connecticut,,Central Florida,L,1,1,100.0,3,4,75.0,10,bobby-puyol-1
+Rigoberto Sanchez,2016-10-22,8,Hawaii,@,Air Force,W,4,4,100.0,2,2,100.0,10,rigoberto-sanchez-1
+Austin Seibert,2016-10-22,7,Oklahoma,@,Texas Tech,W,7,8,87.5,1,1,100.0,10,austin-seibert-1
+Victor Falcon,2016-10-22,7,Texas-San Antonio,,Texas-El Paso,L,5,5,100.0,2,5,40.0,11,victor-falcon-1
+Clayton Hatfield,2016-10-22,7,Texas Tech,,Oklahoma,L,8,8,100.0,1,1,100.0,11,clayton-hatfield-1
+Jason Sanders,2016-10-22,7,New Mexico,,Louisiana-Monroe,W,8,8,100.0,1,1,100.0,11,jason-sanders-1
+Skyler Simcox,2016-10-22,8,Western Kentucky,,Old Dominion,W,8,8,100.0,1,1,100.0,11,skyler-simcox-1
+Hayden Tobola,2016-10-22,7,Rice,,Prairie View A&M,W,8,9,88.9,1,1,100.0,11,hayden-tobola-1
+Cameron Van Winkle,2016-10-22,7,Washington,,Oregon State,W,5,5,100.0,2,2,100.0,11,cameron-van-winkle-1
+Redford Jones,2016-10-22,7,Tulsa,,Tulane,W,6,6,100.0,2,2,100.0,12,redford-jones-1
+Austin Rehkow,2016-10-22,8,Idaho,@,Appalachian State,L,1,1,100.0,4,4,100.0,13,austin-rehkow-1
+Michael Rubino,2016-10-22,7,Appalachian State,,Idaho,W,4,4,100.0,3,3,100.0,13,michael-rubino-1
+Jonathan Barnes,2016-10-22,8,Louisiana Tech,@,Florida International,W,5,5,100.0,3,3,100.0,14,jonathan-barnes-1
+Ben Grogan,2016-10-22,7,Oklahoma State,@,Kansas,W,5,5,100.0,3,3,100.0,14,ben-grogan-1
+Austin Macginnis,2016-10-22,7,Kentucky,,Mississippi State,W,2,2,100.0,4,5,80.0,14,austin-macginnis-1
+Andy Phillips,2016-10-22,8,Utah,@,UCLA,W,5,5,100.0,3,4,75.0,14,andy-phillips-2
+Canon Rooker,2016-10-22,7,Middle Tennessee State,@,Missouri,W,6,6,100.0,3,4,75.0,15,canon-rooker-1
+Blaton Creque,2016-10-22,7,Louisville,,North Carolina State,W,6,6,100.0,4,4,100.0,18,blaton-creque-1
+Chris Blewitt,2016-10-27,8,Pittsburgh,,Virginia Tech,L,4,4,100.0,0,0,,4,chris-blewitt-1
+Younghoe Koo,2016-10-27,8,Georgia Southern,,Appalachian State,L,1,1,100.0,1,1,100.0,4,younghoe-koo-1
+Matt Anderson,2016-10-27,8,California,@,Southern California,L,3,3,100.0,1,1,100.0,6,matt-anderson-3
+Louie Zervos,2016-10-27,9,Ohio,@,Toledo,W,4,4,100.0,1,2,50.0,7,louie-zervos-1
+Tom O'Leary,2016-10-27,9,Akron,@,Buffalo,L,2,2,100.0,2,2,100.0,8,tom-oleary-2
+Jameson Vest,2016-10-27,8,Toledo,,Ohio,L,2,2,100.0,2,2,100.0,8,jameson-vest-1
+Matt Boermeester,2016-10-27,8,Southern California,,California,W,6,6,100.0,1,2,50.0,9,matt-boermeester-1
+Michael Rubino,2016-10-27,8,Appalachian State,@,Georgia Southern,W,4,4,100.0,2,3,66.7,10,michael-rubino-1
+Adam Mitcheson,2016-10-27,8,Buffalo,,Akron,W,5,5,100.0,2,2,100.0,11,adam-mitcheson-1
+Joey Slye,2016-10-27,8,Virginia Tech,@,Pittsburgh,W,3,3,100.0,6,6,100.0,21,joey-slye-1
+Brandon Behr,2016-10-28,9,South Florida,,Navy,W,0,0,,0,1,0.0,0,brandon-behr-1
+Brock Warren,2016-10-28,8,Utah State,,San Diego State,L,1,2,50.0,0,0,,1,brock-warren-1
+Kody Kroening,2016-10-28,9,Fresno State,,Air Force,L,3,3,100.0,0,0,,3,kody-kroening-1
+Bennett Moehring,2016-10-28,7,Navy,@,South Florida,L,3,3,100.0,0,0,,3,bennett-moehring-1
+Luke Strebel,2016-10-28,8,Air Force,@,Fresno State,W,4,4,100.0,1,2,50.0,7,luke-strebel-1
+Emilio Nadelman,2016-10-28,9,South Florida,,Navy,W,7,7,100.0,1,1,100.0,10,emilio-nadelman-1
+John Baron,2016-10-28,8,San Diego State,@,Utah State,W,4,4,100.0,4,4,100.0,16,john-baron-1
+Jay Mattox,2016-10-29,8,Texas-El Paso,,Old Dominion,L,1,2,50.0,0,0,,1,jay-mattox-1
+Josh Pasley,2016-10-29,8,Cincinnati,@,Temple,L,1,2,50.0,0,0,,1,josh-pasley-1
+Ian Patterson,2016-10-29,8,Kansas State,@,Iowa State,W,1,1,100.0,0,0,,1,ian-patterson-1
+Kyle Bambard,2016-10-29,8,North Carolina State,,Boston College,L,2,2,100.0,0,0,,2,kyle-bambard-1
+Amoreto Curraj,2016-10-29,8,Marshall,@,Southern Mississippi,L,2,2,100.0,0,1,0.0,2,amoreto-curraj-1
+Brian Eavey,2016-10-29,9,Central Michigan,,Kent State,L,2,2,100.0,0,2,0.0,2,brian-eavey-1
+Hayden Tobola,2016-10-29,8,Rice,@,Louisiana Tech,L,2,2,100.0,0,1,0.0,2,hayden-tobola-1
+Zane Gonzalez,2016-10-29,9,Arizona State,@,Oregon,L,3,3,100.0,0,0,,3,zane-gonzalez-1
+Tucker McCann,2016-10-29,8,Missouri,,Kentucky,L,3,3,100.0,0,1,0.0,3,tucker-mccann-1
+Aaron Medley,2016-10-29,8,Tennessee,@,South Carolina,L,3,3,100.0,0,1,0.0,3,aaron-medley-1
+Erik Powell,2016-10-29,8,Washington State,@,Oregon State,W,3,4,75.0,0,0,,3,erik-powell-1
+Rigoberto Sanchez,2016-10-29,9,Hawaii,,New Mexico,L,3,3,100.0,0,0,,3,rigoberto-sanchez-1
+Blake Wilson,2016-10-29,8,Army,@,Wake Forest,W,3,3,100.0,0,1,0.0,3,blake-wilson-1
+Paul Fricano,2016-10-29,9,Eastern Michigan,,Miami (OH),L,0,0,,1,1,100.0,3,paul-fricano-1
+Greg Joseph,2016-10-29,8,Florida Atlantic,,Western Kentucky,L,0,0,,1,1,100.0,3,greg-joseph-2
+Bobby Puyol,2016-10-29,9,Connecticut,@,East Carolina,L,0,0,,1,2,50.0,3,bobby-puyol-1
+Matthew Wyman,2016-10-29,8,Kansas,@,Oklahoma,L,0,0,,1,1,100.0,3,matthew-wyman-1
+Ricky Aguayo,2016-10-29,8,Florida State,,Clemson,L,4,4,100.0,0,0,,4,ricky-aguayo-1
+Rodrigo Blankenship,2016-10-29,8,Georgia,N,Florida,L,1,1,100.0,1,1,100.0,4,rodrigo-blankenship-1
+Mike Caggiano,2016-10-29,9,Massachusetts,,Wagner,W,4,4,100.0,0,0,,4,mike-caggiano-1
+Parker Davidson,2016-10-29,8,New Mexico State,@,Texas A&M,L,1,1,100.0,1,1,100.0,4,parker-davidson-1
+Nick Dowd,2016-10-29,9,Miami (OH),@,Eastern Michigan,W,4,4,100.0,0,0,,4,nick-dowd-1
+Craig Ford,2016-10-29,8,Louisiana-Monroe,@,Arkansas State,L,1,1,100.0,1,1,100.0,4,craig-ford-1
+Josh Pollack,2016-10-29,8,Arizona,,Stanford,L,1,1,100.0,1,1,100.0,4,josh-pollack-1
+Tyler Rausa,2016-10-29,8,Boise State,@,Wyoming,L,4,4,100.0,0,0,,4,tyler-rausa-1
+Jason Sanders,2016-10-29,8,New Mexico,@,Hawaii,W,4,4,100.0,0,0,,4,jason-sanders-1
+Rogier Ten Lohuis,2016-10-29,8,Georgia State,@,South Alabama,L,1,1,100.0,1,2,50.0,4,rogier-ten-lohuis-1
+Drew Brown,2016-10-29,8,Nebraska,@,Wisconsin,L,2,2,100.0,1,1,100.0,5,drew-brown-1
+Andrew Endicott,2016-10-29,8,Wisconsin,,Nebraska,W,2,3,66.7,1,2,50.0,5,andrew-endicott-1
+Michael Geiger,2016-10-29,8,Michigan State,,Michigan,L,2,2,100.0,1,2,50.0,5,michael-geiger-1
+Sam Hayward,2016-10-29,8,Virginia,,Louisville,L,2,2,100.0,1,2,50.0,5,sam-hayward-1
+Austin Macginnis,2016-10-29,8,Kentucky,@,Missouri,W,5,5,100.0,0,1,0.0,5,austin-macginnis-1
+Chase McLaughlin,2016-10-29,8,Illinois,,Minnesota,L,2,2,100.0,1,1,100.0,5,chase-mclaughlin-1
+Trevor Moore,2016-10-29,8,North Texas,@,Texas-San Antonio,L,2,2,100.0,1,1,100.0,5,trevor-moore-1
+AJ Reed,2016-10-29,8,Duke,@,Georgia Tech,L,5,5,100.0,0,0,,5,aj-reed-1
+Austin Taylor,2016-10-29,9,Florida International,,Middle Tennessee State,L,5,5,100.0,0,0,,5,austin-taylor-2
+Josh Williams,2016-10-29,8,Southern Methodist,@,Tulane,W,5,5,100.0,0,1,0.0,5,josh-williams-9
+Blaton Creque,2016-10-29,8,Louisville,@,Virginia,W,3,3,100.0,1,1,100.0,6,blaton-creque-1
+J.D. Dillinger,2016-10-29,8,Purdue,,Penn State,L,3,3,100.0,1,2,50.0,6,jd-dillinger-1
+Tyler Durbin,2016-10-29,8,Ohio State,,Northwestern,W,3,3,100.0,1,1,100.0,6,tyler-durbin-1
+Jake Elliott,2016-10-29,8,Memphis,,Tulsa,L,3,3,100.0,1,1,100.0,6,jake-elliott-1
+Elliot Fry,2016-10-29,8,South Carolina,,Tennessee,W,3,3,100.0,1,1,100.0,6,elliot-fry-1
+Adam Greene,2016-10-29,8,Maryland,@,Indiana,L,3,3,100.0,1,1,100.0,6,adam-greene-1
+Brandon Hatfield,2016-10-29,8,Texas Christian,,Texas Tech,L,3,3,100.0,1,4,25.0,6,brandon-hatfield-1
+Matthew McCrane,2016-10-29,8,Kansas State,@,Iowa State,W,3,3,100.0,1,1,100.0,6,matthew-mccrane-1
+Cole Netten,2016-10-29,8,Iowa State,,Kansas State,L,3,3,100.0,1,1,100.0,6,cole-netten-1
+Griffin Oakes,2016-10-29,8,Indiana,,Maryland,W,3,3,100.0,1,2,50.0,6,griffin-oakes-1
+Evan Pantels,2016-10-29,9,Nevada-Las Vegas,@,San Jose State,L,3,3,100.0,1,1,100.0,6,evan-pantels-1
+Andy Phillips,2016-10-29,9,Utah,,Washington,L,3,3,100.0,1,1,100.0,6,andy-phillips-2
+Eddy Pineiro,2016-10-29,7,Florida,N,Georgia,W,3,3,100.0,1,2,50.0,6,eddy-pineiro-1
+Canon Rooker,2016-10-29,8,Middle Tennessee State,@,Florida International,W,6,6,100.0,0,0,,6,canon-rooker-1
+Parker Shaunfield,2016-10-29,8,Southern Mississippi,,Marshall,W,3,3,100.0,1,2,50.0,6,parker-shaunfield-1
+Matthew Wright,2016-10-29,8,Central Florida,@,Houston,L,3,3,100.0,1,1,100.0,6,matthew-wright-1
+Logan Laurent,2016-10-29,9,Massachusetts,,Wagner,W,0,0,,2,2,100.0,6,logan-laurent-1
+Ty Cummings,2016-10-29,9,Houston,,Central Florida,W,4,4,100.0,1,1,100.0,7,ty-cummings-1
+Brad Davis,2016-10-29,8,Old Dominion,@,Texas-El Paso,W,4,4,100.0,1,1,100.0,7,brad-davis-3
+Andrew Dirocco,2016-10-29,8,Tulane,,Southern Methodist,L,4,4,100.0,1,1,100.0,7,andrew-dirocco-1
+Victor Falcon,2016-10-29,8,Texas-San Antonio,,North Texas,W,4,4,100.0,1,1,100.0,7,victor-falcon-1
+Mike Knoll,2016-10-29,8,Boston College,@,North Carolina State,W,1,1,100.0,2,3,66.7,7,mike-knoll-2
+Garrett Owens,2016-10-29,8,Oregon State,,Washington State,L,4,4,100.0,1,2,50.0,7,garrett-owens-1
+Gavin Patterson,2016-10-29,8,South Alabama,,Georgia State,W,1,1,100.0,2,3,66.7,7,gavin-patterson-1
+Cameron Van Winkle,2016-10-29,8,Washington,@,Utah,W,4,4,100.0,1,1,100.0,7,cameron-van-winkle-1
+Mike Weaver,2016-10-29,8,Wake Forest,,Army,L,1,1,100.0,2,3,66.7,7,mike-weaver-1
+Harrison Butker,2016-10-29,8,Georgia Tech,,Duke,W,5,5,100.0,1,1,100.0,8,harrison-butker-1
+Emmit Carpenter,2016-10-29,8,Minnesota,@,Illinois,W,5,5,100.0,1,1,100.0,8,emmit-carpenter-1
+Westin Graves,2016-10-29,8,Mississippi State,,Samford,W,8,8,100.0,0,1,0.0,8,westin-graves-1
+Jack Mitchell,2016-10-29,8,Northwestern,@,Ohio State,L,2,2,100.0,2,2,100.0,8,jack-mitchell-2
+Mike Molina,2016-10-29,7,West Virginia,@,Oklahoma State,L,2,2,100.0,2,3,66.7,8,mike-molina-1
+Cooper Rothe,2016-10-29,8,Wyoming,,Boise State,W,2,2,100.0,2,2,100.0,8,cooper-rothe-1
+Austin Seibert,2016-10-29,8,Oklahoma,,Kansas,W,8,8,100.0,0,0,,8,austin-seibert-1
+Michael Badgley,2016-10-29,8,Miami (FL),@,Notre Dame,L,3,3,100.0,2,2,100.0,9,michael-badgley-1
+Trent Domingue,2016-10-29,8,Texas,,Baylor,W,3,3,100.0,2,2,100.0,9,trent-domingue-1
+Clayton Hatfield,2016-10-29,8,Texas Tech,@,Texas Christian,W,3,3,100.0,2,2,100.0,9,clayton-hatfield-1
+JD Houston,2016-10-29,7,Arkansas State,,Louisiana-Monroe,W,6,7,85.7,1,1,100.0,9,jd-houston-1
+Shane Hynes,2016-10-29,9,Kent State,@,Central Michigan,W,3,3,100.0,2,3,66.7,9,shane-hynes-1
+Aaron Boumerhi,2016-10-29,9,Temple,,Cincinnati,W,4,4,100.0,2,2,100.0,10,aaron-boumerhi-1
+Chris Callahan,2016-10-29,7,Baylor,@,Texas,L,4,4,100.0,2,2,100.0,10,chris-callahan-3
+Daniel LaCamera,2016-10-29,8,Texas A&M,,New Mexico State,W,7,7,100.0,1,2,50.0,10,daniel-lacamera-1
+Skyler Simcox,2016-10-29,9,Western Kentucky,@,Florida Atlantic,W,7,7,100.0,1,2,50.0,10,skyler-simcox-1
+Conrad Ukropina,2016-10-29,8,Stanford,@,Arizona,W,4,4,100.0,2,2,100.0,10,conrad-ukropina-1
+Greg Huegel,2016-10-29,8,Clemson,@,Florida State,W,2,2,100.0,3,3,100.0,11,greg-huegel-1
+Redford Jones,2016-10-29,8,Tulsa,@,Memphis,W,8,8,100.0,1,1,100.0,11,redford-jones-1
+Davis Plowman,2016-10-29,8,East Carolina,,Connecticut,W,5,5,100.0,2,2,100.0,11,davis-plowman-1
+Gary Wunderlich,2016-10-29,8,Mississippi,,Auburn,L,2,3,66.7,3,3,100.0,11,gary-wunderlich-1
+Kenneth Allen,2016-10-29,8,Michigan,@,Michigan State,W,3,3,100.0,3,3,100.0,12,kenneth-allen-1
+Bryce Crawford,2016-10-29,9,San Jose State,,Nevada-Las Vegas,W,3,3,100.0,3,3,100.0,12,bryce-crawford-1
+Justin Yoon,2016-10-29,8,Notre Dame,,Miami (FL),W,3,3,100.0,3,3,100.0,12,justin-yoon-1
+Jonathan Barnes,2016-10-29,9,Louisiana Tech,,Rice,W,7,8,87.5,2,2,100.0,13,jonathan-barnes-1
+Ben Grogan,2016-10-29,8,Oklahoma State,,West Virginia,W,4,4,100.0,3,4,75.0,13,ben-grogan-1
+Tyler Davis,2016-10-29,8,Penn State,@,Purdue,W,8,8,100.0,2,2,100.0,14,tyler-davis-3
+Daniel Carlson,2016-10-29,8,Auburn,@,Mississippi,W,4,4,100.0,4,4,100.0,16,daniel-carlson-1
+Aidan Schneider,2016-10-29,8,Oregon,,Arizona State,W,6,6,100.0,4,5,80.0,18,aidan-schneider-1
+Jake Suder,2016-11-01,9,Bowling Green State,@,Northern Illinois,L,2,3,66.7,0,1,0.0,2,jake-suder-1
+Morgan Hagee,2016-11-01,9,Ball State,,Western Michigan,L,2,2,100.0,2,3,66.7,8,morgan-hagee-1
+Christian Hagan,2016-11-01,9,Northern Illinois,,Bowling Green State,W,6,6,100.0,1,1,100.0,9,christian-hagan-1
+Butch Hampton,2016-11-01,9,Western Michigan,@,Ball State,W,7,7,100.0,1,1,100.0,10,butch-hampton-1
+Tom O'Leary,2016-11-02,10,Akron,,Toledo,L,2,2,100.0,1,1,100.0,5,tom-oleary-2
+Jameson Vest,2016-11-02,9,Toledo,@,Akron,W,6,6,100.0,2,2,100.0,12,jameson-vest-1
+Andrew Strauch,2016-11-03,9,UCLA,@,Colorado,L,1,1,100.0,0,1,0.0,1,andrew-strauch-1
+JJ Molson,2016-11-03,9,UCLA,@,Colorado,L,0,0,,1,3,33.3,3,jj-molson-1
+Adam Mitcheson,2016-11-03,9,Buffalo,@,Ohio,L,1,1,100.0,1,3,33.3,4,adam-mitcheson-1
+Rogier Ten Lohuis,2016-11-03,9,Georgia State,,Arkansas State,L,1,2,50.0,1,2,50.0,4,rogier-ten-lohuis-1
+Cole Netten,2016-11-03,9,Iowa State,,Oklahoma,L,3,3,100.0,1,1,100.0,6,cole-netten-1
+JD Houston,2016-11-03,8,Arkansas State,@,Georgia State,W,4,4,100.0,1,3,33.3,7,jd-houston-1
+Chris Graham,2016-11-03,9,Colorado,,UCLA,W,2,2,100.0,2,3,66.7,8,chris-graham-1
+Austin Seibert,2016-11-03,9,Oklahoma,@,Iowa State,W,4,4,100.0,2,3,66.7,10,austin-seibert-1
+Louie Zervos,2016-11-03,10,Ohio,,Buffalo,W,4,4,100.0,2,2,100.0,10,louie-zervos-1
+Bobby Puyol,2016-11-04,10,Connecticut,,Temple,L,0,0,,0,1,0.0,0,bobby-puyol-1
+Aaron Boumerhi,2016-11-04,10,Temple,@,Connecticut,W,3,3,100.0,0,0,,3,aaron-boumerhi-1
+Brian Eavey,2016-11-04,10,Central Michigan,@,Miami (OH),L,2,2,100.0,1,1,100.0,5,brian-eavey-1
+Nick Dowd,2016-11-04,10,Miami (OH),,Central Michigan,W,4,5,80.0,1,1,100.0,7,nick-dowd-1
+Tyler Rausa,2016-11-04,9,Boise State,,San Jose State,W,6,6,100.0,1,1,100.0,9,tyler-rausa-1
+Bryce Crawford,2016-11-04,10,San Jose State,@,Boise State,L,2,2,100.0,3,3,100.0,11,bryce-crawford-1
+Andrew Dirocco,2016-11-05,9,Tulane,@,Central Florida,L,0,1,0.0,0,1,0.0,0,andrew-dirocco-1
+Blake Wilson,2016-11-05,9,Army,,Air Force,L,0,1,0.0,0,0,,0,blake-wilson-1
+Colby Delahoussaye,2016-11-05,8,Louisiana State,,Alabama,L,0,0,,0,1,0.0,0,colby-delahoussaye-1
+Dominik Eberle,2016-11-05,9,Utah State,@,Wyoming,L,0,0,,0,1,0.0,0,dominik-eberle-1
+Tucker McCann,2016-11-05,9,Missouri,@,South Carolina,L,0,0,,0,1,0.0,0,tucker-mccann-1
+Cole Murphy,2016-11-05,9,Syracuse,@,Clemson,L,0,0,,0,1,0.0,0,cole-murphy-1
+Kyle Bambard,2016-11-05,9,North Carolina State,,Florida State,L,1,1,100.0,0,1,0.0,1,kyle-bambard-1
+Holden Foster,2016-11-05,9,Tennessee,,Tennessee Tech,W,1,1,100.0,0,0,,1,holden-foster-1
+Christian Groomes,2016-11-05,9,Clemson,,Syracuse,W,1,1,100.0,0,0,,1,christian-groomes-1
+Mike Knoll,2016-11-05,9,Boston College,,Louisville,L,1,1,100.0,0,0,,1,mike-knoll-2
+Jack Mitchell,2016-11-05,9,Northwestern,,Wisconsin,L,1,1,100.0,0,0,,1,jack-mitchell-2
+Garrett Owens,2016-11-05,9,Oregon State,@,Stanford,L,1,1,100.0,0,1,0.0,1,garrett-owens-1
+Josh Pollack,2016-11-05,9,Arizona,@,Washington State,L,1,1,100.0,0,0,,1,josh-pollack-1
+Josh Williams,2016-11-05,9,Southern Methodist,,Memphis,L,1,1,100.0,0,0,,1,josh-williams-9
+Chris Callahan,2016-11-05,8,Baylor,,Texas Christian,L,2,2,100.0,0,0,,2,chris-callahan-3
+Amoreto Curraj,2016-11-05,9,Marshall,@,Old Dominion,L,2,2,100.0,0,0,,2,amoreto-curraj-1
+Keith Duncan,2016-11-05,9,Iowa,@,Penn State,L,2,2,100.0,0,0,,2,keith-duncan-1
+Sam Hayward,2016-11-05,9,Virginia,@,Wake Forest,L,2,2,100.0,0,0,,2,sam-hayward-1
+Spence Pettit,2016-11-05,9,Nevada,@,New Mexico,L,2,3,66.7,0,1,0.0,2,spence-pettit-1
+Aidan Schneider,2016-11-05,9,Oregon,@,Southern California,L,2,3,66.7,0,0,,2,aidan-schneider-1
+Turner Adams,2016-11-05,9,Missouri,@,South Carolina,L,3,3,100.0,0,1,0.0,3,turner-adams-1
+Braxton Davis,2016-11-05,9,Colorado State,,Fresno State,W,3,3,100.0,0,0,,3,braxton-davis-1
+Griffin Oakes,2016-11-05,9,Indiana,@,Rutgers,W,3,4,75.0,0,3,0.0,3,griffin-oakes-1
+AJ Reed,2016-11-05,9,Duke,,Virginia Tech,L,3,3,100.0,0,1,0.0,3,aj-reed-1
+Parker Shaunfield,2016-11-05,9,Southern Mississippi,,UNC Charlotte,L,3,3,100.0,0,0,,3,parker-shaunfield-1
+Austin Taylor,2016-11-05,10,Florida International,@,Western Kentucky,L,3,3,100.0,0,0,,3,austin-taylor-2
+Matthew Wyman,2016-11-05,9,Kansas,@,West Virginia,L,3,3,100.0,0,0,,3,matthew-wyman-1
+Drew Brown,2016-11-05,9,Nebraska,@,Ohio State,L,0,0,,1,1,100.0,3,drew-brown-1
+Adam Greene,2016-11-05,9,Maryland,@,Michigan,L,0,0,,1,2,50.0,3,adam-greene-1
+Logan Laurent,2016-11-05,10,Massachusetts,@,Troy,L,0,0,,1,1,100.0,3,logan-laurent-1
+Josh Pasley,2016-11-05,9,Cincinnati,,Brigham Young,L,0,0,,1,2,50.0,3,josh-pasley-1
+Chris Blewitt,2016-11-05,9,Pittsburgh,@,Miami (FL),L,4,4,100.0,0,1,0.0,4,chris-blewitt-1
+Wyatt Bryan,2016-11-05,9,Colorado State,,Fresno State,W,1,2,50.0,1,1,100.0,4,wyatt-bryan-1
+Mike Caggiano,2016-11-05,10,Massachusetts,@,Troy,L,4,4,100.0,0,0,,4,mike-caggiano-1
+Adam Griffith,2016-11-05,9,Alabama,@,Louisiana State,W,1,1,100.0,1,2,50.0,4,adam-griffith-1
+Daniel LaCamera,2016-11-05,9,Texas A&M,@,Mississippi State,L,4,4,100.0,0,1,0.0,4,daniel-lacamera-1
+Bennett Moehring,2016-11-05,8,Navy,N,Notre Dame,W,4,4,100.0,0,0,,4,bennett-moehring-1
+Eddy Pineiro,2016-11-05,8,Florida,@,Arkansas,L,1,1,100.0,1,1,100.0,4,eddy-pineiro-1
+Marcus Ripley,2016-11-05,8,Texas State,@,Appalachian State,L,1,1,100.0,1,1,100.0,4,marcus-ripley-1
+Brock Warren,2016-11-05,9,Utah State,@,Wyoming,L,4,4,100.0,0,0,,4,brock-warren-1
+Westin Graves,2016-11-05,9,Mississippi State,,Texas A&M,W,5,5,100.0,0,1,0.0,5,westin-graves-1
+Ben Grogan,2016-11-05,9,Oklahoma State,@,Kansas State,W,5,5,100.0,0,0,,5,ben-grogan-1
+Gavin Patterson,2016-11-05,9,South Alabama,@,Louisiana-Monroe,L,5,5,100.0,0,1,0.0,5,gavin-patterson-1
+Canon Rooker,2016-11-05,9,Middle Tennessee State,,Texas-San Antonio,L,2,2,100.0,1,1,100.0,5,canon-rooker-1
+Michael Rubino,2016-11-05,9,Appalachian State,,Texas State,W,5,5,100.0,0,0,,5,michael-rubino-1
+Jason Sanders,2016-11-05,9,New Mexico,,Nevada,W,5,5,100.0,0,0,,5,jason-sanders-1
+Hayden Tobola,2016-11-05,9,Rice,,Florida Atlantic,L,2,2,100.0,1,1,100.0,5,hayden-tobola-1
+Ricky Aguayo,2016-11-05,9,Florida State,@,North Carolina State,W,3,3,100.0,1,1,100.0,6,ricky-aguayo-1
+Craig Ford,2016-11-05,9,Louisiana-Monroe,,South Alabama,W,6,6,100.0,0,1,0.0,6,craig-ford-1
+Greg Joseph,2016-11-05,9,Florida Atlantic,@,Rice,W,6,6,100.0,0,3,0.0,6,greg-joseph-2
+Austin Macginnis,2016-11-05,9,Kentucky,,Georgia,L,3,3,100.0,1,1,100.0,6,austin-macginnis-1
+Jay Mattox,2016-11-05,9,Texas-El Paso,,,W,6,6,100.0,0,1,0.0,6,jay-mattox-1
+Trevor Moore,2016-11-05,9,North Texas,,Louisiana Tech,L,3,3,100.0,1,1,100.0,6,trevor-moore-1
+Davis Plowman,2016-11-05,9,East Carolina,@,Tulsa,L,3,3,100.0,1,1,100.0,6,davis-plowman-1
+Joey Slye,2016-11-05,9,Virginia Tech,@,Duke,W,3,3,100.0,1,2,50.0,6,joey-slye-1
+Stevie Artigue,2016-11-05,8,Louisiana,,Idaho,L,1,1,100.0,2,2,100.0,7,stevie-artigue-1
+J.D. Dillinger,2016-11-05,9,Purdue,@,Minnesota,L,4,4,100.0,1,1,100.0,7,jd-dillinger-1
+Andrew Endicott,2016-11-05,9,Wisconsin,@,Northwestern,W,1,1,100.0,2,4,50.0,7,andrew-endicott-1
+Elliot Fry,2016-11-05,9,South Carolina,,Missouri,W,4,4,100.0,1,2,50.0,7,elliot-fry-1
+Connor Haskins,2016-11-05,9,North Carolina State,,Florida State,L,1,1,100.0,2,2,100.0,7,connor-haskins-1
+Clayton Hatfield,2016-11-05,9,Texas Tech,,Texas,L,4,5,80.0,1,1,100.0,7,clayton-hatfield-1
+Adam McFain,2016-11-05,9,Arkansas,,Florida,W,4,4,100.0,1,1,100.0,7,adam-mcfain-1
+Chase McLaughlin,2016-11-05,9,Illinois,,Michigan State,W,4,4,100.0,1,1,100.0,7,chase-mclaughlin-1
+Ian Patterson,2016-11-05,9,Kansas State,,Oklahoma State,L,4,5,80.0,1,1,100.0,7,ian-patterson-1
+Skyler Simcox,2016-11-05,10,Western Kentucky,,Florida International,W,7,7,100.0,0,0,,7,skyler-simcox-1
+Luke Strebel,2016-11-05,9,Air Force,@,Army,W,4,4,100.0,1,2,50.0,7,luke-strebel-1
+Matthew Wright,2016-11-05,9,Central Florida,,Tulane,W,4,5,80.0,1,1,100.0,7,matthew-wright-1
+Rhett Almond,2016-11-05,9,Brigham Young,@,Cincinnati,W,2,2,100.0,2,2,100.0,8,rhett-almond-1
+Blake Brewer,2016-11-05,9,UNC Charlotte,@,Southern Mississippi,W,5,5,100.0,1,1,100.0,8,blake-brewer-1
+Harrison Butker,2016-11-05,9,Georgia Tech,@,North Carolina,L,2,2,100.0,2,3,66.7,8,harrison-butker-1
+Brad Davis,2016-11-05,9,Old Dominion,,Marshall,W,5,5,100.0,1,1,100.0,8,brad-davis-3
+Matt Anderson,2016-11-05,9,California,,Washington,L,3,3,100.0,2,2,100.0,9,matt-anderson-3
+Jonathan Barnes,2016-11-05,10,Louisiana Tech,@,North Texas,W,6,6,100.0,1,2,50.0,9,jonathan-barnes-1
+Matt Boermeester,2016-11-05,9,Southern California,,Oregon,W,6,6,100.0,1,1,100.0,9,matt-boermeester-1
+David Bonagura,2016-11-05,9,Rutgers,,Indiana,L,3,3,100.0,2,3,66.7,9,david-bonagura-1
+Trent Domingue,2016-11-05,9,Texas,@,Texas Tech,W,6,6,100.0,1,1,100.0,9,trent-domingue-1
+Victor Falcon,2016-11-05,9,Texas-San Antonio,@,Middle Tennessee State,W,6,6,100.0,1,1,100.0,9,victor-falcon-1
+Redford Jones,2016-11-05,9,Tulsa,,East Carolina,W,6,6,100.0,1,1,100.0,9,redford-jones-1
+Younghoe Koo,2016-11-05,9,Georgia Southern,@,Mississippi,L,3,3,100.0,2,3,66.7,9,younghoe-koo-1
+Mike Weaver,2016-11-05,9,Wake Forest,,Virginia,W,3,3,100.0,2,3,66.7,9,mike-weaver-1
+Justin Yoon,2016-11-05,9,Notre Dame,N,Navy,L,3,3,100.0,2,2,100.0,9,justin-yoon-1
+Blaton Creque,2016-11-05,9,Louisville,@,Boston College,W,7,7,100.0,1,2,50.0,10,blaton-creque-1
+Ryan Kay,2016-11-05,8,Troy,,Massachusetts,W,7,7,100.0,1,1,100.0,10,ryan-kay-1
+Tommy Openshaw,2016-11-05,9,Vanderbilt,@,Auburn,L,1,1,100.0,3,3,100.0,10,tommy-openshaw-1
+Cooper Rothe,2016-11-05,9,Wyoming,,Utah State,W,7,7,100.0,1,1,100.0,10,cooper-rothe-1
+Kenneth Allen,2016-11-05,9,Michigan,,Maryland,W,8,8,100.0,1,1,100.0,11,kenneth-allen-1
+Daniel Carlson,2016-11-05,9,Auburn,,Vanderbilt,W,2,2,100.0,3,4,75.0,11,daniel-carlson-1
+Tyler Davis,2016-11-05,9,Penn State,,Iowa,W,5,5,100.0,2,3,66.7,11,tyler-davis-3
+Greg Huegel,2016-11-05,9,Clemson,,Syracuse,W,5,6,83.3,2,3,66.7,11,greg-huegel-1
+Austin Rehkow,2016-11-05,9,Idaho,@,Louisiana,W,2,2,100.0,3,3,100.0,11,austin-rehkow-1
+Aaron Medley,2016-11-05,9,Tennessee,,Tennessee Tech,W,6,6,100.0,2,2,100.0,12,aaron-medley-1
+Mike Molina,2016-11-05,8,West Virginia,,Kansas,W,6,6,100.0,2,3,66.7,12,mike-molina-1
+Cameron Van Winkle,2016-11-05,9,Washington,@,California,W,9,9,100.0,1,1,100.0,12,cameron-van-winkle-1
+Nick Weiler,2016-11-05,9,North Carolina,,Georgia Tech,W,6,6,100.0,2,2,100.0,12,nick-weiler-1
+John Baron,2016-11-05,9,San Diego State,,Hawaii,W,7,7,100.0,2,3,66.7,13,john-baron-1
+Rodrigo Blankenship,2016-11-05,9,Georgia,@,Kentucky,W,1,1,100.0,4,4,100.0,13,rodrigo-blankenship-1
+Michael Geiger,2016-11-05,9,Michigan State,@,Illinois,L,1,1,100.0,4,4,100.0,13,michael-geiger-1
+Gary Wunderlich,2016-11-05,9,Mississippi,,Georgia Southern,W,4,4,100.0,3,3,100.0,13,gary-wunderlich-1
+Emmit Carpenter,2016-11-05,9,Minnesota,,Purdue,W,5,5,100.0,3,3,100.0,14,emmit-carpenter-1
+Tyler Durbin,2016-11-05,9,Ohio State,,Nebraska,W,8,8,100.0,2,2,100.0,14,tyler-durbin-1
+Brandon Hatfield,2016-11-05,9,Texas Christian,@,Baylor,W,8,8,100.0,2,2,100.0,14,brandon-hatfield-1
+Conrad Ukropina,2016-11-05,9,Stanford,,Oregon State,W,2,2,100.0,4,5,80.0,14,conrad-ukropina-1
+Michael Badgley,2016-11-05,9,Miami (FL),,Pittsburgh,W,6,6,100.0,3,3,100.0,15,michael-badgley-1
+Jake Elliott,2016-11-05,9,Memphis,@,Southern Methodist,W,6,6,100.0,3,3,100.0,15,jake-elliott-1
+Erik Powell,2016-11-05,9,Washington State,,Arizona,W,9,9,100.0,2,2,100.0,15,erik-powell-1
+Shane Hynes,2016-11-08,10,Kent State,,Western Michigan,L,3,3,100.0,0,0,,3,shane-hynes-1
+Morgan Hagee,2016-11-08,10,Ball State,,Eastern Michigan,L,5,5,100.0,0,0,,5,morgan-hagee-1
+Butch Hampton,2016-11-08,10,Western Michigan,@,Kent State,W,3,3,100.0,2,2,100.0,9,butch-hampton-1
+Paul Fricano,2016-11-08,10,Eastern Michigan,@,Ball State,W,4,5,80.0,2,2,100.0,10,paul-fricano-1
+Christian Hagan,2016-11-09,10,Northern Illinois,N,Toledo,L,3,3,100.0,1,1,100.0,6,christian-hagan-1
+Jameson Vest,2016-11-09,10,Toledo,N,Northern Illinois,W,4,4,100.0,1,1,100.0,7,jameson-vest-1
+Tom O'Leary,2016-11-09,11,Akron,,Bowling Green State,L,2,2,100.0,2,2,100.0,8,tom-oleary-2
+Jake Suder,2016-11-09,10,Bowling Green State,@,Akron,W,5,5,100.0,1,1,100.0,8,jake-suder-1
+AJ Reed,2016-11-10,10,Duke,,North Carolina,W,4,4,100.0,0,0,,4,aj-reed-1
+Stevie Artigue,2016-11-10,9,Louisiana,@,Georgia Southern,W,4,4,100.0,1,1,100.0,7,stevie-artigue-1
+Andy Phillips,2016-11-10,10,Utah,@,Arizona State,W,7,7,100.0,0,0,,7,andy-phillips-2
+Zane Gonzalez,2016-11-10,10,Arizona State,,Utah,L,2,2,100.0,2,2,100.0,8,zane-gonzalez-1
+Younghoe Koo,2016-11-10,10,Georgia Southern,,Louisiana,L,2,2,100.0,2,2,100.0,8,younghoe-koo-1
+Nick Weiler,2016-11-10,10,North Carolina,@,Duke,L,3,3,100.0,2,2,100.0,9,nick-weiler-1
+Mike Knoll,2016-11-11,10,Boston College,@,Florida State,L,1,1,100.0,0,0,,1,mike-knoll-2
+Logan Tyler,2016-11-11,10,Florida State,,Boston College,W,0,0,,1,1,100.0,3,logan-tyler-1
+Ricky Aguayo,2016-11-11,10,Florida State,,Boston College,W,6,6,100.0,0,0,,6,ricky-aguayo-1
+Mitchell Howard,2016-11-12,10,Army,N,Notre Dame,L,0,1,0.0,0,0,,0,mitchell-howard-1
+Braxton Davis,2016-11-12,10,Colorado State,@,Air Force,L,0,0,,0,1,0.0,0,braxton-davis-1
+Andrew Mikkelsen,2016-11-12,10,Brigham Young,,Southern Utah,W,0,0,,0,1,0.0,0,andrew-mikkelsen-1
+Miguel Recinos,2016-11-12,10,Iowa,,Michigan,W,0,0,,0,1,0.0,0,miguel-recinos-1
+Blake Wilson,2016-11-12,10,Army,N,Notre Dame,L,0,0,,0,1,0.0,0,blake-wilson-1
+Daniel Carlson,2016-11-12,10,Auburn,@,Georgia,L,1,1,100.0,0,0,,1,daniel-carlson-1
+Elliot Fry,2016-11-12,10,South Carolina,@,Florida,L,1,1,100.0,0,0,,1,elliot-fry-1
+Tucker McCann,2016-11-12,10,Missouri,,Vanderbilt,W,1,3,33.3,0,2,0.0,1,tucker-mccann-1
+Trevor Moore,2016-11-12,10,North Texas,@,Western Kentucky,L,1,1,100.0,0,1,0.0,1,trevor-moore-1
+Andy Pappanastos,2016-11-12,10,Alabama,,Mississippi State,W,1,1,100.0,0,0,,1,andy-pappanastos-1
+Trent Taylor,2016-11-12,11,Louisiana Tech,,Texas-San Antonio,W,1,1,100.0,0,0,,1,trent-taylor-2
+Benjamin Tesson,2016-11-12,10,Missouri,,Vanderbilt,W,1,1,100.0,0,0,,1,benjamin-tesson-1
+Sam Hayward,2016-11-12,10,Virginia,,Miami (FL),L,2,2,100.0,0,0,,2,sam-hayward-1
+Spence Pettit,2016-11-12,10,Nevada,,San Diego State,L,2,2,100.0,0,0,,2,spence-pettit-1
+Marcus Ripley,2016-11-12,9,Texas State,,Idaho,L,2,2,100.0,0,0,,2,marcus-ripley-1
+Joey Slye,2016-11-12,10,Virginia Tech,,Georgia Tech,L,2,2,100.0,0,1,0.0,2,joey-slye-1
+Matt Anderson,2016-11-12,10,California,@,Washington State,L,3,3,100.0,0,1,0.0,3,matt-anderson-3
+Blake Brewer,2016-11-12,10,UNC Charlotte,,Rice,L,3,3,100.0,0,0,,3,blake-brewer-1
+Garrett Owens,2016-11-12,10,Oregon State,@,UCLA,L,3,3,100.0,0,0,,3,garrett-owens-1
+Aidan Schneider,2016-11-12,10,Oregon,,Stanford,L,3,3,100.0,0,1,0.0,3,aidan-schneider-1
+Brock Warren,2016-11-12,10,Utah State,,New Mexico,L,3,3,100.0,0,0,,3,brock-warren-1
+Jordan Choukair,2016-11-12,10,Oregon State,@,UCLA,L,0,0,,1,1,100.0,3,jordan-choukair-1
+Westin Graves,2016-11-12,10,Mississippi State,@,Alabama,L,0,0,,1,2,50.0,3,westin-graves-1
+Adam Greene,2016-11-12,10,Maryland,,Ohio State,L,0,0,,1,1,100.0,3,adam-greene-1
+Chase McLaughlin,2016-11-12,10,Illinois,@,Wisconsin,L,0,0,,1,2,50.0,3,chase-mclaughlin-1
+Josh Pasley,2016-11-12,10,Cincinnati,@,Central Florida,L,0,0,,1,2,50.0,3,josh-pasley-1
+Ty Cummings,2016-11-12,10,Houston,,Tulane,W,4,4,100.0,0,0,,4,ty-cummings-1
+Andrew Dirocco,2016-11-12,10,Tulane,@,Houston,L,1,1,100.0,1,1,100.0,4,andrew-dirocco-1
+Ryan Kay,2016-11-12,9,Troy,,Appalachian State,W,4,4,100.0,0,1,0.0,4,ryan-kay-1
+Daniel LaCamera,2016-11-12,10,Texas A&M,,Mississippi,L,4,4,100.0,0,0,,4,daniel-lacamera-1
+Adam McFain,2016-11-12,10,Arkansas,,Louisiana State,L,1,1,100.0,1,1,100.0,4,adam-mcfain-1
+Hayden Tobola,2016-11-12,10,Rice,@,UNC Charlotte,W,1,1,100.0,1,1,100.0,4,hayden-tobola-1
+Stephen Brauchle,2016-11-12,10,Southern Mississippi,@,Old Dominion,L,5,5,100.0,0,0,,5,stephen-brauchle-1
+Emmit Carpenter,2016-11-12,10,Minnesota,@,Nebraska,L,2,2,100.0,1,1,100.0,5,emmit-carpenter-1
+J.D. Dillinger,2016-11-12,10,Purdue,,Northwestern,L,2,2,100.0,1,1,100.0,5,jd-dillinger-1
+Nick Dowd,2016-11-12,11,Miami (OH),@,Buffalo,W,2,5,40.0,1,1,100.0,5,nick-dowd-1
+Victor Falcon,2016-11-12,10,Texas-San Antonio,@,Louisiana Tech,L,5,5,100.0,0,0,,5,victor-falcon-1
+Craig Ford,2016-11-12,10,Louisiana-Monroe,@,Georgia State,W,5,5,100.0,0,1,0.0,5,craig-ford-1
+Connor Haskins,2016-11-12,10,North Carolina State,@,Syracuse,W,5,5,100.0,0,0,,5,connor-haskins-1
+JD Houston,2016-11-12,9,Arkansas State,,New Mexico State,W,5,6,83.3,0,1,0.0,5,jd-houston-1
+Tommy Openshaw,2016-11-12,10,Vanderbilt,@,Missouri,L,2,2,100.0,1,1,100.0,5,tommy-openshaw-1
+Canon Rooker,2016-11-12,10,Middle Tennessee State,@,Marshall,L,2,2,100.0,1,1,100.0,5,canon-rooker-1
+Rogier Ten Lohuis,2016-11-12,10,Georgia State,,Louisiana-Monroe,L,2,2,100.0,1,2,50.0,5,rogier-ten-lohuis-1
+Matt Boermeester,2016-11-12,10,Southern California,@,Washington,W,3,3,100.0,1,1,100.0,6,matt-boermeester-1
+Nicolai Bornand,2016-11-12,10,Nevada-Las Vegas,,Wyoming,W,3,3,100.0,1,1,100.0,6,nicolai-bornand-1
+Drew Brown,2016-11-12,10,Nebraska,,Minnesota,W,3,3,100.0,1,1,100.0,6,drew-brown-1
+Chris Callahan,2016-11-12,9,Baylor,@,Oklahoma,L,3,3,100.0,1,1,100.0,6,chris-callahan-3
+Amoreto Curraj,2016-11-12,10,Marshall,,Middle Tennessee State,W,6,6,100.0,0,0,,6,amoreto-curraj-1
+Greg Huegel,2016-11-12,10,Clemson,,Pittsburgh,L,6,6,100.0,0,0,,6,greg-huegel-1
+Adam Mitcheson,2016-11-12,10,Buffalo,,Miami (OH),L,3,3,100.0,1,2,50.0,6,adam-mitcheson-1
+Bennett Moehring,2016-11-12,9,Navy,,Tulsa,W,6,6,100.0,0,0,,6,bennett-moehring-1
+Mike Molina,2016-11-12,9,West Virginia,@,Texas,W,3,3,100.0,1,1,100.0,6,mike-molina-1
+Josh Pollack,2016-11-12,10,Arizona,,Colorado,L,3,3,100.0,1,4,25.0,6,josh-pollack-1
+Michael Rubino,2016-11-12,10,Appalachian State,@,Troy,L,3,3,100.0,1,1,100.0,6,michael-rubino-1
+Matthew Wright,2016-11-12,10,Central Florida,,Cincinnati,W,3,3,100.0,1,2,50.0,6,matthew-wright-1
+Matthew Wyman,2016-11-12,10,Kansas,,Iowa State,L,3,3,100.0,1,2,50.0,6,matthew-wyman-1
+Keith Duncan,2016-11-12,10,Iowa,,Michigan,W,0,0,,2,2,100.0,6,keith-duncan-1
+Kenneth Allen,2016-11-12,10,Michigan,@,Iowa,L,1,1,100.0,2,2,100.0,7,kenneth-allen-1
+Brandon Behr,2016-11-12,10,South Florida,@,Memphis,W,7,7,100.0,0,1,0.0,7,brandon-behr-1
+Rodrigo Blankenship,2016-11-12,10,Georgia,,Auburn,W,1,1,100.0,2,3,66.7,7,rodrigo-blankenship-1
+Chris Blewitt,2016-11-12,10,Pittsburgh,@,Clemson,W,4,5,80.0,1,2,50.0,7,chris-blewitt-1
+Brad Davis,2016-11-12,10,Old Dominion,,Southern Mississippi,W,7,7,100.0,0,0,,7,brad-davis-3
+Michael Geiger,2016-11-12,10,Michigan State,,Rutgers,W,7,7,100.0,0,0,,7,michael-geiger-1
+Jay Mattox,2016-11-12,10,Texas-El Paso,@,Florida Atlantic,L,4,4,100.0,1,1,100.0,7,jay-mattox-1
+Aaron Medley,2016-11-12,10,Tennessee,,Kentucky,W,7,7,100.0,0,0,,7,aaron-medley-1
+Cole Netten,2016-11-12,10,Iowa State,@,Kansas,W,1,2,50.0,2,2,100.0,7,cole-netten-1
+Griffin Oakes,2016-11-12,10,Indiana,,Penn State,L,4,4,100.0,1,1,100.0,7,griffin-oakes-1
+Davis Plowman,2016-11-12,10,East Carolina,,Southern Methodist,L,4,4,100.0,1,1,100.0,7,davis-plowman-1
+Davis Price,2016-11-12,10,Colorado,@,Arizona,W,7,7,100.0,0,0,,7,davis-price-1
+Luke Strebel,2016-11-12,10,Air Force,,Colorado State,W,7,7,100.0,0,0,,7,luke-strebel-1
+Cameron Van Winkle,2016-11-12,10,Washington,,Southern California,L,1,1,100.0,2,3,66.7,7,cameron-van-winkle-1
+Jonathan Barnes,2016-11-12,11,Louisiana Tech,,Texas-San Antonio,W,8,8,100.0,0,1,0.0,8,jonathan-barnes-1
+Wyatt Bryan,2016-11-12,10,Colorado State,@,Air Force,L,5,5,100.0,1,2,50.0,8,wyatt-bryan-1
+Blaton Creque,2016-11-12,10,Louisville,,Wake Forest,W,5,5,100.0,1,2,50.0,8,blaton-creque-1
+Parker Davidson,2016-11-12,9,New Mexico State,@,Arkansas State,L,2,2,100.0,2,2,100.0,8,parker-davidson-1
+Colby Delahoussaye,2016-11-12,9,Louisiana State,@,Arkansas,W,5,5,100.0,1,1,100.0,8,colby-delahoussaye-1
+Trent Domingue,2016-11-12,10,Texas,,West Virginia,L,2,2,100.0,2,3,66.7,8,trent-domingue-1
+Clayton Hatfield,2016-11-12,10,Texas Tech,@,Oklahoma State,L,5,6,83.3,1,1,100.0,8,clayton-hatfield-1
+JJ Molson,2016-11-12,10,UCLA,,Oregon State,W,5,5,100.0,1,1,100.0,8,jj-molson-1
+Cole Murphy,2016-11-12,10,Syracuse,,North Carolina State,L,2,2,100.0,2,2,100.0,8,cole-murphy-1
+Eddy Pineiro,2016-11-12,9,Florida,,South Carolina,W,2,2,100.0,2,2,100.0,8,eddy-pineiro-1
+Erik Powell,2016-11-12,10,Washington State,,California,W,8,8,100.0,0,0,,8,erik-powell-1
+Justin Yoon,2016-11-12,10,Notre Dame,N,Army,W,5,6,83.3,1,1,100.0,8,justin-yoon-1
+Tyler Davis,2016-11-12,10,Penn State,@,Indiana,W,6,6,100.0,1,1,100.0,9,tyler-davis-3
+Ben Grogan,2016-11-12,10,Oklahoma State,,Texas Tech,W,6,6,100.0,1,1,100.0,9,ben-grogan-1
+Greg Joseph,2016-11-12,10,Florida Atlantic,,Texas-El Paso,W,3,3,100.0,2,2,100.0,9,greg-joseph-2
+Jack Mitchell,2016-11-12,10,Northwestern,@,Purdue,W,6,6,100.0,1,1,100.0,9,jack-mitchell-2
+Austin Rehkow,2016-11-12,10,Idaho,@,Texas State,W,6,6,100.0,1,1,100.0,9,austin-rehkow-1
+Austin Seibert,2016-11-12,10,Oklahoma,,Baylor,W,6,6,100.0,1,1,100.0,9,austin-seibert-1
+Skyler Simcox,2016-11-12,11,Western Kentucky,,North Texas,W,6,6,100.0,1,2,50.0,9,skyler-simcox-1
+Michael Badgley,2016-11-12,10,Miami (FL),@,Virginia,W,4,4,100.0,2,3,66.7,10,michael-badgley-1
+John Baron,2016-11-12,10,San Diego State,@,Nevada,W,4,6,66.7,2,2,100.0,10,john-baron-1
+Jake Elliott,2016-11-12,10,Memphis,,South Florida,L,4,4,100.0,2,3,66.7,10,jake-elliott-1
+Redford Jones,2016-11-12,10,Tulsa,@,Navy,L,4,4,100.0,2,2,100.0,10,redford-jones-1
+Tyler Rausa,2016-11-12,10,Boise State,@,Hawaii,W,7,7,100.0,1,1,100.0,10,tyler-rausa-1
+Rigoberto Sanchez,2016-11-12,11,Hawaii,,Boise State,L,1,1,100.0,3,3,100.0,10,rigoberto-sanchez-1
+Jason Sanders,2016-11-12,10,New Mexico,@,Utah State,W,1,1,100.0,3,3,100.0,10,jason-sanders-1
+Conrad Ukropina,2016-11-12,10,Stanford,@,Oregon,W,7,7,100.0,1,1,100.0,10,conrad-ukropina-1
+Gary Wunderlich,2016-11-12,10,Mississippi,@,Texas A&M,W,2,2,100.0,3,3,100.0,11,gary-wunderlich-1
+Harrison Butker,2016-11-12,10,Georgia Tech,@,Virginia Tech,W,3,3,100.0,3,3,100.0,12,harrison-butker-1
+Andrew Endicott,2016-11-12,10,Wisconsin,,Illinois,W,6,6,100.0,2,2,100.0,12,andrew-endicott-1
+Austin Macginnis,2016-11-12,10,Kentucky,@,Tennessee,L,3,3,100.0,3,3,100.0,12,austin-macginnis-1
+Cooper Rothe,2016-11-12,10,Wyoming,@,Nevada-Las Vegas,L,9,9,100.0,1,1,100.0,12,cooper-rothe-1
+Mike Weaver,2016-11-12,10,Wake Forest,@,Louisville,L,0,0,,4,4,100.0,12,mike-weaver-1
+Rhett Almond,2016-11-12,10,Brigham Young,,Southern Utah,W,4,4,100.0,3,4,75.0,13,rhett-almond-1
+Evan Pantels,2016-11-12,10,Nevada-Las Vegas,,Wyoming,W,4,4,100.0,3,3,100.0,13,evan-pantels-1
+Josh Williams,2016-11-12,10,Southern Methodist,@,East Carolina,W,7,7,100.0,2,2,100.0,13,josh-williams-9
+Tyler Durbin,2016-11-12,10,Ohio State,@,Maryland,W,8,8,100.0,2,2,100.0,14,tyler-durbin-1
+Adam Griffith,2016-11-12,10,Alabama,,Mississippi State,W,5,5,100.0,3,3,100.0,14,adam-griffith-1
+Shane Hynes,2016-11-15,11,Kent State,@,Bowling Green State,L,1,1,100.0,0,0,,1,shane-hynes-1
+Jake Suder,2016-11-15,11,Bowling Green State,,Kent State,W,6,6,100.0,0,0,,6,jake-suder-1
+Louie Zervos,2016-11-15,11,Ohio,@,Central Michigan,L,2,2,100.0,2,2,100.0,8,louie-zervos-1
+Brian Eavey,2016-11-15,11,Central Michigan,,Ohio,W,3,3,100.0,2,2,100.0,9,brian-eavey-1
+Paul Fricano,2016-11-16,11,Eastern Michigan,,Northern Illinois,L,3,3,100.0,1,2,50.0,6,paul-fricano-1
+Christian Hagan,2016-11-16,11,Northern Illinois,@,Eastern Michigan,W,4,4,100.0,1,3,33.3,7,christian-hagan-1
+Morgan Hagee,2016-11-16,11,Ball State,@,Toledo,L,1,1,100.0,2,2,100.0,7,morgan-hagee-1
+Jameson Vest,2016-11-16,11,Toledo,,Ball State,W,4,4,100.0,3,3,100.0,13,jameson-vest-1
+Ryan Kay,2016-11-17,10,Troy,,Arkansas State,L,0,0,,1,1,100.0,3,ryan-kay-1
+Blaton Creque,2016-11-17,11,Louisville,@,Houston,L,1,1,100.0,1,1,100.0,4,blaton-creque-1
+JD Houston,2016-11-17,10,Arkansas State,@,Troy,W,5,5,100.0,0,0,,5,jd-houston-1
+Ty Cummings,2016-11-17,11,Houston,,Louisville,W,4,4,100.0,2,2,100.0,10,ty-cummings-1
+Josh Pasley,2016-11-18,11,Cincinnati,,Memphis,L,1,1,100.0,0,0,,1,josh-pasley-1
+Evan Pantels,2016-11-18,11,Nevada-Las Vegas,@,Boise State,L,2,2,100.0,1,1,100.0,5,evan-pantels-1
+Tyler Rausa,2016-11-18,11,Boise State,,Nevada-Las Vegas,W,6,6,100.0,0,1,0.0,6,tyler-rausa-1
+Jake Elliott,2016-11-18,11,Memphis,@,Cincinnati,W,4,4,100.0,2,2,100.0,10,jake-elliott-1
+Mike Caggiano,2016-11-19,11,Massachusetts,@,Brigham Young,L,0,1,0.0,0,0,,0,mike-caggiano-1
+Brandon Hatfield,2016-11-19,10,Texas Christian,,Oklahoma State,L,0,1,0.0,0,0,,0,brandon-hatfield-1
+Benjamin Tesson,2016-11-19,11,Missouri,@,Tennessee,L,0,1,0.0,0,0,,0,benjamin-tesson-1
+David Bonagura,2016-11-19,11,Rutgers,,Penn State,L,0,0,,0,1,0.0,0,david-bonagura-1
+Jack Mitchell,2016-11-19,11,Northwestern,@,Minnesota,L,0,0,,0,1,0.0,0,jack-mitchell-2
+Logan Tyler,2016-11-19,11,Florida State,@,Syracuse,W,0,0,,0,1,0.0,0,logan-tyler-1
+Adam Greene,2016-11-19,11,Maryland,@,Nebraska,L,1,1,100.0,0,0,,1,adam-greene-1
+Peyton Paddock,2016-11-19,11,Iowa State,,Texas Tech,W,1,1,100.0,0,0,,1,peyton-paddock-1
+Avery Walas,2016-11-19,11,Army,,Morgan State,W,1,1,100.0,0,0,,1,avery-walas-1
+Amoreto Curraj,2016-11-19,11,Marshall,@,Florida International,L,2,2,100.0,0,1,0.0,2,amoreto-curraj-1
+Adam Griffith,2016-11-19,11,Alabama,,Chattanooga,W,2,2,100.0,0,0,,2,adam-griffith-1
+Mitchell Howard,2016-11-19,11,Army,,Morgan State,W,2,2,100.0,0,0,,2,mitchell-howard-1
+JJ Molson,2016-11-19,11,UCLA,,Southern California,L,2,2,100.0,0,1,0.0,2,jj-molson-1
+Cole Murphy,2016-11-19,11,Syracuse,,Florida State,L,2,2,100.0,0,0,,2,cole-murphy-1
+AJ Reed,2016-11-19,11,Duke,@,Pittsburgh,L,2,2,100.0,0,1,0.0,2,aj-reed-1
+Rigoberto Sanchez,2016-11-19,12,Hawaii,@,Fresno State,W,2,2,100.0,0,0,,2,rigoberto-sanchez-1
+Rogier Ten Lohuis,2016-11-19,11,Georgia State,,Georgia Southern,W,2,3,66.7,0,1,0.0,2,rogier-ten-lohuis-1
+Stevie Artigue,2016-11-19,10,Louisiana,@,Georgia,L,3,3,100.0,0,0,,3,stevie-artigue-1
+Chris Callahan,2016-11-19,10,Baylor,,Kansas State,L,3,3,100.0,0,0,,3,chris-callahan-3
+Trent Domingue,2016-11-19,11,Texas,@,Kansas,L,3,3,100.0,0,1,0.0,3,trent-domingue-1
+Chris Graham,2016-11-19,11,Colorado,,Washington State,W,0,0,,1,1,100.0,3,chris-graham-1
+Logan Laurent,2016-11-19,11,Massachusetts,@,Brigham Young,L,0,0,,1,1,100.0,3,logan-laurent-1
+Colby Delahoussaye,2016-11-19,10,Louisiana State,,Florida,L,1,1,100.0,1,1,100.0,4,colby-delahoussaye-1
+Keith Duncan,2016-11-19,11,Iowa,@,Illinois,W,4,4,100.0,0,0,,4,keith-duncan-1
+Victor Falcon,2016-11-19,11,Texas-San Antonio,@,Texas A&M,L,1,1,100.0,1,2,50.0,4,victor-falcon-1
+Michael Geiger,2016-11-19,11,Michigan State,,Ohio State,L,1,1,100.0,1,1,100.0,4,michael-geiger-1
+Zane Gonzalez,2016-11-19,11,Arizona State,@,Washington,L,1,1,100.0,1,1,100.0,4,zane-gonzalez-1
+Westin Graves,2016-11-19,11,Mississippi State,,Arkansas,L,4,4,100.0,0,1,0.0,4,westin-graves-1
+Clayton Hatfield,2016-11-19,11,Texas Tech,@,Iowa State,L,1,1,100.0,1,1,100.0,4,clayton-hatfield-1
+Spencer Lindsay,2016-11-19,11,Nebraska,,Maryland,W,4,4,100.0,0,1,0.0,4,spencer-lindsay-1
+Mike Molina,2016-11-19,10,West Virginia,,Oklahoma,L,4,4,100.0,0,0,,4,mike-molina-1
+Griffin Oakes,2016-11-19,11,Indiana,@,Michigan,L,1,1,100.0,1,1,100.0,4,griffin-oakes-1
+Andy Phillips,2016-11-19,11,Utah,,Oregon,L,4,4,100.0,0,0,,4,andy-phillips-2
+Marcus Ripley,2016-11-19,10,Texas State,@,New Mexico State,L,1,1,100.0,1,1,100.0,4,marcus-ripley-1
+Brock Warren,2016-11-19,11,Utah State,@,Nevada,L,4,4,100.0,0,1,0.0,4,brock-warren-1
+Brandon Wright,2016-11-19,11,Georgia State,,Georgia Southern,W,1,1,100.0,1,1,100.0,4,brandon-wright-3
+Brandon Behr,2016-11-19,11,South Florida,@,Southern Methodist,W,5,5,100.0,0,0,,5,brandon-behr-1
+Rodrigo Blankenship,2016-11-19,11,Georgia,,Louisiana,W,5,5,100.0,0,0,,5,rodrigo-blankenship-1
+Stephen Brauchle,2016-11-19,11,Southern Mississippi,@,North Texas,L,2,3,66.7,1,2,50.0,5,stephen-brauchle-1
+Blake Brewer,2016-11-19,11,UNC Charlotte,,Middle Tennessee State,L,2,3,66.7,1,2,50.0,5,blake-brewer-1
+Tyler Durbin,2016-11-19,11,Ohio State,@,Michigan State,W,2,2,100.0,1,1,100.0,5,tyler-durbin-1
+Craig Ford,2016-11-19,11,Louisiana-Monroe,@,Appalachian State,L,2,2,100.0,1,1,100.0,5,craig-ford-1
+Sam Hayward,2016-11-19,11,Virginia,@,Georgia Tech,L,2,2,100.0,1,3,33.3,5,sam-hayward-1
+Greg Huegel,2016-11-19,11,Clemson,@,Wake Forest,W,5,5,100.0,0,0,,5,greg-huegel-1
+Redford Jones,2016-11-19,11,Tulsa,@,Central Florida,W,5,5,100.0,0,1,0.0,5,redford-jones-1
+Andy Pappanastos,2016-11-19,11,Alabama,,Chattanooga,W,2,2,100.0,1,1,100.0,5,andy-pappanastos-1
+Josh Pollack,2016-11-19,11,Arizona,@,Oregon State,L,2,2,100.0,1,1,100.0,5,josh-pollack-1
+Davis Price,2016-11-19,11,Colorado,,Washington State,W,5,5,100.0,0,1,0.0,5,davis-price-1
+Blake Wilson,2016-11-19,11,Army,,Morgan State,W,2,2,100.0,1,1,100.0,5,blake-wilson-1
+Gary Wunderlich,2016-11-19,11,Mississippi,@,Vanderbilt,L,2,2,100.0,1,1,100.0,5,gary-wunderlich-1
+Bryce Crawford,2016-11-19,11,San Jose State,,Air Force,L,3,4,75.0,1,1,100.0,6,bryce-crawford-1
+Greg Joseph,2016-11-19,11,Florida Atlantic,,Old Dominion,L,3,3,100.0,1,2,50.0,6,greg-joseph-2
+Younghoe Koo,2016-11-19,11,Georgia Southern,@,Georgia State,L,3,3,100.0,1,1,100.0,6,younghoe-koo-1
+Jay Mattox,2016-11-19,11,Texas-El Paso,@,Rice,L,3,3,100.0,1,1,100.0,6,jay-mattox-1
+Garrett Owens,2016-11-19,11,Oregon State,,Arizona,W,6,6,100.0,0,0,,6,garrett-owens-1
+Ian Patterson,2016-11-19,10,Kansas State,@,Baylor,W,6,6,100.0,0,0,,6,ian-patterson-1
+Erik Powell,2016-11-19,11,Washington State,@,Colorado,L,3,3,100.0,1,2,50.0,6,erik-powell-1
+Michael Rubino,2016-11-19,11,Appalachian State,,Louisiana-Monroe,W,6,6,100.0,0,0,,6,michael-rubino-1
+Aidan Schneider,2016-11-19,11,Oregon,@,Utah,W,3,3,100.0,1,2,50.0,6,aidan-schneider-1
+Austin Seibert,2016-11-19,11,Oklahoma,@,West Virginia,W,6,7,85.7,0,0,,6,austin-seibert-1
+Matthew Wright,2016-11-19,11,Central Florida,,Tulsa,L,0,1,0.0,2,2,100.0,6,matthew-wright-1
+Matt Anderson,2016-11-19,11,California,,Stanford,L,4,4,100.0,1,2,50.0,7,matt-anderson-3
+Aaron Boumerhi,2016-11-19,11,Temple,@,Tulane,W,4,4,100.0,1,2,50.0,7,aaron-boumerhi-1
+Wyatt Bryan,2016-11-19,11,Colorado State,,New Mexico,W,7,7,100.0,0,0,,7,wyatt-bryan-1
+Harrison Butker,2016-11-19,11,Georgia Tech,,Virginia,W,4,4,100.0,1,1,100.0,7,harrison-butker-1
+Andrew Endicott,2016-11-19,11,Wisconsin,@,Purdue,W,7,7,100.0,0,0,,7,andrew-endicott-1
+Ben Grogan,2016-11-19,11,Oklahoma State,@,Texas Christian,W,4,4,100.0,1,2,50.0,7,ben-grogan-1
+Connor Haskins,2016-11-19,11,North Carolina State,,Miami (FL),L,1,1,100.0,2,2,100.0,7,connor-haskins-1
+Kody Kroening,2016-11-19,11,Fresno State,,Hawaii,L,1,1,100.0,2,3,66.7,7,kody-kroening-1
+Austin Macginnis,2016-11-19,11,Kentucky,,Austin Peay,W,7,7,100.0,0,0,,7,austin-macginnis-1
+Tucker McCann,2016-11-19,11,Missouri,@,Tennessee,L,4,4,100.0,1,1,100.0,7,tucker-mccann-1
+Gavin Patterson,2016-11-19,10,South Alabama,,Presbyterian,W,4,4,100.0,1,1,100.0,7,gavin-patterson-1
+Davis Plowman,2016-11-19,11,East Carolina,,Navy,L,4,4,100.0,1,1,100.0,7,davis-plowman-1
+Jason Sanders,2016-11-19,11,New Mexico,@,Colorado State,L,4,4,100.0,1,1,100.0,7,jason-sanders-1
+Austin Taylor,2016-11-19,11,Florida International,,Marshall,W,4,4,100.0,1,2,50.0,7,austin-taylor-2
+Mike Weaver,2016-11-19,11,Wake Forest,,Clemson,L,1,1,100.0,2,2,100.0,7,mike-weaver-1
+Justin Yoon,2016-11-19,11,Notre Dame,,Virginia Tech,L,4,4,100.0,1,1,100.0,7,justin-yoon-1
+Kenneth Allen,2016-11-19,11,Michigan,,Indiana,W,2,2,100.0,2,2,100.0,8,kenneth-allen-1
+Chris Blewitt,2016-11-19,11,Pittsburgh,,Duke,W,8,8,100.0,0,0,,8,chris-blewitt-1
+J.D. Dillinger,2016-11-19,11,Purdue,,Wisconsin,L,2,2,100.0,2,2,100.0,8,jd-dillinger-1
+Butch Hampton,2016-11-19,11,Western Michigan,,Buffalo,W,5,5,100.0,1,2,50.0,8,butch-hampton-1
+Adam McFain,2016-11-19,11,Arkansas,@,Mississippi State,W,5,6,83.3,1,2,50.0,8,adam-mcfain-1
+Tommy Openshaw,2016-11-19,11,Vanderbilt,,Mississippi,W,5,5,100.0,1,1,100.0,8,tommy-openshaw-1
+Spence Pettit,2016-11-19,11,Nevada,,Utah State,W,5,5,100.0,1,1,100.0,8,spence-pettit-1
+Canon Rooker,2016-11-19,11,Middle Tennessee State,@,UNC Charlotte,W,5,5,100.0,1,1,100.0,8,canon-rooker-1
+Hayden Tobola,2016-11-19,11,Rice,,Texas-El Paso,W,5,6,83.3,1,2,50.0,8,hayden-tobola-1
+Ricky Aguayo,2016-11-19,11,Florida State,@,Syracuse,W,6,6,100.0,1,1,100.0,9,ricky-aguayo-1
+Michael Badgley,2016-11-19,11,Miami (FL),@,North Carolina State,W,3,3,100.0,2,3,66.7,9,michael-badgley-1
+John Baron,2016-11-19,11,San Diego State,@,Wyoming,L,3,3,100.0,2,2,100.0,9,john-baron-1
+Aaron Medley,2016-11-19,11,Tennessee,,Missouri,W,9,9,100.0,0,1,0.0,9,aaron-medley-1
+Trevor Moore,2016-11-19,11,North Texas,,Southern Mississippi,W,3,3,100.0,2,2,100.0,9,trevor-moore-1
+Conrad Ukropina,2016-11-19,11,Stanford,@,California,W,6,6,100.0,1,1,100.0,9,conrad-ukropina-1
+Josh Williams,2016-11-19,11,Southern Methodist,,South Florida,L,3,3,100.0,2,2,100.0,9,josh-williams-9
+Dominik Eberle,2016-11-19,11,Utah State,@,Nevada,L,0,0,,3,3,100.0,9,dominik-eberle-1
+Brad Davis,2016-11-19,11,Old Dominion,@,Florida Atlantic,W,4,4,100.0,2,3,66.7,10,brad-davis-3
+Eddy Pineiro,2016-11-19,10,Florida,@,Louisiana State,W,1,1,100.0,3,3,100.0,10,eddy-pineiro-1
+Cooper Rothe,2016-11-19,11,Wyoming,,San Diego State,W,4,4,100.0,2,2,100.0,10,cooper-rothe-1
+Joey Slye,2016-11-19,11,Virginia Tech,@,Notre Dame,W,4,4,100.0,2,2,100.0,10,joey-slye-1
+Matthew Wyman,2016-11-19,11,Kansas,,Texas,W,1,1,100.0,3,3,100.0,10,matthew-wyman-1
+Emmit Carpenter,2016-11-19,11,Minnesota,,Northwestern,W,2,3,66.7,3,3,100.0,11,emmit-carpenter-1
+Daniel LaCamera,2016-11-19,11,Texas A&M,,Texas-San Antonio,W,2,2,100.0,3,3,100.0,11,daniel-lacamera-1
+Cole Netten,2016-11-19,11,Iowa State,,Texas Tech,W,8,8,100.0,1,1,100.0,11,cole-netten-1
+Luke Strebel,2016-11-19,11,Air Force,@,San Jose State,W,5,5,100.0,2,2,100.0,11,luke-strebel-1
+Nick Weiler,2016-11-19,11,North Carolina,,Citadel,W,5,5,100.0,2,3,66.7,11,nick-weiler-1
+Matt Boermeester,2016-11-19,11,Southern California,@,UCLA,W,3,4,75.0,3,3,100.0,12,matt-boermeester-1
+Mike Knoll,2016-11-19,11,Boston College,,Connecticut,W,3,3,100.0,3,3,100.0,12,mike-knoll-2
+Bennett Moehring,2016-11-19,10,Navy,@,East Carolina,W,9,9,100.0,1,1,100.0,12,bennett-moehring-1
+Daniel Carlson,2016-11-19,11,Auburn,,Alabama A&M,W,7,7,100.0,2,3,66.7,13,daniel-carlson-1
+Parker Davidson,2016-11-19,10,New Mexico State,,Texas State,W,5,6,83.3,3,3,100.0,14,parker-davidson-1
+Elliot Fry,2016-11-19,11,South Carolina,,Western Carolina,W,5,5,100.0,3,3,100.0,14,elliot-fry-1
+Cameron Van Winkle,2016-11-19,11,Washington,,Arizona State,W,5,5,100.0,3,3,100.0,14,cameron-van-winkle-1
+Rhett Almond,2016-11-19,11,Brigham Young,,Massachusetts,W,6,6,100.0,3,3,100.0,15,rhett-almond-1
+Tyler Davis,2016-11-19,11,Penn State,@,Rutgers,W,3,3,100.0,4,4,100.0,15,tyler-davis-3
+Nick Dowd,2016-11-22,12,Miami (OH),,Ball State,W,3,3,100.0,0,1,0.0,3,nick-dowd-1
+Brian Eavey,2016-11-22,12,Central Michigan,@,Eastern Michigan,L,3,3,100.0,0,1,0.0,3,brian-eavey-1
+Tom O'Leary,2016-11-22,12,Akron,@,Ohio,L,0,0,,1,2,50.0,3,tom-oleary-2
+Paul Fricano,2016-11-22,12,Eastern Michigan,,Central Michigan,W,2,2,100.0,2,3,66.7,8,paul-fricano-1
+Morgan Hagee,2016-11-22,12,Ball State,@,Miami (OH),L,2,2,100.0,2,2,100.0,8,morgan-hagee-1
+Louie Zervos,2016-11-22,12,Ohio,,Akron,W,0,0,,3,3,100.0,9,louie-zervos-1
+Daniel LaCamera,2016-11-24,12,Texas A&M,,Louisiana State,L,2,2,100.0,1,1,100.0,5,daniel-lacamera-1
+Colby Delahoussaye,2016-11-24,11,Louisiana State,@,Texas A&M,W,6,6,100.0,2,2,100.0,12,colby-delahoussaye-1
+Adam Mitcheson,2016-11-25,12,Buffalo,@,Bowling Green State,L,1,2,50.0,0,0,,1,adam-mitcheson-1
+Shane Hynes,2016-11-25,12,Kent State,,Northern Illinois,L,3,3,100.0,0,2,0.0,3,shane-hynes-1
+Nick Weiler,2016-11-25,12,North Carolina,,North Carolina State,L,3,3,100.0,0,0,,3,nick-weiler-1
+Trent Domingue,2016-11-25,12,Texas,,Texas Christian,L,0,0,,1,2,50.0,3,trent-domingue-1
+Drew Brown,2016-11-25,12,Nebraska,@,Iowa,L,1,1,100.0,1,1,100.0,4,drew-brown-1
+Keith Duncan,2016-11-25,12,Iowa,,Nebraska,W,4,5,80.0,0,0,,4,keith-duncan-1
+Connor Haskins,2016-11-25,12,North Carolina State,@,North Carolina,W,4,4,100.0,0,1,0.0,4,connor-haskins-1
+Tucker McCann,2016-11-25,12,Missouri,,Arkansas,W,4,4,100.0,0,0,,4,tucker-mccann-1
+Chris Callahan,2016-11-25,11,Baylor,N,Texas Tech,L,5,5,100.0,0,1,0.0,5,chris-callahan-3
+Zane Gonzalez,2016-11-25,12,Arizona State,@,Arizona,L,5,5,100.0,0,1,0.0,5,zane-gonzalez-1
+Erik Powell,2016-11-25,12,Washington State,,Washington,L,2,2,100.0,1,1,100.0,5,erik-powell-1
+Jameson Vest,2016-11-25,12,Toledo,@,Western Michigan,L,5,5,100.0,0,0,,5,jameson-vest-1
+Jonathan Barnes,2016-11-25,12,Louisiana Tech,@,Southern Mississippi,L,3,3,100.0,1,2,50.0,6,jonathan-barnes-1
+Adam McFain,2016-11-25,12,Arkansas,@,Missouri,L,3,3,100.0,1,2,50.0,6,adam-mcfain-1
+Mitchell Becker,2016-11-25,12,Texas,,Texas Christian,L,0,0,,2,2,100.0,6,mitchell-becker-1
+Christian Hagan,2016-11-25,12,Northern Illinois,@,Kent State,W,4,4,100.0,1,1,100.0,7,christian-hagan-1
+Brandon Hatfield,2016-11-25,11,Texas Christian,@,Texas,W,4,4,100.0,1,1,100.0,7,brandon-hatfield-1
+Josh Pollack,2016-11-25,12,Arizona,,Arizona State,W,8,8,100.0,0,0,,8,josh-pollack-1
+Tyler Rausa,2016-11-25,12,Boise State,@,Air Force,L,2,2,100.0,2,2,100.0,8,tyler-rausa-1
+Stephen Brauchle,2016-11-25,12,Southern Mississippi,,Louisiana Tech,W,3,4,75.0,2,2,100.0,9,stephen-brauchle-1
+Luke Strebel,2016-11-25,12,Air Force,,Boise State,W,3,3,100.0,2,2,100.0,9,luke-strebel-1
+Jake Suder,2016-11-25,12,Bowling Green State,,Buffalo,W,3,3,100.0,2,2,100.0,9,jake-suder-1
+Cameron Van Winkle,2016-11-25,12,Washington,@,Washington State,W,6,6,100.0,1,1,100.0,9,cameron-van-winkle-1
+Redford Jones,2016-11-25,12,Tulsa,,Cincinnati,W,4,4,100.0,2,2,100.0,10,redford-jones-1
+Jake Elliott,2016-11-25,12,Memphis,,Houston,W,6,6,100.0,2,2,100.0,12,jake-elliott-1
+Clayton Hatfield,2016-11-25,12,Texas Tech,N,Baylor,W,6,7,85.7,2,2,100.0,12,clayton-hatfield-1
+Butch Hampton,2016-11-25,12,Western Michigan,,Toledo,W,7,7,100.0,2,2,100.0,13,butch-hampton-1
+Josh Pasley,2016-11-25,12,Cincinnati,@,Tulsa,L,4,4,100.0,3,3,100.0,13,josh-pasley-1
+Ty Cummings,2016-11-25,12,Houston,@,Memphis,L,5,5,100.0,3,3,100.0,14,ty-cummings-1
+Amoreto Curraj,2016-11-26,12,Marshall,,Western Kentucky,L,0,1,0.0,0,0,,0,amoreto-curraj-1
+Dominik Eberle,2016-11-26,12,Utah State,@,Brigham Young,L,0,0,,0,1,0.0,0,dominik-eberle-1
+David Bonagura,2016-11-26,12,Rutgers,@,Maryland,L,1,2,50.0,0,1,0.0,1,david-bonagura-1
+Parker Davidson,2016-11-26,11,New Mexico State,,Appalachian State,L,1,1,100.0,0,0,,1,parker-davidson-1
+Elliot Fry,2016-11-26,12,South Carolina,@,Clemson,L,1,1,100.0,0,0,,1,elliot-fry-1
+Bobby Puyol,2016-11-26,12,Connecticut,,Tulane,L,1,1,100.0,0,1,0.0,1,bobby-puyol-1
+Marcus Ripley,2016-11-26,11,Texas State,,Troy,L,1,1,100.0,0,0,,1,marcus-ripley-1
+Blake Brewer,2016-11-26,12,UNC Charlotte,@,Texas-San Antonio,L,2,2,100.0,0,0,,2,blake-brewer-1
+Kody Kroening,2016-11-26,12,Fresno State,,San Jose State,L,2,2,100.0,0,0,,2,kody-kroening-1
+Mike Weaver,2016-11-26,12,Wake Forest,,Boston College,L,2,2,100.0,0,2,0.0,2,mike-weaver-1
+Chase McLaughlin,2016-11-26,12,Illinois,@,Northwestern,L,3,3,100.0,0,1,0.0,3,chase-mclaughlin-1
+Davis Price,2016-11-26,12,Colorado,,Utah,W,3,3,100.0,0,0,,3,davis-price-1
+AJ Reed,2016-11-26,12,Duke,@,Miami (FL),L,3,3,100.0,0,1,0.0,3,aj-reed-1
+Logan Tyler,2016-11-26,12,Florida State,,Florida,W,3,3,100.0,0,0,,3,logan-tyler-1
+Justin Yoon,2016-11-26,12,Notre Dame,@,Southern California,L,3,3,100.0,0,1,0.0,3,justin-yoon-1
+Mike Shinsky,2016-11-26,12,Maryland,,Rutgers,W,0,0,,1,1,100.0,3,mike-shinsky-1
+Ricky Aguayo,2016-11-26,12,Florida State,,Florida,W,1,1,100.0,1,3,33.3,4,ricky-aguayo-1
+Rhett Almond,2016-11-26,12,Brigham Young,,Utah State,W,4,4,100.0,0,1,0.0,4,rhett-almond-1
+Harrison Butker,2016-11-26,12,Georgia Tech,@,Georgia,W,4,4,100.0,0,0,,4,harrison-butker-1
+Mike Caggiano,2016-11-26,12,Massachusetts,@,Hawaii,L,4,5,80.0,0,0,,4,mike-caggiano-1
+J.D. Dillinger,2016-11-26,12,Purdue,@,Indiana,L,1,2,50.0,1,1,100.0,4,jd-dillinger-1
+Adam Greene,2016-11-26,12,Maryland,,Rutgers,W,4,4,100.0,0,2,0.0,4,adam-greene-1
+Sam Hayward,2016-11-26,12,Virginia,@,Virginia Tech,L,1,1,100.0,1,1,100.0,4,sam-hayward-1
+JJ Molson,2016-11-26,12,UCLA,@,California,L,1,1,100.0,1,1,100.0,4,jj-molson-1
+Garrett Owens,2016-11-26,12,Oregon State,,Oregon,W,4,5,80.0,0,0,,4,garrett-owens-1
+Evan Pantels,2016-11-26,12,Nevada-Las Vegas,,Nevada,L,1,1,100.0,1,1,100.0,4,evan-pantels-1
+Ian Patterson,2016-11-26,11,Kansas State,,Kansas,W,4,5,80.0,0,1,0.0,4,ian-patterson-1
+Davis Plowman,2016-11-26,12,East Carolina,@,Temple,L,1,1,100.0,1,2,50.0,4,davis-plowman-1
+Austin Taylor,2016-11-26,12,Florida International,@,Old Dominion,L,4,4,100.0,0,1,0.0,4,austin-taylor-2
+Brock Warren,2016-11-26,12,Utah State,@,Brigham Young,L,1,1,100.0,1,1,100.0,4,brock-warren-1
+Emmit Carpenter,2016-11-26,12,Minnesota,@,Wisconsin,L,2,2,100.0,1,1,100.0,5,emmit-carpenter-1
+Jack Fox,2016-11-26,12,Rice,@,Stanford,L,2,2,100.0,1,1,100.0,5,jack-fox-1
+Mike Knoll,2016-11-26,12,Boston College,@,Wake Forest,W,2,2,100.0,1,1,100.0,5,mike-knoll-2
+Cooper Rothe,2016-11-26,12,Wyoming,@,New Mexico,L,5,5,100.0,0,0,,5,cooper-rothe-1
+Stevie Artigue,2016-11-26,11,Louisiana,,Arkansas State,W,3,3,100.0,1,1,100.0,6,stevie-artigue-1
+Brad Davis,2016-11-26,12,Old Dominion,,Florida International,W,6,6,100.0,0,0,,6,brad-davis-3
+Tyler Durbin,2016-11-26,12,Ohio State,,Michigan,W,3,3,100.0,1,3,33.3,6,tyler-durbin-1
+Jack Mitchell,2016-11-26,12,Northwestern,,Illinois,W,6,6,100.0,0,0,,6,jack-mitchell-2
+Trevor Moore,2016-11-26,12,North Texas,@,Texas-El Paso,L,3,3,100.0,1,1,100.0,6,trevor-moore-1
+Aidan Schneider,2016-11-26,12,Oregon,@,Oregon State,L,3,3,100.0,1,1,100.0,6,aidan-schneider-1
+Chris Graham,2016-11-26,12,Colorado,,Utah,W,0,0,,2,2,100.0,6,chris-graham-1
+Logan Laurent,2016-11-26,12,Massachusetts,@,Hawaii,L,0,0,,2,2,100.0,6,logan-laurent-1
+John Baron,2016-11-26,12,San Diego State,,Colorado State,L,4,4,100.0,1,1,100.0,7,john-baron-1
+Aaron Boumerhi,2016-11-26,12,Temple,,East Carolina,W,4,5,80.0,1,1,100.0,7,aaron-boumerhi-1
+Andrew Endicott,2016-11-26,12,Wisconsin,,Minnesota,W,4,4,100.0,1,1,100.0,7,andrew-endicott-1
+Westin Graves,2016-11-26,12,Mississippi State,@,Mississippi,W,7,8,87.5,0,0,,7,westin-graves-1
+JD Houston,2016-11-26,11,Arkansas State,@,Louisiana,L,1,1,100.0,2,3,66.7,7,jd-houston-1
+Mike Molina,2016-11-26,11,West Virginia,@,Iowa State,W,7,7,100.0,0,0,,7,mike-molina-1
+Cole Murphy,2016-11-26,12,Syracuse,@,Pittsburgh,L,7,9,77.8,0,0,,7,cole-murphy-1
+Gavin Patterson,2016-11-26,11,South Alabama,@,Idaho,L,4,4,100.0,1,1,100.0,7,gavin-patterson-1
+Eddy Pineiro,2016-11-26,11,Florida,@,Florida State,L,1,1,100.0,2,2,100.0,7,eddy-pineiro-1
+Josh Williams,2016-11-26,12,Southern Methodist,,Navy,L,4,4,100.0,1,2,50.0,7,josh-williams-9
+Matthew Wright,2016-11-26,12,Central Florida,@,South Florida,L,4,4,100.0,1,1,100.0,7,matthew-wright-1
+Matthew Wyman,2016-11-26,12,Kansas,@,Kansas State,L,1,1,100.0,2,2,100.0,7,matthew-wyman-1
+Blaton Creque,2016-11-26,12,Louisville,,Kentucky,L,5,5,100.0,1,1,100.0,8,blaton-creque-1
+Andrew Dirocco,2016-11-26,12,Tulane,@,Connecticut,W,5,5,100.0,1,1,100.0,8,andrew-dirocco-1
+Greg Huegel,2016-11-26,12,Clemson,,South Carolina,W,8,8,100.0,0,1,0.0,8,greg-huegel-1
+Greg Joseph,2016-11-26,12,Florida Atlantic,@,Middle Tennessee State,L,8,8,100.0,0,0,,8,greg-joseph-2
+Griffin Oakes,2016-11-26,12,Indiana,,Purdue,W,2,3,66.7,2,2,100.0,8,griffin-oakes-1
+Austin Rehkow,2016-11-26,11,Idaho,,South Alabama,W,5,5,100.0,1,1,100.0,8,austin-rehkow-1
+Rigoberto Sanchez,2016-11-26,13,Hawaii,,Massachusetts,W,5,6,83.3,1,1,100.0,8,rigoberto-sanchez-1
+Jason Sanders,2016-11-26,12,New Mexico,,Wyoming,W,8,8,100.0,0,0,,8,jason-sanders-1
+Gary Wunderlich,2016-11-26,12,Mississippi,,Mississippi State,L,2,2,100.0,2,2,100.0,8,gary-wunderlich-1
+Kenneth Allen,2016-11-26,12,Michigan,@,Ohio State,L,3,3,100.0,2,2,100.0,9,kenneth-allen-1
+Rodrigo Blankenship,2016-11-26,12,Georgia,,Georgia Tech,L,3,3,100.0,2,3,66.7,9,rodrigo-blankenship-1
+Matt Boermeester,2016-11-26,12,Southern California,,Notre Dame,W,6,6,100.0,1,1,100.0,9,matt-boermeester-1
+Wyatt Bryan,2016-11-26,12,Colorado State,@,San Diego State,W,9,9,100.0,0,0,,9,wyatt-bryan-1
+Tyler Davis,2016-11-26,12,Penn State,,Michigan State,W,6,6,100.0,1,1,100.0,9,tyler-davis-3
+Victor Falcon,2016-11-26,12,Texas-San Antonio,,UNC Charlotte,W,3,3,100.0,2,3,66.7,9,victor-falcon-1
+Bennett Moehring,2016-11-26,11,Navy,@,Southern Methodist,W,9,11,81.8,0,0,,9,bennett-moehring-1
+Tommy Openshaw,2016-11-26,12,Vanderbilt,,Tennessee,W,6,6,100.0,1,1,100.0,9,tommy-openshaw-1
+Chris Blewitt,2016-11-26,12,Pittsburgh,,Syracuse,W,10,11,90.9,0,0,,10,chris-blewitt-1
+Bryce Crawford,2016-11-26,12,San Jose State,@,Fresno State,W,1,1,100.0,3,3,100.0,10,bryce-crawford-1
+Ryan Kay,2016-11-26,11,Troy,@,Texas State,W,4,5,80.0,2,2,100.0,10,ryan-kay-1
+Jay Mattox,2016-11-26,12,Texas-El Paso,,North Texas,W,7,7,100.0,1,1,100.0,10,jay-mattox-1
+Aaron Medley,2016-11-26,12,Tennessee,@,Vanderbilt,L,4,4,100.0,2,3,66.7,10,aaron-medley-1
+Andy Phillips,2016-11-26,12,Utah,@,Colorado,L,1,1,100.0,3,4,75.0,10,andy-phillips-2
+Joey Slye,2016-11-26,12,Virginia Tech,,Virginia,W,7,7,100.0,1,2,50.0,10,joey-slye-1
+Austin Macginnis,2016-11-26,12,Kentucky,@,Louisville,W,5,5,100.0,2,2,100.0,11,austin-macginnis-1
+Canon Rooker,2016-11-26,12,Middle Tennessee State,,Florida Atlantic,W,11,11,100.0,0,0,,11,canon-rooker-1
+Conrad Ukropina,2016-11-26,12,Stanford,,Rice,W,5,5,100.0,2,2,100.0,11,conrad-ukropina-1
+Brandon Behr,2016-11-26,12,South Florida,,Central Florida,W,6,6,100.0,2,3,66.7,12,brandon-behr-1
+Adam Griffith,2016-11-26,12,Alabama,,Auburn,W,3,3,100.0,3,3,100.0,12,adam-griffith-1
+Daniel Carlson,2016-11-26,12,Auburn,@,Alabama,L,0,0,,4,5,80.0,12,daniel-carlson-1
+Michael Geiger,2016-11-26,12,Michigan State,@,Penn State,L,0,0,,4,4,100.0,12,michael-geiger-1
+Cole Netten,2016-11-26,12,Iowa State,,West Virginia,L,1,1,100.0,4,4,100.0,13,cole-netten-1
+Spence Pettit,2016-11-26,12,Nevada,@,Nevada-Las Vegas,W,4,4,100.0,3,3,100.0,13,spence-pettit-1
+Michael Rubino,2016-11-26,12,Appalachian State,@,New Mexico State,W,4,4,100.0,3,4,75.0,13,michael-rubino-1
+Michael Badgley,2016-11-26,12,Miami (FL),,Duke,W,4,4,100.0,4,4,100.0,16,michael-badgley-1
+Skyler Simcox,2016-11-26,12,Western Kentucky,@,Marshall,W,7,7,100.0,3,3,100.0,16,skyler-simcox-1
+Matt Anderson,2016-11-26,12,California,,UCLA,W,3,3,100.0,5,5,100.0,18,matt-anderson-3
+Davis Price,2016-12-02,13,Colorado,N,Washington,L,1,1,100.0,0,0,,1,davis-price-1
+Chris Graham,2016-12-02,13,Colorado,N,Washington,L,0,0,,1,1,100.0,3,chris-graham-1
+Louie Zervos,2016-12-02,13,Ohio,N,Western Michigan,L,2,3,66.7,1,1,100.0,5,louie-zervos-1
+Cameron Van Winkle,2016-12-02,13,Washington,N,Colorado,W,5,5,100.0,2,2,100.0,11,cameron-van-winkle-1
+Butch Hampton,2016-12-02,13,Western Michigan,N,Ohio,W,2,2,100.0,5,5,100.0,17,butch-hampton-1
+Rogier Ten Lohuis,2016-12-03,12,Georgia State,@,Idaho,L,0,1,0.0,0,0,,0,rogier-ten-lohuis-1
+Brandon Wright,2016-12-03,12,Georgia State,@,Idaho,L,0,1,0.0,0,1,0.0,0,brandon-wright-3
+Andy Pappanastos,2016-12-03,13,Alabama,N,Florida,W,1,1,100.0,0,0,,1,andy-pappanastos-1
+Eddy Pineiro,2016-12-03,12,Florida,N,Alabama,L,2,2,100.0,0,0,,2,eddy-pineiro-1
+Marcus Ripley,2016-12-03,12,Texas State,,Arkansas State,L,2,2,100.0,0,1,0.0,2,marcus-ripley-1
+Chris Callahan,2016-12-03,12,Baylor,@,West Virginia,L,3,3,100.0,0,0,,3,chris-callahan-3
+Craig Ford,2016-12-03,12,Louisiana-Monroe,,Louisiana,L,0,0,,1,1,100.0,3,craig-ford-1
+Parker Davidson,2016-12-03,12,New Mexico State,@,South Alabama,L,4,4,100.0,0,0,,4,parker-davidson-1
+Younghoe Koo,2016-12-03,12,Georgia Southern,,Troy,W,4,4,100.0,0,0,,4,younghoe-koo-1
+Bennett Moehring,2016-12-03,12,Navy,,Temple,L,1,1,100.0,1,1,100.0,4,bennett-moehring-1
+Gavin Patterson,2016-12-03,12,South Alabama,,New Mexico State,W,5,5,100.0,0,0,,5,gavin-patterson-1
+Joey Slye,2016-12-03,13,Virginia Tech,N,Clemson,L,5,5,100.0,0,0,,5,joey-slye-1
+JD Houston,2016-12-03,12,Arkansas State,@,Texas State,W,3,5,60.0,1,1,100.0,6,jd-houston-1
+Greg Huegel,2016-12-03,13,Clemson,N,Virginia Tech,W,6,6,100.0,0,0,,6,greg-huegel-1
+Ryan Kay,2016-12-03,12,Troy,@,Georgia Southern,L,3,3,100.0,1,1,100.0,6,ryan-kay-1
+Mike Molina,2016-12-03,12,West Virginia,,Baylor,W,3,3,100.0,1,3,33.3,6,mike-molina-1
+Ian Patterson,2016-12-03,12,Kansas State,@,Texas Christian,W,3,4,75.0,1,1,100.0,6,ian-patterson-1
+Cooper Rothe,2016-12-03,13,Wyoming,,San Diego State,L,3,3,100.0,1,2,50.0,6,cooper-rothe-1
+Brandon Hatfield,2016-12-03,12,Texas Christian,,Kansas State,L,0,0,,2,2,100.0,6,brandon-hatfield-1
+Andrew Endicott,2016-12-03,13,Wisconsin,N,Penn State,L,4,4,100.0,1,2,50.0,7,andrew-endicott-1
+Tyler Davis,2016-12-03,13,Penn State,N,Wisconsin,W,5,5,100.0,1,1,100.0,8,tyler-davis-3
+Ben Grogan,2016-12-03,12,Oklahoma State,@,Oklahoma,L,2,2,100.0,2,3,66.7,8,ben-grogan-1
+Austin Seibert,2016-12-03,12,Oklahoma,,Oklahoma State,W,5,5,100.0,1,1,100.0,8,austin-seibert-1
+John Baron,2016-12-03,13,San Diego State,@,Wyoming,W,3,3,100.0,2,2,100.0,9,john-baron-1
+Aaron Boumerhi,2016-12-03,13,Temple,@,Navy,W,4,4,100.0,2,3,66.7,10,aaron-boumerhi-1
+Adam Griffith,2016-12-03,13,Alabama,N,Florida,W,5,6,83.3,2,3,66.7,11,adam-griffith-1
+Stevie Artigue,2016-12-03,12,Louisiana,@,Louisiana-Monroe,W,3,3,100.0,3,3,100.0,12,stevie-artigue-1
+Austin Rehkow,2016-12-03,12,Idaho,,Georgia State,W,4,4,100.0,3,4,75.0,13,austin-rehkow-1
+Jonathan Barnes,2016-12-03,13,Louisiana Tech,@,Western Kentucky,L,5,5,100.0,3,3,100.0,14,jonathan-barnes-1
+Skyler Simcox,2016-12-03,13,Western Kentucky,,Louisiana Tech,W,7,7,100.0,3,4,75.0,16,skyler-simcox-1
+Blake Wilson,2016-12-10,12,Army,N,Navy,W,3,3,100.0,0,0,,3,blake-wilson-1
+Bennett Moehring,2016-12-10,13,Navy,N,Army,L,2,2,100.0,1,1,100.0,5,bennett-moehring-1
+Stevie Artigue,2016-12-17,13,Louisiana,N,Southern Mississippi,L,3,3,100.0,0,0,,3,stevie-artigue-1
+Ty Cummings,2016-12-17,13,Houston,N,San Diego State,L,1,1,100.0,1,1,100.0,4,ty-cummings-1
+Parker Shaunfield,2016-12-17,13,Southern Mississippi,N,Louisiana,W,4,4,100.0,0,1,0.0,4,parker-shaunfield-1
+Jameson Vest,2016-12-17,13,Toledo,N,Appalachian State,L,4,4,100.0,0,1,0.0,4,jameson-vest-1
+Jason Sanders,2016-12-17,13,New Mexico,N,Texas-San Antonio,W,2,3,66.7,1,1,100.0,5,jason-sanders-1
+Michael Rubino,2016-12-17,13,Appalachian State,N,Toledo,W,4,4,100.0,1,1,100.0,7,michael-rubino-1
+Sawyer Williams,2016-12-17,13,Arkansas State,N,Central Florida,W,4,4,100.0,1,1,100.0,7,sawyer-williams-1
+Matthew Wright,2016-12-17,13,Central Florida,N,Arkansas State,L,1,1,100.0,2,2,100.0,7,matthew-wright-1
+Victor Falcon,2016-12-17,13,Texas-San Antonio,N,New Mexico,L,2,2,100.0,2,2,100.0,8,victor-falcon-1
+John Baron,2016-12-17,14,San Diego State,N,Houston,W,4,4,100.0,2,2,100.0,10,john-baron-1
+Brian Eavey,2016-12-19,13,Central Michigan,N,Tulsa,L,1,1,100.0,1,1,100.0,4,brian-eavey-1
+Redford Jones,2016-12-19,13,Tulsa,N,Central Michigan,W,7,7,100.0,2,2,100.0,13,redford-jones-1
+Jake Elliott,2016-12-20,13,Memphis,N,Western Kentucky,L,4,4,100.0,1,2,50.0,7,jake-elliott-1
+Skyler Simcox,2016-12-20,14,Western Kentucky,N,Memphis,W,6,7,85.7,1,2,50.0,9,skyler-simcox-1
+Cooper Rothe,2016-12-21,14,Wyoming,N,Brigham Young,L,3,3,100.0,0,0,,3,cooper-rothe-1
+Rhett Almond,2016-12-21,13,Brigham Young,N,Wyoming,W,3,3,100.0,1,1,100.0,6,rhett-almond-1
+Wyatt Bryan,2016-12-22,13,Colorado State,N,Idaho,L,6,6,100.0,0,0,,6,wyatt-bryan-1
+Austin Rehkow,2016-12-22,13,Idaho,N,Colorado State,W,7,9,77.8,0,0,,7,austin-rehkow-1
+Ryan Kay,2016-12-23,13,Troy,N,Ohio,W,4,4,100.0,0,1,0.0,4,ryan-kay-1
+Brad Davis,2016-12-23,13,Old Dominion,N,Eastern Michigan,W,3,3,100.0,1,1,100.0,6,brad-davis-3
+Paul Fricano,2016-12-23,13,Eastern Michigan,N,Old Dominion,L,2,2,100.0,2,2,100.0,8,paul-fricano-1
+Bennett Moehring,2016-12-23,14,Navy,N,Louisiana Tech,L,6,6,100.0,1,1,100.0,9,bennett-moehring-1
+Louie Zervos,2016-12-23,14,Ohio,N,Troy,L,2,2,100.0,3,4,75.0,11,louie-zervos-1
+Jonathan Barnes,2016-12-23,14,Louisiana Tech,N,Navy,W,6,6,100.0,2,2,100.0,12,jonathan-barnes-1
+Canon Rooker,2016-12-24,13,Middle Tennessee State,N,Hawaii,L,5,5,100.0,0,0,,5,canon-rooker-1
+Rigoberto Sanchez,2016-12-24,14,Hawaii,N,Middle Tennessee State,W,7,7,100.0,1,1,100.0,10,rigoberto-sanchez-1
+Nick Dowd,2016-12-26,13,Miami (OH),N,Mississippi State,L,1,2,50.0,1,2,50.0,4,nick-dowd-1
+Westin Graves,2016-12-26,13,Mississippi State,N,Miami (OH),W,2,2,100.0,1,1,100.0,5,westin-graves-1
+Connor Haskins,2016-12-26,13,North Carolina State,N,Vanderbilt,W,5,5,100.0,0,0,,5,connor-haskins-1
+Tommy Openshaw,2016-12-26,13,Vanderbilt,N,North Carolina State,L,2,2,100.0,1,2,50.0,5,tommy-openshaw-1
+Adam Greene,2016-12-26,13,Maryland,N,Boston College,L,3,3,100.0,1,1,100.0,6,adam-greene-1
+Mike Knoll,2016-12-26,13,Boston College,N,Maryland,W,3,5,60.0,1,2,50.0,6,mike-knoll-2
+Blake Wilson,2016-12-27,13,Army,N,North Texas,W,2,3,66.7,0,0,,2,blake-wilson-1
+Emmit Carpenter,2016-12-27,13,Minnesota,N,Washington State,W,2,2,100.0,1,1,100.0,5,emmit-carpenter-1
+Erik Powell,2016-12-27,13,Washington State,N,Minnesota,L,0,0,,2,2,100.0,6,erik-powell-1
+Tyler Rausa,2016-12-27,13,Boise State,N,Baylor,L,0,0,,2,2,100.0,6,tyler-rausa-1
+Chris Callahan,2016-12-27,13,Baylor,N,Boise State,W,4,4,100.0,1,1,100.0,7,chris-callahan-3
+Trevor Moore,2016-12-27,13,North Texas,N,Army,L,4,4,100.0,1,1,100.0,7,trevor-moore-1
+Mike Weaver,2016-12-27,13,Wake Forest,N,Temple,W,4,4,100.0,2,2,100.0,10,mike-weaver-1
+Aaron Boumerhi,2016-12-27,14,Temple,N,Wake Forest,L,2,2,100.0,4,4,100.0,14,aaron-boumerhi-1
+Mike Molina,2016-12-28,13,West Virginia,N,Miami (FL),L,2,2,100.0,0,0,,2,mike-molina-1
+Daniel LaCamera,2016-12-28,13,Texas A&M,N,Kansas State,L,4,4,100.0,0,1,0.0,4,daniel-lacamera-1
+Chris Blewitt,2016-12-28,13,Pittsburgh,N,Northwestern,L,3,3,100.0,1,2,50.0,6,chris-blewitt-1
+Griffin Oakes,2016-12-28,13,Indiana,N,Utah,L,3,3,100.0,1,2,50.0,6,griffin-oakes-1
+Michael Badgley,2016-12-28,13,Miami (FL),N,West Virginia,W,4,4,100.0,1,1,100.0,7,michael-badgley-1
+Jack Mitchell,2016-12-28,13,Northwestern,N,Pittsburgh,W,4,4,100.0,1,1,100.0,7,jack-mitchell-2
+Ian Patterson,2016-12-28,13,Kansas State,N,Texas A&M,W,3,4,75.0,2,2,100.0,9,ian-patterson-1
+Andy Phillips,2016-12-28,13,Utah,N,Indiana,W,2,2,100.0,4,4,100.0,14,andy-phillips-2
+Chris Graham,2016-12-29,14,Colorado,N,Oklahoma State,L,0,0,,0,1,0.0,0,chris-graham-1
+Joey Slye,2016-12-29,14,Virginia Tech,N,Arkansas,W,5,5,100.0,0,1,0.0,5,joey-slye-1
+Cole Hedlund,2016-12-29,13,Arkansas,N,Virginia Tech,L,3,3,100.0,1,1,100.0,6,cole-hedlund-1
+Elliot Fry,2016-12-29,13,South Carolina,N,South Florida,L,4,4,100.0,1,1,100.0,7,elliot-fry-1
+Brandon Behr,2016-12-29,13,South Florida,N,South Carolina,W,5,5,100.0,1,1,100.0,8,brandon-behr-1
+Ben Grogan,2016-12-29,13,Oklahoma State,N,Colorado,W,5,5,100.0,1,2,50.0,8,ben-grogan-1
+Gavin Patterson,2016-12-30,13,South Alabama,N,Air Force,L,3,3,100.0,0,0,,3,gavin-patterson-1
+Brandon Hatfield,2016-12-30,13,Texas Christian,N,Georgia,L,2,3,66.7,1,3,33.3,5,brandon-hatfield-1
+Nick Weiler,2016-12-30,13,North Carolina,N,Stanford,L,2,2,100.0,1,2,50.0,5,nick-weiler-1
+Drew Brown,2016-12-30,13,Nebraska,N,Tennessee,L,3,3,100.0,1,1,100.0,6,drew-brown-1
+Rodrigo Blankenship,2016-12-30,13,Georgia,N,Texas Christian,W,4,4,100.0,1,2,50.0,7,rodrigo-blankenship-1
+Aaron Medley,2016-12-30,13,Tennessee,N,Nebraska,W,5,5,100.0,1,1,100.0,8,aaron-medley-1
+Ricky Aguayo,2016-12-30,13,Florida State,N,Michigan,W,3,4,75.0,2,2,100.0,9,ricky-aguayo-1
+Kenneth Allen,2016-12-30,13,Michigan,N,Florida State,L,1,1,100.0,3,3,100.0,10,kenneth-allen-1
+Luke Strebel,2016-12-30,13,Air Force,N,South Alabama,W,4,4,100.0,3,3,100.0,13,luke-strebel-1
+Conrad Ukropina,2016-12-30,13,Stanford,N,North Carolina,W,1,1,100.0,4,5,80.0,13,conrad-ukropina-1
+Tyler Durbin,2016-12-31,13,Ohio State,N,Clemson,L,0,0,,0,2,0.0,0,tyler-durbin-1
+Cameron Van Winkle,2016-12-31,14,Washington,N,Alabama,L,1,1,100.0,0,0,,1,cameron-van-winkle-1
+Austin Macginnis,2016-12-31,13,Kentucky,N,Georgia Tech,L,1,1,100.0,1,1,100.0,4,austin-macginnis-1
+Adam Griffith,2016-12-31,14,Alabama,N,Washington,W,3,3,100.0,1,1,100.0,6,adam-griffith-1
+Greg Huegel,2016-12-31,14,Clemson,N,Ohio State,W,4,4,100.0,1,2,50.0,7,greg-huegel-1
+Colby Delahoussaye,2016-12-31,12,Louisiana State,N,Louisville,W,3,3,100.0,2,3,66.7,9,colby-delahoussaye-1
+Blaton Creque,2016-12-31,13,Louisville,N,Louisiana State,L,0,0,,3,3,100.0,9,blaton-creque-1
+Harrison Butker,2016-12-31,13,Georgia Tech,N,Kentucky,W,3,3,100.0,4,4,100.0,15,harrison-butker-1
+Keith Duncan,2017-01-02,13,Iowa,N,Florida,L,0,0,,1,2,50.0,3,keith-duncan-1
+Butch Hampton,2017-01-02,14,Western Michigan,N,Wisconsin,L,1,2,50.0,1,1,100.0,4,butch-hampton-1
+Austin Seibert,2017-01-02,13,Oklahoma,N,Auburn,W,5,5,100.0,0,1,0.0,5,austin-seibert-1
+Andrew Endicott,2017-01-02,14,Wisconsin,N,Western Michigan,W,3,3,100.0,1,1,100.0,6,andrew-endicott-1
+Daniel Carlson,2017-01-02,13,Auburn,N,Oklahoma,L,1,1,100.0,2,2,100.0,7,daniel-carlson-1
+Tyler Davis,2017-01-02,14,Penn State,N,Southern California,L,7,7,100.0,0,0,,7,tyler-davis-3
+Eddy Pineiro,2017-01-02,13,Florida,N,Iowa,W,3,3,100.0,3,3,100.0,12,eddy-pineiro-1
+Matt Boermeester,2017-01-02,13,Southern California,N,Penn State,W,5,5,100.0,3,5,60.0,14,matt-boermeester-1
+Greg Huegel,2017-01-09,15,Clemson,N,Alabama,W,5,5,100.0,0,0,,5,greg-huegel-1
+Adam Griffith,2017-01-09,15,Alabama,N,Clemson,L,4,4,100.0,1,1,100.0,7,adam-griffith-1

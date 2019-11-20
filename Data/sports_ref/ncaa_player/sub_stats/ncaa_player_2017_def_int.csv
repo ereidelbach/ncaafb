@@ -1,0 +1,1372 @@
+Player,Date,G,School,Loc,Opponent,WL,Int Ret,Int Ret Yds,Int TD,Pass Broken Up,unique_id
+Devin Abraham,2017-08-26,1,South Florida,@,San Jose State,W,1,27,0,1,devin-abraham-1
+Zayne Anderson,2017-08-26,1,Brigham Young,,Portland State,W,1,27,0,0,zayne-anderson-1
+Anthony Hawkins,2017-08-26,1,Colorado State,,Oregon State,W,1,14,0,2,anthony-hawkins-1
+Solomon Matautia,2017-08-26,1,Hawaii,@,Massachusetts,W,1,1,0,0,solomon-matautia-1
+Isaiah Rodgers,2017-08-26,1,Massachusetts,,Hawaii,L,1,0,0,1,isaiah-rodgers-1
+Nico Sawtelle,2017-08-26,1,South Florida,@,San Jose State,W,1,0,0,0,nico-sawtelle-1
+Jovan Swann,2017-08-26,1,Stanford,N,Rice,W,1,2,0,0,jovan-swann-1
+Tre Thomas,2017-08-26,1,Colorado State,,Oregon State,W,1,44,1,0,tre-thomas-2
+Josh Watson,2017-08-26,1,Colorado State,,Oregon State,W,1,3,0,0,josh-watson-2
+Kyle White,2017-08-26,1,Oregon State,@,Colorado State,L,1,0,0,0,kyle-white-4
+Mazzi Wilkins,2017-08-26,1,South Florida,@,San Jose State,W,1,21,0,2,mazzi-wilkins-1
+Julian Blackmon,2017-08-31,1,Utah,,North Dakota,W,1,17,0,2,julian-blackmon-1
+Alex Briones,2017-08-31,1,Central Michigan,,Rhode Island,W,1,-5,0,0,alex-briones-1
+Joey Bryant,2017-08-31,1,Arizona State,,New Mexico State,W,1,0,0,1,joey-bryant-1
+Amari Coleman,2017-08-31,1,Central Michigan,,Rhode Island,W,2,0,0,0,amari-coleman-1
+Josh Cox,2017-08-31,1,Central Michigan,,Rhode Island,W,2,0,0,1,josh-cox-1
+Olin Cushion,2017-08-31,1,Florida International,@,Central Florida,L,1,33,0,0,olin-cushion-1
+Jordan Fuller,2017-08-31,1,Ohio State,@,Indiana,W,1,40,0,0,jordan-fuller-1
+Austin Hall,2017-08-31,1,Memphis,,Louisiana-Monroe,W,1,0,0,0,austin-hall-3
+Jacob Huff,2017-08-31,1,Minnesota,,Buffalo,W,1,0,0,0,jacob-huff-1
+Darwyn Kelly,2017-08-31,1,Central Michigan,,Rhode Island,W,1,0,0,0,darwyn-kelly-1
+Cameron Lewis,2017-08-31,1,Buffalo,@,Minnesota,L,1,0,0,1,cameron-lewis-1
+Tre Neal,2017-08-31,1,Central Florida,,Florida International,W,1,29,0,0,tre-neal-1
+Kahlil Robinson,2017-08-31,1,Toledo,,Elon,W,1,0,0,0,kahlil-robinson-1
+Justin Strnad,2017-08-31,1,Wake Forest,,Presbyterian,W,1,22,0,0,justin-strnad-1
+Collin Turner,2017-08-31,1,Louisiana-Monroe,@,Memphis,L,1,18,0,2,collin-turner-1
+Denzel Ward,2017-08-31,1,Ohio State,@,Indiana,W,1,0,0,5,denzel-ward-3
+Kobe Williams,2017-08-31,1,Arizona State,,New Mexico State,W,1,49,1,1,kobe-williams-1
+Bryan Wright,2017-08-31,1,Cincinnati,,Austin Peay,W,1,2,0,0,bryan-wright-5
+Jason Beck,2017-09-01,1,Eastern Michigan,,UNC Charlotte,W,1,0,0,0,jason-beck-2
+Lukas Denis,2017-09-01,1,Boston College,@,Northern Illinois,W,1,0,0,2,lukas-denis-1
+D'Cota Dixon,2017-09-01,1,Wisconsin,,Utah State,W,1,-1,0,0,dcota-dixon-1
+T.J. Edwards,2017-09-01,1,Wisconsin,,Utah State,W,1,7,0,2,tj-edwards-3
+Joe Ferguson,2017-09-01,1,Wisconsin,,Utah State,W,1,99,1,0,joe-ferguson-2
+Brody Hoying,2017-09-01,1,Eastern Michigan,,UNC Charlotte,W,1,35,1,2,brody-hoying-1
+Jaylon McClinton,2017-09-01,1,Army,,Fordham,W,1,27,0,0,jaylon-mcclinton-1
+Justin Moody,2017-09-01,1,Eastern Michigan,,UNC Charlotte,W,1,11,0,0,justin-moody-2
+Byron Murphy,2017-09-01,1,Washington,@,Rutgers,W,2,17,0,0,byron-murphy-1
+Kevin Nutt Jr.,2017-09-01,2,Colorado State,N,Colorado,L,2,0,0,0,kevin-nutt-jr-1
+Noruwa Obanor,2017-09-01,1,Navy,@,Florida Atlantic,W,1,-2,0,0,noruwa-obanor-1
+Kyle Pugh,2017-09-01,1,Northern Illinois,,Boston College,L,1,0,0,0,kyle-pugh-1
+Ed Rolle,2017-09-01,1,UNC Charlotte,@,Eastern Michigan,L,1,0,0,0,ed-rolle-1
+Micah Thomas,2017-09-01,1,Navy,@,Florida Atlantic,W,1,25,0,1,micah-thomas-2
+Chris Tooley,2017-09-01,1,Florida Atlantic,,Navy,L,1,0,0,1,chris-tooley-1
+Trey Udoffia,2017-09-01,1,Colorado,N,Colorado State,W,1,0,0,2,trey-udoffia-1
+Evan Worthington,2017-09-01,1,Colorado,N,Colorado State,W,1,0,0,0,evan-worthington-1
+Devin Abraham,2017-09-02,2,South Florida,,Stony Brook,W,1,25,0,0,devin-abraham-1
+Joshua Allen,2017-09-02,1,Miami (OH),@,Marshall,L,1,0,0,0,joshua-allen-1
+Johnathan Alston,2017-09-02,1,North Carolina State,N,South Carolina,L,1,0,0,0,johnathan-alston-1
+Ugo Amadi,2017-09-02,1,Oregon,,Southern Utah,W,1,0,0,1,ugo-amadi-1
+Sam Beal,2017-09-02,1,Western Michigan,@,Southern California,L,1,0,0,1,sam-beal-1
+Shawn Boone,2017-09-02,1,North Carolina State,N,South Carolina,L,1,0,0,0,shawn-boone-1
+Jay Bowdry,2017-09-02,1,Georgia Southern,@,Auburn,L,1,0,0,0,jay-bowdry-1
+Marvin Branch,2017-09-02,1,Old Dominion,,Albany,W,1,0,0,1,marvin-branch-1
+Blace Brown,2017-09-02,1,Troy,@,Boise State,L,1,53,1,0,blace-brown-1
+Derron Brown,2017-09-02,1,California,@,North Carolina,W,1,3,0,0,derron-brown-2
+Christian Campbell,2017-09-02,1,Penn State,,Akron,W,1,0,0,0,christian-campbell-1
+Logan Cheadle,2017-09-02,1,Missouri,,Missouri State,W,1,-5,0,1,logan-cheadle-1
+Donte Coleman,2017-09-02,1,Fresno State,,Incarnate Word,W,1,0,0,0,donte-coleman-1
+Bryce Cosby,2017-09-02,1,Ball State,@,Illinois,L,1,0,0,0,bryce-cosby-1
+Kamari Cotton-Moya,2017-09-02,1,Iowa State,,Northern Iowa,W,1,22,1,0,kamari-cotton-moya-1
+Duke Dawson,2017-09-02,1,Florida,N,Michigan,L,1,48,1,0,duke-dawson-1
+Devante Downs,2017-09-02,1,California,@,North Carolina,W,1,39,0,0,devante-downs-1
+Troy Dye,2017-09-02,1,Oregon,,Southern Utah,W,1,5,0,1,troy-dye-1
+Jordan Fehr,2017-09-02,1,Appalachian State,@,Georgia,L,1,0,0,0,jordan-fehr-1
+Tyrin Ferguson,2017-09-02,1,Nebraska,,Arkansas State,W,1,0,0,0,tyrin-ferguson-1
+Bryon Fields,2017-09-02,1,Duke,,North Carolina Central,W,1,28,1,1,bryon-fields-1
+Demetrius Flannigan-Fowles,2017-09-02,1,Arizona,,Northern Arizona,W,2,0,0,0,demetrius-flannigan-fowles-1
+Desmond Franklin,2017-09-02,1,Appalachian State,@,Georgia,L,1,26,0,0,desmond-franklin-1
+Bobby Fulp,2017-09-02,1,East Carolina,,James Madison,L,1,-3,0,0,bobby-fulp-1
+Rico Gafford,2017-09-02,1,Wyoming,@,Iowa,L,1,0,0,0,rico-gafford-1
+Jacob Girgle,2017-09-02,1,New Mexico,,Abilene Christian,W,1,17,0,1,jacob-girgle-1
+Zach Guiser,2017-09-02,1,Akron,@,Penn State,L,1,0,0,0,zach-guiser-1
+Willie Harvey,2017-09-02,1,Iowa State,,Northern Iowa,W,1,12,1,0,willie-harvey-1
+C.J. Henderson,2017-09-02,1,Florida,N,Michigan,L,1,41,1,0,cj-henderson-1
+Holton Hill,2017-09-02,1,Texas,,Maryland,L,1,31,1,0,holton-hill-1
+Manase Hungalu,2017-09-02,2,Oregon State,,Portland State,W,1,21,1,0,manase-hungalu-2
+Ridwan Issahaku,2017-09-02,1,Texas Christian,,Jackson State,W,1,53,1,1,ridwan-issahaku-1
+Chris Jackson,2017-09-02,1,Marshall,,Miami (OH),W,1,72,1,1,chris-jackson-9
+J.C. Jackson,2017-09-02,1,Maryland,@,Texas,W,1,0,0,0,jc-jackson-1
+Joshua Jackson,2017-09-02,1,Iowa,,Wyoming,W,1,41,0,1,joshua-jackson-3
+Mike Jones,2017-09-02,1,Temple,@,Notre Dame,L,1,43,0,1,mike-jones-25
+Tony Jones,2017-09-02,1,Texas Tech,,Eastern Washington,W,1,2,0,0,tony-jones-169
+Joshua Kalu,2017-09-02,1,Nebraska,,Arkansas State,W,1,0,0,1,joshua-kalu-1
+William LeMasters,2017-09-02,1,North Texas,,Lamar,W,1,0,0,2,william-lemasters-1
+Daniel Lewis Jr.,2017-09-02,2,Hawaii,,Western Carolina,W,1,24,0,1,daniel-lewis-jr-2
+Bryce Lewis,2017-09-02,1,Vanderbilt,@,Middle Tennessee State,W,1,28,0,0,bryce-lewis-1
+Donnie Lewis,2017-09-02,1,Tulane,,Grambling State,W,1,0,0,0,donnie-lewis-1
+Gabe McCoy,2017-09-02,1,Nevada-Las Vegas,,Howard,L,1,-1,0,0,gabe-mccoy-1
+Donnie Miles,2017-09-02,1,North Carolina,,California,L,1,0,0,0,donnie-miles-1
+Elijah Moody,2017-09-02,1,Nevada,@,Northwestern,L,1,3,0,1,elijah-moody-1
+Jalen Moore,2017-09-02,2,Oregon State,,Portland State,W,1,17,0,0,jalen-moore-1
+Kekoa Nawahine,2017-09-02,1,Boise State,,Troy,W,1,0,0,1,kekoa-nawahine-1
+Amani Oruwariye,2017-09-02,1,Penn State,,Akron,W,1,0,0,1,amani-oruwariye-1
+Chris Peace,2017-09-02,1,Virginia,,William & Mary,W,1,3,0,0,chris-peace-1
+Brian Peavy,2017-09-02,1,Iowa State,,Northern Iowa,W,1,0,0,1,brian-peavy-1
+Darius Phillips,2017-09-02,1,Western Michigan,@,Southern California,L,1,20,0,0,darius-phillips-1
+Kyle Queiro,2017-09-02,1,Northwestern,,Nevada,W,1,0,0,1,kyle-queiro-1
+D.J Reed,2017-09-02,1,Kansas State,,Central Arkansas,W,1,7,0,0,dj-reed-2
+Brady Reiff,2017-09-02,1,Iowa,,Wyoming,W,1,5,0,0,brady-reiff-1
+Quan Robinson,2017-09-02,1,Kent State,@,Clemson,L,1,10,0,0,quan-robinson-1
+Jake Rothschiller,2017-09-02,1,New Mexico,,Abilene Christian,W,1,91,1,0,jake-rothschiller-1
+Anthony Rush,2017-09-02,1,Alabama-Birmingham,,Alabama A&M,W,1,27,1,0,anthony-rush-1
+Andre Smith,2017-09-02,1,North Carolina,,California,L,1,73,0,1,andre-smith-7
+Ron Smith,2017-09-02,1,San Diego State,,California-Davis,W,1,5,0,0,ron-smith-4
+TreSean Smith,2017-09-02,1,Louisville,N,Purdue,W,1,0,0,0,tresean-smith-1
+Tyson Smith,2017-09-02,1,Michigan State,,Bowling Green State,W,1,38,1,0,tyson-smith-3
+Jacob Stafford,2017-09-02,1,Air Force,,Virginia Military Institute,W,1,0,0,0,jacob-stafford-1
+Willie Sykes,2017-09-02,1,Texas Tech,,Eastern Washington,W,1,33,1,1,willie-sykes-1
+Garrett Taylor,2017-09-02,1,Penn State,,Akron,W,1,0,0,0,garrett-taylor-1
+Marvell Tell III,2017-09-02,1,Southern California,,Western Michigan,W,1,37,1,1,marvell-tell-iii-1
+Daniel Thomas,2017-09-02,1,Auburn,,Georgia Southern,W,1,0,0,1,daniel-thomas-3
+Stacy Thomas,2017-09-02,1,Louisville,N,Purdue,W,1,61,1,1,stacy-thomas-1
+Zachary Thomas,2017-09-02,1,San Diego State,,California-Davis,W,1,0,0,0,zachary-thomas-1
+Jalen Thompson,2017-09-02,1,Washington State,,Montana State,W,1,0,0,0,jalen-thompson-2
+Bralen Trahan,2017-09-02,1,Louisiana,,Southeastern Louisiana,W,1,5,0,0,bralen-trahan-1
+Levi Wallace,2017-09-02,1,Alabama,N,Florida State,W,1,0,0,1,levi-wallace-1
+Dae'Von Washington,2017-09-02,1,Louisiana Tech,,Northwestern State,W,2,26,0,0,daevon-washington-1
+Tre Watson,2017-09-02,1,Illinois,,Ball State,W,1,21,0,0,tre-watson-3
+Mazzi Wilkins,2017-09-02,2,South Florida,,Stony Brook,W,1,0,0,0,mazzi-wilkins-1
+Chucky Williams,2017-09-02,1,Louisville,N,Purdue,W,1,0,0,0,chucky-williams-1
+Greedy Williams,2017-09-02,1,Louisiana State,N,Brigham Young,W,1,0,0,0,greedy-williams-1
+Mack Wilson,2017-09-02,1,Alabama,N,Florida State,W,1,0,0,0,mack-wilson-1
+Jordan Wyatt,2017-09-02,1,Southern Methodist,,Stephen F. Austin,W,1,85,1,0,jordan-wyatt-1
+Malek Young,2017-09-02,1,Miami (FL),,Bethune-Cookman,W,1,24,0,0,malek-young-1
+Trevon Hill,2017-09-03,1,Virginia Tech,N,West Virginia,W,1,8,0,0,trevon-hill-1
+Jalen Davis,2017-09-07,2,Utah State,,Idaho State,W,2,25,1,1,jalen-davis-1
+Justin Phillips,2017-09-08,2,Oklahoma State,@,South Alabama,W,1,25,1,0,justin-phillips-2
+Kendall Adams,2017-09-09,2,Kansas State,,UNC Charlotte,W,1,30,1,0,kendall-adams-1
+Mycial Allen,2017-09-09,2,Northern Illinois,,Eastern Illinois,W,1,17,0,0,mycial-allen-1
+Bryson Allen-Williams,2017-09-09,2,South Carolina,@,Missouri,W,1,0,0,1,bryson-allen-williams-1
+Ugo Amadi,2017-09-09,2,Oregon,,Nebraska,W,1,21,0,0,ugo-amadi-1
+Troy Apke,2017-09-09,2,Penn State,,Pittsburgh,W,1,1,0,0,tony-apke-1
+Cornell Armstrong,2017-09-09,2,Southern Mississippi,,Southern,W,1,46,1,0,cornell-armstrong-1
+Lawrence Austin,2017-09-09,2,Georgia Tech,,Jacksonville State,W,1,21,0,1,lawrence-austin-1
+Anthony Averett,2017-09-09,2,Alabama,,Fresno State,W,1,30,0,0,anthony-averett-1
+Essang Bassey,2017-09-09,2,Wake Forest,@,Boston College,W,1,30,1,0,essang-bassey-1
+Jessie Bates,2017-09-09,2,Wake Forest,@,Boston College,W,1,37,0,0,jessie-bates-1
+Reed Blankenship,2017-09-09,2,Middle Tennessee State,@,Syracuse,W,1,0,0,0,reed-blankenship-1
+Antoine Brooks,2017-09-09,2,Maryland,,Towson,W,1,0,0,0,antoine-brooks-1
+Manny Bunch,2017-09-09,2,Tulsa,,Louisiana,W,1,0,0,0,manny-bunch-1
+Oren Burks,2017-09-09,2,Vanderbilt,,Alabama A&M,W,1,9,0,0,oren-burks-1
+Lorenzo Burns,2017-09-09,2,Arizona,,Houston,L,1,0,0,0,lorenzo-burns-1
+Sean Constantine,2017-09-09,2,Washington,,Montana,W,1,4,0,0,sean-constantine-1
+Josh Cox,2017-09-09,2,Central Michigan,@,Kansas,W,1,11,0,0,josh-cox-1
+Garrett Davis,2017-09-09,1,Houston,@,Arizona,W,1,0,0,0,garrett-davis-1
+Tyrel Dodson,2017-09-09,2,Texas A&M,,Nicholls State,W,1,1,0,0,tyrel-dodson-1
+Jomon Dotson,2017-09-09,2,Washington,,Montana,W,1,68,1,0,jomon-dotson-1
+Step Durham,2017-09-09,2,Georgia Tech,,Jacksonville State,W,1,0,0,0,step-durham-1
+Cooper Edmiston,2017-09-09,2,Tulsa,,Louisiana,W,1,0,0,0,cooper-edmiston-1
+Terrell Edmunds,2017-09-09,2,Virginia Tech,,Delaware,W,1,55,0,0,terrell-edmunds-1
+Mike Edwards,2017-09-09,2,Kentucky,,Eastern Kentucky,W,1,0,0,0,mike-edwards-8
+Demetrius Flannigan-Fowles,2017-09-09,2,Arizona,,Houston,L,1,5,0,0,demetrius-flannigan-fowles-1
+Nate Gaines,2017-09-09,1,Texas-San Antonio,@,Baylor,W,1,2,0,0,nate-gaines-1
+Demerick Gary,2017-09-09,2,Southern Methodist,,North Texas,W,1,3,0,1,demerick-gary-1
+Ulysees Gilbert III,2017-09-09,2,Akron,,Arkansas-Pine Bluff,W,1,30,1,0,ulysees-gilbert-iii-1
+Mark Gilbert,2017-09-09,2,Duke,,Northwestern,W,2,0,0,0,mark-gilbert-1
+Jacob Girgle,2017-09-09,2,New Mexico,,New Mexico State,L,1,17,0,1,jacob-girgle-1
+Cameron Glenn,2017-09-09,2,Wake Forest,@,Boston College,W,1,0,0,2,cameron-glenn-2
+Thomas Graham Jr.,2017-09-09,2,Oregon,,Nebraska,W,2,28,0,2,thomas-graham-jr-1
+Grant Haley,2017-09-09,2,Penn State,,Pittsburgh,W,1,42,0,1,grant-haley-1
+Ed Hall,2017-09-09,2,Idaho,,Nevada-Las Vegas,L,1,10,0,0,ed-hall-2
+Kemon Hall,2017-09-09,2,North Texas,@,Southern Methodist,L,1,0,0,2,kemon-hall-1
+Javien Hamilton,2017-09-09,2,Mississippi,,Tennessee-Martin,W,1,0,0,0,javien-hamilton-1
+Jeremiah Harris,2017-09-09,2,Eastern Michigan,@,Rutgers,W,1,-4,0,1,jeremiah-harris-1
+Parker Hesse,2017-09-09,2,Iowa,@,Iowa State,W,1,13,0,0,parker-hesse-1
+Jamal Hicks,2017-09-09,3,Colorado State,,Abilene Christian,W,2,11,0,0,jamal-hicks-1
+Holton Hill,2017-09-09,2,Texas,,San Jose State,W,1,45,1,1,holton-hill-1
+Lavert Hill,2017-09-09,2,Michigan,,Cincinnati,W,1,24,1,0,lavert-hill-1
+Boobie Hobbs,2017-09-09,2,Utah,@,Brigham Young,W,1,29,0,0,boobie-hobbs-1
+Alijah Holder,2017-09-09,2,Stanford,@,Southern California,L,1,32,0,0,alijah-holder-1
+Darnay Holmes,2017-09-09,2,UCLA,,Hawaii,W,1,30,1,0,darnay-holmes-1
+Tyler Horton,2017-09-09,2,Boise State,@,Washington State,L,1,0,0,2,tyler-horton-1
+Brody Hoying,2017-09-09,2,Eastern Michigan,@,Rutgers,W,1,71,0,0,brody-hoying-1
+Dane Jackson,2017-09-09,2,Pittsburgh,@,Penn State,L,1,2,0,0,dane-jackson-1
+Jaylon Johnson,2017-09-09,2,Utah,@,Brigham Young,W,1,0,0,2,jaylon-johnson-1
+Julian Jones,2017-09-09,2,Illinois,,Western Kentucky,W,1,10,1,0,julian-jones-4
+Antwon Kincade,2017-09-09,2,Western Kentucky,@,Illinois,L,1,1,0,0,antwon-kincade-1
+Tyree Kinnel,2017-09-09,2,Michigan,,Cincinnati,W,1,28,1,0,tyree-kinnel-1
+Ron LaForce,2017-09-09,2,New Mexico State,@,New Mexico,W,2,29,0,0,ron-laforce-1
+John Lako,2017-09-09,2,Akron,,Arkansas-Pine Bluff,W,1,0,0,0,john-lako-1
+Leighton McCarthy,2017-09-09,2,Florida Atlantic,@,Wisconsin,L,1,15,0,0,leighton-mccarthy-1
+Mark McLaurin,2017-09-09,2,Mississippi State,@,Louisiana Tech,W,1,32,0,1,mark-mclaurin-1
+Elijah McQueen,2017-09-09,2,Southern Methodist,,North Texas,W,1,0,0,0,elijah-mcqueen-1
+Durrant Miles,2017-09-09,2,Boise State,@,Washington State,L,1,0,0,0,durrant-miles-1
+Filipo Mokofisi,2017-09-09,2,Utah,@,Brigham Young,W,1,6,0,1,filipo-mokofisi-2
+Demetrius Monday,2017-09-09,2,Kent State,,Howard,W,1,-4,0,0,demetrius-monday-1
+Airius Moore,2017-09-09,2,North Carolina State,,Marshall,W,1,4,0,1,airius-moore-1
+Cre Moore,2017-09-09,2,Kansas State,,UNC Charlotte,W,1,0,0,0,cre-moore-1
+Tarvarius Moore,2017-09-09,2,Southern Mississippi,,Southern,W,1,0,0,1,tarvarius-moore-1
+Parnell Motley,2017-09-09,2,Oklahoma,@,Ohio State,W,1,0,0,1,parnell-motley-1
+Parry Nickerson,2017-09-09,2,Tulane,@,Navy,L,1,8,0,0,parry-nickerson-1
+Dayo Odeyingbo,2017-09-09,2,Vanderbilt,,Alabama A&M,W,1,0,0,0,dayo-odeyingbo-1
+Isaiah Oliver,2017-09-09,2,Colorado,,Texas State,W,1,41,0,1,isaiah-oliver-1
+Peyton Pelluer,2017-09-09,2,Washington State,,Boise State,W,1,36,1,0,peyton-pelluer-1
+Darius Phillips,2017-09-09,2,Western Michigan,@,Michigan State,L,1,0,0,3,darius-phillips-1
+Santos Ramirez,2017-09-09,2,Arkansas,,Texas Christian,L,1,16,0,1,santos-ramirez-1
+Justin Reid,2017-09-09,2,Stanford,@,Southern California,L,1,0,0,0,justin-reid-1
+Tony Reid,2017-09-09,2,Miami (OH),,Austin Peay,W,1,0,0,0,tony-reid-1
+Amik Robertson,2017-09-09,2,Louisiana Tech,,Mississippi State,L,1,61,0,1,amik-robertson-1
+Tyree Robinson,2017-09-09,2,Oregon,,Nebraska,W,1,35,0,0,tyree-robinson-2
+Darnell Savage Jr.,2017-09-09,2,Maryland,,Towson,W,1,75,1,0,darnell-savage-jr-1
+Chauncey Scissum,2017-09-09,2,Nevada-Las Vegas,@,Idaho,W,1,23,0,0,chauncey-scissum-1
+Tyjuan Swain,2017-09-09,2,Central Michigan,@,Kansas,W,1,0,0,0,tyjuan-swain-1
+Jonathan Thomas,2017-09-09,2,Syracuse,,Middle Tennessee State,L,1,15,0,1,jonathan-thomas-2
+Juan Thornhill,2017-09-09,2,Virginia,,Indiana,L,1,0,0,0,juan-thornhill-1
+Drue Tranquill,2017-09-09,2,Notre Dame,,Georgia,L,1,0,0,0,drue-tranquill-1
+Kary Vincent Jr.,2017-09-09,2,Louisiana State,,Chattanooga,W,1,0,0,0,kary-vincent-jr-1
+Kyzir White,2017-09-09,2,West Virginia,,East Carolina,W,2,1,0,1,kyzir-white-1
+Aaron Williams,2017-09-09,2,Nebraska,@,Oregon,L,1,27,0,0,aaron-williams-10
+Greedy Williams,2017-09-09,2,Louisiana State,,Chattanooga,W,1,0,0,3,greedy-williams-1
+Jamyest Williams,2017-09-09,2,South Carolina,@,Missouri,W,1,1,0,1,jamyest-williams-1
+Mykelti Williams,2017-09-09,2,Northern Illinois,,Eastern Illinois,W,1,10,0,0,mykelti-williams-1
+Andrew Wingard,2017-09-09,2,Wyoming,,Gardner-Webb,W,1,0,0,0,andrew-wingard-1
+Jawuan Woodley,2017-09-09,2,Toledo,@,Nevada,W,1,7,0,0,jawuan-woodley-1
+Leighton Vander Esch,2017-09-14,3,Boise State,,New Mexico,W,1,2,0,1,leighton-vander-esch-1
+Tony Adams,2017-09-15,3,Illinois,@,South Florida,L,1,0,0,0,tony-adams-6
+Tajee Fullwood,2017-09-15,3,South Florida,,Illinois,W,1,42,0,0,tajee-fullwood-1
+Ronnie Hoggins,2017-09-15,3,South Florida,,Illinois,W,1,12,0,0,ronnie-hoggins-1
+Keirston Johnson,2017-09-15,3,South Florida,,Illinois,W,1,0,0,1,keirston-johnson-1
+Colin Schooler,2017-09-15,3,Arizona,@,Texas-El Paso,W,1,53,0,0,colin-schooler-1
+Marcus Allen,2017-09-16,3,Penn State,,Georgia State,W,1,50,0,0,marcus-allen-5
+Johnathan Alston,2017-09-16,3,North Carolina State,,Furman,W,1,0,0,0,johnathan-alston-1
+Cedric Asseh,2017-09-16,3,Miami (OH),,Cincinnati,L,1,46,0,0,cedric-asseh-1
+Markus Bailey,2017-09-16,3,Purdue,@,Missouri,W,1,22,0,0,markus-bailey-1
+Derrick Baity,2017-09-16,3,Kentucky,@,South Carolina,W,1,3,0,0,derrick-baity-1
+Thomas Barber,2017-09-16,3,Minnesota,,Middle Tennessee State,W,1,0,0,0,thomas-barber-1
+Tevis Bartlett,2017-09-16,3,Washington,,Fresno State,W,1,24,0,1,tevis-bartlett-1
+Rashawn Battle,2017-09-16,3,Rutgers,,Morgan State,W,1,25,0,0,rashawn-battle-1
+Trevon Bierria,2017-09-16,4,San Jose State,@,Utah,L,1,2,0,0,trevon-bierria-1
+Henry Black,2017-09-16,3,Baylor,@,Duke,L,1,0,0,0,henry-black-1
+Julian Blackmon,2017-09-16,3,Utah,,San Jose State,W,1,0,0,0,julian-blackmon-1
+Shawn Boone,2017-09-16,3,North Carolina State,,Furman,W,1,47,1,0,shawn-boone-1
+Alex Briones,2017-09-16,3,Central Michigan,@,Syracuse,L,1,0,0,0,alex-briones-1
+Joe Brown,2017-09-16,3,Western Kentucky,,Louisiana Tech,L,1,0,0,1,joe-brown-4
+Dontye Carriere-Williams,2017-09-16,3,Wisconsin,@,Brigham Young,W,1,0,0,0,dontye-carriere-williams-1
+Terrell Carter,2017-09-16,2,Memphis,,UCLA,W,1,42,0,1,terrell-carter-1
+Tariq Castro-Fields,2017-09-16,3,Penn State,,Georgia State,W,1,0,0,0,tariq-castro-fields-1
+Malik Clements,2017-09-16,3,Cincinnati,@,Miami (OH),W,1,14,1,0,malik-clements-1
+Josh Corcoran,2017-09-16,3,Northern Illinois,@,Nebraska,W,1,9,0,0,josh-corcoran-1
+Tyler Coyle,2017-09-16,2,Connecticut,@,Virginia,L,1,0,0,0,tyler-coyle-1
+Shaun Crawford,2017-09-16,3,Notre Dame,@,Boston College,W,2,0,0,1,shaun-crawford-1
+Tevin Crews,2017-09-16,3,Alabama-Birmingham,,Coastal Carolina,W,1,17,0,0,tevin-crews-1
+Duke Dawson,2017-09-16,2,Florida,,Tennessee,W,1,0,0,2,duke-dawson-1
+Lukas Denis,2017-09-16,3,Boston College,,Notre Dame,L,1,18,0,1,lukas-denis-1
+Mar'Sean Diggs,2017-09-16,3,Alabama-Birmingham,,Coastal Carolina,W,1,0,0,1,marsean-diggs-1
+Tyrel Dodson,2017-09-16,3,Texas A&M,,Louisiana,W,1,40,1,0,tyrel-dodson-1
+Devante Downs,2017-09-16,3,California,,Mississippi,W,1,0,0,0,devante-downs-1
+Clifton Duck,2017-09-16,3,Appalachian State,@,Texas State,W,1,41,0,1,clifton-duck-1
+Mike Edwards,2017-09-16,3,Kentucky,@,South Carolina,W,1,1,0,0,mike-edwards-8
+T.J. Edwards,2017-09-16,3,Wisconsin,@,Brigham Young,W,1,2,0,0,tj-edwards-3
+DeShon Elliott,2017-09-16,3,Texas,@,Southern California,L,2,62,1,2,deshon-elliott-1
+Tre Flowers,2017-09-16,3,Oklahoma State,@,Pittsburgh,W,1,7,0,0,tre-flowers-1
+Tyshon Fogg,2017-09-16,3,Rutgers,,Morgan State,W,1,5,0,0,tyshon-fogg-1
+Evan Foster,2017-09-16,3,Syracuse,,Central Michigan,W,1,24,1,0,evan-foster-1
+Jalen Fox,2017-09-16,3,Ohio,,Kansas,W,1,13,0,3,jalen-fox-1
+Christopher Frederick,2017-09-16,3,Syracuse,,Central Michigan,W,1,23,0,1,christopher-frederick-1
+Rico Gafford,2017-09-16,3,Wyoming,,Oregon,L,1,8,0,0,rico-gafford-1
+Rashaan Gaulden,2017-09-16,3,Tennessee,@,Florida,L,1,0,0,1,rashaan-gaulden-1
+Joe Giles-Harris,2017-09-16,3,Duke,,Baylor,W,1,10,0,0,joe-giles-harris-1
+Cameron Glenn,2017-09-16,3,Wake Forest,,Utah State,W,1,16,0,0,cameron-glenn-2
+Cameron Goode,2017-09-16,3,California,,Mississippi,W,1,32,1,1,cameron-goode-1
+Grant Haley,2017-09-16,3,Penn State,,Georgia State,W,1,4,0,0,grant-haley-1
+Kamal Hardy,2017-09-16,3,Purdue,@,Missouri,W,1,34,0,0,kamal-hardy-1
+Ronnie Harrison,2017-09-16,3,Alabama,,Colorado State,W,1,0,0,0,ronnie-harrison-1
+Tim Hart,2017-09-16,2,Memphis,,UCLA,W,1,60,1,0,tim-hart-1
+Jaylinn Hawkins,2017-09-16,3,California,,Mississippi,W,1,22,0,0,jaylinn-hawkins-1
+C.J. Henderson,2017-09-16,2,Florida,,Tennessee,W,1,16,1,0,cj-henderson-1
+Dravon Henry,2017-09-16,3,West Virginia,,Delaware State,W,1,24,0,0,dravon-henry-1
+Kiy Hester,2017-09-16,3,Rutgers,,Morgan State,W,1,10,0,2,kiy-hester-1
+Anthony Hickey,2017-09-16,2,Texas-San Antonio,,Southern,W,1,0,0,0,anthony-hickey-1
+A.J. Hotchkins,2017-09-16,3,Oregon,@,Wyoming,W,1,3,0,0,aj-hotchkins-1
+Travin Howard,2017-09-16,3,Texas Christian,,Southern Methodist,W,1,19,1,0,travin-howard-1
+Khaleke Hudson,2017-09-16,3,Michigan,,Air Force,W,1,0,0,2,khaleke-hudson-1
+Jacob Huff,2017-09-16,3,Minnesota,,Middle Tennessee State,W,1,67,1,1,jacob-huff-1
+Albert Huggins,2017-09-16,3,Clemson,@,Louisville,W,1,0,0,0,albert-huggins-1
+Ben Humphreys,2017-09-16,3,Duke,,Baylor,W,1,22,1,0,ben-humphreys-1
+Chris Jackson,2017-09-16,3,Marshall,,Kent State,W,1,32,0,0,chris-jackson-9
+Joshua Jackson,2017-09-16,3,Iowa,,North Texas,W,1,5,0,2,joshua-jackson-3
+Obbie Jackson,2017-09-16,3,Western Michigan,,Idaho,W,1,0,0,0,obbie-jackson-1
+Jawuan Johnson,2017-09-16,3,Northern Illinois,@,Nebraska,W,1,25,1,0,jawuan-johnson-1
+Jalen Jones,2017-09-16,3,Southern California,,Texas,W,1,0,0,1,jalen-jones-2
+Laurence Hootie Jones,2017-09-16,3,Alabama,,Colorado State,W,1,65,0,0,laurence-hootie-jones-1
+Kameron Kelly,2017-09-16,3,San Diego State,,Stanford,W,1,0,0,0,kameron-kelly-1
+Joel Lanning,2017-09-16,3,Iowa State,@,Akron,W,1,19,0,1,joel-lanning-2
+Mike Lee,2017-09-16,3,Kansas,@,Ohio,L,1,0,0,1,mike-lee-6
+C.J. Levine,2017-09-16,2,Texas-San Antonio,,Southern,W,1,10,0,1,cj-levine-1
+Braxton Lewis,2017-09-16,3,Iowa State,@,Akron,W,1,39,0,0,braxton-lewis-1
+Shawun Lurry,2017-09-16,3,Northern Illinois,@,Nebraska,W,1,87,1,1,shawun-lurry-1
+Avonte Maddox,2017-09-16,3,Pittsburgh,,Oklahoma State,L,1,0,0,0,avonte-maddox-1
+Andrew Martel,2017-09-16,2,Texas-San Antonio,,Southern,W,1,-2,0,0,andrew-martel-1
+Jeremy McDuffie,2017-09-16,3,Duke,,Baylor,W,1,17,0,4,jeremy-mcduffie-1
+Josh Miller,2017-09-16,3,Ball State,,Tennessee Tech,W,1,0,0,0,josh-miller-4
+Fitzgerald Mofor,2017-09-16,3,Alabama-Birmingham,,Coastal Carolina,W,1,0,0,0,fitzgerald-mofor-1
+Demetrius Monday,2017-09-16,3,Kent State,@,Marshall,L,1,5,0,1,demetrius-monday-1
+De'Andre Montgomery,2017-09-16,3,Miami (OH),,Cincinnati,L,1,12,0,1,deandre-montgomery-1
+C.J. Moore,2017-09-16,3,Mississippi,@,California,L,2,15,0,0,cj-moore-2
+Skai Moore,2017-09-16,3,South Carolina,,Kentucky,L,1,17,0,0,skai-moore-1
+Parnell Motley,2017-09-16,3,Oklahoma,,Tulane,W,1,77,1,0,parnell-motley-1
+Gus Nave,2017-09-16,3,South Alabama,,Alabama A&M,W,1,0,0,0,gus-nave-1
+Brenton Nelson,2017-09-16,3,Virginia,,Connecticut,W,1,18,0,2,brenton-nelson-1
+Dorian O'Daniel,2017-09-16,3,Clemson,@,Louisville,W,1,44,1,0,dorian-odaniel-1
+Isaiah Oliver,2017-09-16,3,Colorado,,Northern Colorado,W,1,0,0,0,isaiah-oliver-1
+Justin Phillips,2017-09-16,3,Oklahoma State,@,Pittsburgh,W,1,10,1,1,justin-phillips-2
+Adarius Pickett,2017-09-16,3,UCLA,@,Memphis,L,1,1,0,1,adarius-pickett-1
+David Reese,2017-09-16,2,Florida,,Tennessee,W,1,4,0,0,david-reese-3
+David Rueth,2017-09-16,3,Ball State,,Tennessee Tech,W,1,0,0,0,david-rueth-1
+Ron Smith,2017-09-16,3,San Diego State,,Stanford,W,1,22,0,1,ron-smith-4
+Octavius Spencer,2017-09-16,3,UCLA,@,Memphis,L,1,0,0,1,octavius-spencer-1
+Corey Straughter,2017-09-16,2,Louisiana-Monroe,,Southern Mississippi,L,1,0,0,0,corey-straughter-1
+Greg Stroman,2017-09-16,3,Virginia Tech,@,East Carolina,W,1,10,0,1,greg-stroman-1
+Craig Suits,2017-09-16,3,Tulsa,@,Toledo,L,1,37,1,0,craig-suits-1
+Sunia Tauteoli,2017-09-16,3,Utah,,San Jose State,W,1,0,0,0,sunia-tauteoli-1
+Blaise Taylor,2017-09-16,2,Arkansas State,,Arkansas-Pine Bluff,W,1,0,0,0,blaise-taylor-1
+Marvell Tell III,2017-09-16,3,Southern California,,Texas,W,1,0,0,0,marvell-tell-iii-1
+Ranthony Texada,2017-09-16,3,Texas Christian,,Southern Methodist,W,1,1,0,0,ranthony-texada-1
+Chris Tooley,2017-09-16,3,Florida Atlantic,,Bethune-Cookman,W,1,0,0,1,chris-tooley-1
+Payton Turner,2017-09-16,2,Houston,,Rice,W,1,0,0,0,payton-turner-1
+Nehemiah Wagner,2017-09-16,2,Arkansas State,,Arkansas-Pine Bluff,W,1,0,0,1,nehemiah-wagner-1
+Tracy Walker,2017-09-16,3,Louisiana,@,Texas A&M,L,1,4,0,2,tracy-walker-1
+Armani Watts,2017-09-16,3,Texas A&M,,Louisiana,W,2,15,0,0,armani-watts-1
+Ryan White,2017-09-16,3,Vanderbilt,,Kansas State,W,1,0,0,1,ryan-white-3
+Ladarius Wiley,2017-09-16,3,Vanderbilt,,Kansas State,W,1,11,0,2,ladarius-wiley-1
+Kyle Wilson,2017-09-16,2,Arkansas State,,Arkansas-Pine Bluff,W,1,0,0,0,kyle-wilson-5
+Thomas Wilson,2017-09-16,3,Missouri,,Purdue,L,1,16,0,0,thomas-wilson-5
+Myles Wolfolk,2017-09-16,3,North Carolina,@,Old Dominion,W,1,0,0,0,myles-wolfolk-1
+Devin Abraham,2017-09-21,4,South Florida,,Temple,W,1,26,0,0,devin-abraham-1
+Deatrick Nichols,2017-09-21,4,South Florida,,Temple,W,2,14,0,2,deatrick-nichols-1
+Nico Sawtelle,2017-09-21,4,South Florida,,Temple,W,1,10,0,0,nico-sawtelle-1
+Corrion Ballard,2017-09-22,4,Utah,@,Arizona,W,1,0,0,0,corrion-ballard-1
+Javelin Guidry,2017-09-22,4,Utah,@,Arizona,W,1,14,1,0,javelin-guidry-2
+Chase Hansen,2017-09-22,4,Utah,@,Arizona,W,1,1,0,1,chase-hansen-1
+Brenton Nelson,2017-09-22,4,Virginia,@,Boise State,W,1,1,0,1,brenton-nelson-1
+Dakota Allen,2017-09-23,3,Texas Tech,@,Houston,W,1,10,0,0,dakota-allen-1
+Damon Arnette,2017-09-23,4,Ohio State,,Nevada-Las Vegas,W,1,35,0,0,damon-arnette-1
+Blessuan Austin,2017-09-23,4,Rutgers,@,Nebraska,L,1,0,0,0,blessuan-austin-1
+Deandre Baker,2017-09-23,4,Georgia,,Mississippi State,W,1,22,0,2,deandre-baker-1
+Al-Rasheed Benton,2017-09-23,4,West Virginia,@,Kansas,W,1,38,0,1,al-rasheed-benton-1
+Justin Bickham,2017-09-23,4,Rice,,Florida International,L,1,0,0,2,justin-bickham-1
+Chris Bradley,2017-09-23,4,Texas Christian,@,Oklahoma State,W,1,0,0,0,chris-bradley-1
+Jordyn Brooks,2017-09-23,3,Texas Tech,@,Houston,W,1,2,0,1,jordyn-brooks-1
+Joe Brown,2017-09-23,4,Western Kentucky,,Ball State,W,1,34,1,0,joe-brown-4
+Myles Bryant,2017-09-23,4,Washington,@,Colorado,W,1,35,1,0,myles-bryant-1
+Sean Carter,2017-09-23,4,Old Dominion,@,Virginia Tech,L,1,0,0,0,sean-carter-1
+Andre Chachere,2017-09-23,5,San Jose State,,Utah State,L,1,28,0,0,andre-chachere-1
+L.J. Collier,2017-09-23,4,Texas Christian,@,Oklahoma State,W,1,-2,0,0,lj-collier-1
+Sam Connolly,2017-09-23,4,Miami (OH),@,Central Michigan,W,1,7,0,0,sam-connolly-1
+Bryce Cosby,2017-09-23,4,Ball State,@,Western Kentucky,L,1,0,0,0,bryce-cosby-1
+Mike Daniels,2017-09-23,4,West Virginia,@,Kansas,W,1,25,1,0,mike-daniels-4
+Carlton Davis,2017-09-23,4,Auburn,@,Missouri,W,1,0,0,0,carlton-davis-1
+Divine Deablo,2017-09-23,4,Virginia Tech,,Old Dominion,W,1,0,0,0,divine-deablo-1
+Hasan Defense,2017-09-23,4,Kansas,,West Virginia,L,1,0,0,1,hasan-defense-1
+Lukas Denis,2017-09-23,4,Boston College,@,Clemson,L,1,6,0,0,lukas-denis-1
+Juwan Dowels,2017-09-23,4,Syracuse,@,Louisiana State,L,1,0,0,0,juwan-dowels-1
+Josh Drayden,2017-09-23,4,California,,Southern California,L,1,13,0,1,josh-drayden-1
+Ben Edwards,2017-09-23,4,Stanford,,UCLA,W,1,10,0,1,ben-edwards-1
+Bradd Ellis,2017-09-23,4,Ohio,@,Eastern Michigan,W,1,46,1,1,bradd-ellis-1
+Christian Elliss,2017-09-23,4,Idaho,@,South Alabama,W,1,31,0,1,christian-elliss-1
+Bryon Fields,2017-09-23,4,Duke,@,North Carolina,W,1,61,1,1,bryon-fields-1
+Tre Flowers,2017-09-23,4,Oklahoma State,,Texas Christian,L,1,7,0,1,tre-flowers-1
+Baron Gajkowski,2017-09-23,4,Utah State,@,San Jose State,W,1,13,0,0,baron-gajkowski-1
+Kyle Gibson,2017-09-23,2,Central Florida,@,Maryland,W,1,0,0,0,kyle-gibson-1
+Luke Gifford,2017-09-23,4,Nebraska,,Rutgers,W,1,-3,0,0,luke-gifford-1
+Drell Greene,2017-09-23,4,Western Kentucky,,Ball State,W,1,8,0,0,drell-greene-1
+Terrill Hanks,2017-09-23,4,New Mexico State,,Texas-El Paso,W,1,4,0,2,terrill-hanks-1
+Ronnie Harrison,2017-09-23,4,Alabama,@,Vanderbilt,W,1,1,0,0,ronnie-harrison-1
+Chris Hawkins,2017-09-23,4,Southern California,@,California,W,1,7,0,2,chris-hawkins-4
+Kiy Hester,2017-09-23,4,Rutgers,@,Nebraska,L,1,33,1,1,kiy-hester-1
+Mike Hughes,2017-09-23,2,Central Florida,@,Maryland,W,1,57,1,0,mike-hughes-4
+Josey Jewell,2017-09-23,4,Iowa,,Penn State,L,1,33,0,2,josey-jewell-1
+Jalen Jones,2017-09-23,4,Southern California,@,California,W,2,15,0,0,jalen-jones-2
+Jermaine Kelly,2017-09-23,5,San Jose State,,Utah State,L,1,68,1,0,jermaine-kelly-1
+Jamarcus King,2017-09-23,4,South Carolina,,Louisiana Tech,W,1,0,0,2,jamarcus-king-1
+Ron LaForce,2017-09-23,4,New Mexico State,,Texas-El Paso,W,1,0,0,1,ron-laforce-1
+Afolabi Laguda,2017-09-23,4,Colorado,,Washington,L,1,0,0,0,afolabi-laguda-1
+Donnie Lewis,2017-09-23,4,Tulane,,Army,W,1,0,0,0,donnie-lewis-1
+Shamad Lomax,2017-09-23,4,New Mexico State,,Texas-El Paso,W,3,19,1,2,shamad-lomax-1
+Trey Lomax,2017-09-23,4,San Diego State,@,Air Force,W,1,0,0,0,trey-lomax-1
+Julian Love,2017-09-23,4,Notre Dame,@,Michigan State,W,1,59,1,1,julian-love-1
+Cassh Maluia,2017-09-23,4,Wyoming,,Hawaii,W,1,0,0,0,cassh-maluia-1
+Kishawn McClain,2017-09-23,4,North Texas,,Alabama-Birmingham,W,1,0,0,0,kishawn-mcclain-1
+Matt Merimee,2017-09-23,4,Miami (OH),@,Central Michigan,W,1,47,0,0,matt-merimee-1
+Jordan Miller,2017-09-23,4,Washington,@,Colorado,W,2,2,0,0,jordan-miller-3
+Marcus Milton,2017-09-23,4,Bowling Green State,@,Middle Tennessee State,L,1,25,0,1,marcus-milton-1
+Demetrius Monday,2017-09-23,4,Kent State,@,Louisville,L,2,13,0,0,demetrius-monday-1
+Navon Mosely,2017-09-23,4,Purdue,,Michigan,L,1,7,0,0,navon-mosely-1
+Brad Muhammad,2017-09-23,3,Florida International,@,Rice,W,1,0,0,1,brad-muhammad-1
+Trayvon Mullen,2017-09-23,4,Clemson,,Boston College,W,1,0,0,0,trayvon-mullen-1
+Parry Nickerson,2017-09-23,4,Tulane,,Army,W,1,0,0,0,parry-nickerson-1
+Nick Orr,2017-09-23,4,Texas Christian,@,Oklahoma State,W,1,0,0,0,nick-orr-1
+Bijon Parker,2017-09-23,4,New Mexico,@,Tulsa,W,1,0,0,1,bijon-parker-1
+Antonio Reed,2017-09-23,4,Nebraska,,Rutgers,W,1,19,0,0,antonio-reed-1
+Justin Reid,2017-09-23,4,Stanford,,UCLA,W,1,1,0,2,justin-reid-1
+Aaron Roberson,2017-09-23,4,Louisiana Tech,@,South Carolina,L,1,19,0,0,aaron-roberson-3
+Justin Rogers,2017-09-23,4,Texas-El Paso,@,New Mexico State,L,1,0,0,0,justin-rogers-2
+Ykili Ross,2017-09-23,4,Southern California,@,California,W,1,49,0,0,ykili-ross-1
+Shaun Rupert,2017-09-23,3,Memphis,,Southern Illinois,W,1,36,0,1,shaun-rupert-1
+Dominick Sanders,2017-09-23,4,Georgia,,Mississippi State,W,1,15,0,0,dominick-sanders-1
+Nephi Sewell,2017-09-23,4,Nevada,@,Washington State,L,1,1,0,0,nephi-sewell-1
+Damon Singleton,2017-09-23,4,Ball State,@,Western Kentucky,L,1,10,0,1,damon-singleton-1
+Craig Suits,2017-09-23,4,Tulsa,,New Mexico,L,1,18,0,0,craig-suits-1
+Robert Taylor,2017-09-23,4,Washington State,,Nevada,W,1,-1,0,0,robert-taylor-3
+A.J. Terrell,2017-09-23,4,Clemson,,Boston College,W,1,0,0,1,aj-terrell-1
+Jalen Thompson,2017-09-23,4,Washington State,,Nevada,W,2,0,0,0,jalen-thompson-2
+Henre' Toliver,2017-09-23,3,Arkansas,N,Texas A&M,L,1,3,0,0,henre-toliver-1
+Trumaine Washington,2017-09-23,4,Louisville,,Kent State,W,1,37,1,1,trumaine-washington-1
+Armani Watts,2017-09-23,4,Texas A&M,N,Arkansas,W,1,0,0,0,armani-watts-1
+Kris Weatherspoon,2017-09-23,4,Troy,,Akron,W,2,0,0,0,kris-weatherspoon-1
+Damon Webb,2017-09-23,4,Ohio State,,Nevada-Las Vegas,W,1,0,0,0,damon-webb-1
+Darius West,2017-09-23,4,Kentucky,,Florida,L,1,21,0,0,darius-west-1
+Javin White,2017-09-23,3,Nevada-Las Vegas,@,Ohio State,L,1,65,1,0,javin-white-1
+Bryan Williams,2017-09-23,3,Georgia State,@,UNC Charlotte,W,2,6,0,0,bryan-williams-2
+Greedy Williams,2017-09-23,4,Louisiana State,,Syracuse,W,1,28,0,0,greedy-williams-1
+Jordan Williams,2017-09-23,4,Toledo,@,Miami (FL),L,1,35,0,0,jordan-williams-9
+Terrell Williams,2017-09-23,3,Houston,,Texas Tech,L,1,20,0,0,terrell-williams-3
+Ryan Williamson,2017-09-23,4,Buffalo,,Florida Atlantic,W,1,0,0,0,ryan-williamson-1
+Andrew Wingard,2017-09-23,4,Wyoming,,Hawaii,W,1,22,0,2,andrew-wingard-1
+Jordan Wyatt,2017-09-23,4,Southern Methodist,,Arkansas State,W,1,25,0,3,jordan-wyatt-1
+Isaac Yiadom,2017-09-23,4,Boston College,@,Clemson,L,1,21,0,2,isaac-yiadom-1
+Korrin Wiggins,2017-09-24,4,East Carolina,@,Connecticut,W,1,0,0,0,korrin-wiggins-1
+Kris Boyd,2017-09-28,4,Texas,@,Iowa State,W,1,26,0,3,kris-boyd-1
+Kamari Cotton-Moya,2017-09-28,4,Iowa State,,Texas,L,1,9,0,0,kamari-cotton-moya-1
+DeShon Elliott,2017-09-28,4,Texas,@,Iowa State,W,2,22,0,1,deshon-elliott-1
+Jalen Davis,2017-09-29,5,Utah State,,Brigham Young,W,3,95,2,1,jalen-davis-1
+Bryon Fields,2017-09-29,5,Duke,,Miami (FL),L,1,-8,0,0,bryon-fields-1
+Micah Hannemann,2017-09-29,5,Brigham Young,@,Utah State,L,1,46,1,0,micah-hannemann-1
+Sean Harper,2017-09-29,5,Washington State,,Southern California,W,1,0,0,0,sean-harper-2
+Dallin Leavitt,2017-09-29,5,Utah State,,Brigham Young,W,1,26,0,1,dallin-leavitt-1
+Uchenna Nwosu,2017-09-29,5,Southern California,@,Washington State,L,1,0,0,0,uchenna-nwosu-1
+Michael Pinckney,2017-09-29,3,Miami (FL),@,Duke,W,1,0,0,0,michael-pinckney-1
+Chris Weber,2017-09-29,5,Nebraska,@,Illinois,W,1,0,0,0,chris-weber-2
+Kendall Adams,2017-09-30,4,Kansas State,,Baylor,W,1,2,0,1,kendall-adams-1
+Zach Allen,2017-09-30,5,Boston College,,Central Michigan,W,1,0,0,0,zach-allen-5
+Johnathan Alston,2017-09-30,5,North Carolina State,,Syracuse,W,1,0,0,0,johnathan-alston-1
+Ugo Amadi,2017-09-30,5,Oregon,,California,W,1,0,0,1,ugo-amadi-1
+Jomez Applewhite,2017-09-30,4,Southern Mississippi,,North Texas,L,1,-1,0,0,jomez-applewhite-1
+Dante Booker,2017-09-30,5,Ohio State,@,Rutgers,W,1,0,0,0,dante-booker-1
+Jordan Brailford,2017-09-30,5,Oklahoma State,@,Texas Tech,W,1,0,0,0,jordan-brailford-1
+Dennis Briggs,2017-09-30,5,Pittsburgh,,Rice,W,1,34,0,0,dennis-briggs-1
+Blace Brown,2017-09-30,5,Troy,@,Louisiana State,W,1,0,0,1,blace-brown-1
+Kyron Brown,2017-09-30,5,Akron,@,Bowling Green State,W,1,38,1,1,kyron-brown-1
+Austin Bryant,2017-09-30,5,Clemson,@,Virginia Tech,W,1,0,0,0,austin-bryant-1
+Jaron Bryant,2017-09-30,4,Fresno State,,Nevada,W,2,20,1,1,jaron-bryant-1
+Terrell Carter,2017-09-30,4,Memphis,@,Central Florida,L,1,0,0,0,terrell-carter-1
+Secdrick Cooper,2017-09-30,5,Louisiana Tech,,South Alabama,W,2,1,0,1,secdrick-cooper-1
+Jonathan Crawford,2017-09-30,4,Indiana,@,Penn State,L,1,0,0,1,jonathan-crawford-1
+Vosean Crumbie,2017-09-30,5,Nevada,@,Fresno State,L,1,0,0,0,vosean-crumbie-1
+Garrett Davis,2017-09-30,4,Houston,@,Temple,W,2,36,0,0,garrett-davis-1
+Javaris Davis,2017-09-30,5,Auburn,,Mississippi State,W,1,37,1,2,javaris-davis-1
+Chase Day,2017-09-30,4,Louisiana-Monroe,,Coastal Carolina,W,1,6,0,0,chase-day-1
+Lukas Denis,2017-09-30,5,Boston College,,Central Michigan,W,2,59,0,1,lukas-denis-1
+Mike Edwards,2017-09-30,5,Kentucky,,Eastern Michigan,W,1,0,0,2,mike-edwards-8
+Damarcus Fields,2017-09-30,4,Texas Tech,,Oklahoma State,L,1,95,1,1,damarcus-fields-1
+Jericho Flowers,2017-09-30,4,Nevada-Las Vegas,,San Jose State,W,1,0,0,0,jericho-flowers-1
+Juwan Foggie,2017-09-30,5,UNC Charlotte,@,Florida International,L,1,0,0,1,juwan-foggie-1
+Rico Gafford,2017-09-30,5,Wyoming,,Texas State,W,1,37,1,0,rico-gafford-1
+Jordan George,2017-09-30,5,Akron,@,Bowling Green State,W,1,10,0,0,jordan-george-1
+Kyle Gibson,2017-09-30,3,Central Florida,,Memphis,W,1,0,0,0,kyle-gibson-1
+A.J. Gray,2017-09-30,4,Georgia Tech,,North Carolina,W,2,23,0,0,aj-gray-1
+Damar Hamlin,2017-09-30,5,Pittsburgh,,Rice,W,1,5,0,0,damar-hamlin-1
+Mike Hughes,2017-09-30,3,Central Florida,,Memphis,W,1,35,0,2,mike-hughes-4
+Godwin Igwebuike,2017-09-30,4,Northwestern,@,Wisconsin,L,1,6,0,0,godwin-igwebuike-1
+Dane Jackson,2017-09-30,5,Pittsburgh,,Rice,W,1,24,0,1,dane-jackson-1
+J.C. Jackson,2017-09-30,4,Maryland,@,Minnesota,W,1,0,0,0,jc-jackson-1
+Natrell Jamerson,2017-09-30,4,Wisconsin,,Northwestern,W,2,40,1,1,natrell-jamerson-1
+Roland Jenkins,2017-09-30,4,Louisiana-Monroe,,Coastal Carolina,W,1,17,0,0,roland-jenkins-1
+Isaiah Johnson,2017-09-30,4,Houston,@,Temple,W,1,10,0,2,isaiah-johnson-4
+John Johnson,2017-09-30,4,Fresno State,,Nevada,W,1,0,0,0,john-johnson-8
+Marcus Jones,2017-09-30,5,Troy,@,Louisiana State,W,1,10,0,1,marcus-jones-11
+Kameron Kelly,2017-09-30,5,San Diego State,,Northern Illinois,W,1,44,0,0,kameron-kelly-1
+Jordan Kunaszyk,2017-09-30,5,California,@,Oregon,L,1,53,0,0,jordan-kunaszyk-1
+Manny Lawrence-Burke,2017-09-30,5,Kent State,,Buffalo,L,1,-1,0,0,manny-lawrence-burke-1
+Shelton Lewis,2017-09-30,5,Florida Atlantic,,Middle Tennessee State,W,1,0,0,0,shelton-lewis-2
+Seyvon Lowry,2017-09-30,3,Central Florida,,Memphis,W,1,14,0,0,seyvon-lowry-1
+Justin Martin,2017-09-30,5,Tennessee,,Georgia,L,1,0,0,1,justin-martin-4
+Greer Martini,2017-09-30,5,Notre Dame,,Miami (OH),W,1,42,0,0,greer-martini-1
+Tray Matthews,2017-09-30,5,Auburn,,Mississippi State,W,1,0,0,0,tray-matthews-1
+Tyrique McGhee,2017-09-30,5,Georgia,@,Tennessee,W,1,0,0,4,tyrique-mcghee-1
+Kyle Meyers,2017-09-30,3,Florida State,@,Wake Forest,W,1,0,0,0,kyle-meyers-1
+Chad Moore,2017-09-30,5,Ohio,@,Massachusetts,W,1,33,0,1,chad-moore-1
+David Morris,2017-09-30,5,Oregon State,,Washington,L,1,6,0,0,david-morris-4
+Dorian O'Daniel,2017-09-30,5,Clemson,@,Virginia Tech,W,1,22,1,0,dorian-odaniel-1
+Amani Oruwariye,2017-09-30,5,Penn State,,Indiana,W,1,17,0,0,amani-oruwariye-1
+DeMarcus Owens,2017-09-30,5,New Mexico State,@,Arkansas,L,1,0,0,0,demarcus-owens-1
+JR Pace,2017-09-30,4,Northwestern,@,Wisconsin,L,1,0,0,0,jr-pace-1
+Delvon Randall,2017-09-30,5,Temple,,Houston,L,1,0,0,0,delvon-randall-1
+Kendall Randolph,2017-09-30,5,Kentucky,,Eastern Michigan,W,1,3,0,1,kendall-randolph-1
+J.R. Reed,2017-09-30,5,Georgia,@,Tennessee,W,1,34,0,0,jr-reed-3
+Justin Reid,2017-09-30,5,Stanford,,Arizona State,W,2,0,0,1,justin-reid-1
+Kevin Richardson,2017-09-30,4,Arkansas,,New Mexico State,W,1,0,0,1,kevin-richardson-2
+Malik Rucker,2017-09-30,5,Western Michigan,,Ball State,W,1,87,0,0,malik-rucker-1
+Auggie Sanchez,2017-09-30,5,South Florida,@,East Carolina,W,1,43,1,0,auggie-sanchez-1
+Chauncey Scissum,2017-09-30,4,Nevada-Las Vegas,,San Jose State,W,1,6,0,1,chauncey-scissum-1
+Kahani Smith,2017-09-30,5,Texas-El Paso,@,Army,L,1,52,1,0,kahani-smith-1
+Clint Stephens,2017-09-30,5,Bowling Green State,,Akron,L,1,0,0,1,clint-stephens-1
+Trenton Thompson,2017-09-30,5,San Diego State,,Northern Illinois,W,2,83,1,0,trenton-thompson-2
+Levi Wallace,2017-09-30,5,Alabama,,Mississippi,W,2,66,1,0,levi-wallace-1
+Damon Webb,2017-09-30,5,Ohio State,@,Rutgers,W,1,0,0,0,damon-webb-1
+Mazzi Wilkins,2017-09-30,5,South Florida,@,East Carolina,W,1,0,0,4,mazzi-wilkins-1
+Brandon Williams,2017-09-30,5,Buffalo,@,Kent State,W,1,21,0,0,brandon-williams-13
+Raekwon Williams,2017-09-30,5,Florida Atlantic,,Middle Tennessee State,W,1,0,0,0,raekwon-williams-1
+Josh Woods,2017-09-30,4,Maryland,@,Minnesota,W,1,3,0,0,josh-woods-1
+Evan Worthington,2017-09-30,5,Colorado,@,UCLA,L,1,1,0,0,evan-worthington-1
+Jalen Young,2017-09-30,5,Florida Atlantic,,Middle Tennessee State,W,1,0,0,1,jalen-young-1
+Darrell Baker,2017-10-04,4,Georgia Southern,,Arkansas State,L,1,2,0,0,darrell-baker-2
+Monquavion Brinson,2017-10-04,4,Georgia Southern,,Arkansas State,L,1,4,0,2,monquavion-brinson-1
+Chris Delarosa,2017-10-04,4,Georgia Southern,,Arkansas State,L,1,3,0,0,chris-delarosa-1
+Trent Ellis-Brewer,2017-10-04,4,Arkansas State,@,Georgia Southern,W,1,3,0,0,trent-ellis-brewer-1
+Michael Johnson,2017-10-04,4,Arkansas State,@,Georgia Southern,W,1,30,0,0,michael-johnson-18
+Kindle Vildor,2017-10-04,4,Georgia Southern,,Arkansas State,L,1,0,0,0,kindle-vildor-1
+Germaine Pratt,2017-10-05,6,North Carolina State,,Louisville,W,1,25,1,1,germaine-pratt-1
+Tyler Horton,2017-10-06,5,Boise State,@,Brigham Young,W,1,0,0,1,tyler-horton-1
+Grant Jones,2017-10-06,6,Brigham Young,,Boise State,L,1,20,0,0,grant-jones-3
+Kekoa Nawahine,2017-10-06,5,Boise State,@,Brigham Young,W,1,51,0,1,kekoa-nawahine-1
+Dakota Allen,2017-10-07,5,Texas Tech,@,Kansas,W,1,26,0,0,dakota-allen-1
+Adekunle Ayinde,2017-10-07,5,Minnesota,@,Purdue,L,1,0,0,0,adekunle-ayinde-1
+Joe Bachie,2017-10-07,5,Michigan State,@,Michigan,W,1,0,0,1,joe-bachie-1
+Jawhan Bentley,2017-10-07,5,Purdue,,Minnesota,W,1,76,1,0,jawhan-bentley-1
+Quin Blanding,2017-10-07,5,Virginia,,Duke,W,1,58,1,1,quin-blanding-1
+Jaron Bryant,2017-10-07,5,Fresno State,@,San Jose State,W,1,0,0,0,jaron-bryant-1
+Christian Campbell,2017-10-07,6,Penn State,@,Northwestern,W,1,0,0,2,christian-campbell-1
+Josh Cox,2017-10-07,6,Central Michigan,@,Ohio,W,1,45,0,0,josh-cox-1
+Vosean Crumbie,2017-10-07,6,Nevada,,Hawaii,W,1,1,0,1,vosean-crumbie-1
+]Darian Dailey,2017-10-07,6,Akron,,Ball State,W,1,40,0,1,darian-dailey-1
+Christian Davis,2017-10-07,6,Southern Methodist,@,Houston,L,1,0,0,0,christian-davis-1
+Dee Delaney,2017-10-07,4,Miami (FL),@,Florida State,W,1,4,0,0,dee-delaney-1
+Myles Dorn,2017-10-07,6,North Carolina,,Notre Dame,L,2,2,0,1,myles-dorn-1
+David Dowell,2017-10-07,5,Michigan State,@,Michigan,W,2,35,0,1,david-dowell-2
+Clifton Duck,2017-10-07,5,Appalachian State,,New Mexico State,W,3,54,0,0,clifton-duck-1
+DeShon Elliott,2017-10-07,5,Texas,,Kansas State,W,1,0,0,0,deshon-elliott-1
+Rojesterman Farris II,2017-10-07,6,Hawaii,@,Nevada,L,1,15,0,0,rojesterman-farris-ii-1
+Jordan Ferguson,2017-10-07,6,Middle Tennessee State,,Florida International,W,1,5,0,0,jordan-ferguson-1
+Minkah Fitzpatrick,2017-10-07,6,Alabama,@,Texas A&M,W,1,0,0,1,minkah-fitzpatrick-1
+Jerrell Foster,2017-10-07,6,Kent State,@,Northern Illinois,L,1,0,0,0,jerrell-foster-1
+Cale Garrett,2017-10-07,5,Missouri,@,Kentucky,L,1,0,0,0,cale-garrett-1
+Mark Gilbert,2017-10-07,6,Duke,@,Virginia,L,1,7,0,2,mark-gilbert-1
+Heath Harding,2017-10-07,6,Miami (OH),,Bowling Green State,L,1,0,0,1,heath-harding-1
+Andrew Hauser,2017-10-07,6,Akron,,Ball State,W,1,0,0,0,andrew-hauser-2
+Tae Hayes,2017-10-07,5,Appalachian State,,New Mexico State,W,3,58,0,2,tae-hayes-1
+Amari Henderson,2017-10-07,6,Wake Forest,@,Clemson,L,1,0,0,0,amari-henderson-1
+Khalil Hodge,2017-10-07,6,Buffalo,,Western Michigan,L,1,0,0,0,khalil-hodge-1
+Amani Hooker,2017-10-07,6,Iowa,,Illinois,W,1,0,0,0,amani-hooker-1
+Jalen Hoover,2017-10-07,5,Idaho,,Louisiana,L,1,1,0,0,jalen-hoover-1
+JuJu Hughes,2017-10-07,5,Fresno State,@,San Jose State,W,1,0,0,0,juju-hughes-1
+Manase Hungalu,2017-10-07,6,Oregon State,@,Southern California,L,1,7,0,0,manase-hungalu-2
+Chris Jackson,2017-10-07,5,Marshall,@,UNC Charlotte,W,1,4,0,2,chris-jackson-9
+Michael Jackson,2017-10-07,4,Miami (FL),@,Florida State,W,1,0,0,0,michael-jackson-6
+Jawuan Johnson,2017-10-07,5,Northern Illinois,,Kent State,W,1,5,0,0,jawuan-johnson-1
+Bobby Jones IV,2017-10-07,5,Northern Illinois,,Kent State,W,1,2,0,0,bobby-jones-iv-1
+Jalen Jones,2017-10-07,6,Southern California,,Oregon State,W,1,2,0,1,jalen-jones-2
+Chase Kuerschen,2017-10-07,5,Tulane,,Tulsa,W,1,0,0,0,chase-kuerschen-1
+John Lako,2017-10-07,6,Akron,,Ball State,W,1,35,1,0,john-lako-1
+Mike Lee,2017-10-07,5,Kansas,,Texas Tech,L,1,2,0,0,mike-lee-6
+Shelton Lewis,2017-10-07,6,Florida Atlantic,@,Old Dominion,W,1,28,0,1,shelton-lewis-2
+Seyvon Lowry,2017-10-07,4,Central Florida,@,Cincinnati,W,1,0,0,0,seyvon-lowry-1
+Shawun Lurry,2017-10-07,5,Northern Illinois,,Kent State,W,1,45,0,0,shawun-lurry-1
+Kamal Martin,2017-10-07,5,Minnesota,@,Purdue,L,1,0,0,0,kamal-martin-1
+Jeremy McDuffie,2017-10-07,6,Duke,@,Virginia,L,1,42,1,2,jeremy-mcduffie-1
+Juantez McRae,2017-10-07,6,Kent State,@,Northern Illinois,L,1,0,0,0,juantez-mcrae-1
+Quenton Meeks,2017-10-07,6,Stanford,@,Utah,W,1,11,0,0,quenton-meeks-1
+Curtis Mikell,2017-10-07,5,Southern Mississippi,@,Texas-San Antonio,W,1,61,0,0,curtis-mikell-1
+Chad Moore,2017-10-07,6,Ohio,,Central Michigan,L,1,11,0,0,chad-moore-1
+Skai Moore,2017-10-07,6,South Carolina,,Arkansas,W,1,34,1,0,skai-moore-1
+Keisean Nixon,2017-10-07,6,South Carolina,,Arkansas,W,1,45,1,0,keisean-nixon-1
+Julian Okwara,2017-10-07,6,Notre Dame,@,North Carolina,W,1,5,0,0,julian-okwara-1
+Mikial Onu,2017-10-07,6,Southern Methodist,@,Houston,L,1,0,0,1,mikial-onu-1
+Chris Orr,2017-10-07,5,Wisconsin,@,Nebraska,W,1,78,1,0,chris-orr-2
+Nick Orr,2017-10-07,5,Texas Christian,,West Virginia,W,1,34,0,0,nick-orr-1
+Amani Oruwariye,2017-10-07,6,Penn State,@,Northwestern,W,1,0,0,1,amani-oruwariye-1
+Jake Parker,2017-10-07,5,Texas Tech,@,Kansas,W,1,25,0,1,jake-parker-1
+Aaron Ramseur,2017-10-07,6,East Carolina,,Temple,L,1,31,0,0,aaron-ramseur-1
+Delvon Randall,2017-10-07,6,Temple,@,East Carolina,W,1,16,0,0,delvon-randall-1
+D.J Reed,2017-10-07,5,Kansas State,@,Texas,L,1,0,0,2,dj-reed-2
+Max Regan,2017-10-07,6,Army,@,Rice,W,1,48,1,0,max-regan-1
+Justin Reid,2017-10-07,6,Stanford,@,Utah,W,1,0,0,0,justin-reid-1
+Kahlil Robinson,2017-10-07,5,Toledo,,Eastern Michigan,W,2,20,0,0,kahlil-robinson-1
+Ocie Rose,2017-10-07,6,Florida Atlantic,@,Old Dominion,W,1,12,0,0,ocie-rose-1
+Stanford Samuels III,2017-10-07,4,Florida State,,Miami (FL),L,1,0,0,0,stanford-samuels-iii-1
+Brandon Snyder,2017-10-07,6,Iowa,,Illinois,W,1,89,1,2,brandon-snyder-1
+Clint Stephens,2017-10-07,6,Bowling Green State,@,Miami (OH),W,1,0,0,4,clint-stephens-1
+Geno Stone,2017-10-07,6,Iowa,,Illinois,W,1,19,0,0,geno-stone-1
+Marcus Strong,2017-10-07,6,Washington State,@,Oregon,W,1,27,0,1,marcus-strong-1
+Robert Taylor,2017-10-07,6,Washington State,@,Oregon,W,1,0,0,1,robert-taylor-3
+Cole Thomas,2017-10-07,6,Rice,,Army,L,1,5,0,0,cole-thomas-1
+Rob Thompson,2017-10-07,5,Old Dominion,,Florida Atlantic,L,1,20,0,0,rob-thompson-1
+Juan Thornhill,2017-10-07,5,Virginia,,Duke,W,1,4,0,4,juan-thornhill-1
+Chris Tooley,2017-10-07,6,Florida Atlantic,@,Old Dominion,W,1,14,0,0,chris-tooley-1
+Fitz Wattley,2017-10-07,5,Coastal Carolina,,Georgia State,L,1,37,0,0,fitz-wattley-1
+Aaron Williams,2017-10-07,6,Nebraska,,Wisconsin,L,1,14,1,0,aaron-williams-10
+Bennett Williams,2017-10-07,5,Illinois,@,Iowa,L,1,20,0,1,bennett-williams-1
+Terrell Williams,2017-10-07,5,Houston,,Southern Methodist,W,2,31,0,1,terrell-williams-3
+Ryan Williamson,2017-10-07,6,Buffalo,,Western Michigan,L,1,0,0,0,ryan-williamson-1
+Jaden Wright,2017-10-07,6,New Mexico State,@,Appalachian State,L,2,4,0,0,jaden-wright-1
+Isaac Yiadom,2017-10-07,6,Boston College,,Virginia Tech,L,1,9,0,1,isaac-yiadom-1
+Jalen Young,2017-10-07,6,Florida Atlantic,@,Old Dominion,W,1,31,0,0,jalen-young-1
+Jeremy Reaves,2017-10-11,6,South Alabama,@,Troy,W,1,0,0,0,jeremy-reaves-1
+Jamal Stadom,2017-10-11,6,Troy,,South Alabama,L,1,2,0,0,jamal-stadom-1
+Tracy Walker,2017-10-12,6,Louisiana,,Texas State,W,1,10,0,0,tracy-walker-1
+Camryn Bynum,2017-10-13,7,California,,Washington State,W,2,0,0,0,camryn-bynum-1
+Raymond Davison,2017-10-13,7,California,,Washington State,W,1,0,0,0,raymond-davison-1
+Jordan Kunaszyk,2017-10-13,7,California,,Washington State,W,1,0,0,0,jordan-kunaszyk-1
+Quentin Tartabull,2017-10-13,7,California,,Washington State,W,1,0,0,0,quentin-tartabull-1
+Gvasi Akem,2017-10-14,6,Oklahoma State,,Baylor,W,1,15,0,0,gvasi-akem-1
+Cornell Armstrong,2017-10-14,6,Southern Mississippi,,Texas-El Paso,W,1,0,0,0,cornell-armstrong-1
+Mike Bell,2017-10-14,6,Fresno State,,New Mexico,W,1,18,0,1,mike-bell-11
+John Bonney,2017-10-14,6,Texas,N,Oklahoma,L,1,0,0,0,john-bonney-1
+Monquavion Brinson,2017-10-14,5,Georgia Southern,,New Mexico State,L,2,3,0,2,monquavion-brinson-1
+Brandon Bryant,2017-10-14,6,Mississippi State,,Brigham Young,W,1,30,0,1,brandon-bryant-2
+Cole Christiansen,2017-10-14,7,Army,,Eastern Michigan,W,1,7,0,0,cole-christiansen-1
+Justin Clark,2017-10-14,6,Toledo,@,Central Michigan,W,1,0,0,0,justin-clark-1
+Devin Cockrell,2017-10-14,7,Texas-El Paso,@,Southern Mississippi,L,1,0,0,0,devin-cockrell-1
+Dylan Connor,2017-10-14,7,Ohio,@,Bowling Green State,W,1,0,0,0,dylan-connor-1
+Kamari Cotton-Moya,2017-10-14,6,Iowa State,,Kansas,W,1,23,0,0,kamari-cotton-moya-1
+Tyler Coyle,2017-10-14,6,Connecticut,@,Temple,W,1,34,1,1,tyler-coyle-1
+Dane Cruikshank,2017-10-14,6,Arizona,,UCLA,W,1,1,0,0,dane-cruikshank-1
+Tyrel Dodson,2017-10-14,7,Texas A&M,@,Florida,W,1,0,0,0,tyrel-dodson-1
+Bradd Ellis,2017-10-14,7,Ohio,@,Bowling Green State,W,1,15,1,0,bradd-ellis-1
+Danny Ezechukwu,2017-10-14,6,Purdue,@,Wisconsin,L,1,38,0,0,danny-ezechukwu-2
+Rico Gafford,2017-10-14,6,Wyoming,@,Utah State,W,1,0,0,2,rico-gafford-1
+Nate Gaines,2017-10-14,5,Texas-San Antonio,@,North Texas,L,1,0,0,0,nate-gaines-1
+Juwan Gardner,2017-10-14,6,Western Kentucky,,UNC Charlotte,W,1,1,0,0,juwan-gardner-1
+Cale Garrett,2017-10-14,6,Missouri,@,Georgia,L,1,21,0,0,cale-garrett-1
+Fred Garth,2017-10-14,7,Bowling Green State,,Ohio,L,1,5,0,0,fred-garth-1
+Dayan Ghanwoloku,2017-10-14,7,Brigham Young,@,Mississippi State,L,2,105,0,0,dayan-ghanwoloku-1
+Mark Gilbert,2017-10-14,7,Duke,,Florida State,L,1,0,0,0,mark-gilbert-1
+Carl Granderson,2017-10-14,6,Wyoming,@,Utah State,W,1,6,0,0,carl-granderson-1
+K.J. Gray,2017-10-14,6,Rutgers,@,Illinois,W,1,0,0,0,kj-gray-1
+Austin Hall,2017-10-14,6,Memphis,,Navy,W,2,29,0,1,austin-hall-3
+Bryce Hall,2017-10-14,6,Virginia,@,North Carolina,W,1,36,0,2,bryce-hall-1
+Javien Hamilton,2017-10-14,6,Mississippi,,Vanderbilt,W,1,11,0,2,javien-hamilton-1
+Jawuan Harris,2017-10-14,6,Rutgers,@,Illinois,W,1,26,0,0,jawuan-harris-1
+Lavert Hill,2017-10-14,6,Michigan,@,Indiana,W,1,0,0,0,lavert-hill-1
+Elvis Hines,2017-10-14,7,Kent State,,Miami (OH),W,1,14,0,0,elvis-hines-1
+Dawan Hunte,2017-10-14,6,Purdue,@,Wisconsin,L,1,42,0,0,dawan-hunte-1
+J.C. Jackson,2017-10-14,6,Maryland,,Northwestern,L,1,0,0,0,jc-jackson-1
+Tre' Jackson,2017-10-14,6,Tulane,@,Florida International,L,1,0,0,0,tre-jackson-1
+Leon Jacobs,2017-10-14,6,Wisconsin,,Purdue,W,1,2,0,0,leon-jacobs-1
+Jawuan Johnson,2017-10-14,6,Northern Illinois,@,Buffalo,W,1,0,0,0,jawuan-johnson-1
+Tyree Kinnel,2017-10-14,6,Michigan,@,Indiana,W,1,0,0,1,tyree-kinnel-1
+Dallin Leavitt,2017-10-14,7,Utah State,,Wyoming,L,1,0,0,0,dallin-leavitt-1
+Deommodore Lenoir,2017-10-14,7,Oregon,@,Stanford,L,1,0,0,0,deommodore-lenoir-1
+Jack Linch,2017-10-14,6,Toledo,@,Central Michigan,W,1,1,0,0,jack-linch-1
+Jeremy McDuffie,2017-10-14,7,Duke,,Florida State,L,1,19,0,0,jeremy-mcduffie-1
+Daletavious McGhee,2017-10-14,6,Minnesota,,Michigan State,L,1,0,0,0,daletavious-mcghee-1
+Quenton Meeks,2017-10-14,7,Stanford,,Oregon,W,1,0,0,0,quenton-meeks-1
+Marcus Milton,2017-10-14,7,Bowling Green State,,Ohio,L,1,0,0,1,marcus-milton-1
+Michael Minter,2017-10-14,7,Middle Tennessee State,@,Alabama-Birmingham,L,1,24,0,1,michael-minter-1
+Chris Moore,2017-10-14,6,Virginia,@,North Carolina,W,1,8,0,0,chris-moore-6
+Brad Muhammad,2017-10-14,6,Florida International,,Tulane,W,1,11,0,2,brad-muhammad-1
+Thabo Mwaniki,2017-10-14,6,Oklahoma State,,Baylor,W,1,0,0,0,thabo-mwaniki-1
+Tre Neal,2017-10-14,5,Central Florida,,East Carolina,W,1,50,1,0,tre-neal-1
+Brenton Nelson,2017-10-14,6,Virginia,@,North Carolina,W,1,12,0,1,brenton-nelson-1
+Parry Nickerson,2017-10-14,6,Tulane,@,Florida International,L,1,0,0,2,parry-nickerson-1
+Jamal Parker,2017-10-14,7,Kent State,,Miami (OH),W,1,1,0,2,jamal-parker-1
+Kevin Prosser,2017-10-14,6,Wyoming,@,Utah State,W,1,28,1,0,kevin-prosser-1
+Delvon Randall,2017-10-14,7,Temple,,Connecticut,L,1,0,0,0,delvon-randall-1
+Wyatt Ray,2017-10-14,7,Boston College,@,Louisville,W,1,24,0,0,wyatt-ray-1
+C.J. Reavis,2017-10-14,6,Marshall,,Old Dominion,W,1,0,0,0,cj-reavis-1
+Emmett Rice,2017-10-14,5,Florida State,@,Duke,W,1,0,0,0,emmett-rice-1
+Kevin Richardson,2017-10-14,6,Arkansas,@,Alabama,L,1,0,0,0,kevin-richardson-2
+Amir Riep,2017-10-14,7,Ohio State,@,Nebraska,W,1,0,0,0,amir-riep-1
+Auggie Sanchez,2017-10-14,6,South Florida,,Cincinnati,W,1,65,1,0,auggie-sanchez-1
+Dominick Sanders,2017-10-14,7,Georgia,,Missouri,W,1,18,0,0,dominick-sanders-1
+Darnell Savage Jr.,2017-10-14,6,Maryland,,Northwestern,L,1,0,0,0,darnell-savage-jr-1
+Cameron Smith,2017-10-14,7,Southern California,,Utah,W,1,4,0,0,cameron-smith-3
+Desmon Smith,2017-10-14,6,Texas Tech,@,West Virginia,L,1,0,0,1,desmon-smith-1
+Kahani Smith,2017-10-14,7,Texas-El Paso,@,Southern Mississippi,L,1,0,0,0,kahani-smith-1
+TreSean Smith,2017-10-14,7,Louisville,,Boston College,L,1,0,0,0,tresean-smith-1
+Mike Stevens,2017-10-14,7,North Carolina State,@,Pittsburgh,W,1,0,0,1,mike-stevens-1
+Jahlani Tavai,2017-10-14,7,Hawaii,,San Jose State,W,1,8,0,0,jahlani-tavai-1
+Jawaan Taylor,2017-10-14,6,Florida,,Texas A&M,L,1,0,0,0,jawaan-taylor-1
+Broderick Thomas,2017-10-14,6,Alabama-Birmingham,,Middle Tennessee State,W,1,12,0,0,broderick-thomas-2
+Sedrick Thomas,2017-10-14,6,Idaho,,Appalachian State,L,1,20,0,1,sedrick-thomas-2
+Casey Toohill,2017-10-14,7,Stanford,,Oregon,W,1,2,0,0,casey-toohill-1
+Keidrien Wadley,2017-10-14,7,Tulsa,,Houston,W,1,37,0,0,keidrien-wadley-1
+Armani Watts,2017-10-14,7,Texas A&M,@,Florida,W,1,0,0,0,armani-watts-1
+Kyzir White,2017-10-14,6,West Virginia,,Texas Tech,W,1,1,0,0,kyzir-white-1
+McKinley Whitfield,2017-10-14,7,Tulsa,,Houston,W,1,51,0,3,mckinley-whitfield-1
+Jace Whittaker,2017-10-14,6,Arizona,,UCLA,W,2,70,1,1,jace-whittaker-1
+Darius Williams,2017-10-14,6,Alabama-Birmingham,,Middle Tennessee State,W,1,2,0,1,darius-williams-3
+Khari Willis,2017-10-14,6,Michigan State,@,Minnesota,W,1,19,0,0,khari-willis-1
+Lakota Wills,2017-10-14,6,Air Force,,Nevada-Las Vegas,W,1,0,0,0,lakota-wills-1
+Mack Wilson,2017-10-14,7,Alabama,,Arkansas,W,1,0,0,0,mack-wilson-1
+Jeremy Winchester,2017-10-14,6,Houston,@,Tulsa,L,1,0,0,1,jeremy-winchester-1
+Evan Worthington,2017-10-14,7,Colorado,@,Oregon State,W,1,43,0,2,evan-worthington-1
+Asantay Brown,2017-10-15,7,Western Michigan,,Akron,L,1,0,0,0,asantay-brown-1
+Kyron Brown,2017-10-15,7,Akron,@,Western Michigan,W,1,70,0,0,kyron-brown-1
+Terrell Carter,2017-10-19,7,Memphis,@,Houston,W,1,7,0,1,terrell-carter-1
+Garrett Davis,2017-10-19,7,Houston,,Memphis,L,1,58,0,0,garrett-davis-1
+Michael Johnson,2017-10-19,6,Arkansas State,,Louisiana,W,1,0,0,0,michael-johnson-18
+Kyle Bailey,2017-10-20,7,Western Kentucky,@,Old Dominion,W,1,0,0,0,kyle-bailey-1
+Drell Greene,2017-10-20,7,Western Kentucky,@,Old Dominion,W,1,13,0,0,drell-greene-1
+Joe Joe Headen,2017-10-20,7,Old Dominion,,Western Kentucky,L,1,0,0,0,joe-joe-headen-1
+Artis Johnson,2017-10-20,7,Marshall,@,Middle Tennessee State,W,1,17,0,0,artis-johnson-1
+Leverick Johnson,2017-10-20,7,Western Kentucky,@,Old Dominion,W,1,0,0,0,leverick-johnson-1
+Ahki Muhammad,2017-10-20,8,Nevada,,Air Force,L,1,12,0,0,ahki-muhammad-1
+Devin Abraham,2017-10-21,7,South Florida,@,Tulane,W,1,0,0,0,devin-abraham-1
+Jackson Abresch,2017-10-21,7,Northern Illinois,@,Bowling Green State,W,1,14,0,0,jackson-abresch-1
+Mycial Allen,2017-10-21,7,Northern Illinois,@,Bowling Green State,W,1,-3,0,0,mycial-allen-1
+John Battle,2017-10-21,8,Louisiana State,@,Mississippi,W,1,19,0,0,john-battle-1
+Sam Beal,2017-10-21,8,Western Michigan,@,Eastern Michigan,W,1,-15,0,1,sam-beal-1
+Daniel Bituli,2017-10-21,7,Tennessee,@,Alabama,L,1,97,1,0,daniel-bituli-1
+Lorenzo Burns,2017-10-21,7,Arizona,@,California,W,1,21,0,1,lorenzo-burns-1
+Jonathan Celestin,2017-10-21,7,Minnesota,,Illinois,W,1,31,1,0,jonathan-celestin-1
+Sean Chandler,2017-10-21,8,Temple,@,Army,L,1,43,0,0,sean-chandler-2
+Hamp Cheevers,2017-10-21,8,Boston College,@,Virginia,W,1,27,0,1,hamp-cheevers-1
+Justin Clark,2017-10-21,7,Toledo,,Akron,W,1,0,0,1,justin-clark-1
+Ashtyn Davis,2017-10-21,8,California,,Arizona,L,1,31,0,0,ashtyn-davis-1
+Grant Delpit,2017-10-21,8,Louisiana State,@,Mississippi,W,1,0,0,1,grant-delpit-1
+T.J. Edwards,2017-10-21,7,Wisconsin,,Maryland,W,1,54,1,1,tj-edwards-3
+Reggie Floyd,2017-10-21,7,Virginia Tech,,North Carolina,W,1,69,1,0,reggie-floyd-1
+Trayshon Foster,2017-10-21,7,Northern Illinois,@,Bowling Green State,W,1,1,0,0,trayshon-foster-1
+Cannon Gibbs,2017-10-21,8,East Carolina,,Brigham Young,W,1,25,0,1,cannon-gibbs-1
+Kyle Gibson,2017-10-21,6,Central Florida,@,Navy,W,1,9,0,0,kyle-gibson-1
+Ulysees Gilbert III,2017-10-21,8,Akron,@,Toledo,L,1,14,0,0,ulysees-gilbert-iii-1
+Denzel Goolsby,2017-10-21,7,Kansas State,,Oklahoma,L,1,0,0,0,denzel-goolsby-1
+K.J. Gray,2017-10-21,7,Rutgers,,Purdue,W,1,0,0,2,kj-gray-1
+Gerri Green,2017-10-21,7,Mississippi State,,Kentucky,W,1,84,1,0,gerri-green-1
+Stanley Green,2017-10-21,7,Illinois,@,Minnesota,L,1,19,0,0,stanley-green-2
+William Harris,2017-10-21,8,Boston College,@,Virginia,W,1,0,0,1,william-harris-4
+Armond Hawkins,2017-10-21,7,Idaho,@,Missouri,L,1,19,0,0,armond-hawkins-1
+Damon Hayes,2017-10-21,7,Rutgers,,Purdue,W,1,0,0,1,damon-hayes-1
+Braxton Hoyett,2017-10-21,7,Mississippi State,,Kentucky,W,1,2,0,0,braxton-hoyett-1
+Demetrius Jackson,2017-10-21,6,Miami (FL),,Syracuse,W,1,4,0,0,demetrius-jackson-1
+Michael Jackson,2017-10-21,6,Miami (FL),,Syracuse,W,2,0,0,1,michael-jackson-6
+Clayton Johnson,2017-10-21,6,Texas-San Antonio,,Rice,W,2,10,0,1,clayton-johnson-1
+Jaquan Johnson,2017-10-21,6,Miami (FL),,Syracuse,W,1,0,0,0,jaquan-johnson-1
+John Lamot,2017-10-21,8,Boston College,@,Virginia,W,1,40,1,0,john-lamot-1
+Ofa Latu,2017-10-21,8,Utah State,@,Nevada-Las Vegas,W,1,3,0,0,ofa-latu-1
+Dallin Leavitt,2017-10-21,8,Utah State,@,Nevada-Las Vegas,W,1,0,0,1,dallin-leavitt-1
+Darryl Lewis,2017-10-21,7,Louisiana Tech,,Southern Mississippi,L,1,63,1,0,darryl-lewis-3
+Shelton Lewis,2017-10-21,7,Florida Atlantic,,North Texas,W,1,0,0,0,shelton-lewis-2
+David Long,2017-10-21,7,Michigan,@,Penn State,L,1,25,0,0,david-long-3
+Kavika Luafatasaga,2017-10-21,7,Utah,,Arizona State,L,1,0,0,0,kavika-luafatasaga-1
+Chase Lucas,2017-10-21,7,Arizona State,@,Utah,W,1,2,0,0,chase-lucas-1
+Kyran Mitchell,2017-10-21,7,Southern Methodist,@,Cincinnati,W,1,0,0,1,kyran-mitchell-1
+Jaylon Monroe,2017-10-21,7,Tulane,,South Florida,L,1,0,0,0,jaylon-monroe-1
+Brandon Moore,2017-10-21,6,Central Florida,@,Navy,W,1,2,0,1,brandon-moore-6
+Chad Moore,2017-10-21,8,Ohio,,Kent State,W,1,2,0,0,chad-moore-1
+Tarvarius Moore,2017-10-21,7,Southern Mississippi,@,Louisiana Tech,W,1,54,0,1,tarvarius-moore-1
+Lee Moses,2017-10-21,7,Massachusetts,,Georgia Southern,W,1,5,0,0,lee-moses-1
+Andrew Motuapuaka,2017-10-21,7,Virginia Tech,,North Carolina,W,1,18,0,1,andrew-motuapuaka-1
+Antwan Owens,2017-10-21,6,Georgia Tech,,Wake Forest,W,1,27,0,0,antwan-owens-1
+JR Pace,2017-10-21,7,Northwestern,,Iowa,W,1,23,0,0,jr-pace-1
+Jake Parker,2017-10-21,7,Texas Tech,,Iowa State,L,1,34,0,2,jake-parker-1
+DeAndre Pierce,2017-10-21,7,Boise State,,Wyoming,W,1,46,0,0,deandre-pierce-1
+Jeremy Reaves,2017-10-21,7,South Alabama,,Louisiana-Monroe,W,1,0,0,0,jeremy-reaves-1
+Tony Reid,2017-10-21,8,Miami (OH),,Buffalo,W,1,0,0,2,tony-reid-1
+J'Marcus Rhodes,2017-10-21,7,Arizona State,@,Utah,W,1,6,0,0,jmarcus-rhodes-1
+Ramon Richards,2017-10-21,7,Oklahoma State,@,Texas,W,1,0,0,0,ramon-richards-1
+Kevin Richardson,2017-10-21,7,Arkansas,,Auburn,L,1,7,0,0,kevin-richardson-2
+Amik Robertson,2017-10-21,7,Louisiana Tech,,Southern Mississippi,L,1,10,0,0,amik-robertson-1
+Cedarius Rookard,2017-10-21,7,Troy,@,Georgia State,W,1,8,0,0,cedarius-rookard-1
+Christian Sam,2017-10-21,7,Arizona State,@,Utah,W,1,11,0,0,christian-sam-1
+Colin Samuel,2017-10-21,7,UCLA,,Oregon,W,1,0,0,0,colin-samuel-1
+Marcel Spears Jr.,2017-10-21,7,Iowa State,@,Texas Tech,W,1,61,1,1,marcel-spears-jr-1
+Linden Stephens,2017-10-21,8,Cincinnati,,Southern Methodist,L,1,39,0,0,linden-stephens-1
+Corey Straughter,2017-10-21,7,Louisiana-Monroe,@,South Alabama,L,1,16,0,0,corey-straughter-1
+Jordan Swann,2017-10-21,7,Connecticut,,Tulsa,W,1,0,0,0,jordan-swann-1
+Jordan Thomas,2017-10-21,7,Oklahoma,@,Kansas State,W,1,46,0,0,jordan-thomas-3
+Micah Thomas,2017-10-21,7,Navy,,Central Florida,L,1,30,0,0,micah-thomas-2
+Kevin Toliver II,2017-10-21,8,Louisiana State,@,Mississippi,W,1,0,0,1,kevin-toliver-ii-1
+Chris Tooley,2017-10-21,7,Florida Atlantic,,North Texas,W,1,0,0,1,chris-tooley-1
+Jarrius Wallace,2017-10-21,7,Arizona,@,California,W,1,0,0,2,jarrius-wallace-1
+Trumaine Washington,2017-10-21,8,Louisville,@,Florida State,W,2,44,0,0,trumaine-washington-1
+Cameron Watkins,2017-10-21,7,Illinois,@,Minnesota,L,1,0,0,0,cameron-watkins-1
+Nick Watkins,2017-10-21,7,Notre Dame,,Southern California,W,1,14,0,1,nick-watkins-2
+Jordan Whitehead,2017-10-21,8,Pittsburgh,@,Duke,W,1,0,0,1,jordan-whitehead-1
+Avery Williams,2017-10-21,7,Boise State,,Wyoming,W,1,0,0,2,avery-williams-6
+Bryan Williams,2017-10-21,6,Georgia State,,Troy,L,1,6,0,0,bryan-williams-2
+Darius Williams,2017-10-21,7,Alabama-Birmingham,@,UNC Charlotte,L,1,11,0,1,darius-williams-3
+Jay Jay Wilson,2017-10-21,7,Arizona State,@,Utah,W,1,20,1,2,jay-jay-wilson-1
+Mack Wilson,2017-10-21,8,Alabama,,Tennessee,W,1,21,0,0,mack-wilson-1
+Josh Woods,2017-10-21,7,Maryland,@,Wisconsin,L,1,21,0,0,josh-woods-1
+Chris Woolbright,2017-10-21,7,Alabama-Birmingham,@,UNC Charlotte,L,1,18,0,0,chris-woolbright-1
+Omar Hicks-Onu,2017-10-26,8,Oregon State,,Stanford,L,1,0,0,0,omar-hicks-onu-1
+Brandon Simmons,2017-10-26,8,Stanford,@,Oregon State,W,1,9,0,0,brandon-simmons-2
+Cedric Stone,2017-10-26,7,Georgia State,,South Alabama,W,1,26,0,0,cedric-stone-1
+Bryan Williams,2017-10-26,7,Georgia State,,South Alabama,W,1,30,0,0,bryan-williams-2
+Rodney Clemons,2017-10-27,8,Southern Methodist,,Tulsa,W,1,0,0,3,rodney-clemons-1
+Jarrod Franklin,2017-10-27,8,Tulane,@,Memphis,L,1,1,0,1,jarrod-franklin-1
+Ty Schwab,2017-10-27,9,Boston College,,Florida State,W,1,1,0,0,ty-schwab-1
+Otaro Alaka,2017-10-28,8,Texas A&M,,Mississippi State,L,1,0,0,0,otaro-alaka-1
+Grayland Arnold,2017-10-28,8,Baylor,,Texas,L,1,20,0,1,grayland-arnold-1
+Essang Bassey,2017-10-28,8,Wake Forest,,Louisville,W,1,0,0,1,essang-bassey-1
+Quin Blanding,2017-10-28,8,Virginia,@,Pittsburgh,L,1,1,0,0,quin-blanding-1
+Eric Boggs,2017-10-28,8,Appalachian State,@,Massachusetts,L,1,36,0,2,eric-boggs-1
+Saleem Brightwell,2017-10-28,9,Pittsburgh,,Virginia,W,1,16,0,0,saleem-brightwell-1
+J.K. Britt,2017-10-28,9,North Carolina,,Miami (FL),L,1,8,0,0,jk-britt-1
+Lorenzo Burns,2017-10-28,8,Arizona,,Washington State,W,1,14,0,1,lorenzo-burns-1
+Zeno Choi,2017-10-28,8,Hawaii,,San Diego State,L,1,4,0,0,zeno-choi-1
+Devron Davis,2017-10-28,7,Texas-San Antonio,@,Texas-El Paso,W,1,22,1,1,devron-davis-1
+Titus Davis,2017-10-28,7,Central Florida,,Austin Peay,W,1,24,0,0,titus-davis-2
+Duke Dawson,2017-10-28,7,Florida,N,Georgia,L,1,2,0,0,duke-dawson-1
+Lashard Durr,2017-10-28,8,Mississippi State,@,Texas A&M,W,1,20,0,1,lashard-durr-1
+B.J. Edmonds,2017-10-28,7,Arkansas State,@,New Mexico State,W,1,0,0,0,bj-edmonds-1
+Terrell Edmunds,2017-10-28,8,Virginia Tech,,Duke,W,1,15,0,0,terrell-edmunds-1
+DeShon Elliott,2017-10-28,8,Texas,@,Baylor,W,1,43,1,0,deshon-elliott-1
+Marcus Epps,2017-10-28,8,Wyoming,,New Mexico,W,1,2,0,0,marcus-epps-1
+DeAndre Farris,2017-10-28,8,Western Kentucky,,Florida Atlantic,L,1,0,0,0,deandre-farris-1
+Joe Ferguson,2017-10-28,8,Wisconsin,@,Illinois,W,1,37,0,0,joe-ferguson-2
+Tony Fields II,2017-10-28,8,Arizona,,Washington State,W,1,3,0,0,tony-fields-ii-1
+Tony Fields,2017-10-28,8,Indiana,@,Maryland,L,1,34,0,0,tony-fields-2
+Nick Fisher,2017-10-28,9,Colorado,,California,W,1,100,1,1,nick-fisher-1
+Kyle Floyd,2017-10-28,8,Air Force,@,Colorado State,W,1,0,0,0,kyle-floyd-1
+Andy Flusche,2017-10-28,8,North Texas,,Old Dominion,W,1,1,0,0,andy-flusche-1
+Tron Folsom,2017-10-28,8,Troy,,Georgia Southern,W,1,5,0,0,tron-folsom-1
+Nate Gaines,2017-10-28,7,Texas-San Antonio,@,Texas-El Paso,W,1,15,0,0,nate-gaines-1
+Jordan George,2017-10-28,9,Akron,,Buffalo,W,1,0,0,0,jordan-george-1
+Jake Gervase,2017-10-28,8,Iowa,,Minnesota,W,1,0,0,1,jake-gervase-1
+Jefferie Gibson,2017-10-28,7,Arkansas State,@,New Mexico State,W,1,61,0,1,jefferie-gibson-1
+Jeff Gladney,2017-10-28,8,Texas Christian,@,Iowa State,L,1,0,0,2,jeff-gladney-1
+Carl Granderson,2017-10-28,8,Wyoming,,New Mexico,W,1,37,0,0,carl-granderson-1
+A.J. Green,2017-10-28,8,Oklahoma State,@,West Virginia,W,2,58,0,2,aj-green-4
+Ed Hall,2017-10-28,8,Idaho,,Louisiana-Monroe,W,1,7,0,0,ed-hall-2
+Nate Hall,2017-10-28,8,Northwestern,,Michigan State,W,1,0,0,0,nate-hall-2
+Tyler Hall,2017-10-28,8,Wyoming,,New Mexico,W,1,0,0,0,tyler-hall-2
+Javien Hamilton,2017-10-28,8,Mississippi,,Arkansas,L,1,15,0,0,javien-hamilton-1
+Jawuan Harris,2017-10-28,8,Rutgers,@,Michigan,L,1,3,0,0,jawuan-harris-1
+Anthony Hawkins,2017-10-28,9,Colorado State,,Air Force,L,1,5,0,0,anthony-hawkins-1
+Tae Hayes,2017-10-28,8,Appalachian State,@,Massachusetts,L,1,17,0,1,tae-hayes-1
+Joe Joe Headen,2017-10-28,8,Old Dominion,@,North Texas,L,1,0,0,1,joe-joe-headen-1
+Darnay Holmes,2017-10-28,8,UCLA,@,Washington,L,1,0,0,0,darnay-holmes-1
+Jacob Huff,2017-10-28,8,Minnesota,@,Iowa,L,1,0,0,1,jacob-huff-1
+Michael Jackson,2017-10-28,7,Miami (FL),@,North Carolina,W,1,0,0,1,michael-jackson-6
+Eric Jenkins,2017-10-28,8,North Texas,,Old Dominion,W,1,0,0,0,eric-jenkins-1
+James Jones,2017-10-28,8,Air Force,@,Colorado State,W,1,0,0,0,james-jones-15
+Caleb Kelly,2017-10-28,8,Oklahoma,,Texas Tech,W,1,0,0,0,caleb-kelly-1
+Darryl Lewis,2017-10-28,8,Louisiana Tech,@,Rice,W,1,0,0,0,darryl-lewis-3
+Josh Liddell,2017-10-28,8,Arkansas,@,Mississippi,W,1,54,0,1,josh-liddell-1
+Shamad Lomax,2017-10-28,8,New Mexico State,,Arkansas State,L,1,0,0,1,shamad-lomax-1
+Julian Love,2017-10-28,8,Notre Dame,,North Carolina State,W,1,69,1,3,julian-love-1
+Mark McLaurin,2017-10-28,8,Mississippi State,@,Texas A&M,W,1,3,0,0,mark-mclaurin-1
+Herb Miller,2017-10-28,8,Florida Atlantic,@,Western Kentucky,W,1,0,0,0,herb-miller-1
+Dakari Monroe,2017-10-28,9,San Jose State,@,Brigham Young,L,1,0,0,1,dakari-monroe-1
+Steven Montac,2017-10-28,8,South Carolina,,Vanderbilt,W,1,10,0,0,steven-montac-1
+Jerel Morrow,2017-10-28,8,Oklahoma State,@,West Virginia,W,1,20,0,0,jerel-morrow-1
+Lee Moses,2017-10-28,8,Massachusetts,,Appalachian State,W,1,-2,0,0,lee-moses-1
+Brad Muhammad,2017-10-28,7,Florida International,@,Marshall,W,2,14,1,0,brad-muhammad-1
+Jake Parker,2017-10-28,8,Texas Tech,@,Oklahoma,L,1,0,0,0,jake-parker-1
+Brian Peavy,2017-10-28,8,Iowa State,,Texas Christian,W,1,70,0,0,brian-peavy-1
+Charles Perry,2017-10-28,7,Miami (FL),@,North Carolina,W,1,-1,0,0,charles-perry-2
+Jamal Peters,2017-10-28,8,Mississippi State,@,Texas A&M,W,1,90,1,0,jamal-peters-1
+Sheldrick Redwine,2017-10-28,7,Miami (FL),@,North Carolina,W,1,17,0,1,sheldrick-redwine-1
+D.J Reed,2017-10-28,8,Kansas State,@,Kansas,W,1,0,0,2,dj-reed-2
+Ramon Richards,2017-10-28,8,Oklahoma State,@,West Virginia,W,1,24,0,2,ramon-richards-1
+Tim Roberts,2017-10-28,9,Buffalo,@,Akron,L,1,0,0,1,tim-roberts-2
+Kenny Robinson,2017-10-28,8,West Virginia,,Oklahoma State,L,1,39,1,0,kenny-robinson-4
+Justin Rogers,2017-10-28,8,Texas-El Paso,,Texas-San Antonio,L,1,0,0,0,justin-rogers-2
+Ykili Ross,2017-10-28,9,Southern California,@,Arizona State,W,1,37,1,0,ykili-ross-1
+Dominick Sanders,2017-10-28,8,Georgia,N,Florida,W,1,13,0,0,dominick-sanders-1
+Darnell Savage Jr.,2017-10-28,8,Maryland,,Indiana,W,1,18,0,1,darnell-savage-jr-1
+Colin Schooler,2017-10-28,8,Arizona,,Washington State,W,1,66,1,0,colin-schooler-1
+Michael Shelton,2017-10-28,9,Brigham Young,,San Jose State,W,1,0,0,0,michael-shelton-2
+L'Jarius Sneed,2017-10-28,8,Louisiana Tech,@,Rice,W,1,-5,0,0,ljarius-sneed-1
+Andrew Soroh,2017-10-28,8,Florida Atlantic,@,Western Kentucky,W,1,0,0,0,andrew-soroh-1
+Marcel Spears Jr.,2017-10-28,8,Iowa State,,Texas Christian,W,1,0,0,0,marcel-spears-jr-1
+Trey Spencer,2017-10-28,8,Louisiana Tech,@,Rice,W,1,37,1,0,trey-spencer-1
+Jamar Summers,2017-10-28,8,Connecticut,,Missouri,L,1,0,0,0,jamar-summers-1
+Derrick Tindal,2017-10-28,8,Wisconsin,@,Illinois,W,1,9,0,0,derrick-tindal-1
+Shaquille Vereen,2017-10-28,8,Air Force,@,Colorado State,W,1,30,1,0,shaquille-vereen-1
+TJ Warren,2017-10-28,8,Missouri,@,Connecticut,W,1,0,0,0,tj-warren-1
+Fitz Wattley,2017-10-28,8,Coastal Carolina,,Texas State,L,1,5,0,0,fitz-wattley-1
+Jace Whittaker,2017-10-28,8,Arizona,,Washington State,W,1,0,0,1,jace-whittaker-1
+Bennett Williams,2017-10-28,8,Illinois,,Wisconsin,L,1,20,0,0,bennett-williams-1
+Darius Williams,2017-10-28,8,Alabama-Birmingham,@,Southern Mississippi,W,1,41,1,1,darius-williams-3
+Andrew Wingard,2017-10-28,8,Wyoming,,New Mexico,W,2,12,0,0,andrew-wingard-1
+Jahad Woods,2017-10-28,9,Washington State,@,Arizona,L,1,13,0,0,jahad-woods-1
+Jalen Fox,2017-10-31,9,Ohio,,Miami (OH),W,1,25,0,2,jalen-fox-1
+Javon Hagan,2017-10-31,9,Ohio,,Miami (OH),W,1,0,0,1,javon-hagan-1
+Cameron Jefferies,2017-10-31,9,Bowling Green State,@,Kent State,W,1,8,0,0,cameron-jefferies-1
+Marcus Milton,2017-10-31,9,Bowling Green State,@,Kent State,W,1,22,0,1,marcus-milton-1
+Clint Stephens,2017-10-31,9,Bowling Green State,@,Kent State,W,1,0,0,0,clint-stephens-1
+Sean Bunting,2017-11-01,9,Central Michigan,@,Western Michigan,W,1,18,0,0,sean-bunting-1
+Micah Farrar,2017-11-02,8,Navy,@,Temple,L,1,0,0,0,micah-farrar-1
+Ed Hall,2017-11-02,9,Idaho,@,Troy,L,1,10,0,0,ed-hall-2
+Jeff Hubbard,2017-11-02,9,Eastern Michigan,,Ball State,W,1,46,1,0,jeff-hubbard-1
+Trevon Mathis,2017-11-02,9,Toledo,,Northern Illinois,W,2,0,0,1,trevon-mathis-1
+Delvon Randall,2017-11-02,9,Temple,,Navy,W,1,0,0,0,delvon-randall-1
+Carlito Gonzalez,2017-11-03,9,Memphis,@,Tulsa,W,1,6,0,0,carlito-gonzalez-1
+Shelton Lewis,2017-11-03,9,Florida Atlantic,,Marshall,W,1,0,0,3,shelton-lewis-2
+Jalen Young,2017-11-03,9,Florida Atlantic,,Marshall,W,3,39,0,0,jalen-young-1
+Chad Adams,2017-11-04,9,Arizona State,,Colorado,W,1,0,0,0,chad-adams-1
+Adonis Alexander,2017-11-04,9,Virginia Tech,@,Miami (FL),L,1,18,0,0,adonis-alexander-1
+Joe Bachie,2017-11-04,9,Michigan State,,Penn State,W,1,0,0,0,joe-bachie-1
+Parker Baldwin,2017-11-04,10,San Diego State,@,San Jose State,W,1,-5,0,0,parker-baldwin-1
+Robert Barnes,2017-11-04,9,Oklahoma,@,Oklahoma State,W,1,0,0,0,robert-barnes-1
+Stanley Barnwell Jr.,2017-11-04,9,New Mexico,,Utah State,L,1,8,0,0,stanley-barnwell-jr-1
+Tevis Bartlett,2017-11-04,9,Washington,,Oregon,W,1,0,0,0,tevis-bartlett-1
+Tre Bell,2017-11-04,9,Connecticut,,South Florida,L,1,0,0,0,tre-bell-1
+Al-Rasheed Benton,2017-11-04,9,West Virginia,,Iowa State,W,1,0,0,0,al-rasheed-benton-1
+Quin Blanding,2017-11-04,9,Virginia,,Georgia Tech,W,1,13,0,0,quin-blanding-1
+Brady Breeze,2017-11-04,10,Oregon,@,Washington,L,1,0,0,1,brady-breeze-1
+Antoine Brooks,2017-11-04,9,Maryland,N,Rutgers,L,1,0,0,0,antoine-brooks-1
+Ryan Carter,2017-11-04,9,Clemson,@,North Carolina State,W,1,0,0,3,ryan-carter-2
+Dane Cruikshank,2017-11-04,9,Arizona,@,Southern California,L,1,0,0,0,dane-cruikshank-1
+Chris Delarosa,2017-11-04,8,Georgia Southern,,Georgia State,L,1,15,0,0,chris-delarosa-1
+David Dowell,2017-11-04,9,Michigan State,,Penn State,W,2,28,0,0,david-dowell-2
+Joe Ferguson,2017-11-04,9,Wisconsin,@,Indiana,W,2,0,0,0,joe-ferguson-2
+Reggie Floyd,2017-11-04,9,Virginia Tech,@,Miami (FL),L,1,37,0,0,reggie-floyd-1
+Desmond Franklin,2017-11-04,9,Appalachian State,@,Louisiana-Monroe,L,1,6,0,1,desmond-franklin-1
+J.T. Gray,2017-11-04,9,Mississippi State,,Massachusetts,W,1,58,1,1,jt-gray-1
+A.J. Green,2017-11-04,9,Oklahoma State,,Oklahoma,L,1,7,0,0,aj-green-4
+Harrison Hand,2017-11-04,9,Baylor,@,Kansas,W,1,0,0,0,harrison-hand-2
+Ajene Harris,2017-11-04,10,Southern California,,Arizona,W,1,-4,0,1,ajene-harris-1
+Brontae Harris,2017-11-04,9,Alabama-Birmingham,,Rice,W,1,64,1,0,brontae-harris-1
+Ronnie Harrison,2017-11-04,9,Alabama,,Louisiana State,W,1,6,0,0,ronnie-harrison-1
+Tyler Hayes,2017-11-04,9,Massachusetts,@,Mississippi State,L,1,3,0,1,tyler-hayes-2
+C.J. Henderson,2017-11-04,8,Florida,@,Missouri,L,1,0,0,0,cj-henderson-1
+Dalton Herrington,2017-11-04,9,New Mexico State,@,Texas State,W,1,7,0,2,dalton-herrington-1
+Kiy Hester,2017-11-04,9,Rutgers,N,Maryland,W,1,52,1,2,kiy-hester-1
+Amani Hooker,2017-11-04,9,Iowa,,Ohio State,W,1,30,1,0,amani-hooker-1
+Tyler Horton,2017-11-04,9,Boise State,,Nevada,W,1,0,0,0,tyler-horton-1
+John Houston Jr.,2017-11-04,10,Southern California,,Arizona,W,1,0,0,0,john-houston-jr-1
+Godwin Igwebuike,2017-11-04,9,Northwestern,@,Nebraska,W,1,0,0,0,godwin-igwebuike-1
+Joshua Jackson,2017-11-04,9,Iowa,,Ohio State,W,3,22,0,0,joshua-jackson-3
+Derwin James,2017-11-04,8,Florida State,,Syracuse,W,1,0,0,4,derwin-james-1
+Jaquan Johnson,2017-11-04,8,Miami (FL),,Virginia Tech,W,1,20,0,0,jaquan-johnson-1
+William Johnson,2017-11-04,9,Oklahoma,@,Oklahoma State,W,1,0,0,0,william-johnson-4
+Bruce Jordan-Swilling,2017-11-04,8,Georgia Tech,@,Virginia,L,1,27,1,0,bruce-jordan-swilling-1
+Austin Jupe,2017-11-04,8,Texas-San Antonio,@,Florida International,L,1,0,0,0,austin-jupe-1
+Joshua Kalu,2017-11-04,9,Nebraska,,Northwestern,L,1,32,0,2,joshua-kalu-1
+Kameron Kelly,2017-11-04,10,San Diego State,@,San Jose State,W,1,0,0,2,kameron-kelly-1
+Tim Kidd-Glass,2017-11-04,9,North Carolina State,,Clemson,L,1,0,0,0,tim-kidd-glass-1
+Julian Love,2017-11-04,9,Notre Dame,,Wake Forest,W,1,25,0,3,julian-love-1
+Frankie Luvu,2017-11-04,10,Washington State,,Stanford,W,1,8,0,0,frankie-luvu-1
+Solomon Matautia,2017-11-04,9,Hawaii,@,Nevada-Las Vegas,L,1,40,0,1,solomon-matautia-1
+Brandon McDowell,2017-11-04,9,Houston,,East Carolina,W,1,74,1,0,brandon-mcdowell-1
+Emmanuel Moseley,2017-11-04,9,Tennessee,,Southern Mississippi,W,1,19,0,2,emmanuel-moseley-1
+Kekoa Nawahine,2017-11-04,9,Boise State,,Nevada,W,1,13,0,0,kekoa-nawahine-1
+Nick Needham,2017-11-04,9,Texas-El Paso,@,Middle Tennessee State,L,1,0,0,0,nick-needham-1
+Brenton Nelson,2017-11-04,9,Virginia,,Georgia Tech,W,1,0,0,0,brenton-nelson-1
+Marcus Newby,2017-11-04,9,Nebraska,,Northwestern,L,1,49,1,1,marcus-newby-1
+Deatrick Nichols,2017-11-04,9,South Florida,@,Connecticut,W,1,0,0,0,deatrick-nichols-1
+Bobby Okereke,2017-11-04,9,Stanford,@,Washington State,L,1,52,1,0,bobby-okereke-1
+Mikial Onu,2017-11-04,9,Southern Methodist,,Central Florida,L,1,0,0,0,mikial-onu-1
+Amani Oruwariye,2017-11-04,9,Penn State,@,Michigan State,L,1,0,0,4,amani-oruwariye-1
+Malkom Parrish,2017-11-04,9,Georgia,,South Carolina,W,1,3,0,0,malkom-parrish-1
+D'Andre Payne,2017-11-04,9,Iowa State,@,West Virginia,L,1,0,0,1,dandre-payne-1
+T.J. Posey,2017-11-04,8,Louisiana,@,South Alabama,W,1,3,0,1,tj-posey-1
+Kyle Queiro,2017-11-04,9,Northwestern,@,Nebraska,W,2,23,0,3,kyle-queiro-1
+Sheldrick Redwine,2017-11-04,8,Miami (FL),,Virginia Tech,W,1,45,0,0,sheldrick-redwine-1
+J.R. Reed,2017-11-04,9,Georgia,,South Carolina,W,1,14,0,1,jr-reed-3
+Isaiah Rodgers,2017-11-04,9,Massachusetts,@,Mississippi State,L,2,59,1,0,isaiah-rodgers-1
+Tegray Scales,2017-11-04,9,Indiana,,Wisconsin,L,1,0,0,0,tegray-scales-1
+Duke Shelley,2017-11-04,9,Kansas State,@,Texas Tech,W,1,25,1,2,duke-shelley-1
+Anthony Sherrils,2017-11-04,9,Missouri,,Florida,W,1,1,0,0,anthony-sherrils-1
+Trey Spencer,2017-11-04,9,Louisiana Tech,,North Texas,L,1,0,0,0,trey-spencer-1
+Greg Stroman,2017-11-04,9,Virginia Tech,@,Miami (FL),L,1,1,0,0,greg-stroman-1
+Jacob Thieneman,2017-11-04,9,Purdue,,Illinois,W,1,0,0,0,jacob-thieneman-1
+Mychealon Thomas,2017-11-04,9,Texas Tech,,Kansas State,L,1,0,0,0,mychealon-thomas-1
+Corey Turner,2017-11-04,8,Louisiana,@,South Alabama,W,1,22,0,1,corey-turner-2
+K'Von Wallace,2017-11-04,9,Clemson,@,North Carolina State,W,1,55,0,1,kvon-wallace-1
+Curtis Weaver,2017-11-04,9,Boise State,,Nevada,W,1,17,0,0,curtis-weaver-1
+Ryan White,2017-11-04,9,Vanderbilt,,Western Kentucky,W,1,15,0,0,ryan-white-3
+Chad Whitener,2017-11-04,9,Oklahoma State,,Oklahoma,L,1,35,0,0,chad-whitener-2
+Darius Williams,2017-11-04,9,Alabama-Birmingham,,Rice,W,1,26,0,0,darius-williams-3
+Terrell Williams,2017-11-04,9,Houston,,East Carolina,W,1,11,0,0,terrell-williams-3
+Jordan Wyatt,2017-11-04,9,Southern Methodist,,Central Florida,L,1,36,1,1,jordan-wyatt-1
+Shawn Featherstone,2017-11-07,10,Akron,@,Miami (OH),L,1,41,0,0,shawn-featherstone-1
+Jordan George,2017-11-07,10,Akron,@,Miami (OH),L,1,0,0,0,jordan-george-1
+Tycen Anderson,2017-11-08,10,Toledo,@,Ohio,L,1,0,0,0,tycen-anderson-1
+Alex Briones,2017-11-08,10,Central Michigan,,Eastern Michigan,W,1,7,0,0,alex-briones-1
+Sean Bunting,2017-11-08,10,Central Michigan,,Eastern Michigan,W,2,0,0,1,sean-bunting-1
+Amari Coleman,2017-11-08,10,Central Michigan,,Eastern Michigan,W,1,33,1,1,amari-coleman-1
+Josh Cox,2017-11-08,10,Central Michigan,,Eastern Michigan,W,1,47,0,1,josh-cox-1
+Darius Phillips,2017-11-08,10,Western Michigan,,Kent State,W,1,43,1,1,darius-phillips-1
+Robert Spillane,2017-11-08,10,Western Michigan,,Kent State,W,1,35,1,0,robert-spillane-1
+Jawuan Johnson,2017-11-09,10,Northern Illinois,,Ball State,W,1,18,0,0,jawuan-johnson-1
+Zayne Anderson,2017-11-10,11,Brigham Young,@,Nevada-Las Vegas,W,1,0,0,0,zayne-anderson-1
+Marquese Taylor,2017-11-10,10,Cincinnati,,Temple,L,1,7,0,0,marquese-taylor-1
+Fred Warner,2017-11-10,11,Brigham Young,@,Nevada-Las Vegas,W,1,26,0,0,fred-warner-1
+Chad Adams,2017-11-11,10,Arizona State,@,UCLA,L,1,0,0,0,chad-adams-1
+DeAndre Applin,2017-11-11,9,Georgia State,@,Texas State,W,1,0,0,1,deandre-applin-1
+Damon Arnette,2017-11-11,10,Ohio State,,Michigan State,W,1,0,0,0,damon-arnette-1
+Derrick Baity,2017-11-11,10,Kentucky,@,Vanderbilt,W,1,45,0,0,derrick-baity-1
+Corrion Ballard,2017-11-11,10,Utah,,Washington State,L,1,35,0,1,corrion-ballard-1
+Trajan Bandy,2017-11-11,9,Miami (FL),,Notre Dame,W,1,65,1,0,trajan-bandy-1
+Dameon Barber,2017-11-11,10,Nevada,,San Jose State,W,3,139,2,0,dameon-barber-1
+Reed Blankenship,2017-11-11,10,Middle Tennessee State,@,UNC Charlotte,W,1,26,0,0,reed-blankenship-1
+Shawn Boone,2017-11-11,10,North Carolina State,@,Boston College,W,1,0,0,0,shawn-boone-1
+Blace Brown,2017-11-11,10,Troy,@,Coastal Carolina,W,2,40,0,0,blace-brown-1
+Lorenzo Burns,2017-11-11,10,Arizona,,Oregon State,W,1,24,0,0,lorenzo-burns-1
+Preston Carey,2017-11-11,10,Coastal Carolina,,Troy,L,1,28,0,0,preston-carey-1
+Hunter Dale,2017-11-11,11,Washington State,@,Utah,W,1,34,0,0,hunter-dale-1
+Antwuan Davis,2017-11-11,10,Texas,,Kansas,W,2,16,1,0,antwuan-davis-1
+Devron Davis,2017-11-11,9,Texas-San Antonio,,Alabama-Birmingham,L,1,2,0,0,devron-davis-1
+Will Dawkins,2017-11-11,10,Alabama-Birmingham,@,Texas-San Antonio,W,1,2,0,0,will-dawkins-1
+Hasan Defense,2017-11-11,10,Kansas,@,Texas,L,1,10,0,1,hasan-defense-1
+Vaughnte Dorsey,2017-11-11,10,Texas Tech,N,Baylor,W,1,0,0,1,vaughnte-dorsey-1
+David Dowell,2017-11-11,10,Michigan State,@,Ohio State,L,1,15,0,0,david-dowell-2
+Jaylen Dunlap,2017-11-11,10,Illinois,,Indiana,L,1,0,0,1,jaylen-dunlap-1
+Mike Edwards,2017-11-11,10,Kentucky,@,Vanderbilt,W,1,0,0,0,mike-edwards-8
+T.J. Edwards,2017-11-11,10,Wisconsin,,Iowa,W,1,0,0,1,tj-edwards-3
+Marcus Epps,2017-11-11,10,Wyoming,@,Air Force,W,1,31,0,0,marcus-epps-1
+Rashard Fant,2017-11-11,10,Indiana,@,Illinois,W,1,0,0,3,rashard-fant-1
+Jordan Fogal,2017-11-11,11,Colorado State,,Boise State,L,1,0,0,1,jordan-fogal-1
+Eugene Ford,2017-11-11,10,Hawaii,,Fresno State,L,1,19,0,0,eugene-ford-1
+Chauncey Gardner,2017-11-11,9,Florida,@,South Carolina,L,1,46,0,0,chauncey-gardner-1
+Jake Gervase,2017-11-11,10,Iowa,@,Wisconsin,L,1,0,0,0,jake-gervase-1
+Denzel Goolsby,2017-11-11,10,Kansas State,,West Virginia,L,1,22,0,0,denzel-goolsby-1
+Sean Grayer,2017-11-11,10,South Alabama,,Arkansas State,W,1,0,0,0,sean-grayer-1
+A.J. Green,2017-11-11,10,Oklahoma State,@,Iowa State,W,1,0,0,0,aj-green-4
+Jordan Griffin,2017-11-11,10,Kentucky,@,Vanderbilt,W,1,2,0,0,jordan-griffin-2
+Jason Hall,2017-11-11,10,Texas,,Kansas,W,1,25,0,1,jason-hall-2
+LaDarius Hamilton,2017-11-11,10,North Texas,,Texas-El Paso,W,1,15,0,0,ladarius-hamilton-1
+Ajene Harris,2017-11-11,11,Southern California,@,Colorado,W,2,35,1,2,ajene-harris-1
+C.J. Henderson,2017-11-11,9,Florida,@,South Carolina,L,1,25,0,2,cj-henderson-1
+Winn Howard,2017-11-11,9,Navy,,Southern Methodist,W,1,-1,0,0,winn-howard-1
+Khaleke Hudson,2017-11-11,10,Michigan,@,Maryland,W,1,22,0,0,khaleke-hudson-1
+Mike Hughes,2017-11-11,9,Central Florida,,Connecticut,W,1,0,0,0,mike-hughes-4
+Joshua Jackson,2017-11-11,10,Iowa,@,Wisconsin,L,2,95,2,1,joshua-jackson-3
+Jaquan Johnson,2017-11-11,9,Miami (FL),,Notre Dame,W,1,7,0,1,jaquan-johnson-1
+Nazeeh Johnson,2017-11-11,10,Marshall,,Western Kentucky,W,1,45,1,0,nazeeh-johnson-1
+Myles Jones,2017-11-11,10,Texas A&M,,New Mexico,W,1,0,0,3,myles-jones-1
+Vosean Joseph,2017-11-11,9,Florida,@,South Carolina,L,1,0,0,1,vosean-joseph-1
+Anthoula Kelly,2017-11-11,10,Fresno State,@,Hawaii,W,1,0,0,0,anthoula-kelly-1
+Devon Key,2017-11-11,10,Western Kentucky,@,Marshall,L,1,0,0,0,devon-key-1
+Justin Layne,2017-11-11,10,Michigan State,@,Ohio State,L,1,0,0,2,justin-layne-1
+David Long,2017-11-11,10,Michigan,@,Maryland,W,1,80,0,1,david-long-3
+Chaiziere Malbrue,2017-11-11,9,Louisiana,@,Mississippi,L,1,15,0,0,chaiziere-malbrue-1
+Solomon Matautia,2017-11-11,10,Hawaii,,Fresno State,L,1,19,1,0,solomon-matautia-1
+Marcus McSheppard,2017-11-11,10,Northwestern,,Purdue,W,1,6,0,0,marcus-mcsheppard-1
+Nathan Meadors,2017-11-11,10,UCLA,,Arizona State,W,1,27,1,2,nathan-meadors-1
+Jesse Monteiro,2017-11-11,10,Massachusetts,N,Maine,W,1,7,0,1,jesse-monteiro-1
+Lee Moses,2017-11-11,10,Massachusetts,N,Maine,W,1,70,1,2,lee-moses-1
+Tobias Moss,2017-11-11,10,South Alabama,,Arkansas State,W,1,0,0,1,tobias-moss-1
+Parry Nickerson,2017-11-11,10,Tulane,@,East Carolina,W,1,0,0,1,parry-nickerson-1
+Chima Onyeukwu,2017-11-11,11,Washington State,@,Utah,W,1,0,0,0,chima-onyeukwu-1
+Kaleb Prewett,2017-11-11,10,Missouri,,Tennessee,W,1,4,0,1,kaleb-prewett-1
+Jalen Price,2017-11-11,10,East Carolina,,Tulane,L,1,12,0,0,jalen-price-1
+Aaron Ramseur,2017-11-11,10,East Carolina,,Tulane,L,1,-2,0,0,aaron-ramseur-1
+Jeremy Reaves,2017-11-11,10,South Alabama,,Arkansas State,W,1,7,0,1,jeremy-reaves-1
+D.J Reed,2017-11-11,10,Kansas State,,West Virginia,L,1,25,0,1,dj-reed-2
+Elijah Riley,2017-11-11,10,Army,,Duke,W,1,0,0,0,elijah-riley-1
+Delano Robinson,2017-11-11,10,Southern Methodist,@,Navy,L,1,0,0,0,delano-robinson-1
+Kenny Robinson,2017-11-11,10,West Virginia,@,Kansas State,W,1,37,0,0,kenny-robinson-4
+Ezekiel Rose,2017-11-11,10,West Virginia,@,Kansas State,W,1,0,0,0,ezekiel-rose-1
+Tegray Scales,2017-11-11,10,Indiana,@,Illinois,W,1,0,0,0,tegray-scales-1
+Ty Schwab,2017-11-11,10,Boston College,,North Carolina State,L,1,0,0,0,ty-schwab-1
+Anthony Sherrils,2017-11-11,10,Missouri,,Tennessee,W,1,5,0,0,anthony-sherrils-1
+Dee Smith,2017-11-11,10,Louisville,,Virginia,W,1,45,0,0,dee-smith-3
+Van Smith,2017-11-11,10,Clemson,,Florida State,W,1,38,0,0,van-smith-2
+Darrell Songy,2017-11-11,10,South Alabama,,Arkansas State,W,1,0,0,1,darrell-songy-1
+Justin Strnad,2017-11-11,10,Wake Forest,@,Syracuse,W,1,0,0,0,justin-strnad-1
+Greg Stroman,2017-11-11,10,Virginia Tech,@,Georgia Tech,L,1,24,1,1,greg-stroman-1
+Robert Taylor,2017-11-11,11,Washington State,@,Utah,W,1,0,0,0,robert-taylor-3
+Micah Thomas,2017-11-11,9,Navy,,Southern Methodist,W,1,0,0,0,micah-thomas-2
+Jalen Thompson,2017-11-11,11,Washington State,@,Utah,W,1,0,0,0,jalen-thompson-2
+Denzil Ware,2017-11-11,10,Kentucky,@,Vanderbilt,W,1,1,0,0,denzil-ware-1
+Nigel Warrior,2017-11-11,10,Tennessee,@,Missouri,L,1,70,1,0,nigel-warrior-1
+Damon Webb,2017-11-11,10,Ohio State,,Michigan State,W,1,47,0,0,damon-webb-1
+Avery Williams,2017-11-11,10,Boise State,@,Colorado State,W,1,0,0,0,avery-williams-6
+Greedy Williams,2017-11-11,10,Louisiana State,,Arkansas,W,1,0,0,1,greedy-williams-1
+Jaboree Williams,2017-11-11,10,Wake Forest,@,Syracuse,W,1,52,0,0,jaboree-williams-1
+Jamyest Williams,2017-11-11,10,South Carolina,,Florida,W,1,0,0,0,jamyest-williams-1
+Shawn Wilson,2017-11-11,10,Oregon State,@,Arizona,L,1,-2,0,0,shawn-wilson-1
+Kenric Young,2017-11-11,10,Utah,,Washington State,L,1,0,0,0,kenric-young-1
+Malek Young,2017-11-11,9,Miami (FL),,Notre Dame,W,1,13,0,1,malek-young-1
+Sean Bunting,2017-11-14,11,Central Michigan,@,Kent State,W,1,0,0,0,sean-bunting-1
+Miles Daniel,2017-11-14,11,Kent State,,Central Michigan,L,1,9,0,0,miles-daniel-1
+Shawn Featherstone,2017-11-14,11,Akron,,Ohio,W,1,45,0,0,shawn-featherstone-1
+Jordan George,2017-11-14,11,Akron,,Ohio,W,1,28,0,0,jordan-george-1
+Joshua Allen,2017-11-15,11,Miami (OH),,Eastern Michigan,L,1,0,0,0,joshua-allen-1
+Kevin McGill,2017-11-15,11,Eastern Michigan,@,Miami (OH),W,1,0,0,2,kevin-mcgill-1
+Samuel Womack,2017-11-15,11,Toledo,@,Bowling Green State,W,1,0,0,0,samuel-womack-1
+Christian Albright,2017-11-16,11,Ball State,,Buffalo,L,1,3,0,0,christian-albright-1
+Diamon Cannon,2017-11-16,11,Tulsa,@,South Florida,L,1,4,0,0,diamon-cannon-1
+Ryan Williamson,2017-11-16,11,Buffalo,@,Ball State,W,1,18,0,0,ryan-williamson-1
+Javin White,2017-11-17,11,Nevada-Las Vegas,@,New Mexico,W,1,13,0,1,javin-white-1
+Kendall Adams,2017-11-18,11,Kansas State,@,Oklahoma State,W,1,19,0,0,kendall-adams-1
+Jaire Alexander,2017-11-18,11,Louisville,,Syracuse,W,1,0,0,2,jaire-alexander-1
+Josh Allen,2017-11-18,11,Kentucky,@,Georgia,L,1,14,0,0,josh-allen-6
+Darius Allensworth,2017-11-18,11,California,@,Stanford,L,1,0,0,0,darius-allensworth-1
+Ugo Amadi,2017-11-18,11,Oregon,,Arizona,W,1,0,0,2,ugo-amadi-1
+Bryton Barr,2017-11-18,11,Massachusetts,@,Brigham Young,W,1,0,0,0,bryton-barr-1
+Essang Bassey,2017-11-18,11,Wake Forest,,North Carolina State,W,1,0,0,2,essang-bassey-1
+Emmanuel Beal,2017-11-18,11,Oklahoma,@,Kansas,W,1,3,0,0,emmanuel-beal-1
+Terry Beckner Jr.,2017-11-18,11,Missouri,@,Vanderbilt,W,1,49,0,1,terry-beckner-jr-1
+Quin Blanding,2017-11-18,11,Virginia,@,Miami (FL),L,1,0,0,0,quin-blanding-1
+Shawn Boone,2017-11-18,11,North Carolina State,@,Wake Forest,L,1,0,0,1,shawn-boone-1
+Jacques Boudreaux,2017-11-18,10,Louisiana,,New Mexico State,W,1,50,0,0,jacques-boudreaux-1
+Monquavion Brinson,2017-11-18,10,Georgia Southern,,South Alabama,W,1,50,0,3,monquavion-brinson-1
+Andrew Brown,2017-11-18,10,Florida International,@,Florida Atlantic,L,1,0,0,0,andrew-brown-5
+Devin Bush,2017-11-18,11,Michigan,@,Wisconsin,L,1,0,0,0,devin-bush-2
+Sean Carter,2017-11-18,11,Old Dominion,,Rice,W,1,4,0,0,sean-carter-1
+Hamp Cheevers,2017-11-18,11,Boston College,N,Connecticut,W,1,16,0,0,hamp-cheevers-1
+Nevelle Clarke,2017-11-18,10,Central Florida,@,Temple,W,1,0,0,1,nevelle-clarke-1
+Dane Cruikshank,2017-11-18,11,Arizona,@,Oregon,L,1,64,0,0,dane-cruikshank-1
+Aaron Davis,2017-11-18,11,Georgia,,Kentucky,W,1,0,0,0,aaron-davis-8
+Javaris Davis,2017-11-18,11,Auburn,,Louisiana-Monroe,W,1,0,0,1,javaris-davis-1
+Lukas Denis,2017-11-18,11,Boston College,N,Connecticut,W,1,56,0,2,lukas-denis-1
+Victor Dimukeje,2017-11-18,11,Duke,,Georgia Tech,W,1,26,0,0,victor-dimukeje-1
+Kelsey Douglas,2017-11-18,11,Southern Mississippi,,UNC Charlotte,W,2,100,2,0,kelsey-douglas-1
+Ben Edwards,2017-11-18,11,Stanford,,California,W,1,29,0,0,ben-edwards-1
+Rashad Fenton,2017-11-18,11,South Carolina,,Wofford,W,1,8,0,0,rashad-fenton-1
+Leon Flanagan Jr.,2017-11-18,11,Massachusetts,@,Brigham Young,W,1,0,0,0,leon-flanagan-jr-1
+Reggie Floyd,2017-11-18,11,Virginia Tech,,Pittsburgh,W,1,0,0,0,reggie-floyd-1
+Chauncey Gardner,2017-11-18,10,Florida,,Alabama-Birmingham,W,1,42,0,0,chauncey-gardner-1
+Kyle Gibson,2017-11-18,10,Central Florida,@,Temple,W,1,17,0,0,kyle-gibson-1
+Jeff Gladney,2017-11-18,11,Texas Christian,@,Texas Tech,W,1,94,0,1,jeff-gladney-1
+Shaquem Griffin,2017-11-18,10,Central Florida,@,Temple,W,1,22,0,1,shaquem-griffin-1
+Ty Griffin,2017-11-18,11,Oregon,,Arizona,W,1,19,0,0,ty-griffin-1
+Nate Hall,2017-11-18,11,Northwestern,,Minnesota,W,1,18,0,0,nate-hall-2
+Jawuan Harris,2017-11-18,11,Rutgers,@,Indiana,L,1,0,0,0,jawuan-harris-1
+Montre Hartage,2017-11-18,11,Northwestern,,Minnesota,W,1,0,0,0,montre-hartage-1
+Myles Hartsfield,2017-11-18,11,Mississippi,,Texas A&M,L,1,0,0,0,myles-hartsfield-1
+Tyler Hayes,2017-11-18,11,Massachusetts,@,Brigham Young,W,1,21,0,0,tyler-hayes-2
+Koa Haynes,2017-11-18,10,Louisiana,,New Mexico State,W,1,0,0,0,koa-haynes-1
+Trayvon Henderson,2017-11-18,11,Hawaii,@,Utah State,L,1,0,0,1,trayvon-henderson-1
+Derwin James,2017-11-18,10,Florida State,,Delaware State,W,1,41,1,0,derwin-james-1
+Pat Jasinski,2017-11-18,10,Central Florida,@,Temple,W,1,-1,0,1,pat-jasinski-1
+Roland Jenkins,2017-11-18,10,Louisiana-Monroe,@,Auburn,L,1,0,0,0,roland-jenkins-1
+Isaiah Johnson,2017-11-18,10,Houston,@,Tulane,L,1,39,0,0,isaiah-johnson-4
+Jaquan Johnson,2017-11-18,10,Miami (FL),,Virginia,W,1,30,1,0,jaquan-johnson-1
+Laurence Hootie Jones,2017-11-18,11,Alabama,,Mercer,W,1,0,0,0,laurence-hootie-jones-1
+Austin Jupe,2017-11-18,10,Texas-San Antonio,,Marshall,W,1,1,0,1,austin-jupe-1
+DaMarion King,2017-11-18,11,Louisiana Tech,@,Texas-El Paso,W,1,71,1,0,damarion-king-1
+Brandon Lee,2017-11-18,11,Missouri,@,Vanderbilt,W,1,42,1,2,brandon-lee-1
+Trey Lomax,2017-11-18,11,San Diego State,,Nevada,W,1,26,0,1,trey-lomax-1
+Chris Love,2017-11-18,11,East Carolina,,Cincinnati,W,1,9,0,0,chris-love-1
+Chase Lucas,2017-11-18,11,Arizona State,@,Oregon State,W,1,0,0,1,chase-lucas-1
+Avonte Maddox,2017-11-18,11,Pittsburgh,@,Virginia Tech,L,1,0,0,3,avonte-maddox-1
+Justin Middleton,2017-11-18,10,Louisiana,,New Mexico State,W,1,0,0,0,justin-middleton-1
+Skai Moore,2017-11-18,11,South Carolina,,Wofford,W,1,1,0,0,skai-moore-1
+Navon Mosely,2017-11-18,11,Purdue,@,Iowa,W,1,0,0,0,navon-mosely-1
+Dylan Moses,2017-11-18,11,Alabama,,Mercer,W,1,11,0,0,dylan-moses-1
+Lee Moses,2017-11-18,11,Massachusetts,@,Brigham Young,W,1,13,0,1,lee-moses-1
+Trayvon Mullen,2017-11-18,11,Clemson,,Citadel,W,1,0,0,0,trayvon-mullen-1
+Parry Nickerson,2017-11-18,11,Tulane,,Houston,W,1,0,0,1,parry-nickerson-1
+Khane Pass,2017-11-18,11,Louisville,,Syracuse,W,1,40,0,0,khane-pass-1
+Troy Pride Jr.,2017-11-18,11,Notre Dame,,Navy,W,1,-5,0,1,troy-pride-jr-1
+Kyle Queiro,2017-11-18,11,Northwestern,,Minnesota,W,1,36,0,0,kyle-queiro-1
+Taylor Rapp,2017-11-18,11,Washington,,Utah,W,1,1,0,0,tyler-rapp-2
+Max Regan,2017-11-18,11,Army,@,North Texas,L,1,0,0,0,max-regan-1
+Amik Robertson,2017-11-18,11,Louisiana Tech,@,Texas-El Paso,W,1,25,0,0,amik-robertson-1
+Kenny Robinson,2017-11-18,11,West Virginia,,Texas,L,1,94,1,0,kenny-robinson-4
+Nick Ruffin,2017-11-18,11,Auburn,,Louisiana-Monroe,W,1,45,1,0,nick-ruffin-1
+Stanford Samuels III,2017-11-18,10,Florida State,,Delaware State,W,1,0,0,2,stanford-samuels-iii-1
+Duke Shelley,2017-11-18,11,Kansas State,@,Oklahoma State,W,1,0,0,0,duke-shelley-1
+Shaq Smith,2017-11-18,11,Clemson,,Citadel,W,1,6,0,0,shaq-smith-1
+Adam Sparks,2017-11-18,11,Missouri,@,Vanderbilt,W,1,7,0,0,adam-sparks-1
+Brad Stewart,2017-11-18,10,Florida,,Alabama-Birmingham,W,1,0,0,0,brad-stewart-3
+Greg Stroman,2017-11-18,11,Virginia Tech,,Pittsburgh,W,1,12,0,2,greg-stroman-1
+Marvell Tell III,2017-11-18,12,Southern California,,UCLA,W,1,27,0,0,marvell-tell-iii-1
+Deionte Thompson,2017-11-18,11,Alabama,,Mercer,W,1,21,0,0,deionte-thompson-1
+Juan Thornhill,2017-11-18,11,Virginia,@,Miami (FL),L,1,0,0,2,juan-thornhill-1
+Taj-Amir Torres,2017-11-18,11,Boston College,N,Connecticut,W,1,65,1,1,taj-amir-torres-1
+Derrick Tucker,2017-11-18,11,Texas A&M,@,Mississippi,W,1,19,1,2,derrick-tucker-1
+Kindle Vildor,2017-11-18,10,Georgia Southern,,South Alabama,W,1,0,0,2,kindle-vildor-1
+Jaleel Wadood,2017-11-18,11,UCLA,@,Southern California,L,1,24,0,0,jaleel-wadood-1
+Trumaine Washington,2017-11-18,11,Louisville,,Syracuse,W,1,0,0,0,trumaine-washington-1
+Josh Watson,2017-11-18,12,Colorado State,,San Jose State,W,1,0,0,0,josh-watson-2
+Fitz Wattley,2017-11-18,11,Coastal Carolina,@,Idaho,W,1,40,0,0,fitz-wattley-1
+Reggie Wilkerson,2017-11-18,11,Iowa State,@,Baylor,W,1,31,0,0,reggie-wilkerson-1
+Chucky Williams,2017-11-18,11,Louisville,,Syracuse,W,1,2,0,0,chucky-williams-1
+Renell Wren,2017-11-18,11,Arizona State,@,Oregon State,W,1,-4,0,0,renell-wren-1
+Jordan Wyatt,2017-11-18,11,Southern Methodist,@,Memphis,L,1,19,0,0,jordan-wyatt-1
+Joshua Allen,2017-11-21,12,Miami (OH),@,Ball State,W,1,49,1,2,joshua-allen-1
+Denzel Butler,2017-11-21,12,Akron,,Kent State,W,1,0,0,0,denzel-butler-1
+Deondre Daniels,2017-11-21,12,Miami (OH),@,Ball State,W,1,0,0,0,deondre-daniels-1
+Alvin Davis,2017-11-21,12,Akron,,Kent State,W,1,2,0,0,alvin-davis-4
+Juan Giraldo,2017-11-21,12,Eastern Michigan,,Bowling Green State,W,1,3,0,0,juan-giraldo-1
+Montre Gregory,2017-11-21,12,Bowling Green State,@,Eastern Michigan,L,1,18,0,0,montre-gregory-1
+Demetrius Monday,2017-11-21,12,Kent State,@,Akron,L,1,19,0,0,demetrius-monday-1
+Myles Hartsfield,2017-11-23,12,Mississippi,@,Mississippi State,W,1,15,0,0,myles-hartsfield-1
+Mark McLaurin,2017-11-23,12,Mississippi State,,Mississippi,L,1,8,0,0,mark-mclaurin-1
+C.J. Moore,2017-11-23,12,Mississippi,@,Mississippi State,W,1,48,0,1,cj-moore-2
+Kris Boyd,2017-11-24,12,Texas,,Texas Tech,L,1,44,0,5,kris-boyd-1
+Sean Bunting,2017-11-24,12,Central Michigan,,Northern Illinois,W,1,1,0,2,sean-bunting-1
+Douglas Coleman,2017-11-24,12,Texas Tech,@,Texas,W,1,55,0,0,douglas-coleman-1
+Josh Cox,2017-11-24,12,Central Michigan,,Northern Illinois,W,1,15,0,0,josh-cox-1
+Davante Davis,2017-11-24,12,Texas,,Texas Tech,L,1,14,0,0,davante-davis-1
+Jordan Flack,2017-11-24,12,New Mexico,@,San Diego State,L,1,29,0,0,jordan-flack-1
+Khalil Hodge,2017-11-24,12,Buffalo,,Ohio,W,1,0,0,1,khalil-hodge-1
+Ronnie Hoggins,2017-11-24,11,South Florida,@,Central Florida,L,1,0,0,0,ronnie-hoggins-1
+Ka'dar Hollman,2017-11-24,12,Toledo,,Western Michigan,W,1,0,0,1,kadar-hollman-1
+Mike Hughes,2017-11-24,11,Central Florida,,South Florida,W,1,0,0,2,mike-hughes-4
+Obbie Jackson,2017-11-24,12,Western Michigan,@,Toledo,L,1,0,0,0,obbie-jackson-1
+Josey Jewell,2017-11-24,12,Iowa,@,Nebraska,W,1,4,0,3,josey-jewell-1
+Jawuan Johnson,2017-11-24,12,Northern Illinois,@,Central Michigan,L,1,37,1,0,jawuan-johnson-1
+Jawon McDowell,2017-11-24,11,Troy,,Texas State,W,1,0,0,0,jawon-mcdowell-1
+Alexander Myres,2017-11-24,11,Houston,,Navy,W,1,13,0,0,alexander-myres-1
+Ben Niemann,2017-11-24,12,Iowa,@,Nebraska,W,1,0,0,0,ben-niemann-1
+Jake Parker,2017-11-24,12,Texas Tech,@,Texas,W,1,55,0,0,jake-parker-1
+Kahlil Robinson,2017-11-24,12,Toledo,,Western Michigan,W,1,20,0,0,kahlil-robinson-1
+Cedarius Rookard,2017-11-24,11,Troy,,Texas State,W,1,2,0,0,cedarius-rookard-1
+Markell Simmons,2017-11-24,12,Texas Christian,,Baylor,W,1,0,0,0,markell-simmons-1
+Adam Sparks,2017-11-24,12,Missouri,@,Arkansas,W,1,0,0,1,adam-sparks-1
+Ty Summers,2017-11-24,12,Texas Christian,,Baylor,W,1,0,0,1,ty-summers-1
+Trenton Thompson,2017-11-24,12,San Diego State,,New Mexico,W,2,0,0,2,trenton-thompson-2
+Juan Thornhill,2017-11-24,12,Virginia,,Virginia Tech,L,1,0,0,0,juan-thornhill-1
+Henre' Toliver,2017-11-24,12,Arkansas,,Missouri,L,2,63,0,0,henre-toliver-1
+Kristian Welch,2017-11-24,12,Iowa,@,Nebraska,W,1,33,0,0,kristian-welch-1
+Antreal Allen,2017-11-25,10,Georgia State,,Appalachian State,L,1,0,0,0,antreal-allen-1
+Joe Bachie,2017-11-25,12,Michigan State,@,Rutgers,W,1,15,0,1,joe-bachie-1
+Deandre Baker,2017-11-25,12,Georgia,@,Georgia Tech,W,1,15,0,0,deandre-baker-1
+Monquavion Brinson,2017-11-25,11,Georgia Southern,@,Louisiana,W,1,0,0,0,monquavion-brinson-1
+Frank Buncom,2017-11-25,12,Stanford,,Notre Dame,W,1,0,0,0,frank-buncom-2
+Lorenzo Burns,2017-11-25,12,Arizona,@,Arizona State,L,1,-1,0,1,lorenzo-burns-1
+Ben Burr-Kirven,2017-11-25,12,Washington,,Washington State,W,1,11,0,0,ben-burr-kirven-1
+Ryan Carter,2017-11-25,12,Clemson,@,South Carolina,W,1,12,1,1,ryan-carter-2
+Sean Carter,2017-11-25,12,Old Dominion,@,Middle Tennessee State,L,1,28,0,0,sean-carter-1
+Sean Chandler,2017-11-25,12,Temple,@,Tulsa,W,1,49,0,0,sean-chandler-2
+Jonathan Cook,2017-11-25,11,Memphis,,East Carolina,W,1,32,1,2,jonathan-cook-1
+Duke Dawson,2017-11-25,11,Florida,,Florida State,L,1,4,0,0,duke-dawson-1
+Lukas Denis,2017-11-25,12,Boston College,@,Syracuse,W,1,46,0,0,lukas-denis-1
+Brandon Douglas,2017-11-25,12,Rice,,North Texas,L,1,75,1,0,brandon-douglas-3
+Marcus Epps,2017-11-25,12,Wyoming,@,San Jose State,L,1,57,0,0,marcus-epps-1
+Taurean Ferguson,2017-11-25,12,Vanderbilt,@,Tennessee,W,1,2,0,1,taurean-ferguson-1
+Paddy Fisher,2017-11-25,12,Northwestern,@,Illinois,W,1,4,0,1,paddy-fisher-1
+Jericho Flowers,2017-11-25,12,Nevada-Las Vegas,@,Nevada,L,1,0,0,0,jericho-flowers-1
+Jordan Fuller,2017-11-25,12,Ohio State,@,Michigan,W,1,11,0,0,jordan-fuller-1
+Nate Gaines,2017-11-25,11,Texas-San Antonio,@,Louisiana Tech,L,1,35,0,0,nate-gaines-1
+Mark Gilbert,2017-11-25,12,Duke,@,Wake Forest,W,2,0,0,1,mark-gilbert-1
+Ryan Gilmartin,2017-11-25,12,Connecticut,@,Cincinnati,L,1,0,0,0,ryan-gilmartin-1
+Thomas Graham Jr.,2017-11-25,12,Oregon,,Oregon State,W,1,20,0,0,thomas-graham-jr-1
+Armond Hawkins,2017-11-25,11,Idaho,@,New Mexico State,L,1,0,0,2,armond-hawkins-1
+Amari Henderson,2017-11-25,12,Wake Forest,,Duke,L,1,0,0,1,amari-henderson-1
+Justin Hollins,2017-11-25,12,Oregon,,Oregon State,W,1,11,1,0,justin-hollins-1
+A.J. Howard,2017-11-25,11,Appalachian State,@,Georgia State,W,1,61,0,0,aj-howard-1
+Garrett Hudson,2017-11-25,12,Purdue,,Indiana,W,1,21,0,0,garrett-hudson-1
+Ja'Marcus Ingram,2017-11-25,12,Utah State,@,Air Force,L,1,25,0,0,jamarcus-ingram-1
+Donte Jackson,2017-11-25,12,Louisiana State,,Texas A&M,W,1,0,0,0,donte-jackson-1
+Carter Jacobs,2017-11-25,12,Cincinnati,,Connecticut,W,1,21,0,1,carter-jacobs-1
+Eric Jenkins,2017-11-25,12,North Texas,@,Rice,W,1,0,0,0,eric-jenkins-1
+Demetrius Kemp,2017-11-25,12,Wake Forest,,Duke,L,1,0,0,0,demetrius-kemp-1
+Demonte King,2017-11-25,12,Arizona State,,Arizona,W,1,11,0,2,demonte-king-1
+Darryl Lewis,2017-11-25,12,Louisiana Tech,,Texas-San Antonio,W,1,7,0,0,darryl-lewis-3
+Lee Marshall,2017-11-25,11,Louisiana-Monroe,,Arkansas State,L,1,2,0,1,lee-marshall-1
+Kyle Martin,2017-11-25,10,Arkansas State,@,Louisiana-Monroe,W,2,0,0,0,kyle-martin-1
+JoJo McIntosh,2017-11-25,12,Washington,,Washington State,W,1,33,0,0,jojo-mcintosh-1
+Leon McQuaker,2017-11-25,11,New Mexico State,,Idaho,W,1,12,0,0,leon-mcquaker-1
+Dakari Monroe,2017-11-25,13,San Jose State,,Wyoming,W,2,39,0,1,dakari-monroe-1
+Steven Montac,2017-11-25,12,South Carolina,,Clemson,L,1,0,0,0,steven-montac-1
+Airius Moore,2017-11-25,12,North Carolina State,,North Carolina,W,1,0,0,1,airius-moore-1
+Tarvarius Moore,2017-11-25,12,Southern Mississippi,@,Marshall,W,1,0,0,2,tarvarius-moore-1
+Trayvon Mullen,2017-11-25,12,Clemson,@,South Carolina,W,1,0,0,0,trayvon-mullen-1
+Parry Nickerson,2017-11-25,12,Tulane,@,Southern Methodist,L,1,0,0,1,parry-nickerson-1
+Keisean Nixon,2017-11-25,12,South Carolina,,Clemson,L,1,22,0,0,keisean-nixon-1
+Josh Perry,2017-11-25,11,Memphis,,East Carolina,W,1,0,0,0,josh-perry-1
+Germaine Pratt,2017-11-25,12,North Carolina State,,North Carolina,W,1,73,0,0,germaine-pratt-1
+Tomarcio Reese,2017-11-25,11,Georgia Southern,@,Louisiana,W,1,0,0,0,tomarcio-reese-1
+Amik Robertson,2017-11-25,12,Louisiana Tech,,Texas-San Antonio,W,1,0,0,0,amik-robertson-1
+Curtis Robinson,2017-11-25,12,Stanford,,Notre Dame,W,1,6,0,0,curtis-robinson-1
+Josiah Scott,2017-11-25,12,Michigan State,@,Rutgers,W,1,0,0,1,josiah-scott-1
+Taris Shenall,2017-11-25,12,Tulane,@,Southern Methodist,L,1,38,0,0,taris-shenall-1
+Justin Strnad,2017-11-25,12,Wake Forest,,Duke,L,1,22,0,0,justin-strnad-1
+Chandon Sullivan,2017-11-25,10,Georgia State,,Appalachian State,L,1,0,0,0,chandon-sullivan-1
+Blaise Taylor,2017-11-25,10,Arkansas State,@,Louisiana-Monroe,W,1,85,1,1,blaise-taylor-1
+Levonta Taylor,2017-11-25,11,Florida State,@,Florida,W,2,18,1,0,levonta-taylor-1
+Broderick Thomas,2017-11-25,12,Alabama-Birmingham,,Texas-El Paso,W,1,24,0,0,broderick-thomas-2
+Derrek Thomas,2017-11-25,12,Temple,@,Tulsa,W,1,83,0,2,derrek-thomas-1
+La'Andre Thomas,2017-11-25,11,Memphis,,East Carolina,W,1,0,0,1,laandre-thomas-1
+Matthew Thomas,2017-11-25,11,Florida State,@,Florida,W,1,24,0,0,matthew-thomas-2
+Rob Thompson,2017-11-25,12,Old Dominion,@,Middle Tennessee State,L,1,24,0,0,rob-thompson-1
+Ezekiel Turner,2017-11-25,12,Washington,,Washington State,W,1,41,0,0,ezekiel-turner-1
+Kindle Vildor,2017-11-25,11,Georgia Southern,@,Louisiana,W,1,0,0,0,kindle-vildor-1
+Devin White,2017-11-25,12,Louisiana State,,Texas A&M,W,1,3,0,0,devin-white-1
+Chad Whitener,2017-11-25,12,Oklahoma State,,Kansas,W,1,6,0,0,chad-whitener-2
+Bennett Williams,2017-11-25,12,Illinois,,Northwestern,L,1,15,0,0,bennett-williams-1
+Darius Williams,2017-11-25,12,Alabama-Birmingham,,Texas-El Paso,W,1,0,0,1,darius-williams-3
+Greedy Williams,2017-11-25,12,Louisiana State,,Texas A&M,W,1,0,0,0,greedy-williams-1
+Trae Williams,2017-11-25,12,Northwestern,@,Illinois,W,1,65,0,0,trae-williams-2
+Myles Wolfolk,2017-11-25,12,North Carolina,@,North Carolina State,L,1,17,0,0,myles-wolfolk-1
+Jaden Wright,2017-11-25,11,New Mexico State,,Idaho,W,1,7,0,0,jaden-wright-1
+Eric Boggs,2017-12-02,12,Appalachian State,,Louisiana,W,1,21,0,0,eric-boggs-1
+Blace Brown,2017-12-02,12,Troy,@,Arkansas State,W,1,0,0,0,blace-brown-1
+Bryce Canady,2017-12-02,12,Florida International,,Massachusetts,W,1,0,0,1,bryce-canady-1
+Preston Carey,2017-12-02,12,Coastal Carolina,,Georgia Southern,W,1,0,0,2,preston-carey-1
+Ryan Carter,2017-12-02,13,Clemson,N,Miami (FL),W,1,0,0,1,ryan-carter-2
+Terrell Carter,2017-12-02,12,Memphis,@,Central Florida,L,1,25,0,0,terrell-carter-1
+Jonathan Cook,2017-12-02,12,Memphis,@,Central Florida,L,1,0,0,1,jonathan-cook-1
+Clifton Duck,2017-12-02,12,Appalachian State,,Louisiana,W,1,8,0,0,clifton-duck-1
+Jordan George,2017-12-02,13,Akron,N,Toledo,L,1,20,0,0,jordan-george-1
+Ulysees Gilbert III,2017-12-02,13,Akron,N,Toledo,L,1,25,0,2,ulysees-gilbert-iii-1
+Bakhari Goodson,2017-12-02,12,Massachusetts,@,Florida International,L,1,29,0,0,bakhari-goodson-1
+Terrill Hanks,2017-12-02,12,New Mexico State,,South Alabama,W,1,0,0,1,terrill-hanks-1
+Jalen Hoover,2017-12-02,12,Idaho,@,Georgia State,W,1,33,0,0,jalen-hoover-1
+Leon Jacobs,2017-12-02,13,Wisconsin,N,Ohio State,L,1,3,0,0,leon-jacobs-1
+William Johnson,2017-12-02,13,Oklahoma,N,Texas Christian,W,1,19,0,0,william-johnson-4
+Marcus Jones,2017-12-02,12,Troy,@,Arkansas State,W,1,100,1,1,marcus-jones-11
+Kendall Joseph,2017-12-02,13,Clemson,N,Miami (FL),W,1,37,0,0,kendall-joseph-1
+Trevon Mathis,2017-12-02,13,Toledo,N,Akron,W,1,8,0,1,trevon-mathis-1
+Joshua Moon,2017-12-02,12,Georgia Southern,@,Coastal Carolina,L,1,3,0,0,joshua-moon-1
+Tobias Moss,2017-12-02,12,South Alabama,@,New Mexico State,L,1,0,0,1,tobias-moss-1
+Tyler Murray,2017-12-02,12,Troy,@,Arkansas State,W,1,0,0,0,tyler-murray-1
+Tre Neal,2017-12-02,12,Central Florida,,Memphis,W,1,0,0,1,tre-neal-1
+Juwan Offray,2017-12-02,12,Louisiana-Monroe,@,Florida State,L,1,0,0,0,juwan-offray-1
+DeMarcus Owens,2017-12-02,12,New Mexico State,,South Alabama,W,1,0,0,0,demarcus-owens-1
+Cortez Sisco Jr.,2017-12-02,12,Louisiana-Monroe,@,Florida State,L,1,23,0,0,cortez-sisco-jr-1
+Andrew Van Ginkel,2017-12-02,13,Wisconsin,N,Ohio State,L,1,9,1,0,andrew-van-ginkel-1
+Leighton Vander Esch,2017-12-02,13,Boise State,,Fresno State,W,1,9,0,1,leighton-vander-esch-1
+Denzel Ward,2017-12-02,13,Ohio State,N,Wisconsin,W,1,0,0,2,denzel-ward-3
+Damon Webb,2017-12-02,13,Ohio State,N,Wisconsin,W,1,4,0,0,damon-webb-1
+Tito Windham,2017-12-02,12,Memphis,@,Central Florida,L,1,2,0,2,tito-windham-1
+Jalen Young,2017-12-02,13,Florida Atlantic,,North Texas,W,2,51,0,0,jalen-young-1
+Justin Clifton,2017-12-16,12,Arkansas State,N,Middle Tennessee State,L,1,0,0,0,justin-clifton-1
+B.J. Edmonds,2017-12-16,12,Arkansas State,N,Middle Tennessee State,L,2,19,0,0,bj-edmonds-1
+Jordan Fogal,2017-12-16,13,Colorado State,N,Marshall,L,1,0,0,1,jordan-fogal-1
+Jordan Happle,2017-12-16,14,Boise State,N,Oregon,W,1,-2,0,0,jordan-happle-1
+Anthony Hawkins,2017-12-16,13,Colorado State,N,Marshall,L,1,-1,0,0,anthony-hawkins-1
+Kekaula Kaniho,2017-12-16,14,Boise State,N,Oregon,W,1,53,1,0,kekaula-kaniho-1
+Kishawn McClain,2017-12-16,14,North Texas,N,Troy,L,1,0,0,0,kishawn-mcclain-1
+Chase Middleton,2017-12-16,12,Georgia State,N,Western Kentucky,W,1,0,0,0,chase-middleton-1
+Jovante Moffatt,2017-12-16,13,Middle Tennessee State,N,Arkansas State,W,1,9,0,1,jovante-moffatt-1
+Hunter Reese,2017-12-16,13,Troy,N,North Texas,W,1,1,0,0,hunter-reese-1
+Tyree Robinson,2017-12-16,13,Oregon,N,Boise State,L,1,100,1,1,tyree-robinson-2
+Jerome Smith,2017-12-16,12,Georgia State,N,Western Kentucky,W,1,-1,0,0,jerome-smith-2
+Arrion Springs,2017-12-16,13,Oregon,N,Boise State,L,1,0,0,1,arrion-springs-1
+Adarius Wesley,2017-12-16,13,Troy,N,North Texas,W,1,20,0,0,adarius-wesley-1
+Secdrick Cooper,2017-12-20,13,Louisiana Tech,N,Southern Methodist,W,1,31,0,0,secdrick-cooper-1
+Darryl Lewis,2017-12-20,13,Louisiana Tech,N,Southern Methodist,W,1,23,1,0,darryl-lewis-3
+Amik Robertson,2017-12-20,13,Louisiana Tech,N,Southern Methodist,W,1,45,1,0,amik-robertson-1
+Shaun Bradley,2017-12-21,13,Temple,N,Florida International,W,1,0,0,0,shaun-bradley-1
+Sean Chandler,2017-12-21,13,Temple,N,Florida International,W,1,0,0,1,sean-chandler-2
+Marcus Epps,2017-12-22,13,Wyoming,N,Central Michigan,W,1,0,0,0,marcus-epps-1
+Tyler Hall,2017-12-22,13,Wyoming,N,Central Michigan,W,1,-1,0,1,tyler-hall-2
+Logan Wilson,2017-12-22,13,Wyoming,N,Central Michigan,W,1,3,0,0,logan-wilson-1
+Andrew Wingard,2017-12-22,13,Wyoming,N,Central Michigan,W,1,20,0,0,andrew-wingard-1
+Devin Abraham,2017-12-23,12,South Florida,N,Texas Tech,W,1,7,0,0,devin-abraham-1
+Alex Aukerman,2017-12-23,13,Army,N,San Diego State,W,1,11,0,0,alex-aukerman-1
+Clifton Duck,2017-12-23,13,Appalachian State,N,Toledo,W,1,0,0,0,clifton-duck-1
+Anthony Flory,2017-12-23,13,Appalachian State,N,Toledo,W,1,19,0,0,anthony-flory-1
+Desmond Franklin,2017-12-23,13,Appalachian State,N,Toledo,W,1,35,0,0,desmond-franklin-1
+Anthony Luke,2017-12-23,13,San Diego State,N,Army,L,1,21,0,0,anthony-luke-1
+Donelle Thomas,2017-12-23,12,South Florida,N,Texas Tech,W,1,0,0,0,donelle-thomas-1
+Jaron Bryant,2017-12-24,14,Fresno State,N,Houston,W,1,44,1,1,jaron-bryant-1
+D'Juan Hines,2017-12-24,12,Houston,N,Fresno State,L,1,0,0,0,djuan-hines-1
+Julian Blackmon,2017-12-26,13,Utah,N,West Virginia,W,2,24,0,0,julian-blackmon-1
+Darnay Holmes,2017-12-26,13,UCLA,N,Kansas State,L,1,0,0,1,darnay-holmes-1
+Davante Davis,2017-12-27,13,Texas,N,Missouri,W,1,0,0,1,davante-davis-1
+Jake Gervase,2017-12-27,13,Iowa,N,Boston College,W,1,29,0,0,jake-gervase-1
+Joshua Jackson,2017-12-27,13,Iowa,N,Boston College,W,1,5,0,0,joshua-jackson-3
+Jacob Thieneman,2017-12-27,13,Purdue,N,Arizona,W,1,0,0,0,jacob-thieneman-1
+Scottie Young Jr.,2017-12-27,13,Arizona,N,Purdue,L,1,0,0,0,scottie-young-jr-1
+Frank Buncom,2017-12-28,14,Stanford,N,Texas Christian,L,2,37,0,0,frank-buncom-2
+Darius Curry,2017-12-28,13,Oklahoma State,N,Virginia Tech,W,1,30,0,0,darius-curry-1
+Innis Gaines,2017-12-28,14,Texas Christian,N,Stanford,W,1,0,0,0,innis-gaines-1
+Frankie Luvu,2017-12-28,13,Washington State,N,Michigan State,L,1,13,0,0,frankie-luvu-1
+Nick Orr,2017-12-28,14,Texas Christian,N,Stanford,W,1,0,0,0,nick-orr-1
+Sean Williams,2017-12-28,13,Navy,,Virginia,W,1,0,0,0,sean-williams-4
+Khari Willis,2017-12-28,13,Michigan State,N,Washington State,W,1,1,0,0,khari-willis-1
+Montre Hartage,2017-12-29,13,Northwestern,N,Kentucky,W,1,0,0,1,montre-hartage-1
+Dallin Leavitt,2017-12-29,13,Utah State,N,New Mexico State,L,1,20,0,1,dallin-leavitt-1
+Nick McCloud,2017-12-29,13,North Carolina State,N,Arizona State,W,1,53,0,0,nick-mccloud-1
+Airius Moore,2017-12-29,13,North Carolina State,N,Arizona State,W,1,0,0,0,airius-moore-1
+Jarius Morehead,2017-12-29,13,North Carolina State,N,Arizona State,W,1,0,0,0,jarius-morehead-1
+Kyle Queiro,2017-12-29,13,Northwestern,N,Kentucky,W,1,26,1,1,kyle-queiro-1
+Damon Webb,2017-12-29,14,Ohio State,N,Southern California,W,1,23,1,0,damon-webb-1
+Jaboree Williams,2017-12-29,13,Wake Forest,N,Texas A&M,W,1,8,0,0,jaboree-williams-1
+Emerson Woods,2017-12-29,13,Utah State,N,New Mexico State,L,1,0,0,3,emerson-woods-1
+Ryan Connelly,2017-12-30,14,Wisconsin,@,Miami (FL),W,1,5,0,1,ryan-connelly-1
+Cameron Dantzler,2017-12-30,13,Mississippi State,N,Louisville,W,1,15,0,2,cameron-dantzler-1
+Austin Joyner,2017-12-30,13,Washington,N,Penn State,L,1,7,0,0,austin-joyner-1
+Mark McLaurin,2017-12-30,13,Mississippi State,N,Louisville,W,3,42,0,1,mark-mclaurin-1
+Derrick Tindal,2017-12-30,14,Wisconsin,@,Miami (FL),W,1,0,0,1,derrick-tindal-1
+Andrew Van Ginkel,2017-12-30,14,Wisconsin,@,Miami (FL),W,1,2,0,1,andrew-van-ginkel-1
+Chucky Williams,2017-12-30,13,Louisville,N,Mississippi State,L,1,1,0,0,chucky-williams-1
+Chequan Burkett,2018-01-01,13,Central Florida,N,Auburn,W,1,45,1,0,chequan-burkett-1
+Antwan Collier,2018-01-01,13,Central Florida,N,Auburn,W,1,0,0,0,antwan-collier-1
+Noah Furbush,2018-01-01,13,Michigan,N,South Carolina,L,1,27,0,0,noah-furbush-1
+Jamarcus King,2018-01-01,13,South Carolina,N,Michigan,W,1,0,0,0,jamarcus-king-1
+Steven Montac,2018-01-01,13,South Carolina,N,Michigan,W,1,2,0,0,steven-montac-1
+Daron Payne,2018-01-01,13,Alabama,N,Clemson,W,1,21,0,1,daron-payne-1
+Dominick Sanders,2018-01-01,14,Georgia,N,Oklahoma,W,1,39,0,1,dominick-sanders-1
+Greedy Williams,2018-01-01,13,Louisiana State,N,Notre Dame,L,1,4,0,1,greedy-williams-1
+Mack Wilson,2018-01-01,13,Alabama,N,Clemson,W,1,18,1,1,mack-wilson-1
+Deandre Baker,2018-01-08,15,Georgia,N,Alabama,L,1,0,0,0,deandre-baker-1
+Tony Brown,2018-01-08,14,Alabama,N,Georgia,W,1,0,0,0,tony-brown-8
+Raekwon Davis,2018-01-08,14,Alabama,N,Georgia,W,1,19,0,0,raekwon-davis-1

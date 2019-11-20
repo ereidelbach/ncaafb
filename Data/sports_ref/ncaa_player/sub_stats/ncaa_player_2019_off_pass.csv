@@ -1,0 +1,2042 @@
+Player,Date,G,School,Loc,Opponent,WL,Pass Comp,Pass Att,Pass Pct,Pass Yard,Pass TD,Pass Int,QBR,unique_id
+Chevan Cordeiro,2019-08-24,1,Hawaii,,Arizona,W,5,7,71.4,58,1,0,188.2,chevan-cordeiro-1
+Deejay Dallas,2019-08-24,1,Miami (FL),N,Florida,L,0,1,0.0,0,0,0,0.0,deejay-dallas-1
+Feleipe Franks,2019-08-24,1,Florida,N,Miami (FL),W,17,27,63.0,254,2,2,151.6,feleipe-franks-1
+Cole McDonald,2019-08-24,1,Hawaii,,Arizona,W,29,41,70.7,378,4,4,160.9,cole-mcdonald-1
+Khalil Tate,2019-08-24,1,Arizona,@,Hawaii,L,22,39,56.4,361,3,2,149.3,khalil-tate-1
+Jarren Williams,2019-08-24,1,Miami (FL),N,Florida,L,19,29,65.5,214,1,0,138.9,jarren-williams-1
+Woody Barrett,2019-08-29,1,Kent State,@,Arizona State,L,9,16,56.3,83,1,0,120.5,woody-barrett-2
+Mike Beaudry,2019-08-29,1,Connecticut,,Wagner,W,14,21,66.7,158,0,1,120.3,mike-beaudry-1
+Chase Brice,2019-08-29,1,Clemson,,Georgia Tech,W,5,7,71.4,53,1,0,182.2,chase-brice-1
+Zach Calzada,2019-08-29,1,Texas A&M,,Texas State,W,4,9,44.4,38,0,0,79.9,zach-calzada-1
+Dustin Crum,2019-08-29,1,Kent State,@,Arizona State,L,3,8,37.5,-3,0,0,34.4,dustin-crum-1
+Jayden Daniels,2019-08-29,1,Arizona State,,Kent State,W,15,24,62.5,284,2,0,189.4,jayden-daniels-1
+Quinten Dormady,2019-08-29,1,Central Michigan,,Albany,W,27,37,73.0,285,3,0,164.4,quinten-dormady-1
+Steven Duncan,2019-08-29,1,Western Kentucky,,Central Arkansas,L,26,39,66.7,304,1,2,130.3,steven-duncan-1
+Dillon Gabriel,2019-08-29,1,Central Florida,,Florida A&M,W,9,13,69.2,127,3,0,227.4,dillon-gabriel-1
+James Graham,2019-08-29,1,Georgia Tech,@,Clemson,L,4,7,57.1,72,1,0,190.7,james-graham-1
+Keon Howard,2019-08-29,1,Tulane,,Florida International,W,1,1,100.0,-4,0,0,66.4,keon-howard-1
+Tyler Huntley,2019-08-29,1,Utah,@,Brigham Young,W,13,16,81.3,106,0,0,136.9,tyler-huntley-1
+Gresch Jensen,2019-08-29,1,Texas State,@,Texas A&M,L,20,31,64.5,160,1,2,105.6,gresch-jensen-1
+Lucas Johnson,2019-08-29,1,Georgia Tech,@,Clemson,L,0,2,0.0,0,0,0,0.0,lucas-johnson-2
+Tyler Johnston III,2019-08-29,1,Alabama-Birmingham,,Alabama State,W,8,19,42.1,114,1,0,109.9,tyler-johnston-iii-1
+Quadry Jones,2019-08-29,1,Central Florida,,Florida A&M,W,2,2,100.0,61,1,0,521.2,quadry-jones-1
+Brett Kean,2019-08-29,1,UNC Charlotte,,Gardner-Webb,W,4,8,50.0,50,1,2,93.8,brett-kean-1
+Trevor Lawrence,2019-08-29,1,Clemson,,Georgia Tech,W,13,23,56.5,168,1,2,114.8,trevor-lawrence-1
+Josh Love,2019-08-29,1,San Jose State,,Northern Colorado,W,21,31,67.7,224,2,0,149.7,josh-love-1
+Grant Loy,2019-08-29,1,Bowling Green State,,Morgan State,W,3,5,60.0,41,1,0,194.9,grant-loy-1
+Justin McMillan,2019-08-29,1,Tulane,,Florida International,W,14,18,77.8,199,2,0,207.3,justin-mcmillan-1
+Kellen Mond,2019-08-29,1,Texas A&M,,Texas State,W,19,27,70.4,194,3,1,160.0,kellen-mond-1
+James Morgan,2019-08-29,1,Florida International,@,Tulane,L,19,34,55.9,208,1,1,111.1,james-morgan-1
+Tanner Morgan,2019-08-29,1,Minnesota,,South Dakota State,W,13,18,72.2,176,1,1,161.6,tanner-morgan-2
+Matt Myers,2019-08-29,1,Buffalo,,,W,5,10,50.0,69,2,0,174.0,matt-myers-2
+Nate Needham,2019-08-29,1,Bowling Green State,,Morgan State,W,0,1,0.0,0,0,1,-200.0,nate-needham-2
+Tobias Oliver,2019-08-29,1,Georgia Tech,@,Clemson,L,3,9,33.3,65,0,2,49.6,tobias-oliver-1
+Chris Reynolds,2019-08-29,1,UNC Charlotte,,Gardner-Webb,W,14,20,70.0,136,1,1,133.6,chris-reynolds-1
+Desmond Ridder,2019-08-29,1,Cincinnati,,UCLA,W,18,26,69.2,242,2,1,165.1,desmond-ridder-1
+Dorian Thompson-Robinson,2019-08-29,1,UCLA,@,Cincinnati,L,8,26,30.8,156,2,2,91.2,dorian-thompson-robinson-1
+Tyler Vitt,2019-08-29,1,Texas State,@,Texas A&M,L,9,15,60.0,51,0,2,61.9,tyler-vitt-1
+Darius Wade,2019-08-29,1,Bowling Green State,,Morgan State,W,22,32,68.8,253,3,0,166.1,darius-wade-1
+Zach Wilson,2019-08-29,1,Brigham Young,,Utah,L,21,33,63.6,208,0,2,104.5,zach-wilson-3
+Brandon Wimbush,2019-08-29,1,Central Florida,,Florida A&M,W,12,23,52.2,168,2,0,142.2,brandon-wimbush-1
+Blake Barnett,2019-08-30,1,South Florida,,Wisconsin,L,13,30,43.3,109,0,2,60.5,blake-barnett-2
+Andrew Brito,2019-08-30,1,Massachusetts,@,Rutgers,L,2,6,33.3,15,0,1,21.0,andrew-brito-1
+McLane Carter,2019-08-30,1,Rutgers,,Massachusetts,W,21,31,67.7,340,2,3,161.8,mclane-carter-1
+Jack Coan,2019-08-30,1,Wisconsin,@,South Florida,W,19,26,73.1,199,2,0,162.8,jack-coan-1
+Tristan Gebbia,2019-08-30,1,Oregon State,,Oklahoma State,L,3,7,42.9,30,1,0,126.0,tristan-gebbia-1
+Wiley Green,2019-08-30,1,Rice,@,Army,L,7,14,50.0,62,0,0,87.2,wiley-green-1
+Colin Hill,2019-08-30,1,Colorado State,N,Colorado,L,31,47,66.0,374,3,2,145.4,colin-hill-1
+Kelvin Hopkins Jr,2019-08-30,1,Army,,Rice,W,3,8,37.5,53,1,0,134.4,kelvin-hopkins-jr-1
+Johnny Langan,2019-08-30,1,Rutgers,,Massachusetts,W,1,1,100.0,8,0,0,167.2,johnny-langan-1
+Brian Lewerke,2019-08-30,1,Michigan State,,Tulsa,W,21,37,56.8,192,1,0,109.3,brian-lewerke-1
+Rocky Lombardi,2019-08-30,1,Michigan State,,Tulsa,W,1,1,100.0,3,0,0,125.2,rocky-lombardi-1
+Jordan Love,2019-08-30,1,Utah State,@,Wake Forest,L,33,48,68.8,416,3,3,149.7,jordan-love-2
+Jake Luton,2019-08-30,1,Oregon State,,Oklahoma State,L,23,42,54.8,251,3,0,128.5,jake-luton-1
+Jordan McCloud,2019-08-30,1,South Florida,,Wisconsin,L,3,3,100.0,22,0,0,161.6,jordan-mccloud-1
+Steven Montez,2019-08-30,1,Colorado,N,Colorado State,W,13,20,65.0,232,2,0,195.4,steven-montez-1
+Jamie Newman,2019-08-30,1,Wake Forest,,Utah State,W,34,47,72.3,401,3,0,165.1,jamie-newman-1
+Spencer Sanders,2019-08-30,1,Oklahoma State,@,Oregon State,W,19,24,79.2,203,3,0,191.5,spencer-sanders-1
+Elijah Sindelar,2019-08-30,1,Purdue,@,Nevada,L,34,52,65.4,423,4,2,151.4,elijah-sindelar-1
+Zach Smith,2019-08-30,1,Tulsa,@,Michigan State,L,16,27,59.3,153,1,1,111.7,zach-smith-6
+Carson Strong,2019-08-30,1,Nevada,,Purdue,W,30,51,58.8,295,3,0,126.8,carson-strong-1
+Randall West,2019-08-30,1,Massachusetts,@,Rutgers,L,20,31,64.5,106,1,1,97.4,randall-west-1
+Jack Abraham,2019-08-31,1,Southern Mississippi,,Alcorn State,W,18,28,64.3,293,1,1,156.8,jack-abraham-1
+Josh Adkins,2019-08-31,1,New Mexico State,@,Washington State,L,28,42,66.7,221,0,2,101.3,josh-adkins-1
+Justin Agner,2019-08-31,1,Florida Atlantic,@,Ohio State,L,3,5,60.0,30,0,1,70.4,justin-agner-1
+Ryan Agnew,2019-08-31,1,San Diego State,,Weber State,W,16,30,53.3,108,0,0,83.6,ryan-agnew-1
+Holton Ahlers,2019-08-31,1,East Carolina,@,North Carolina State,L,22,39,56.4,168,0,1,87.5,holton-ahlers-1
+Cam Akers,2019-08-31,1,Florida State,,Boise State,L,0,1,0.0,0,0,0,0.0,cam-akers-1
+Hank Bachmeier,2019-08-31,1,Boise State,@,Florida State,W,30,51,58.8,407,1,1,128.4,hank-bachmeier-1
+Kaleb Barker,2019-08-31,1,Troy,,Campbell,W,18,29,62.1,282,2,0,166.5,kaleb-barker-1
+Jason Bean,2019-08-31,1,North Texas,,Abilene Christian,W,0,1,0.0,0,0,0,0.0,jason-bean-1
+Johnathan Bennett,2019-08-31,1,Liberty,,Syracuse,L,1,3,33.3,4,0,0,44.5,johnathan-bennett-1
+Jake Bentley,2019-08-31,1,South Carolina,N,North Carolina,L,16,30,53.3,142,1,2,90.8,jake-bentley-2
+James Blackman,2019-08-31,1,Florida State,,Boise State,L,23,33,69.7,327,3,0,182.9,james-blackman-1
+Gerry Bohanon,2019-08-31,1,Baylor,,Stephen F. Austin,W,5,6,83.3,51,1,0,209.7,gerry-bohanon-1
+Logan Bonner,2019-08-31,1,Arkansas State,,Southern Methodist,L,32,50,64.0,324,4,1,140.8,logan-bonner-1
+Ross Bowers,2019-08-31,1,Northern Illinois,,Illinois State,W,20,33,60.6,299,2,1,150.7,ross-bowers-1
+Alan Bowman,2019-08-31,1,Texas Tech,,Montana State,W,40,53,75.5,436,2,0,157.0,alan-bowman-1
+Carter Bradley,2019-08-31,1,Toledo,@,Kentucky,L,4,13,30.8,44,0,1,43.8,carter-bradley-1
+Myles Brennan,2019-08-31,1,Louisiana State,,Georgia Southern,W,7,12,58.3,72,0,0,108.7,myles-brennan-1
+Charlie Brewer,2019-08-31,1,Baylor,,Stephen F. Austin,W,21,31,67.7,199,3,0,153.6,charlie-brewer-1
+Anthony Brown,2019-08-31,1,Boston College,,Virginia Tech,W,15,26,57.7,275,2,0,171.9,anthony-brown-11
+Kelly Bryant,2019-08-31,1,Missouri,@,Wyoming,L,31,48,64.6,423,2,1,148.2,kelly-bryant-1
+Shane Buechele,2019-08-31,1,Southern Methodist,@,Arkansas State,W,30,49,61.2,360,0,1,118.9,shane-buechele-1
+Joe Burrow,2019-08-31,1,Louisiana State,,Georgia Southern,W,23,27,85.2,278,5,0,232.8,joe-burrow-1
+Stephen Calvert,2019-08-31,1,Liberty,,Syracuse,L,20,39,51.3,234,0,2,91.4,stephen-calvert-1
+Todd Centeio,2019-08-31,1,Temple,,Bucknell,W,4,5,80.0,98,1,0,310.6,todd-centeio-1
+Sean Chambers,2019-08-31,1,Wyoming,,Missouri,W,6,16,37.5,92,0,0,85.8,sean-chambers-1
+James Charles,2019-08-31,1,Florida Atlantic,@,Ohio State,L,1,1,100.0,-2,0,0,83.2,james-charles-1
+Chris Chugunov,2019-08-31,1,Ohio State,,Florida Atlantic,W,1,1,100.0,-2,0,0,83.2,chris-chugunov-1
+Sean Clifford,2019-08-31,1,Penn State,,Idaho,W,14,23,60.9,280,2,0,191.8,sean-clifford-1
+Matt Corral,2019-08-31,1,Mississippi,@,Memphis,L,9,19,47.4,93,0,1,78.0,matt-corral-1
+K.J. Costello,2019-08-31,1,Stanford,,Northwestern,W,16,20,80.0,152,1,0,160.3,kj-costello-1
+Chase Cunningham,2019-08-31,1,Middle Tennessee State,@,Michigan,L,4,9,44.4,17,0,0,60.3,chase-cunningham-1
+JT Daniels,2019-08-31,1,Southern California,,Fresno State,W,25,34,73.5,215,1,1,130.5,jt-daniels-1
+Alex Delton,2019-08-31,1,Texas Christian,,Arkansas-Pine Bluff,W,10,22,45.5,119,0,0,90.9,alex-delton-1
+Tyler Desue,2019-08-31,1,Maryland,,Howard,W,0,1,0.0,0,0,0,0.0,tyler-desue-1
+Tommy Devito,2019-08-31,1,Syracuse,@,Liberty,W,17,35,48.6,176,0,2,79.4,tommy-devito-1
+Max Duggan,2019-08-31,1,Texas Christian,,Arkansas-Pine Bluff,W,16,23,69.6,165,1,0,144.2,max-duggan-1
+Jacob Eason,2019-08-31,1,Washington,,Eastern Washington,W,27,36,75.0,349,4,0,193.1,jacob-eason-1
+Sam Ehlinger,2019-08-31,1,Texas,,Louisiana Tech,W,28,38,73.7,276,4,0,169.4,sam-ehlinger-1
+Dan Ellington,2019-08-31,1,Georgia State,@,Tennessee,W,11,24,45.8,139,2,0,122.0,dan-ellington-1
+Westin Elliott,2019-08-31,1,Louisiana Tech,@,Texas,L,1,3,33.3,9,0,1,-8.1,westin-elliott-1
+Caleb Evans,2019-08-31,1,Louisiana-Monroe,,Grambling State,W,19,25,76.0,183,1,1,142.7,caleb-evans-2
+Justin Fields,2019-08-31,1,Ohio State,,Florida Atlantic,W,18,25,72.0,234,4,0,203.4,justin-fields-2
+Mason Fine,2019-08-31,1,North Texas,,Abilene Christian,W,28,37,75.7,383,4,1,192.9,mason-fine-1
+Jake Fromm,2019-08-31,1,Georgia,@,Vanderbilt,W,15,23,65.2,156,1,0,136.5,jake-fromm-1
+Brett Gabbert,2019-08-31,1,Miami (OH),@,Iowa,L,17,27,63.0,186,2,1,137.9,brett-gabbert-1
+Chase Garbers,2019-08-31,1,California,,California-Davis,W,16,28,57.1,238,2,1,145.0,chase-garbers-1
+Mike Glass III,2019-08-31,1,Eastern Michigan,@,Coastal Carolina,W,20,22,90.9,188,3,0,207.7,mike-glass-iii-1
+Anthony Gordon,2019-08-31,1,Washington State,,New Mexico State,W,29,35,82.9,420,5,0,230.8,anthony-gordon-2
+Isaiah Green,2019-08-31,1,Marshall,,Virginia Military Institute,W,18,28,64.3,238,4,1,175.7,isaiah-green-2
+TJ Green,2019-08-31,1,Northwestern,@,Stanford,L,6,10,60.0,62,0,0,112.1,tj-green-2
+Cordale Grundy,2019-08-31,1,Texas-San Antonio,,Incarnate Word,W,0,1,0.0,0,0,1,-200.0,cordale-grundy-1
+Mitchell Guadagni,2019-08-31,1,Toledo,@,Kentucky,L,7,12,58.3,122,0,0,143.7,mitchell-guadagni-1
+Jarrett Guarantano,2019-08-31,1,Tennessee,,Georgia State,L,26,40,65.0,311,2,1,141.8,jarrett-guarantano-1
+Gage Gubrud,2019-08-31,1,Washington State,,New Mexico State,W,9,11,81.8,76,1,0,169.9,gage-gubrud-1
+Frank Harris,2019-08-31,1,Texas-San Antonio,,Incarnate Word,W,28,36,77.8,206,3,1,147.8,frank-harris-3
+Quentin Harris,2019-08-31,1,Duke,N,Alabama,L,12,22,54.5,97,0,2,73.4,quentin-harris-2
+Justin Herbert,2019-08-31,1,Oregon,N,Auburn,L,28,37,75.7,242,1,0,139.5,justin-herbert-1
+Reid Herring,2019-08-31,1,East Carolina,@,North Carolina State,L,4,6,66.7,60,0,0,150.7,reid-herring-1
+Ben Hicks,2019-08-31,1,Arkansas,,Portland State,W,14,29,48.3,143,0,0,89.7,ben-hicks-1
+Bailey Hockman,2019-08-31,1,North Carolina State,,East Carolina,W,1,2,50.0,6,0,0,75.2,bailey-hockman-1
+Sam Howell,2019-08-31,1,North Carolina,N,South Carolina,W,15,24,62.5,245,2,0,175.8,sam-howell-1
+Jacob Huesman,2019-08-31,1,Appalachian State,,East Tennessee State,W,1,1,100.0,17,1,0,572.8,jacob-huesman-1
+Brandt Hughes,2019-08-31,1,New Mexico,,Sam Houston State,W,12,29,41.4,218,0,0,104.5,brandt-hughes-1
+Josh Jackson,2019-08-31,1,Maryland,,Howard,W,15,24,62.5,245,4,0,203.3,josh-jackson-3
+Cam Johnson,2019-08-31,1,Vanderbilt,,Georgia,L,0,1,0.0,0,0,0,0.0,cam-johnson-2
+Cephus Johnson,2019-08-31,1,South Alabama,@,Nebraska,L,19,34,55.9,231,2,2,120.6,cephus-johnson-2
+Hunter Johnson,2019-08-31,1,Northwestern,@,Stanford,L,6,17,35.3,55,0,2,38.9,hunter-johnson-2
+Brandon Jones,2019-08-31,1,Texas-El Paso,,,W,10,20,50.0,268,1,1,169.1,brandon-jones-16
+Mac Jones,2019-08-31,1,Alabama,N,Duke,W,4,5,80.0,31,0,0,132.1,mac-jones-1
+Sheriron Jones,2019-08-31,1,New Mexico,,Sam Houston State,W,6,11,54.5,122,0,0,147.7,sheriron-jones-1
+Robbie Kelley,2019-08-31,1,Akron,@,Illinois,L,2,4,50.0,6,0,0,62.6,robbie-kelley-1
+Austin Kendall,2019-08-31,1,West Virginia,,James Madison,W,27,42,64.3,260,2,0,132.0,austin-kendall-1
+Will Levis,2019-08-31,1,Penn State,,Idaho,W,11,14,78.6,62,1,0,139.3,will-levis-1
+Levi Lewis,2019-08-31,1,Louisiana,N,Mississippi State,L,24,39,61.5,267,1,2,117.3,levi-lewis-1
+Adrian Martinez,2019-08-31,1,Nebraska,,South Alabama,W,13,22,59.1,178,0,1,118.0,adrian-martinez-2
+Dylan McCaffrey,2019-08-31,1,Michigan,,Middle Tennessee State,W,2,2,100.0,17,0,0,171.4,dylan-mccaffrey-1
+Matt McKay,2019-08-31,1,North Carolina State,,East Carolina,W,25,37,67.6,308,1,0,146.4,matt-mckay-1
+Davis Mills,2019-08-31,1,Stanford,,Northwestern,W,7,14,50.0,81,0,0,98.6,davis-mills-1
+Joe Milton,2019-08-31,1,Michigan,,Middle Tennessee State,W,0,1,0.0,0,0,0,0.0,joe-milton-2
+Joe Mischler,2019-08-31,1,Ohio,,Rhode Island,W,0,1,0.0,0,0,1,-200.0,joe-mischler-1
+Tylan Morton,2019-08-31,1,South Alabama,@,Nebraska,L,0,1,0.0,0,0,1,-200.0,tylan-morton-1
+Riley Neal,2019-08-31,1,Vanderbilt,,Georgia,L,14,25,56.0,85,0,0,84.6,riley-neal-1
+Kato Nelson,2019-08-31,1,Akron,@,Illinois,L,10,24,41.7,122,0,1,76.0,kato-nelson-1
+Bo Nix,2019-08-31,1,Auburn,N,Oregon,W,13,31,41.9,177,2,2,98.3,bo-nix-1
+Asher O'Hara,2019-08-31,1,Middle Tennessee State,@,Michigan,L,22,32,68.8,217,2,1,140.1,asher-ohara-1
+Kenyon Oblad,2019-08-31,1,Nevada-Las Vegas,,Southern Utah,W,7,11,63.6,59,0,0,108.7,kenyon-oblad-1
+Shea Patterson,2019-08-31,1,Michigan,,Middle Tennessee State,W,17,29,58.6,203,3,0,151.6,shea-patterson-1
+Fred Payton,2019-08-31,1,Coastal Carolina,,Eastern Michigan,L,29,43,67.4,304,2,4,123.6,fred-payton-1
+Michael Penix Jr.,2019-08-31,1,Indiana,N,Ball State,W,24,40,60.0,326,1,2,126.7,michael-penix-jr-1
+Bryce Perkins,2019-08-31,1,Virginia,@,Pittsburgh,W,20,34,58.8,181,2,0,123.0,bryce-perkins-1
+Malcolm Perry,2019-08-31,1,Navy,,Holy Cross,W,6,9,66.7,103,0,0,162.8,malcolm-perry-1
+Brandon Peters,2019-08-31,1,Illinois,,Akron,W,14,23,60.9,163,3,0,163.4,brandon-peters-1
+Kenny Pickett,2019-08-31,1,Pittsburgh,,Virginia,L,21,41,51.2,185,1,2,87.4,kenny-pickett-1
+Tyrell Pigrome,2019-08-31,1,Maryland,,Howard,W,2,5,40.0,61,1,0,208.5,tyrell-pigrome-1
+Drew Plitt,2019-08-31,1,Ball State,N,Indiana,L,26,41,63.4,298,2,1,135.7,drew-plitt-1
+Brock Purdy,2019-08-31,1,Iowa State,,Northern Iowa,W,30,41,73.2,278,2,0,146.2,brock-purdy-1
+Jorge Reyna,2019-08-31,1,Fresno State,@,Southern California,L,19,39,48.7,256,2,1,115.7,jorge-reyna-1
+Matt Robinson,2019-08-31,1,Illinois,,Akron,W,1,2,50.0,31,0,0,180.2,matt-robinson-6
+Chris Robison,2019-08-31,1,Florida Atlantic,@,Ohio State,L,22,34,64.7,178,1,0,118.4,chris-robison-1
+Armani Rogers,2019-08-31,1,Nevada-Las Vegas,,Southern Utah,W,11,17,64.7,144,1,0,155.3,armani-rogers-1
+Nathan Rourke,2019-08-31,1,Ohio,,Rhode Island,W,16,22,72.7,188,2,0,174.5,nathan-rourke-1
+Anthony Russo,2019-08-31,1,Temple,,Bucknell,W,32,41,78.0,409,4,1,189.2,anthony-russo-3
+Isaiah Sanders,2019-08-31,1,Air Force,,Colgate,W,1,1,100.0,41,0,0,444.4,isaiah-sanders-1
+Jacob Sirmon,2019-08-31,1,Washington,,Eastern Washington,W,1,2,50.0,21,0,0,138.2,jacob-sirmon-1
+Kedon Slovis,2019-08-31,1,Southern California,,Fresno State,W,6,8,75.0,57,0,1,109.9,kedon-slovis-1
+Stone Smartt,2019-08-31,1,Old Dominion,,Norfolk State,W,17,23,73.9,158,0,1,122.9,stone-smartt-1
+J'mar Smith,2019-08-31,1,Louisiana Tech,@,Texas,L,34,51,66.7,331,2,1,130.2,jmar-smith-1
+Carter Stanley,2019-08-31,1,Kansas,,Indiana State,W,20,29,69.0,241,2,0,161.5,carter-stanley-1
+Nathan Stanley,2019-08-31,1,Iowa,,Miami (OH),W,21,30,70.0,252,3,0,173.6,nathan-stanley-2
+Nick Starkel,2019-08-31,1,Arkansas,,Portland State,W,4,5,80.0,48,0,1,120.6,nick-starkel-1
+Tommy Stevens,2019-08-31,1,Mississippi State,N,Louisiana,W,20,30,66.7,236,2,0,154.7,tommy-stevens-1
+Colby Suits,2019-08-31,1,Louisiana-Monroe,,Grambling State,W,1,3,33.3,3,0,0,41.7,colby-suits-1
+Tua Tagovailoa,2019-08-31,1,Alabama,N,Duke,W,26,31,83.9,336,4,0,217.5,tua-tagovailoa-1
+Zac Thomas,2019-08-31,1,Appalachian State,,East Tennessee State,W,16,24,66.7,150,2,0,146.7,zac-thomas-2
+Casey Thompson,2019-08-31,1,Texas,,Louisiana Tech,W,3,5,60.0,25,0,0,102.0,casey-thompson-1
+Skylar Thompson,2019-08-31,1,Kansas State,,Nicholls State,W,16,22,72.7,212,1,0,168.7,skylar-thompson-1
+Alex Thomson,2019-08-31,1,Marshall,,Virginia Military Institute,W,6,7,85.7,102,1,0,255.3,alex-thomson-1
+Trey Tinsley,2019-08-31,1,Washington State,,New Mexico State,W,1,3,33.3,11,0,0,64.1,trey-tinsley-1
+Justin Tomlin,2019-08-31,1,Georgia Southern,@,Louisiana State,L,3,8,37.5,24,0,0,62.7,justin-tomlin-1
+Jackson Tyner,2019-08-31,1,Texas Tech,,Montana State,W,0,2,0.0,0,0,0,0.0,jackson-tyner-1
+Deuce Wallace,2019-08-31,1,Vanderbilt,,Georgia,L,2,6,33.3,24,0,0,66.9,deuce-wallace-2
+Jon Wassink,2019-08-31,1,Western Michigan,,Monmouth,W,20,25,80.0,368,5,0,269.6,jon-wassink-1
+Shai Werts,2019-08-31,1,Georgia Southern,@,Louisiana State,L,1,3,33.3,0,0,0,33.3,shai-werts-1
+Brady White,2019-08-31,1,Memphis,,Mississippi,W,23,31,74.2,172,0,1,114.3,brady-white-1
+Kobay White,2019-08-31,1,Boston College,,Virginia Tech,W,0,1,0.0,0,0,1,-200.0,kobay-white-1
+Steven Williams,2019-08-31,1,Old Dominion,,Norfolk State,W,0,1,0.0,0,0,1,-200.0,steven-williams-2
+Ryan Willis,2019-08-31,1,Virginia Tech,@,Boston College,L,29,47,61.7,344,4,3,138.5,ryan-willis-2
+Terry Wilson,2019-08-31,1,Kentucky,,Toledo,W,19,26,73.1,246,2,0,177.9,terry-wilson-3
+Jalen Hurts,2019-09-01,1,Oklahoma,,Houston,W,20,23,87.0,332,3,0,251.3,jalen-hurts-1
+D'Eriq King,2019-09-01,1,Houston,@,Oklahoma,L,14,27,51.9,167,2,0,128.3,deriq-king-1
+Tanner Mordecai,2019-09-01,1,Oklahoma,,Houston,W,0,1,0.0,0,0,0,0.0,tanner-mordecai-1
+Chatarius Atwell,2019-09-02,1,Louisville,,Notre Dame,L,0,1,0.0,0,0,0,0.0,chatarius-atwell-1
+Ian Book,2019-09-02,1,Notre Dame,@,Louisville,W,14,23,60.9,193,1,0,145.7,ian-book-1
+Jawon Pass,2019-09-02,1,Louisville,,Notre Dame,L,12,27,44.4,134,0,0,86.1,jawon-pass-1
+Brennan Armstrong,2019-09-06,2,Virginia,,William & Mary,W,9,10,90.0,103,0,1,156.5,brennan-armstrong-1
+Hank Bachmeier,2019-09-06,2,Boise State,,Marshall,W,22,34,64.7,282,1,1,138.2,hank-bachmeier-1
+Jayden Daniels,2019-09-06,2,Arizona State,,Sacramento State,W,17,27,63.0,304,1,0,169.8,jayden-daniels-1
+Xavier Gaines,2019-09-06,2,Marshall,@,Boise State,L,0,1,0.0,0,0,0,0.0,xavier-gaines-2
+Isaiah Green,2019-09-06,2,Marshall,@,Boise State,L,10,17,58.8,56,0,1,74.7,isaiah-green-2
+Wiley Green,2019-09-06,2,Rice,,Wake Forest,L,3,5,60.0,69,0,0,175.9,wiley-green-1
+Jamie Newman,2019-09-06,2,Wake Forest,@,Rice,W,21,27,77.8,312,3,0,211.5,jamie-newman-1
+Bryce Perkins,2019-09-06,2,Virginia,,William & Mary,W,16,26,61.5,192,2,2,133.6,bryce-perkins-1
+Tom Stewart,2019-09-06,2,Rice,,Wake Forest,L,19,30,63.3,185,1,0,126.1,tom-stewart-1
+Jack Abraham,2019-09-07,2,Southern Mississippi,@,Mississippi State,L,18,26,69.2,234,2,2,154.8,jack-abraham-1
+Connor Adair,2019-09-07,2,Memphis,,Southern,W,6,7,85.7,61,0,0,158.9,connor-adair-1
+Josh Adkins,2019-09-07,2,New Mexico State,@,Alabama,L,19,30,63.3,145,1,1,108.3,josh-adkins-1
+Ryan Agnew,2019-09-07,2,San Diego State,@,UCLA,W,23,31,74.2,293,1,0,164.2,ryan-agnew-1
+Holton Ahlers,2019-09-07,2,East Carolina,,Gardner-Webb,W,18,29,62.1,195,1,1,123.0,holton-ahlers-1
+Maurice Alexander,2019-09-07,2,Florida International,,Western Kentucky,L,0,1,0.0,0,0,0,0.0,maurice-alexander-2
+Jack Allison,2019-09-07,2,West Virginia,@,Missouri,L,1,2,50.0,4,0,1,-33.2,jack-allison-1
+Griffin Alstott,2019-09-07,2,Western Michigan,@,Michigan State,L,4,4,100.0,33,1,0,251.8,griffin-alstott-1
+Nick Ast,2019-09-07,2,Kansas State,,Bowling Green State,W,3,3,100.0,28,0,0,178.4,nick-ast-1
+Blake Barnett,2019-09-07,2,South Florida,@,Georgia Tech,L,12,20,60.0,79,0,0,93.2,blake-barnett-2
+Michael Barrett,2019-09-07,2,Michigan,,Army,W,1,1,100.0,25,0,0,310.0,michael-barrett-1
+Jason Bean,2019-09-07,2,North Texas,@,Southern Methodist,L,5,6,83.3,33,1,0,184.5,jason-bean-1
+Johnathan Bennett,2019-09-07,2,Liberty,@,Louisiana,L,1,2,50.0,7,0,0,79.4,johnathan-bennett-1
+Stetson Bennett,2019-09-07,2,Georgia,,Murray State,W,9,13,69.2,124,2,1,184.7,stetson-bennett-1
+James Blackman,2019-09-07,2,Florida State,,Louisiana-Monroe,W,30,40,75.0,282,3,2,149.0,james-blackman-1
+Gerry Bohanon,2019-09-07,2,Baylor,,Texas-San Antonio,W,4,7,57.1,15,0,0,75.1,gerry-bohanon-1
+Logan Bonner,2019-09-07,2,Arkansas State,@,Nevada-Las Vegas,W,22,37,59.5,284,2,0,141.8,logan-bonner-1
+Lynn Bowden Jr.,2019-09-07,2,Kentucky,,Eastern Michigan,W,1,1,100.0,32,0,0,368.8,lynn-bowden-jr-1
+Ross Bowers,2019-09-07,2,Northern Illinois,@,Utah,L,20,29,69.0,229,1,1,139.8,ross-bowers-1
+Alan Bowman,2019-09-07,2,Texas Tech,,Texas-El Paso,W,30,45,66.7,260,3,1,132.8,alan-bowman-1
+Rakeem Boyd,2019-09-07,2,Arkansas,@,Mississippi,L,1,1,100.0,1,0,0,108.4,rakeem-boyd-2
+Charlie Brewer,2019-09-07,2,Baylor,,Texas-San Antonio,W,12,16,75.0,163,3,0,222.5,charlie-brewer-1
+Andrew Brito,2019-09-07,2,Massachusetts,,Southern Illinois,L,6,10,60.0,73,1,1,134.3,andrew-brito-1
+Anthony Brown,2019-09-07,2,Boston College,,Richmond,W,8,14,57.1,163,3,0,225.7,anthony-brown-11
+Dru Brown,2019-09-07,2,Oklahoma State,,McNeese State,W,7,10,70.0,142,2,0,255.3,dru-brown-1
+Dyami Brown,2019-09-07,2,North Carolina,,Miami (FL),W,1,1,100.0,18,0,0,251.2,dyami-brown-1
+Ben Bryant,2019-09-07,2,Cincinnati,@,Ohio State,L,0,3,0.0,0,0,0,0.0,ben-bryant-1
+Kelly Bryant,2019-09-07,2,Missouri,,West Virginia,W,17,25,68.0,150,3,0,158.0,kelly-bryant-1
+Shane Buechele,2019-09-07,2,Southern Methodist,,North Texas,W,21,31,67.7,292,3,0,178.8,shane-buechele-1
+Joe Burrow,2019-09-07,2,Louisiana State,@,Texas,W,31,39,79.5,471,4,1,209.7,joe-burrow-1
+Stephen Calvert,2019-09-07,2,Liberty,@,Louisiana,L,21,37,56.8,212,1,1,108.4,stephen-calvert-1
+Bryce Carpenter,2019-09-07,2,Coastal Carolina,@,Kansas,W,2,5,40.0,21,0,0,75.3,bryce-carpenter-1
+McLane Carter,2019-09-07,2,Rutgers,@,Iowa,L,5,15,33.3,22,0,1,32.3,mclane-carter-1
+Sean Chambers,2019-09-07,2,Wyoming,@,Texas State,W,8,18,44.4,103,0,1,81.4,sean-chambers-1
+Marcus Childers,2019-09-07,2,Northern Illinois,@,Utah,L,1,2,50.0,6,0,0,75.2,marcus-childers-1
+Chris Chugunov,2019-09-07,2,Ohio State,,Cincinnati,W,2,2,100.0,14,0,0,158.8,chris-chugunov-1
+Sean Clifford,2019-09-07,2,Penn State,,Buffalo,W,16,22,72.7,279,4,0,239.3,sean-clifford-1
+Jack Coan,2019-09-07,2,Wisconsin,,Central Michigan,W,26,33,78.8,363,3,0,201.2,jack-coan-1
+Henry Colombi,2019-09-07,2,Utah State,,Stony Brook,W,8,9,88.9,93,2,0,249.0,henry-colombi-1
+Matt Corral,2019-09-07,2,Mississippi,,Arkansas,W,16,24,66.7,246,2,0,180.3,matt-corral-1
+Dustin Crum,2019-09-07,2,Kent State,,,W,17,23,73.9,192,1,0,158.4,dustin-crum-1
+Malik Cunningham,2019-09-07,2,Louisville,,Eastern Kentucky,W,1,1,100.0,24,0,0,301.6,malik-cunningham-1
+Tommy Devito,2019-09-07,2,Syracuse,@,Maryland,L,28,39,71.8,330,3,1,163.1,tommy-devito-1
+Quinten Dormady,2019-09-07,2,Central Michigan,@,Wisconsin,L,5,12,41.7,36,0,1,50.2,quinten-dormady-1
+Jett Duffey,2019-09-07,2,Texas Tech,,Texas-El Paso,W,1,1,100.0,4,0,0,133.6,jett-duffey-1
+Steven Duncan,2019-09-07,2,Western Kentucky,@,Florida International,W,19,33,57.6,241,1,2,116.8,steven-duncan-1
+Devin Duvernay,2019-09-07,2,Texas,,Louisiana State,L,1,1,100.0,8,0,0,167.2,devin-duvernay-1
+Jacob Eason,2019-09-07,2,Washington,,California,L,18,30,60.0,162,0,1,98.7,jacob-eason-1
+Sam Ehlinger,2019-09-07,2,Texas,,Louisiana State,L,31,47,66.0,401,4,0,165.7,sam-ehlinger-1
+Dan Ellington,2019-09-07,2,Georgia State,,Furman,W,29,37,78.4,362,5,0,205.2,dan-ellington-1
+Caleb Evans,2019-09-07,2,Louisiana-Monroe,@,Florida State,L,23,38,60.5,241,2,0,131.2,caleb-evans-2
+Justin Fields,2019-09-07,2,Ohio State,,Cincinnati,W,20,25,80.0,224,2,0,181.7,justin-fields-2
+Mason Fine,2019-09-07,2,North Texas,@,Southern Methodist,L,17,32,53.1,152,1,1,97.1,mason-fine-1
+Feleipe Franks,2019-09-07,2,Florida,,Tennessee-Martin,W,25,27,92.6,270,2,0,201.0,feleipe-franks-1
+Jake Fromm,2019-09-07,2,Georgia,,Murray State,W,10,11,90.9,166,1,0,247.7,jake-fromm-1
+Brett Gabbert,2019-09-07,2,Miami (OH),,Tennessee Tech,W,10,17,58.8,152,0,0,133.9,brett-gabbert-1
+Dillon Gabriel,2019-09-07,2,Central Florida,@,Florida Atlantic,W,7,19,36.8,245,2,0,179.9,dillon-gabriel-1
+Chase Garbers,2019-09-07,2,California,@,Washington,W,11,18,61.1,111,0,0,112.9,chase-garbers-1
+Mike Glass III,2019-09-07,2,Eastern Michigan,@,Kentucky,L,34,53,64.2,337,2,2,122.5,mike-glass-iii-1
+Anthony Gordon,2019-09-07,2,Washington State,,Northern Colorado,W,31,39,79.5,464,4,1,208.1,anthony-gordon-2
+James Graham,2019-09-07,2,Georgia Tech,,South Florida,W,1,1,100.0,20,0,0,268.0,james-graham-1
+Dennis Grosel,2019-09-07,2,Boston College,,Richmond,W,1,2,50.0,9,0,0,87.8,dennis-grosel-1
+Jarrett Guarantano,2019-09-07,2,Tennessee,,Brigham Young,L,17,28,60.7,176,2,1,129.9,jarrett-guarantano-1
+Gage Gubrud,2019-09-07,2,Washington State,,Northern Colorado,W,1,2,50.0,13,0,0,104.6,gage-gubrud-1
+Grant Gunnell,2019-09-07,2,Arizona,,Northern Arizona,W,9,11,81.8,151,3,0,287.1,grant-gunnell-1
+Frank Harris,2019-09-07,2,Texas-San Antonio,@,Baylor,L,15,24,62.5,93,0,0,95.1,frank-harris-3
+Quentin Harris,2019-09-07,2,Duke,,North Carolina A&T,W,30,42,71.4,345,4,0,171.9,quentin-harris-2
+Taj Harris,2019-09-07,2,Syracuse,@,Maryland,L,0,1,0.0,0,0,0,0.0,taj-harris-1
+Justin Herbert,2019-09-07,2,Oregon,,Nevada,W,19,26,73.1,310,5,0,236.7,justin-herbert-1
+Reid Herring,2019-09-07,2,East Carolina,,Gardner-Webb,W,1,2,50.0,14,0,0,108.8,reid-herring-1
+Ben Hicks,2019-09-07,2,Arkansas,@,Mississippi,L,7,16,43.8,98,0,0,95.2,ben-hicks-1
+Ryan Hilinski,2019-09-07,2,South Carolina,,Charleston Southern,W,24,30,80.0,282,2,1,174.3,ryan-hilinski-1
+Colin Hill,2019-09-07,2,Colorado State,,Western Illinois,W,25,32,78.1,367,4,0,215.7,colin-hill-1
+Bailey Hockman,2019-09-07,2,North Carolina State,,Western Carolina,W,4,5,80.0,31,0,0,132.1,bailey-hockman-1
+John Holcombe II,2019-09-07,2,Kansas State,,Bowling Green State,W,1,3,33.3,9,0,0,58.5,john-holcombe-ii-1
+Logan Holgorsen,2019-09-07,2,Houston,,Prairie View A&M,W,1,1,100.0,5,0,0,142.0,logan-holgorsen-1
+Kelvin Hopkins Jr,2019-09-07,2,Army,@,Michigan,L,2,4,50.0,43,0,1,90.3,kelvin-hopkins-jr-1
+Sam Howell,2019-09-07,2,North Carolina,,Miami (FL),W,16,24,66.7,274,2,0,190.1,sam-howell-1
+Tyler Huntley,2019-09-07,2,Utah,,Northern Illinois,W,14,19,73.7,214,1,0,185.7,tyler-huntley-1
+Jalen Hurts,2019-09-07,2,Oklahoma,,South Dakota,W,14,18,77.8,259,3,0,253.6,jalen-hurts-1
+Josh Jackson,2019-09-07,2,Maryland,,Syracuse,W,21,38,55.3,296,3,1,141.5,josh-jackson-3
+Gresch Jensen,2019-09-07,2,Texas State,,Wyoming,L,33,54,61.1,394,1,2,121.1,gresch-jensen-1
+Cephus Johnson,2019-09-07,2,South Alabama,,Jackson State,W,11,18,61.1,120,1,2,113.2,cephus-johnson-2
+Lucas Johnson,2019-09-07,2,Georgia Tech,,South Florida,W,11,17,64.7,45,0,1,75.2,lucas-johnson-2
+Tyler Johnston III,2019-09-07,2,Alabama-Birmingham,@,Akron,W,15,24,62.5,319,4,1,220.8,tyler-johnston-iii-1
+Amare Jones,2019-09-07,2,Tulane,@,Auburn,L,0,1,0.0,0,0,0,0.0,amare-jones-1
+Brandon Jones,2019-09-07,2,Texas-El Paso,@,Texas Tech,L,4,12,33.3,21,0,0,48.0,brandon-jones-16
+Emory Jones,2019-09-07,2,Florida,,Tennessee-Martin,W,1,4,25.0,2,0,0,29.2,emory-jones-1
+Mac Jones,2019-09-07,2,Alabama,,New Mexico State,W,5,9,55.6,58,1,0,146.4,mac-jones-1
+Quadry Jones,2019-09-07,2,Central Florida,@,Florida Atlantic,W,1,1,100.0,17,0,0,242.8,quadry-jones-1
+Dakereon Joyner,2019-09-07,2,South Carolina,,Charleston Southern,W,1,1,100.0,0,0,0,100.0,dakereon-joyner-1
+Chris Katrenick,2019-09-07,2,Duke,,North Carolina A&T,W,1,2,50.0,19,0,1,29.8,chris-katrenick-1
+Austin Kendall,2019-09-07,2,West Virginia,@,Missouri,L,15,25,60.0,137,1,2,103.2,austin-kendall-1
+D'Eriq King,2019-09-07,2,Houston,,Prairie View A&M,W,15,26,57.7,139,1,1,107.6,deriq-king-1
+Trevor Lawrence,2019-09-07,2,Clemson,,Texas A&M,W,24,35,68.6,268,1,1,136.6,trevor-lawrence-1
+Tommy Lazzaro,2019-09-07,2,Central Michigan,@,Wisconsin,L,1,1,100.0,6,0,0,150.4,tommy-lazzaro-1
+Brian Lewerke,2019-09-07,2,Michigan State,,Western Michigan,W,23,32,71.9,314,3,1,179.0,brian-lewerke-1
+Levi Lewis,2019-09-07,2,Louisiana,,Liberty,W,15,23,65.2,179,2,1,150.6,levi-lewis-1
+Kai Locksley,2019-09-07,2,Texas-El Paso,@,Texas Tech,L,3,7,42.9,33,0,0,82.5,kai-locksley-1
+Jordan Love,2019-09-07,2,Utah State,,Stony Brook,W,25,34,73.5,294,1,0,155.9,jordan-love-2
+Josh Love,2019-09-07,2,San Jose State,,Tulsa,L,16,30,53.3,189,1,0,117.3,josh-love-1
+Grant Loy,2019-09-07,2,Bowling Green State,@,Kansas State,L,3,5,60.0,0,0,0,60.0,grant-loy-1
+Jake Luton,2019-09-07,2,Oregon State,@,Hawaii,L,15,32,46.9,169,1,0,101.6,jake-luton-1
+Jai'ave Magalei,2019-09-07,2,Louisiana,,Liberty,W,1,2,50.0,7,0,0,79.4,jaiave-magalei-1
+Adrian Martinez,2019-09-07,2,Nebraska,@,Colorado,L,16,26,61.5,290,2,1,172.9,adrian-martinez-2
+Dylan McCaffrey,2019-09-07,2,Michigan,,Army,W,0,1,0.0,0,0,0,0.0,dylan-mccaffrey-1
+Jordan McCloud,2019-09-07,2,South Florida,@,Georgia Tech,L,4,5,80.0,90,1,0,297.2,jordan-mccloud-1
+Hamish McClure,2019-09-07,2,Nevada,@,Oregon,L,3,3,100.0,20,0,0,156.0,hamish-mcclure-1
+Cole McDonald,2019-09-07,2,Hawaii,,Oregon State,W,30,52,57.7,421,4,1,147.2,cole-mcdonald-1
+Matt McKay,2019-09-07,2,North Carolina State,,Western Carolina,W,18,28,64.3,200,1,0,136.1,matt-mckay-1
+Justin McMillan,2019-09-07,2,Tulane,@,Auburn,L,10,33,30.3,103,0,1,50.5,justin-mcmillan-1
+Graham Mertz,2019-09-07,2,Wisconsin,,Central Michigan,W,4,5,80.0,35,0,0,138.8,graham-mertz-1
+Davis Mills,2019-09-07,2,Stanford,@,Southern California,L,22,36,61.1,237,1,1,120.0,davis-mills-1
+Kellen Mond,2019-09-07,2,Texas A&M,@,Clemson,L,24,42,57.1,236,1,1,107.4,kellen-mond-1
+Steven Montez,2019-09-07,2,Colorado,,Nebraska,W,28,41,68.3,375,2,1,156.3,steven-montez-1
+David Moore,2019-09-07,2,Central Michigan,@,Wisconsin,L,3,11,27.3,1,0,0,28.0,david-moore-1
+Tanner Mordecai,2019-09-07,2,Oklahoma,,South Dakota,W,6,8,75.0,114,2,0,277.2,tanner-mordecai-1
+James Morgan,2019-09-07,2,Florida International,,Western Kentucky,L,3,11,27.3,25,0,0,46.4,james-morgan-1
+Tanner Morgan,2019-09-07,2,Minnesota,@,Fresno State,W,16,23,69.6,234,2,0,183.7,tanner-morgan-2
+Tylan Morton,2019-09-07,2,South Alabama,,Jackson State,W,1,1,100.0,5,0,0,142.0,tylan-morton-1
+Matt Myers,2019-09-07,2,Buffalo,@,Penn State,L,16,31,51.6,245,1,1,122.2,matt-myers-2
+Lowell Narcisse,2019-09-07,2,Texas-San Antonio,@,Baylor,L,2,6,33.3,9,0,0,45.9,lowell-narcisse-1
+Nick Nash,2019-09-07,2,San Jose State,,Tulsa,L,5,7,71.4,44,0,0,124.2,nick-nash-1
+Riley Neal,2019-09-07,2,Vanderbilt,@,Purdue,L,24,35,68.6,378,2,1,172.4,riley-neal-1
+Kato Nelson,2019-09-07,2,Akron,,Alabama-Birmingham,L,25,44,56.8,359,2,0,140.4,kato-nelson-1
+Bo Nix,2019-09-07,2,Auburn,,Tulane,W,19,37,51.4,207,1,0,107.3,bo-nix-1
+Patrick O'Brien,2019-09-07,2,Colorado State,,Western Illinois,W,1,1,100.0,29,0,0,343.6,patrick-obrien-1
+Asher O'Hara,2019-09-07,2,Middle Tennessee State,,Tennessee State,W,22,30,73.3,367,4,1,213.4,asher-ohara-1
+Kenyon Oblad,2019-09-07,2,Nevada-Las Vegas,,Arkansas State,L,3,3,100.0,70,1,0,406.0,kenyon-oblad-1
+Tobias Oliver,2019-09-07,2,Georgia Tech,,South Florida,W,2,3,66.7,11,0,0,97.5,tobias-oliver-1
+John Paddock,2019-09-07,2,Ball State,,Fordham,W,1,2,50.0,5,0,0,71.0,john-paddock-1
+Jawon Pass,2019-09-07,2,Louisville,,Eastern Kentucky,W,12,19,63.2,196,4,1,208.8,jawon-pass-1
+Shea Patterson,2019-09-07,2,Michigan,,Army,W,19,29,65.5,207,0,0,125.5,shea-patterson-1
+Fred Payton,2019-09-07,2,Coastal Carolina,@,Kansas,W,6,9,66.7,98,1,0,194.8,fred-payton-1
+Andrew Peasley,2019-09-07,2,Utah State,,Stony Brook,W,2,2,100.0,5,0,0,121.0,andrew-peasley-1
+Michael Penix Jr.,2019-09-07,2,Indiana,,Eastern Illinois,W,14,20,70.0,197,2,0,185.7,michael-penix-jr-1
+Brandon Peters,2019-09-07,2,Illinois,@,Connecticut,W,24,35,68.6,227,4,1,155.1,brandon-peters-1
+Spencer Petras,2019-09-07,2,Iowa,,Rutgers,W,3,6,50.0,8,0,0,61.2,spencer-petras-1
+Kenny Pickett,2019-09-07,2,Pittsburgh,,Ohio,W,26,37,70.3,321,1,0,152.1,kenny-pickett-1
+Drew Plitt,2019-09-07,2,Ball State,,Fordham,W,32,40,80.0,439,6,1,216.7,drew-plitt-1
+Taylor Powell,2019-09-07,2,Missouri,,West Virginia,W,0,3,0.0,0,0,0,0.0,taylor-powell-1
+Nathan Priestley,2019-09-07,2,Georgia,,Murray State,W,1,1,100.0,2,0,0,116.8,nathan-priestley-1
+Peyton Ramsey,2019-09-07,2,Indiana,,Eastern Illinois,W,13,14,92.9,226,2,0,275.6,peyton-ramsey-1
+Spencer Rattler,2019-09-07,2,Oklahoma,,South Dakota,W,4,4,100.0,50,1,0,287.5,spencer-rattler-1
+Jorge Reyna,2019-09-07,2,Fresno State,,Minnesota,L,24,35,68.6,288,3,2,154.5,jorge-reyna-1
+Chris Reynolds,2019-09-07,2,UNC Charlotte,@,Appalachian State,L,20,31,64.5,296,4,1,180.9,chris-reynolds-1
+Desmond Ridder,2019-09-07,2,Cincinnati,@,Ohio State,L,13,20,65.0,166,0,1,124.7,desmond-ridder-1
+Chris Robison,2019-09-07,2,Florida Atlantic,,Central Florida,L,18,40,45.0,177,0,1,77.2,chris-robison-1
+Daniel Rodriguez,2019-09-07,2,Oregon State,@,Hawaii,L,0,1,0.0,0,0,0,0.0,daniel-rodriguez-3
+Armani Rogers,2019-09-07,2,Nevada-Las Vegas,,Arkansas State,L,8,23,34.8,42,0,1,41.4,armani-rogers-1
+Matt Romero,2019-09-07,2,New Mexico State,@,Alabama,L,2,6,33.3,16,0,0,55.7,matt-romero-1
+Nathan Rourke,2019-09-07,2,Ohio,@,Pittsburgh,L,15,27,55.6,177,0,0,110.6,nathan-rourke-1
+Spencer Sanders,2019-09-07,2,Oklahoma State,,McNeese State,W,12,18,66.7,250,3,0,238.3,spencer-sanders-1
+Tyler Shough,2019-09-07,2,Oregon,,Nevada,W,8,9,88.9,92,2,0,248.1,tyler-shough-1
+Garrett Shrader,2019-09-07,2,Mississippi State,,Southern Mississippi,W,7,11,63.6,71,0,0,117.9,garrett-shrader-1
+Elijah Sindelar,2019-09-07,2,Purdue,,Vanderbilt,W,34,52,65.4,509,5,1,175.5,elijah-sindelar-1
+Artur Sitkowski,2019-09-07,2,Rutgers,@,Iowa,L,4,11,36.4,19,0,1,32.7,artur-sitkowski-1
+Kedon Slovis,2019-09-07,2,Southern California,,Stanford,W,28,33,84.8,377,3,0,210.8,kedon-slovis-1
+Stone Smartt,2019-09-07,2,Old Dominion,@,Virginia Tech,L,16,30,53.3,122,0,0,87.5,stone-smartt-1
+J'mar Smith,2019-09-07,2,Louisiana Tech,,Grambling State,W,17,25,68.0,220,1,0,155.1,jmar-smith-1
+Sawyer Smith,2019-09-07,2,Kentucky,,Eastern Michigan,W,5,9,55.6,76,2,0,199.8,sawyer-smith-1
+Zach Smith,2019-09-07,2,Tulsa,@,San Jose State,W,21,28,75.0,283,1,0,171.7,zach-smith-6
+Carter Stanley,2019-09-07,2,Kansas,,Coastal Carolina,L,13,19,68.4,107,0,2,94.7,carter-stanley-1
+Nathan Stanley,2019-09-07,2,Iowa,,Rutgers,W,16,28,57.1,236,3,0,163.3,nathan-stanley-2
+Nick Starkel,2019-09-07,2,Arkansas,@,Mississippi,L,17,24,70.8,201,1,0,154.9,nick-starkel-1
+Tommy Stevens,2019-09-07,2,Mississippi State,,Southern Mississippi,W,9,10,90.0,105,2,0,244.2,tommy-stevens-1
+Darrell Stewart Jr.,2019-09-07,2,Michigan State,,Western Michigan,W,1,1,100.0,17,0,0,242.8,darrell-stewart-jr-1
+Carson Strong,2019-09-07,2,Nevada,@,Oregon,L,13,25,52.0,89,0,2,65.9,carson-strong-1
+Tua Tagovailoa,2019-09-07,2,Alabama,,New Mexico State,W,16,24,66.7,227,3,0,187.4,tua-tagovailoa-1
+Khalil Tate,2019-09-07,2,Arizona,,Northern Arizona,W,14,17,82.4,138,2,0,189.4,khalil-tate-1
+Shaun Taylor,2019-09-07,2,Oklahoma State,,McNeese State,W,4,4,100.0,21,0,0,144.1,shaun-taylor-2
+Zac Thomas,2019-09-07,2,Appalachian State,,UNC Charlotte,W,14,20,70.0,182,3,0,195.9,zac-thomas-2
+Skylar Thompson,2019-09-07,2,Kansas State,,Bowling Green State,W,10,13,76.9,151,2,0,225.3,skylar-thompson-1
+Dorian Thompson-Robinson,2019-09-07,2,UCLA,,San Diego State,L,24,35,68.6,199,1,0,125.8,dorian-thompson-robinson-1
+Trey Tinsley,2019-09-07,2,Washington State,,Northern Colorado,W,1,1,100.0,4,1,0,463.6,trey-tinsley-1
+Justin Tomlin,2019-09-07,2,Georgia Southern,,Maine,W,4,9,44.4,63,0,0,103.2,justin-tomlin-1
+Kyle Trask,2019-09-07,2,Florida,,Tennessee-Martin,W,4,5,80.0,40,1,0,213.2,kyle-trask-1
+Jack Tuttle,2019-09-07,2,Indiana,,Eastern Illinois,W,3,7,42.9,18,0,0,64.5,jack-tuttle-1
+Jackson Tyner,2019-09-07,2,Texas Tech,,Texas-El Paso,W,0,1,0.0,0,0,0,0.0,jackson-tyner-1
+Kyle Vantrease,2019-09-07,2,Buffalo,@,Penn State,L,0,1,0.0,0,0,0,0.0,kyle-vantrease-1
+Darius Wade,2019-09-07,2,Bowling Green State,@,Kansas State,L,8,19,42.1,79,0,0,77.0,darius-wade-1
+Deuce Wallace,2019-09-07,2,Vanderbilt,@,Purdue,L,7,13,53.8,42,0,0,81.0,deuce-wallace-2
+Jon Wassink,2019-09-07,2,Western Michigan,@,Michigan State,L,23,37,62.2,252,1,2,117.5,jon-wassink-1
+Clayton Welch,2019-09-07,2,Syracuse,@,Maryland,L,0,1,0.0,0,0,0,0.0,clayton-welch-1
+Randall West,2019-09-07,2,Massachusetts,,Southern Illinois,L,9,17,52.9,125,0,1,102.9,randall-west-1
+Brady White,2019-09-07,2,Memphis,,Southern,W,17,21,81.0,337,2,0,247.2,brady-white-1
+Kaylan Wiggins,2019-09-07,2,Florida International,,Western Kentucky,L,2,6,33.3,41,0,0,90.7,kaylan-wiggins-1
+Jarren Williams,2019-09-07,2,Miami (FL),@,North Carolina,L,30,39,76.9,309,2,0,160.4,jarren-williams-1
+Jackson Williamson,2019-09-07,2,Miami (OH),,Tennessee Tech,W,1,1,100.0,7,0,0,158.8,jackson-williamson-1
+Ryan Willis,2019-09-07,2,Virginia Tech,,Old Dominion,W,16,28,57.1,272,2,0,162.3,ryan-willis-2
+Terry Wilson,2019-09-07,2,Kentucky,,Eastern Michigan,W,14,26,53.8,114,0,0,90.7,terry-wilson-3
+Zach Wilson,2019-09-07,2,Brigham Young,@,Tennessee,W,19,29,65.5,232,1,0,144.1,zach-wilson-3
+Chase Wolf,2019-09-07,2,Wisconsin,,Central Michigan,W,1,1,100.0,2,0,0,116.8,chase-wolf-1
+Jack Zergiotis,2019-09-07,2,Connecticut,,Illinois,L,21,31,67.7,275,0,2,129.4,jack-zergiotis-1
+Anthony Brown,2019-09-13,3,Boston College,,Kansas,L,18,36,50.0,195,1,0,104.7,anthony-brown-11
+Anthony Gordon,2019-09-13,3,Washington State,N,Houston,W,36,48,75.0,440,3,1,168.5,anthony-gordon-2
+Dennis Grosel,2019-09-13,3,Boston College,,Kansas,L,2,4,50.0,12,0,0,75.2,dennis-grosel-1
+Sam Howell,2019-09-13,3,North Carolina,@,Wake Forest,L,17,28,60.7,182,2,0,138.9,sam-howell-1
+D'Eriq King,2019-09-13,3,Houston,N,Washington State,L,13,24,54.2,128,1,0,112.7,deriq-king-1
+CJ Lewis,2019-09-13,3,Boston College,,Kansas,L,1,1,100.0,12,1,0,530.8,cj-lewis-2
+Jamie Newman,2019-09-13,3,Wake Forest,,North Carolina,W,14,26,53.8,214,1,1,128.0,jamie-newman-1
+Jace Ruder,2019-09-13,3,North Carolina,@,Wake Forest,L,1,2,50.0,7,0,0,79.4,jace-ruder-1
+Carter Stanley,2019-09-13,3,Kansas,@,Boston College,W,20,27,74.1,238,3,1,177.4,carter-stanley-1
+Jack Abraham,2019-09-14,3,Southern Mississippi,@,Troy,W,28,36,77.8,463,2,0,204.1,jack-abraham-1
+Connor Adair,2019-09-14,3,Memphis,@,South Alabama,W,2,2,100.0,9,0,0,137.8,connor-adair-1
+Josh Adkins,2019-09-14,3,New Mexico State,,San Diego State,L,26,41,63.4,299,1,2,123.0,josh-adkins-1
+Ryan Agnew,2019-09-14,3,San Diego State,@,New Mexico State,W,16,25,64.0,106,1,1,104.8,ryan-agnew-1
+Holton Ahlers,2019-09-14,3,East Carolina,@,Navy,L,11,23,47.8,138,0,1,89.5,holton-ahlers-1
+Aaron Allen,2019-09-14,3,Louisiana Tech,@,Bowling Green State,W,5,5,100.0,57,0,0,195.8,aaron-allen-1
+Griffin Alstott,2019-09-14,3,Western Michigan,,Georgia State,W,1,1,100.0,-2,0,0,83.2,griffin-alstott-1
+Hank Bachmeier,2019-09-14,3,Boise State,,Portland State,W,16,25,64.0,238,2,1,162.4,hank-bachmeier-1
+Kaleb Barker,2019-09-14,2,Troy,,Southern Mississippi,L,29,43,67.4,504,4,0,196.6,kaleb-barker-1
+Blake Barnett,2019-09-14,3,South Florida,,South Carolina State,W,2,6,33.3,24,1,0,121.9,blake-barnett-2
+Woody Barrett,2019-09-14,3,Kent State,@,Auburn,L,3,11,27.3,31,1,0,80.9,woody-barrett-2
+Stetson Bennett,2019-09-14,3,Georgia,,Arkansas State,W,9,10,90.0,109,0,0,181.6,stetson-bennett-1
+James Blackman,2019-09-14,3,Florida State,@,Virginia,L,22,37,59.5,234,3,0,139.3,james-blackman-1
+Logan Bonner,2019-09-14,3,Arkansas State,@,Georgia,L,20,35,57.1,124,0,0,86.9,logan-bonner-1
+Ian Book,2019-09-14,2,Notre Dame,,New Mexico,W,15,24,62.5,360,5,0,257.3,ian-book-1
+Seth Boomer,2019-09-14,3,Tulsa,,Oklahoma State,L,2,5,40.0,10,0,0,56.8,seth-boomer-1
+Ross Bowers,2019-09-14,3,Northern Illinois,@,Nebraska,L,25,44,56.8,248,0,1,99.6,ross-bowers-1
+Alan Bowman,2019-09-14,3,Texas Tech,@,Arizona,L,30,55,54.5,311,1,2,100.8,alan-bowman-1
+Carter Bradley,2019-09-14,2,Toledo,,Murray State,W,3,5,60.0,82,1,0,263.8,carter-bradley-1
+Myles Brennan,2019-09-14,3,Louisiana State,,Northwestern State,W,8,9,88.9,115,0,0,196.2,myles-brennan-1
+Chase Brice,2019-09-14,3,Clemson,@,Syracuse,W,1,3,33.3,-4,0,0,22.1,chase-brice-1
+Andrew Brito,2019-09-14,3,Massachusetts,@,UNC Charlotte,L,18,27,66.7,127,1,1,111.0,andrew-brito-1
+Cornelious Brown,2019-09-14,3,Georgia State,@,Western Michigan,L,0,5,0.0,0,0,1,-40.0,cornelious-brown-1
+Kelly Bryant,2019-09-14,3,Missouri,,Southeast Missouri State,W,15,20,75.0,225,1,1,176.0,kelly-bryant-1
+Shane Buechele,2019-09-14,3,Southern Methodist,,Texas State,W,14,18,77.8,219,2,2,194.4,shane-buechele-1
+Joe Burrow,2019-09-14,3,Louisiana State,,Northwestern State,W,21,24,87.5,373,2,1,237.2,joe-burrow-1
+Stephen Calvert,2019-09-14,3,Liberty,,Buffalo,W,23,30,76.7,325,4,0,211.7,stephen-calvert-1
+Zach Calzada,2019-09-14,3,Texas A&M,,Lamar,W,4,8,50.0,68,2,0,203.9,zach-calzada-1
+Bryce Carpenter,2019-09-14,3,Coastal Carolina,,Norfolk State,W,3,7,42.9,19,1,0,112.8,bryce-carpenter-1
+Sean Chambers,2019-09-14,3,Wyoming,,Idaho,W,4,12,33.3,50,0,0,68.3,sean-chambers-1
+Marcus Childers,2019-09-14,3,Northern Illinois,@,Nebraska,L,3,5,60.0,28,0,0,107.0,marcus-childers-1
+Chris Chugunov,2019-09-14,3,Ohio State,@,Indiana,W,2,4,50.0,6,0,0,62.6,chris-chugunov-1
+Brendon Clark,2019-09-14,2,Notre Dame,,New Mexico,W,1,2,50.0,22,1,0,307.4,brendon-clark-1
+Sean Clifford,2019-09-14,3,Penn State,,Pittsburgh,W,14,30,46.7,222,0,0,108.8,sean-clifford-1
+Evan Conley,2019-09-14,3,Louisville,N,Western Kentucky,W,2,3,66.7,86,1,0,417.5,evan-conley-1
+Chase Cord,2019-09-14,3,Boise State,,Portland State,W,5,10,50.0,103,2,0,202.5,chase-cord-1
+Chevan Cordeiro,2019-09-14,3,Hawaii,@,Washington,L,4,12,33.3,36,0,0,58.5,chevan-cordeiro-1
+Matt Corral,2019-09-14,3,Mississippi,,Southeastern Louisiana,W,21,30,70.0,239,2,0,158.9,matt-corral-1
+K.J. Costello,2019-09-14,3,Stanford,@,Central Florida,L,21,44,47.7,199,1,1,88.7,kj-costello-1
+Dustin Crum,2019-09-14,3,Kent State,@,Auburn,L,15,24,62.5,198,1,0,145.6,dustin-crum-1
+Malik Cunningham,2019-09-14,3,Louisville,N,Western Kentucky,W,8,13,61.5,119,2,0,189.2,malik-cunningham-1
+Jayden Daniels,2019-09-14,3,Arizona State,@,Michigan State,W,15,26,57.7,140,0,0,102.9,jayden-daniels-1
+Lucas Dean,2019-09-14,3,Texas-San Antonio,,Army,L,1,1,100.0,22,0,0,284.8,lucas-dean-1
+Alex Delton,2019-09-14,2,Texas Christian,@,Purdue,W,1,6,16.7,5,0,1,-9.7,alex-delton-1
+Tommy Devito,2019-09-14,3,Syracuse,,Clemson,L,15,27,55.6,172,0,1,101.7,tommy-devito-1
+Q' Drennan,2019-09-14,2,New Mexico,@,Notre Dame,L,0,1,0.0,0,0,0,0.0,q-drennan-1
+Max Duggan,2019-09-14,2,Texas Christian,@,Purdue,W,7,18,38.9,70,1,0,89.9,max-duggan-1
+Steven Duncan,2019-09-14,3,Western Kentucky,N,Louisville,L,25,47,53.2,245,3,0,118.0,steven-duncan-1
+Jacob Eason,2019-09-14,3,Washington,,Hawaii,W,18,25,72.0,262,3,0,199.6,jacob-eason-1
+Sam Ehlinger,2019-09-14,3,Texas,N,Rice,W,23,27,85.2,279,3,0,208.7,sam-ehlinger-1
+Dan Ellington,2019-09-14,3,Georgia State,@,Western Michigan,L,11,20,55.0,126,1,1,114.4,dan-ellington-1
+Westin Elliott,2019-09-14,3,Louisiana Tech,@,Bowling Green State,W,0,1,0.0,0,0,1,-200.0,westin-elliott-1
+Chandler Fields,2019-09-14,3,Louisiana,,Texas Southern,W,2,2,100.0,16,0,0,167.2,chandler-fields-1
+Justin Fields,2019-09-14,3,Ohio State,@,Indiana,W,14,24,58.3,199,3,0,169.2,justin-fields-2
+Mason Fine,2019-09-14,3,North Texas,@,California,L,21,40,52.5,210,2,1,108.1,mason-fine-1
+DeQuan Finn,2019-09-14,2,Toledo,,Murray State,W,0,1,0.0,0,0,0,0.0,dequan-finn-1
+James Foster,2019-09-14,3,Texas A&M,,Lamar,W,2,5,40.0,25,0,0,82.0,james-foster-1
+Feleipe Franks,2019-09-14,3,Florida,@,Kentucky,W,12,17,70.6,174,1,1,164.2,feleipe-franks-1
+Jake Fromm,2019-09-14,3,Georgia,,Arkansas State,W,17,22,77.3,279,3,0,228.8,jake-fromm-1
+Brett Gabbert,2019-09-14,3,Miami (OH),@,Cincinnati,L,10,18,55.6,143,0,0,122.3,brett-gabbert-1
+Dillon Gabriel,2019-09-14,3,Central Florida,,Stanford,W,22,30,73.3,347,4,0,214.5,dillon-gabriel-1
+Chase Garbers,2019-09-14,3,California,,North Texas,W,9,22,40.9,129,1,0,105.2,chase-garbers-1
+Joey Gatewood,2019-09-14,3,Auburn,,Kent State,W,1,1,100.0,5,0,0,142.0,joey-gatewood-1
+Tristan Gebbia,2019-09-14,3,Oregon State,,Cal Poly,W,4,5,80.0,36,0,1,100.5,tristan-gebbia-1
+Terrance Gipson,2019-09-14,3,Southern Methodist,,Texas State,W,1,1,100.0,30,0,0,352.0,terrance-gipson-1
+Mike Glass III,2019-09-14,3,Eastern Michigan,@,Illinois,W,23,36,63.9,316,3,0,165.1,mike-glass-iii-1
+Isaiah Green,2019-09-14,3,Marshall,,Ohio,W,17,28,60.7,206,2,0,146.1,isaiah-green-2
+Mitchell Guadagni,2019-09-14,2,Toledo,,Murray State,W,18,25,72.0,266,3,0,201.0,mitchell-guadagni-1
+Jarrett Guarantano,2019-09-14,3,Tennessee,,Chattanooga,W,7,8,87.5,142,3,0,360.4,jarrett-guarantano-1
+Jarrett Guest,2019-09-14,3,Coastal Carolina,,Norfolk State,W,1,1,100.0,6,0,0,150.4,jarrett-guest-1
+Donavan Hale,2019-09-14,3,Indiana,,Ohio State,L,1,1,100.0,49,1,0,841.6,donavan-hale-1
+Jaren Hall,2019-09-14,3,Brigham Young,,Southern California,W,1,1,100.0,19,0,0,259.6,jaren-hall-1
+Donald Hammond III,2019-09-14,2,Air Force,@,Colorado,W,7,12,58.3,155,2,1,205.2,donald-hammond-iii-1
+Frank Harris,2019-09-14,3,Texas-San Antonio,,Army,L,23,31,74.2,187,0,1,118.4,frank-harris-3
+Quentin Harris,2019-09-14,3,Duke,@,Middle Tennessee State,W,24,27,88.9,237,4,0,211.5,quentin-harris-2
+Layne Hatcher,2019-09-14,3,Arkansas State,@,Georgia,L,3,5,60.0,53,0,1,109.0,layne-hatcher-1
+Justin Herbert,2019-09-14,3,Oregon,,Montana,W,30,42,71.4,316,5,0,173.9,justin-herbert-1
+Ryan Hilinski,2019-09-14,3,South Carolina,,Alabama,L,36,57,63.2,324,2,1,119.0,ryan-hilinski-1
+Colin Hill,2019-09-14,3,Colorado State,@,Arkansas,L,13,23,56.5,99,1,0,107.0,colin-hill-1
+Gunnar Hoak,2019-09-14,3,Ohio State,@,Indiana,W,1,1,100.0,9,0,0,175.6,gunnar-hoak-1
+Keon Howard,2019-09-14,3,Tulane,,Missouri State,W,4,6,66.7,120,1,0,289.7,keon-howard-1
+Tyler Huntley,2019-09-14,3,Utah,,Idaho State,W,15,19,78.9,282,3,0,255.7,tyler-huntley-1
+Jalen Hurts,2019-09-14,3,Oklahoma,@,UCLA,W,15,20,75.0,289,3,0,245.9,jalen-hurts-1
+Josh Jackson,2019-09-14,3,Maryland,@,Temple,L,15,38,39.5,183,1,1,83.3,josh-jackson-3
+Gresch Jensen,2019-09-14,3,Texas State,@,Southern Methodist,L,22,37,59.5,185,1,1,105.0,gresch-jensen-1
+Cephus Johnson,2019-09-14,3,South Alabama,,Memphis,L,5,14,35.7,42,0,0,60.9,cephus-johnson-2
+Hunter Johnson,2019-09-14,2,Northwestern,,Nevada-Las Vegas,W,12,25,48.0,165,1,1,108.6,hunter-johnson-2
+Lucas Johnson,2019-09-14,3,Georgia Tech,,Citadel,L,5,10,50.0,91,1,0,159.4,lucas-johnson-2
+Deshaunte Jones,2019-09-14,2,Iowa State,,Iowa,L,1,1,100.0,51,1,0,858.4,deshaunte-jones-1
+Mac Jones,2019-09-14,3,Alabama,@,South Carolina,W,3,3,100.0,51,0,0,242.8,mac-jones-1
+Sheriron Jones,2019-09-14,2,New Mexico,@,Notre Dame,L,4,15,26.7,19,0,3,-2.7,sheriron-jones-1
+Phil Jurkovec,2019-09-14,2,Notre Dame,,New Mexico,W,1,1,100.0,52,0,0,536.8,phil-jurkovec-1
+Brett Kean,2019-09-14,3,UNC Charlotte,,Massachusetts,W,3,3,100.0,40,1,0,322.0,brett-kean-1
+Robbie Kelley,2019-09-14,3,Akron,@,Central Michigan,L,3,5,60.0,41,0,0,128.9,robbie-kelley-1
+Austin Kendall,2019-09-14,3,West Virginia,,North Carolina State,W,27,40,67.5,272,3,1,144.4,austin-kendall-1
+Trevor Lawrence,2019-09-14,3,Clemson,@,Syracuse,W,22,39,56.4,395,3,2,156.6,trevor-lawrence-1
+Jabari Laws,2019-09-14,3,Army,@,Texas-San Antonio,W,2,2,100.0,18,0,0,175.6,jabari-laws-1
+Brian Lewerke,2019-09-14,3,Michigan State,,Arizona State,L,24,38,63.2,291,0,0,127.5,brian-lewerke-1
+Levi Lewis,2019-09-14,3,Louisiana,,Texas Southern,W,10,13,76.9,181,2,0,244.6,levi-lewis-1
+Drew Lisk,2019-09-14,3,Utah,,Idaho State,W,6,6,100.0,38,0,0,153.2,drew-lisk-1
+Jake Luton,2019-09-14,3,Oregon State,,Cal Poly,W,17,22,77.3,255,4,0,234.6,jake-luton-1
+Jai'ave Magalei,2019-09-14,3,Louisiana,,Texas Southern,W,9,13,69.2,103,1,0,161.2,jaiave-magalei-1
+Adrian Martinez,2019-09-14,3,Nebraska,,Northern Illinois,W,16,27,59.3,257,2,0,163.7,adrian-martinez-2
+Brian Maurer,2019-09-14,3,Tennessee,,Chattanooga,W,0,2,0.0,0,0,0,0.0,brian-maurer-1
+Grayson McCall,2019-09-14,3,Coastal Carolina,,Norfolk State,W,3,3,100.0,30,1,0,294.0,grayson-mccall-1
+Jordan McCloud,2019-09-14,3,South Florida,,South Carolina State,W,16,27,59.3,217,3,0,163.4,jordan-mccloud-1
+Cole McDonald,2019-09-14,3,Hawaii,@,Washington,L,22,35,62.9,218,1,3,107.5,cole-mcdonald-1
+Clifton McDowell,2019-09-14,3,Louisiana,,Texas Southern,W,1,1,100.0,8,0,0,167.2,clifton-mcdowell-1
+Matt McKay,2019-09-14,3,North Carolina State,@,West Virginia,L,23,48,47.9,207,1,0,91.0,matt-mckay-1
+Neil McLaurin,2019-09-14,3,Southern Mississippi,@,Troy,W,1,1,100.0,51,1,0,858.4,neil-mclaurin-1
+Justin McMillan,2019-09-14,3,Tulane,,Missouri State,W,13,16,81.3,122,0,1,132.8,justin-mcmillan-1
+Davis Mills,2019-09-14,3,Stanford,@,Central Florida,L,3,5,60.0,34,0,0,117.1,davis-mills-1
+Kellen Mond,2019-09-14,3,Texas A&M,,Lamar,W,20,28,71.4,317,1,1,171.2,kellen-mond-1
+Steven Montez,2019-09-14,3,Colorado,,Air Force,L,26,43,60.5,220,2,1,114.1,steven-montez-1
+David Moore,2019-09-14,3,Central Michigan,,Akron,W,20,31,64.5,316,2,0,171.4,david-moore-1
+Kelton Moore,2019-09-14,3,Nevada,,Weber State,W,1,1,100.0,1,0,0,108.4,kelton-moore-1
+Tanner Mordecai,2019-09-14,3,Oklahoma,@,UCLA,W,1,3,33.3,13,0,0,69.7,tanner-mordecai-1
+Tanner Morgan,2019-09-14,3,Minnesota,,Georgia Southern,W,19,31,61.3,289,3,1,165.1,tanner-morgan-2
+Tylan Morton,2019-09-14,3,South Alabama,,Memphis,L,4,12,33.3,105,1,1,117.7,tylan-morton-1
+Matt Myers,2019-09-14,3,Buffalo,@,Liberty,L,15,33,45.5,167,2,0,108.0,matt-myers-2
+Lowell Narcisse,2019-09-14,3,Texas-San Antonio,,Army,L,0,1,0.0,0,0,0,0.0,lowell-narcisse-1
+Kato Nelson,2019-09-14,3,Akron,@,Central Michigan,L,26,42,61.9,241,3,1,128.9,kato-nelson-1
+Bo Nix,2019-09-14,3,Auburn,,Kent State,W,12,16,75.0,161,1,0,180.2,bo-nix-1
+Patrick O'Brien,2019-09-14,3,Colorado State,@,Arkansas,L,7,10,70.0,106,1,0,192.0,patrick-obrien-1
+Asher O'Hara,2019-09-14,3,Middle Tennessee State,,Duke,L,19,27,70.4,201,2,0,157.3,asher-ohara-1
+Tobias Oliver,2019-09-14,3,Georgia Tech,,Citadel,L,2,3,66.7,27,0,0,142.3,tobias-oliver-1
+Perry Olsen,2019-09-14,2,Navy,,East Carolina,W,1,1,100.0,2,0,0,116.8,perry-olsen-1
+Fred Payton,2019-09-14,3,Coastal Carolina,,Norfolk State,W,7,19,36.8,65,0,0,65.6,fred-payton-1
+Bryce Perkins,2019-09-14,3,Virginia,,Florida State,W,30,40,75.0,295,1,2,135.2,bryce-perkins-1
+Malcolm Perry,2019-09-14,2,Navy,,East Carolina,W,5,7,71.4,151,2,0,346.9,malcolm-perry-1
+N'Kosi Perry,2019-09-14,3,Miami (FL),,Bethune-Cookman,W,7,10,70.0,79,1,0,169.4,nkosi-perry-1
+Brandon Peters,2019-09-14,3,Illinois,,Eastern Michigan,L,22,37,59.5,297,2,1,139.3,brandon-peters-1
+Kenny Pickett,2019-09-14,3,Pittsburgh,@,Penn State,L,35,51,68.6,372,0,0,129.9,kenny-pickett-1
+Tyrell Pigrome,2019-09-14,3,Maryland,@,Temple,L,1,1,100.0,-4,0,0,66.4,tyrell-pigrome-1
+Kalil Pimpleton,2019-09-14,3,Central Michigan,,Akron,W,1,1,100.0,28,0,0,335.2,kalil-pimpleton-1
+Drew Plitt,2019-09-14,3,Ball State,,Florida Atlantic,L,26,38,68.4,303,3,1,156.2,drew-plitt-1
+Jack Plummer,2019-09-14,3,Purdue,,Texas Christian,L,13,29,44.8,181,1,2,94.8,jack-plummer-1
+Taylor Powell,2019-09-14,3,Missouri,,Southeast Missouri State,W,1,5,20.0,17,0,0,48.6,taylor-powell-1
+Kavious Price,2019-09-14,3,Kent State,@,Auburn,L,0,1,0.0,0,0,0,0.0,kavious-price-1
+Nathan Priestley,2019-09-14,3,Georgia,,Arkansas State,W,0,1,0.0,0,0,0,0.0,nathan-priestley-1
+Brock Purdy,2019-09-14,2,Iowa State,,Iowa,L,24,34,70.6,276,1,0,148.5,brock-purdy-1
+Peyton Ramsey,2019-09-14,3,Indiana,,Ohio State,L,19,33,57.6,162,0,1,92.8,peyton-ramsey-1
+Chris Reynolds,2019-09-14,3,UNC Charlotte,,Massachusetts,W,10,12,83.3,155,2,0,246.8,chris-reynolds-1
+Desmond Ridder,2019-09-14,3,Cincinnati,,Miami (OH),W,14,30,46.7,186,2,1,114.1,desmond-ridder-1
+Chris Robison,2019-09-14,3,Florida Atlantic,@,Ball State,W,33,41,80.5,366,4,0,187.7,chris-robison-1
+Armani Rogers,2019-09-14,3,Nevada-Las Vegas,@,Northwestern,L,16,26,61.5,120,0,1,92.6,armani-rogers-1
+Nathan Rourke,2019-09-14,3,Ohio,@,Marshall,L,15,25,60.0,215,3,0,171.8,nathan-rourke-1
+Anthony Russo,2019-09-14,2,Temple,,Maryland,W,20,37,54.1,277,3,1,138.3,anthony-russo-3
+Spencer Sanders,2019-09-14,3,Oklahoma State,@,Tulsa,W,12,22,54.5,169,1,1,125.0,spencer-sanders-1
+Evan Shirreffs,2019-09-14,3,UNC Charlotte,,Massachusetts,W,0,1,0.0,0,0,0,0.0,evan-shirreffs-1
+Tyler Shough,2019-09-14,3,Oregon,,Montana,W,1,1,100.0,-3,0,0,74.8,tyler-shough-1
+Garrett Shrader,2019-09-14,3,Mississippi State,,Kansas State,L,4,12,33.3,51,0,0,69.0,garrett-shrader-1
+JT Shrout,2019-09-14,3,Tennessee,,Chattanooga,W,3,9,33.3,23,0,0,54.8,jt-shrout-1
+Jacob Sirmon,2019-09-14,3,Washington,,Hawaii,W,1,1,100.0,-2,0,0,83.2,jacob-sirmon-1
+Kedon Slovis,2019-09-14,3,Southern California,@,Brigham Young,L,24,34,70.6,281,2,3,141.8,kedon-slovis-1
+J'mar Smith,2019-09-14,3,Louisiana Tech,@,Bowling Green State,W,19,26,73.1,267,2,0,184.7,jmar-smith-1
+Sawyer Smith,2019-09-14,3,Kentucky,,Florida,L,23,35,65.7,267,2,3,131.5,sawyer-smith-1
+Zach Smith,2019-09-14,3,Tulsa,,Oklahoma State,L,17,30,56.7,228,1,0,131.5,zach-smith-6
+Nathan Stanley,2019-09-14,3,Iowa,@,Iowa State,W,22,35,62.9,201,0,0,111.1,nathan-stanley-2
+Nick Starkel,2019-09-14,3,Arkansas,,Colorado State,W,20,35,57.1,305,3,0,158.6,nick-starkel-1
+Tommy Stevens,2019-09-14,3,Mississippi State,,Kansas State,L,7,15,46.7,100,1,2,98.0,tommy-stevens-1
+Tom Stewart,2019-09-14,3,Rice,N,Texas,L,12,23,52.2,179,2,0,146.2,tom-stewart-1
+Carson Strong,2019-09-14,3,Nevada,,Weber State,W,30,44,68.2,299,0,2,116.2,carson-strong-1
+Tua Tagovailoa,2019-09-14,3,Alabama,@,South Carolina,W,28,36,77.8,444,5,0,227.2,tua-tagovailoa-1
+Khalil Tate,2019-09-14,3,Arizona,,Texas Tech,W,14,23,60.9,185,1,2,125.4,khalil-tate-1
+Thayer Thomas,2019-09-14,3,North Carolina State,@,West Virginia,L,1,1,100.0,18,1,0,581.2,thayer-thomas-1
+Casey Thompson,2019-09-14,3,Texas,N,Rice,W,5,7,71.4,59,0,0,142.2,casey-thompson-1
+Skylar Thompson,2019-09-14,3,Kansas State,@,Mississippi State,W,10,18,55.6,123,1,0,131.3,skylar-thompson-1
+Dorian Thompson-Robinson,2019-09-14,3,UCLA,,Oklahoma,L,15,26,57.7,201,2,2,132.6,dorian-thompson-robinson-1
+Justin Tomlin,2019-09-14,3,Georgia Southern,@,Minnesota,L,5,9,55.6,75,0,0,125.6,justin-tomlin-1
+Kyle Trask,2019-09-14,3,Florida,@,Kentucky,W,9,13,69.2,126,0,0,150.6,kyle-trask-1
+Tevaka Tuioti,2019-09-14,2,New Mexico,@,Notre Dame,L,6,13,46.2,132,0,0,131.4,tevaka-tuioti-1
+Jack Tuttle,2019-09-14,3,Indiana,,Ohio State,L,1,2,50.0,4,0,0,66.8,jack-tuttle-1
+Noah Vedral,2019-09-14,3,Nebraska,,Northern Illinois,W,3,5,60.0,30,0,0,110.4,noah-vedral-1
+Tyler Vitt,2019-09-14,3,Texas State,@,Southern Methodist,L,3,3,100.0,40,1,0,322.0,tyler-vitt-1
+Darius Wade,2019-09-14,3,Bowling Green State,,Louisiana Tech,L,18,38,47.4,171,0,1,79.9,darius-wade-1
+Jon Wassink,2019-09-14,3,Western Michigan,,Georgia State,W,15,20,75.0,246,1,0,194.8,jon-wassink-1
+Clayton Welch,2019-09-14,3,Syracuse,,Clemson,L,0,2,0.0,0,0,0,0.0,clayton-welch-1
+Brady White,2019-09-14,3,Memphis,@,South Alabama,W,12,20,60.0,209,3,1,187.3,brady-white-1
+Kaylan Wiggins,2019-09-14,3,Florida International,,New Hampshire,W,12,18,66.7,127,0,0,125.9,kaylan-wiggins-1
+Jarren Williams,2019-09-14,3,Miami (FL),,Bethune-Cookman,W,19,24,79.2,254,3,0,209.3,jarren-williams-1
+Ryan Willis,2019-09-14,3,Virginia Tech,,Furman,W,17,21,81.0,123,1,1,136.3,ryan-willis-2
+Jordan Wilmore,2019-09-14,3,Utah,,Idaho State,W,0,1,0.0,0,0,0,0.0,jordan-wilmore-1
+Zach Wilson,2019-09-14,3,Brigham Young,,Southern California,W,20,33,60.6,280,1,0,141.9,zach-wilson-3
+D'Eriq King,2019-09-19,4,Houston,@,Tulane,L,16,33,48.5,229,2,1,120.7,deriq-king-1
+Justin McMillan,2019-09-19,4,Tulane,,Houston,W,7,20,35.0,186,3,0,162.6,justin-mcmillan-1
+Hank Bachmeier,2019-09-20,4,Boise State,,Air Force,W,19,26,73.1,263,2,0,183.4,hank-bachmeier-1
+Chase Cord,2019-09-20,4,Boise State,,Air Force,W,1,2,50.0,-3,0,0,37.4,chase-cord-1
+Matt Fink,2019-09-20,4,Southern California,,Utah,W,21,30,70.0,351,3,1,194.6,matt-fink-1
+Donald Hammond III,2019-09-20,3,Air Force,@,Boise State,L,6,11,54.5,83,1,1,129.7,donald-hammond-iii-1
+Tyler Huntley,2019-09-20,4,Utah,@,Southern California,L,22,30,73.3,210,1,0,143.1,tyler-huntley-1
+James Morgan,2019-09-20,4,Florida International,@,Louisiana Tech,L,29,41,70.7,394,2,1,162.7,james-morgan-1
+Isaiah Sanders,2019-09-20,3,Air Force,@,Boise State,L,2,2,100.0,30,0,0,226.0,isaiah-sanders-1
+Kedon Slovis,2019-09-20,4,Southern California,,Utah,W,2,2,100.0,17,0,0,171.4,kedon-slovis-1
+J'mar Smith,2019-09-20,4,Louisiana Tech,,Florida International,W,27,41,65.9,290,0,1,120.4,jmar-smith-1
+Jack Abraham,2019-09-21,4,Southern Mississippi,@,Alabama,L,17,26,65.4,174,1,1,126.6,jack-abraham-1
+Josh Adkins,2019-09-21,4,New Mexico State,@,New Mexico,L,30,47,63.8,335,3,1,140.5,josh-adkins-1
+Ryan Agnew,2019-09-21,4,San Diego State,,Utah State,L,20,37,54.1,281,2,1,130.3,ryan-agnew-1
+Holton Ahlers,2019-09-21,4,East Carolina,,William & Mary,W,20,34,58.8,210,1,0,120.4,holton-ahlers-1
+Christian Anderson,2019-09-21,4,Army,,Morgan State,W,1,7,14.3,80,1,0,157.4,christian-anderson-2
+Jared Atkinson,2019-09-21,3,Baylor,@,Rice,W,0,1,0.0,0,0,0,0.0,jared-atkinson-1
+Austin Aune,2019-09-21,4,North Texas,,Texas-San Antonio,W,1,1,100.0,13,0,0,209.2,austin-aune-1
+Kaleb Barker,2019-09-21,3,Troy,@,Akron,W,27,37,73.0,214,3,1,142.9,kaleb-barker-1
+Woody Barrett,2019-09-21,4,Kent State,,Bowling Green State,W,4,4,100.0,55,1,0,298.0,woody-barrett-2
+Omar Bayless,2019-09-21,4,Arkansas State,,Southern Illinois,W,1,2,50.0,37,0,0,205.4,omar-bayless-1
+Jason Bean,2019-09-21,4,North Texas,,Texas-San Antonio,W,1,3,33.3,3,1,0,151.7,jason-bean-1
+James Blackman,2019-09-21,4,Florida State,,Louisville,W,11,14,78.6,127,0,0,154.8,james-blackman-1
+Logan Bonner,2019-09-21,4,Arkansas State,,Southern Illinois,W,17,31,54.8,320,4,0,184.1,logan-bonner-1
+Ian Book,2019-09-21,3,Notre Dame,@,Georgia,L,29,47,61.7,275,2,2,116.4,ian-book-1
+Lynn Bowden Jr.,2019-09-21,4,Kentucky,@,Mississippi State,L,0,1,0.0,0,0,0,0.0,lynn-bowden-jr-1
+Myles Brennan,2019-09-21,4,Louisiana State,@,Vanderbilt,W,1,4,25.0,20,0,1,17.0,myles-brennan-1
+Charlie Brewer,2019-09-21,3,Baylor,@,Rice,W,20,27,74.1,303,1,0,180.6,charlie-brewer-1
+Chase Brice,2019-09-21,4,Clemson,,UNC Charlotte,W,5,7,71.4,85,1,0,220.6,chase-brice-1
+Andrew Brito,2019-09-21,4,Massachusetts,,Coastal Carolina,L,14,25,56.0,100,0,1,81.6,andrew-brito-1
+Anthony Brown,2019-09-21,4,Boston College,@,Rutgers,W,13,25,52.0,159,0,0,105.4,anthony-brown-11
+Kelly Bryant,2019-09-21,4,Missouri,,South Carolina,W,19,33,57.6,227,2,1,129.3,kelly-bryant-1
+Shane Buechele,2019-09-21,4,Southern Methodist,@,Texas Christian,W,23,34,67.6,288,2,1,152.3,shane-buechele-1
+Joe Burrow,2019-09-21,4,Louisiana State,@,Vanderbilt,W,25,34,73.5,398,6,0,230.1,joe-burrow-1
+Stephen Calvert,2019-09-21,4,Liberty,,Hampton,W,10,16,62.5,319,2,0,271.2,stephen-calvert-1
+Bryce Carpenter,2019-09-21,4,Coastal Carolina,@,Massachusetts,W,7,8,87.5,104,2,0,279.2,bryce-carpenter-1
+Sean Chambers,2019-09-21,4,Wyoming,@,Tulsa,L,9,25,36.0,193,1,0,114.0,sean-chambers-1
+Chris Chugunov,2019-09-21,4,Ohio State,,Miami (OH),W,6,7,85.7,86,2,0,283.2,chris-chugunov-1
+Jack Coan,2019-09-21,3,Wisconsin,,Michigan,W,13,16,81.3,128,0,0,148.5,jack-coan-1
+Destin Coates,2019-09-21,4,Georgia State,@,Texas State,L,0,1,0.0,0,0,0,0.0,destin-coates-1
+Austin Conway,2019-09-21,4,Wyoming,@,Tulsa,L,0,1,0.0,0,0,0,0.0,austin-conway-1
+Matt Corral,2019-09-21,4,Mississippi,,California,L,22,41,53.7,266,0,0,108.2,matt-corral-1
+K.J. Costello,2019-09-21,4,Stanford,,Oregon,L,16,30,53.3,120,0,1,80.3,kj-costello-1
+Dustin Crum,2019-09-21,4,Kent State,,Bowling Green State,W,26,31,83.9,310,3,0,199.8,dustin-crum-1
+Malik Cunningham,2019-09-21,4,Louisville,@,Florida State,L,16,27,59.3,286,2,1,165.3,malik-cunningham-1
+Jayden Daniels,2019-09-21,4,Arizona State,,Colorado,L,24,39,61.5,345,2,1,147.6,jayden-daniels-1
+Trenard Davis,2019-09-21,4,Illinois,,Nebraska,L,0,1,0.0,0,0,0,0.0,trenard-davis-1
+T.J. Deshields,2019-09-21,4,Akron,,Troy,L,0,2,0.0,0,0,1,-100.0,tj-deshields-1
+Tommy Devito,2019-09-21,4,Syracuse,,Western Michigan,W,27,35,77.1,287,4,0,183.7,tommy-devito-1
+Max Duggan,2019-09-21,3,Texas Christian,,Southern Methodist,L,16,36,44.4,188,3,0,115.8,max-duggan-1
+Jacob Eason,2019-09-21,4,Washington,@,Brigham Young,W,24,28,85.7,290,3,1,200.9,jacob-eason-1
+Sam Ehlinger,2019-09-21,4,Texas,,Oklahoma State,W,20,28,71.4,281,4,1,195.7,sam-ehlinger-1
+Dan Ellington,2019-09-21,4,Georgia State,@,Texas State,L,24,39,61.5,219,3,1,129.0,dan-ellington-1
+Caleb Evans,2019-09-21,3,Louisiana-Monroe,@,Iowa State,L,19,30,63.3,176,2,1,127.9,caleb-evans-2
+Justin Fields,2019-09-21,4,Ohio State,,Miami (OH),W,14,21,66.7,223,4,0,218.7,justin-fields-2
+Mason Fine,2019-09-21,4,North Texas,,Texas-San Antonio,W,15,22,68.2,195,2,0,172.6,mason-fine-1
+Jake Fromm,2019-09-21,4,Georgia,,Notre Dame,W,20,26,76.9,187,1,0,150.0,jake-fromm-1
+Brett Gabbert,2019-09-21,4,Miami (OH),@,Ohio State,L,5,15,33.3,48,0,1,46.9,brett-gabbert-1
+Dillon Gabriel,2019-09-21,4,Central Florida,@,Pittsburgh,L,25,42,59.5,338,2,2,133.3,dillon-gabriel-1
+Chase Garbers,2019-09-21,4,California,@,Mississippi,W,23,35,65.7,357,4,1,183.4,chase-garbers-1
+Joey Gatewood,2019-09-21,4,Auburn,@,Texas A&M,W,1,1,100.0,6,1,0,480.4,joey-gatewood-1
+Mike Glass III,2019-09-21,4,Eastern Michigan,,Central Connecticut State,W,26,39,66.7,279,4,2,150.3,mike-glass-iii-1
+Anthony Gordon,2019-09-21,4,Washington State,,UCLA,L,41,61,67.2,570,9,2,187.8,anthony-gordon-2
+Wiley Green,2019-09-21,4,Rice,,Baylor,L,13,23,56.5,128,0,0,103.3,wiley-green-1
+Cordale Grundy,2019-09-21,4,Texas-San Antonio,@,North Texas,L,1,4,25.0,4,0,0,33.4,cordale-grundy-1
+Mitchell Guadagni,2019-09-21,3,Toledo,@,Colorado State,W,6,15,40.0,111,1,0,124.2,mitchell-guadagni-1
+Jarrett Guarantano,2019-09-21,4,Tennessee,@,Florida,L,10,17,58.8,107,0,2,88.2,jarrett-guarantano-1
+Malik Henry,2019-09-21,4,Nevada,@,Texas-El Paso,W,2,2,100.0,21,0,0,188.2,malik-henry-3
+Justin Herbert,2019-09-21,4,Oregon,@,Stanford,W,19,24,79.2,259,3,0,211.1,justin-herbert-1
+Ryan Hilinski,2019-09-21,4,South Carolina,@,Missouri,L,13,30,43.3,166,1,1,94.1,ryan-hilinski-1
+Gunnar Hoak,2019-09-21,4,Ohio State,,Miami (OH),W,2,2,100.0,65,1,0,538.0,gunnar-hoak-1
+Bailey Hockman,2019-09-21,4,North Carolina State,,Ball State,W,2,3,66.7,10,0,1,28.0,bailey-hockman-1
+Josh Hokit,2019-09-21,3,Fresno State,,Sacramento State,W,0,1,0.0,0,0,0,0.0,josh-hokit-1
+Dylan Hopkins,2019-09-21,3,Alabama-Birmingham,,South Alabama,W,0,1,0.0,0,0,1,-200.0,dylan-hopkins-1
+Alex Hornibrook,2019-09-21,4,Florida State,,Louisville,W,15,20,75.0,255,2,0,215.1,alex-hornibrook-1
+Sam Howell,2019-09-21,4,North Carolina,,Appalachian State,L,27,41,65.9,323,3,2,146.4,sam-howell-1
+Gresch Jensen,2019-09-21,4,Texas State,,Georgia State,W,16,25,64.0,129,0,0,107.3,gresch-jensen-1
+Cephus Johnson,2019-09-21,4,South Alabama,@,Alabama-Birmingham,L,3,5,60.0,7,0,0,71.8,cephus-johnson-2
+Hunter Johnson,2019-09-21,3,Northwestern,,Michigan State,L,15,26,57.7,88,0,1,78.4,hunter-johnson-2
+Tyler Johnston III,2019-09-21,3,Alabama-Birmingham,,South Alabama,W,22,27,81.5,313,3,1,208.1,tyler-johnston-iii-1
+Brandon Jones,2019-09-21,3,Texas-El Paso,,Nevada,L,8,11,72.7,106,0,1,135.5,brandon-jones-16
+Emory Jones,2019-09-21,4,Florida,,Tennessee,W,4,6,66.7,20,0,0,94.7,emory-jones-1
+Mac Jones,2019-09-21,4,Alabama,,Southern Mississippi,W,2,3,66.7,25,0,1,70.0,mac-jones-1
+Dakereon Joyner,2019-09-21,4,South Carolina,@,Missouri,L,6,11,54.5,89,0,0,122.5,dakereon-joyner-1
+Brett Kean,2019-09-21,4,UNC Charlotte,@,Clemson,L,2,3,66.7,20,0,0,122.7,brett-kean-1
+Robbie Kelley,2019-09-21,4,Akron,,Troy,L,1,1,100.0,3,0,0,125.2,robbie-kelley-1
+Austin Kendall,2019-09-21,4,West Virginia,@,Kansas,W,25,37,67.6,202,0,0,113.4,austin-kendall-1
+Michael Kern,2019-09-21,4,Wake Forest,,Elon,W,5,5,100.0,42,1,0,236.6,michael-kern-1
+Steven Krajewski,2019-09-21,3,Connecticut,@,Indiana,L,1,2,50.0,4,0,0,66.8,steven-krajewski-1
+Trevor Lawrence,2019-09-21,4,Clemson,,UNC Charlotte,W,7,9,77.8,94,2,0,238.8,trevor-lawrence-1
+Tommy Lazzaro,2019-09-21,4,Central Michigan,@,Miami (FL),L,0,1,0.0,0,0,0,0.0,tommy-lazzaro-1
+Brian Lewerke,2019-09-21,4,Michigan State,@,Northwestern,W,18,31,58.1,228,3,0,151.8,brian-lewerke-1
+Levi Lewis,2019-09-21,4,Louisiana,@,Ohio,W,19,29,65.5,188,2,0,142.7,levi-lewis-1
+Kai Locksley,2019-09-21,3,Texas-El Paso,,Nevada,L,2,6,33.3,10,0,2,-19.3,kai-locksley-1
+Jordan Love,2019-09-21,3,Utah State,@,San Diego State,W,30,47,63.8,293,0,0,116.2,jordan-love-2
+Josh Love,2019-09-21,3,San Jose State,@,Arkansas,W,32,49,65.3,402,2,1,143.6,josh-love-1
+Grant Loy,2019-09-21,4,Bowling Green State,@,Kent State,L,5,8,62.5,45,1,0,151.0,grant-loy-1
+Adrian Martinez,2019-09-21,4,Nebraska,@,Illinois,W,22,34,64.7,327,3,0,174.6,adrian-martinez-2
+Aaron Mathews,2019-09-21,4,Pittsburgh,,Central Florida,W,1,1,100.0,3,1,0,455.2,aaron-mathews-1
+Brian Maurer,2019-09-21,4,Tennessee,@,Florida,L,4,11,36.4,44,0,1,51.8,brian-maurer-1
+Dylan McCaffrey,2019-09-21,3,Michigan,@,Wisconsin,L,3,8,37.5,40,0,0,79.5,dylan-mccaffrey-1
+Grayson McCall,2019-09-21,4,Coastal Carolina,@,Massachusetts,W,1,1,100.0,-5,0,0,58.0,grayson-mccall-1
+Jake McClure,2019-09-21,4,Oklahoma State,@,Texas,L,0,1,0.0,0,0,0,0.0,jake-mcclure-1
+Cole McDonald,2019-09-21,4,Hawaii,,Central Arkansas,W,25,32,78.1,300,4,1,191.9,cole-mcdonald-1
+Matt McKay,2019-09-21,4,North Carolina State,,Ball State,W,17,30,56.7,175,0,1,99.0,matt-mckay-1
+Joe Milton,2019-09-21,3,Michigan,@,Wisconsin,L,0,2,0.0,0,0,1,-100.0,joe-milton-2
+Re-al Mitchell,2019-09-21,3,Iowa State,,Louisiana-Monroe,W,1,2,50.0,9,1,0,252.8,re-al-mitchell-1
+Devon Modster,2019-09-21,4,California,@,Mississippi,W,1,1,100.0,16,0,0,234.4,devon-modster-1
+Kellen Mond,2019-09-21,4,Texas A&M,,Auburn,L,31,49,63.3,335,2,0,134.2,kellen-mond-1
+Steven Montez,2019-09-21,4,Colorado,@,Arizona State,W,23,30,76.7,337,3,0,204.0,steven-montez-1
+David Moore,2019-09-21,4,Central Michigan,@,Miami (FL),L,23,50,46.0,217,0,1,78.5,david-moore-1
+Tylan Morton,2019-09-21,4,South Alabama,@,Alabama-Birmingham,L,5,10,50.0,76,0,0,113.8,tylan-morton-1
+Matt Myers,2019-09-21,4,Buffalo,,Temple,W,9,15,60.0,62,0,1,81.4,matt-myers-2
+Lowell Narcisse,2019-09-21,4,Texas-San Antonio,@,North Texas,L,16,36,44.4,124,0,2,62.3,lowell-narcisse-1
+Riley Neal,2019-09-21,3,Vanderbilt,,Louisiana State,L,15,31,48.4,206,1,1,108.4,riley-neal-1
+Kato Nelson,2019-09-21,4,Akron,,Troy,L,15,29,51.7,200,1,0,121.0,kato-nelson-1
+Jamie Newman,2019-09-21,4,Wake Forest,,Elon,W,27,35,77.1,351,5,1,202.8,jamie-newman-1
+Bo Nix,2019-09-21,4,Auburn,@,Texas A&M,W,12,20,60.0,100,1,0,118.5,bo-nix-1
+Patrick O'Brien,2019-09-21,4,Colorado State,,Toledo,L,32,52,61.5,405,1,1,129.5,patrick-obrien-1
+Isaih Pacheco,2019-09-21,3,Rutgers,,Boston College,L,0,1,0.0,0,0,0,0.0,isaih-pacheco-1
+Shea Patterson,2019-09-21,3,Michigan,@,Wisconsin,L,14,32,43.8,219,2,1,115.6,shea-patterson-1
+Nick Patti,2019-09-21,4,Pittsburgh,,Central Florida,W,2,3,66.7,16,1,0,221.5,nick-patti-3
+Fred Payton,2019-09-21,4,Coastal Carolina,@,Massachusetts,W,16,18,88.9,203,1,1,190.8,fred-payton-1
+Bryce Perkins,2019-09-21,4,Virginia,,Old Dominion,W,15,24,62.5,175,1,0,137.5,bryce-perkins-1
+Brandon Peters,2019-09-21,4,Illinois,,Nebraska,L,9,21,42.9,78,1,1,80.2,brandon-peters-1
+Taisun Phommachanh,2019-09-21,4,Clemson,,UNC Charlotte,W,5,9,55.6,52,0,1,81.9,taisun-phommachanh-1
+Kenny Pickett,2019-09-21,4,Pittsburgh,,Central Florida,W,25,47,53.2,224,1,0,100.2,kenny-pickett-1
+Drew Plitt,2019-09-21,4,Ball State,@,North Carolina State,L,35,57,61.4,333,0,1,107.0,drew-plitt-1
+John Rhys Plumlee,2019-09-21,4,Mississippi,,California,L,7,7,100.0,82,0,0,198.4,john-rhys-plumlee-1
+Kavious Price,2019-09-21,4,Kent State,,Bowling Green State,W,1,1,100.0,10,1,0,514.0,kavious-price-1
+Brock Purdy,2019-09-21,3,Iowa State,,Louisiana-Monroe,W,21,27,77.8,435,3,1,242.4,brock-purdy-1
+Peyton Ramsey,2019-09-21,4,Indiana,,Connecticut,W,23,27,85.2,247,3,1,191.3,peyton-ramsey-1
+Jorge Reyna,2019-09-21,3,Fresno State,,Sacramento State,W,26,39,66.7,312,2,0,150.8,jorge-reyna-1
+Chris Reynolds,2019-09-21,4,UNC Charlotte,@,Clemson,L,6,16,37.5,43,0,1,47.6,chris-reynolds-1
+Brandon Robinson,2019-09-21,4,Liberty,,Hampton,W,0,1,0.0,0,0,0,0.0,brandon-robinson-3
+Matt Robinson,2019-09-21,4,Illinois,,Nebraska,L,0,1,0.0,0,0,0,0.0,matt-robinson-6
+Chris Robison,2019-09-21,4,Florida Atlantic,,Wagner,W,25,36,69.4,379,5,0,203.7,chris-robison-1
+Nathan Rourke,2019-09-21,4,Ohio,,Louisiana,L,18,38,47.4,277,1,3,101.5,nathan-rourke-1
+Anthony Russo,2019-09-21,3,Temple,@,Buffalo,L,25,51,49.0,258,3,3,99.2,anthony-russo-3
+Spencer Sanders,2019-09-21,4,Oklahoma State,@,Texas,L,19,32,59.4,268,0,2,117.2,spencer-sanders-1
+Garrett Shrader,2019-09-21,4,Mississippi State,,Kentucky,W,17,22,77.3,180,0,1,136.9,garrett-shrader-1
+Artur Sitkowski,2019-09-21,3,Rutgers,,Boston College,L,23,33,69.7,304,1,1,151.0,artur-sitkowski-1
+Stone Smartt,2019-09-21,3,Old Dominion,@,Virginia,L,16,26,61.5,206,1,1,133.1,stone-smartt-1
+Aiden Smith,2019-09-21,3,Northwestern,,Michigan State,L,4,11,36.4,38,0,2,29.0,aiden-smith-1
+Sawyer Smith,2019-09-21,4,Kentucky,@,Mississippi State,L,15,41,36.6,232,0,1,79.2,sawyer-smith-1
+Zach Smith,2019-09-21,4,Tulsa,,Wyoming,W,25,50,50.0,354,2,0,122.7,zach-smith-6
+Cristian Solano,2019-09-21,4,Nevada,@,Texas-El Paso,W,13,19,68.4,182,2,1,173.1,cristian-solano-1
+Carter Stanley,2019-09-21,4,Kansas,,West Virginia,L,19,25,76.0,275,3,1,200.0,carter-stanley-1
+Nick Starkel,2019-09-21,4,Arkansas,,San Jose State,L,28,50,56.0,356,3,5,115.6,nick-starkel-1
+Tom Stewart,2019-09-21,4,Rice,,Baylor,L,5,8,62.5,50,0,0,115.0,tom-stewart-1
+Colby Suits,2019-09-21,3,Louisiana-Monroe,@,Iowa State,L,2,7,28.6,21,0,1,25.2,colby-suits-1
+Taulia Tagovailoa,2019-09-21,4,Alabama,,Southern Mississippi,W,1,1,100.0,20,0,0,268.0,taulia-tagovailoa-1
+Tua Tagovailoa,2019-09-21,4,Alabama,,Southern Mississippi,W,17,21,81.0,293,5,0,276.7,tua-tagovailoa-1
+Drake Thomas,2019-09-21,4,North Carolina State,,Ball State,W,0,1,0.0,0,0,0,0.0,drake-thomas-2
+Zac Thomas,2019-09-21,3,Appalachian State,@,North Carolina,W,20,29,69.0,224,0,1,127.0,zac-thomas-2
+Dorian Thompson-Robinson,2019-09-21,4,UCLA,@,Washington State,W,25,38,65.8,507,5,1,216.0,dorian-thompson-robinson-1
+Kyle Trask,2019-09-21,4,Florida,,Tennessee,W,20,28,71.4,293,2,2,168.6,kyle-trask-1
+Nick Tronti,2019-09-21,4,Florida Atlantic,,Wagner,W,2,2,100.0,8,0,0,133.6,nick-tronti-1
+Desmond Trotter,2019-09-21,4,South Alabama,@,Alabama-Birmingham,L,0,1,0.0,0,0,0,0.0,desmond-trotter-1
+Tevaka Tuioti,2019-09-21,3,New Mexico,,New Mexico State,W,16,28,57.1,355,3,1,191.9,tevaka-tuioti-1
+Jack Tuttle,2019-09-21,4,Indiana,,Connecticut,W,1,1,100.0,5,0,0,142.0,jack-tuttle-1
+Tyler Vander Waal,2019-09-21,4,Wyoming,@,Tulsa,L,1,6,16.7,21,0,0,46.1,tyler-vander-waal-1
+Darius Wade,2019-09-21,4,Bowling Green State,@,Kent State,L,18,25,72.0,161,0,2,110.1,darius-wade-1
+Deuce Wallace,2019-09-21,3,Vanderbilt,,Louisiana State,L,4,8,50.0,23,0,1,49.2,deuce-wallace-2
+Jon Wassink,2019-09-21,4,Western Michigan,@,Syracuse,L,23,46,50.0,356,2,1,125.0,jon-wassink-1
+Gunnar Watson,2019-09-21,3,Troy,@,Akron,W,2,2,100.0,1,0,0,104.2,gunnar-watson-1
+Randall West,2019-09-21,4,Massachusetts,,Coastal Carolina,L,8,11,72.7,120,2,0,224.4,randall-west-1
+Jalen Williams,2019-09-21,4,Louisiana,@,Ohio,W,1,1,100.0,16,0,0,234.4,jalen-williams-7
+Jarren Williams,2019-09-21,4,Miami (FL),,Central Michigan,W,17,24,70.8,250,1,0,172.1,jarren-williams-1
+Jackson Williamson,2019-09-21,4,Miami (OH),@,Ohio State,L,2,5,40.0,12,0,0,60.2,jackson-williamson-1
+Zach Wilson,2019-09-21,4,Brigham Young,,Washington,L,26,42,61.9,277,1,1,120.4,zach-wilson-3
+Jack Zergiotis,2019-09-21,3,Connecticut,@,Indiana,L,14,28,50.0,90,0,1,69.9,jack-zergiotis-1
+Perry Olsen,2019-09-26,3,Navy,@,Memphis,L,0,2,0.0,0,0,1,-100.0,perry-olsen-1
+Malcolm Perry,2019-09-26,3,Navy,@,Memphis,L,6,10,60.0,82,1,0,161.9,malcolm-perry-1
+Brady White,2019-09-26,4,Memphis,,Navy,W,14,18,77.8,196,3,0,224.2,brady-white-1
+Jalon Calhoun,2019-09-27,4,Duke,@,Virginia Tech,W,1,1,100.0,25,1,0,640.0,jalon-calhoun-1
+Sean Clifford,2019-09-27,4,Penn State,@,Maryland,W,26,31,83.9,398,3,1,217.2,sean-clifford-1
+Jayden Daniels,2019-09-27,5,Arizona State,@,California,W,14,24,58.3,174,0,0,119.2,jayden-daniels-1
+Chase Garbers,2019-09-27,5,California,,Arizona State,L,9,12,75.0,117,1,0,184.4,chase-garbers-1
+Donald Hammond III,2019-09-27,4,Air Force,,San Jose State,W,5,9,55.6,131,1,0,214.5,donald-hammond-iii-1
+Quentin Harris,2019-09-27,4,Duke,@,Virginia Tech,W,20,27,74.1,163,2,0,149.2,quentin-harris-2
+Hendon Hooker,2019-09-27,4,Virginia Tech,,Duke,L,1,2,50.0,8,0,0,83.6,hendon-hooker-1
+Josh Jackson,2019-09-27,4,Maryland,,Penn State,L,10,21,47.6,65,0,2,54.6,josh-jackson-3
+Will Levis,2019-09-27,4,Penn State,@,Maryland,W,3,8,37.5,23,0,0,61.7,will-levis-1
+Josh Love,2019-09-27,4,San Jose State,@,Air Force,L,19,35,54.3,198,0,0,101.8,josh-love-1
+Devon Modster,2019-09-27,5,California,,Arizona State,L,5,14,35.7,23,0,1,35.2,devon-modster-1
+Nick Nash,2019-09-27,4,San Jose State,@,Air Force,L,5,7,71.4,82,2,0,264.1,nick-nash-1
+Tyrell Pigrome,2019-09-27,4,Maryland,,Penn State,L,1,3,33.3,3,0,0,41.7,tyrell-pigrome-1
+Ryan Willis,2019-09-27,4,Virginia Tech,,Duke,L,7,18,38.9,112,1,1,98.4,ryan-willis-2
+Jack Abraham,2019-09-28,5,Southern Mississippi,,Texas-El Paso,W,19,28,67.9,351,3,0,208.5,jack-abraham-1
+Josh Adkins,2019-09-28,5,New Mexico State,,Fresno State,L,26,46,56.5,210,1,3,89.0,josh-adkins-1
+Holton Ahlers,2019-09-28,5,East Carolina,@,Old Dominion,W,8,21,38.1,202,2,2,131.3,holton-ahlers-1
+David Bailey,2019-09-28,5,Boston College,,Wake Forest,L,1,1,100.0,16,1,0,564.4,david-bailey-3
+Kaleb Barker,2019-09-28,4,Troy,,Arkansas State,L,34,57,59.6,367,4,1,133.4,kaleb-barker-1
+Blake Barnett,2019-09-28,4,South Florida,,Southern Methodist,L,13,21,61.9,222,3,0,197.8,blake-barnett-2
+Jason Bean,2019-09-28,5,North Texas,,Houston,L,1,3,33.3,7,0,0,52.9,jason-bean-1
+Ian Book,2019-09-28,4,Notre Dame,,Virginia,W,17,25,68.0,165,0,0,123.4,ian-book-1
+Lynn Bowden Jr.,2019-09-28,5,Kentucky,@,South Carolina,L,2,2,100.0,7,0,0,129.4,lynn-bowden-jr-1
+Ross Bowers,2019-09-28,4,Northern Illinois,@,Vanderbilt,L,17,32,53.1,280,1,0,136.9,ross-bowers-1
+Charlie Brewer,2019-09-28,4,Baylor,,Iowa State,W,26,45,57.8,307,3,0,137.1,charlie-brewer-1
+Anthony Brown,2019-09-28,5,Boston College,,Wake Forest,L,21,29,72.4,265,2,2,158.1,anthony-brown-11
+Ben Bryant,2019-09-28,4,Cincinnati,@,Marshall,W,3,4,75.0,74,0,0,230.4,ben-bryant-1
+Shane Buechele,2019-09-28,5,Southern Methodist,@,South Florida,W,21,25,84.0,226,3,1,191.5,shane-buechele-1
+Austin Burton,2019-09-28,5,UCLA,@,Arizona,L,5,9,55.6,48,0,0,100.4,austin-burton-1
+Stephen Calvert,2019-09-28,5,Liberty,,New Mexico,W,24,36,66.7,306,2,0,156.4,stephen-calvert-1
+Sean Chambers,2019-09-28,5,Wyoming,,Nevada-Las Vegas,W,5,12,41.7,124,2,0,183.5,sean-chambers-1
+Jack Coan,2019-09-28,4,Wisconsin,,Northwestern,W,15,24,62.5,113,0,1,93.7,jack-coan-1
+Michael Collins,2019-09-28,4,Texas Christian,,Kansas,W,1,1,100.0,20,0,0,268.0,michael-collins-4
+Chevan Cordeiro,2019-09-28,5,Hawaii,@,Nevada,W,5,5,100.0,47,0,0,179.0,chevan-cordeiro-1
+Chase Cunningham,2019-09-28,4,Middle Tennessee State,@,Iowa,L,2,5,40.0,26,0,0,83.7,chase-cunningham-1
+Michael Curtis,2019-09-28,5,Massachusetts,,Akron,W,17,31,54.8,173,2,1,116.6,michael-curtis-2
+Alex Delton,2019-09-28,4,Texas Christian,,Kansas,W,10,15,66.7,186,0,0,170.8,alex-delton-1
+Tommy Devito,2019-09-28,5,Syracuse,,Holy Cross,W,19,31,61.3,269,4,1,170.3,tommy-devito-1
+Cameron Dollar,2019-09-28,5,UNC Charlotte,,Florida Atlantic,L,1,1,100.0,28,0,0,335.2,cameron-dollar-1
+Jett Duffey,2019-09-28,4,Texas Tech,@,Oklahoma,L,11,20,55.0,120,0,0,105.4,jett-duffey-1
+Max Duggan,2019-09-28,4,Texas Christian,,Kansas,W,8,11,72.7,100,2,0,209.1,max-duggan-1
+Jacob Eason,2019-09-28,5,Washington,,Southern California,W,16,26,61.5,180,0,0,119.7,jacob-eason-1
+Caleb Evans,2019-09-28,4,Louisiana-Monroe,,South Alabama,W,17,25,68.0,286,3,0,203.7,caleb-evans-2
+Mike Fallon,2019-09-28,5,Massachusetts,,Akron,W,2,2,100.0,40,0,0,268.0,mike-fallon-2
+Justin Fields,2019-09-28,5,Ohio State,@,Nebraska,W,15,21,71.4,212,3,0,203.4,justin-fields-2
+Mason Fine,2019-09-28,5,North Texas,,Houston,L,35,55,63.6,353,2,0,129.5,mason-fine-1
+Matt Fink,2019-09-28,5,Southern California,@,Washington,L,19,32,59.4,163,1,3,93.7,matt-fink-1
+Brett Gabbert,2019-09-28,5,Miami (OH),,Buffalo,W,8,17,47.1,120,1,0,125.8,brett-gabbert-1
+Dillon Gabriel,2019-09-28,5,Central Florida,,Connecticut,W,11,16,68.8,281,3,0,278.2,dillon-gabriel-1
+Joey Gatewood,2019-09-28,5,Auburn,,Mississippi State,W,2,3,66.7,26,0,0,139.5,joey-gatewood-1
+Zach Gibson,2019-09-28,5,Akron,@,Massachusetts,L,12,16,75.0,173,1,0,186.5,zach-gibson-1
+Terrance Gipson,2019-09-28,5,Southern Methodist,@,South Florida,W,2,2,100.0,26,0,0,209.2,terrance-gipson-1
+Anthony Gordon,2019-09-28,5,Washington State,@,Utah,L,30,49,61.2,252,1,2,103.0,anthony-gordon-2
+Cody Grace,2019-09-28,5,Arkansas State,@,Troy,W,1,1,100.0,15,0,0,226.0,cody-grace-1
+James Graham,2019-09-28,4,Georgia Tech,@,Temple,L,10,24,41.7,100,0,1,68.3,james-graham-1
+Derek Green,2019-09-28,5,Southern Methodist,@,South Florida,W,1,2,50.0,0,0,1,-50.0,derek-green-2
+Isaiah Green,2019-09-28,4,Marshall,,Cincinnati,L,11,29,37.9,131,0,0,75.9,isaiah-green-2
+Wiley Green,2019-09-28,5,Rice,,Louisiana Tech,L,14,22,63.6,128,0,0,112.5,wiley-green-1
+Dennis Grosel,2019-09-28,5,Boston College,,Wake Forest,L,0,1,0.0,0,0,0,0.0,dennis-grosel-1
+Mitchell Guadagni,2019-09-28,4,Toledo,,Brigham Young,W,17,28,60.7,206,1,1,127.2,mitchell-guadagni-1
+Grant Gunnell,2019-09-28,4,Arizona,,UCLA,W,29,44,65.9,352,1,0,140.6,grant-gunnell-1
+Jaren Hall,2019-09-28,5,Brigham Young,@,Toledo,L,3,6,50.0,39,0,0,104.6,jaren-hall-1
+Layne Hatcher,2019-09-28,5,Arkansas State,@,Troy,W,25,35,71.4,440,4,2,203.3,layne-hatcher-1
+Ben Hicks,2019-09-28,5,Arkansas,N,Texas A&M,L,15,27,55.6,188,1,0,126.3,ben-hicks-1
+Ryan Hilinski,2019-09-28,5,South Carolina,,Kentucky,W,15,27,55.6,140,0,0,99.1,ryan-hilinski-1
+Bailey Hockman,2019-09-28,5,North Carolina State,@,Florida State,L,21,40,52.5,208,1,0,104.4,bailey-hockman-1
+Alex Hornibrook,2019-09-28,5,Florida State,,North Carolina State,W,29,40,72.5,316,3,0,163.6,alex-hornibrook-1
+Sam Howell,2019-09-28,5,North Carolina,,Clemson,L,15,27,55.6,144,2,0,124.8,sam-howell-1
+Jacob Huesman,2019-09-28,4,Appalachian State,,Coastal Carolina,W,0,1,0.0,0,0,0,0.0,jacob-huesman-1
+Tyler Huntley,2019-09-28,5,Utah,,Washington State,W,21,30,70.0,334,2,0,185.5,tyler-huntley-1
+Jalen Hurts,2019-09-28,4,Oklahoma,,Texas Tech,W,17,24,70.8,415,3,1,249.0,jalen-hurts-1
+Gresch Jensen,2019-09-28,5,Texas State,,Nicholls State,W,22,29,75.9,253,2,1,165.0,gresch-jensen-1
+Cephus Johnson,2019-09-28,5,South Alabama,@,Louisiana-Monroe,L,14,26,53.8,114,0,1,83.0,cephus-johnson-2
+Hunter Johnson,2019-09-28,4,Northwestern,@,Wisconsin,L,10,21,47.6,59,0,0,71.2,hunter-johnson-2
+Tyler Johnston III,2019-09-28,4,Alabama-Birmingham,@,Western Kentucky,L,18,31,58.1,181,0,4,81.3,tyler-johnston-iii-1
+Brandon Jones,2019-09-28,4,Texas-El Paso,@,Southern Mississippi,L,6,13,46.2,59,0,0,84.3,brandon-jones-16
+Emory Jones,2019-09-28,5,Florida,,Towson,W,6,8,75.0,74,1,0,194.0,emory-jones-1
+Mac Jones,2019-09-28,5,Alabama,,Mississippi,W,0,1,0.0,0,0,0,0.0,mac-jones-1
+Brett Kean,2019-09-28,5,UNC Charlotte,,Florida Atlantic,L,3,8,37.5,48,0,1,62.9,brett-kean-1
+Robbie Kelley,2019-09-28,5,Akron,@,Massachusetts,L,3,8,37.5,21,0,1,34.6,robbie-kelley-1
+Steven Krajewski,2019-09-28,4,Connecticut,@,Central Florida,L,22,33,66.7,273,3,1,160.1,steven-krajewski-1
+Trevor Lawrence,2019-09-28,5,Clemson,@,North Carolina,W,18,30,60.0,206,1,0,128.7,trevor-lawrence-1
+Devin Leary,2019-09-28,5,North Carolina State,@,Florida State,L,4,5,80.0,54,0,0,170.7,devin-leary-1
+Brian Lewerke,2019-09-28,5,Michigan State,,Indiana,W,18,36,50.0,300,3,0,147.5,brian-lewerke-1
+Levi Lewis,2019-09-28,5,Louisiana,@,Georgia Southern,W,11,18,61.1,165,1,0,156.4,levi-lewis-1
+Kai Locksley,2019-09-28,4,Texas-El Paso,@,Southern Mississippi,L,8,15,53.3,109,0,0,114.4,kai-locksley-1
+Jordan Love,2019-09-28,4,Utah State,,Colorado State,W,17,33,51.5,204,2,2,111.3,jordan-love-2
+Jake Luton,2019-09-28,4,Oregon State,,Stanford,L,27,39,69.2,337,1,0,150.3,jake-luton-1
+Darriel Mack Jr.,2019-09-28,5,Central Florida,,Connecticut,W,9,13,69.2,97,1,0,157.3,darriel-mack-jr-1
+McLane Mannix,2019-09-28,4,Texas Tech,@,Oklahoma,L,0,1,0.0,0,0,0,0.0,mclane-mannix-1
+Adrian Martinez,2019-09-28,5,Nebraska,,Ohio State,L,8,17,47.1,47,0,3,35.0,adrian-martinez-2
+Khalil McClain,2019-09-28,4,Troy,,Arkansas State,L,0,1,0.0,0,0,0,0.0,khalil-mcclain-1
+Jordan McCloud,2019-09-28,4,South Florida,,Southern Methodist,L,8,19,42.1,66,0,2,50.2,jordan-mccloud-1
+Cole McDonald,2019-09-28,5,Hawaii,@,Nevada,W,25,30,83.3,312,4,0,214.7,cole-mcdonald-1
+Matt McKay,2019-09-28,5,North Carolina State,@,Florida State,L,3,7,42.9,20,0,0,66.9,matt-mckay-1
+Davis Mills,2019-09-28,5,Stanford,@,Oregon State,W,18,25,72.0,245,3,0,193.9,davis-mills-1
+Joe Milton,2019-09-28,4,Michigan,,Rutgers,W,3,4,75.0,59,1,0,281.4,joe-milton-2
+Kellen Mond,2019-09-28,5,Texas A&M,N,Arkansas,W,23,35,65.7,251,3,1,148.5,kellen-mond-1
+David Moore,2019-09-28,5,Central Michigan,@,Western Michigan,L,33,48,68.8,330,1,2,125.0,david-moore-1
+Tanner Mordecai,2019-09-28,4,Oklahoma,,Texas Tech,W,4,6,66.7,5,0,0,73.7,tanner-mordecai-1
+Tanner Morgan,2019-09-28,4,Minnesota,@,Purdue,W,21,22,95.5,396,4,0,306.7,tanner-morgan-2
+Matt Myers,2019-09-28,5,Buffalo,@,Miami (OH),L,4,16,25.0,59,1,2,51.6,matt-myers-2
+Riley Neal,2019-09-28,4,Vanderbilt,,Northern Illinois,W,21,28,75.0,189,1,0,143.5,riley-neal-1
+Kato Nelson,2019-09-28,5,Akron,@,Massachusetts,L,13,17,76.5,141,2,1,173.2,kato-nelson-1
+Jamie Newman,2019-09-28,5,Wake Forest,@,Boston College,W,21,33,63.6,243,2,1,139.4,jamie-newman-1
+Tony Nicholson,2019-09-28,5,New Mexico State,,Fresno State,L,0,1,0.0,0,0,0,0.0,tony-nicholson-1
+Bo Nix,2019-09-28,5,Auburn,,Mississippi State,W,16,21,76.2,335,2,0,241.6,bo-nix-1
+Patrick O'Brien,2019-09-28,5,Colorado State,@,Utah State,L,14,30,46.7,217,0,0,107.4,patrick-obrien-1
+Asher O'Hara,2019-09-28,4,Middle Tennessee State,@,Iowa,L,15,22,68.2,110,0,0,110.2,asher-ohara-1
+Kenyon Oblad,2019-09-28,4,Nevada-Las Vegas,@,Wyoming,L,16,31,51.6,176,0,2,86.4,kenyon-oblad-1
+Tobias Oliver,2019-09-28,4,Georgia Tech,@,Temple,L,4,11,36.4,74,0,0,92.9,tobias-oliver-1
+Colby Parkinson,2019-09-28,5,Stanford,@,Oregon State,W,1,1,100.0,8,1,0,497.2,colby-parkinson-1
+Shea Patterson,2019-09-28,4,Michigan,,Rutgers,W,17,23,73.9,276,1,1,180.4,shea-patterson-1
+Nick Patti,2019-09-28,5,Pittsburgh,,Delaware,W,23,37,62.2,271,2,1,136.1,nick-patti-3
+Fred Payton,2019-09-28,5,Coastal Carolina,@,Appalachian State,L,20,31,64.5,240,2,1,144.4,fred-payton-1
+Michael Penix Jr.,2019-09-28,5,Indiana,@,Michigan State,L,33,42,78.6,286,3,0,159.3,michael-penix-jr-1
+Bryce Perkins,2019-09-28,5,Virginia,@,Notre Dame,L,30,43,69.8,334,2,2,141.1,bryce-perkins-1
+Spencer Petras,2019-09-28,4,Iowa,,Middle Tennessee State,W,3,4,75.0,17,0,0,110.7,spencer-petras-1
+John Rhys Plumlee,2019-09-28,5,Mississippi,@,Alabama,L,10,28,35.7,141,2,1,94.4,john-rhys-plumlee-1
+Jack Plummer,2019-09-28,4,Purdue,,Minnesota,L,23,41,56.1,245,2,2,112.6,jack-plummer-1
+Brock Purdy,2019-09-28,4,Iowa State,@,Baylor,L,27,45,60.0,342,2,1,134.1,brock-purdy-1
+Spencer Rattler,2019-09-28,4,Oklahoma,,Texas Tech,W,2,4,50.0,23,0,0,98.3,spencer-rattler-1
+Jorge Reyna,2019-09-28,4,Fresno State,@,New Mexico State,W,20,31,64.5,147,0,0,104.3,jorge-reyna-1
+Chris Reynolds,2019-09-28,5,UNC Charlotte,,Florida Atlantic,L,15,28,53.6,208,3,2,137.0,chris-reynolds-1
+Desmond Ridder,2019-09-28,4,Cincinnati,@,Marshall,W,18,22,81.8,221,4,0,226.2,desmond-ridder-1
+Chris Robison,2019-09-28,5,Florida Atlantic,@,UNC Charlotte,W,20,27,74.1,312,2,1,188.2,chris-robison-1
+Armani Rogers,2019-09-28,4,Nevada-Las Vegas,@,Wyoming,L,6,13,46.2,87,1,1,112.4,armani-rogers-1
+Anthony Russo,2019-09-28,4,Temple,,Georgia Tech,W,9,22,40.9,127,0,1,80.3,anthony-russo-3
+Spencer Sanders,2019-09-28,5,Oklahoma State,,Kansas State,W,16,25,64.0,153,1,2,112.6,spencer-sanders-1
+Garrett Shrader,2019-09-28,5,Mississippi State,@,Auburn,L,12,23,52.2,209,2,0,157.2,garrett-shrader-1
+Elijah Sindelar,2019-09-28,4,Purdue,,Minnesota,L,4,8,50.0,46,0,0,98.3,elijah-sindelar-1
+Artur Sitkowski,2019-09-28,4,Rutgers,@,Michigan,L,17,24,70.8,106,0,0,107.9,artur-sitkowski-1
+Stone Smartt,2019-09-28,4,Old Dominion,,East Carolina,L,20,30,66.7,203,0,2,110.2,stone-smartt-1
+Aiden Smith,2019-09-28,4,Northwestern,@,Wisconsin,L,8,20,40.0,99,1,1,88.1,aiden-smith-1
+J'mar Smith,2019-09-28,5,Louisiana Tech,@,Rice,W,21,39,53.8,210,1,0,107.5,jmar-smith-1
+Sawyer Smith,2019-09-28,5,Kentucky,@,South Carolina,L,11,32,34.4,90,0,1,51.8,sawyer-smith-1
+Cristian Solano,2019-09-28,5,Nevada,,Hawaii,L,11,17,64.7,59,0,1,82.1,cristian-solano-1
+Jack Sorenson,2019-09-28,5,Miami (OH),,Buffalo,W,0,1,0.0,0,0,0,0.0,jack-sorenson-1
+Carter Stanley,2019-09-28,5,Kansas,@,Texas Christian,L,12,29,41.4,84,1,0,77.1,carter-stanley-1
+Nathan Stanley,2019-09-28,4,Iowa,,Middle Tennessee State,W,17,25,68.0,276,2,0,187.1,nathan-stanley-2
+Nick Starkel,2019-09-28,5,Arkansas,N,Texas A&M,L,12,17,70.6,109,0,1,112.7,nick-starkel-1
+Tommy Stevens,2019-09-28,5,Mississippi State,@,Auburn,L,1,3,33.3,7,0,0,52.9,tommy-stevens-1
+Nate Stewart,2019-09-28,5,Akron,@,Massachusetts,L,0,1,0.0,0,0,0,0.0,nate-stewart-1
+Tom Stewart,2019-09-28,5,Rice,,Louisiana Tech,L,2,4,50.0,20,0,1,42.0,tom-stewart-1
+Ty Storey,2019-09-28,4,Western Kentucky,,Alabama-Birmingham,W,15,24,62.5,189,2,0,156.2,ty-storey-1
+Carson Strong,2019-09-28,5,Nevada,,Hawaii,L,7,14,50.0,46,0,1,63.3,carson-strong-1
+Tua Tagovailoa,2019-09-28,5,Alabama,,Mississippi,W,26,36,72.2,418,6,0,224.8,tua-tagovailoa-1
+Zac Thomas,2019-09-28,4,Appalachian State,,Coastal Carolina,W,19,23,82.6,246,2,1,192.5,zac-thomas-2
+Skylar Thompson,2019-09-28,4,Kansas State,@,Oklahoma State,L,11,23,47.8,118,0,0,90.9,skylar-thompson-1
+Dorian Thompson-Robinson,2019-09-28,5,UCLA,@,Arizona,L,17,33,51.5,180,1,1,101.3,dorian-thompson-robinson-1
+Grant Tisdale,2019-09-28,5,Mississippi,@,Alabama,L,2,2,100.0,56,1,0,500.2,grant-tisdale-1
+Kyle Trask,2019-09-28,5,Florida,,Towson,W,18,20,90.0,188,2,0,202.0,kyle-trask-1
+Nick Tronti,2019-09-28,5,Florida Atlantic,@,UNC Charlotte,W,1,1,100.0,9,0,0,175.6,nick-tronti-1
+Tevaka Tuioti,2019-09-28,4,New Mexico,@,Liberty,L,12,26,46.2,139,1,2,88.4,tevaka-tuioti-1
+Clayton Tune,2019-09-28,5,Houston,@,North Texas,W,16,20,80.0,124,1,0,148.6,clayton-tune-1
+Jackson Tyner,2019-09-28,4,Texas Tech,@,Oklahoma,L,1,5,20.0,2,0,0,23.4,jackson-tyner-1
+Justin Uahinui,2019-09-28,5,Hawaii,@,Nevada,W,1,1,100.0,14,1,0,547.6,justin-uahinui-1
+Kyle Vantrease,2019-09-28,5,Buffalo,@,Miami (OH),L,3,4,75.0,30,0,0,138.0,kyle-vantrease-1
+Jon Wassink,2019-09-28,5,Western Michigan,,Central Michigan,W,18,29,62.1,244,1,1,137.2,jon-wassink-1
+Clayton Welch,2019-09-28,5,Syracuse,,Holy Cross,W,4,5,80.0,17,0,0,108.6,clayton-welch-1
+Shai Werts,2019-09-28,4,Georgia Southern,,Louisiana,L,6,12,50.0,37,0,0,75.9,shai-werts-1
+Zach Wilson,2019-09-28,5,Brigham Young,@,Toledo,L,22,38,57.9,315,2,1,139.6,zach-wilson-3
+Brandon Wimbush,2019-09-28,5,Central Florida,,Connecticut,W,1,1,100.0,-1,0,0,91.6,brandon-wimbush-1
+Jack Zergiotis,2019-09-28,4,Connecticut,@,Central Florida,L,1,3,33.3,8,0,1,-10.9,jack-zergiotis-1
+Holton Ahlers,2019-10-03,6,East Carolina,,Temple,L,19,39,48.7,229,2,0,115.0,holton-ahlers-1
+Todd Centeio,2019-10-03,5,Temple,@,East Carolina,W,4,5,80.0,45,0,0,155.6,todd-centeio-1
+Cephus Johnson,2019-10-03,6,South Alabama,,Georgia Southern,L,8,15,53.3,194,2,0,206.0,cephus-johnson-2
+Anthony Russo,2019-10-03,5,Temple,@,East Carolina,W,23,34,67.6,208,1,0,128.7,anthony-russo-3
+Shai Werts,2019-10-03,5,Georgia Southern,@,South Alabama,W,9,17,52.9,78,0,0,91.5,shai-werts-1
+Dillon Gabriel,2019-10-04,6,Central Florida,@,Cincinnati,L,25,46,54.3,297,1,3,102.7,dillon-gabriel-1
+Sheriron Jones,2019-10-04,5,New Mexico,@,San Jose State,L,7,16,43.8,127,2,3,114.2,sheriron-jones-1
+Josh Love,2019-10-04,5,San Jose State,,New Mexico,W,24,36,66.7,405,2,0,179.5,josh-love-1
+Nick Nash,2019-10-04,5,San Jose State,,New Mexico,W,2,3,66.7,7,0,0,86.3,nick-nash-1
+Desmond Ridder,2019-10-04,5,Cincinnati,,Central Florida,W,17,31,54.8,149,2,1,110.1,desmond-ridder-1
+Tevaka Tuioti,2019-10-04,5,New Mexico,@,San Jose State,L,4,10,40.0,34,0,1,48.6,tevaka-tuioti-1
+Josh Adkins,2019-10-05,6,New Mexico State,,Liberty,L,20,30,66.7,265,0,2,127.5,josh-adkins-1
+Ryan Agnew,2019-10-05,5,San Diego State,@,Colorado State,W,16,20,80.0,147,3,0,191.2,ryan-agnew-1
+Hank Bachmeier,2019-10-05,5,Boise State,@,Nevada-Las Vegas,W,19,30,63.3,299,2,0,169.1,hank-bachmeier-1
+Kaleb Barker,2019-10-05,5,Troy,@,Missouri,L,15,26,57.7,92,1,2,84.7,kaleb-barker-1
+Woody Barrett,2019-10-05,5,Kent State,@,Wisconsin,L,4,9,44.4,36,0,0,78.0,woody-barrett-2
+Nick Basquine,2019-10-05,5,Oklahoma,@,Kansas,W,1,1,100.0,21,0,0,276.4,nick-basquine-1
+Mike Beaudry,2019-10-05,5,Connecticut,,South Florida,L,18,29,62.1,209,1,0,134.0,mike-beaudry-1
+Gerry Bohanon,2019-10-05,5,Baylor,@,Kansas State,W,1,1,100.0,38,0,0,419.2,gerry-bohanon-1
+Ian Book,2019-10-05,5,Notre Dame,,Bowling Green State,W,16,20,80.0,261,5,0,272.1,ian-book-1
+Ross Bowers,2019-10-05,5,Northern Illinois,,Ball State,L,21,43,48.8,241,0,1,91.3,ross-bowers-1
+Myles Brennan,2019-10-05,5,Louisiana State,,Utah State,W,1,1,100.0,9,0,0,175.6,myles-brennan-1
+Charlie Brewer,2019-10-05,5,Baylor,@,Kansas State,W,14,23,60.9,230,1,0,159.2,charlie-brewer-1
+Anthony Brown,2019-10-05,6,Boston College,@,Louisville,L,6,7,85.7,193,1,0,364.5,anthony-brown-11
+Kelly Bryant,2019-10-05,5,Missouri,,Troy,W,12,19,63.2,221,3,0,213.0,kelly-bryant-1
+Shane Buechele,2019-10-05,6,Southern Methodist,,Tulsa,W,23,40,57.5,280,2,0,132.8,shane-buechele-1
+Joe Burrow,2019-10-05,5,Louisiana State,,Utah State,W,27,38,71.1,344,5,1,185.3,joe-burrow-1
+Austin Burton,2019-10-05,6,UCLA,,Oregon State,L,27,41,65.9,236,1,0,122.3,austin-burton-1
+Stephen Calvert,2019-10-05,6,Liberty,@,New Mexico State,W,16,31,51.6,173,1,0,109.1,stephen-calvert-1
+Sean Clifford,2019-10-05,5,Penn State,,Purdue,W,20,29,69.0,264,3,1,172.7,sean-clifford-1
+Jack Coan,2019-10-05,5,Wisconsin,,Kent State,W,12,15,80.0,134,2,0,199.0,jack-coan-1
+Carson Coats,2019-10-05,6,Arkansas State,@,Georgia State,L,1,2,50.0,7,0,0,79.4,carson-coats-1
+Henry Colombi,2019-10-05,5,Utah State,@,Louisiana State,L,1,1,100.0,10,0,0,184.0,henry-colombi-1
+Evan Conley,2019-10-05,5,Louisville,,Boston College,W,10,16,62.5,140,1,0,156.6,evan-conley-1
+Chase Cord,2019-10-05,5,Boise State,@,Nevada-Las Vegas,W,2,5,40.0,20,1,0,139.6,chase-cord-1
+Dustin Crum,2019-10-05,5,Kent State,@,Wisconsin,L,6,8,75.0,28,0,0,104.4,dustin-crum-1
+Malik Cunningham,2019-10-05,5,Louisville,,Boston College,W,13,18,72.2,288,1,0,225.0,malik-cunningham-1
+Michael Curtis,2019-10-05,6,Massachusetts,@,Florida International,L,5,19,26.3,66,0,2,34.4,michael-curtis-2
+Alex Delton,2019-10-05,5,Texas Christian,@,Iowa State,L,4,5,80.0,2,0,0,83.4,alex-delton-1
+Jett Duffey,2019-10-05,5,Texas Tech,,Oklahoma State,W,26,44,59.1,424,4,0,170.0,jett-duffey-1
+Max Duggan,2019-10-05,5,Texas Christian,@,Iowa State,L,17,25,68.0,219,2,0,168.0,max-duggan-1
+Jacob Eason,2019-10-05,6,Washington,@,Stanford,L,16,36,44.4,206,1,1,96.1,jacob-eason-1
+Sam Ehlinger,2019-10-05,5,Texas,@,West Virginia,W,18,33,54.5,211,2,1,122.2,sam-ehlinger-1
+Dan Ellington,2019-10-05,5,Georgia State,,Arkansas State,W,29,41,70.7,382,1,0,157.0,dan-ellington-1
+Caleb Evans,2019-10-05,5,Louisiana-Monroe,,Memphis,L,23,44,52.3,286,2,0,121.9,caleb-evans-2
+Justin Fields,2019-10-05,6,Ohio State,,Michigan State,W,17,25,68.0,206,2,1,155.6,justin-fields-2
+Zay Flowers,2019-10-05,6,Boston College,@,Louisville,L,0,1,0.0,0,0,0,0.0,zay-flowers-1
+Ke'Mon Freemon,2019-10-05,6,Southern Methodist,,Tulsa,W,0,1,0.0,0,0,0,0.0,kemon-freemon-1
+Jake Fromm,2019-10-05,5,Georgia,@,Tennessee,W,24,29,82.8,288,2,0,188.9,jake-fromm-1
+Mike Glass III,2019-10-05,5,Eastern Michigan,@,Central Michigan,L,19,33,57.6,193,1,1,110.6,mike-glass-iii-1
+James Graham,2019-10-05,5,Georgia Tech,,North Carolina,L,11,24,45.8,171,2,2,116.5,james-graham-1
+Isaiah Green,2019-10-05,5,Marshall,@,Middle Tennessee State,L,24,40,60.0,365,1,3,129.9,isaiah-green-2
+Wiley Green,2019-10-05,6,Rice,@,Alabama-Birmingham,L,15,34,44.1,161,2,0,103.3,wiley-green-1
+Dennis Grosel,2019-10-05,6,Boston College,@,Louisville,L,9,24,37.5,111,3,1,109.3,dennis-grosel-1
+Mitchell Guadagni,2019-10-05,5,Toledo,,Western Michigan,W,14,22,63.6,200,2,1,160.9,mitchell-guadagni-1
+Jarrett Guarantano,2019-10-05,5,Tennessee,,Georgia,L,1,5,20.0,14,0,0,43.5,jarrett-guarantano-1
+Donald Hammond III,2019-10-05,5,Air Force,@,Navy,L,10,25,40.0,205,0,1,100.9,donald-hammond-iii-1
+Quentin Harris,2019-10-05,5,Duke,,Pittsburgh,L,18,43,41.9,165,1,2,72.5,quentin-harris-2
+Layne Hatcher,2019-10-05,6,Arkansas State,@,Georgia State,L,21,32,65.6,299,4,2,172.9,layne-hatcher-1
+Jaylon Henderson,2019-10-05,5,Boise State,@,Nevada-Las Vegas,W,1,1,100.0,6,0,0,150.4,jaylon-henderson-2
+Justin Herbert,2019-10-05,5,Oregon,,California,W,20,33,60.6,214,1,1,119.0,justin-herbert-1
+Hendon Hooker,2019-10-05,5,Virginia Tech,@,Miami (FL),W,10,20,50.0,184,3,0,176.8,hendon-hooker-1
+Kelvin Hopkins Jr,2019-10-05,5,Army,,Tulane,L,9,24,37.5,170,1,1,102.4,kelvin-hopkins-jr-1
+Dylan Hopkins,2019-10-05,5,Alabama-Birmingham,,Rice,W,0,1,0.0,0,0,0,0.0,dylan-hopkins-1
+Sam Howell,2019-10-05,6,North Carolina,@,Georgia Tech,W,33,51,64.7,376,4,1,148.6,sam-howell-1
+Jalen Hurts,2019-10-05,5,Oklahoma,@,Kansas,W,16,24,66.7,228,2,1,165.6,jalen-hurts-1
+Preston Hutchinson,2019-10-05,5,Eastern Michigan,@,Central Michigan,L,3,5,60.0,15,0,0,85.2,preston-hutchinson-1
+Josh Jackson,2019-10-05,5,Maryland,@,Rutgers,W,9,16,56.3,179,2,0,191.5,josh-jackson-3
+Lucky Jackson,2019-10-05,5,Western Kentucky,@,Old Dominion,W,0,1,0.0,0,0,0,0.0,lucky-jackson-1
+Tyler Johnston III,2019-10-05,5,Alabama-Birmingham,,Rice,W,14,25,56.0,282,3,2,174.4,tyler-johnston-iii-1
+Brandon Jones,2019-10-05,5,Texas-El Paso,,Texas-San Antonio,L,14,22,63.6,140,1,0,132.1,brandon-jones-16
+Emory Jones,2019-10-05,6,Florida,,Auburn,W,5,7,71.4,28,0,0,105.0,emory-jones-1
+Kedarian Jones,2019-10-05,5,Memphis,@,Louisiana-Monroe,W,0,1,0.0,0,0,0,0.0,kedarian-jones-1
+Phil Jurkovec,2019-10-05,5,Notre Dame,,Bowling Green State,W,5,7,71.4,79,1,0,213.4,phil-jurkovec-1
+Austin Kendall,2019-10-05,5,West Virginia,,Texas,L,31,46,67.4,367,3,4,138.5,austin-kendall-1
+Lucas Krull,2019-10-05,6,Florida,,Auburn,W,1,1,100.0,4,0,0,133.6,lucas-krull-1
+Johnny Langan,2019-10-05,5,Rutgers,,Maryland,L,13,25,52.0,163,0,2,90.8,johnny-langan-1
+Brian Lewerke,2019-10-05,6,Michigan State,@,Ohio State,L,20,38,52.6,218,1,1,104.2,brian-lewerke-1
+Kai Locksley,2019-10-05,5,Texas-El Paso,,Texas-San Antonio,L,2,8,25.0,41,0,0,68.1,kai-locksley-1
+Jordan Love,2019-10-05,5,Utah State,@,Louisiana State,L,15,30,50.0,130,0,3,66.4,jordan-love-2
+Grant Loy,2019-10-05,5,Bowling Green State,@,Notre Dame,L,13,25,52.0,106,0,1,79.6,grant-loy-1
+Jake Luton,2019-10-05,5,Oregon State,@,UCLA,W,18,26,69.2,285,5,0,224.8,jake-luton-1
+Adrian Martinez,2019-10-05,6,Nebraska,,Northwestern,W,13,20,65.0,145,0,0,125.9,adrian-martinez-2
+Brian Maurer,2019-10-05,5,Tennessee,,Georgia,L,14,28,50.0,259,2,1,144.1,brian-maurer-1
+Jordan McCloud,2019-10-05,5,South Florida,@,Connecticut,W,11,21,52.4,157,3,2,143.3,jordan-mccloud-1
+Justice McCoy,2019-10-05,6,Colorado State,,San Diego State,L,0,2,0.0,0,0,2,-200.0,justice-mccoy-1
+Justin McMillan,2019-10-05,5,Tulane,@,Army,W,15,21,71.4,201,1,0,167.5,justin-mcmillan-1
+Graham Mertz,2019-10-05,5,Wisconsin,,Kent State,W,5,5,100.0,38,0,0,163.8,graham-mertz-1
+Davis Mills,2019-10-05,6,Stanford,,Washington,W,21,30,70.0,293,1,0,163.0,davis-mills-1
+Devon Modster,2019-10-05,6,California,@,Oregon,L,17,34,50.0,190,1,2,94.9,devon-modster-1
+Steven Montez,2019-10-05,5,Colorado,,Arizona,L,28,42,66.7,299,1,0,134.3,steven-montez-1
+David Moore,2019-10-05,6,Central Michigan,,Eastern Michigan,W,15,24,62.5,279,2,1,179.3,david-moore-1
+Tanner Mordecai,2019-10-05,5,Oklahoma,@,Kansas,W,3,4,75.0,28,0,0,133.8,tanner-mordecai-1
+James Morgan,2019-10-05,5,Florida International,,Massachusetts,W,19,31,61.3,263,2,0,153.8,james-morgan-1
+Tanner Morgan,2019-10-05,5,Minnesota,,Illinois,W,9,17,52.9,155,3,1,176.0,tanner-morgan-2
+Lowell Narcisse,2019-10-05,5,Texas-San Antonio,@,Texas-El Paso,W,6,14,42.9,46,1,0,94.0,lowell-narcisse-1
+Riley Neal,2019-10-05,5,Vanderbilt,@,Mississippi,L,18,30,60.0,140,0,0,99.2,riley-neal-1
+Tony Nicholson,2019-10-05,6,New Mexico State,,Liberty,L,0,1,0.0,0,0,0,0.0,tony-nicholson-1
+Bo Nix,2019-10-05,6,Auburn,@,Florida,L,11,27,40.7,145,1,3,75.9,bo-nix-1
+K.D. Nixon,2019-10-05,5,Colorado,,Arizona,L,1,1,100.0,38,1,0,749.2,kd-nixon-1
+Patrick O'Brien,2019-10-05,6,Colorado State,,San Diego State,L,19,30,63.3,217,1,1,128.4,patrick-obrien-1
+Aidan O'Connell,2019-10-05,5,Purdue,@,Penn State,L,1,1,100.0,4,0,0,133.6,aidan-oconnell-1
+Asher O'Hara,2019-10-05,5,Middle Tennessee State,,Marshall,W,17,30,56.7,261,1,0,140.7,asher-ohara-1
+Kenyon Oblad,2019-10-05,5,Nevada-Las Vegas,,Boise State,L,24,55,43.6,262,2,1,92.0,kenyon-oblad-1
+Tyler Page,2019-10-05,6,Southern Methodist,,Tulsa,W,1,1,100.0,30,0,0,352.0,tyler-page-2
+Austin Parker,2019-10-05,5,Duke,,Pittsburgh,L,0,1,0.0,0,0,0,0.0,austin-parker-2
+Shea Patterson,2019-10-05,5,Michigan,,Iowa,W,14,26,53.8,147,0,1,93.6,shea-patterson-1
+Josh Pederson,2019-10-05,5,Louisiana-Monroe,,Memphis,L,1,1,100.0,33,0,0,377.2,josh-pederson-1
+Malcolm Perry,2019-10-05,4,Navy,,Air Force,W,5,7,71.4,144,0,0,244.2,malcolm-perry-1
+N'Kosi Perry,2019-10-05,5,Miami (FL),,Virginia Tech,L,28,45,62.2,422,4,1,165.9,nkosi-perry-1
+Brandon Peters,2019-10-05,5,Illinois,@,Minnesota,L,5,10,50.0,32,0,1,56.9,brandon-peters-1
+Kenny Pickett,2019-10-05,6,Pittsburgh,@,Duke,W,29,48,60.4,268,3,2,119.6,kenny-pickett-1
+Tyrell Pigrome,2019-10-05,5,Maryland,@,Rutgers,W,13,18,72.2,111,0,0,124.0,tyrell-pigrome-1
+Drew Plitt,2019-10-05,5,Ball State,@,Northern Illinois,W,4,14,28.6,34,0,1,34.7,drew-plitt-1
+John Rhys Plumlee,2019-10-05,6,Mississippi,,Vanderbilt,W,10,18,55.6,99,0,0,101.8,john-rhys-plumlee-1
+Jack Plummer,2019-10-05,5,Purdue,@,Penn State,L,13,27,48.1,119,1,0,97.4,jack-plummer-1
+Taylor Powell,2019-10-05,5,Missouri,,Troy,W,6,8,75.0,57,0,0,134.9,taylor-powell-1
+Brock Purdy,2019-10-05,5,Iowa State,,Texas Christian,W,19,24,79.2,247,2,0,193.1,brock-purdy-1
+Matt Robinson,2019-10-05,5,Illinois,@,Minnesota,L,15,29,51.7,125,0,0,87.9,matt-robinson-6
+Nathan Rourke,2019-10-05,5,Ohio,@,Buffalo,W,12,19,63.2,155,0,1,121.2,nathan-rourke-1
+Kirk Rygol,2019-10-05,5,South Florida,@,Connecticut,W,1,1,100.0,33,1,0,707.2,kirk-rygol-1
+Spencer Sanders,2019-10-05,6,Oklahoma State,@,Texas Tech,L,22,37,59.5,290,2,3,126.9,spencer-sanders-1
+Stone Smartt,2019-10-05,5,Old Dominion,,Western Kentucky,L,11,27,40.7,105,0,1,66.0,stone-smartt-1
+Aiden Smith,2019-10-05,5,Northwestern,@,Nebraska,L,19,32,59.4,136,0,1,88.8,aiden-smith-1
+Zach Smith,2019-10-05,5,Tulsa,@,Southern Methodist,L,23,41,56.1,346,4,3,144.5,zach-smith-6
+Carter Stanley,2019-10-05,6,Kansas,,Oklahoma,L,18,28,64.3,230,3,0,168.6,carter-stanley-1
+Nathan Stanley,2019-10-05,5,Iowa,@,Michigan,L,23,42,54.8,260,0,3,92.5,nathan-stanley-2
+C Stevenson,2019-10-05,5,Air Force,@,Navy,L,1,1,100.0,41,0,0,444.4,c-stevenson-1
+Tom Stewart,2019-10-05,6,Rice,@,Alabama-Birmingham,L,1,2,50.0,10,0,0,92.0,tom-stewart-1
+Ty Storey,2019-10-05,5,Western Kentucky,@,Old Dominion,W,21,28,75.0,193,1,1,137.5,ty-storey-1
+Khalil Tate,2019-10-05,5,Arizona,@,Colorado,W,31,41,75.6,404,3,1,177.6,khalil-tate-1
+Skylar Thompson,2019-10-05,5,Kansas State,,Baylor,L,22,34,64.7,218,1,1,122.4,skylar-thompson-1
+Kyle Trask,2019-10-05,6,Florida,,Auburn,W,19,31,61.3,234,2,0,146.0,kyle-trask-1
+Kyle Vantrease,2019-10-05,6,Buffalo,,Ohio,L,16,23,69.6,197,2,0,170.2,kyle-vantrease-1
+Noah Vedral,2019-10-05,6,Nebraska,,Northwestern,W,2,5,40.0,41,0,0,108.9,noah-vedral-1
+Darius Wade,2019-10-05,5,Bowling Green State,@,Notre Dame,L,2,2,100.0,4,0,0,116.8,darius-wade-1
+Deuce Wallace,2019-10-05,5,Vanderbilt,@,Mississippi,L,7,16,43.8,62,0,0,76.3,deuce-wallace-2
+Chance Warren,2019-10-05,4,Navy,,Air Force,W,1,1,100.0,18,0,0,251.2,chance-warren-1
+Jon Wassink,2019-10-05,6,Western Michigan,@,Toledo,L,25,51,49.0,303,2,1,107.9,jon-wassink-1
+Gunnar Watson,2019-10-05,5,Troy,@,Missouri,L,5,9,55.6,58,0,0,109.7,gunnar-watson-1
+Randall West,2019-10-05,6,Massachusetts,@,Florida International,L,2,5,40.0,11,0,0,58.5,randall-west-1
+Brady White,2019-10-05,5,Memphis,@,Louisiana-Monroe,W,15,23,65.2,249,3,1,190.5,brady-white-1
+Jackson White,2019-10-05,5,Marshall,@,Middle Tennessee State,L,2,2,100.0,11,0,0,146.2,jackson-white-1
+Kaylan Wiggins,2019-10-05,5,Florida International,,Massachusetts,W,0,2,0.0,0,0,0,0.0,kaylan-wiggins-1
+Jarren Williams,2019-10-05,5,Miami (FL),,Virginia Tech,L,4,7,57.1,47,0,3,27.8,jarren-williams-1
+Aaron Young,2019-10-05,5,Duke,,Pittsburgh,L,0,1,0.0,0,0,1,-200.0,aaron-young-3
+Levi Lewis,2019-10-09,6,Louisiana,,Appalachian State,L,13,24,54.2,131,1,0,113.8,levi-lewis-1
+Zac Thomas,2019-10-09,5,Appalachian State,@,Louisiana,W,11,17,64.7,147,0,0,137.3,zac-thomas-2
+Tommy Devito,2019-10-10,6,Syracuse,@,North Carolina State,L,29,39,74.4,300,1,0,147.4,tommy-devito-1
+Caleb Evans,2019-10-10,6,Louisiana-Monroe,@,Texas State,W,18,33,54.5,225,0,1,105.8,caleb-evans-2
+Bailey Hockman,2019-10-10,6,North Carolina State,,Syracuse,W,16,27,59.3,205,0,1,115.6,bailey-hockman-1
+Gresch Jensen,2019-10-10,6,Texas State,,Louisiana-Monroe,L,16,30,53.3,170,0,0,100.9,gresch-jensen-1
+Devin Leary,2019-10-10,6,North Carolina State,,Syracuse,W,1,3,33.3,23,0,0,97.7,devin-leary-1
+Seamus O'Kelly,2019-10-10,6,Texas State,,Louisiana-Monroe,L,1,1,100.0,4,0,0,133.6,seamus-okelly-1
+Thayer Thomas,2019-10-10,6,North Carolina State,,Syracuse,W,1,1,100.0,32,1,0,698.8,thayer-thomas-1
+Tyler Vitt,2019-10-10,6,Texas State,,Louisiana-Monroe,L,3,8,37.5,72,1,1,129.4,tyler-vitt-1
+Justin Herbert,2019-10-11,6,Oregon,,Colorado,W,18,32,56.3,261,2,0,145.4,justin-herbert-1
+Sheriron Jones,2019-10-11,6,New Mexico,,Colorado State,L,8,17,47.1,89,0,1,79.3,sheriron-jones-1
+Steven Montez,2019-10-11,6,Colorado,@,Oregon,L,19,34,55.9,131,0,4,64.7,steven-montez-1
+Patrick O'Brien,2019-10-11,7,Colorado State,@,New Mexico,W,25,34,73.5,420,3,0,206.4,patrick-obrien-1
+Bryce Perkins,2019-10-11,6,Virginia,@,Miami (FL),L,25,42,59.5,252,0,0,109.9,bryce-perkins-1
+N'Kosi Perry,2019-10-11,6,Miami (FL),,Virginia,W,16,27,59.3,182,1,0,128.1,nkosi-perry-1
+Tyler Shough,2019-10-11,6,Oregon,,Colorado,W,1,2,50.0,14,0,0,108.8,tyler-shough-1
+Jack Abraham,2019-10-12,6,Southern Mississippi,,North Texas,W,29,36,80.6,421,3,0,206.3,jack-abraham-1
+Josh Adkins,2019-10-12,7,New Mexico State,@,Central Michigan,L,24,40,60.0,263,3,1,135.0,josh-adkins-1
+Ryan Agnew,2019-10-12,6,San Diego State,,Wyoming,W,21,32,65.6,209,2,0,141.1,ryan-agnew-1
+Aaron Allen,2019-10-12,6,Louisiana Tech,,Massachusetts,W,2,2,100.0,49,1,0,470.8,aaron-allen-1
+Jack Allison,2019-10-12,6,West Virginia,,Iowa State,L,18,24,75.0,140,1,1,129.4,jack-allison-1
+Chatarius Atwell,2019-10-12,6,Louisville,@,Wake Forest,W,0,1,0.0,0,0,0,0.0,chatarius-atwell-1
+Hank Bachmeier,2019-10-12,6,Boise State,,Hawaii,W,3,9,33.3,58,1,0,124.1,hank-bachmeier-1
+Jason Bean,2019-10-12,6,North Texas,@,Southern Mississippi,L,3,6,50.0,39,1,1,126.3,jason-bean-1
+Mike Beaudry,2019-10-12,6,Connecticut,@,Tulane,L,15,24,62.5,101,0,1,89.5,mike-beaudry-1
+James Blackman,2019-10-12,6,Florida State,@,Clemson,L,9,23,39.1,66,0,2,45.8,james-blackman-1
+Gerry Bohanon,2019-10-12,6,Baylor,,Texas Tech,W,0,1,0.0,0,0,0,0.0,gerry-bohanon-1
+Ian Book,2019-10-12,6,Notre Dame,,Southern California,W,17,32,53.1,165,1,0,106.8,ian-book-1
+Lynn Bowden Jr.,2019-10-12,6,Kentucky,,Arkansas,W,7,11,63.6,78,1,0,153.2,lynn-bowden-jr-1
+Ross Bowers,2019-10-12,6,Northern Illinois,@,Ohio,W,23,39,59.0,338,1,1,135.1,ross-bowers-1
+Carter Bradley,2019-10-12,6,Toledo,@,Bowling Green State,L,4,8,50.0,33,0,0,84.7,carter-bradley-1
+Charlie Brewer,2019-10-12,6,Baylor,,Texas Tech,W,24,37,64.9,352,0,3,128.6,charlie-brewer-1
+Chase Brice,2019-10-12,6,Clemson,,Florida State,W,5,9,55.6,35,0,0,88.2,chase-brice-1
+Kelly Bryant,2019-10-12,6,Missouri,,Mississippi,W,23,35,65.7,329,1,1,148.4,kelly-bryant-1
+Andrew Bunch,2019-10-12,7,Nebraska,@,Minnesota,L,1,6,16.7,13,0,0,34.9,andrew-bunch-2
+Joe Burrow,2019-10-12,6,Louisiana State,,Florida,W,21,24,87.5,293,3,0,231.3,joe-burrow-1
+Bryce Carpenter,2019-10-12,6,Coastal Carolina,,Georgia State,L,9,14,64.3,118,2,0,182.2,bryce-carpenter-1
+Todd Centeio,2019-10-12,6,Temple,,Memphis,W,3,3,100.0,32,0,0,189.6,todd-centeio-1
+Sean Chambers,2019-10-12,6,Wyoming,@,San Diego State,L,5,14,35.7,109,1,1,110.4,sean-chambers-1
+Marcus Childers,2019-10-12,6,Northern Illinois,@,Ohio,W,1,1,100.0,3,0,0,125.2,marcus-childers-1
+Sean Clifford,2019-10-12,6,Penn State,@,Iowa,W,12,24,50.0,117,1,0,104.7,sean-clifford-1
+Jack Coan,2019-10-12,6,Wisconsin,,Michigan State,W,18,21,85.7,180,1,0,173.4,jack-coan-1
+Evan Conley,2019-10-12,6,Louisville,@,Wake Forest,W,12,18,66.7,196,2,1,183.7,evan-conley-1
+Chase Cord,2019-10-12,6,Boise State,,Hawaii,W,12,18,66.7,175,3,0,203.3,chase-cord-1
+Chevan Cordeiro,2019-10-12,6,Hawaii,@,Boise State,L,3,9,33.3,74,1,1,116.8,chevan-cordeiro-1
+Matt Corral,2019-10-12,7,Mississippi,@,Missouri,L,10,16,62.5,133,0,0,132.3,matt-corral-1
+Isiah Cox,2019-10-12,6,Ohio,,Northern Illinois,L,0,1,0.0,0,0,0,0.0,isiah-cox-1
+Dustin Crum,2019-10-12,6,Kent State,@,Akron,W,16,21,76.2,149,1,0,151.5,dustin-crum-1
+Malik Cunningham,2019-10-12,6,Louisville,@,Wake Forest,W,5,6,83.3,99,2,0,331.9,malik-cunningham-1
+Michael Curtis,2019-10-12,7,Massachusetts,@,Louisiana Tech,L,8,14,57.1,49,0,1,72.3,michael-curtis-2
+Jayden Daniels,2019-10-12,6,Arizona State,,Washington State,W,26,36,72.2,363,3,0,184.4,jayden-daniels-1
+Messiah deWeaver,2019-10-12,6,Old Dominion,@,Marshall,L,8,14,57.1,100,1,0,140.7,messiah-deweaver-1
+Quinten Dormady,2019-10-12,7,Central Michigan,,New Mexico State,W,14,24,58.3,134,2,0,132.7,quinten-dormady-1
+Jett Duffey,2019-10-12,6,Texas Tech,@,Baylor,L,31,42,73.8,362,1,2,144.5,jett-duffey-1
+Jacob Eason,2019-10-12,7,Washington,@,Arizona,W,15,22,68.2,243,2,0,191.0,jacob-eason-1
+Sam Ehlinger,2019-10-12,6,Texas,N,Oklahoma,L,26,38,68.4,210,0,0,114.8,sam-ehlinger-1
+Dan Ellington,2019-10-12,6,Georgia State,@,Coastal Carolina,W,16,24,66.7,122,1,1,114.8,dan-ellington-1
+Westin Elliott,2019-10-12,6,Louisiana Tech,,Massachusetts,W,1,3,33.3,16,0,1,11.5,westin-elliott-1
+Travis Etienne,2019-10-12,6,Clemson,,Florida State,W,1,1,100.0,23,0,0,293.2,travis-etienne-1
+Mason Fine,2019-10-12,6,North Texas,@,Southern Mississippi,L,11,25,44.0,217,3,1,148.5,mason-fine-1
+Jake Fromm,2019-10-12,6,Georgia,,South Carolina,L,28,51,54.9,295,1,3,98.2,jake-fromm-1
+Brett Gabbert,2019-10-12,6,Miami (OH),@,Western Michigan,L,26,45,57.8,260,0,3,93.0,brett-gabbert-1
+Xavier Gaines,2019-10-12,6,Marshall,,Old Dominion,W,1,1,100.0,33,0,0,377.2,xavier-gaines-2
+Tristan Gebbia,2019-10-12,6,Oregon State,,Utah,L,5,8,62.5,38,1,0,143.7,tristan-gebbia-1
+Mike Glass III,2019-10-12,6,Eastern Michigan,,Ball State,L,20,34,58.8,283,1,3,120.8,mike-glass-iii-1
+Anthony Gordon,2019-10-12,6,Washington State,@,Arizona State,L,44,64,68.8,466,3,0,145.4,anthony-gordon-2
+James Graham,2019-10-12,6,Georgia Tech,@,Duke,L,15,35,42.9,206,1,0,101.7,james-graham-1
+Isaiah Green,2019-10-12,6,Marshall,,Old Dominion,W,19,31,61.3,175,1,0,119.4,isaiah-green-2
+Mitchell Guadagni,2019-10-12,6,Toledo,@,Bowling Green State,L,17,20,85.0,194,1,0,183.0,mitchell-guadagni-1
+Jarrett Guarantano,2019-10-12,6,Tennessee,,Mississippi State,W,6,7,85.7,106,1,0,260.1,jarrett-guarantano-1
+Grant Gunnell,2019-10-12,6,Arizona,,Washington,L,3,8,37.5,25,0,0,63.8,grant-gunnell-1
+Jaren Hall,2019-10-12,6,Brigham Young,@,South Florida,L,15,23,65.2,148,1,0,133.6,jaren-hall-1
+Donald Hammond III,2019-10-12,6,Air Force,,Fresno State,W,2,3,66.7,81,1,0,403.5,donald-hammond-iii-1
+Adrian Hardy,2019-10-12,6,Louisiana Tech,,Massachusetts,W,0,1,0.0,0,0,0,0.0,adrian-hardy-1
+Quentin Harris,2019-10-12,6,Duke,,Georgia Tech,W,11,20,55.0,176,0,0,128.9,quentin-harris-2
+Sam Hartman,2019-10-12,6,Wake Forest,,Louisville,L,9,15,60.0,172,2,0,200.3,sam-hartman-1
+Jaylon Henderson,2019-10-12,6,Boise State,,Hawaii,W,6,10,60.0,82,1,0,161.9,jaylon-henderson-2
+Malik Henry,2019-10-12,6,Nevada,,San Jose State,W,22,37,59.5,352,1,2,137.5,malik-henry-3
+Ben Hicks,2019-10-12,6,Arkansas,@,Kentucky,L,5,8,62.5,81,0,0,147.6,ben-hicks-1
+Ryan Hilinski,2019-10-12,6,South Carolina,@,Georgia,W,15,20,75.0,116,1,0,140.2,ryan-hilinski-1
+Logan Holgorsen,2019-10-12,6,Houston,,Cincinnati,L,0,2,0.0,0,0,1,-100.0,logan-holgorsen-1
+Hendon Hooker,2019-10-12,6,Virginia Tech,,Rhode Island,W,16,27,59.3,261,3,0,177.1,hendon-hooker-1
+Kelvin Hopkins Jr,2019-10-12,6,Army,@,Western Kentucky,L,5,12,41.7,71,1,0,118.9,kelvin-hopkins-jr-1
+Alex Hornibrook,2019-10-12,6,Florida State,@,Clemson,L,8,12,66.7,84,1,1,136.3,alex-hornibrook-1
+Keon Howard,2019-10-12,6,Tulane,,Connecticut,W,8,10,80.0,92,1,0,190.3,keon-howard-1
+Tyler Huntley,2019-10-12,6,Utah,@,Oregon State,W,14,17,82.4,247,2,0,243.2,tyler-huntley-1
+Jalen Hurts,2019-10-12,6,Oklahoma,N,Texas,W,16,28,57.1,235,3,1,155.9,jalen-hurts-1
+Tyler Johnston III,2019-10-12,6,Alabama-Birmingham,@,Texas-San Antonio,W,17,26,65.4,294,2,1,178.1,tyler-johnston-iii-1
+Emory Jones,2019-10-12,7,Florida,@,Louisiana State,L,1,3,33.3,1,1,0,146.1,emory-jones-1
+Sheldon Jones,2019-10-12,6,Texas-San Antonio,,Alabama-Birmingham,L,0,1,0.0,0,0,0,0.0,sheldon-jones-1
+Dakereon Joyner,2019-10-12,6,South Carolina,@,Georgia,W,6,12,50.0,39,0,0,77.3,dakereon-joyner-1
+Brett Kean,2019-10-12,6,UNC Charlotte,@,Florida International,L,1,3,33.3,-1,0,0,30.5,brett-kean-1
+Robbie Kelley,2019-10-12,6,Akron,,Kent State,L,0,1,0.0,0,0,0,0.0,robbie-kelley-1
+Austin Kendall,2019-10-12,6,West Virginia,,Iowa State,L,1,1,100.0,9,0,0,175.6,austin-kendall-1
+D.L. Knock,2019-10-12,6,Ohio,,Northern Illinois,L,1,1,100.0,2,1,0,446.8,dl-knock-1
+Johnny Langan,2019-10-12,6,Rutgers,@,Indiana,L,5,13,38.5,1,0,0,39.1,johnny-langan-1
+Line Latu,2019-10-12,6,Eastern Michigan,,Ball State,L,0,1,0.0,0,0,0,0.0,line-latu-1
+Trevor Lawrence,2019-10-12,6,Clemson,,Florida State,W,17,25,68.0,170,3,1,156.7,trevor-lawrence-1
+Brian Lewerke,2019-10-12,7,Michigan State,@,Wisconsin,L,7,16,43.8,53,0,1,59.1,brian-lewerke-1
+Rocky Lombardi,2019-10-12,7,Michigan State,@,Wisconsin,L,5,14,35.7,66,0,1,61.0,rocky-lombardi-1
+Josh Love,2019-10-12,6,San Jose State,@,Nevada,L,23,45,51.1,405,3,1,144.3,josh-love-1
+Grant Loy,2019-10-12,6,Bowling Green State,,Toledo,W,14,21,66.7,185,1,1,146.9,grant-loy-1
+Jake Luton,2019-10-12,6,Oregon State,,Utah,L,17,34,50.0,131,0,1,76.5,jake-luton-1
+Branden Mack,2019-10-12,6,Temple,,Memphis,W,1,1,100.0,7,0,0,158.8,branden-mack-1
+Brian Maurer,2019-10-12,6,Tennessee,,Mississippi State,W,4,7,57.1,61,0,2,73.2,brian-maurer-1
+Jordan McCloud,2019-10-12,6,South Florida,,Brigham Young,W,7,14,50.0,72,1,1,102.5,jordan-mccloud-1
+Cole McDonald,2019-10-12,6,Hawaii,@,Boise State,L,23,41,56.1,251,3,0,131.7,cole-mcdonald-1
+Justin McMillan,2019-10-12,6,Tulane,,Connecticut,W,18,24,75.0,231,2,0,183.4,justin-mcmillan-1
+Kellen Mond,2019-10-12,6,Texas A&M,,Alabama,L,24,42,57.1,264,2,0,125.7,kellen-mond-1
+James Morgan,2019-10-12,6,Florida International,,UNC Charlotte,W,13,16,81.3,160,2,0,206.5,james-morgan-1
+Tanner Morgan,2019-10-12,6,Minnesota,,Nebraska,W,8,13,61.5,128,1,0,169.6,tanner-morgan-2
+Lowell Narcisse,2019-10-12,6,Texas-San Antonio,,Alabama-Birmingham,L,8,19,42.1,94,0,0,83.7,lowell-narcisse-1
+Riley Neal,2019-10-12,6,Vanderbilt,,Nevada-Las Vegas,L,11,25,44.0,104,0,1,70.9,riley-neal-1
+Kato Nelson,2019-10-12,6,Akron,,Kent State,L,17,28,60.7,202,0,0,121.3,kato-nelson-1
+Jamie Newman,2019-10-12,6,Wake Forest,,Louisville,L,24,41,58.5,251,3,2,124.4,jamie-newman-1
+Asher O'Hara,2019-10-12,6,Middle Tennessee State,@,Florida Atlantic,L,24,42,57.1,335,1,3,117.7,asher-ohara-1
+Kenyon Oblad,2019-10-12,6,Nevada-Las Vegas,@,Vanderbilt,W,11,16,68.8,172,2,0,200.3,kenyon-oblad-1
+Shea Patterson,2019-10-12,6,Michigan,@,Illinois,W,11,22,50.0,194,3,0,169.1,shea-patterson-1
+Fred Payton,2019-10-12,6,Coastal Carolina,,Georgia State,L,10,17,58.8,99,0,0,107.7,fred-payton-1
+Michael Penix Jr.,2019-10-12,6,Indiana,,Rutgers,W,20,29,69.0,282,3,1,177.9,michael-penix-jr-1
+Lamical Perine,2019-10-12,7,Florida,@,Louisiana State,L,0,1,0.0,0,0,0,0.0,lamical-perine-1
+Malcolm Perry,2019-10-12,5,Navy,@,Tulsa,W,2,4,50.0,9,0,0,68.9,malcolm-perry-1
+Eli Peters,2019-10-12,6,Toledo,@,Bowling Green State,L,2,7,28.6,33,0,1,39.6,eli-peters-1
+Taisun Phommachanh,2019-10-12,6,Clemson,,Florida State,W,1,3,33.3,4,0,0,44.5,taisun-phommachanh-1
+Tyrell Pigrome,2019-10-12,6,Maryland,@,Purdue,L,21,39,53.8,218,0,2,90.5,tyrell-pigrome-1
+Drew Plitt,2019-10-12,6,Ball State,@,Eastern Michigan,W,23,32,71.9,255,2,0,159.4,drew-plitt-1
+John Rhys Plumlee,2019-10-12,7,Mississippi,@,Missouri,L,8,17,47.1,103,2,0,136.8,john-rhys-plumlee-1
+Jack Plummer,2019-10-12,6,Purdue,,Maryland,W,33,41,80.5,420,3,0,190.7,jack-plummer-1
+Brock Purdy,2019-10-12,6,Iowa State,@,West Virginia,W,19,30,63.3,229,1,1,131.8,brock-purdy-1
+Peyton Ramsey,2019-10-12,6,Indiana,,Rutgers,W,4,6,66.7,15,0,0,87.7,peyton-ramsey-1
+Jorge Reyna,2019-10-12,5,Fresno State,@,Air Force,L,20,27,74.1,209,2,1,156.1,jorge-reyna-1
+Chris Reynolds,2019-10-12,6,UNC Charlotte,@,Florida International,L,6,10,60.0,114,1,0,188.8,chris-reynolds-1
+Desmond Ridder,2019-10-12,6,Cincinnati,@,Houston,W,14,24,58.3,263,3,1,183.3,desmond-ridder-1
+Matt Robinson,2019-10-12,6,Illinois,,Michigan,L,16,25,64.0,192,1,0,141.7,matt-robinson-6
+Tayvion Robinson,2019-10-12,6,Virginia Tech,,Rhode Island,W,0,1,0.0,0,0,0,0.0,tayvion-robinson-1
+Chris Robison,2019-10-12,6,Florida Atlantic,,Middle Tennessee State,W,15,30,50.0,145,1,0,101.6,chris-robison-1
+Baylor Romney,2019-10-12,6,Brigham Young,@,South Florida,L,6,10,60.0,73,0,0,121.3,baylor-romney-1
+Asim Rose,2019-10-12,6,Kentucky,,Arkansas,W,1,1,100.0,10,0,0,184.0,asim-rose-1
+Nathan Rourke,2019-10-12,6,Ohio,,Northern Illinois,L,19,31,61.3,258,2,0,152.5,nathan-rourke-1
+Anthony Russo,2019-10-12,6,Temple,,Memphis,W,20,33,60.6,224,2,0,137.6,anthony-russo-3
+Jason Shelley,2019-10-12,6,Utah,@,Oregon State,W,0,1,0.0,0,0,0,0.0,jason-shelley-2
+Garrett Shrader,2019-10-12,6,Mississippi State,@,Tennessee,L,5,10,50.0,79,1,1,129.4,garrett-shrader-1
+Kedon Slovis,2019-10-12,6,Southern California,@,Notre Dame,L,24,35,68.6,255,2,0,148.6,kedon-slovis-1
+Stone Smartt,2019-10-12,6,Old Dominion,@,Marshall,L,1,2,50.0,23,0,0,146.6,stone-smartt-1
+Bryson Smith,2019-10-12,6,Houston,,Cincinnati,L,1,1,100.0,50,1,0,850.0,bryson-smith-1
+J'mar Smith,2019-10-12,6,Louisiana Tech,,Massachusetts,W,16,28,57.1,239,3,0,164.2,jmar-smith-1
+Zach Smith,2019-10-12,6,Tulsa,,Navy,L,23,49,46.9,254,1,0,97.2,zach-smith-6
+Nathan Stanley,2019-10-12,6,Iowa,,Penn State,L,25,43,58.1,286,1,1,117.0,nathan-stanley-2
+Nick Starkel,2019-10-12,6,Arkansas,@,Kentucky,L,7,19,36.8,41,0,0,55.0,nick-starkel-1
+Tommy Stevens,2019-10-12,6,Mississippi State,@,Tennessee,L,6,11,54.5,67,0,2,69.3,tommy-stevens-1
+Ty Storey,2019-10-12,6,Western Kentucky,,Army,W,21,30,70.0,140,0,0,109.2,ty-storey-1
+Tua Tagovailoa,2019-10-12,6,Alabama,@,Texas A&M,W,21,34,61.8,293,4,1,167.1,tua-tagovailoa-1
+Khalil Tate,2019-10-12,6,Arizona,,Washington,L,13,25,52.0,184,1,1,119.0,khalil-tate-1
+Kyle Trask,2019-10-12,7,Florida,@,Louisiana State,L,23,39,59.0,310,3,1,146.0,kyle-trask-1
+Nick Tronti,2019-10-12,6,Florida Atlantic,,Middle Tennessee State,W,1,1,100.0,16,0,0,234.4,nick-tronti-1
+Clayton Tune,2019-10-12,6,Houston,,Cincinnati,L,9,27,33.3,184,2,3,92.8,clayton-tune-1
+Noah Vedral,2019-10-12,7,Nebraska,@,Minnesota,L,14,23,60.9,135,0,0,110.2,noah-vedral-1
+Deuce Wallace,2019-10-12,6,Vanderbilt,,Nevada-Las Vegas,L,5,16,31.3,36,0,0,50.2,deuce-wallace-2
+Jon Wassink,2019-10-12,7,Western Michigan,,Miami (OH),W,15,25,60.0,137,2,1,124.4,jon-wassink-1
+Randall West,2019-10-12,7,Massachusetts,@,Louisiana Tech,L,17,29,58.6,172,1,1,112.9,randall-west-1
+Brady White,2019-10-12,6,Memphis,@,Temple,L,28,43,65.1,363,2,1,146.7,brady-white-1
+CJ Williams,2019-10-12,5,Navy,@,Tulsa,W,1,1,100.0,26,0,0,318.4,cj-williams-2
+Isaiah Williams,2019-10-12,6,Illinois,,Michigan,L,0,4,0.0,0,0,0,0.0,isaiah-williams-7
+Jackson Williamson,2019-10-12,6,Miami (OH),@,Western Michigan,L,0,1,0.0,0,0,0,0.0,jackson-williamson-1
+Jack Zergiotis,2019-10-12,6,Connecticut,@,Tulane,L,4,7,57.1,33,1,0,143.9,jack-zergiotis-1
+Kaleb Barker,2019-10-16,6,Troy,,South Alabama,W,20,30,66.7,194,2,2,129.7,kaleb-barker-1
+Cephus Johnson,2019-10-16,7,South Alabama,@,Troy,L,20,38,52.6,183,0,2,82.6,cephus-johnson-2
+Khalil McClain,2019-10-16,6,Troy,,South Alabama,W,1,1,100.0,18,0,0,251.2,khalil-mcclain-1
+Layne Hatcher,2019-10-17,7,Arkansas State,,Louisiana,L,23,34,67.6,303,2,1,156.0,layne-hatcher-1
+Levi Lewis,2019-10-17,7,Louisiana,@,Arkansas State,W,17,24,70.8,181,0,1,125.9,levi-lewis-1
+Dorian Thompson-Robinson,2019-10-17,7,UCLA,@,Stanford,W,21,34,61.8,192,2,1,122.7,dorian-thompson-robinson-1
+Jack West,2019-10-17,7,Stanford,,UCLA,L,15,32,46.9,143,0,0,84.4,jack-west-4
+Chris Chugunov,2019-10-18,7,Ohio State,@,Northwestern,W,1,2,50.0,7,1,0,244.4,chris-chugunov-1
+Rex Culpepper,2019-10-18,7,Syracuse,,Pittsburgh,L,0,1,0.0,0,0,0,0.0,rex-culpepper-1
+Tommy Devito,2019-10-18,7,Syracuse,,Pittsburgh,L,11,23,47.8,101,0,0,84.7,tommy-devito-1
+Justin Fields,2019-10-18,7,Ohio State,@,Northwestern,W,18,23,78.3,194,4,0,206.5,justin-fields-2
+Isaiah Green,2019-10-18,7,Marshall,@,Florida Atlantic,W,15,24,62.5,206,2,1,153.8,isaiah-green-2
+Andrew Marty,2019-10-18,6,Northwestern,,Ohio State,L,0,1,0.0,0,0,1,-200.0,andrew-marty-1
+Kenyon Oblad,2019-10-18,7,Nevada-Las Vegas,@,Fresno State,L,16,34,47.1,257,3,3,122.0,kenyon-oblad-1
+Kenny Pickett,2019-10-18,7,Pittsburgh,@,Syracuse,W,18,33,54.5,232,2,0,133.6,kenny-pickett-1
+Jorge Reyna,2019-10-18,6,Fresno State,,Nevada-Las Vegas,W,16,23,69.6,229,1,0,167.5,jorge-reyna-1
+Chris Robison,2019-10-18,7,Florida Atlantic,,Marshall,L,21,39,53.8,362,0,1,126.7,chris-robison-1
+Aiden Smith,2019-10-18,6,Northwestern,,Ohio State,L,6,20,30.0,42,0,1,37.6,aiden-smith-1
+Clayton Welch,2019-10-18,7,Syracuse,,Pittsburgh,L,8,20,40.0,176,2,0,146.9,clayton-welch-1
+Jack Abraham,2019-10-19,7,Southern Mississippi,@,Louisiana Tech,L,26,40,65.0,327,1,4,121.9,jack-abraham-1
+Connor Adair,2019-10-19,7,Memphis,,Tulane,W,0,1,0.0,0,0,0,0.0,connor-adair-1
+Ryan Agnew,2019-10-19,7,San Diego State,@,San Jose State,W,13,20,65.0,88,0,0,102.0,ryan-agnew-1
+Holton Ahlers,2019-10-19,7,East Carolina,@,Central Florida,L,23,37,62.2,313,1,1,136.7,holton-ahlers-1
+Josh Ali,2019-10-19,7,Kentucky,@,Georgia,L,0,1,0.0,0,0,0,0.0,josh-ali-1
+James Blackman,2019-10-19,7,Florida State,@,Wake Forest,L,27,43,62.8,280,2,1,128.2,james-blackman-1
+Slade Bolden,2019-10-19,7,Alabama,,Tennessee,W,1,1,100.0,6,1,0,480.4,slade-bolden-1
+Lynn Bowden Jr.,2019-10-19,7,Kentucky,@,Georgia,L,2,15,13.3,17,0,0,22.9,lynn-bowden-jr-1
+Ross Bowers,2019-10-19,7,Northern Illinois,@,Miami (OH),L,7,12,58.3,91,0,0,122.0,ross-bowers-1
+Carter Bradley,2019-10-19,7,Toledo,@,Ball State,L,14,34,41.2,137,0,1,69.1,carter-bradley-1
+Spencer Brasch,2019-10-19,7,California,,Oregon State,L,2,6,33.3,24,0,1,33.6,spencer-brasch-1
+Myles Brennan,2019-10-19,7,Louisiana State,@,Mississippi State,W,0,3,0.0,0,0,0,0.0,myles-brennan-1
+Charlie Brewer,2019-10-19,7,Baylor,@,Oklahoma State,W,13,17,76.5,312,1,0,250.0,charlie-brewer-1
+Chase Brice,2019-10-19,7,Clemson,@,Louisville,W,2,3,66.7,20,0,0,122.7,chase-brice-1
+Dru Brown,2019-10-19,7,Oklahoma State,,Baylor,L,3,3,100.0,11,0,0,130.8,dru-brown-1
+Landon Brown,2019-10-19,7,Liberty,,Maine,W,0,1,0.0,0,0,1,-200.0,landon-brown-1
+Kelly Bryant,2019-10-19,7,Missouri,@,Vanderbilt,L,13,26,50.0,140,1,1,100.2,kelly-bryant-1
+Shane Buechele,2019-10-19,7,Southern Methodist,,Temple,W,30,53,56.6,457,6,1,162.6,shane-buechele-1
+Joe Burrow,2019-10-19,7,Louisiana State,@,Mississippi State,W,25,32,78.1,327,4,0,205.2,joe-burrow-1
+Stephen Calvert,2019-10-19,7,Liberty,,Maine,W,23,35,65.7,351,5,0,197.1,stephen-calvert-1
+Bryce Carpenter,2019-10-19,7,Coastal Carolina,@,Georgia Southern,L,11,14,78.6,96,1,0,159.7,bryce-carpenter-1
+Todd Centeio,2019-10-19,7,Temple,@,Southern Methodist,L,3,4,75.0,33,0,0,144.3,todd-centeio-1
+Sean Chambers,2019-10-19,7,Wyoming,,New Mexico,W,9,15,60.0,86,1,0,130.2,sean-chambers-1
+Marcus Childers,2019-10-19,7,Northern Illinois,@,Miami (OH),L,14,23,60.9,144,1,0,127.8,marcus-childers-1
+Sean Clifford,2019-10-19,7,Penn State,,Michigan,W,14,25,56.0,182,3,0,156.8,sean-clifford-1
+Jack Coan,2019-10-19,7,Wisconsin,@,Illinois,L,24,32,75.0,264,1,1,148.4,jack-coan-1
+Henry Colombi,2019-10-19,6,Utah State,,Nevada,W,2,2,100.0,5,0,0,121.0,henry-colombi-1
+Evan Conley,2019-10-19,7,Louisville,,Clemson,L,4,11,36.4,44,0,1,51.8,evan-conley-1
+Chase Cord,2019-10-19,7,Boise State,@,Brigham Young,L,18,31,58.1,185,2,2,116.6,chase-cord-1
+Chevan Cordeiro,2019-10-19,7,Hawaii,,Air Force,L,0,1,0.0,0,0,0,0.0,chevan-cordeiro-1
+Matt Corral,2019-10-19,8,Mississippi,,Texas A&M,L,10,17,58.8,124,0,1,108.3,matt-corral-1
+Dustin Crum,2019-10-19,7,Kent State,@,Ohio,L,24,35,68.6,262,4,0,169.2,dustin-crum-1
+Chase Cunningham,2019-10-19,7,Middle Tennessee State,@,North Texas,L,9,16,56.3,119,1,1,126.9,chase-cunningham-1
+Malik Cunningham,2019-10-19,7,Louisville,,Clemson,L,4,11,36.4,63,0,1,66.3,malik-cunningham-1
+Jayden Daniels,2019-10-19,7,Arizona State,@,Utah,L,4,18,22.2,25,0,1,22.8,jayden-daniels-1
+Alex Delton,2019-10-19,6,Texas Christian,@,Kansas State,L,2,2,100.0,6,0,0,125.2,alex-delton-1
+Messiah deWeaver,2019-10-19,7,Old Dominion,@,Alabama-Birmingham,L,6,24,25.0,82,0,1,45.4,messiah-deweaver-1
+Quinten Dormady,2019-10-19,8,Central Michigan,@,Bowling Green State,W,22,36,61.1,295,1,1,133.6,quinten-dormady-1
+Jett Duffey,2019-10-19,7,Texas Tech,,Iowa State,L,40,52,76.9,239,1,0,121.9,jett-duffey-1
+Max Duggan,2019-10-19,6,Texas Christian,@,Kansas State,L,16,29,55.2,132,0,0,93.4,max-duggan-1
+Jacob Eason,2019-10-19,8,Washington,,Oregon,L,23,30,76.7,289,3,0,190.6,jacob-eason-1
+Sam Ehlinger,2019-10-19,7,Texas,,Kansas,W,31,44,70.5,399,4,1,172.1,sam-ehlinger-1
+Dan Ellington,2019-10-19,7,Georgia State,,Army,W,20,28,71.4,232,3,0,176.4,dan-ellington-1
+Caleb Evans,2019-10-19,7,Louisiana-Monroe,@,Appalachian State,L,9,19,47.4,75,0,1,70.0,caleb-evans-2
+Mason Fine,2019-10-19,7,North Texas,,Middle Tennessee State,W,33,45,73.3,375,1,2,141.8,mason-fine-1
+Matt Fink,2019-10-19,7,Southern California,,Arizona,W,2,2,100.0,15,0,0,163.0,matt-fink-1
+DeQuan Finn,2019-10-19,7,Toledo,@,Ball State,L,2,4,50.0,34,0,0,121.4,dequan-finn-1
+Jake Fromm,2019-10-19,7,Georgia,,Kentucky,W,9,12,75.0,35,0,0,99.5,jake-fromm-1
+Brett Gabbert,2019-10-19,7,Miami (OH),,Northern Illinois,W,15,28,53.6,273,1,0,147.3,brett-gabbert-1
+Dillon Gabriel,2019-10-19,7,Central Florida,,East Carolina,W,22,35,62.9,365,2,0,169.3,dillon-gabriel-1
+Joey Gatewood,2019-10-19,7,Auburn,@,Arkansas,W,1,2,50.0,17,1,0,286.4,joey-gatewood-1
+Zach Gibson,2019-10-19,7,Akron,,Buffalo,L,22,39,56.4,193,0,1,92.9,zach-gibson-1
+Anthony Gordon,2019-10-19,7,Washington State,,Colorado,W,35,51,68.6,369,4,1,151.4,anthony-gordon-2
+James Graham,2019-10-19,7,Georgia Tech,@,Miami (FL),W,9,18,50.0,97,1,0,113.6,james-graham-1
+Derek Green,2019-10-19,7,Southern Methodist,,Temple,W,0,1,0.0,0,0,0,0.0,derek-green-2
+Wiley Green,2019-10-19,7,Rice,@,Texas-San Antonio,L,11,18,61.1,135,1,1,131.3,wiley-green-1
+Jairus Grissom,2019-10-19,7,Eastern Michigan,,Western Michigan,W,4,5,80.0,50,0,0,164.0,jairus-grissom-1
+Dennis Grosel,2019-10-19,7,Boston College,,North Carolina State,W,6,15,40.0,103,0,0,97.7,dennis-grosel-1
+Josh Growden,2019-10-19,7,West Virginia,@,Oklahoma,L,1,1,100.0,7,0,0,158.8,josh-growden-1
+Jarrett Guarantano,2019-10-19,7,Tennessee,@,Alabama,L,7,16,43.8,55,0,0,72.6,jarrett-guarantano-1
+Grant Gunnell,2019-10-19,7,Arizona,@,Southern California,L,16,26,61.5,196,2,1,142.6,grant-gunnell-1
+Donald Hammond III,2019-10-19,7,Air Force,@,Hawaii,W,1,1,100.0,22,0,0,284.8,donald-hammond-iii-1
+Quentin Harris,2019-10-19,7,Duke,@,Virginia,L,13,26,50.0,88,1,2,75.7,quentin-harris-2
+Sam Hartman,2019-10-19,7,Wake Forest,,Florida State,W,21,38,55.3,308,0,0,123.3,sam-hartman-1
+Pressley Harvin III,2019-10-19,7,Georgia Tech,@,Miami (FL),W,1,1,100.0,41,1,0,774.4,pressley-harvin-iii-1
+Mo Hasan,2019-10-19,7,Vanderbilt,,Missouri,W,7,11,63.6,120,1,0,185.3,mo-hasan-1
+Jaylon Henderson,2019-10-19,7,Boise State,@,Brigham Young,L,0,1,0.0,0,0,0,0.0,jaylon-henderson-2
+Malik Henry,2019-10-19,7,Nevada,@,Utah State,L,17,38,44.7,213,0,2,81.3,malik-henry-3
+Justin Herbert,2019-10-19,7,Oregon,@,Washington,W,24,38,63.2,280,4,0,159.8,justin-herbert-1
+Ben Hicks,2019-10-19,7,Arkansas,,Auburn,L,19,39,48.7,182,1,1,91.3,ben-hicks-1
+Ryan Hilinski,2019-10-19,7,South Carolina,,Florida,L,17,35,48.6,170,1,0,98.8,ryan-hilinski-1
+Bailey Hockman,2019-10-19,7,North Carolina State,@,Boston College,L,4,10,40.0,27,0,1,42.7,bailey-hockman-1
+Logan Holgorsen,2019-10-19,7,Houston,@,Connecticut,W,7,15,46.7,123,1,0,137.5,logan-holgorsen-1
+Hendon Hooker,2019-10-19,7,Virginia Tech,,North Carolina,W,8,12,66.7,127,1,0,183.1,hendon-hooker-1
+Kelvin Hopkins Jr,2019-10-19,7,Army,@,Georgia State,L,6,10,60.0,65,0,1,94.6,kelvin-hopkins-jr-1
+Keon Howard,2019-10-19,7,Tulane,@,Memphis,L,0,1,0.0,0,0,0,0.0,keon-howard-1
+Sam Howell,2019-10-19,7,North Carolina,@,Virginia Tech,L,26,49,53.1,348,5,0,146.4,sam-howell-1
+Jacob Huesman,2019-10-19,6,Appalachian State,,Louisiana-Monroe,W,1,2,50.0,56,1,0,450.2,jacob-huesman-1
+Tyler Huntley,2019-10-19,7,Utah,,Arizona State,W,12,19,63.2,171,0,1,128.2,tyler-huntley-1
+Jalen Hurts,2019-10-19,7,Oklahoma,,West Virginia,W,16,17,94.1,316,3,0,308.5,jalen-hurts-1
+Preston Hutchinson,2019-10-19,7,Eastern Michigan,,Western Michigan,W,31,36,86.1,357,3,0,196.9,preston-hutchinson-1
+Tom Hutton,2019-10-19,7,Oklahoma State,,Baylor,L,1,1,100.0,20,0,0,268.0,tom-hutton-2
+Lucky Jackson,2019-10-19,7,Western Kentucky,,UNC Charlotte,W,1,1,100.0,8,1,0,497.2,lucky-jackson-1
+Tyler Johnston III,2019-10-19,7,Alabama-Birmingham,,Old Dominion,W,15,29,51.7,260,2,1,142.9,tyler-johnston-iii-1
+Jamarye Joiner,2019-10-19,7,Arizona,@,Southern California,L,0,1,0.0,0,0,0,0.0,jamarye-joiner-1
+Brandon Jones,2019-10-19,6,Texas-El Paso,@,Florida International,L,5,9,55.6,34,0,1,65.1,brandon-jones-16
+Mac Jones,2019-10-19,7,Alabama,,Tennessee,W,6,11,54.5,72,0,0,109.5,mac-jones-1
+Sheriron Jones,2019-10-19,7,New Mexico,@,Wyoming,L,9,17,52.9,143,0,0,123.6,sheriron-jones-1
+Chris Katrenick,2019-10-19,7,Duke,@,Virginia,L,2,4,50.0,30,1,0,195.5,chris-katrenick-1
+Austin Kendall,2019-10-19,7,West Virginia,@,Oklahoma,L,15,31,48.4,182,2,0,119.0,austin-kendall-1
+Johnny Langan,2019-10-19,7,Rutgers,,Minnesota,L,9,19,47.4,48,0,3,37.0,johnny-langan-1
+Trevor Lawrence,2019-10-19,7,Clemson,@,Louisville,W,20,29,69.0,233,3,2,156.8,trevor-lawrence-1
+Tommy Lazzaro,2019-10-19,8,Central Michigan,@,Bowling Green State,W,1,1,100.0,4,0,0,133.6,tommy-lazzaro-1
+Devin Leary,2019-10-19,7,North Carolina State,@,Boston College,L,15,33,45.5,259,3,0,141.4,devin-leary-1
+Drew Lisk,2019-10-19,7,Utah,,Arizona State,W,1,3,33.3,14,0,0,72.5,drew-lisk-1
+Kai Locksley,2019-10-19,6,Texas-El Paso,@,Florida International,L,7,12,58.3,117,1,0,167.7,kai-locksley-1
+Jordan Love,2019-10-19,6,Utah State,,Nevada,W,13,31,41.9,169,1,1,91.9,jordan-love-2
+Josh Love,2019-10-19,7,San Jose State,,San Diego State,L,19,36,52.8,218,2,1,116.4,josh-love-1
+Trey Lowe III,2019-10-19,7,West Virginia,@,Oklahoma,L,2,2,100.0,2,0,0,108.4,trey-lowe-iii-1
+Grant Loy,2019-10-19,7,Bowling Green State,,Central Michigan,L,13,29,44.8,166,1,3,83.6,grant-loy-1
+Sam Loy,2019-10-19,7,Arkansas,,Auburn,L,0,1,0.0,0,0,1,-200.0,sam-loy-1
+Jake Luton,2019-10-19,7,Oregon State,@,California,W,18,34,52.9,174,2,0,115.3,jake-luton-1
+Tyler Lytle,2019-10-19,7,Colorado,@,Washington State,L,0,1,0.0,0,0,0,0.0,tyler-lytle-1
+Darriel Mack Jr.,2019-10-19,7,Central Florida,,East Carolina,W,2,4,50.0,49,1,0,235.4,darriel-mack-jr-1
+Brian Maurer,2019-10-19,7,Tennessee,@,Alabama,L,5,7,71.4,62,0,1,117.3,brian-maurer-1
+Jordan McCloud,2019-10-19,7,South Florida,@,Navy,L,11,23,47.8,50,0,1,57.4,jordan-mccloud-1
+Cole McDonald,2019-10-19,7,Hawaii,,Air Force,L,34,52,65.4,404,3,1,145.8,cole-mcdonald-1
+Justin McMillan,2019-10-19,7,Tulane,@,Memphis,L,15,28,53.6,187,1,3,100.0,justin-mcmillan-1
+Devon Modster,2019-10-19,7,California,,Oregon State,L,12,27,44.4,151,1,0,103.6,devon-modster-1
+Kellen Mond,2019-10-19,7,Texas A&M,@,Mississippi,W,16,28,57.1,172,1,2,106.2,kellen-mond-1
+Steven Montez,2019-10-19,7,Colorado,@,Washington State,L,16,30,53.3,129,0,2,76.1,steven-montez-1
+Tanner Mordecai,2019-10-19,7,Oklahoma,,West Virginia,W,2,4,50.0,47,0,0,148.7,tanner-mordecai-1
+James Morgan,2019-10-19,7,Florida International,,Texas-El Paso,W,9,17,52.9,150,1,0,146.5,james-morgan-1
+Tanner Morgan,2019-10-19,7,Minnesota,@,Rutgers,W,15,28,53.6,245,2,0,150.6,tanner-morgan-2
+Lowell Narcisse,2019-10-19,7,Texas-San Antonio,,Rice,W,19,29,65.5,212,2,1,142.8,lowell-narcisse-1
+Riley Neal,2019-10-19,7,Vanderbilt,,Missouri,W,3,8,37.5,45,1,1,101.0,riley-neal-1
+Bo Nix,2019-10-19,7,Auburn,@,Arkansas,W,12,17,70.6,176,3,0,215.8,bo-nix-1
+Asher O'Hara,2019-10-19,7,Middle Tennessee State,@,North Texas,L,16,32,50.0,136,0,0,85.7,asher-ohara-1
+Quincy Patterson,2019-10-19,7,Virginia Tech,,North Carolina,W,3,6,50.0,54,1,0,180.6,quincy-patterson-1
+Shea Patterson,2019-10-19,7,Michigan,@,Penn State,L,24,41,58.5,276,0,1,110.2,shea-patterson-1
+Michael Penix Jr.,2019-10-19,7,Indiana,@,Maryland,W,9,14,64.3,141,1,1,158.2,michael-penix-jr-1
+Bryce Perkins,2019-10-19,7,Virginia,,Duke,W,13,26,50.0,141,0,1,87.9,bryce-perkins-1
+Malcolm Perry,2019-10-19,6,Navy,,South Florida,W,0,3,0.0,0,0,2,-133.3,malcolm-perry-1
+N'Kosi Perry,2019-10-19,7,Miami (FL),,Georgia Tech,L,16,28,57.1,188,2,0,137.1,nkosi-perry-1
+Brandon Peters,2019-10-19,7,Illinois,,Wisconsin,W,9,21,42.9,174,2,0,143.9,brandon-peters-1
+Tyrell Pigrome,2019-10-19,7,Maryland,,Indiana,L,17,27,63.0,210,2,1,145.3,tyrell-pigrome-1
+Drew Plitt,2019-10-19,7,Ball State,,Toledo,W,11,17,64.7,206,3,1,213.0,drew-plitt-1
+John Rhys Plumlee,2019-10-19,8,Mississippi,,Texas A&M,L,4,12,33.3,31,0,0,55.0,john-rhys-plumlee-1
+Jack Plummer,2019-10-19,7,Purdue,@,Iowa,L,30,50,60.0,327,2,1,124.1,jack-plummer-1
+Zach Potter,2019-10-19,7,Army,@,Georgia State,L,0,1,0.0,0,0,0,0.0,zach-potter-2
+Brock Purdy,2019-10-19,7,Iowa State,@,Texas Tech,W,23,32,71.9,378,3,1,195.8,brock-purdy-1
+Peyton Ramsey,2019-10-19,7,Indiana,@,Maryland,W,20,27,74.1,193,1,0,146.3,peyton-ramsey-1
+Chris Reynolds,2019-10-19,7,UNC Charlotte,@,Western Kentucky,L,15,29,51.7,200,1,1,114.1,chris-reynolds-1
+Desmond Ridder,2019-10-19,7,Cincinnati,,Tulsa,W,12,22,54.5,172,1,0,135.2,desmond-ridder-1
+Baylor Romney,2019-10-19,7,Brigham Young,,Boise State,W,15,26,57.7,221,2,0,154.5,baylor-romney-1
+Nathan Rourke,2019-10-19,7,Ohio,,Kent State,W,19,28,67.9,342,2,0,194.0,nathan-rourke-1
+Anthony Russo,2019-10-19,7,Temple,@,Southern Methodist,L,18,32,56.3,171,1,0,111.5,anthony-russo-3
+Kirk Rygol,2019-10-19,7,South Florida,@,Navy,L,4,7,57.1,64,0,0,133.9,kirk-rygol-1
+Spencer Sanders,2019-10-19,7,Oklahoma State,,Baylor,L,18,32,56.3,157,1,1,101.5,spencer-sanders-1
+Mike Schmidt,2019-10-19,7,Air Force,@,Hawaii,W,5,6,83.3,147,1,0,344.1,mike-schmidt-2
+Jason Shelley,2019-10-19,7,Utah,,Arizona State,W,1,2,50.0,6,0,0,75.2,jason-shelley-2
+Garrett Shrader,2019-10-19,7,Mississippi State,,Louisiana State,L,17,28,60.7,238,1,2,129.6,garrett-shrader-1
+JT Shrout,2019-10-19,7,Tennessee,@,Alabama,L,0,1,0.0,0,0,0,0.0,jt-shrout-1
+Kedon Slovis,2019-10-19,7,Southern California,,Arizona,W,19,28,67.9,232,2,0,161.0,kedon-slovis-1
+Stone Smartt,2019-10-19,7,Old Dominion,@,Alabama-Birmingham,L,1,1,100.0,13,0,0,209.2,stone-smartt-1
+Bryson Smith,2019-10-19,7,Houston,@,Connecticut,W,2,3,66.7,55,0,0,220.7,bryson-smith-1
+J'mar Smith,2019-10-19,7,Louisiana Tech,,Southern Mississippi,W,14,21,66.7,325,1,1,202.9,jmar-smith-1
+Zach Smith,2019-10-19,7,Tulsa,@,Cincinnati,L,21,43,48.8,243,0,2,87.0,zach-smith-6
+Carter Stanley,2019-10-19,7,Kansas,@,Texas,L,27,47,57.4,310,4,0,140.9,carter-stanley-1
+Nathan Stanley,2019-10-19,7,Iowa,,Purdue,W,23,33,69.7,260,0,1,129.8,nathan-stanley-2
+Blake Stenstrom,2019-10-19,7,Colorado,@,Washington State,L,1,3,33.3,12,0,1,0.3,blake-stenstrom-1
+Tom Stewart,2019-10-19,7,Rice,@,Texas-San Antonio,L,9,11,81.8,88,1,0,179.0,tom-stewart-1
+Lindell Stone,2019-10-19,7,Virginia,,Duke,W,1,2,50.0,12,0,1,0.4,lindell-stone-1
+Ty Storey,2019-10-19,7,Western Kentucky,,UNC Charlotte,W,21,30,70.0,283,2,0,171.2,ty-storey-1
+Colby Suits,2019-10-19,7,Louisiana-Monroe,@,Appalachian State,L,2,8,25.0,27,0,1,28.4,colby-suits-1
+Tua Tagovailoa,2019-10-19,7,Alabama,,Tennessee,W,11,12,91.7,155,0,1,183.5,tua-tagovailoa-1
+Khalil Tate,2019-10-19,7,Arizona,@,Southern California,L,6,10,60.0,47,0,0,99.5,khalil-tate-1
+Thayer Thomas,2019-10-19,7,North Carolina State,@,Boston College,L,1,1,100.0,24,0,0,301.6,thayer-thomas-1
+Zac Thomas,2019-10-19,6,Appalachian State,,Louisiana-Monroe,W,18,30,60.0,214,3,1,146.3,zac-thomas-2
+Skylar Thompson,2019-10-19,6,Kansas State,,Texas Christian,W,11,23,47.8,172,2,0,139.3,skylar-thompson-1
+Kyle Trask,2019-10-19,8,Florida,@,South Carolina,W,21,33,63.6,200,4,1,148.5,kyle-trask-1
+Tevaka Tuioti,2019-10-19,7,New Mexico,@,Wyoming,L,5,10,50.0,60,1,0,133.4,tevaka-tuioti-1
+Kyle Vantrease,2019-10-19,7,Buffalo,@,Akron,W,14,23,60.9,65,0,0,84.6,kyle-vantrease-1
+Jon Wassink,2019-10-19,8,Western Michigan,@,Eastern Michigan,L,15,24,62.5,192,1,1,135.1,jon-wassink-1
+Shai Werts,2019-10-19,6,Georgia Southern,,Coastal Carolina,W,4,8,50.0,61,2,0,196.6,shai-werts-1
+Brady White,2019-10-19,7,Memphis,,Tulane,W,21,29,72.4,358,5,0,233.0,brady-white-1
+CJ Williams,2019-10-19,6,Navy,,South Florida,W,1,1,100.0,23,1,0,623.2,cj-williams-2
+Jarren Williams,2019-10-19,7,Miami (FL),,Georgia Tech,L,1,3,33.3,12,0,0,66.9,jarren-williams-1
+Marlon Williams,2019-10-19,7,Central Florida,,East Carolina,W,0,1,0.0,0,0,0,0.0,marlon-williams-5
+Steven Williams,2019-10-19,7,Old Dominion,@,Alabama-Birmingham,L,1,1,100.0,16,0,0,234.4,steven-williams-2
+Ryan Willis,2019-10-19,7,Virginia Tech,,North Carolina,W,3,3,100.0,55,1,0,364.0,ryan-willis-2
+Jack Zergiotis,2019-10-19,7,Connecticut,,Houston,L,27,44,61.4,270,2,1,123.4,jack-zergiotis-1
+Shane Buechele,2019-10-24,8,Southern Methodist,@,Houston,W,20,38,52.6,203,2,1,109.6,shane-buechele-1
+Clayton Tune,2019-10-24,8,Houston,,Southern Methodist,L,18,35,51.4,407,2,1,162.3,clayton-tune-1
+Steven Montez,2019-10-25,8,Colorado,,Southern California,L,27,43,62.8,324,3,0,149.1,steven-montez-1
+Kedon Slovis,2019-10-25,8,Southern California,@,Colorado,W,30,44,68.2,406,4,1,171.1,kedon-slovis-1
+Jack Abraham,2019-10-26,8,Southern Mississippi,@,Rice,W,23,36,63.9,207,0,1,106.6,jack-abraham-1
+Josh Adkins,2019-10-26,8,New Mexico State,@,Georgia Southern,L,13,23,56.5,59,0,2,60.7,josh-adkins-1
+Ryan Agnew,2019-10-26,8,San Diego State,@,Nevada-Las Vegas,W,14,23,60.9,185,1,1,134.1,ryan-agnew-1
+Holton Ahlers,2019-10-26,8,East Carolina,,South Florida,L,18,28,64.3,217,0,1,122.2,holton-ahlers-1
+Cam Akers,2019-10-26,8,Florida State,,Syracuse,W,2,3,66.7,26,0,0,139.5,cam-akers-1
+Maurice Alexander,2019-10-26,8,Florida International,@,Middle Tennessee State,L,1,1,100.0,22,0,0,284.8,maurice-alexander-2
+Aaron Allen,2019-10-26,8,Louisiana Tech,@,Texas-El Paso,W,0,1,0.0,0,0,1,-200.0,aaron-allen-1
+Griffin Alstott,2019-10-26,9,Western Michigan,,Bowling Green State,W,0,1,0.0,0,0,0,0.0,griffin-alstott-1
+Christian Anderson,2019-10-26,8,Army,,San Jose State,L,3,8,37.5,22,0,0,60.6,christian-anderson-2
+Brennan Armstrong,2019-10-26,8,Virginia,@,Louisville,L,0,1,0.0,0,0,0,0.0,brennan-armstrong-1
+Kaleb Barker,2019-10-26,7,Troy,@,Georgia State,L,34,45,75.6,421,2,0,168.8,kaleb-barker-1
+Adam Barry,2019-10-26,8,Temple,,Central Florida,L,1,1,100.0,0,0,0,100.0,adam-barry-1
+Nick Basquine,2019-10-26,8,Oklahoma,@,Kansas State,L,0,1,0.0,0,0,1,-200.0,nick-basquine-1
+Ben Batson,2019-10-26,8,Clemson,,Boston College,W,1,1,100.0,0,0,0,100.0,ben-batson-1
+James Blackman,2019-10-26,8,Florida State,,Syracuse,W,2,3,66.7,24,0,0,133.9,james-blackman-1
+Ian Book,2019-10-26,7,Notre Dame,@,Michigan,L,8,25,32.0,73,1,0,69.7,ian-book-1
+Lynn Bowden Jr.,2019-10-26,8,Kentucky,,Missouri,W,3,7,42.9,54,0,0,107.7,lynn-bowden-jr-1
+Spencer Brasch,2019-10-26,8,California,@,Utah,L,7,19,36.8,47,0,0,57.6,spencer-brasch-1
+Chase Brice,2019-10-26,8,Clemson,,Boston College,W,8,16,50.0,97,1,0,121.6,chase-brice-1
+Andrew Brito,2019-10-26,8,Massachusetts,,Connecticut,L,20,40,50.0,239,2,1,111.7,andrew-brito-1
+Kelly Bryant,2019-10-26,8,Missouri,@,Kentucky,L,10,19,52.6,130,1,0,127.5,kelly-bryant-1
+Joe Burrow,2019-10-26,8,Louisiana State,,Auburn,W,32,42,76.2,321,1,1,143.5,joe-burrow-1
+Stephen Calvert,2019-10-26,8,Liberty,@,Rutgers,L,17,31,54.8,244,1,0,131.6,stephen-calvert-1
+Todd Centeio,2019-10-26,8,Temple,,Central Florida,L,3,6,50.0,22,0,0,80.8,todd-centeio-1
+Sean Chambers,2019-10-26,8,Wyoming,,Nevada,W,6,9,66.7,158,2,1,265.2,sean-chambers-1
+Marcus Childers,2019-10-26,8,Northern Illinois,,Akron,W,7,9,77.8,71,3,0,254.0,marcus-childers-1
+Jacob Clark,2019-10-26,8,Minnesota,,Maryland,W,1,1,100.0,39,0,0,427.6,jacob-clark-3
+Sean Clifford,2019-10-26,8,Penn State,@,Michigan State,W,18,32,56.3,189,4,1,140.9,sean-clifford-1
+Jack Coan,2019-10-26,8,Wisconsin,@,Ohio State,L,10,17,58.8,108,1,0,131.6,jack-coan-1
+Evan Conley,2019-10-26,8,Louisville,,Virginia,W,2,4,50.0,7,0,0,64.7,evan-conley-1
+Chevan Cordeiro,2019-10-26,8,Hawaii,@,New Mexico,W,4,8,50.0,86,1,0,181.6,chevan-cordeiro-1
+K.J. Costello,2019-10-26,8,Stanford,,Arizona,W,30,43,69.8,312,3,0,153.7,kj-costello-1
+Dustin Crum,2019-10-26,8,Kent State,,Miami (OH),L,23,44,52.3,209,0,1,87.6,dustin-crum-1
+Malik Cunningham,2019-10-26,8,Louisville,,Virginia,W,6,10,60.0,126,1,0,198.8,malik-cunningham-1
+Jayden Daniels,2019-10-26,8,Arizona State,@,UCLA,L,20,29,69.0,267,3,0,180.4,jayden-daniels-1
+Theo Day,2019-10-26,8,Michigan State,,Penn State,L,2,3,66.7,12,0,0,100.3,theo-day-1
+T.J. Deshields,2019-10-26,8,Akron,@,Northern Illinois,L,2,4,50.0,11,0,0,73.1,tj-deshields-1
+Tyler Desue,2019-10-26,8,Maryland,@,Minnesota,L,4,12,33.3,88,1,0,122.4,tyler-desue-1
+Tommy Devito,2019-10-26,8,Syracuse,@,Florida State,L,20,33,60.6,151,0,0,99.0,tommy-devito-1
+Messiah deWeaver,2019-10-26,8,Old Dominion,,Florida Atlantic,L,15,29,51.7,134,0,1,83.6,messiah-deweaver-1
+Quinten Dormady,2019-10-26,9,Central Michigan,@,Buffalo,L,25,37,67.6,272,2,2,136.3,quinten-dormady-1
+Jett Duffey,2019-10-26,8,Texas Tech,@,Kansas,L,23,34,67.6,271,3,0,163.7,jett-duffey-1
+Max Duggan,2019-10-26,7,Texas Christian,,Texas,W,19,27,70.4,273,2,1,172.3,max-duggan-1
+Sam Ehlinger,2019-10-26,8,Texas,@,Texas Christian,L,22,48,45.8,321,2,4,99.1,sam-ehlinger-1
+Dan Ellington,2019-10-26,8,Georgia State,,Troy,W,18,25,72.0,189,2,1,153.9,dan-ellington-1
+Jahquez Evans,2019-10-26,8,South Florida,@,East Carolina,W,1,1,100.0,2,0,0,116.8,jahquez-evans-1
+Justin Fields,2019-10-26,8,Ohio State,,Wisconsin,W,12,22,54.5,167,2,0,148.3,justin-fields-2
+Mason Fine,2019-10-26,8,North Texas,@,UNC Charlotte,L,26,38,68.4,394,5,0,198.9,mason-fine-1
+Brett Gabbert,2019-10-26,8,Miami (OH),@,Kent State,W,13,29,44.8,178,1,0,107.8,brett-gabbert-1
+Dillon Gabriel,2019-10-26,8,Central Florida,@,Temple,W,10,21,47.6,218,3,0,182.0,dillon-gabriel-1
+Bryan Gagg,2019-10-26,8,East Carolina,,South Florida,L,1,1,100.0,5,1,0,472.0,bryan-gagg-1
+Xavier Gaines,2019-10-26,8,Marshall,,Western Kentucky,W,0,1,0.0,0,0,0,0.0,xavier-gaines-2
+Zach Gibson,2019-10-26,8,Akron,@,Northern Illinois,L,4,15,26.7,36,0,1,33.5,zach-gibson-1
+Mike Glass III,2019-10-26,8,Eastern Michigan,@,Toledo,L,21,37,56.8,286,0,0,121.7,mike-glass-iii-1
+Anthony Gordon,2019-10-26,8,Washington State,@,Oregon,L,32,50,64.0,406,3,2,144.0,anthony-gordon-2
+Isaiah Green,2019-10-26,8,Marshall,,Western Kentucky,W,20,31,64.5,230,1,0,137.5,isaiah-green-2
+Wiley Green,2019-10-26,8,Rice,,Southern Mississippi,L,12,26,46.2,104,1,1,84.8,wiley-green-1
+Dennis Grosel,2019-10-26,8,Boston College,@,Clemson,L,3,14,21.4,53,0,0,53.2,dennis-grosel-1
+Jarrett Guarantano,2019-10-26,8,Tennessee,,South Carolina,W,11,19,57.9,229,2,0,193.9,jarrett-guarantano-1
+Grant Gunnell,2019-10-26,8,Arizona,@,Stanford,L,7,7,100.0,68,1,0,228.7,grant-gunnell-1
+Donald Hammond III,2019-10-26,8,Air Force,,Utah State,W,1,5,20.0,16,0,0,46.9,donald-hammond-iii-1
+Quentin Harris,2019-10-26,8,Duke,@,North Carolina,L,22,39,56.4,229,1,1,109.1,quentin-harris-2
+Layne Hatcher,2019-10-26,8,Arkansas State,,Texas State,W,18,28,64.3,158,2,0,135.3,layne-hatcher-1
+Justin Herbert,2019-10-26,8,Oregon,,Washington State,W,21,30,70.0,222,0,0,132.2,justin-herbert-1
+Ryan Hilinski,2019-10-26,8,South Carolina,@,Tennessee,L,28,51,54.9,319,1,0,113.9,ryan-hilinski-1
+Kelvin Hopkins Jr,2019-10-26,8,Army,,San Jose State,L,2,3,66.7,50,1,0,316.7,kelvin-hopkins-jr-1
+Alex Hornibrook,2019-10-26,8,Florida State,,Syracuse,W,15,26,57.7,196,0,0,121.0,alex-hornibrook-1
+Sam Howell,2019-10-26,8,North Carolina,,Duke,W,10,26,38.5,227,2,2,121.8,sam-howell-1
+Tyler Huntley,2019-10-26,8,Utah,,California,W,11,17,64.7,214,1,0,189.9,tyler-huntley-1
+Jalen Hurts,2019-10-26,8,Oklahoma,@,Kansas State,L,19,26,73.1,395,1,0,213.4,jalen-hurts-1
+Deon Jackson,2019-10-26,8,Duke,@,North Carolina,L,0,1,0.0,0,0,1,-200.0,deon-jackson-1
+Josh Jackson,2019-10-26,8,Maryland,@,Minnesota,L,0,2,0.0,0,0,0,0.0,josh-jackson-3
+Cephus Johnson,2019-10-26,8,South Alabama,,Appalachian State,L,3,11,27.3,9,0,0,34.1,cephus-johnson-2
+John Stephen Jones,2019-10-26,8,Arkansas,@,Alabama,L,6,7,85.7,49,1,0,191.7,john-stephen-jones-1
+Mac Jones,2019-10-26,8,Alabama,,Arkansas,W,18,22,81.8,235,3,0,216.5,mac-jones-1
+Phil Jurkovec,2019-10-26,7,Notre Dame,@,Michigan,L,3,4,75.0,60,1,0,283.5,phil-jurkovec-1
+Robbie Kelley,2019-10-26,8,Akron,@,Northern Illinois,L,1,7,14.3,4,0,1,-9.5,robbie-kelley-1
+Johnny Langan,2019-10-26,8,Rutgers,,Liberty,W,15,21,71.4,192,2,0,179.7,johnny-langan-1
+Trevor Lawrence,2019-10-26,8,Clemson,,Boston College,W,16,19,84.2,275,3,0,257.9,trevor-lawrence-1
+Jabari Laws,2019-10-26,8,Army,,San Jose State,L,2,2,100.0,31,0,0,230.2,jabari-laws-1
+Tommy Lazzaro,2019-10-26,9,Central Michigan,@,Buffalo,L,0,1,0.0,0,0,0,0.0,tommy-lazzaro-1
+Brian Lewerke,2019-10-26,8,Michigan State,,Penn State,L,16,34,47.1,165,0,1,81.9,brian-lewerke-1
+Kai Locksley,2019-10-26,7,Texas-El Paso,,Louisiana Tech,L,17,30,56.7,227,1,0,131.2,kai-locksley-1
+Rocky Lombardi,2019-10-26,8,Michigan State,,Penn State,L,1,6,16.7,5,0,1,-9.7,rocky-lombardi-1
+Jordan Love,2019-10-26,7,Utah State,@,Air Force,L,14,23,60.9,114,1,0,116.9,jordan-love-2
+Josh Love,2019-10-26,8,San Jose State,@,Army,W,20,31,64.5,314,3,0,181.5,josh-love-1
+Grant Loy,2019-10-26,8,Bowling Green State,@,Western Michigan,L,18,26,69.2,136,0,2,97.8,grant-loy-1
+Darriel Mack Jr.,2019-10-26,8,Central Florida,@,Temple,W,2,2,100.0,11,1,0,311.2,darriel-mack-jr-1
+Evan Marshman,2019-10-26,8,Rice,,Southern Mississippi,L,2,5,40.0,27,0,0,85.4,evan-marshman-1
+Dylan McCaffrey,2019-10-26,8,Michigan,,Notre Dame,W,2,2,100.0,34,1,0,407.8,dylan-mccaffrey-1
+Luke McCaffrey,2019-10-26,8,Nebraska,,Indiana,L,5,6,83.3,71,1,0,237.7,luke-mccaffrey-1
+Jordan McCloud,2019-10-26,8,South Florida,@,East Carolina,W,9,12,75.0,102,2,0,201.4,jordan-mccloud-1
+Cole McDonald,2019-10-26,8,Hawaii,@,New Mexico,W,17,30,56.7,237,1,1,127.4,cole-mcdonald-1
+Justin McMillan,2019-10-26,8,Tulane,@,Navy,L,20,29,69.0,290,3,2,173.3,justin-mcmillan-1
+Kellen Mond,2019-10-26,8,Texas A&M,,Mississippi State,W,17,23,73.9,234,3,0,202.4,kellen-mond-1
+James Morgan,2019-10-26,8,Florida International,@,Middle Tennessee State,L,16,32,50.0,208,2,0,125.2,james-morgan-1
+Tanner Morgan,2019-10-26,8,Minnesota,,Maryland,W,12,21,57.1,138,2,1,134.2,tanner-morgan-2
+Bo Nix,2019-10-26,8,Auburn,@,Louisiana State,L,15,35,42.9,157,1,1,84.3,bo-nix-1
+Patrick O'Brien,2019-10-26,8,Colorado State,@,Fresno State,W,23,42,54.8,322,2,1,130.1,patrick-obrien-1
+Aidan O'Connell,2019-10-26,8,Purdue,,Illinois,L,7,13,53.8,65,1,0,121.2,aidan-oconnell-1
+Asher O'Hara,2019-10-26,8,Middle Tennessee State,,Florida International,W,6,12,50.0,25,1,0,95.0,asher-ohara-1
+Kenyon Oblad,2019-10-26,8,Nevada-Las Vegas,,San Diego State,L,21,39,53.8,255,2,0,125.7,kenyon-oblad-1
+Shea Patterson,2019-10-26,8,Michigan,,Notre Dame,W,6,12,50.0,100,2,0,175.0,shea-patterson-1
+Bryce Perkins,2019-10-26,8,Virginia,@,Louisville,L,24,41,58.5,233,1,1,109.4,bryce-perkins-1
+Malcolm Perry,2019-10-26,7,Navy,,Tulane,W,2,7,28.6,68,1,1,128.7,malcolm-perry-1
+N'Kosi Perry,2019-10-26,8,Miami (FL),@,Pittsburgh,W,10,24,41.7,104,0,1,69.7,nkosi-perry-1
+Brandon Peters,2019-10-26,8,Illinois,@,Purdue,W,3,6,50.0,26,0,0,86.4,brandon-peters-1
+Eli Peters,2019-10-26,8,Toledo,,Eastern Michigan,W,9,18,50.0,138,2,0,151.1,eli-peters-1
+Kenny Pickett,2019-10-26,8,Pittsburgh,,Miami (FL),L,18,32,56.3,146,0,2,82.1,kenny-pickett-1
+Tyrell Pigrome,2019-10-26,8,Maryland,@,Minnesota,L,6,9,66.7,43,0,2,62.4,tyrell-pigrome-1
+Drew Plitt,2019-10-26,8,Ball State,,Ohio,L,11,20,55.0,109,1,0,117.3,drew-plitt-1
+Jack Plummer,2019-10-26,8,Purdue,,Illinois,L,8,20,40.0,71,0,1,59.8,jack-plummer-1
+Taylor Powell,2019-10-26,8,Missouri,@,Kentucky,L,4,10,40.0,34,0,0,68.6,taylor-powell-1
+Brock Purdy,2019-10-26,8,Iowa State,,Oklahoma State,L,39,62,62.9,382,1,3,110.3,brock-purdy-1
+Peyton Ramsey,2019-10-26,8,Indiana,@,Nebraska,W,27,40,67.5,351,2,1,152.7,peyton-ramsey-1
+Jorge Reyna,2019-10-26,7,Fresno State,,Colorado State,L,20,37,54.1,200,0,2,88.6,jorge-reyna-1
+Chris Reynolds,2019-10-26,8,UNC Charlotte,,North Texas,W,24,32,75.0,336,3,0,194.1,chris-reynolds-1
+Chris Robison,2019-10-26,8,Florida Atlantic,@,Old Dominion,W,17,24,70.8,208,2,1,162.8,chris-robison-1
+Nathan Rourke,2019-10-26,8,Ohio,@,Ball State,W,8,16,50.0,131,0,1,106.3,nathan-rourke-1
+Robby Rowell,2019-10-26,8,California,@,Utah,L,2,3,66.7,13,0,0,103.1,robby-rowell-1
+Anthony Russo,2019-10-26,8,Temple,,Central Florida,L,12,24,50.0,199,2,2,130.5,anthony-russo-3
+Kirk Rygol,2019-10-26,8,South Florida,@,East Carolina,W,6,12,50.0,74,1,0,129.3,kirk-rygol-1
+Isaiah Sanders,2019-10-26,8,Air Force,,Utah State,W,1,1,100.0,8,0,0,167.2,isaiah-sanders-1
+Spencer Sanders,2019-10-26,8,Oklahoma State,@,Iowa State,W,16,24,66.7,249,2,1,173.0,spencer-sanders-1
+Jason Shelley,2019-10-26,8,Utah,,California,W,4,5,80.0,28,1,0,193.0,jason-shelley-2
+Garrett Shrader,2019-10-26,8,Mississippi State,@,Texas A&M,L,13,30,43.3,194,3,1,124.0,garrett-shrader-1
+JT Shrout,2019-10-26,8,Tennessee,,South Carolina,W,7,11,63.6,122,1,0,186.8,jt-shrout-1
+Quayvon Skanes,2019-10-26,8,Connecticut,@,Massachusetts,W,1,1,100.0,15,1,0,556.0,quayvon-skanes-1
+Jacquez Sloan,2019-10-26,8,Western Kentucky,@,Marshall,L,0,1,0.0,0,0,1,-200.0,jacquez-sloan-1
+Aiden Smith,2019-10-26,7,Northwestern,,Iowa,L,18,32,56.3,138,0,1,86.2,aiden-smith-1
+J'mar Smith,2019-10-26,8,Louisiana Tech,@,Texas-El Paso,W,29,35,82.9,338,3,0,192.3,jmar-smith-1
+Sawyer Smith,2019-10-26,8,Kentucky,,Missouri,W,1,1,100.0,9,0,0,175.6,sawyer-smith-1
+Zach Smith,2019-10-26,8,Tulsa,,Memphis,L,23,40,57.5,309,1,0,130.6,zach-smith-6
+Cristian Solano,2019-10-26,8,Nevada,@,Wyoming,L,1,5,20.0,7,0,0,31.8,cristian-solano-1
+JD Spielman,2019-10-26,8,Nebraska,,Indiana,L,1,1,100.0,22,0,0,284.8,jd-spielman-1
+Carter Stanley,2019-10-26,8,Kansas,,Texas Tech,W,26,37,70.3,415,3,1,185.8,carter-stanley-1
+Nathan Stanley,2019-10-26,8,Iowa,@,Northwestern,W,12,26,46.2,179,1,0,116.7,nathan-stanley-2
+Nick Starkel,2019-10-26,8,Arkansas,@,Alabama,L,5,19,26.3,58,0,3,20.4,nick-starkel-1
+Ty Storey,2019-10-26,8,Western Kentucky,@,Marshall,L,31,43,72.1,292,0,1,124.5,ty-storey-1
+Carson Strong,2019-10-26,8,Nevada,@,Wyoming,L,26,40,65.0,247,0,1,111.9,carson-strong-1
+D.J. Stubbs,2019-10-26,8,Liberty,@,Rutgers,L,1,1,100.0,38,0,0,419.2,dj-stubbs-1
+Taulia Tagovailoa,2019-10-26,8,Alabama,,Arkansas,W,6,8,75.0,45,0,0,122.3,taulia-tagovailoa-1
+Khalil Tate,2019-10-26,8,Arizona,@,Stanford,L,17,33,51.5,205,2,2,111.6,khalil-tate-1
+Zac Thomas,2019-10-26,7,Appalachian State,@,South Alabama,W,16,28,57.1,132,1,0,108.5,zac-thomas-2
+Skylar Thompson,2019-10-26,7,Kansas State,,Oklahoma,W,18,28,64.3,213,0,0,128.2,skylar-thompson-1
+Dorian Thompson-Robinson,2019-10-26,8,UCLA,,Arizona State,W,16,23,69.6,176,2,0,162.5,dorian-thompson-robinson-1
+Nick Tronti,2019-10-26,8,Florida Atlantic,@,Old Dominion,W,7,10,70.0,57,1,1,130.9,nick-tronti-1
+Desmond Trotter,2019-10-26,8,South Alabama,,Appalachian State,L,3,8,37.5,43,0,0,82.7,desmond-trotter-1
+Tevaka Tuioti,2019-10-26,8,New Mexico,,Hawaii,L,23,40,57.5,293,2,2,125.5,tevaka-tuioti-1
+Justin Uahinui,2019-10-26,8,Hawaii,@,New Mexico,W,0,2,0.0,0,0,0,0.0,justin-uahinui-1
+Matt Valecce,2019-10-26,8,Boston College,@,Clemson,L,3,4,75.0,27,0,0,131.7,matt-valecce-1
+Tyler Vander Waal,2019-10-26,8,Wyoming,,Nevada,W,3,10,30.0,63,1,0,115.9,tyler-vander-waal-1
+Kyle Vantrease,2019-10-26,8,Buffalo,,Central Michigan,W,13,25,52.0,179,2,1,130.5,kyle-vantrease-1
+Noah Vedral,2019-10-26,8,Nebraska,,Indiana,L,14,16,87.5,201,0,0,193.0,noah-vedral-1
+Tyler Vitt,2019-10-26,7,Texas State,@,Arkansas State,L,15,27,55.6,146,1,2,98.4,tyler-vitt-1
+Casey Washington,2019-10-26,8,Illinois,@,Purdue,W,0,1,0.0,0,0,0,0.0,casey-washington-1
+Jon Wassink,2019-10-26,9,Western Michigan,,Bowling Green State,W,15,23,65.2,175,1,0,143.5,jon-wassink-1
+Shai Werts,2019-10-26,7,Georgia Southern,,New Mexico State,W,2,4,50.0,3,0,0,56.3,shai-werts-1
+Trent Wessel,2019-10-26,8,Florida Atlantic,@,Old Dominion,W,1,1,100.0,6,0,0,150.4,trent-wessel-1
+Brady White,2019-10-26,8,Memphis,@,Tulsa,W,15,25,60.0,277,2,0,179.5,brady-white-1
+Luke Whittemore,2019-10-26,7,Troy,@,Georgia State,L,0,1,0.0,0,0,0,0.0,luke-whittemore-1
+Adam Williams,2019-10-26,8,Memphis,@,Tulsa,W,1,1,100.0,29,0,0,343.6,adam-williams-2
+CJ Williams,2019-10-26,7,Navy,,Tulane,W,0,1,0.0,0,0,0,0.0,cj-williams-2
+Jarren Williams,2019-10-26,8,Miami (FL),@,Pittsburgh,W,4,8,50.0,50,1,0,143.8,jarren-williams-1
+Aaron Young,2019-10-26,8,Duke,@,North Carolina,L,0,1,0.0,0,0,0,0.0,aaron-young-3
+Jack Zergiotis,2019-10-26,8,Connecticut,@,Massachusetts,W,18,27,66.7,198,1,1,133.1,jack-zergiotis-1
+Charlie Brewer,2019-10-31,8,Baylor,,West Virginia,W,20,26,76.9,277,2,0,191.8,charlie-brewer-1
+Austin Kendall,2019-10-31,8,West Virginia,@,Baylor,L,20,39,51.3,205,1,1,98.8,austin-kendall-1
+Zac Thomas,2019-10-31,8,Appalachian State,,Georgia Southern,L,25,51,49.0,271,3,0,113.1,zac-thomas-2
+Shai Werts,2019-10-31,8,Georgia Southern,@,Appalachian State,W,1,4,25.0,16,0,0,58.6,shai-werts-1
+Malcolm Perry,2019-11-01,8,Navy,@,Connecticut,W,3,6,50.0,165,1,0,336.0,malcolm-perry-1
+Jack Zergiotis,2019-11-01,9,Connecticut,,Navy,L,16,34,47.1,205,1,2,95.6,jack-zergiotis-1
+Holton Ahlers,2019-11-02,9,East Carolina,,Cincinnati,L,32,52,61.5,535,4,1,169.5,holton-ahlers-1
+Cam Akers,2019-11-02,9,Florida State,,Miami (FL),L,2,2,100.0,24,0,0,200.8,cam-akers-1
+Brennan Armstrong,2019-11-02,9,Virginia,@,North Carolina,W,1,1,100.0,5,0,0,142.0,brennan-armstrong-1
+Hank Bachmeier,2019-11-02,8,Boise State,@,San Jose State,W,13,17,76.5,213,0,1,170.0,hank-bachmeier-1
+Kaleb Barker,2019-11-02,8,Troy,@,Coastal Carolina,L,26,35,74.3,385,3,0,195.0,kaleb-barker-1
+James Blackman,2019-11-02,9,Florida State,,Miami (FL),L,1,2,50.0,13,0,1,4.6,james-blackman-1
+Ian Book,2019-11-02,8,Notre Dame,,Virginia Tech,W,29,53,54.7,341,2,2,113.7,ian-book-1
+Ross Bowers,2019-11-02,9,Northern Illinois,@,Central Michigan,L,18,29,62.1,221,1,3,116.8,ross-bowers-1
+Chase Brice,2019-11-02,9,Clemson,,Wofford,W,7,11,63.6,65,0,0,113.3,chase-brice-1
+Andrew Brito,2019-11-02,9,Massachusetts,,Liberty,L,16,27,59.3,134,2,0,125.4,andrew-brito-1
+Landon Brown,2019-11-02,9,Liberty,@,Massachusetts,W,1,3,33.3,-5,0,0,19.3,landon-brown-1
+Shane Buechele,2019-11-02,9,Southern Methodist,@,Memphis,L,34,54,63.0,456,3,0,152.2,shane-buechele-1
+Logan Burnett,2019-11-02,9,Mississippi State,@,Arkansas,W,1,1,100.0,8,0,0,167.2,logan-burnett-1
+Stephen Calvert,2019-11-02,9,Liberty,@,Massachusetts,W,20,27,74.1,474,4,0,270.4,stephen-calvert-1
+Zach Calzada,2019-11-02,9,Texas A&M,,Texas-San Antonio,W,4,7,57.1,27,0,1,61.0,zach-calzada-1
+Bryce Carpenter,2019-11-02,8,Coastal Carolina,,Troy,W,32,45,71.1,285,1,0,131.6,bryce-carpenter-1
+Marcus Childers,2019-11-02,9,Northern Illinois,@,Central Michigan,L,1,2,50.0,8,0,0,83.6,marcus-childers-1
+Michael Collins,2019-11-02,8,Texas Christian,@,Oklahoma State,L,2,4,50.0,29,0,0,110.9,michael-collins-4
+Chevan Cordeiro,2019-11-02,9,Hawaii,,Fresno State,L,5,9,55.6,71,0,0,121.8,chevan-cordeiro-1
+Matt Corral,2019-11-02,9,Mississippi,@,Auburn,L,3,6,50.0,13,0,0,68.2,matt-corral-1
+Jalen Cropper,2019-11-02,8,Fresno State,@,Hawaii,W,1,1,100.0,36,1,0,732.4,jalen-cropper-1
+T.J. Deshields,2019-11-02,9,Akron,@,Bowling Green State,L,1,2,50.0,11,0,1,-3.8,tj-deshields-1
+Tommy Devito,2019-11-02,9,Syracuse,,Boston College,L,25,36,69.4,289,3,0,164.4,tommy-devito-1
+Quinten Dormady,2019-11-02,10,Central Michigan,,Northern Illinois,W,18,24,75.0,288,3,0,217.1,quinten-dormady-1
+Max Duggan,2019-11-02,8,Texas Christian,@,Oklahoma State,L,21,39,53.8,258,1,3,102.5,max-duggan-1
+Jacob Eason,2019-11-02,9,Washington,,Utah,L,29,52,55.8,316,4,2,124.5,jacob-eason-1
+Caleb Evans,2019-11-02,8,Louisiana-Monroe,,Arkansas State,L,24,37,64.9,215,2,0,131.5,caleb-evans-2
+Mason Fine,2019-11-02,9,North Texas,,Texas-El Paso,W,24,39,61.5,332,7,0,192.3,mason-fine-1
+Jake Fromm,2019-11-02,8,Georgia,N,Florida,W,20,30,66.7,279,2,0,166.8,jake-fromm-1
+Dillon Gabriel,2019-11-02,9,Central Florida,,Houston,W,21,30,70.0,298,3,0,186.4,dillon-gabriel-1
+Mike Glass III,2019-11-02,9,Eastern Michigan,,Buffalo,L,5,10,50.0,95,1,0,162.8,mike-glass-iii-1
+James Graham,2019-11-02,8,Georgia Tech,,Pittsburgh,L,3,13,23.1,57,1,1,69.9,james-graham-1
+Isaiah Green,2019-11-02,9,Marshall,@,Rice,W,17,22,77.3,269,1,0,195.0,isaiah-green-2
+Dennis Grosel,2019-11-02,9,Boston College,@,Syracuse,W,8,10,80.0,195,3,0,342.8,dennis-grosel-1
+Jarrett Guarantano,2019-11-02,9,Tennessee,,Alabama-Birmingham,W,13,21,61.9,147,1,1,126.9,jarrett-guarantano-1
+Grant Gunnell,2019-11-02,9,Arizona,,Oregon State,L,19,29,65.5,269,2,0,166.2,grant-gunnell-1
+Jaren Hall,2019-11-02,8,Brigham Young,@,Utah State,W,12,16,75.0,214,0,0,187.4,jaren-hall-1
+Donald Hammond III,2019-11-02,9,Air Force,,Army,W,1,6,16.7,19,0,1,9.9,donald-hammond-iii-1
+Layne Hatcher,2019-11-02,9,Arkansas State,@,Louisiana-Monroe,W,21,28,75.0,307,2,1,183.5,layne-hatcher-1
+Justin Herbert,2019-11-02,9,Oregon,@,Southern California,W,21,26,80.8,225,3,1,183.8,justin-herbert-1
+Ben Hicks,2019-11-02,9,Arkansas,,Mississippi State,L,4,13,30.8,44,0,1,43.8,ben-hicks-1
+Ryan Hilinski,2019-11-02,9,South Carolina,,Vanderbilt,W,24,31,77.4,235,2,0,162.4,ryan-hilinski-1
+Kelvin Hopkins Jr,2019-11-02,9,Army,@,Air Force,L,0,3,0.0,0,0,0,0.0,kelvin-hopkins-jr-1
+Dylan Hopkins,2019-11-02,8,Alabama-Birmingham,@,Tennessee,L,3,8,37.5,38,1,0,118.7,dylan-hopkins-1
+Alex Hornibrook,2019-11-02,9,Florida State,,Miami (FL),L,17,24,70.8,135,1,1,123.5,alex-hornibrook-1
+Sam Howell,2019-11-02,9,North Carolina,,Virginia,L,15,29,51.7,353,4,0,199.5,sam-howell-1
+Tyler Huntley,2019-11-02,9,Utah,@,Washington,W,19,24,79.2,284,1,0,192.3,tyler-huntley-1
+Preston Hutchinson,2019-11-02,9,Eastern Michigan,,Buffalo,L,9,15,60.0,90,0,1,97.1,preston-hutchinson-1
+Josh Jackson,2019-11-02,9,Maryland,,Michigan,L,9,20,45.0,97,0,1,75.7,josh-jackson-3
+K.J. Jefferson,2019-11-02,9,Arkansas,,Mississippi State,L,1,2,50.0,32,0,0,184.4,kj-jefferson-1
+Hunter Johnson,2019-11-02,8,Northwestern,@,Indiana,L,7,17,41.2,65,0,0,73.3,hunter-johnson-2
+Jovoni Johnson,2019-11-02,9,Rice,,Marshall,L,10,17,58.8,97,1,0,126.2,jovoni-johnson-1
+Lucas Johnson,2019-11-02,8,Georgia Tech,,Pittsburgh,L,5,8,62.5,51,0,0,116.1,lucas-johnson-2
+Tyler Johnston III,2019-11-02,8,Alabama-Birmingham,@,Tennessee,L,11,22,50.0,136,0,3,74.7,tyler-johnston-iii-1
+John Stephen Jones,2019-11-02,9,Arkansas,,Mississippi State,L,4,9,44.4,25,1,0,104.4,john-stephen-jones-1
+Michael Kern,2019-11-02,8,Wake Forest,,North Carolina State,W,2,4,50.0,8,0,0,66.8,michael-kern-1
+Johnny Langan,2019-11-02,9,Rutgers,@,Illinois,L,5,10,50.0,86,1,1,135.2,johnny-langan-1
+Trevor Lawrence,2019-11-02,9,Clemson,,Wofford,W,12,16,75.0,218,3,0,251.3,trevor-lawrence-1
+Jabari Laws,2019-11-02,9,Army,@,Air Force,L,9,11,81.8,214,1,0,275.2,jabari-laws-1
+Devin Leary,2019-11-02,8,North Carolina State,@,Wake Forest,L,17,45,37.8,149,1,2,64.0,devin-leary-1
+Lance Legendre,2019-11-02,9,Maryland,,Michigan,L,1,2,50.0,7,0,0,79.4,lance-legendre-1
+Levi Lewis,2019-11-02,8,Louisiana,,Texas State,W,13,21,61.9,183,2,0,166.5,levi-lewis-1
+Kai Locksley,2019-11-02,8,Texas-El Paso,@,North Texas,L,17,29,58.6,119,0,0,93.1,kai-locksley-1
+Jordan Love,2019-11-02,8,Utah State,,Brigham Young,L,29,49,59.2,394,1,3,121.2,jordan-love-2
+Josh Love,2019-11-02,9,San Jose State,,Boise State,L,29,53,54.7,438,2,1,132.8,josh-love-1
+Grant Loy,2019-11-02,9,Bowling Green State,,Akron,W,12,20,60.0,113,1,0,124.0,grant-loy-1
+Jake Luton,2019-11-02,8,Oregon State,@,Arizona,W,20,26,76.9,328,3,0,221.0,jake-luton-1
+Darriel Mack Jr.,2019-11-02,9,Central Florida,,Houston,W,1,2,50.0,6,0,0,75.2,darriel-mack-jr-1
+Adrian Martinez,2019-11-02,9,Nebraska,@,Purdue,L,22,39,56.4,247,0,1,104.5,adrian-martinez-2
+Andrew Marty,2019-11-02,8,Northwestern,@,Indiana,L,0,1,0.0,0,0,0,0.0,andrew-marty-1
+Dylan McCaffrey,2019-11-02,9,Michigan,@,Maryland,W,3,7,42.9,25,0,0,72.9,dylan-mccaffrey-1
+Justice McCoy,2019-11-02,9,Colorado State,,Nevada-Las Vegas,W,2,2,100.0,20,0,0,184.0,justice-mccoy-1
+Cole McDonald,2019-11-02,9,Hawaii,,Fresno State,L,21,42,50.0,275,1,1,108.1,cole-mcdonald-1
+Justin McMillan,2019-11-02,9,Tulane,,Tulsa,W,12,16,75.0,184,1,2,167.2,justin-mcmillan-1
+Manny Miles,2019-11-02,9,Kansas,,Kansas State,L,2,3,66.7,65,0,0,248.7,manny-miles-1
+Kellen Mond,2019-11-02,9,Texas A&M,,Texas-San Antonio,W,16,21,76.2,211,1,0,176.3,kellen-mond-1
+Steven Montez,2019-11-02,9,Colorado,@,UCLA,L,21,38,55.3,195,1,1,101.8,steven-montez-1
+James Morgan,2019-11-02,9,Florida International,,Old Dominion,W,20,33,60.6,252,0,0,124.8,james-morgan-1
+Lowell Narcisse,2019-11-02,8,Texas-San Antonio,@,Texas A&M,L,7,14,50.0,90,0,0,104.0,lowell-narcisse-1
+Riley Neal,2019-11-02,8,Vanderbilt,@,South Carolina,L,3,4,75.0,46,1,0,254.1,riley-neal-1
+Jaylin Nelson,2019-11-02,8,Texas State,@,Louisiana,L,0,1,0.0,0,0,0,0.0,jaylin-nelson-1
+Kato Nelson,2019-11-02,9,Akron,@,Bowling Green State,L,9,24,37.5,60,0,2,41.8,kato-nelson-1
+Jamie Newman,2019-11-02,8,Wake Forest,,North Carolina State,W,25,38,65.8,287,3,0,155.3,jamie-newman-1
+Bo Nix,2019-11-02,9,Auburn,,Mississippi,W,30,44,68.2,340,0,0,133.1,bo-nix-1
+Patrick O'Brien,2019-11-02,9,Colorado State,,Nevada-Las Vegas,W,17,27,63.0,234,0,0,135.8,patrick-obrien-1
+Aidan O'Connell,2019-11-02,9,Purdue,,Nebraska,W,6,7,85.7,62,0,0,160.1,aidan-oconnell-1
+Asher O'Hara,2019-11-02,9,Middle Tennessee State,@,UNC Charlotte,L,11,19,57.9,140,2,1,144.0,asher-ohara-1
+Kenyon Oblad,2019-11-02,9,Nevada-Las Vegas,@,Colorado State,L,22,39,56.4,280,2,0,133.6,kenyon-oblad-1
+Quincy Patterson,2019-11-02,8,Virginia Tech,@,Notre Dame,L,9,28,32.1,139,1,1,78.5,quincy-patterson-1
+Shea Patterson,2019-11-02,9,Michigan,@,Maryland,W,13,22,59.1,151,1,0,131.7,shea-patterson-1
+Michael Penix Jr.,2019-11-02,9,Indiana,,Northwestern,W,10,15,66.7,162,0,0,157.4,michael-penix-jr-1
+Bryce Perkins,2019-11-02,9,Virginia,@,North Carolina,W,30,39,76.9,378,3,0,183.7,bryce-perkins-1
+Brandon Peters,2019-11-02,9,Illinois,,Rutgers,W,6,11,54.5,120,1,0,176.2,brandon-peters-1
+Kenny Pickett,2019-11-02,9,Pittsburgh,@,Georgia Tech,W,25,34,73.5,204,1,2,121.9,kenny-pickett-1
+Kalil Pimpleton,2019-11-02,10,Central Michigan,,Northern Illinois,W,0,1,0.0,0,0,0,0.0,kalil-pimpleton-1
+John Rhys Plumlee,2019-11-02,9,Mississippi,@,Auburn,L,11,21,52.4,86,0,1,77.3,john-rhys-plumlee-1
+Jack Plummer,2019-11-02,9,Purdue,,Nebraska,W,25,34,73.5,242,2,2,141.0,jack-plummer-1
+James Proche,2019-11-02,9,Southern Methodist,@,Memphis,L,0,1,0.0,0,0,0,0.0,james-proche-1
+Peyton Ramsey,2019-11-02,9,Indiana,,Northwestern,W,7,10,70.0,108,1,0,193.7,peyton-ramsey-1
+Jorge Reyna,2019-11-02,8,Fresno State,@,Hawaii,W,17,27,63.0,188,1,0,133.7,jorge-reyna-1
+Chris Reynolds,2019-11-02,9,UNC Charlotte,,Middle Tennessee State,W,14,21,66.7,192,1,0,159.2,chris-reynolds-1
+Desmond Ridder,2019-11-02,8,Cincinnati,@,East Carolina,W,12,24,50.0,161,1,2,103.4,desmond-ridder-1
+Brandon Robinson,2019-11-02,9,Florida Atlantic,@,Western Kentucky,W,1,1,100.0,41,0,0,444.4,brandon-robinson-2
+Brandon Robinson,2019-11-02,9,Liberty,@,Massachusetts,W,2,2,100.0,19,1,0,344.8,brandon-robinson-3
+Chris Robison,2019-11-02,9,Florida Atlantic,@,Western Kentucky,W,18,29,62.1,208,2,0,145.1,chris-robison-1
+Baylor Romney,2019-11-02,8,Brigham Young,@,Utah State,W,10,16,62.5,191,2,1,191.5,baylor-romney-1
+Isaiah Sanders,2019-11-02,9,Air Force,,Army,W,1,1,100.0,-3,0,0,74.8,isaiah-sanders-1
+Spencer Sanders,2019-11-02,9,Oklahoma State,,Texas Christian,W,9,15,60.0,158,2,1,179.1,spencer-sanders-1
+Tyler Shough,2019-11-02,9,Oregon,@,Southern California,W,2,3,66.7,41,1,0,291.5,tyler-shough-1
+JT Shrout,2019-11-02,9,Tennessee,,Alabama-Birmingham,W,3,6,50.0,34,0,0,97.6,jt-shrout-1
+Micah Simon,2019-11-02,8,Brigham Young,@,Utah State,W,1,1,100.0,13,0,0,209.2,micah-simon-1
+Kedon Slovis,2019-11-02,9,Southern California,,Oregon,L,32,57,56.1,264,3,3,101.9,kedon-slovis-1
+Stone Smartt,2019-11-02,9,Old Dominion,@,Florida International,L,0,1,0.0,0,0,0,0.0,stone-smartt-1
+Aiden Smith,2019-11-02,8,Northwestern,@,Indiana,L,5,12,41.7,47,0,0,74.6,aiden-smith-1
+Zach Smith,2019-11-02,9,Tulsa,@,Tulane,L,17,33,51.5,270,1,0,130.2,zach-smith-6
+Carter Stanley,2019-11-02,9,Kansas,,Kansas State,L,13,23,56.5,115,0,2,81.1,carter-stanley-1
+Tommy Stevens,2019-11-02,9,Mississippi State,@,Arkansas,W,12,18,66.7,172,2,0,183.6,tommy-stevens-1
+Tom Stewart,2019-11-02,9,Rice,,Marshall,L,1,9,11.1,6,0,0,16.7,tom-stewart-1
+Ty Storey,2019-11-02,9,Western Kentucky,,Florida Atlantic,L,32,47,68.1,380,2,3,137.3,ty-storey-1
+Carson Strong,2019-11-02,9,Nevada,,New Mexico,W,28,40,70.0,305,2,0,150.6,carson-strong-1
+Khalil Tate,2019-11-02,9,Arizona,,Oregon State,L,7,12,58.3,109,0,0,134.6,khalil-tate-1
+Skylar Thompson,2019-11-02,8,Kansas State,@,Kansas,W,9,16,56.3,129,0,0,124.0,skylar-thompson-1
+Dorian Thompson-Robinson,2019-11-02,9,UCLA,,Colorado,W,21,28,75.0,226,2,1,159.2,dorian-thompson-robinson-1
+Kyle Trask,2019-11-02,9,Florida,N,Georgia,L,21,33,63.6,257,2,0,149.1,kyle-trask-1
+Nick Tronti,2019-11-02,9,Florida Atlantic,@,Western Kentucky,W,1,1,100.0,10,0,0,184.0,nick-tronti-1
+Tevaka Tuioti,2019-11-02,9,New Mexico,@,Nevada,L,19,36,52.8,237,0,0,108.1,tevaka-tuioti-1
+Clayton Tune,2019-11-02,9,Houston,@,Central Florida,L,18,30,60.0,179,1,1,114.5,clayton-tune-1
+Kyle Vantrease,2019-11-02,9,Buffalo,@,Eastern Michigan,W,15,23,65.2,208,1,0,155.5,kyle-vantrease-1
+Tyler Vitt,2019-11-02,8,Texas State,@,Louisiana,L,24,34,70.6,206,0,2,109.7,tyler-vitt-1
+Darius Wade,2019-11-02,9,Bowling Green State,,Akron,W,1,1,100.0,7,0,0,158.8,darius-wade-1
+Deuce Wallace,2019-11-02,8,Vanderbilt,@,South Carolina,L,8,17,47.1,30,0,2,38.4,deuce-wallace-2
+Jordan Weeks,2019-11-02,8,Texas-San Antonio,@,Texas A&M,L,4,11,36.4,48,0,1,54.8,jordan-weeks-1
+Brady White,2019-11-02,9,Memphis,,Southern Methodist,W,19,33,57.6,350,3,0,176.7,brady-white-1
+Hutch White,2019-11-02,8,Texas State,@,Louisiana,L,0,1,0.0,0,0,0,0.0,hutch-white-1
+Jarren Williams,2019-11-02,9,Miami (FL),@,Florida State,W,21,37,56.8,313,2,0,145.7,jarren-williams-1
+Hayden Wolff,2019-11-02,9,Old Dominion,@,Florida International,L,19,35,54.3,169,0,1,89.1,hayden-wolff-1
+Dustin Crum,2019-11-05,9,Kent State,@,Toledo,L,14,18,77.8,257,3,0,252.7,dustin-crum-1
+Eli Peters,2019-11-05,9,Toledo,,Kent State,W,15,25,60.0,194,1,1,130.4,eli-peters-1
+Drew Plitt,2019-11-05,9,Ball State,@,Western Michigan,L,14,22,63.6,148,0,0,120.1,drew-plitt-1
+Jon Wassink,2019-11-05,10,Western Michigan,,Ball State,W,13,24,54.2,124,0,0,97.6,jon-wassink-1
+Brett Gabbert,2019-11-06,9,Miami (OH),@,Ohio,W,10,18,55.6,149,1,0,143.4,brett-gabbert-1
+Nathan Rourke,2019-11-06,9,Ohio,,Miami (OH),L,15,27,55.6,133,1,0,109.2,nathan-rourke-1
+Bryce Carpenter,2019-11-07,9,Coastal Carolina,,Louisiana,L,9,20,45.0,71,0,0,74.8,bryce-carpenter-1
+Todd Centeio,2019-11-07,9,Temple,@,South Florida,W,2,2,100.0,3,1,0,277.6,todd-centeio-1
+Levi Lewis,2019-11-07,9,Louisiana,@,Coastal Carolina,W,26,30,86.7,296,3,0,202.5,levi-lewis-1
+Jai'ave Magalei,2019-11-07,9,Louisiana,@,Coastal Carolina,W,4,7,57.1,43,0,0,108.7,jaiave-magalei-1
+Jordan McCloud,2019-11-07,9,South Florida,,Temple,L,23,38,60.5,225,1,0,118.9,jordan-mccloud-1
+Fred Payton,2019-11-07,9,Coastal Carolina,,Louisiana,L,3,3,100.0,62,1,0,383.6,fred-payton-1
+Anthony Russo,2019-11-07,9,Temple,@,South Florida,W,15,21,71.4,164,0,1,127.5,anthony-russo-3
+Seth Boomer,2019-11-08,10,Tulsa,,Central Florida,W,6,10,60.0,87,1,0,166.1,seth-boomer-1
+Jacob Eason,2019-11-08,10,Washington,@,Oregon State,W,16,32,50.0,175,0,2,83.4,jacob-eason-1
+Dillon Gabriel,2019-11-08,10,Central Florida,@,Tulsa,L,23,38,60.5,290,1,2,122.8,dillon-gabriel-1
+Jake Luton,2019-11-08,9,Oregon State,,Washington,L,19,28,67.9,88,0,1,87.1,jake-luton-1
+Zach Smith,2019-11-08,10,Tulsa,,Central Florida,W,10,14,71.4,127,1,0,171.2,zach-smith-6
+Jack Abraham,2019-11-09,9,Southern Mississippi,,Alabama-Birmingham,W,17,22,77.3,164,2,0,169.9,jack-abraham-1
+Josh Adkins,2019-11-09,9,New Mexico State,@,Mississippi,L,25,35,71.4,127,0,0,101.9,josh-adkins-1
+Ryan Agnew,2019-11-09,9,San Diego State,,Nevada,L,18,35,51.4,196,0,1,92.8,ryan-agnew-1
+Holton Ahlers,2019-11-09,10,East Carolina,@,Southern Methodist,L,32,42,76.2,498,6,0,222.9,holton-ahlers-1
+Aaron Allen,2019-11-09,9,Louisiana Tech,,North Texas,W,1,1,100.0,8,0,0,167.2,aaron-allen-1
+Austin Aune,2019-11-09,10,North Texas,@,Louisiana Tech,L,3,4,75.0,123,1,0,415.8,austin-aune-1
+Kaleb Barker,2019-11-09,9,Troy,,Georgia Southern,W,27,41,65.9,330,3,1,152.7,kaleb-barker-1
+Connor Bazelak,2019-11-09,9,Missouri,@,Georgia,L,8,12,66.7,64,0,0,111.5,connor-bazelak-1
+Jason Bean,2019-11-09,10,North Texas,@,Louisiana Tech,L,12,16,75.0,94,0,2,99.4,jason-bean-1
+Mike Beaudry,2019-11-09,10,Connecticut,@,Cincinnati,L,6,9,66.7,35,0,0,99.3,mike-beaudry-1
+James Blackman,2019-11-09,10,Florida State,@,Boston College,W,18,26,69.2,346,2,0,206.4,james-blackman-1
+Ian Book,2019-11-09,9,Notre Dame,@,Duke,W,18,32,56.3,181,4,2,132.5,ian-book-1
+Lynn Bowden Jr.,2019-11-09,9,Kentucky,,Tennessee,L,4,7,57.1,25,0,1,58.6,lynn-bowden-jr-1
+Tayvone Bowers,2019-11-09,9,Wake Forest,@,Virginia Tech,L,0,1,0.0,0,0,0,0.0,tayvone-bowers-1
+Charlie Brewer,2019-11-09,9,Baylor,@,Texas Christian,W,27,41,65.9,195,2,1,117.0,charlie-brewer-1
+Chase Brice,2019-11-09,10,Clemson,@,North Carolina State,W,5,9,55.6,27,0,0,80.8,chase-brice-1
+Andrew Brito,2019-11-09,10,Massachusetts,@,Army,L,6,16,37.5,75,1,1,85.0,andrew-brito-1
+Cornelious Brown,2019-11-09,9,Georgia State,@,Louisiana-Monroe,L,8,18,44.4,80,0,0,81.8,cornelious-brown-1
+Ben Bryant,2019-11-09,9,Cincinnati,,Connecticut,W,3,5,60.0,64,0,0,167.5,ben-bryant-1
+Shane Buechele,2019-11-09,10,Southern Methodist,,East Carolina,W,33,46,71.7,414,5,1,178.9,shane-buechele-1
+Treylon Burks,2019-11-09,10,Arkansas,,Western Kentucky,L,0,1,0.0,0,0,0,0.0,treylon-burks-1
+Joe Burrow,2019-11-09,9,Louisiana State,@,Alabama,W,31,39,79.5,393,3,0,189.5,joe-burrow-1
+Stephen Calvert,2019-11-09,10,Liberty,@,Brigham Young,L,27,45,60.0,303,3,0,138.6,stephen-calvert-1
+Chris Chugunov,2019-11-09,9,Ohio State,,Maryland,W,8,11,72.7,103,1,0,181.4,chris-chugunov-1
+Sean Clifford,2019-11-09,9,Penn State,@,Minnesota,L,23,43,53.5,340,1,3,113.6,sean-clifford-1
+Jack Coan,2019-11-09,9,Wisconsin,,Iowa,W,16,25,64.0,173,2,1,140.5,jack-coan-1
+Evan Conley,2019-11-09,9,Louisville,@,Miami (FL),L,6,11,54.5,109,0,1,119.6,evan-conley-1
+Elijah Cooks,2019-11-09,10,Nevada,@,San Diego State,W,1,1,100.0,50,0,0,520.0,elijah-cooks-1
+Chase Cord,2019-11-09,9,Boise State,,Wyoming,W,19,30,63.3,190,1,1,120.9,chase-cord-1
+Chevan Cordeiro,2019-11-09,10,Hawaii,,San Jose State,W,23,31,74.2,309,3,0,189.9,chevan-cordeiro-1
+Matt Corral,2019-11-09,10,Mississippi,,New Mexico State,W,2,2,100.0,35,0,0,247.0,matt-corral-1
+K.J. Costello,2019-11-09,9,Stanford,@,Colorado,L,18,29,62.1,245,1,1,137.5,kj-costello-1
+Malik Cunningham,2019-11-09,9,Louisville,@,Miami (FL),L,12,18,66.7,219,2,1,194.4,malik-cunningham-1
+Jarret Doege,2019-11-09,9,West Virginia,,Texas Tech,L,11,17,64.7,119,1,0,142.9,jarret-doege-1
+Jett Duffey,2019-11-09,9,Texas Tech,@,West Virginia,W,24,34,70.6,354,1,0,167.8,jett-duffey-1
+Max Duggan,2019-11-09,9,Texas Christian,,Baylor,L,14,32,43.8,140,1,3,72.1,max-duggan-1
+Sam Ehlinger,2019-11-09,9,Texas,,Kansas State,W,22,29,75.9,263,1,1,156.5,sam-ehlinger-1
+Dan Ellington,2019-11-09,9,Georgia State,@,Louisiana-Monroe,L,5,10,50.0,42,0,0,85.3,dan-ellington-1
+Westin Elliott,2019-11-09,9,Louisiana Tech,,North Texas,W,1,1,100.0,7,0,0,158.8,westin-elliott-1
+Isaiah Esdale,2019-11-09,9,West Virginia,,Texas Tech,L,1,1,100.0,24,1,0,631.6,isaiah-esdale-1
+Caleb Evans,2019-11-09,9,Louisiana-Monroe,,Georgia State,W,24,32,75.0,291,3,1,176.1,caleb-evans-2
+Justin Fields,2019-11-09,9,Ohio State,,Maryland,W,16,25,64.0,200,3,0,170.8,justin-fields-2
+Mason Fine,2019-11-09,10,North Texas,@,Louisiana Tech,L,8,15,53.3,48,0,0,80.2,mason-fine-1
+Matt Fink,2019-11-09,10,Southern California,@,Arizona State,W,4,6,66.7,45,0,0,129.7,matt-fink-1
+Jake Fromm,2019-11-09,9,Georgia,,Missouri,W,13,29,44.8,173,2,0,117.7,jake-fromm-1
+Kaylon Geiger,2019-11-09,9,Troy,,Georgia Southern,W,0,1,0.0,0,0,0,0.0,kaylon-geiger-1
+Anthony Gordon,2019-11-09,9,Washington State,@,California,L,45,58,77.6,407,2,1,144.5,anthony-gordon-2
+James Graham,2019-11-09,9,Georgia Tech,@,Virginia,L,15,22,68.2,229,2,1,176.5,james-graham-1
+Dennis Grosel,2019-11-09,10,Boston College,,Florida State,L,20,29,69.0,227,2,1,150.6,dennis-grosel-1
+Jarrett Guarantano,2019-11-09,10,Tennessee,@,Kentucky,W,7,8,87.5,115,2,0,290.8,jarrett-guarantano-1
+Alec Hallman,2019-11-09,10,Florida International,@,Florida Atlantic,L,0,1,0.0,0,0,1,-200.0,alec-hallman-1
+Quentin Harris,2019-11-09,9,Duke,,Notre Dame,L,16,28,57.1,102,1,1,92.4,quentin-harris-2
+John Hightower,2019-11-09,9,Boise State,,Wyoming,W,1,1,100.0,4,0,0,133.6,john-hightower-1
+Ryan Hilinski,2019-11-09,10,South Carolina,,Appalachian State,L,32,57,56.1,325,1,1,106.3,ryan-hilinski-1
+Gunnar Hoak,2019-11-09,9,Ohio State,,Maryland,W,2,2,100.0,19,0,0,179.8,gunnar-hoak-1
+Hendon Hooker,2019-11-09,9,Virginia Tech,,Wake Forest,W,15,23,65.2,242,0,0,153.6,hendon-hooker-1
+Kelvin Hopkins Jr,2019-11-09,10,Army,,Massachusetts,W,0,1,0.0,0,0,0,0.0,kelvin-hopkins-jr-1
+Dylan Hopkins,2019-11-09,9,Alabama-Birmingham,@,Southern Mississippi,L,15,25,60.0,103,0,2,78.6,dylan-hopkins-1
+Jalen Hurts,2019-11-09,9,Oklahoma,,Iowa State,W,18,26,69.2,273,3,1,187.8,jalen-hurts-1
+Josh Jackson,2019-11-09,10,Maryland,@,Ohio State,L,4,9,44.4,35,1,0,113.8,josh-jackson-3
+K.J. Jefferson,2019-11-09,10,Arkansas,,Western Kentucky,L,6,15,40.0,60,0,1,60.3,kj-jefferson-1
+Jauan Jennings,2019-11-09,10,Tennessee,@,Kentucky,W,0,1,0.0,0,0,0,0.0,jauan-jennings-1
+Deshaunte Jones,2019-11-09,9,Iowa State,@,Oklahoma,L,0,1,0.0,0,0,0,0.0,deshaunte-jones-1
+Emory Jones,2019-11-09,10,Florida,,Vanderbilt,W,2,3,66.7,47,0,0,198.3,emory-jones-1
+John Stephen Jones,2019-11-09,10,Arkansas,,Western Kentucky,L,3,10,30.0,27,0,1,32.7,john-stephen-jones-1
+Chris Katrenick,2019-11-09,9,Duke,,Notre Dame,L,0,3,0.0,0,0,0,0.0,chris-katrenick-1
+Austin Kendall,2019-11-09,9,West Virginia,,Texas Tech,L,26,43,60.5,355,0,2,120.5,austin-kendall-1
+Trevor Lawrence,2019-11-09,10,Clemson,@,North Carolina State,W,20,27,74.1,276,3,0,196.6,trevor-lawrence-1
+Jabari Laws,2019-11-09,10,Army,,Massachusetts,W,3,5,60.0,48,0,0,140.6,jabari-laws-1
+Devin Leary,2019-11-09,9,North Carolina State,,Clemson,L,14,29,48.3,166,0,0,96.4,devin-leary-1
+Brian Lewerke,2019-11-09,9,Michigan State,,Illinois,L,19,36,52.8,251,1,3,103.8,brian-lewerke-1
+Kai Locksley,2019-11-09,9,Texas-El Paso,,UNC Charlotte,L,15,20,75.0,215,1,1,171.8,kai-locksley-1
+Jordan Love,2019-11-09,9,Utah State,@,Fresno State,W,30,39,76.9,388,2,0,177.4,jordan-love-2
+Josh Love,2019-11-09,10,San Jose State,@,Hawaii,L,30,45,66.7,375,2,0,151.3,josh-love-1
+Brian Maurer,2019-11-09,10,Tennessee,@,Kentucky,W,7,16,43.8,98,0,0,95.2,brian-maurer-1
+Devon Modster,2019-11-09,9,California,,Washington State,W,16,24,66.7,230,3,0,188.4,devon-modster-1
+Steven Montez,2019-11-09,10,Colorado,,Stanford,W,20,30,66.7,186,0,1,112.1,steven-montez-1
+James Morgan,2019-11-09,10,Florida International,@,Florida Atlantic,L,20,37,54.1,192,0,0,97.6,james-morgan-1
+Tanner Morgan,2019-11-09,9,Minnesota,,Penn State,W,18,20,90.0,339,3,0,281.9,tanner-morgan-2
+Lowell Narcisse,2019-11-09,9,Texas-San Antonio,@,Old Dominion,W,18,23,78.3,240,1,0,180.3,lowell-narcisse-1
+Jamie Newman,2019-11-09,9,Wake Forest,@,Virginia Tech,L,16,35,45.7,238,2,2,110.3,jamie-newman-1
+Aidan O'Connell,2019-11-09,10,Purdue,@,Northwestern,W,34,50,68.0,271,2,2,118.7,aidan-oconnell-1
+Chinedu Ogbonna,2019-11-09,10,Massachusetts,@,Army,L,0,1,0.0,0,0,0,0.0,chinedu-ogbonna-1
+Josh Pederson,2019-11-09,9,Louisiana-Monroe,,Georgia State,W,0,1,0.0,0,0,0,0.0,josh-pederson-1
+Bryce Perkins,2019-11-09,10,Virginia,,Georgia Tech,W,24,35,68.6,258,1,0,139.9,bryce-perkins-1
+N'Kosi Perry,2019-11-09,10,Miami (FL),,Louisville,W,1,1,100.0,-1,0,0,91.6,nkosi-perry-1
+Brandon Peters,2019-11-09,10,Illinois,@,Michigan State,W,22,42,52.4,369,3,1,145.0,brandon-peters-1
+Tyrell Pigrome,2019-11-09,10,Maryland,@,Ohio State,L,4,8,50.0,42,0,1,69.1,tyrell-pigrome-1
+John Rhys Plumlee,2019-11-09,10,Mississippi,,New Mexico State,W,11,17,64.7,124,0,0,126.0,john-rhys-plumlee-1
+Taylor Powell,2019-11-09,9,Missouri,@,Georgia,L,10,22,45.5,84,0,1,68.4,taylor-powell-1
+Brock Purdy,2019-11-09,9,Iowa State,@,Oklahoma,L,19,30,63.3,282,5,0,197.3,brock-purdy-1
+Jorge Reyna,2019-11-09,9,Fresno State,,Utah State,L,16,20,80.0,263,0,0,190.5,jorge-reyna-1
+Chris Reynolds,2019-11-09,10,UNC Charlotte,@,Texas-El Paso,W,24,35,68.6,354,2,1,166.7,chris-reynolds-1
+Desmond Ridder,2019-11-09,9,Cincinnati,,Connecticut,W,13,23,56.5,136,2,0,134.9,desmond-ridder-1
+Chris Robison,2019-11-09,10,Florida Atlantic,,Florida International,W,22,37,59.5,298,1,0,136.0,chris-robison-1
+Baylor Romney,2019-11-09,9,Brigham Young,,Liberty,W,23,33,69.7,262,3,1,160.3,baylor-romney-1
+Micah Simon,2019-11-09,9,Brigham Young,,Liberty,W,1,1,100.0,44,1,0,799.6,micah-simon-1
+Kedon Slovis,2019-11-09,10,Southern California,@,Arizona State,W,29,39,74.4,432,4,1,196.1,kedon-slovis-1
+Aiden Smith,2019-11-09,9,Northwestern,,Purdue,L,19,31,61.3,184,2,1,126.0,aiden-smith-1
+J'mar Smith,2019-11-09,9,Louisiana Tech,,North Texas,W,21,38,55.3,263,1,1,116.8,jmar-smith-1
+Nathan Stanley,2019-11-09,9,Iowa,@,Wisconsin,L,17,28,60.7,208,2,0,146.7,nathan-stanley-2
+Ty Storey,2019-11-09,10,Western Kentucky,@,Arkansas,W,22,32,68.8,213,1,0,135.0,ty-storey-1
+Carson Strong,2019-11-09,10,Nevada,@,San Diego State,W,19,26,73.1,147,1,1,125.6,carson-strong-1
+Tua Tagovailoa,2019-11-09,9,Alabama,,Louisiana State,L,21,40,52.5,418,4,1,168.3,tua-tagovailoa-1
+Zac Thomas,2019-11-09,9,Appalachian State,@,South Carolina,W,9,15,60.0,105,0,1,105.5,zac-thomas-2
+Skylar Thompson,2019-11-09,9,Kansas State,@,Texas,L,17,27,63.0,253,2,0,166.1,skylar-thompson-1
+Kyle Trask,2019-11-09,10,Florida,,Vanderbilt,W,25,37,67.6,363,3,2,165.9,kyle-trask-1
+Nick Tronti,2019-11-09,10,Florida Atlantic,,Florida International,W,2,2,100.0,20,0,0,184.0,nick-tronti-1
+Desmond Trotter,2019-11-09,9,South Alabama,@,Texas State,L,13,17,76.5,164,2,0,196.3,desmond-trotter-1
+Tyler Vander Waal,2019-11-09,9,Wyoming,@,Boise State,L,15,23,65.2,160,0,0,123.7,tyler-vander-waal-1
+Tyler Vitt,2019-11-09,9,Texas State,,South Alabama,W,23,33,69.7,373,3,1,188.6,tyler-vitt-1
+Deuce Wallace,2019-11-09,9,Vanderbilt,@,Florida,L,7,18,38.9,60,0,1,55.8,deuce-wallace-2
+Allan Walters,2019-11-09,9,Vanderbilt,@,Florida,L,1,3,33.3,17,0,1,14.3,allan-walters-1
+Shai Werts,2019-11-09,9,Georgia Southern,@,Troy,L,8,16,50.0,181,3,0,206.9,shai-werts-1
+Randall West,2019-11-09,10,Massachusetts,@,Army,L,3,5,60.0,24,0,1,60.3,randall-west-1
+Jarren Williams,2019-11-09,10,Miami (FL),,Louisville,W,15,22,68.2,253,6,0,254.8,jarren-williams-1
+Malik Williams,2019-11-09,9,Appalachian State,@,South Carolina,W,0,1,0.0,0,0,0,0.0,malik-williams-2
+Steven Williams,2019-11-09,10,Old Dominion,,Texas-San Antonio,L,1,1,100.0,42,1,0,782.8,steven-williams-2
+Hayden Wolff,2019-11-09,10,Old Dominion,,Texas-San Antonio,L,17,29,58.6,247,1,1,134.6,hayden-wolff-1
+Joey Yellen,2019-11-09,9,Arizona State,,Southern California,L,28,44,63.6,292,4,2,140.3,joey-yellen-1
+Jack Zergiotis,2019-11-09,10,Connecticut,@,Cincinnati,L,4,14,28.6,35,0,1,35.3,jack-zergiotis-1
+Mike Glass III,2019-11-12,10,Eastern Michigan,@,Akron,W,20,25,80.0,246,0,0,162.7,mike-glass-iii-1
+Kato Nelson,2019-11-12,10,Akron,,Eastern Michigan,L,20,33,60.6,288,2,1,147.9,kato-nelson-1
+Nathan Rourke,2019-11-12,10,Ohio,,Western Michigan,L,20,29,69.0,225,2,0,156.9,nathan-rourke-1
+Jon Wassink,2019-11-12,11,Western Michigan,@,Ohio,W,23,34,67.6,322,3,0,176.3,jon-wassink-1
+Ross Bowers,2019-11-13,10,Northern Illinois,@,Toledo,W,15,26,57.7,193,1,0,132.7,ross-bowers-1
+Marcus Childers,2019-11-13,10,Northern Illinois,@,Toledo,W,3,3,100.0,29,0,0,181.2,marcus-childers-1
+Brett Gabbert,2019-11-13,10,Miami (OH),,Bowling Green State,W,9,15,60.0,225,3,1,238.7,brett-gabbert-1
+Grant Loy,2019-11-13,10,Bowling Green State,@,Miami (OH),L,11,27,40.7,90,0,3,46.5,grant-loy-1
+Eli Peters,2019-11-13,10,Toledo,,Northern Illinois,L,26,38,68.4,300,3,0,160.8,eli-peters-1
+Jackson Williamson,2019-11-13,10,Miami (OH),,Bowling Green State,W,1,1,100.0,13,0,0,209.2,jackson-williamson-1
+Dustin Crum,2019-11-14,10,Kent State,,Buffalo,W,16,25,64.0,165,2,1,137.8,dustin-crum-1
+Sam Howell,2019-11-14,10,North Carolina,@,Pittsburgh,L,27,43,62.8,322,3,1,144.1,sam-howell-1
+Kenny Pickett,2019-11-14,10,Pittsburgh,,North Carolina,W,25,41,61.0,359,1,0,142.6,kenny-pickett-1
+Kyle Vantrease,2019-11-14,10,Buffalo,@,Kent State,L,9,22,40.9,134,1,0,107.1,kyle-vantrease-1
+Ryan Agnew,2019-11-15,10,San Diego State,,Fresno State,W,33,47,70.2,323,1,1,130.7,ryan-agnew-1
+Aaron Allen,2019-11-15,10,Louisiana Tech,@,Marshall,L,19,32,59.4,159,0,0,101.1,aaron-allen-1
+Westin Elliott,2019-11-15,10,Louisiana Tech,@,Marshall,L,3,6,50.0,35,0,1,65.7,westin-elliott-1
+Isaiah Green,2019-11-15,10,Marshall,,Louisiana Tech,W,14,26,53.8,213,1,1,127.7,isaiah-green-2
+Jorge Reyna,2019-11-15,10,Fresno State,@,San Diego State,L,14,26,53.8,136,0,3,74.7,jorge-reyna-1
+Jack Abraham,2019-11-16,10,Southern Mississippi,@,Texas-San Antonio,W,22,34,64.7,290,2,1,149.9,jack-abraham-1
+Connor Adair,2019-11-16,10,Memphis,@,Houston,W,1,2,50.0,26,0,0,159.2,connor-adair-1
+Josh Adkins,2019-11-16,10,New Mexico State,,Incarnate Word,W,28,38,73.7,316,2,0,160.9,josh-adkins-1
+Raykwon Anderson,2019-11-16,10,Appalachian State,@,Georgia State,W,0,1,0.0,0,0,0,0.0,raykwon-anderson-1
+Kaleb Barker,2019-11-16,10,Troy,@,Texas State,W,30,43,69.8,363,6,0,186.7,kaleb-barker-1
+James Blackman,2019-11-16,11,Florida State,,Alabama State,W,13,22,59.1,246,3,1,188.9,james-blackman-1
+Ian Book,2019-11-16,10,Notre Dame,,Navy,W,14,20,70.0,284,5,0,271.8,ian-book-1
+Lynn Bowden Jr.,2019-11-16,10,Kentucky,@,Vanderbilt,W,8,10,80.0,104,1,0,200.4,lynn-bowden-jr-1
+Charlie Brewer,2019-11-16,10,Baylor,,Oklahoma,L,18,29,62.1,194,2,1,134.1,charlie-brewer-1
+Chase Brice,2019-11-16,11,Clemson,,Wake Forest,W,5,8,62.5,76,1,1,158.6,chase-brice-1
+Andrew Brito,2019-11-16,11,Massachusetts,@,Northwestern,L,6,10,60.0,52,0,0,103.7,andrew-brito-1
+Cornelious Brown,2019-11-16,10,Georgia State,,Appalachian State,L,3,5,60.0,50,0,0,144.0,cornelious-brown-1
+Dru Brown,2019-11-16,10,Oklahoma State,,Kansas,W,3,5,60.0,70,1,0,243.6,dru-brown-1
+Kelly Bryant,2019-11-16,10,Missouri,,Florida,L,25,39,64.1,204,0,1,102.9,kelly-bryant-1
+Joe Burrow,2019-11-16,10,Louisiana State,@,Mississippi,W,32,42,76.2,489,5,2,203.8,joe-burrow-1
+Bryce Carpenter,2019-11-16,10,Coastal Carolina,@,Arkansas State,L,6,10,60.0,30,0,1,65.2,bryce-carpenter-1
+Todd Centeio,2019-11-16,10,Temple,,Tulane,W,4,6,66.7,76,1,0,228.1,todd-centeio-1
+Ryan Chalifoux,2019-11-16,10,Louisville,@,North Carolina State,W,1,1,100.0,7,1,0,488.8,ryan-chalifoux-1
+Chris Chugunov,2019-11-16,10,Ohio State,@,Rutgers,W,5,14,35.7,61,2,0,119.5,chris-chugunov-1
+Blake Clark,2019-11-16,10,Iowa State,,Texas,W,0,1,0.0,0,0,0,0.0,blake-clark-1
+Sean Clifford,2019-11-16,10,Penn State,,Indiana,W,11,23,47.8,179,1,0,127.5,sean-clifford-1
+Jack Coan,2019-11-16,10,Wisconsin,@,Nebraska,W,13,21,61.9,162,1,0,142.4,jack-coan-1
+Henry Colombi,2019-11-16,10,Utah State,,Wyoming,W,3,6,50.0,35,0,0,99.0,henry-colombi-1
+Chevan Cordeiro,2019-11-16,11,Hawaii,@,Nevada-Las Vegas,W,4,9,44.4,46,0,2,42.9,chevan-cordeiro-1
+Matt Corral,2019-11-16,11,Mississippi,,Louisiana State,L,6,11,54.5,89,1,0,152.5,matt-corral-1
+Joe Critchlow,2019-11-16,10,Brigham Young,,Idaho State,W,5,5,100.0,58,0,0,197.4,joe-critchlow-1
+Malik Cunningham,2019-11-16,10,Louisville,@,North Carolina State,W,13,20,65.0,242,4,0,232.6,malik-cunningham-1
+Jayden Daniels,2019-11-16,10,Arizona State,@,Oregon State,L,24,36,66.7,334,3,0,172.1,jayden-daniels-1
+Tommy Devito,2019-11-16,10,Syracuse,@,Duke,W,6,15,40.0,105,2,0,142.8,tommy-devito-1
+Jarret Doege,2019-11-16,10,West Virginia,@,Kansas State,W,20,30,66.7,234,3,0,165.2,jarret-doege-1
+Quinten Dormady,2019-11-16,11,Central Michigan,@,Ball State,W,27,38,71.1,356,0,1,144.5,quinten-dormady-1
+Jett Duffey,2019-11-16,10,Texas Tech,,Texas Christian,L,19,33,57.6,333,4,1,176.3,jett-duffey-1
+Max Duggan,2019-11-16,10,Texas Christian,@,Texas Tech,W,25,42,59.5,323,2,0,139.8,max-duggan-1
+Sam Ehlinger,2019-11-16,10,Texas,@,Iowa State,L,22,40,55.0,273,3,0,137.1,sam-ehlinger-1
+Dan Ellington,2019-11-16,10,Georgia State,,Appalachian State,L,12,27,44.4,88,1,2,69.2,dan-ellington-1
+Caleb Evans,2019-11-16,10,Louisiana-Monroe,@,Georgia Southern,L,21,36,58.3,285,2,2,132.1,caleb-evans-2
+Justin Fields,2019-11-16,10,Ohio State,@,Rutgers,W,15,19,78.9,305,4,0,283.3,justin-fields-2
+Jake Fromm,2019-11-16,10,Georgia,@,Auburn,W,13,28,46.4,110,3,0,114.8,jake-fromm-1
+Chase Garbers,2019-11-16,10,California,,Southern California,L,4,10,40.0,33,0,0,67.7,chase-garbers-1
+Anthony Gordon,2019-11-16,10,Washington State,,Stanford,W,44,60,73.3,520,5,1,170.3,anthony-gordon-2
+James Graham,2019-11-16,10,Georgia Tech,,Virginia Tech,L,7,14,50.0,43,0,2,47.2,james-graham-1
+Grant Gunnell,2019-11-16,10,Arizona,@,Oregon,L,10,14,71.4,82,0,0,120.6,grant-gunnell-1
+Donald Hammond III,2019-11-16,10,Air Force,@,Colorado State,W,5,11,45.5,126,3,1,213.5,donald-hammond-iii-1
+Davin Hardison,2019-11-16,10,Texas-El Paso,@,Alabama-Birmingham,L,16,37,43.2,222,1,0,102.6,davin-hardison-1
+Quentin Harris,2019-11-16,10,Duke,,Syracuse,L,19,36,52.8,157,0,2,78.3,quentin-harris-2
+Taj Harris,2019-11-16,10,Syracuse,@,Duke,W,1,1,100.0,4,0,0,133.6,taj-harris-1
+Layne Hatcher,2019-11-16,10,Arkansas State,,Coastal Carolina,W,24,35,68.6,297,3,2,156.7,layne-hatcher-1
+Jaylon Henderson,2019-11-16,10,Boise State,,New Mexico,W,15,28,53.6,292,3,1,169.4,jaylon-henderson-2
+Justin Herbert,2019-11-16,10,Oregon,,Arizona,W,20,28,71.4,333,4,1,211.3,justin-herbert-1
+Ryan Hilinski,2019-11-16,11,South Carolina,@,Texas A&M,L,16,41,39.0,175,0,0,74.9,ryan-hilinski-1
+Gunnar Hoak,2019-11-16,10,Ohio State,@,Rutgers,W,1,1,100.0,11,0,0,192.4,gunnar-hoak-1
+Hendon Hooker,2019-11-16,10,Virginia Tech,@,Georgia Tech,W,9,13,69.2,159,1,0,197.4,hendon-hooker-1
+Kelvin Hopkins Jr,2019-11-16,11,Army,,Virginia Military Institute,W,4,7,57.1,49,0,1,87.4,kelvin-hopkins-jr-1
+Dylan Hopkins,2019-11-16,10,Alabama-Birmingham,,Texas-El Paso,W,5,10,50.0,96,1,0,163.6,dylan-hopkins-1
+Jacob Huesman,2019-11-16,10,Appalachian State,@,Georgia State,W,2,2,100.0,17,0,0,171.4,jacob-huesman-1
+Tyler Huntley,2019-11-16,10,Utah,,UCLA,W,14,18,77.8,335,2,0,270.8,tyler-huntley-1
+Jalen Hurts,2019-11-16,10,Oklahoma,@,Baylor,W,30,42,71.4,297,4,1,157.5,jalen-hurts-1
+Cam Johnson,2019-11-16,10,Vanderbilt,,Kentucky,L,1,1,100.0,16,0,0,234.4,cam-johnson-2
+Amare Jones,2019-11-16,10,Tulane,@,Temple,L,1,3,33.3,27,0,0,108.9,amare-jones-1
+Emory Jones,2019-11-16,11,Florida,@,Missouri,W,1,1,100.0,48,0,0,503.2,emory-jones-1
+Mac Jones,2019-11-16,10,Alabama,@,Mississippi State,W,7,11,63.6,94,0,0,135.4,mac-jones-1
+Dakereon Joyner,2019-11-16,11,South Carolina,@,Texas A&M,L,3,4,75.0,40,0,0,159.0,dakereon-joyner-1
+Phil Jurkovec,2019-11-16,10,Notre Dame,,Navy,W,2,2,100.0,21,0,0,188.2,phil-jurkovec-1
+Chris Katrenick,2019-11-16,10,Duke,,Syracuse,L,0,4,0.0,0,0,0,0.0,chris-katrenick-1
+Cole Kramer,2019-11-16,10,Minnesota,@,Iowa,L,0,2,0.0,0,0,1,-100.0,cole-kramer-1
+Johnny Langan,2019-11-16,10,Rutgers,,Ohio State,L,12,26,46.2,121,1,2,82.6,johnny-langan-1
+Trevor Lawrence,2019-11-16,11,Clemson,,Wake Forest,W,21,27,77.8,272,4,0,211.3,trevor-lawrence-1
+Devin Leary,2019-11-16,10,North Carolina State,,Louisville,L,24,44,54.5,243,2,1,111.4,devin-leary-1
+Keyon Lesane,2019-11-16,10,North Carolina State,,Louisville,L,0,1,0.0,0,0,0,0.0,keyon-lesane-1
+Brian Lewerke,2019-11-16,10,Michigan State,@,Michigan,L,17,30,56.7,166,1,2,100.8,brian-lewerke-1
+Levi Lewis,2019-11-16,10,Louisiana,@,South Alabama,W,16,29,55.2,136,2,0,117.3,levi-lewis-1
+Kai Locksley,2019-11-16,10,Texas-El Paso,@,Alabama-Birmingham,L,0,4,0.0,0,0,1,-50.0,kai-locksley-1
+Jordan Love,2019-11-16,10,Utah State,,Wyoming,W,18,29,62.1,282,2,2,152.7,jordan-love-2
+Jake Luton,2019-11-16,10,Oregon State,,Arizona State,W,26,35,74.3,288,4,0,181.1,jake-luton-1
+Thomas MacVittie,2019-11-16,10,Kansas,@,Oklahoma State,L,0,1,0.0,0,0,1,-200.0,thomas-macvittie-1
+Adrian Martinez,2019-11-16,10,Nebraska,,Wisconsin,L,13,23,56.5,220,1,1,142.5,adrian-martinez-2
+Jordan McCloud,2019-11-16,10,South Florida,,Cincinnati,L,18,27,66.7,267,1,0,162.0,jordan-mccloud-1
+Cole McDonald,2019-11-16,11,Hawaii,@,Nevada-Las Vegas,W,20,26,76.9,211,0,0,145.1,cole-mcdonald-1
+Justin McMillan,2019-11-16,10,Tulane,@,Temple,L,11,27,40.7,103,0,1,65.4,justin-mcmillan-1
+Manny Miles,2019-11-16,10,Kansas,@,Oklahoma State,L,4,8,50.0,25,0,1,51.3,manny-miles-1
+Davis Mills,2019-11-16,10,Stanford,@,Washington State,L,32,49,65.3,494,3,2,162.0,davis-mills-1
+Devon Modster,2019-11-16,10,California,,Southern California,L,11,22,50.0,95,0,2,68.1,devon-modster-1
+Kellen Mond,2019-11-16,10,Texas A&M,,South Carolina,W,20,33,60.6,221,1,0,126.9,kellen-mond-1
+Tanner Morgan,2019-11-16,10,Minnesota,@,Iowa,L,25,36,69.4,368,1,0,164.5,tanner-morgan-2
+Lowell Narcisse,2019-11-16,10,Texas-San Antonio,,Southern Mississippi,L,21,40,52.5,325,2,1,132.3,lowell-narcisse-1
+Riley Neal,2019-11-16,10,Vanderbilt,,Kentucky,L,10,19,52.6,74,0,1,74.8,riley-neal-1
+Jamie Newman,2019-11-16,10,Wake Forest,@,Clemson,L,6,14,42.9,41,0,2,38.9,jamie-newman-1
+Bo Nix,2019-11-16,10,Auburn,,Georgia,L,30,50,60.0,245,1,0,107.8,bo-nix-1
+Patrick O'Brien,2019-11-16,10,Colorado State,,Air Force,L,28,43,65.1,347,2,1,143.6,patrick-obrien-1
+Asher O'Hara,2019-11-16,10,Middle Tennessee State,,Rice,L,22,31,71.0,338,2,1,177.4,asher-ohara-1
+Kenyon Oblad,2019-11-16,10,Nevada-Las Vegas,,Hawaii,L,10,22,45.5,118,1,2,87.3,kenyon-oblad-1
+Perry Olsen,2019-11-16,9,Navy,@,Notre Dame,L,1,5,20.0,43,1,0,158.2,perry-olsen-1
+Quincy Patterson,2019-11-16,10,Virginia Tech,@,Georgia Tech,W,2,2,100.0,64,0,0,368.8,quincy-patterson-1
+Shea Patterson,2019-11-16,10,Michigan,,Michigan State,W,24,33,72.7,384,4,0,210.5,shea-patterson-1
+Fred Payton,2019-11-16,10,Coastal Carolina,@,Arkansas State,L,11,22,50.0,149,1,1,112.8,fred-payton-1
+Malcolm Perry,2019-11-16,9,Navy,@,Notre Dame,L,3,7,42.9,36,0,0,86.1,malcolm-perry-1
+Drew Plitt,2019-11-16,10,Ball State,,Central Michigan,L,14,25,56.0,268,3,1,177.6,drew-plitt-1
+John Rhys Plumlee,2019-11-16,11,Mississippi,,Louisiana State,L,9,16,56.3,123,0,1,108.3,john-rhys-plumlee-1
+Brock Purdy,2019-11-16,10,Iowa State,,Texas,W,30,48,62.5,354,2,1,134.0,brock-purdy-1
+Peyton Ramsey,2019-11-16,10,Indiana,@,Penn State,L,31,41,75.6,371,1,0,159.7,peyton-ramsey-1
+Desmond Ridder,2019-11-16,10,Cincinnati,@,South Florida,W,9,18,50.0,78,0,0,86.4,desmond-ridder-1
+Tayvion Robinson,2019-11-16,10,Virginia Tech,@,Georgia Tech,W,0,1,0.0,0,0,0,0.0,tayvion-robinson-1
+Anthony Russo,2019-11-16,10,Temple,,Tulane,W,22,38,57.9,221,2,1,118.9,anthony-russo-3
+Spencer Sanders,2019-11-16,10,Oklahoma State,,Kansas,W,12,18,66.7,168,1,0,163.4,spencer-sanders-1
+Khalil Shakir,2019-11-16,10,Boise State,,New Mexico,W,1,1,100.0,2,1,0,446.8,khalil-shakir-1
+Jason Shelley,2019-11-16,10,Utah,,UCLA,W,0,1,0.0,0,0,0,0.0,jason-shelley-2
+Kedon Slovis,2019-11-16,11,Southern California,@,California,W,29,35,82.9,406,4,0,218.0,kedon-slovis-1
+Aiden Smith,2019-11-16,10,Northwestern,,Massachusetts,W,7,13,53.8,76,0,2,72.2,aiden-smith-1
+Sawyer Smith,2019-11-16,10,Kentucky,@,Vanderbilt,W,2,4,50.0,16,0,0,83.6,sawyer-smith-1
+Shi Smith,2019-11-16,11,South Carolina,@,Texas A&M,L,0,1,0.0,0,0,0,0.0,shi-smith-1
+Carter Stanley,2019-11-16,10,Kansas,@,Oklahoma State,L,22,37,59.5,226,2,1,123.2,carter-stanley-1
+Nathan Stanley,2019-11-16,10,Iowa,,Minnesota,W,14,23,60.9,173,2,0,152.7,nathan-stanley-2
+Tommy Stevens,2019-11-16,10,Mississippi State,,Alabama,L,12,21,57.1,82,0,1,80.4,tommy-stevens-1
+Tom Stewart,2019-11-16,10,Rice,@,Middle Tennessee State,W,18,23,78.3,222,3,0,202.4,tom-stewart-1
+Dillon Stoner,2019-11-16,10,Oklahoma State,,Kansas,W,0,1,0.0,0,0,0,0.0,dillon-stoner-1
+Tua Tagovailoa,2019-11-16,10,Alabama,@,Mississippi State,W,14,18,77.8,256,2,0,233.9,tua-tagovailoa-1
+Khalil Tate,2019-11-16,10,Arizona,@,Oregon,L,7,16,43.8,50,0,0,70.0,khalil-tate-1
+Thayer Thomas,2019-11-16,10,North Carolina State,,Louisville,L,0,1,0.0,0,0,0,0.0,thayer-thomas-1
+Zac Thomas,2019-11-16,10,Appalachian State,@,Georgia State,W,19,31,61.3,256,4,1,166.8,zac-thomas-2
+Skylar Thompson,2019-11-16,10,Kansas State,,West Virginia,L,24,39,61.5,299,1,2,124.1,skylar-thompson-1
+Dorian Thompson-Robinson,2019-11-16,10,UCLA,@,Utah,L,20,36,55.6,219,0,2,95.5,dorian-thompson-robinson-1
+Kyle Trask,2019-11-16,11,Florida,@,Missouri,W,23,35,65.7,282,2,0,152.3,kyle-trask-1
+Jordan Travis,2019-11-16,11,Florida State,,Alabama State,W,3,7,42.9,71,0,0,128.1,jordan-travis-1
+Desmond Trotter,2019-11-16,10,South Alabama,,Louisiana,L,8,15,53.3,116,0,0,118.3,desmond-trotter-1
+Tevaka Tuioti,2019-11-16,10,New Mexico,@,Boise State,L,14,21,66.7,175,0,0,136.7,tevaka-tuioti-1
+Clayton Tune,2019-11-16,10,Houston,,Memphis,L,14,22,63.6,157,1,0,138.6,clayton-tune-1
+Tyler Vander Waal,2019-11-16,10,Wyoming,@,Utah State,L,20,36,55.6,185,0,3,82.1,tyler-vander-waal-1
+Tyler Vitt,2019-11-16,10,Texas State,,Troy,L,29,44,65.9,263,2,4,112.9,tyler-vitt-1
+Allan Walters,2019-11-16,10,Vanderbilt,,Kentucky,L,0,4,0.0,0,0,0,0.0,allan-walters-1
+Chance Warren,2019-11-16,9,Navy,@,Notre Dame,L,0,1,0.0,0,0,0,0.0,chance-warren-1
+Gunnar Watson,2019-11-16,10,Troy,@,Texas State,W,3,3,100.0,5,0,0,114.0,gunnar-watson-1
+Shai Werts,2019-11-16,10,Georgia Southern,,Louisiana-Monroe,W,5,10,50.0,80,1,0,150.2,shai-werts-1
+Randall West,2019-11-16,11,Massachusetts,@,Northwestern,L,19,36,52.8,175,0,1,88.1,randall-west-1
+Brady White,2019-11-16,10,Memphis,@,Houston,W,22,33,66.7,341,5,1,197.4,brady-white-1
+Zach Wilson,2019-11-16,10,Brigham Young,,Idaho State,W,19,31,61.3,187,2,1,126.8,zach-wilson-3
+Walker Wood,2019-11-16,10,Kentucky,@,Vanderbilt,W,1,1,100.0,7,0,0,158.8,walker-wood-2
+Jordan Yates,2019-11-16,10,Georgia Tech,,Virginia Tech,L,4,11,36.4,38,0,0,65.4,jordan-yates-1
